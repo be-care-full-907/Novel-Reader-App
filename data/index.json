@@ -476,6 +476,125 @@
       "end_chapter": 5000,
       "chapter_count": 21,
       "updated_at": "2026-09-26T17:10:25Z"
+    },
+    {
+      "bundle_file": "chapters_4980_5029.json",
+      "start_chapter": 4980,
+      "end_chapter": 5029,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:20:19Z"
+    },
+    {
+      "bundle_file": "chapters_5030_5079.json",
+      "start_chapter": 5030,
+      "end_chapter": 5079,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:20:44Z"
+    },
+    {
+      "bundle_file": "chapters_5080_5129.json",
+      "start_chapter": 5080,
+      "end_chapter": 5129,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:21:10Z"
+    },
+    {
+      "bundle_file": "chapters_5130_5179.json",
+      "start_chapter": 5130,
+      "end_chapter": 5179,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:21:35Z"
+    },
+    {
+      "bundle_file": "chapters_5180_5229.json",
+      "start_chapter": 5180,
+      "end_chapter": 5229,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:22:01Z"
+    },
+    {
+      "bundle_file": "chapters_5230_5279.json",
+      "start_chapter": 5230,
+      "end_chapter": 5279,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:22:27Z"
+    },
+    {
+      "bundle_file": "chapters_5280_5329.json",
+      "start_chapter": 5280,
+      "end_chapter": 5329,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:22:52Z"
+    },
+    {
+      "bundle_file": "chapters_5330_5379.json",
+      "start_chapter": 5330,
+      "end_chapter": 5379,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:23:17Z"
+    },
+    {
+      "bundle_file": "chapters_5380_5429.json",
+      "start_chapter": 5380,
+      "end_chapter": 5429,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:23:43Z"
+    },
+    {
+      "bundle_file": "chapters_5430_5479.json",
+      "start_chapter": 5430,
+      "end_chapter": 5479,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:24:08Z"
+    },
+    {
+      "bundle_file": "chapters_5480_5529.json",
+      "start_chapter": 5480,
+      "end_chapter": 5529,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:24:33Z"
+    },
+    {
+      "bundle_file": "chapters_5530_5579.json",
+      "start_chapter": 5530,
+      "end_chapter": 5579,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:24:59Z"
+    },
+    {
+      "bundle_file": "chapters_5580_5629.json",
+      "start_chapter": 5580,
+      "end_chapter": 5629,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:25:24Z"
+    },
+    {
+      "bundle_file": "chapters_5630_5679.json",
+      "start_chapter": 5630,
+      "end_chapter": 5679,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:25:50Z"
+    },
+    {
+      "bundle_file": "chapters_5680_5729.json",
+      "start_chapter": 5680,
+      "end_chapter": 5729,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:26:15Z"
+    },
+    {
+      "bundle_file": "chapters_5730_5779.json",
+      "start_chapter": 5730,
+      "end_chapter": 5779,
+      "chapter_count": 50,
+      "updated_at": "2026-09-27T05:26:41Z"
+    },
+    {
+      "bundle_file": "chapters_5780_5782.json",
+      "start_chapter": 5780,
+      "end_chapter": 5782,
+      "chapter_count": 3,
+      "updated_at": "2026-09-27T05:26:42Z"
     }
   ]
 }
