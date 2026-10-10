@@ -202,65 +202,84 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
         }
     }
 
+    private fun getNovelBundlesDir(novelId: String): java.io.File {
+        val safeNovelId = novelId.replace(Regex("[^a-zA-Z0-9._-]"), "_")
+        val dir = java.io.File(context.filesDir, "downloaded_bundles_$safeNovelId")
+        if (!dir.exists()) dir.mkdirs()
+        return dir
+    }
+
     private val bundlesDir: java.io.File
-        get() {
-            val dir = java.io.File(context.filesDir, "downloaded_bundles")
-            if (!dir.exists()) dir.mkdirs()
-            return dir
-        }
+        get() = getNovelBundlesDir("infinite-mana-in-the-apocalypse")
 
     @JavascriptInterface
-    fun saveBundle(fileName: String, jsonContent: String): Boolean {
+    fun saveNovelBundle(novelId: String, fileName: String, jsonContent: String): Boolean {
         return try {
             val safeName = fileName.replace(Regex("[^a-zA-Z0-9._-]"), "_")
-            val file = java.io.File(bundlesDir, safeName)
+            val file = java.io.File(getNovelBundlesDir(novelId), safeName)
             file.writeText(jsonContent, Charsets.UTF_8)
-            Log.d("TTSBridge", "Successfully saved bundle $safeName (${file.length()} bytes)")
+            Log.d("TTSBridge", "Successfully saved bundle $safeName for novel $novelId (${file.length()} bytes)")
             true
         } catch (e: Exception) {
-            Log.e("TTSBridge", "Failed to save bundle $fileName: ${e.message}")
+            Log.e("TTSBridge", "Failed to save bundle $fileName for novel $novelId: ${e.message}")
             false
         }
     }
 
     @JavascriptInterface
-    fun getBundle(fileName: String): String {
+    fun saveBundle(fileName: String, jsonContent: String): Boolean {
+        return saveNovelBundle("infinite-mana-in-the-apocalypse", fileName, jsonContent)
+    }
+
+    @JavascriptInterface
+    fun getNovelBundle(novelId: String, fileName: String): String {
         return try {
             val safeName = fileName.replace(Regex("[^a-zA-Z0-9._-]"), "_")
-            val file = java.io.File(bundlesDir, safeName)
+            val file = java.io.File(getNovelBundlesDir(novelId), safeName)
             if (file.exists()) {
                 file.readText(Charsets.UTF_8)
             } else {
                 ""
             }
         } catch (e: Exception) {
-            Log.e("TTSBridge", "Failed to read bundle $fileName: ${e.message}")
+            Log.e("TTSBridge", "Failed to read bundle $fileName for novel $novelId: ${e.message}")
             ""
         }
     }
 
     @JavascriptInterface
-    fun deleteBundle(fileName: String): Boolean {
+    fun getBundle(fileName: String): String {
+        return getNovelBundle("infinite-mana-in-the-apocalypse", fileName)
+    }
+
+    @JavascriptInterface
+    fun deleteNovelBundle(novelId: String, fileName: String): Boolean {
         return try {
             val safeName = fileName.replace(Regex("[^a-zA-Z0-9._-]"), "_")
-            val file = java.io.File(bundlesDir, safeName)
+            val file = java.io.File(getNovelBundlesDir(novelId), safeName)
             if (file.exists()) {
                 val deleted = file.delete()
-                Log.d("TTSBridge", "Deleted bundle $safeName: $deleted")
+                Log.d("TTSBridge", "Deleted bundle $safeName for novel $novelId: $deleted")
                 deleted
             } else {
                 true
             }
         } catch (e: Exception) {
-            Log.e("TTSBridge", "Failed to delete bundle $fileName: ${e.message}")
+            Log.e("TTSBridge", "Failed to delete bundle $fileName for novel $novelId: ${e.message}")
             false
         }
     }
 
     @JavascriptInterface
-    fun deleteBundlesInRange(start: Int, end: Int): Boolean {
+    fun deleteBundle(fileName: String): Boolean {
+        return deleteNovelBundle("infinite-mana-in-the-apocalypse", fileName)
+    }
+
+    @JavascriptInterface
+    fun deleteNovelBundlesInRange(novelId: String, start: Int, end: Int): Boolean {
         return try {
-            val files = bundlesDir.listFiles { _, name -> name.endsWith(".json") }
+            val dir = getNovelBundlesDir(novelId)
+            val files = dir.listFiles { _, name -> name.endsWith(".json") }
             var anyDeleted = false
             files?.forEach { file ->
                 val m = Regex("chapters_(\\d+)_(\\d+)\\.json").find(file.name)
@@ -275,23 +294,57 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
             }
             anyDeleted
         } catch (e: Exception) {
-            Log.e("TTSBridge", "Failed to delete bundles in range $start-$end: ${e.message}")
+            Log.e("TTSBridge", "Failed to delete bundles in range $start-$end for novel $novelId: ${e.message}")
             false
         }
     }
 
     @JavascriptInterface
-    fun listSavedBundles(): String {
+    fun deleteBundlesInRange(start: Int, end: Int): Boolean {
+        return deleteNovelBundlesInRange("infinite-mana-in-the-apocalypse", start, end)
+    }
+
+    @JavascriptInterface
+    fun listSavedNovelBundles(novelId: String): String {
         return try {
-            val files = bundlesDir.listFiles { _, name -> name.endsWith(".json") }
+            val dir = getNovelBundlesDir(novelId)
+            val files = dir.listFiles { _, name -> name.endsWith(".json") }
             val array = JSONArray()
             files?.forEach { file ->
                 array.put(file.name)
             }
             array.toString()
         } catch (e: Exception) {
-            Log.e("TTSBridge", "Failed to list saved bundles: ${e.message}")
+            Log.e("TTSBridge", "Failed to list saved bundles for novel $novelId: ${e.message}")
             "[]"
+        }
+    }
+
+    @JavascriptInterface
+    fun listSavedBundles(): String {
+        return listSavedNovelBundles("infinite-mana-in-the-apocalypse")
+    }
+
+    @JavascriptInterface
+    fun getNovelsCatalogJson(): String {
+        return try {
+            context.assets.open("novels.json").bufferedReader().use { it.readText() }
+        } catch (e: Exception) {
+            "[]"
+        }
+    }
+
+    @JavascriptInterface
+    fun getNovelDataJsonForNovel(novelId: String): String {
+        val assetName = if (novelId == "infinite-mana-in-the-apocalypse") {
+            "novel_data.json"
+        } else {
+            "${novelId.replace('-', '_')}_data.json"
+        }
+        return try {
+            context.assets.open(assetName).bufferedReader().use { it.readText() }
+        } catch (e: Exception) {
+            "{}"
         }
     }
 

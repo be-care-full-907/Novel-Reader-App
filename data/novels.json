@@ -1,0 +1,26 @@
+[
+  {
+    "id": "infinite-mana-in-the-apocalypse",
+    "title": "Infinite Mana In The Apocalypse",
+    "author": "Apoorv_Saxena",
+    "cover_url": "https://images.novelping.com/novel/infinite-mana-in-the-apocalypse.jpg",
+    "source_url": "https://novelping.com/book/infinite-mana-in-the-apocalypse",
+    "data_path": "data/",
+    "bundled_file": "novel_data.json",
+    "start_bundle_chapter": 1780,
+    "total_chapters": 5782,
+    "description": "In a world of powers and hunters, Noah Osmont awakens with an Infinite Mana system..."
+  },
+  {
+    "id": "supreme-harem-god-system",
+    "title": "Supreme Harem God System",
+    "author": "SleepDeprivedSloth",
+    "cover_url": "https://images.novelping.com/novel/supreme-harem-god-system.jpg",
+    "source_url": "https://novelping.com/book/supreme-harem-god-system",
+    "data_path": "data/supreme-harem-god-system/",
+    "bundled_file": "supreme_harem_god_system_data.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2410,
+    "description": "Follow the journey of a young man with a unique system across mystical realms and legendary beauties..."
+  }
+]

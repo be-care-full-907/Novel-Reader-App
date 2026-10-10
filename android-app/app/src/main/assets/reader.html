@@ -651,19 +651,111 @@
       color: #fff;
       transform: scale(0.95);
     }
+
+    /* Novel Library Cards */
+    .novel-card {
+      display: flex;
+      gap: 12px;
+      background: var(--surface-color);
+      border: 1.5px solid var(--surface-border);
+      border-radius: 14px;
+      padding: 12px;
+      margin-bottom: 12px;
+      transition: border-color 0.15s ease, transform 0.1s ease;
+      cursor: pointer;
+      position: relative;
+    }
+    .novel-card:active {
+      transform: scale(0.99);
+    }
+    .novel-card.active {
+      border-color: var(--accent-color);
+      box-shadow: 0 0 0 1px var(--accent-color);
+      background: rgba(79, 70, 229, 0.04);
+    }
+    .novel-card-cover {
+      width: 68px;
+      height: 96px;
+      border-radius: 8px;
+      object-fit: cover;
+      background: var(--surface-border);
+      flex-shrink: 0;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+    }
+    .novel-card-cover-placeholder {
+      width: 68px;
+      height: 96px;
+      border-radius: 8px;
+      background: linear-gradient(135deg, #4f46e5, #7c3aed);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-size: 1.5rem;
+      flex-shrink: 0;
+    }
+    .novel-card-info {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      flex: 1;
+      min-width: 0;
+    }
+    .novel-card-title {
+      font-size: 0.92rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 3px;
+      font-family: sans-serif;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .novel-card-author {
+      font-size: 0.74rem;
+      opacity: 0.7;
+      margin-bottom: 5px;
+      font-family: sans-serif;
+    }
+    .novel-card-progress {
+      font-size: 0.75rem;
+      color: var(--accent-color);
+      font-weight: 600;
+      font-family: sans-serif;
+      margin-bottom: 8px;
+    }
+    .novel-card-actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+    .novel-badge-active {
+      background: #059669;
+      color: #fff;
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 6px;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-family: sans-serif;
+    }
   </style>
 </head>
 <body data-theme="sepia">
 
   <!-- Header -->
   <header class="app-header">
-    <div class="header-title-wrap">
-      <span class="header-novel-title" id="novel-title-el">Infinite Mana In The Apocalypse</span>
+    <div class="header-title-wrap" id="header-title-wrap" style="cursor: pointer;" title="Tap to switch novel">
+      <span class="header-novel-title" id="novel-title-el">Infinite Mana In The Apocalypse <span style="font-size: 0.62rem; opacity: 0.65;">▼</span></span>
       <span class="header-chapter-title" id="chapter-title-el">Chapter 1</span>
     </div>
     <div class="header-actions">
       <button class="icon-btn" id="header-mode-toggle" title="Reading Mode: Sentence-wise / Word-wise" style="font-size: 0.88rem; font-weight: 700; padding: 0 8px; min-width: 38px;">📄</button>
-      <button class="icon-btn" id="open-chapters-btn" title="Chapters">📚</button>
+      <button class="icon-btn" id="open-library-btn" title="Novel Library">📚</button>
+      <button class="icon-btn" id="open-chapters-btn" title="Chapters & Downloads">📑</button>
       <button class="icon-btn" id="open-audio-btn" title="TTS Voices">🎙️</button>
       <button class="icon-btn" id="open-settings-btn" title="Appearance">Aa</button>
     </div>
@@ -702,6 +794,40 @@
         <button class="icon-btn" id="next-sentence-btn" title="Forward 1 Sentence">⏩</button>
         <button class="icon-btn" id="next-chapter-btn" title="Next Chapter">⏭</button>
         <button class="audio-tune-chip" id="speed-chip-btn">1.0x</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Novel Library Drawer -->
+  <div class="drawer-overlay" id="library-drawer-overlay">
+    <div class="drawer-content">
+      <div class="drawer-drag-pill"></div>
+      <div class="drawer-header">
+        <h3>📚 Novel Library</h3>
+        <button class="icon-btn close-drawer-btn" id="close-library-drawer">✕</button>
+      </div>
+
+      <div class="drawer-body">
+        <div style="font-family: sans-serif; font-size: 0.82rem; margin-bottom: 12px; opacity: 0.85; line-height: 1.4;">
+          Select a novel to read. Reading progress, offline chapters, and cloud downloads are preserved independently for each novel.
+        </div>
+
+        <div id="novels-catalog-container">
+          <!-- Rendered dynamically -->
+        </div>
+
+        <!-- Add Custom Novel by URL -->
+        <div class="download-bundle-card" style="margin-top: 14px; flex-direction: column; align-items: stretch; gap: 10px; cursor: default;">
+          <div class="download-bundle-title">➕ Add Novel from NovelPing</div>
+          <div style="font-size: 0.78rem; opacity: 0.8; line-height: 1.4;">
+            Enter any novel URL or slug from NovelPing (e.g. <code>https://novelping.com/book/shadow-slave</code> or <code>shadow-slave</code>) to add it to your library:
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <input type="text" id="add-novel-input" class="styled-select" placeholder="https://novelping.com/book/..." style="flex: 1; font-size: 0.82rem; padding: 9px 12px;" />
+            <button class="btn-download" id="add-novel-btn" style="min-width: 70px; padding: 9px 14px; font-size: 0.85rem;">Add ➔</button>
+          </div>
+          <div id="add-novel-msg" style="font-size: 0.76rem; display: none; line-height: 1.35;"></div>
+        </div>
       </div>
     </div>
   </div>
@@ -919,6 +1045,64 @@
 
   <script>
     // State
+    const DEFAULT_NOVELS = [
+      {
+        id: "infinite-mana-in-the-apocalypse",
+        title: "Infinite Mana In The Apocalypse",
+        author: "Apoorv_Saxena",
+        cover_url: "https://images.novelping.com/novel/infinite-mana-in-the-apocalypse.jpg",
+        source_url: "https://novelping.com/book/infinite-mana-in-the-apocalypse",
+        data_path: "data/",
+        bundled_file: "novel_data.json",
+        start_bundle_chapter: 1780,
+        total_chapters: 5782,
+        description: "In a world of powers and hunters, Noah Osmont awakens with an Infinite Mana system..."
+      },
+      {
+        id: "supreme-harem-god-system",
+        title: "Supreme Harem God System",
+        author: "SleepDeprivedSloth",
+        cover_url: "https://images.novelping.com/novel/supreme-harem-god-system.jpg",
+        source_url: "https://novelping.com/book/supreme-harem-god-system",
+        data_path: "data/supreme-harem-god-system/",
+        bundled_file: "supreme_harem_god_system_data.json",
+        start_bundle_chapter: 1,
+        total_chapters: 2410,
+        description: "Follow the journey of a young man with a unique system across mystical realms and legendary beauties..."
+      }
+    ];
+
+    let novelsCatalog = [...DEFAULT_NOVELS];
+    let activeNovelId = localStorage.getItem('active_novel_id') || 'infinite-mana-in-the-apocalypse';
+
+    function initNovelsCatalog() {
+      // 1. Try loading from Android assets via TTSBridge
+      if (typeof window.AndroidTTS !== 'undefined' && window.AndroidTTS.getNovelsCatalogJson) {
+        try {
+          const list = JSON.parse(window.AndroidTTS.getNovelsCatalogJson() || '[]');
+          if (Array.isArray(list) && list.length > 0) {
+            novelsCatalog = list;
+          }
+        } catch(e) {}
+      }
+      // 2. Merge custom added novels from localStorage
+      try {
+        const custom = JSON.parse(localStorage.getItem('custom_novels') || '[]');
+        if (Array.isArray(custom)) {
+          custom.forEach(cn => {
+            if (!novelsCatalog.some(n => n.id === cn.id)) {
+              novelsCatalog.push(cn);
+            }
+          });
+        }
+      } catch(e) {}
+    }
+    initNovelsCatalog();
+
+    function getActiveNovel() {
+      return novelsCatalog.find(n => n.id === activeNovelId) || novelsCatalog[0];
+    }
+
     let novelBundle = null;
     let currentChapterIndex = 0;
     let sentences = [];
@@ -944,6 +1128,7 @@
     const readerContent = document.getElementById('reader-content');
     const novelTitleEl = document.getElementById('novel-title-el');
     const chapterTitleEl = document.getElementById('chapter-title-el');
+    const headerTitleWrap = document.getElementById('header-title-wrap');
     const mainChapterTitle = document.getElementById('main-chapter-title');
     const mainChapterMeta = document.getElementById('main-chapter-meta');
 
@@ -955,9 +1140,16 @@
     const progressTrack = document.getElementById('progress-track');
     const speedChipBtn = document.getElementById('speed-chip-btn');
 
+    const libraryDrawerOverlay = document.getElementById('library-drawer-overlay');
     const chaptersDrawerOverlay = document.getElementById('chapters-drawer-overlay');
     const audioDrawerOverlay = document.getElementById('audio-drawer-overlay');
     const settingsDrawerOverlay = document.getElementById('settings-drawer-overlay');
+
+    const openLibraryBtn = document.getElementById('open-library-btn');
+    const novelsCatalogContainer = document.getElementById('novels-catalog-container');
+    const addNovelInput = document.getElementById('add-novel-input');
+    const addNovelBtn = document.getElementById('add-novel-btn');
+    const addNovelMsg = document.getElementById('add-novel-msg');
 
     const chaptersListContainer = document.getElementById('chapters-list-container');
     const voiceSelect = document.getElementById('voice-select');
@@ -1109,12 +1301,12 @@
       };
     }
 
-    // Multi-tier Persistent Storage Engine:
+    // Multi-tier Persistent Storage Engine with Multi-Novel Isolation:
     // Tier 1: Native Android filesystem via TTSBridge (unlimited, zero quota limit)
     // Tier 2: IndexedDB (standard web database, hundreds of MBs quota)
     // Tier 3: In-memory & localStorage fallback with automatic legacy migration
     const ChapterStore = {
-      isNative: () => !!(hasAndroidTTS && window.AndroidTTS && window.AndroidTTS.saveBundle),
+      isNative: () => !!(hasAndroidTTS && window.AndroidTTS && (window.AndroidTTS.saveNovelBundle || window.AndroidTTS.saveBundle)),
       dbPromise: null,
 
       initDB() {
@@ -1145,12 +1337,17 @@
         return this.dbPromise;
       },
 
-      async saveBundle(fileName, rawJsonText, chapters) {
+      async saveBundle(fileName, rawJsonText, chapters, novelId = activeNovelId) {
         // 1. Native Android Storage
         if (this.isNative()) {
           try {
-            const ok = window.AndroidTTS.saveBundle(fileName, rawJsonText);
-            if (ok) return true;
+            if (window.AndroidTTS.saveNovelBundle) {
+              const ok = window.AndroidTTS.saveNovelBundle(novelId, fileName, rawJsonText);
+              if (ok) return true;
+            } else if (window.AndroidTTS.saveBundle && novelId === 'infinite-mana-in-the-apocalypse') {
+              const ok = window.AndroidTTS.saveBundle(fileName, rawJsonText);
+              if (ok) return true;
+            }
           } catch (e) {
             console.error("Native saveBundle error:", e);
           }
@@ -1163,7 +1360,8 @@
             await new Promise((resolve, reject) => {
               const tx = db.transaction('bundles', 'readwrite');
               const store = tx.objectStore('bundles');
-              const req = store.put({ fileName, chapters, savedAt: Date.now() });
+              const recordKey = `${novelId}__${fileName}`;
+              const req = store.put({ fileName: recordKey, baseName: fileName, novelId, chapters, savedAt: Date.now() });
               req.onsuccess = () => resolve();
               req.onerror = () => reject(req.error);
             });
@@ -1175,7 +1373,7 @@
 
         // 3. Fallback: individual key in localStorage (if small enough)
         try {
-          localStorage.setItem(`bundle_${fileName}`, rawJsonText);
+          localStorage.setItem(`bundle_${novelId}_${fileName}`, rawJsonText);
           return true;
         } catch (e) {
           console.warn("localStorage quota exceeded for single bundle:", e);
@@ -1184,22 +1382,38 @@
         return false;
       },
 
-      async loadAllChapters() {
+      async loadAllChapters(novelId = activeNovelId) {
         const chaptersMap = new Map();
 
         // 1. Native Android Storage
         if (this.isNative()) {
           try {
-            const listStr = window.AndroidTTS.listSavedBundles();
-            const list = JSON.parse(listStr || '[]');
-            for (const fn of list) {
-              const content = window.AndroidTTS.getBundle(fn);
-              if (content) {
-                try {
-                  const data = JSON.parse(content);
-                  const chList = data.chapters || (Array.isArray(data) ? data : []);
-                  chList.forEach(c => chaptersMap.set(c.chapter_index, c));
-                } catch (e) {}
+            let list = [];
+            if (window.AndroidTTS.listSavedNovelBundles) {
+              const listStr = window.AndroidTTS.listSavedNovelBundles(novelId);
+              list = JSON.parse(listStr || '[]');
+              for (const fn of list) {
+                const content = window.AndroidTTS.getNovelBundle(novelId, fn);
+                if (content) {
+                  try {
+                    const data = JSON.parse(content);
+                    const chList = data.chapters || (Array.isArray(data) ? data : []);
+                    chList.forEach(c => chaptersMap.set(c.chapter_index, c));
+                  } catch (e) {}
+                }
+              }
+            } else if (window.AndroidTTS.listSavedBundles && novelId === 'infinite-mana-in-the-apocalypse') {
+              const listStr = window.AndroidTTS.listSavedBundles();
+              list = JSON.parse(listStr || '[]');
+              for (const fn of list) {
+                const content = window.AndroidTTS.getBundle(fn);
+                if (content) {
+                  try {
+                    const data = JSON.parse(content);
+                    const chList = data.chapters || (Array.isArray(data) ? data : []);
+                    chList.forEach(c => chaptersMap.set(c.chapter_index, c));
+                  } catch (e) {}
+                }
               }
             }
           } catch (e) {
@@ -1220,7 +1434,12 @@
             });
             records.forEach(rec => {
               if (rec && Array.isArray(rec.chapters)) {
-                rec.chapters.forEach(c => chaptersMap.set(c.chapter_index, c));
+                const isMatch = rec.novelId === novelId || 
+                  (rec.fileName && rec.fileName.startsWith(`${novelId}__`)) ||
+                  (!rec.novelId && !rec.fileName.includes('__') && novelId === 'infinite-mana-in-the-apocalypse');
+                if (isMatch) {
+                  rec.chapters.forEach(c => chaptersMap.set(c.chapter_index, c));
+                }
               }
             });
           } catch (e) {
@@ -1230,48 +1449,59 @@
 
         // 3. Check individual bundle keys in localStorage
         try {
+          const prefix = `bundle_${novelId}_`;
           for (let i = 0; i < localStorage.length; i++) {
             const k = localStorage.key(i);
-            if (k && k.startsWith('bundle_')) {
-              try {
-                const data = JSON.parse(localStorage.getItem(k) || '{}');
-                const chList = data.chapters || (Array.isArray(data) ? data : []);
-                chList.forEach(c => chaptersMap.set(c.chapter_index, c));
-              } catch (_) {}
+            if (k) {
+              const isMatch = k.startsWith(prefix) || 
+                (novelId === 'infinite-mana-in-the-apocalypse' && k.startsWith('bundle_chapters_') && !k.includes('_god_system_'));
+              if (isMatch) {
+                try {
+                  const data = JSON.parse(localStorage.getItem(k) || '{}');
+                  const chList = data.chapters || (Array.isArray(data) ? data : []);
+                  chList.forEach(c => chaptersMap.set(c.chapter_index, c));
+                } catch (_) {}
+              }
             }
           }
         } catch (_) {}
 
-        // 4. One-time Migration from legacy localStorage['downloaded_chapters']
-        try {
-          const legacyStr = localStorage.getItem('downloaded_chapters');
-          if (legacyStr) {
-            const legacy = JSON.parse(legacyStr);
-            if (Array.isArray(legacy) && legacy.length > 0) {
-              console.log(`Migrating ${legacy.length} legacy chapters from localStorage...`);
-              legacy.forEach(c => chaptersMap.set(c.chapter_index, c));
-              const legacyJson = JSON.stringify({ chapters: legacy });
-              await this.saveBundle('migrated_legacy_bundle.json', legacyJson, legacy);
-              localStorage.removeItem('downloaded_chapters');
-              console.log("Legacy chapters migrated and localStorage freed.");
+        // 4. One-time Migration from legacy localStorage['downloaded_chapters'] (Infinite Mana only)
+        if (novelId === 'infinite-mana-in-the-apocalypse') {
+          try {
+            const legacyStr = localStorage.getItem('downloaded_chapters');
+            if (legacyStr) {
+              const legacy = JSON.parse(legacyStr);
+              if (Array.isArray(legacy) && legacy.length > 0) {
+                console.log(`Migrating ${legacy.length} legacy chapters from localStorage...`);
+                legacy.forEach(c => chaptersMap.set(c.chapter_index, c));
+                const legacyJson = JSON.stringify({ chapters: legacy });
+                await this.saveBundle('migrated_legacy_bundle.json', legacyJson, legacy, 'infinite-mana-in-the-apocalypse');
+                localStorage.removeItem('downloaded_chapters');
+                console.log("Legacy chapters migrated and localStorage freed.");
+              }
             }
+          } catch (e) {
+            console.warn("Migration error:", e);
           }
-        } catch (e) {
-          console.warn("Migration error:", e);
         }
 
         return Array.from(chaptersMap.values()).sort((a,b) => a.chapter_index - b.chapter_index);
       },
 
-      async deleteBundles(start, end) {
+      async deleteBundles(start, end, novelId = activeNovelId) {
         // 1. Native Android Storage
         if (this.isNative()) {
           try {
-            if (window.AndroidTTS.deleteBundlesInRange) {
-              window.AndroidTTS.deleteBundlesInRange(start, end);
+            if (window.AndroidTTS.deleteNovelBundlesInRange) {
+              window.AndroidTTS.deleteNovelBundlesInRange(novelId, start, end);
             }
-            if (window.AndroidTTS.deleteBundle) {
-              window.AndroidTTS.deleteBundle(`chapters_${start}_${end}.json`);
+            if (window.AndroidTTS.deleteNovelBundle) {
+              window.AndroidTTS.deleteNovelBundle(novelId, `chapters_${start}_${end}.json`);
+            }
+            if (novelId === 'infinite-mana-in-the-apocalypse') {
+              if (window.AndroidTTS.deleteBundlesInRange) window.AndroidTTS.deleteBundlesInRange(start, end);
+              if (window.AndroidTTS.deleteBundle) window.AndroidTTS.deleteBundle(`chapters_${start}_${end}.json`);
             }
           } catch (e) {
             console.error("Native deleteBundles error:", e);
@@ -1293,14 +1523,19 @@
             const store2 = tx2.objectStore('bundles');
             records.forEach(rec => {
               if (rec && Array.isArray(rec.chapters)) {
-                const overlaps = rec.chapters.some(c => c.chapter_index >= start && c.chapter_index <= end);
-                if (overlaps) {
-                  const remaining = rec.chapters.filter(c => c.chapter_index < start || c.chapter_index > end);
-                  if (remaining.length === 0) {
-                    store2.delete(rec.fileName);
-                  } else {
-                    rec.chapters = remaining;
-                    store2.put(rec);
+                const isMatch = rec.novelId === novelId || 
+                  (rec.fileName && rec.fileName.startsWith(`${novelId}__`)) ||
+                  (!rec.novelId && !rec.fileName.includes('__') && novelId === 'infinite-mana-in-the-apocalypse');
+                if (isMatch) {
+                  const overlaps = rec.chapters.some(c => c.chapter_index >= start && c.chapter_index <= end);
+                  if (overlaps) {
+                    const remaining = rec.chapters.filter(c => c.chapter_index < start || c.chapter_index > end);
+                    if (remaining.length === 0) {
+                      store2.delete(rec.fileName);
+                    } else {
+                      rec.chapters = remaining;
+                      store2.put(rec);
+                    }
                   }
                 }
               }
@@ -1313,10 +1548,13 @@
         // 3. Clean any bundle_ keys in localStorage
         try {
           const toRemove = [];
+          const prefix = `bundle_${novelId}_`;
           for (let i = 0; i < localStorage.length; i++) {
             const k = localStorage.key(i);
-            if (k && k.startsWith('bundle_')) {
-              toRemove.push(k);
+            if (k) {
+              const isMatch = k.startsWith(prefix) || 
+                (novelId === 'infinite-mana-in-the-apocalypse' && k.startsWith('bundle_chapters_') && !k.includes('_god_system_'));
+              if (isMatch) toRemove.push(k);
             }
           }
           toRemove.forEach(k => {
@@ -1332,64 +1570,170 @@
       }
     };
 
-    // Load bundled novel data
-    async function loadNovelData() {
+    // Switch to another novel
+    async function switchNovel(novelId) {
+      if (novelId === activeNovelId && novelBundle) {
+        window.closeAllDrawers();
+        return;
+      }
+      stopTTS();
+      activeNovelId = novelId;
+      try {
+        localStorage.setItem('active_novel_id', activeNovelId);
+      } catch(e) {}
+      window.closeAllDrawers();
+      await loadNovelData(novelId);
+    }
+
+    // Load bundled novel data for active novel
+    async function loadNovelData(targetNovelId = activeNovelId) {
+      activeNovelId = targetNovelId;
+      const curNovel = getActiveNovel();
+      novelTitleEl.innerHTML = `${curNovel.title} <span style="font-size: 0.62rem; opacity: 0.65;">▼</span>`;
+      mainChapterTitle.textContent = "Loading Chapter...";
+      mainChapterMeta.textContent = `Loading ${curNovel.title}...`;
+      readerContent.innerHTML = `<div style="text-align:center; padding: 3rem 1rem; opacity:0.6; font-size:0.9rem;">Loading ${curNovel.title}...</div>`;
+
       try {
         let text = "";
-        if (hasAndroidTTS && window.AndroidTTS.getNovelDataJson) {
+        if (hasAndroidTTS && window.AndroidTTS.getNovelDataJsonForNovel) {
+          text = window.AndroidTTS.getNovelDataJsonForNovel(activeNovelId);
+        } else if (hasAndroidTTS && window.AndroidTTS.getNovelDataJson && activeNovelId === 'infinite-mana-in-the-apocalypse') {
           text = window.AndroidTTS.getNovelDataJson();
         } else {
-          const res = await fetch('novel_data.json');
-          text = await res.text();
+          const fileToFetch = curNovel.bundled_file || (activeNovelId === 'infinite-mana-in-the-apocalypse' ? 'novel_data.json' : `${activeNovelId.replace(/-/g, '_')}_data.json`);
+          try {
+            const res = await fetch(fileToFetch);
+            if (res.ok) text = await res.text();
+          } catch(e) {
+            console.warn("fetch base novel error:", e);
+          }
         }
-        novelBundle = JSON.parse(text);
+
+        if (text && text.trim().startsWith('{')) {
+          novelBundle = JSON.parse(text);
+        } else {
+          novelBundle = null;
+        }
       } catch (err) {
-        console.error("Failed to load novel_data.json:", err);
+        console.error(`Failed to load base data for ${activeNovelId}:`, err);
+        novelBundle = null;
       }
 
-      // Load all downloaded chapters from ChapterStore (unlimited storage)
+      if (!novelBundle) {
+        novelBundle = {
+          novel: { title: curNovel.title, author: curNovel.author },
+          bundled_chapters: []
+        };
+      }
+      if (!Array.isArray(novelBundle.bundled_chapters)) {
+        novelBundle.bundled_chapters = [];
+      }
+
+      // Load all downloaded chapters from ChapterStore for this novel
       try {
-        const extraChapters = await ChapterStore.loadAllChapters();
-        if (extraChapters.length > 0 && novelBundle) {
+        const extraChapters = await ChapterStore.loadAllChapters(activeNovelId);
+        if (extraChapters.length > 0) {
           const existingIds = new Set(novelBundle.bundled_chapters.map(c => c.chapter_index));
           extraChapters.forEach(c => {
             if (!existingIds.has(c.chapter_index)) {
               novelBundle.bundled_chapters.push(c);
             }
           });
-          // sort by chapter_index
           novelBundle.bundled_chapters.sort((a,b) => a.chapter_index - b.chapter_index);
         }
       } catch(e) {
         console.error("Failed to load extra chapters:", e);
       }
 
-      if (novelBundle && novelBundle.bundled_chapters.length > 0) {
-        novelTitleEl.textContent = novelBundle.novel.title;
-
-        // Restore last read chapter & sentence
-        const savedChNum = parseInt(localStorage.getItem('last_read_chapter_num') || '-1', 10);
-        const savedChIdx = parseInt(localStorage.getItem('last_read_chapter_index') || '0', 10);
-        let resumeIdx = 0;
-        if (savedChNum > 0) {
-          const found = novelBundle.bundled_chapters.findIndex(c => c.chapter_index === savedChNum);
-          if (found !== -1) resumeIdx = found;
-        } else if (savedChIdx >= 0 && savedChIdx < novelBundle.bundled_chapters.length) {
-          resumeIdx = savedChIdx;
-        }
-
-        renderChapter(resumeIdx);
-
-        const savedSentIdx = parseInt(localStorage.getItem('last_read_sentence_index') || '0', 10);
-        if (savedSentIdx > 0 && savedSentIdx < sentences.length) {
-          currentSentenceIdx = savedSentIdx;
-          highlightSentence(savedSentIdx);
-          updateProgress();
-        }
-
-        renderChaptersList();
-        loadCloudManifest().then(() => renderCloudBundles());
+      // If novel has no chapters yet, show helpful placeholder
+      if (novelBundle.bundled_chapters.length === 0) {
+        novelBundle.bundled_chapters.push({
+          chapter_index: curNovel.start_bundle_chapter || 1,
+          title: `Welcome to ${curNovel.title}`,
+          paragraphs: [
+            `No offline chapters are currently saved for "${curNovel.title}".`,
+            `Tap the 📑 Chapters icon above and switch to "☁️ Download Bundles" to download chapters directly from GitHub or launch the on-demand Cloud Runner.`
+          ],
+          sentences: [
+            { id: 0, text: `No offline chapters are currently saved for ${curNovel.title}.` },
+            { id: 1, text: `Tap Chapters and Downloads to download chapters.` }
+          ]
+        });
       }
+
+      novelTitleEl.innerHTML = `${novelBundle.novel?.title || curNovel.title} <span style="font-size: 0.62rem; opacity: 0.65;">▼</span>`;
+
+      // Restore last read chapter & sentence for this novel
+      const savedChNum = parseInt(localStorage.getItem(`last_read_chapter_num_${activeNovelId}`) || (activeNovelId === 'infinite-mana-in-the-apocalypse' ? localStorage.getItem('last_read_chapter_num') : '-1') || '-1', 10);
+      const savedChIdx = parseInt(localStorage.getItem(`last_read_chapter_index_${activeNovelId}`) || (activeNovelId === 'infinite-mana-in-the-apocalypse' ? localStorage.getItem('last_read_chapter_index') : '0') || '0', 10);
+      let resumeIdx = 0;
+      if (savedChNum > 0) {
+        const found = novelBundle.bundled_chapters.findIndex(c => c.chapter_index === savedChNum);
+        if (found !== -1) resumeIdx = found;
+      } else if (savedChIdx >= 0 && savedChIdx < novelBundle.bundled_chapters.length) {
+        resumeIdx = savedChIdx;
+      }
+
+      renderChapter(resumeIdx);
+
+      const savedSentIdx = parseInt(localStorage.getItem(`last_read_sentence_index_${activeNovelId}`) || (activeNovelId === 'infinite-mana-in-the-apocalypse' ? localStorage.getItem('last_read_sentence_index') : '0') || '0', 10);
+      if (savedSentIdx > 0 && savedSentIdx < sentences.length) {
+        currentSentenceIdx = savedSentIdx;
+        highlightSentence(savedSentIdx);
+        updateProgress();
+      }
+
+      renderChaptersList();
+      renderNovelsCatalog();
+      loadCloudManifest().then(() => renderCloudBundles());
+    }
+
+    // Render Novel Library Catalog
+    function renderNovelsCatalog() {
+      if (!novelsCatalogContainer) return;
+      novelsCatalogContainer.innerHTML = '';
+
+      novelsCatalog.forEach(n => {
+        const card = document.createElement('div');
+        card.className = `novel-card ${n.id === activeNovelId ? 'active' : ''}`;
+        card.dataset.novelId = n.id;
+
+        const savedChNum = parseInt(localStorage.getItem(`last_read_chapter_num_${n.id}`) || (n.id === 'infinite-mana-in-the-apocalypse' ? localStorage.getItem('last_read_chapter_num') : '-1') || '-1', 10);
+
+        card.innerHTML = `
+          <img class="novel-card-cover" src="${n.cover_url || ''}" alt="${n.title}" onerror="this.onerror=null; this.src='https://placehold.co/100x150/4f46e5/ffffff?text=${encodeURIComponent(n.title.slice(0, 10))}';" />
+          <div class="novel-card-info">
+            <div>
+              <div class="novel-card-title">${n.title}</div>
+              <div class="novel-card-author">By ${n.author || 'Author'} • ${n.total_chapters || '2400+'} Chapters</div>
+            </div>
+            <div class="novel-card-progress">
+              ${savedChNum > 0 ? `📖 Reading: Chapter ${savedChNum}` : `📖 Not started (Tap to read)`}
+            </div>
+            <div class="novel-card-actions">
+              ${n.id === activeNovelId
+                ? `<span class="novel-badge-active">✓ Currently Reading</span>`
+                : `<button class="btn-download btn-switch-novel" data-novel-id="${n.id}" style="padding: 7px 14px; font-size: 0.8rem;">Read Novel ➔</button>`
+              }
+            </div>
+          </div>
+        `;
+
+        card.onclick = () => {
+          switchNovel(n.id);
+        };
+
+        const switchBtn = card.querySelector('.btn-switch-novel');
+        if (switchBtn) {
+          switchBtn.onclick = (e) => {
+            e.stopPropagation();
+            switchNovel(n.id);
+          };
+        }
+
+        novelsCatalogContainer.appendChild(card);
+      });
     }
 
     function getChapterDisplayName(ch) {
@@ -1519,16 +1863,34 @@
       });
     }
 
+    // Base Repository URL Helper for Active Novel
+    function getActiveNovelBaseUrl() {
+      const curNovel = getActiveNovel();
+      const defaultRepoBase = 'https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/';
+      let customInput = (document.getElementById('cloud-source-url')?.value || '').trim();
+
+      let repoBase = defaultRepoBase;
+      if (customInput && customInput !== 'data/' && customInput !== 'data') {
+        repoBase = customInput;
+        const m = repoBase.match(/^(https:\/\/[^/]+\/[^/]+\/[^/]+\/[^/]+\/)/);
+        if (m) repoBase = m[1];
+      }
+      if (!repoBase.endsWith('/')) repoBase += '/';
+
+      let novelPath = curNovel.data_path || 'data/';
+      if (novelPath.startsWith('/')) novelPath = novelPath.substring(1);
+      if (!novelPath.endsWith('/')) novelPath += '/';
+
+      return `${repoBase}${novelPath}`;
+    }
+
     // Cloud Manifest Cache
     let cloudManifestBundles = [];
 
     async function loadCloudManifest() {
-      const defaultBase = 'https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/data/';
-      let baseUrl = (document.getElementById('cloud-source-url').value || '').trim();
-      if (!baseUrl || baseUrl === 'data/' || baseUrl === 'data') {
-        baseUrl = defaultBase;
-      }
-      const manifestUrl = `${baseUrl.endsWith('/') ? baseUrl : baseUrl + '/'}index.json?t=${Date.now()}`;
+      const baseUrl = getActiveNovelBaseUrl();
+      const manifestUrl = `${baseUrl}index.json?t=${Date.now()}`;
+      cloudManifestBundles = [];
       try {
         let text = '';
         if (hasAndroidTTS && window.AndroidTTS && window.AndroidTTS.downloadUrl) {
@@ -1545,7 +1907,7 @@
           if (data && Array.isArray(data.bundles)) {
             cloudManifestBundles = data.bundles;
             try {
-              localStorage.setItem('cached_cloud_manifest', JSON.stringify(data.bundles));
+              localStorage.setItem(`cached_cloud_manifest_${activeNovelId}`, JSON.stringify(data.bundles));
             } catch (_) {}
           }
         }
@@ -1554,7 +1916,7 @@
       }
       if (!cloudManifestBundles.length) {
         try {
-          cloudManifestBundles = JSON.parse(localStorage.getItem('cached_cloud_manifest') || '[]');
+          cloudManifestBundles = JSON.parse(localStorage.getItem(`cached_cloud_manifest_${activeNovelId}`) || '[]');
         } catch (_) {}
       }
     }
@@ -1564,15 +1926,16 @@
       const confirmed = window.confirm(`Delete Chapters ${start}–${end} from your offline device storage?\n\nYou can re-download this bundle anytime from GitHub.`);
       if (!confirmed) return;
 
-      // 1. Remove from persistent ChapterStore
-      await ChapterStore.deleteBundles(start, end);
+      // 1. Remove from persistent ChapterStore for current activeNovelId
+      await ChapterStore.deleteBundles(start, end, activeNovelId);
 
       // 2. Remove from active novelBundle.bundled_chapters
       if (novelBundle && Array.isArray(novelBundle.bundled_chapters)) {
         novelBundle.bundled_chapters = novelBundle.bundled_chapters.filter(c => c.chapter_index < start || c.chapter_index > end);
         if (novelBundle.bundled_chapters.length === 0) {
+          const curNovel = getActiveNovel();
           novelBundle.bundled_chapters = [{
-            chapter_index: 1,
+            chapter_index: curNovel.start_bundle_chapter || 1,
             title: "Chapter 1",
             paragraphs: ["All downloaded chapters have been removed. Open Download Bundles to install chapters."],
             sentences: [{ id: 0, text: "All downloaded chapters have been removed. Open Download Bundles to install chapters." }]
@@ -1605,12 +1968,13 @@
       }
     }
 
-    // Render Cloud Bundles UI (1780 to 5800+ in 50-chapter bundles)
+    // Render Cloud Bundles UI for Active Novel
     function renderCloudBundles() {
       bundlesListContainer.innerHTML = '';
-      
-      // Determine max chapter to display: at least 5050, or higher if manifest has higher chapters
-      let maxChapter = 5050;
+      const curNovel = getActiveNovel();
+      const startChapterMin = curNovel.start_bundle_chapter !== undefined ? curNovel.start_bundle_chapter : 1;
+      let maxChapter = curNovel.total_chapters || (startChapterMin + 500);
+
       if (cloudManifestBundles && cloudManifestBundles.length > 0) {
         const highestInManifest = Math.max(...cloudManifestBundles.map(b => b.end_chapter || 0));
         if (highestInManifest > maxChapter) {
@@ -1619,7 +1983,7 @@
       }
 
       const presetBundles = [];
-      for (let s = 1780; s <= maxChapter; s += 50) {
+      for (let s = startChapterMin; s <= maxChapter; s += 50) {
         const e = Math.min(s + 49, maxChapter);
         presetBundles.push({
           start: s,
@@ -1630,6 +1994,15 @@
 
       const localChapters = novelBundle?.bundled_chapters || [];
       const localIndexes = new Set(localChapters.map(c => c.chapter_index));
+
+      // Update custom chapter inputs default to current novel
+      const customStart = document.getElementById('custom-start-ch');
+      const customEnd = document.getElementById('custom-end-ch');
+      if (customStart && customEnd && (!customStart.dataset.novel || customStart.dataset.novel !== activeNovelId)) {
+        customStart.dataset.novel = activeNovelId;
+        customStart.value = startChapterMin;
+        customEnd.value = Math.min(startChapterMin + 49, maxChapter);
+      }
 
       presetBundles.forEach(b => {
         const card = document.createElement('div');
@@ -1644,11 +2017,12 @@
         const isFullyInstalled = presentCount === totalInBundle;
         const isPartiallyInstalled = presentCount > 0 && presentCount < totalInBundle;
 
-        // Check if bundle exists on GitHub (from manifest or known repo range)
+        // Check if bundle exists on GitHub (from manifest or known range)
         const isAvailableCloud = cloudManifestBundles.some(mb => 
           (mb.start_chapter <= b.start && mb.end_chapter >= b.end) ||
           (mb.bundle_file === `chapters_${b.start}_${b.end}.json`)
-        ) || (b.start >= 1780 && b.end <= 5800);
+        ) || (activeNovelId === 'infinite-mana-in-the-apocalypse' && b.start >= 1780 && b.end <= 5800)
+          || (activeNovelId === 'supreme-harem-god-system' && b.start === 1 && b.end === 50);
 
         let actionHtml = '';
         let subText = `GitHub Action Bundle • Ch. ${b.start}-${b.end}`;
@@ -1732,7 +2106,8 @@
         ref: "main",
         inputs: {
           start_chapter: String(start),
-          end_chapter: String(end)
+          end_chapter: String(end),
+          novel_id: String(activeNovelId)
         }
       });
 
@@ -1766,12 +2141,7 @@
       }
       const totalCount = end - start + 1;
       const statusBanner = document.getElementById('cloud-status-banner');
-      const defaultBase = 'https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/data/';
-      let baseUrl = (document.getElementById('cloud-source-url').value || '').trim();
-      if (!baseUrl || baseUrl === 'data/' || baseUrl === 'data') {
-        baseUrl = defaultBase;
-        document.getElementById('cloud-source-url').value = defaultBase;
-      }
+      const baseUrl = getActiveNovelBaseUrl();
 
       const updateBanner = (msg, bg, col) => {
         if (!statusBanner) return;
@@ -1783,7 +2153,7 @@
 
       // Helper to fetch any JSON file from repository
       async function fetchJsonFromRepo(fileName) {
-        const fullUrl = `${baseUrl.endsWith('/') ? baseUrl : baseUrl + '/'}${fileName}?t=${Date.now()}`;
+        const fullUrl = `${baseUrl}${fileName}?t=${Date.now()}`;
         if (hasAndroidTTS && window.AndroidTTS && window.AndroidTTS.downloadUrl) {
           const nativeRes = window.AndroidTTS.downloadUrl(fullUrl);
           if (nativeRes.startsWith("HTTP_ERROR:") || nativeRes.startsWith("EXCEPTION:")) {
@@ -1877,10 +2247,13 @@
         candidateBundles = cloudManifestBundles.filter(b => b.start_chapter <= end && b.end_chapter >= start);
       }
       
-      // Fallback: If manifest wasn't reachable, check standard 50-grid for any requested range >= 1780
-      if (candidateBundles.length === 0 && start >= 1780) {
+      // Fallback: If manifest wasn't reachable, check standard 50-grid
+      if (candidateBundles.length === 0) {
+        const curNovel = getActiveNovel();
+        const startMin = curNovel.start_bundle_chapter !== undefined ? curNovel.start_bundle_chapter : 1;
         const gridStart = Math.floor(start / 50) * 50;
-        for (let s = gridStart; s <= end; s += 50) {
+        const actualGridStart = Math.max(gridStart, startMin);
+        for (let s = actualGridStart; s <= end; s += 50) {
           const e = s + 49;
           candidateBundles.push({
             bundle_file: `chapters_${s}_${e}.json`,
@@ -1937,9 +2310,9 @@
 
       if (!ghToken) {
         updateBanner(
-          `⚠️ <strong>Chapters ${start}–${end} (${totalCount} ch) are not yet in the cloud repository.</strong><br>` +
+          `⚠️ <strong>Chapters ${start}–${end} (${totalCount} ch) are not yet in the cloud repository for [${getActiveNovel().title}].</strong><br>` +
           `To trigger the GitHub Action runner automatically from your phone, paste your GitHub Personal Access Token in the <strong>⚡ On-Demand Cloud Runner</strong> box above.<br>` +
-          `<span style="font-size:0.75rem; opacity:0.85;">Or run from PC terminal: <code>gh workflow run fetch_chapters.yml -f start_chapter=${start} -f end_chapter=${end}</code></span>`,
+          `<span style="font-size:0.75rem; opacity:0.85;">Or run from PC terminal: <code>gh workflow run fetch_chapters.yml -f start_chapter=${start} -f end_chapter=${end} -f novel_id=${activeNovelId}</code></span>`,
           'rgba(245, 158, 11, 0.15)',
           '#b45309'
         );
@@ -1970,7 +2343,7 @@
 
         updateBanner(
           `⏳ <strong>GitHub Action Runner Started!</strong><br>` +
-          `Scraping & committing Chapters ${start}–${end} in cloud...<br>` +
+          `Scraping & committing Chapters ${start}–${end} for [${getActiveNovel().title}] in cloud...<br>` +
           `<span style="font-size:0.75rem;">Elapsed: 0s (~45s expected) • Polling GitHub every 6s...</span>`,
           'rgba(79, 70, 229, 0.15)',
           'var(--accent-color)'
@@ -2073,17 +2446,90 @@
       pullBundle(s, e, document.getElementById('custom-pull-btn'));
     };
 
+    // Add Custom Novel by URL or Slug
+    if (addNovelBtn && addNovelInput) {
+      addNovelBtn.onclick = () => {
+        let val = (addNovelInput.value || '').trim();
+        if (!val) {
+          if (addNovelMsg) {
+            addNovelMsg.style.display = 'block';
+            addNovelMsg.style.color = '#ef4444';
+            addNovelMsg.textContent = 'Please enter a NovelPing URL or novel slug.';
+          }
+          return;
+        }
+
+        let slug = val;
+        const m = val.match(/novelping\.com\/book\/([^/?#]+)/i);
+        if (m) slug = m[1];
+        slug = slug.toLowerCase().replace(/[^a-z0-9_-]/g, '-').replace(/^-+|-+$/g, '');
+
+        if (!slug) {
+          if (addNovelMsg) {
+            addNovelMsg.style.display = 'block';
+            addNovelMsg.style.color = '#ef4444';
+            addNovelMsg.textContent = 'Invalid novel URL or slug format.';
+          }
+          return;
+        }
+
+        const titleWords = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        const exists = novelsCatalog.some(n => n.id === slug);
+        if (exists) {
+          switchNovel(slug);
+          addNovelInput.value = '';
+          if (addNovelMsg) {
+            addNovelMsg.style.display = 'block';
+            addNovelMsg.style.color = '#059669';
+            addNovelMsg.textContent = `Switched to "${titleWords}"!`;
+          }
+          setTimeout(() => { if (addNovelMsg) addNovelMsg.style.display = 'none'; }, 3000);
+          return;
+        }
+
+        const newNovel = {
+          id: slug,
+          title: titleWords,
+          author: "NovelPing",
+          cover_url: `https://images.novelping.com/novel/${slug}.jpg`,
+          source_url: `https://novelping.com/book/${slug}`,
+          data_path: `data/${slug}/`,
+          bundled_file: `${slug.replace(/-/g, '_')}_data.json`,
+          start_bundle_chapter: 1,
+          total_chapters: 3000,
+          description: `Web novel from NovelPing.`
+        };
+
+        novelsCatalog.push(newNovel);
+        try {
+          const custom = JSON.parse(localStorage.getItem('custom_novels') || '[]');
+          custom.push(newNovel);
+          localStorage.setItem('custom_novels', JSON.stringify(custom));
+        } catch(e) {}
+
+        renderNovelsCatalog();
+        switchNovel(slug);
+        addNovelInput.value = '';
+        if (addNovelMsg) {
+          addNovelMsg.style.display = 'block';
+          addNovelMsg.style.color = '#059669';
+          addNovelMsg.textContent = `Added "${titleWords}" and loaded into library!`;
+        }
+        setTimeout(() => { if (addNovelMsg) addNovelMsg.style.display = 'none'; }, 3500);
+      };
+    }
+
     async function integrateFetchedChapters(newChapters, fileName, rawJsonText) {
       if (!newChapters || newChapters.length === 0) return;
 
-      // 1. Save to persistent multi-tier ChapterStore (Native Android or IndexedDB)
+      // 1. Save to persistent multi-tier ChapterStore for active novel
       if (!fileName) {
         const s = newChapters[0].chapter_index;
         const e = newChapters[newChapters.length - 1].chapter_index;
         fileName = `chapters_${s}_${e}.json`;
       }
       const rawText = rawJsonText || JSON.stringify({ chapters: newChapters });
-      await ChapterStore.saveBundle(fileName, rawText, newChapters);
+      await ChapterStore.saveBundle(fileName, rawText, newChapters, activeNovelId);
 
       // 2. Merge into active in-memory bundle
       const activeMap = new Map();
@@ -2095,6 +2541,7 @@
 
       renderChaptersList();
       renderCloudBundles();
+      renderNovelsCatalog();
     }
 
     function createSentenceSpan(text, globalIdx) {
@@ -2136,9 +2583,15 @@
       mainChapterTitle.textContent = displayTitle;
 
       try {
-        localStorage.setItem('last_read_chapter_index', chIndex.toString());
+        localStorage.setItem(`last_read_chapter_index_${activeNovelId}`, chIndex.toString());
         if (chapter.chapter_index !== undefined) {
-          localStorage.setItem('last_read_chapter_num', chapter.chapter_index.toString());
+          localStorage.setItem(`last_read_chapter_num_${activeNovelId}`, chapter.chapter_index.toString());
+        }
+        if (activeNovelId === 'infinite-mana-in-the-apocalypse') {
+          localStorage.setItem('last_read_chapter_index', chIndex.toString());
+          if (chapter.chapter_index !== undefined) {
+            localStorage.setItem('last_read_chapter_num', chapter.chapter_index.toString());
+          }
         }
       } catch(e){}
 
@@ -2323,7 +2776,10 @@
       highlightSentence(idx);
       clearActiveWord();
       try {
-        localStorage.setItem('last_read_sentence_index', idx.toString());
+        localStorage.setItem(`last_read_sentence_index_${activeNovelId}`, idx.toString());
+        if (activeNovelId === 'infinite-mana-in-the-apocalypse') {
+          localStorage.setItem('last_read_sentence_index', idx.toString());
+        }
       } catch(e){}
 
       updateProgress();
@@ -2516,6 +2972,21 @@
       });
       document.body.classList.remove('modal-open');
     };
+
+    if (openLibraryBtn) {
+      openLibraryBtn.onclick = (e) => {
+        e.stopPropagation();
+        renderNovelsCatalog();
+        window.openDrawer('library-drawer-overlay');
+      };
+    }
+    if (headerTitleWrap) {
+      headerTitleWrap.onclick = (e) => {
+        e.stopPropagation();
+        renderNovelsCatalog();
+        window.openDrawer('library-drawer-overlay');
+      };
+    }
 
     document.getElementById('open-chapters-btn').onclick = (e) => {
       e.stopPropagation();

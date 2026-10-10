@@ -4,13 +4,17 @@ on:
   workflow_dispatch:
     inputs:
       start_chapter:
-        description: 'Start Chapter Number (e.g. 1780)'
+        description: 'Start Chapter Number (e.g. 1)'
         required: true
-        default: '1780'
+        default: '1'
       end_chapter:
-        description: 'End Chapter Number (e.g. 1829 for a 50-chapter bundle)'
+        description: 'End Chapter Number (e.g. 50)'
         required: true
-        default: '1829'
+        default: '50'
+      novel_id:
+        description: 'Novel ID / Slug (e.g. supreme-harem-god-system or infinite-mana-in-the-apocalypse)'
+        required: false
+        default: 'infinite-mana-in-the-apocalypse'
 
 permissions:
   contents: write
@@ -34,6 +38,7 @@ jobs:
       - name: Fetch and Bundle Chapters
         run: |
           python scripts/github_chapter_fetcher.py \
+            --novel-id ${{ github.event.inputs.novel_id }} \
             --start ${{ github.event.inputs.start_chapter }} \
             --end ${{ github.event.inputs.end_chapter }} \
             --output-dir data
@@ -43,4 +48,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || (git commit -m "Add Chapter Bundle ${{ github.event.inputs.start_chapter }}-${{ github.event.inputs.end_chapter }}" && git push)
+          git diff --staged --quiet || (git commit -m "Add Chapter Bundle [${{ github.event.inputs.novel_id }}] ${{ github.event.inputs.start_chapter }}-${{ github.event.inputs.end_chapter }}" && git push)

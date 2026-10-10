@@ -141,15 +141,19 @@ class NovelScraper:
         """
         soup = BeautifulSoup(raw_html, "html.parser")
 
-        # Extract title
-        title_el = soup.select_one("h2, h3, .chapter-title, .chr-title")
+        # Extract title (avoid selecting 'Novel info' sidebar heading)
+        title_el = soup.select_one(".chr-title, .chr-text, .chapter-title, h1.chapter-title, h3.title")
+        if not title_el:
+            # Fallback to general headings if not 'Novel info'
+            for h in soup.select("h1, h2, h3"):
+                txt = h.get_text(strip=True)
+                if txt.lower() not in ["novel info", "book info", "description", "options"]:
+                    title_el = h
+                    break
         chapter_title = title_el.get_text(strip=True) if title_el else ""
 
         # Content container
         content_container = soup.select_one("#chr-content, .chapter-content, .reading-content, #chapter-content, .chapter-inner, .entry-content")
-        if not content_container:
-            content_container = soup.select_one("div.content, article, main, .text-left")
-
         if not content_container:
             return {"title": chapter_title, "paragraphs": [], "sentences": []}
 
