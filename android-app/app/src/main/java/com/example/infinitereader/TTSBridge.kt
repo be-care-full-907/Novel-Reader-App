@@ -202,6 +202,99 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
         }
     }
 
+    private val bundlesDir: java.io.File
+        get() {
+            val dir = java.io.File(context.filesDir, "downloaded_bundles")
+            if (!dir.exists()) dir.mkdirs()
+            return dir
+        }
+
+    @JavascriptInterface
+    fun saveBundle(fileName: String, jsonContent: String): Boolean {
+        return try {
+            val safeName = fileName.replace(Regex("[^a-zA-Z0-9._-]"), "_")
+            val file = java.io.File(bundlesDir, safeName)
+            file.writeText(jsonContent, Charsets.UTF_8)
+            Log.d("TTSBridge", "Successfully saved bundle $safeName (${file.length()} bytes)")
+            true
+        } catch (e: Exception) {
+            Log.e("TTSBridge", "Failed to save bundle $fileName: ${e.message}")
+            false
+        }
+    }
+
+    @JavascriptInterface
+    fun getBundle(fileName: String): String {
+        return try {
+            val safeName = fileName.replace(Regex("[^a-zA-Z0-9._-]"), "_")
+            val file = java.io.File(bundlesDir, safeName)
+            if (file.exists()) {
+                file.readText(Charsets.UTF_8)
+            } else {
+                ""
+            }
+        } catch (e: Exception) {
+            Log.e("TTSBridge", "Failed to read bundle $fileName: ${e.message}")
+            ""
+        }
+    }
+
+    @JavascriptInterface
+    fun deleteBundle(fileName: String): Boolean {
+        return try {
+            val safeName = fileName.replace(Regex("[^a-zA-Z0-9._-]"), "_")
+            val file = java.io.File(bundlesDir, safeName)
+            if (file.exists()) {
+                val deleted = file.delete()
+                Log.d("TTSBridge", "Deleted bundle $safeName: $deleted")
+                deleted
+            } else {
+                true
+            }
+        } catch (e: Exception) {
+            Log.e("TTSBridge", "Failed to delete bundle $fileName: ${e.message}")
+            false
+        }
+    }
+
+    @JavascriptInterface
+    fun deleteBundlesInRange(start: Int, end: Int): Boolean {
+        return try {
+            val files = bundlesDir.listFiles { _, name -> name.endsWith(".json") }
+            var anyDeleted = false
+            files?.forEach { file ->
+                val m = Regex("chapters_(\\d+)_(\\d+)\\.json").find(file.name)
+                if (m != null) {
+                    val s = m.groupValues[1].toInt()
+                    val e = m.groupValues[2].toInt()
+                    if (s <= end && e >= start) {
+                        file.delete()
+                        anyDeleted = true
+                    }
+                }
+            }
+            anyDeleted
+        } catch (e: Exception) {
+            Log.e("TTSBridge", "Failed to delete bundles in range $start-$end: ${e.message}")
+            false
+        }
+    }
+
+    @JavascriptInterface
+    fun listSavedBundles(): String {
+        return try {
+            val files = bundlesDir.listFiles { _, name -> name.endsWith(".json") }
+            val array = JSONArray()
+            files?.forEach { file ->
+                array.put(file.name)
+            }
+            array.toString()
+        } catch (e: Exception) {
+            Log.e("TTSBridge", "Failed to list saved bundles: ${e.message}")
+            "[]"
+        }
+    }
+
     fun shutdown() {
         tts?.stop()
         try {

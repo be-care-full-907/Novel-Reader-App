@@ -1109,6 +1109,229 @@
       };
     }
 
+    // Multi-tier Persistent Storage Engine:
+    // Tier 1: Native Android filesystem via TTSBridge (unlimited, zero quota limit)
+    // Tier 2: IndexedDB (standard web database, hundreds of MBs quota)
+    // Tier 3: In-memory & localStorage fallback with automatic legacy migration
+    const ChapterStore = {
+      isNative: () => !!(hasAndroidTTS && window.AndroidTTS && window.AndroidTTS.saveBundle),
+      dbPromise: null,
+
+      initDB() {
+        if (this.dbPromise) return this.dbPromise;
+        if (!window.indexedDB) {
+          this.dbPromise = Promise.resolve(null);
+          return this.dbPromise;
+        }
+        this.dbPromise = new Promise((resolve) => {
+          try {
+            const req = window.indexedDB.open('InfiniteReaderDB', 1);
+            req.onupgradeneeded = (e) => {
+              const db = e.target.result;
+              if (!db.objectStoreNames.contains('bundles')) {
+                db.createObjectStore('bundles', { keyPath: 'fileName' });
+              }
+            };
+            req.onsuccess = () => resolve(req.result);
+            req.onerror = (e) => {
+              console.warn("IndexedDB open error:", e);
+              resolve(null);
+            };
+          } catch (e) {
+            console.warn("IndexedDB init exception:", e);
+            resolve(null);
+          }
+        });
+        return this.dbPromise;
+      },
+
+      async saveBundle(fileName, rawJsonText, chapters) {
+        // 1. Native Android Storage
+        if (this.isNative()) {
+          try {
+            const ok = window.AndroidTTS.saveBundle(fileName, rawJsonText);
+            if (ok) return true;
+          } catch (e) {
+            console.error("Native saveBundle error:", e);
+          }
+        }
+
+        // 2. IndexedDB
+        const db = await this.initDB();
+        if (db) {
+          try {
+            await new Promise((resolve, reject) => {
+              const tx = db.transaction('bundles', 'readwrite');
+              const store = tx.objectStore('bundles');
+              const req = store.put({ fileName, chapters, savedAt: Date.now() });
+              req.onsuccess = () => resolve();
+              req.onerror = () => reject(req.error);
+            });
+            return true;
+          } catch (e) {
+            console.warn("IndexedDB saveBundle error:", e);
+          }
+        }
+
+        // 3. Fallback: individual key in localStorage (if small enough)
+        try {
+          localStorage.setItem(`bundle_${fileName}`, rawJsonText);
+          return true;
+        } catch (e) {
+          console.warn("localStorage quota exceeded for single bundle:", e);
+        }
+
+        return false;
+      },
+
+      async loadAllChapters() {
+        const chaptersMap = new Map();
+
+        // 1. Native Android Storage
+        if (this.isNative()) {
+          try {
+            const listStr = window.AndroidTTS.listSavedBundles();
+            const list = JSON.parse(listStr || '[]');
+            for (const fn of list) {
+              const content = window.AndroidTTS.getBundle(fn);
+              if (content) {
+                try {
+                  const data = JSON.parse(content);
+                  const chList = data.chapters || (Array.isArray(data) ? data : []);
+                  chList.forEach(c => chaptersMap.set(c.chapter_index, c));
+                } catch (e) {}
+              }
+            }
+          } catch (e) {
+            console.error("Native loadAllChapters error:", e);
+          }
+        }
+
+        // 2. IndexedDB
+        const db = await this.initDB();
+        if (db) {
+          try {
+            const records = await new Promise((resolve) => {
+              const tx = db.transaction('bundles', 'readonly');
+              const store = tx.objectStore('bundles');
+              const req = store.getAll();
+              req.onsuccess = () => resolve(req.result || []);
+              req.onerror = () => resolve([]);
+            });
+            records.forEach(rec => {
+              if (rec && Array.isArray(rec.chapters)) {
+                rec.chapters.forEach(c => chaptersMap.set(c.chapter_index, c));
+              }
+            });
+          } catch (e) {
+            console.warn("IndexedDB load error:", e);
+          }
+        }
+
+        // 3. Check individual bundle keys in localStorage
+        try {
+          for (let i = 0; i < localStorage.length; i++) {
+            const k = localStorage.key(i);
+            if (k && k.startsWith('bundle_')) {
+              try {
+                const data = JSON.parse(localStorage.getItem(k) || '{}');
+                const chList = data.chapters || (Array.isArray(data) ? data : []);
+                chList.forEach(c => chaptersMap.set(c.chapter_index, c));
+              } catch (_) {}
+            }
+          }
+        } catch (_) {}
+
+        // 4. One-time Migration from legacy localStorage['downloaded_chapters']
+        try {
+          const legacyStr = localStorage.getItem('downloaded_chapters');
+          if (legacyStr) {
+            const legacy = JSON.parse(legacyStr);
+            if (Array.isArray(legacy) && legacy.length > 0) {
+              console.log(`Migrating ${legacy.length} legacy chapters from localStorage...`);
+              legacy.forEach(c => chaptersMap.set(c.chapter_index, c));
+              const legacyJson = JSON.stringify({ chapters: legacy });
+              await this.saveBundle('migrated_legacy_bundle.json', legacyJson, legacy);
+              localStorage.removeItem('downloaded_chapters');
+              console.log("Legacy chapters migrated and localStorage freed.");
+            }
+          }
+        } catch (e) {
+          console.warn("Migration error:", e);
+        }
+
+        return Array.from(chaptersMap.values()).sort((a,b) => a.chapter_index - b.chapter_index);
+      },
+
+      async deleteBundles(start, end) {
+        // 1. Native Android Storage
+        if (this.isNative()) {
+          try {
+            if (window.AndroidTTS.deleteBundlesInRange) {
+              window.AndroidTTS.deleteBundlesInRange(start, end);
+            }
+            if (window.AndroidTTS.deleteBundle) {
+              window.AndroidTTS.deleteBundle(`chapters_${start}_${end}.json`);
+            }
+          } catch (e) {
+            console.error("Native deleteBundles error:", e);
+          }
+        }
+
+        // 2. IndexedDB
+        const db = await this.initDB();
+        if (db) {
+          try {
+            const records = await new Promise((resolve) => {
+              const tx = db.transaction('bundles', 'readonly');
+              const store = tx.objectStore('bundles');
+              const req = store.getAll();
+              req.onsuccess = () => resolve(req.result || []);
+              req.onerror = () => resolve([]);
+            });
+            const tx2 = db.transaction('bundles', 'readwrite');
+            const store2 = tx2.objectStore('bundles');
+            records.forEach(rec => {
+              if (rec && Array.isArray(rec.chapters)) {
+                const overlaps = rec.chapters.some(c => c.chapter_index >= start && c.chapter_index <= end);
+                if (overlaps) {
+                  const remaining = rec.chapters.filter(c => c.chapter_index < start || c.chapter_index > end);
+                  if (remaining.length === 0) {
+                    store2.delete(rec.fileName);
+                  } else {
+                    rec.chapters = remaining;
+                    store2.put(rec);
+                  }
+                }
+              }
+            });
+          } catch (e) {
+            console.warn("IndexedDB delete error:", e);
+          }
+        }
+
+        // 3. Clean any bundle_ keys in localStorage
+        try {
+          const toRemove = [];
+          for (let i = 0; i < localStorage.length; i++) {
+            const k = localStorage.key(i);
+            if (k && k.startsWith('bundle_')) {
+              toRemove.push(k);
+            }
+          }
+          toRemove.forEach(k => {
+            try {
+              const data = JSON.parse(localStorage.getItem(k) || '{}');
+              const chList = data.chapters || [];
+              if (chList.some(c => c.chapter_index >= start && c.chapter_index <= end)) {
+                localStorage.removeItem(k);
+              }
+            } catch (_) {}
+          });
+        } catch (_) {}
+      }
+    };
+
     // Load bundled novel data
     async function loadNovelData() {
       try {
@@ -1124,9 +1347,9 @@
         console.error("Failed to load novel_data.json:", err);
       }
 
-      // Check localStorage for any downloaded chapters
+      // Load all downloaded chapters from ChapterStore (unlimited storage)
       try {
-        const extraChapters = JSON.parse(localStorage.getItem('downloaded_chapters') || '[]');
+        const extraChapters = await ChapterStore.loadAllChapters();
         if (extraChapters.length > 0 && novelBundle) {
           const existingIds = new Set(novelBundle.bundled_chapters.map(c => c.chapter_index));
           extraChapters.forEach(c => {
@@ -1137,7 +1360,9 @@
           // sort by chapter_index
           novelBundle.bundled_chapters.sort((a,b) => a.chapter_index - b.chapter_index);
         }
-      } catch(e){}
+      } catch(e) {
+        console.error("Failed to load extra chapters:", e);
+      }
 
       if (novelBundle && novelBundle.bundled_chapters.length > 0) {
         novelTitleEl.textContent = novelBundle.novel.title;
@@ -1335,19 +1560,12 @@
     }
 
     // In-app Bundle Deletion to free device storage
-    function deleteBundle(start, end) {
+    async function deleteBundle(start, end) {
       const confirmed = window.confirm(`Delete Chapters ${start}–${end} from your offline device storage?\n\nYou can re-download this bundle anytime from GitHub.`);
       if (!confirmed) return;
 
-      // 1. Remove from downloaded_chapters in localStorage
-      let stored = [];
-      try {
-        stored = JSON.parse(localStorage.getItem('downloaded_chapters') || '[]');
-      } catch (e) {
-        stored = [];
-      }
-      stored = stored.filter(c => c.chapter_index < start || c.chapter_index > end);
-      localStorage.setItem('downloaded_chapters', JSON.stringify(stored));
+      // 1. Remove from persistent ChapterStore
+      await ChapterStore.deleteBundles(start, end);
 
       // 2. Remove from active novelBundle.bundled_chapters
       if (novelBundle && Array.isArray(novelBundle.bundled_chapters)) {
@@ -1387,7 +1605,7 @@
       }
     }
 
-    // Render Cloud Bundles UI (1780 to 5050 in 50-chapter bundles)
+    // Render Cloud Bundles UI (1780 to 5800+ in 50-chapter bundles)
     function renderCloudBundles() {
       bundlesListContainer.innerHTML = '';
       
@@ -1410,28 +1628,45 @@
         });
       }
 
+      const localChapters = novelBundle?.bundled_chapters || [];
+      const localIndexes = new Set(localChapters.map(c => c.chapter_index));
+
       presetBundles.forEach(b => {
         const card = document.createElement('div');
         card.className = 'download-bundle-card';
 
         // Check if bundle is present in local library
-        const isPresentLocal = novelBundle && novelBundle.bundled_chapters &&
-          novelBundle.bundled_chapters.some(c => c.chapter_index >= b.start && c.chapter_index <= b.end);
+        let presentCount = 0;
+        for (let i = b.start; i <= b.end; i++) {
+          if (localIndexes.has(i)) presentCount++;
+        }
+        const totalInBundle = b.end - b.start + 1;
+        const isFullyInstalled = presentCount === totalInBundle;
+        const isPartiallyInstalled = presentCount > 0 && presentCount < totalInBundle;
 
-        // Check if bundle exists on GitHub (from manifest or known 1780-5000 repo range)
+        // Check if bundle exists on GitHub (from manifest or known repo range)
         const isAvailableCloud = cloudManifestBundles.some(mb => 
           (mb.start_chapter <= b.start && mb.end_chapter >= b.end) ||
           (mb.bundle_file === `chapters_${b.start}_${b.end}.json`)
-        ) || (b.start >= 1780 && b.end <= 5000);
+        ) || (b.start >= 1780 && b.end <= 5800);
 
         let actionHtml = '';
         let subText = `GitHub Action Bundle • Ch. ${b.start}-${b.end}`;
 
-        if (isPresentLocal) {
-          subText += ' • <span style="color:#059669; font-weight:700;">In Library</span>';
+        if (isFullyInstalled) {
+          subText += ` • <span style="color:#059669; font-weight:700;">In Library (${totalInBundle} ch)</span>`;
           actionHtml = `
             <div style="display:flex; gap:6px; align-items:center; flex-shrink:0;">
               <button class="btn-download installed" data-start="${b.start}" data-end="${b.end}">✅ Read</button>
+              <button class="btn-delete-bundle" data-start="${b.start}" data-end="${b.end}" title="Delete from device storage">🗑️</button>
+            </div>
+          `;
+        } else if (isPartiallyInstalled) {
+          subText += ` • <span style="color:#059669; font-weight:700;">In Library (${presentCount}/${totalInBundle} ch)</span>`;
+          actionHtml = `
+            <div style="display:flex; gap:6px; align-items:center; flex-shrink:0;">
+              <button class="btn-download installed" data-start="${b.start}" data-end="${b.end}">✅ Read</button>
+              <button class="btn-download" data-start="${b.start}" data-end="${b.end}" style="padding: 7px 10px; font-size: 0.78rem;">⬇ +${totalInBundle - presentCount}</button>
               <button class="btn-delete-bundle" data-start="${b.start}" data-end="${b.end}" title="Delete from device storage">🗑️</button>
             </div>
           `;
@@ -1483,7 +1718,7 @@
         }
 
         card.onclick = (e) => {
-          if (isPresentLocal && readBtn) readBtn.click();
+          if (isFullyInstalled && readBtn) readBtn.click();
           else if (dlBtn) dlBtn.click();
         };
 
@@ -1608,11 +1843,17 @@
       const exactFileName = `chapters_${start}_${end}.json`;
       const initialFetch = await fetchJsonFromRepo(exactFileName);
       if (initialFetch.ok) {
+        let parsedData = null;
         try {
-          const data = JSON.parse(initialFetch.text);
-          if (data && data.chapters && data.chapters.length > 0) {
-            integrateFetchedChapters(data.chapters);
-            updateBanner(`✅ Successfully imported ${data.chapters.length} chapters (${start}–${end}) into library!`, 'rgba(16, 185, 129, 0.15)', '#059669');
+          parsedData = JSON.parse(initialFetch.text);
+        } catch(e) {
+          console.error("JSON parse error for exact file:", e);
+        }
+
+        if (parsedData && parsedData.chapters && parsedData.chapters.length > 0) {
+          try {
+            await integrateFetchedChapters(parsedData.chapters, exactFileName, initialFetch.text);
+            updateBanner(`✅ Successfully imported ${parsedData.chapters.length} chapters (${start}–${end}) into library!`, 'rgba(16, 185, 129, 0.15)', '#059669');
             renderCloudBundles();
             const targetChIdx = novelBundle.bundled_chapters.findIndex(c => c.chapter_index === start);
             setTimeout(() => {
@@ -1621,9 +1862,12 @@
               window.closeAllDrawers();
             }, 800);
             return;
+          } catch(storageErr) {
+            console.error("Storage error:", storageErr);
+            updateBanner(`❌ Failed to save chapters to storage: ${storageErr.message}`, 'rgba(239, 68, 68, 0.15)', '#dc2626');
+            if (btnEl) { btnEl.disabled = false; btnEl.textContent = 'Retry ⬇'; }
+            return;
           }
-        } catch(e) {
-          console.error("JSON parse error:", e);
         }
       }
 
@@ -1633,17 +1877,16 @@
         candidateBundles = cloudManifestBundles.filter(b => b.start_chapter <= end && b.end_chapter >= start);
       }
       
-      // Fallback: If manifest wasn't reachable, check standard 50-grid from 1780 to 5000
-      if (candidateBundles.length === 0 && start >= 1780 && end <= 5000) {
-        for (let s = 1780; s <= 5000; s += 50) {
-          const e = Math.min(s + 49, 5000);
-          if (s <= end && e >= start) {
-            candidateBundles.push({
-              bundle_file: `chapters_${s}_${e}.json`,
-              start_chapter: s,
-              end_chapter: e
-            });
-          }
+      // Fallback: If manifest wasn't reachable, check standard 50-grid for any requested range >= 1780
+      if (candidateBundles.length === 0 && start >= 1780) {
+        const gridStart = Math.floor(start / 50) * 50;
+        for (let s = gridStart; s <= end; s += 50) {
+          const e = s + 49;
+          candidateBundles.push({
+            bundle_file: `chapters_${s}_${e}.json`,
+            start_chapter: s,
+            end_chapter: e
+          });
         }
       }
 
@@ -1658,11 +1901,11 @@
             try {
               const data = JSON.parse(bundleFetch.text);
               if (data && data.chapters && data.chapters.length > 0) {
-                integrateFetchedChapters(data.chapters);
+                await integrateFetchedChapters(data.chapters, mb.bundle_file, bundleFetch.text);
                 importedAny = true;
               }
             } catch(e) {
-              console.error(`Error parsing ${mb.bundle_file}:`, e);
+              console.error(`Error processing ${mb.bundle_file}:`, e);
             }
           }
         }
@@ -1755,7 +1998,7 @@
             try {
               const data = JSON.parse(pollFetch.text);
               if (data && data.chapters && data.chapters.length > 0) {
-                integrateFetchedChapters(data.chapters);
+                await integrateFetchedChapters(data.chapters, exactFileName, pollFetch.text);
                 gotData = true;
               }
             } catch(e) {}
@@ -1768,7 +2011,7 @@
                 try {
                   const data = JSON.parse(chunkFetch.text);
                   if (data && data.chapters && data.chapters.length > 0) {
-                    integrateFetchedChapters(data.chapters);
+                    await integrateFetchedChapters(data.chapters, mb.bundle_file, chunkFetch.text);
                     gotData = true;
                   }
                 } catch(e) {}
@@ -1830,22 +2073,28 @@
       pullBundle(s, e, document.getElementById('custom-pull-btn'));
     };
 
-    function integrateFetchedChapters(newChapters) {
-      const stored = JSON.parse(localStorage.getItem('downloaded_chapters') || '[]');
-      const existingMap = new Map();
-      stored.forEach(c => existingMap.set(c.chapter_index, c));
-      newChapters.forEach(c => existingMap.set(c.chapter_index, c));
-      
-      const allExtra = Array.from(existingMap.values()).sort((a,b) => a.chapter_index - b.chapter_index);
-      localStorage.setItem('downloaded_chapters', JSON.stringify(allExtra));
+    async function integrateFetchedChapters(newChapters, fileName, rawJsonText) {
+      if (!newChapters || newChapters.length === 0) return;
 
-      // Merge into active bundle
+      // 1. Save to persistent multi-tier ChapterStore (Native Android or IndexedDB)
+      if (!fileName) {
+        const s = newChapters[0].chapter_index;
+        const e = newChapters[newChapters.length - 1].chapter_index;
+        fileName = `chapters_${s}_${e}.json`;
+      }
+      const rawText = rawJsonText || JSON.stringify({ chapters: newChapters });
+      await ChapterStore.saveBundle(fileName, rawText, newChapters);
+
+      // 2. Merge into active in-memory bundle
       const activeMap = new Map();
-      novelBundle.bundled_chapters.forEach(c => activeMap.set(c.chapter_index, c));
+      if (novelBundle && Array.isArray(novelBundle.bundled_chapters)) {
+        novelBundle.bundled_chapters.forEach(c => activeMap.set(c.chapter_index, c));
+      }
       newChapters.forEach(c => activeMap.set(c.chapter_index, c));
       novelBundle.bundled_chapters = Array.from(activeMap.values()).sort((a,b) => a.chapter_index - b.chapter_index);
 
       renderChaptersList();
+      renderCloudBundles();
     }
 
     function createSentenceSpan(text, globalIdx) {
