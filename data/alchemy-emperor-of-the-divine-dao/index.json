@@ -13,7 +13,7 @@
       "start_chapter": 51,
       "end_chapter": 100,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T15:01:08Z"
+      "updated_at": "2026-10-10T15:14:30Z"
     },
     {
       "bundle_file": "chapters_101_150.json",
@@ -70,6 +70,13 @@
       "end_chapter": 500,
       "chapter_count": 50,
       "updated_at": "2026-10-10T15:04:42Z"
+    },
+    {
+      "bundle_file": "chapters_501_550.json",
+      "start_chapter": 501,
+      "end_chapter": 550,
+      "chapter_count": 50,
+      "updated_at": "2026-10-10T15:16:11Z"
     }
   ]
 }
