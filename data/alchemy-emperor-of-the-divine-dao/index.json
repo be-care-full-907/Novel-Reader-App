@@ -581,6 +581,13 @@
       "end_chapter": 4150,
       "chapter_count": 50,
       "updated_at": "2026-10-10T17:03:24Z"
+    },
+    {
+      "bundle_file": "chapters_4151_4200.json",
+      "start_chapter": 4151,
+      "end_chapter": 4200,
+      "chapter_count": 50,
+      "updated_at": "2026-10-10T17:05:05Z"
     }
   ]
 }
