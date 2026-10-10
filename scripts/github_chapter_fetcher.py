@@ -26,19 +26,55 @@ from novel_scraper import NovelScraper
 NOVEL_ID = "infinite-mana-in-the-apocalypse"
 ARCHIVE_AJAX_URL = f"https://novelping.com/ajax/chapter-archive?novelId={NOVEL_ID}"
 
-def fetch_all_chapter_links(novel_id: str = "infinite-mana-in-the-apocalypse"):
-    """Fetches and maps the complete archive of chapters from NovelPing."""
+def fetch_all_chapter_links(novel_id: str = "infinite-mana-in-the-apocalypse", target_dir: str = ""):
+    """Fetches and maps the complete archive of chapters from NovelPing with cache support."""
+    # 1. Check local archive cache first
+    candidate_cache_paths = []
+    if target_dir:
+        candidate_cache_paths.append(os.path.join(target_dir, "archive_cache.json"))
+    candidate_cache_paths.append(os.path.join("data", novel_id, "archive_cache.json"))
+    if novel_id == "infinite-mana-in-the-apocalypse":
+        candidate_cache_paths.append(os.path.join("data", "archive_cache.json"))
+
+    for cpath in candidate_cache_paths:
+        if os.path.exists(cpath):
+            try:
+                with open(cpath, "r", encoding="utf-8") as f:
+                    cached = json.load(f)
+                if cached and isinstance(cached, dict) and len(cached) > 0:
+                    chapter_map = {int(k): v for k, v in cached.items()}
+                    print(f"Loaded {len(chapter_map)} chapters from local archive cache: {cpath}")
+                    return chapter_map
+            except Exception as e:
+                print(f"Warning: Could not read archive cache at {cpath}: {e}")
+
     archive_url = f"https://novelping.com/ajax/chapter-archive?novelId={novel_id}"
     print(f"Fetching complete chapter archive for novel '{novel_id}' from {archive_url}...")
     req = urllib.request.Request(
         archive_url,
         headers={
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            "X-Requested-With": "XMLHttpRequest"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            "X-Requested-With": "XMLHttpRequest",
+            "Referer": f"https://novelping.com/book/{novel_id}"
         }
     )
-    with urllib.request.urlopen(req, timeout=35) as res:
-        html = res.read().decode("utf-8", errors="ignore")
+
+    html = ""
+    for attempt in range(1, 5):
+        try:
+            with urllib.request.urlopen(req, timeout=65) as res:
+                html = res.read().decode("utf-8", errors="ignore")
+            if html and len(html) > 500:
+                print(f"Received archive response ({len(html):,} bytes) on attempt {attempt}.")
+                break
+        except Exception as e:
+            wait_time = attempt * 3
+            print(f"  [Attempt {attempt}/4] Error fetching archive: {e}. Retrying in {wait_time}s...")
+            time.sleep(wait_time)
+
+    if not html:
+        print(f"Warning: Failed to fetch archive for '{novel_id}'. Falling back to direct URL generator.")
+        return {}
 
     soup = BeautifulSoup(html, "html.parser")
     links = soup.find_all("a")
@@ -51,10 +87,6 @@ def fetch_all_chapter_links(novel_id: str = "infinite-mana-in-the-apocalypse"):
         if not href:
             continue
         
-        # Priority:
-        # 1. title attribute (has real chapter title e.g. "Chapter 1907 ...")
-        # 2. inner_text inside all child nodes
-        # 3. href slug (e.g. "chapter-1907-...")
         m = re.search(r'chapter[- ](\d+)', title_attr, re.I)
         display_title = title_attr
         if not m:
@@ -74,6 +106,18 @@ def fetch_all_chapter_links(novel_id: str = "infinite-mana-in-the-apocalypse"):
                 }
 
     print(f"Discovered {len(chapter_map)} unique chapters in archive.")
+
+    # Save to archive_cache.json if target_dir provided
+    save_dir = target_dir or (os.path.join("data", novel_id) if novel_id != "infinite-mana-in-the-apocalypse" else "data")
+    try:
+        os.makedirs(save_dir, exist_ok=True)
+        cache_file = os.path.join(save_dir, "archive_cache.json")
+        with open(cache_file, "w", encoding="utf-8") as f:
+            json.dump({str(k): v for k, v in chapter_map.items()}, f, indent=2, ensure_ascii=False)
+        print(f"Saved archive cache to {cache_file}.")
+    except Exception as e:
+        print(f"Warning: Could not save archive cache: {e}")
+
     return chapter_map
 
 def fetch_single_chapter_with_retry(scraper, novel_id: str, ch_num: int, ch_meta: dict, max_retries: int = 4):
@@ -123,7 +167,7 @@ def download_bundle(start_ch: int, end_ch: int, output_dir: str = "data", novel_
         target_dir = output_dir
 
     os.makedirs(target_dir, exist_ok=True)
-    chapter_map = fetch_all_chapter_links(novel_id)
+    chapter_map = fetch_all_chapter_links(novel_id, target_dir)
     scraper = NovelScraper()
 
     total_expected = end_ch - start_ch + 1
