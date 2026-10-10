@@ -60,20 +60,20 @@ def fetch_all_chapter_links(novel_id: str = "infinite-mana-in-the-apocalypse", t
     )
 
     html = ""
-    for attempt in range(1, 5):
+    for attempt in range(1, 3):
         try:
-            with urllib.request.urlopen(req, timeout=65) as res:
+            with urllib.request.urlopen(req, timeout=20) as res:
                 html = res.read().decode("utf-8", errors="ignore")
             if html and len(html) > 500:
                 print(f"Received archive response ({len(html):,} bytes) on attempt {attempt}.")
                 break
         except Exception as e:
-            wait_time = attempt * 3
-            print(f"  [Attempt {attempt}/4] Error fetching archive: {e}. Retrying in {wait_time}s...")
+            wait_time = attempt * 2
+            print(f"  [Attempt {attempt}/2] Error fetching archive: {e}. Retrying in {wait_time}s...")
             time.sleep(wait_time)
 
     if not html:
-        print(f"Warning: Failed to fetch archive for '{novel_id}'. Falling back to direct URL generator.")
+        print(f"Warning: Failed to fetch archive for '{novel_id}'. Proceeding with direct FreeWebNovel URLs.")
         return {}
 
     soup = BeautifulSoup(html, "html.parser")
@@ -122,9 +122,13 @@ def fetch_all_chapter_links(novel_id: str = "infinite-mana-in-the-apocalypse", t
 
 def fetch_single_chapter_with_retry(scraper, novel_id: str, ch_num: int, ch_meta: dict, max_retries: int = 4):
     """Fetches a single chapter with retries and fallback URLs."""
-    urls_to_try = [ch_meta['url']]
-    
-    # Add fallback URLs if the main URL fails
+    urls_to_try = [
+        f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}",
+        f"https://freewebnovel.com/{novel_id}/chapter-{ch_num}.html",
+    ]
+    if ch_meta and ch_meta.get('url') and ch_meta['url'] not in urls_to_try:
+        urls_to_try.append(ch_meta['url'])
+        
     direct_fallback = f"https://novelping.com/book/{novel_id}/chapter-{ch_num}"
     if direct_fallback not in urls_to_try:
         urls_to_try.append(direct_fallback)
@@ -218,7 +222,7 @@ def download_bundle(start_ch: int, end_ch: int, output_dir: str = "data", novel_
                 ch_meta = {
                     "chapter_number": ch_num,
                     "title": f"Chapter {ch_num}",
-                    "url": f"https://novelping.com/book/{novel_id}/chapter-{ch_num}"
+                    "url": f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}"
                 }
                 
             print(f"Fetching Chapter {ch_num} ({ch_num - s_ch + 1}/{slice_count}): {ch_meta['title']}...")

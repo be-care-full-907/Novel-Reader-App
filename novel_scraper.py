@@ -142,18 +142,18 @@ class NovelScraper:
         soup = BeautifulSoup(raw_html, "html.parser")
 
         # Extract title (avoid selecting 'Novel info' sidebar heading)
-        title_el = soup.select_one(".chr-title, .chr-text, .chapter-title, h1.chapter-title, h3.title")
+        title_el = soup.select_one(".chr-title, .chr-text, .chapter-title, h1.chapter-title, h3.title, span.chapter, h4")
         if not title_el:
             # Fallback to general headings if not 'Novel info'
-            for h in soup.select("h1, h2, h3"):
+            for h in soup.select("h2, h1, h3"):
                 txt = h.get_text(strip=True)
-                if txt.lower() not in ["novel info", "book info", "description", "options"]:
+                if txt.lower() not in ["novel info", "book info", "description", "options", "comments"]:
                     title_el = h
                     break
         chapter_title = title_el.get_text(strip=True) if title_el else ""
 
-        # Content container
-        content_container = soup.select_one("#chr-content, .chapter-content, .reading-content, #chapter-content, .chapter-inner, .entry-content")
+        # Content container (supports FreeWebNovel, NovelPing, etc.)
+        content_container = soup.select_one("#article, #chr-content, .chapter-content, .reading-content, #chapter-content, .chapter-inner, .entry-content, .txt")
         if not content_container:
             return {"title": chapter_title, "paragraphs": [], "sentences": []}
 
@@ -162,9 +162,12 @@ class NovelScraper:
             unwanted.decompose()
 
         cleaned_paragraphs: List[str] = []
-        p_elements = content_container.find_all(["p", "div"])
+        # Content elements: prefer explicit <p> tags so parent <div> wrappers don't duplicate entire chapter text
+        p_elements = content_container.find_all("p")
+        if not p_elements:
+            p_elements = content_container.find_all("div")
 
-        # Fallback if text isn't in paragraphs
+        # Fallback if text isn't in paragraphs or divs
         if not p_elements:
             lines = content_container.get_text("\n").splitlines()
         else:
