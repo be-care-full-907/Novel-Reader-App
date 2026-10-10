@@ -66,7 +66,7 @@ KNOWN_NOVELS = {
         "id": "supreme-harem-god-system",
         "title": "Supreme Harem God System",
         "target_dir": os.path.join(PROJECT_ROOT, "data", "supreme-harem-god-system"),
-        "default_start": 1,
+        "default_start": 1001,
         "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=supreme-harem-god-system"
     },
     "my-vampire-system": {
@@ -88,7 +88,8 @@ KNOWN_NOVELS = {
 DEFAULT_THREE_NOVELS = [
     "infinite-mana-in-the-apocalypse",
     "supreme-harem-god-system",
-    "my-vampire-system"
+    "my-vampire-system",
+    "alchemy-emperor-of-the-divine-dao"
 ]
 
 
@@ -396,7 +397,7 @@ def scrape_novel_bundles(
                 # Submit worker
                 f = executor.submit(fetch_chapter_with_retries, scraper, novel_id, ch_num, ch_meta, 5)
                 future_to_num[f] = ch_num
-                time.sleep(0.1)  # small stagger to prevent instantaneous burst
+                time.sleep(0.35)  # polite stagger to prevent NovelPing server throttling
 
             for future in as_completed(future_to_num):
                 ch_num = future_to_num[future]
@@ -482,7 +483,7 @@ def main():
     )
     parser.add_argument("--start", type=int, default=None, help="Override start chapter")
     parser.add_argument("--end", type=int, default=None, help="Override end chapter")
-    parser.add_argument("--workers", type=int, default=4, help="Concurrent worker threads (default: 4)")
+    parser.add_argument("--workers", type=int, default=2, help="Concurrent worker threads (default: 2)")
     parser.add_argument("--push", action="store_true", default=True, help="Push changes to GitHub (default)")
     parser.add_argument("--no-push", action="store_false", dest="push", help="Do not push changes to GitHub")
     parser.add_argument("--push-freq", type=str, choices=["bundle", "novel"], default="bundle", help="Git push frequency")
