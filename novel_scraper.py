@@ -42,7 +42,7 @@ class NovelScraper:
         for attempt in range(max_retries):
             try:
                 req = urllib.request.Request(url, headers=self.headers)
-                with urllib.request.urlopen(req, timeout=25) as response:
+                with urllib.request.urlopen(req, timeout=45) as response:
                     return response.read().decode("utf-8", errors="replace")
             except urllib.error.HTTPError as e:
                 if e.code == 429:
