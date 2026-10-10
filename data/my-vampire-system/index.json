@@ -6,70 +6,77 @@
       "start_chapter": 1,
       "end_chapter": 50,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T14:11:48Z"
+      "updated_at": "2026-10-10T15:55:53Z"
     },
     {
       "bundle_file": "chapters_51_100.json",
       "start_chapter": 51,
       "end_chapter": 100,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T14:11:48Z"
+      "updated_at": "2026-10-10T15:55:53Z"
     },
     {
       "bundle_file": "chapters_101_150.json",
       "start_chapter": 101,
       "end_chapter": 150,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T15:05:36Z"
+      "updated_at": "2026-10-10T15:55:53Z"
     },
     {
       "bundle_file": "chapters_151_200.json",
       "start_chapter": 151,
       "end_chapter": 200,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T15:05:55Z"
+      "updated_at": "2026-10-10T15:55:53Z"
     },
     {
       "bundle_file": "chapters_201_250.json",
       "start_chapter": 201,
       "end_chapter": 250,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T15:06:16Z"
+      "updated_at": "2026-10-10T15:55:53Z"
     },
     {
       "bundle_file": "chapters_251_300.json",
       "start_chapter": 251,
       "end_chapter": 300,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T15:06:35Z"
+      "updated_at": "2026-10-10T15:55:53Z"
     },
     {
       "bundle_file": "chapters_301_350.json",
       "start_chapter": 301,
       "end_chapter": 350,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T15:06:54Z"
+      "updated_at": "2026-10-10T15:55:53Z"
     },
     {
       "bundle_file": "chapters_351_400.json",
       "start_chapter": 351,
       "end_chapter": 400,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T15:07:13Z"
+      "updated_at": "2026-10-10T15:55:53Z"
     },
     {
       "bundle_file": "chapters_401_450.json",
       "start_chapter": 401,
       "end_chapter": 450,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T15:07:32Z"
+      "updated_at": "2026-10-10T15:55:53Z"
     },
     {
       "bundle_file": "chapters_451_500.json",
       "start_chapter": 451,
       "end_chapter": 500,
       "chapter_count": 50,
-      "updated_at": "2026-10-10T15:07:51Z"
+      "updated_at": "2026-10-10T15:55:53Z"
+    },
+    {
+      "bundle_file": "chapters_501_550.json",
+      "start_chapter": 501,
+      "end_chapter": 550,
+      "chapter_count": 50,
+      "updated_at": "2026-10-10T15:56:39Z"
     }
   ]
 }
