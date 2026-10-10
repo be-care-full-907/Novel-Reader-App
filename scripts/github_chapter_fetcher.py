@@ -146,6 +146,23 @@ def download_bundle(start_ch: int, end_ch: int, output_dir: str = "data", novel_
     
     for slice_idx, (s_ch, e_ch) in enumerate(slices, 1):
         slice_count = e_ch - s_ch + 1
+        bundle_filename = f"chapters_{s_ch}_{e_ch}.json"
+        bundle_path = os.path.join(target_dir, bundle_filename)
+
+        # Check if bundle already exists and is complete
+        if os.path.exists(bundle_path):
+            try:
+                with open(bundle_path, "r", encoding="utf-8") as f:
+                    existing_data = json.load(f)
+                existing_chapters = existing_data.get("chapters", [])
+                if len(existing_chapters) == slice_count and all(c.get("paragraphs") for c in existing_chapters):
+                    print(f"\n--- [Bundle {slice_idx}/{len(slices)}] Chapters {s_ch} to {e_ch} already present on disk ({slice_count} chapters). Skipping. ---")
+                    update_manifest(target_dir, bundle_filename, s_ch, e_ch, len(existing_chapters), novel_id)
+                    saved_bundle_paths.append(bundle_path)
+                    continue
+            except Exception:
+                pass
+
         print(f"\n--- [Bundle {slice_idx}/{len(slices)}] Processing Chapters {s_ch} to {e_ch} ({slice_count} chapters) ---")
         
         bundled_chapters = []
