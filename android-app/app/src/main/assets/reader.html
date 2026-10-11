@@ -1123,7 +1123,7 @@
 
     function initNovelsCatalog() {
       // 1. Try loading from Android assets via TTSBridge
-      if (typeof window.AndroidTTS !== 'undefined' && window.AndroidTTS.getNovelsCatalogJson) {
+      if (typeof window.AndroidTTS !== 'undefined' && window.AndroidTTS && window.AndroidTTS.getNovelsCatalogJson) {
         try {
           const list = JSON.parse(window.AndroidTTS.getNovelsCatalogJson() || '[]');
           if (Array.isArray(list) && list.length > 0) {
@@ -1185,7 +1185,7 @@
     let selectedVoice = null;
     let availableBrowserVoices = [];
 
-    const hasAndroidTTS = typeof window.AndroidTTS !== 'undefined';
+    const hasAndroidTTS = typeof window.AndroidTTS !== 'undefined' && window.AndroidTTS !== null;
 
     // Elements
     const readerContent = document.getElementById('reader-content');
@@ -2048,6 +2048,7 @@
 
     // Base Repository URL Helper for Active Novel
     function getActiveNovelBaseUrl() {
+      const curNovel = getActiveNovel();
       const repo = getGitHubRepoOwnerRepo();
       const defaultRepoBase = `https://raw.githubusercontent.com/${repo}/main/`;
       let customInput = (document.getElementById('cloud-source-url')?.value || '').trim();
@@ -2060,7 +2061,7 @@
       }
       if (!repoBase.endsWith('/')) repoBase += '/';
 
-      let novelPath = curNovel.data_path || 'data/';
+      let novelPath = (curNovel && curNovel.data_path) ? curNovel.data_path : 'data/';
       if (novelPath.startsWith('/')) novelPath = novelPath.substring(1);
       if (!novelPath.endsWith('/')) novelPath += '/';
 
@@ -2315,12 +2316,15 @@
     }
 
     async function pullBundle(start, end, btnEl) {
+      if (btnEl) {
+        btnEl.disabled = true;
+        btnEl.textContent = '⏳ Checking...';
+      }
       if (start > end) {
         const tmp = start; start = end; end = tmp;
       }
       const totalCount = end - start + 1;
       const statusBanner = document.getElementById('cloud-status-banner');
-      const baseUrl = getActiveNovelBaseUrl();
 
       const updateBanner = (msg, bg, col) => {
         if (!statusBanner) return;
@@ -2330,20 +2334,17 @@
         statusBanner.innerHTML = msg;
       };
 
-      // Helper to fetch any JSON file from repository
-      async function fetchJsonFromRepo(fileName) {
-        const curNovel = getActiveNovel();
-        let novelPath = curNovel.data_path || 'data/';
-        if (novelPath.startsWith('/')) novelPath = novelPath.substring(1);
-        if (!novelPath.endsWith('/')) novelPath += '/';
-        const filePath = `${novelPath}${fileName}`;
-        return await fetchFromRepoWithAuth(filePath);
-      }
+        const baseUrl = getActiveNovelBaseUrl();
 
-      if (btnEl) {
-        btnEl.disabled = true;
-        btnEl.textContent = '⏳ Checking...';
-      }
+        // Helper to fetch any JSON file from repository
+        async function fetchJsonFromRepo(fileName) {
+          const curNovel = getActiveNovel();
+          let novelPath = (curNovel && curNovel.data_path) ? curNovel.data_path : 'data/';
+          if (novelPath.startsWith('/')) novelPath = novelPath.substring(1);
+          if (!novelPath.endsWith('/')) novelPath += '/';
+          const filePath = `${novelPath}${fileName}`;
+          return await fetchFromRepoWithAuth(filePath);
+        }
 
       // 1. Check if all requested chapters are already in the local library!
       const localChapters = novelBundle?.bundled_chapters || [];
