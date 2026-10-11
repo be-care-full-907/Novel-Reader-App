@@ -46,5 +46,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 4932,
     "description": "Ling Han, a grandmaster alchemist and heaven-defying warrior, reincarnates thousands of years later into a young man with a mysterious black tower..."
+  },
+  {
+    "id": "starting-with-an-sss-rank-goddess-summon",
+    "title": "Starting With An SSS-Rank Goddess Summon",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/starting-with-an-sss-rank-goddess-summon.jpg",
+    "source_url": "https://freewebnovel.com/novel/starting-with-an-sss-rank-goddess-summon",
+    "data_path": "data/starting-with-an-sss-rank-goddess-summon/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 100,
+    "description": "Follow the journey of a summoner who begins with an SSS-rank goddess summon..."
   }
 ]

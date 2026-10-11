@@ -153,19 +153,51 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
 
     @JavascriptInterface
     fun downloadUrl(urlStr: String): String {
+        return downloadUrlWithAuth(urlStr, null)
+    }
+
+    @JavascriptInterface
+    fun downloadUrlWithAuth(urlStr: String, authHeader: String?): String {
         return try {
-            val url = java.net.URL(urlStr)
-            val conn = url.openConnection() as java.net.HttpURLConnection
+            var currentUrl = urlStr
+            var conn = java.net.URL(currentUrl).openConnection() as java.net.HttpURLConnection
             conn.requestMethod = "GET"
             conn.connectTimeout = 15000
-            conn.readTimeout = 30000
+            conn.readTimeout = 45000
             conn.setRequestProperty("User-Agent", "Mozilla/5.0 (Android; Mobile)")
+            conn.setRequestProperty("Accept", "application/vnd.github.raw, application/json, text/plain, */*")
+            if (!authHeader.isNullOrEmpty() && (currentUrl.contains("github.com") || currentUrl.contains("githubusercontent.com"))) {
+                conn.setRequestProperty("Authorization", authHeader)
+            }
+            conn.instanceFollowRedirects = false
             conn.connect()
+
+            var redirectCount = 0
+            while ((conn.responseCode in 301..308) && redirectCount < 5) {
+                val location = conn.getHeaderField("Location") ?: break
+                conn.disconnect()
+                currentUrl = location
+                conn = java.net.URL(currentUrl).openConnection() as java.net.HttpURLConnection
+                conn.requestMethod = "GET"
+                conn.connectTimeout = 15000
+                conn.readTimeout = 45000
+                conn.setRequestProperty("User-Agent", "Mozilla/5.0 (Android; Mobile)")
+                conn.setRequestProperty("Accept", "application/vnd.github.raw, application/json, text/plain, */*")
+                // Only send Authorization header if target is still github.com / githubusercontent.com, NOT AWS S3!
+                if (!authHeader.isNullOrEmpty() && (currentUrl.contains("github.com") || currentUrl.contains("githubusercontent.com"))) {
+                    conn.setRequestProperty("Authorization", authHeader)
+                }
+                conn.instanceFollowRedirects = false
+                conn.connect()
+                redirectCount++
+            }
+
             val code = conn.responseCode
             if (code in 200..299) {
                 conn.inputStream.bufferedReader().use { it.readText() }
             } else {
-                "HTTP_ERROR:$code"
+                val err = conn.errorStream?.bufferedReader()?.use { it.readText() } ?: ""
+                "HTTP_ERROR:$code:$err"
             }
         } catch (e: Exception) {
             "EXCEPTION:${e.message}"

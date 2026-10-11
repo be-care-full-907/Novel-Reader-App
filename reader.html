@@ -818,12 +818,12 @@
 
         <!-- Add Custom Novel by URL -->
         <div class="download-bundle-card" style="margin-top: 14px; flex-direction: column; align-items: stretch; gap: 10px; cursor: default;">
-          <div class="download-bundle-title">➕ Add Novel from NovelPing</div>
+          <div class="download-bundle-title">➕ Add Novel from FreeWebNovel or NovelPing</div>
           <div style="font-size: 0.78rem; opacity: 0.8; line-height: 1.4;">
-            Enter any novel URL or slug from NovelPing (e.g. <code>https://novelping.com/book/shadow-slave</code> or <code>shadow-slave</code>) to add it to your library:
+            Enter any novel URL from FreeWebNovel, NovelPing, or a novel slug (e.g. <code>https://freewebnovel.com/novel/...</code> or <code>https://novelping.com/book/...</code>):
           </div>
           <div style="display: flex; gap: 8px;">
-            <input type="text" id="add-novel-input" class="styled-select" placeholder="https://novelping.com/book/..." style="flex: 1; font-size: 0.82rem; padding: 9px 12px;" />
+            <input type="text" id="add-novel-input" class="styled-select" placeholder="https://freewebnovel.com/novel/... or https://novelping.com/book/..." style="flex: 1; font-size: 0.82rem; padding: 9px 12px;" />
             <button class="btn-download" id="add-novel-btn" style="min-width: 70px; padding: 9px 14px; font-size: 0.85rem;">Add ➔</button>
           </div>
           <div id="add-novel-msg" style="font-size: 0.76rem; display: none; line-height: 1.35;"></div>
@@ -1093,6 +1093,18 @@
         start_bundle_chapter: 1,
         total_chapters: 4932,
         description: "Ling Han, a grandmaster alchemist and heaven-defying warrior, reincarnates thousands of years later into a young man with a mysterious black tower..."
+      },
+      {
+        id: "starting-with-an-sss-rank-goddess-summon",
+        title: "Starting With An SSS-Rank Goddess Summon",
+        author: "Web Novel",
+        cover_url: "https://images.novelping.com/novel/starting-with-an-sss-rank-goddess-summon.jpg",
+        source_url: "https://freewebnovel.com/novel/starting-with-an-sss-rank-goddess-summon",
+        data_path: "data/starting-with-an-sss-rank-goddess-summon/",
+        bundled_file: "chapters_1_50.json",
+        start_bundle_chapter: 1,
+        total_chapters: 100,
+        description: "Follow the journey of a summoner who begins with an SSS-rank goddess summon..."
       }
     ];
 
@@ -1109,15 +1121,32 @@
           }
         } catch(e) {}
       }
-      // 2. Merge custom added novels from localStorage
+      // 2. Merge custom added novels from localStorage with slug sanitization
       try {
         const custom = JSON.parse(localStorage.getItem('custom_novels') || '[]');
         if (Array.isArray(custom)) {
+          let updatedCustom = false;
           custom.forEach(cn => {
+            // Repair any accidentally mangled URL slugs from previous inputs
+            if (cn.id && (cn.id.startsWith('https-') || cn.id.startsWith('http-'))) {
+              const cleaned = cn.id.replace(/^https?-(?:freewebnovel-com|novelping-com)-(?:novel|book)-/, '')
+                                   .replace(/\.html?$/i, '')
+                                   .replace(/[^a-z0-9_-]/g, '-')
+                                   .replace(/^-+|-+$/g, '');
+              if (cleaned) {
+                cn.id = cleaned;
+                cn.title = cleaned.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+                cn.data_path = `data/${cleaned}/`;
+                updatedCustom = true;
+              }
+            }
             if (!novelsCatalog.some(n => n.id === cn.id)) {
               novelsCatalog.push(cn);
             }
           });
+          if (updatedCustom) {
+            try { localStorage.setItem('custom_novels', JSON.stringify(custom)); } catch(e) {}
+          }
         }
       } catch(e) {}
     }
@@ -1887,6 +1916,54 @@
       });
     }
 
+    // Robust authenticated / public repository file loader
+    async function fetchFromRepoWithAuth(relativeFilePath) {
+      const ghToken = (localStorage.getItem('github_token') || '').trim();
+      const authHeader = ghToken ? (ghToken.startsWith('Bearer ') || ghToken.startsWith('token ') ? ghToken : `Bearer ${ghToken}`) : null;
+      let cleanPath = (relativeFilePath || '').replace(/^\/+/, '');
+
+      const candidates = [];
+      // 1. If token provided, use GitHub Contents API first (reliable for private repositories)
+      if (authHeader) {
+        candidates.push({
+          url: `https://api.github.com/repos/Gopal564/Novel-Reader-App/contents/${cleanPath}?ref=main&t=${Date.now()}`,
+          auth: authHeader
+        });
+      }
+      // 2. Also try raw.githubusercontent.com as direct/public fallback
+      candidates.push({
+        url: `https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/${cleanPath}?t=${Date.now()}`,
+        auth: authHeader
+      });
+
+      for (const item of candidates) {
+        try {
+          if (hasAndroidTTS && window.AndroidTTS) {
+            let res = "";
+            if (window.AndroidTTS.downloadUrlWithAuth) {
+              res = window.AndroidTTS.downloadUrlWithAuth(item.url, item.auth);
+            } else if (window.AndroidTTS.downloadUrl) {
+              res = window.AndroidTTS.downloadUrl(item.url);
+            }
+            if (res && !res.startsWith("HTTP_ERROR:") && !res.startsWith("EXCEPTION:")) {
+              return { ok: true, text: res };
+            }
+          } else {
+            const headers = { "Accept": "application/vnd.github.raw, application/json, text/plain, */*" };
+            if (item.auth) headers["Authorization"] = item.auth;
+            const res = await fetch(item.url, { headers });
+            if (res.ok) {
+              const text = await res.text();
+              return { ok: true, text };
+            }
+          }
+        } catch(e) {
+          console.warn("fetchFromRepoWithAuth attempt failed:", item.url, e);
+        }
+      }
+      return { ok: false, error: "Not found or unauthorized" };
+    }
+
     // Base Repository URL Helper for Active Novel
     function getActiveNovelBaseUrl() {
       const curNovel = getActiveNovel();
@@ -1912,22 +1989,17 @@
     let cloudManifestBundles = [];
 
     async function loadCloudManifest() {
-      const baseUrl = getActiveNovelBaseUrl();
-      const manifestUrl = `${baseUrl}index.json?t=${Date.now()}`;
+      const curNovel = getActiveNovel();
+      let novelPath = curNovel.data_path || 'data/';
+      if (novelPath.startsWith('/')) novelPath = novelPath.substring(1);
+      if (!novelPath.endsWith('/')) novelPath += '/';
+      const manifestPath = `${novelPath}index.json`;
+
       cloudManifestBundles = [];
       try {
-        let text = '';
-        if (hasAndroidTTS && window.AndroidTTS && window.AndroidTTS.downloadUrl) {
-          const res = window.AndroidTTS.downloadUrl(manifestUrl);
-          if (!res.startsWith("HTTP_ERROR:") && !res.startsWith("EXCEPTION:")) {
-            text = res;
-          }
-        } else {
-          const res = await fetch(manifestUrl);
-          if (res.ok) text = await res.text();
-        }
-        if (text) {
-          const data = JSON.parse(text);
+        const res = await fetchFromRepoWithAuth(manifestPath);
+        if (res.ok && res.text) {
+          const data = JSON.parse(res.text);
           if (data && Array.isArray(data.bundles)) {
             cloudManifestBundles = data.bundles;
             try {
@@ -2177,23 +2249,12 @@
 
       // Helper to fetch any JSON file from repository
       async function fetchJsonFromRepo(fileName) {
-        const fullUrl = `${baseUrl}${fileName}?t=${Date.now()}`;
-        if (hasAndroidTTS && window.AndroidTTS && window.AndroidTTS.downloadUrl) {
-          const nativeRes = window.AndroidTTS.downloadUrl(fullUrl);
-          if (nativeRes.startsWith("HTTP_ERROR:") || nativeRes.startsWith("EXCEPTION:")) {
-            return { ok: false, error: nativeRes };
-          }
-          return { ok: true, text: nativeRes };
-        } else {
-          try {
-            const res = await fetch(fullUrl);
-            if (!res.ok) return { ok: false, error: `HTTP ${res.status}` };
-            const text = await res.text();
-            return { ok: true, text };
-          } catch(e) {
-            return { ok: false, error: e.message };
-          }
-        }
+        const curNovel = getActiveNovel();
+        let novelPath = curNovel.data_path || 'data/';
+        if (novelPath.startsWith('/')) novelPath = novelPath.substring(1);
+        if (!novelPath.endsWith('/')) novelPath += '/';
+        const filePath = `${novelPath}${fileName}`;
+        return await fetchFromRepoWithAuth(filePath);
       }
 
       if (btnEl) {
@@ -2470,6 +2531,98 @@
       pullBundle(s, e, document.getElementById('custom-pull-btn'));
     };
 
+    // Parse any novel URL (FreeWebNovel or NovelPing) or novel slug
+    function parseNovelInput(rawInput) {
+      const val = (rawInput || '').trim();
+      if (!val) return null;
+
+      let slug = '';
+      let sourceUrl = '';
+
+      // 1. FreeWebNovel formats
+      let m = val.match(/freewebnovel\.com\/novel\/([^/?#]+)/i);
+      if (m) {
+        slug = m[1].replace(/\.html?$/i, '');
+        sourceUrl = `https://freewebnovel.com/novel/${slug}`;
+      }
+      if (!slug) {
+        m = val.match(/freewebnovel\.com\/([^/?#]+)(?:\/chapter|\.html)/i);
+        if (m) {
+          slug = m[1].replace(/\.html?$/i, '');
+          sourceUrl = `https://freewebnovel.com/novel/${slug}`;
+        }
+      }
+      if (!slug) {
+        m = val.match(/freewebnovel\.com\/([^/?#]+)/i);
+        if (m && !['sort', 'genre', 'search', 'latest-novel', 'completed-novel'].includes(m[1].toLowerCase())) {
+          slug = m[1].replace(/\.html?$/i, '');
+          sourceUrl = `https://freewebnovel.com/novel/${slug}`;
+        }
+      }
+
+      // 2. NovelPing formats
+      if (!slug) {
+        m = val.match(/novelping\.com\/book\/([^/?#]+)/i);
+        if (m) {
+          slug = m[1].replace(/\.html?$/i, '');
+          sourceUrl = `https://novelping.com/book/${slug}`;
+        }
+      }
+      if (!slug) {
+        m = val.match(/novelping\.com\/([^/?#]+)/i);
+        if (m && !['book', 'category', 'genre', 'search', 'ajax'].includes(m[1].toLowerCase())) {
+          slug = m[1].replace(/\.html?$/i, '');
+          sourceUrl = `https://novelping.com/book/${slug}`;
+        }
+      }
+
+      // 3. Generic URL fallback
+      if (!slug && (val.startsWith('http://') || val.startsWith('https://'))) {
+        try {
+          const parsed = new URL(val);
+          const pathSegments = parsed.pathname.split('/').filter(Boolean);
+          for (let i = pathSegments.length - 1; i >= 0; i--) {
+            const seg = pathSegments[i].replace(/\.html?$/i, '');
+            if (!seg.toLowerCase().startsWith('chapter') && !['novel', 'book', 'read', 'sort'].includes(seg.toLowerCase())) {
+              slug = seg;
+              sourceUrl = val;
+              break;
+            }
+          }
+        } catch(e) {}
+      }
+
+      // 4. Plain slug fallback
+      if (!slug) {
+        slug = val;
+        sourceUrl = `https://freewebnovel.com/novel/${slug}`;
+      }
+
+      // Sanitize slug
+      slug = slug.toLowerCase()
+        .replace(/\.html?$/i, '')
+        .replace(/[^a-z0-9_-]/g, '-')
+        .replace(/-+/g, '-')
+        .replace(/^-+|-+$/g, '');
+
+      if (!slug) return null;
+
+      const titleWords = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+
+      return {
+        id: slug,
+        title: titleWords,
+        author: "Web Novel",
+        cover_url: `https://images.novelping.com/novel/${slug}.jpg`,
+        source_url: sourceUrl || `https://freewebnovel.com/novel/${slug}`,
+        data_path: `data/${slug}/`,
+        bundled_file: `chapters_1_50.json`,
+        start_bundle_chapter: 1,
+        total_chapters: 3000,
+        description: `Imported web novel.`
+      };
+    }
+
     // Add Custom Novel by URL or Slug
     if (addNovelBtn && addNovelInput) {
       addNovelBtn.onclick = () => {
@@ -2478,17 +2631,13 @@
           if (addNovelMsg) {
             addNovelMsg.style.display = 'block';
             addNovelMsg.style.color = '#ef4444';
-            addNovelMsg.textContent = 'Please enter a NovelPing URL or novel slug.';
+            addNovelMsg.textContent = 'Please enter a FreeWebNovel URL, NovelPing URL, or novel slug.';
           }
           return;
         }
 
-        let slug = val;
-        const m = val.match(/novelping\.com\/book\/([^/?#]+)/i);
-        if (m) slug = m[1];
-        slug = slug.toLowerCase().replace(/[^a-z0-9_-]/g, '-').replace(/^-+|-+$/g, '');
-
-        if (!slug) {
+        const newNovel = parseNovelInput(val);
+        if (!newNovel || !newNovel.id) {
           if (addNovelMsg) {
             addNovelMsg.style.display = 'block';
             addNovelMsg.style.color = '#ef4444';
@@ -2497,7 +2646,8 @@
           return;
         }
 
-        const titleWords = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        const slug = newNovel.id;
+        const titleWords = newNovel.title;
         const exists = novelsCatalog.some(n => n.id === slug);
         if (exists) {
           switchNovel(slug);
@@ -2510,19 +2660,6 @@
           setTimeout(() => { if (addNovelMsg) addNovelMsg.style.display = 'none'; }, 3000);
           return;
         }
-
-        const newNovel = {
-          id: slug,
-          title: titleWords,
-          author: "NovelPing",
-          cover_url: `https://images.novelping.com/novel/${slug}.jpg`,
-          source_url: `https://novelping.com/book/${slug}`,
-          data_path: `data/${slug}/`,
-          bundled_file: `${slug.replace(/-/g, '_')}_data.json`,
-          start_bundle_chapter: 1,
-          total_chapters: 3000,
-          description: `Web novel from NovelPing.`
-        };
 
         novelsCatalog.push(newNovel);
         try {
