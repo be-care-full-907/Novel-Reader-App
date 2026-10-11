@@ -888,9 +888,19 @@
             <div id="token-save-msg" style="font-size: 0.72rem; margin-top: 5px; display: none;"></div>
           </div>
 
+          <!-- GitHub Target Repository -->
+          <div class="control-row" style="margin-bottom: 10px;">
+            <div class="control-label"><span>GitHub Target Repository (Owner/Repo)</span></div>
+            <div style="display: flex; gap: 6px;">
+              <input type="text" id="github-repo-input" class="styled-select" value="leey3870-art/Novel-Reader-App" placeholder="leey3870-art/Novel-Reader-App" style="flex: 1; font-family: monospace; font-size: 0.8rem; padding: 7px 10px;" />
+              <button id="save-repo-btn" class="secondary-btn" style="padding: 7px 12px; border-radius: 8px; font-size: 0.8rem; cursor: pointer;">Save</button>
+            </div>
+            <div id="repo-save-msg" style="font-size: 0.72rem; margin-top: 5px; display: none;"></div>
+          </div>
+
           <div class="control-row">
             <div class="control-label"><span>GitHub Repository Data URL</span></div>
-            <input type="text" id="cloud-source-url" class="styled-select" value="https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/data/" placeholder="https://raw.githubusercontent.com/.../data/" />
+            <input type="text" id="cloud-source-url" class="styled-select" value="https://raw.githubusercontent.com/leey3870-art/Novel-Reader-App/main/data/" placeholder="https://raw.githubusercontent.com/.../data/" />
           </div>
 
           <div id="bundles-list-container">
@@ -1305,7 +1315,49 @@
     const toggleTokenBtn = document.getElementById('toggle-token-visibility');
     const tokenSaveMsg = document.getElementById('token-save-msg');
 
+    // GitHub Target Repository and Token Management
+    const ghRepoInput = document.getElementById('github-repo-input');
+    const saveRepoBtn = document.getElementById('save-repo-btn');
+    const repoSaveMsg = document.getElementById('repo-save-msg');
+
+    function getGitHubRepoOwnerRepo() {
+      const saved = (localStorage.getItem('github_repo') || '').trim();
+      if (saved && saved.includes('/')) return saved;
+      return 'leey3870-art/Novel-Reader-App';
+    }
+
+    if (ghRepoInput) {
+      ghRepoInput.value = getGitHubRepoOwnerRepo();
+    }
+
+    if (saveRepoBtn && ghRepoInput) {
+      saveRepoBtn.onclick = () => {
+        let val = ghRepoInput.value.trim().replace(/^https?:\/\/github\.com\//i, '').replace(/\.git$/i, '');
+        if (val && val.includes('/')) {
+          localStorage.setItem('github_repo', val);
+          const cloudSrc = document.getElementById('cloud-source-url');
+          if (cloudSrc) cloudSrc.value = `https://raw.githubusercontent.com/${val}/main/data/`;
+          if (repoSaveMsg) {
+            repoSaveMsg.style.display = 'block';
+            repoSaveMsg.style.color = '#059669';
+            repoSaveMsg.textContent = `✅ Target repository set to ${val}`;
+          }
+        } else {
+          localStorage.removeItem('github_repo');
+          ghRepoInput.value = 'leey3870-art/Novel-Reader-App';
+          if (repoSaveMsg) {
+            repoSaveMsg.style.display = 'block';
+            repoSaveMsg.style.color = '#b45309';
+            repoSaveMsg.textContent = 'Reset to default: leey3870-art/Novel-Reader-App';
+          }
+        }
+        setTimeout(() => { if (repoSaveMsg) repoSaveMsg.style.display = 'none'; }, 3000);
+      };
+    }
+
     function updateTokenUI() {
+      const savedRepo = getGitHubRepoOwnerRepo();
+      if (ghRepoInput) ghRepoInput.value = savedRepo;
       const savedToken = (localStorage.getItem('github_token') || '').trim();
       if (savedToken) {
         if (ghTokenInput) ghTokenInput.value = savedToken;
@@ -1937,6 +1989,7 @@
 
     // Robust authenticated / public repository file loader
     async function fetchFromRepoWithAuth(relativeFilePath) {
+      const repo = getGitHubRepoOwnerRepo();
       const ghToken = (localStorage.getItem('github_token') || '').trim();
       const rawToken = ghToken.replace(/^(Bearer|token)\s+/i, '');
       const bearerAuth = rawToken ? `Bearer ${rawToken}` : null;
@@ -1944,27 +1997,21 @@
       let cleanPath = (relativeFilePath || '').replace(/^\/+/, '');
 
       const candidates = [];
+      // Priority 1: Direct raw.githubusercontent.com (for public repos like leey3870-art, this works instantaneously without auth!)
+      candidates.push({
+        url: `https://raw.githubusercontent.com/${repo}/main/${cleanPath}?t=${Date.now()}`,
+        auth: tokenAuth || null
+      });
+
+      // Priority 2: GitHub Contents API (if token provided)
       if (rawToken) {
-        // Priority 1: GitHub Contents API (returns raw text with custom Accept header)
         candidates.push({
-          url: `https://api.github.com/repos/Gopal564/Novel-Reader-App/contents/${cleanPath}?ref=main&t=${Date.now()}`,
+          url: `https://api.github.com/repos/${repo}/contents/${cleanPath}?ref=main&t=${Date.now()}`,
           auth: bearerAuth
         });
-        // Priority 2: raw.githubusercontent.com with Authorization: token <token>
         candidates.push({
-          url: `https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/${cleanPath}?t=${Date.now()}`,
-          auth: tokenAuth
-        });
-        // Priority 3: raw.githubusercontent.com with Authorization: Bearer <token>
-        candidates.push({
-          url: `https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/${cleanPath}?t=${Date.now()}`,
+          url: `https://raw.githubusercontent.com/${repo}/main/${cleanPath}?t=${Date.now()}`,
           auth: bearerAuth
-        });
-      } else {
-        // Public fallback
-        candidates.push({
-          url: `https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/${cleanPath}?t=${Date.now()}`,
-          auth: null
         });
       }
 
@@ -2001,8 +2048,8 @@
 
     // Base Repository URL Helper for Active Novel
     function getActiveNovelBaseUrl() {
-      const curNovel = getActiveNovel();
-      const defaultRepoBase = 'https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/';
+      const repo = getGitHubRepoOwnerRepo();
+      const defaultRepoBase = `https://raw.githubusercontent.com/${repo}/main/`;
       let customInput = (document.getElementById('cloud-source-url')?.value || '').trim();
 
       let repoBase = defaultRepoBase;
@@ -2232,7 +2279,8 @@
     }
 
     async function triggerGitHubWorkflow(start, end, token) {
-      const url = "https://api.github.com/repos/Gopal564/Novel-Reader-App/actions/workflows/fetch_chapters.yml/dispatches";
+      const repo = getGitHubRepoOwnerRepo();
+      const url = `https://api.github.com/repos/${repo}/actions/workflows/fetch_chapters.yml/dispatches`;
       const payload = JSON.stringify({
         ref: "main",
         inputs: {
