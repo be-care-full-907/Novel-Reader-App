@@ -159,15 +159,20 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
     @JavascriptInterface
     fun downloadUrlWithAuth(urlStr: String, authHeader: String?): String {
         return try {
+            val formattedAuth = if (authHeader != null && !authHeader.startsWith("Bearer ") && !authHeader.startsWith("token ")) {
+                "Bearer $authHeader"
+            } else {
+                authHeader
+            }
             var currentUrl = urlStr
             var conn = java.net.URL(currentUrl).openConnection() as java.net.HttpURLConnection
             conn.requestMethod = "GET"
-            conn.connectTimeout = 15000
-            conn.readTimeout = 45000
+            conn.connectTimeout = 20000
+            conn.readTimeout = 60000
             conn.setRequestProperty("User-Agent", "Mozilla/5.0 (Android; Mobile)")
             conn.setRequestProperty("Accept", "application/vnd.github.raw, application/json, text/plain, */*")
-            if (!authHeader.isNullOrEmpty() && (currentUrl.contains("github.com") || currentUrl.contains("githubusercontent.com"))) {
-                conn.setRequestProperty("Authorization", authHeader)
+            if (!formattedAuth.isNullOrEmpty() && (currentUrl.contains("github.com") || currentUrl.contains("githubusercontent.com"))) {
+                conn.setRequestProperty("Authorization", formattedAuth)
             }
             conn.instanceFollowRedirects = false
             conn.connect()
@@ -176,16 +181,17 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
             while ((conn.responseCode in 301..308) && redirectCount < 5) {
                 val location = conn.getHeaderField("Location") ?: break
                 conn.disconnect()
-                currentUrl = location
+                // Resolve relative and absolute redirects safely
+                currentUrl = java.net.URL(java.net.URL(currentUrl), location).toString()
                 conn = java.net.URL(currentUrl).openConnection() as java.net.HttpURLConnection
                 conn.requestMethod = "GET"
-                conn.connectTimeout = 15000
-                conn.readTimeout = 45000
+                conn.connectTimeout = 20000
+                conn.readTimeout = 60000
                 conn.setRequestProperty("User-Agent", "Mozilla/5.0 (Android; Mobile)")
                 conn.setRequestProperty("Accept", "application/vnd.github.raw, application/json, text/plain, */*")
                 // Only send Authorization header if target is still github.com / githubusercontent.com, NOT AWS S3!
-                if (!authHeader.isNullOrEmpty() && (currentUrl.contains("github.com") || currentUrl.contains("githubusercontent.com"))) {
-                    conn.setRequestProperty("Authorization", authHeader)
+                if (!formattedAuth.isNullOrEmpty() && (currentUrl.contains("github.com") || currentUrl.contains("githubusercontent.com"))) {
+                    conn.setRequestProperty("Authorization", formattedAuth)
                 }
                 conn.instanceFollowRedirects = false
                 conn.connect()

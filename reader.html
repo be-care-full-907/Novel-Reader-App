@@ -1699,7 +1699,26 @@
         console.error("Failed to load extra chapters:", e);
       }
 
-      // If novel has no chapters yet, show helpful placeholder
+      // Auto-fetch initial bundle from cloud if novel has 0 chapters locally
+      if (novelBundle.bundled_chapters.length === 0) {
+        const startMin = curNovel.start_bundle_chapter !== undefined ? curNovel.start_bundle_chapter : 1;
+        const endMin = startMin + 49;
+        const exactFile = `chapters_${startMin}_${endMin}.json`;
+        try {
+          let novelPath = curNovel.data_path || 'data/';
+          if (novelPath.startsWith('/')) novelPath = novelPath.substring(1);
+          if (!novelPath.endsWith('/')) novelPath += '/';
+          const autoRes = await fetchFromRepoWithAuth(`${novelPath}${exactFile}`);
+          if (autoRes.ok && autoRes.text) {
+            const parsed = JSON.parse(autoRes.text);
+            if (parsed && parsed.chapters && parsed.chapters.length > 0) {
+              await integrateFetchedChapters(parsed.chapters, exactFile, autoRes.text);
+            }
+          }
+        } catch (_) {}
+      }
+
+      // If novel still has no chapters, show helpful placeholder
       if (novelBundle.bundled_chapters.length === 0) {
         novelBundle.bundled_chapters.push({
           chapter_index: curNovel.start_bundle_chapter || 1,
@@ -1919,22 +1938,35 @@
     // Robust authenticated / public repository file loader
     async function fetchFromRepoWithAuth(relativeFilePath) {
       const ghToken = (localStorage.getItem('github_token') || '').trim();
-      const authHeader = ghToken ? (ghToken.startsWith('Bearer ') || ghToken.startsWith('token ') ? ghToken : `Bearer ${ghToken}`) : null;
+      const rawToken = ghToken.replace(/^(Bearer|token)\s+/i, '');
+      const bearerAuth = rawToken ? `Bearer ${rawToken}` : null;
+      const tokenAuth = rawToken ? `token ${rawToken}` : null;
       let cleanPath = (relativeFilePath || '').replace(/^\/+/, '');
 
       const candidates = [];
-      // 1. If token provided, use GitHub Contents API first (reliable for private repositories)
-      if (authHeader) {
+      if (rawToken) {
+        // Priority 1: GitHub Contents API (returns raw text with custom Accept header)
         candidates.push({
           url: `https://api.github.com/repos/Gopal564/Novel-Reader-App/contents/${cleanPath}?ref=main&t=${Date.now()}`,
-          auth: authHeader
+          auth: bearerAuth
+        });
+        // Priority 2: raw.githubusercontent.com with Authorization: token <token>
+        candidates.push({
+          url: `https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/${cleanPath}?t=${Date.now()}`,
+          auth: tokenAuth
+        });
+        // Priority 3: raw.githubusercontent.com with Authorization: Bearer <token>
+        candidates.push({
+          url: `https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/${cleanPath}?t=${Date.now()}`,
+          auth: bearerAuth
+        });
+      } else {
+        // Public fallback
+        candidates.push({
+          url: `https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/${cleanPath}?t=${Date.now()}`,
+          auth: null
         });
       }
-      // 2. Also try raw.githubusercontent.com as direct/public fallback
-      candidates.push({
-        url: `https://raw.githubusercontent.com/Gopal564/Novel-Reader-App/main/${cleanPath}?t=${Date.now()}`,
-        auth: authHeader
-      });
 
       for (const item of candidates) {
         try {
@@ -1948,12 +1980,15 @@
             if (res && !res.startsWith("HTTP_ERROR:") && !res.startsWith("EXCEPTION:")) {
               return { ok: true, text: res };
             }
-          } else {
-            const headers = { "Accept": "application/vnd.github.raw, application/json, text/plain, */*" };
-            if (item.auth) headers["Authorization"] = item.auth;
-            const res = await fetch(item.url, { headers });
-            if (res.ok) {
-              const text = await res.text();
+          }
+
+          // Fallback to WebView / browser JavaScript fetch
+          const headers = { "Accept": "application/vnd.github.raw, application/json, text/plain, */*" };
+          if (item.auth) headers["Authorization"] = item.auth;
+          const res = await fetch(item.url, { headers });
+          if (res.ok) {
+            const text = await res.text();
+            if (text && !text.startsWith("404:") && !text.startsWith("Not Found")) {
               return { ok: true, text };
             }
           }
