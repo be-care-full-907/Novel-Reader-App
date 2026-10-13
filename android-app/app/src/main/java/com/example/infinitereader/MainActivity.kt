@@ -46,7 +46,7 @@ class MainActivity : ComponentActivity() {
                                 settings.loadWithOverviewMode = false
                                 settings.cacheMode = WebSettings.LOAD_DEFAULT
 
-                                val bridge = TTSBridge(ctx, this)
+                                val bridge = TTSBridge(this@MainActivity, this)
                                 ttsBridge = bridge
                                 addJavascriptInterface(bridge, "AndroidTTS")
 

@@ -1,12 +1,16 @@
 package com.example.infinitereader
 
+import android.app.Activity
 import android.content.Context
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
 import android.os.PowerManager
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
 import android.speech.tts.Voice
 import android.util.Log
+import android.view.WindowManager
 import android.webkit.JavascriptInterface
 import android.webkit.WebView
 import org.json.JSONArray
@@ -17,6 +21,11 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
     private var tts: TextToSpeech? = null
     private var isInitialized = false
     private var wakeLock: PowerManager.WakeLock? = null
+    private val mainHandler = Handler(Looper.getMainLooper())
+    private var sleepRunnable: Runnable? = null
+
+    private val activity: Activity?
+        get() = context as? Activity
 
     init {
         tts = TextToSpeech(context, this)
@@ -26,6 +35,29 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
             wakeLock?.setReferenceCounted(false)
         } catch (e: Exception) {
             Log.e("TTSBridge", "Failed to create wakeLock: ${e.message}")
+        }
+    }
+
+    private fun acquireWakeLock() {
+        try {
+            if (wakeLock?.isHeld == false) {
+                // Unlimited wakeLock while active playback continues so phone never sleeps after 2-3 chapters
+                wakeLock?.acquire()
+                Log.d("TTSBridge", "WakeLock acquired for continuous playback")
+            }
+        } catch (e: Exception) {
+            Log.e("TTSBridge", "Error acquiring wakeLock: ${e.message}")
+        }
+    }
+
+    private fun releaseWakeLock() {
+        try {
+            if (wakeLock?.isHeld == true) {
+                wakeLock?.release()
+                Log.d("TTSBridge", "WakeLock released")
+            }
+        } catch (e: Exception) {
+            Log.e("TTSBridge", "Error releasing wakeLock: ${e.message}")
         }
     }
 
@@ -74,28 +106,63 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
     }
 
     @JavascriptInterface
+    fun setKeepScreenOn(keepOn: Boolean) {
+        activity?.runOnUiThread {
+            try {
+                if (keepOn) {
+                    activity?.window?.addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
+                } else {
+                    activity?.window?.clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
+                }
+            } catch (e: Exception) {
+                Log.e("TTSBridge", "Error setting keepScreenOn: ${e.message}")
+            }
+        }
+    }
+
+    @JavascriptInterface
+    fun setNativeSleepTimer(minutes: Int) {
+        mainHandler.post {
+            sleepRunnable?.let { mainHandler.removeCallbacks(it) }
+            sleepRunnable = null
+            if (minutes > 0) {
+                val delayMillis = minutes * 60 * 1000L
+                Log.d("TTSBridge", "Setting native sleep timer for $minutes minutes ($delayMillis ms)")
+                val runnable = Runnable {
+                    Log.d("TTSBridge", "Native sleep timer triggered after $minutes minutes!")
+                    stop()
+                    webView.evaluateJavascript("window.onSleepTimerExpired && window.onSleepTimerExpired();", null)
+                }
+                sleepRunnable = runnable
+                mainHandler.postDelayed(runnable, delayMillis)
+            } else {
+                Log.d("TTSBridge", "Native sleep timer cleared")
+            }
+        }
+    }
+
+    @JavascriptInterface
     fun speak(text: String, sentenceId: Int) {
         if (!isInitialized) return
-        try {
-            if (wakeLock?.isHeld == false) {
-                wakeLock?.acquire(15 * 60 * 1000L) // 15 mins max safety timeout
-            }
-        } catch (e: Exception) {
-            Log.e("TTSBridge", "Error acquiring wakeLock: ${e.message}")
-        }
+        acquireWakeLock()
         val params = Bundle()
         tts?.speak(text, TextToSpeech.QUEUE_FLUSH, params, sentenceId.toString())
     }
 
     @JavascriptInterface
+    fun stopUtterance() {
+        tts?.stop()
+        // Note: WakeLock intentionally remains acquired during quick sentence / chapter transitions
+    }
+
+    @JavascriptInterface
     fun stop() {
         tts?.stop()
-        try {
-            if (wakeLock?.isHeld == true) {
-                wakeLock?.release()
-            }
-        } catch (e: Exception) {
-            Log.e("TTSBridge", "Error releasing wakeLock: ${e.message}")
+        releaseWakeLock()
+        setKeepScreenOn(false)
+        mainHandler.post {
+            sleepRunnable?.let { mainHandler.removeCallbacks(it) }
+            sleepRunnable = null
         }
     }
 
@@ -387,14 +454,7 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
     }
 
     fun shutdown() {
-        tts?.stop()
-        try {
-            if (wakeLock?.isHeld == true) {
-                wakeLock?.release()
-            }
-        } catch (e: Exception) {
-            Log.e("TTSBridge", "Error releasing wakeLock: ${e.message}")
-        }
+        stop()
         tts?.shutdown()
     }
 }

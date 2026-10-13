@@ -323,6 +323,48 @@
       font-family: sans-serif;
       font-weight: 600;
       cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      user-select: none;
+      -webkit-user-select: none;
+      white-space: nowrap;
+      transition: all 0.15s ease;
+    }
+    .audio-tune-chip.active {
+      border-color: var(--accent-color);
+      background: rgba(79, 70, 229, 0.15);
+      color: var(--accent-color);
+    }
+
+    .sleep-option-btn {
+      padding: 13px 10px;
+      border-radius: 12px;
+      border: 1.5px solid var(--surface-border);
+      background: var(--bg-color);
+      color: var(--text-color);
+      font-size: 0.86rem;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: sans-serif;
+      text-align: center;
+      transition: all 0.15s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    .sleep-option-btn:active {
+      transform: scale(0.98);
+    }
+    .sleep-option-btn.active {
+      border-color: var(--accent-color);
+      background: rgba(79, 70, 229, 0.15);
+      color: var(--accent-color);
+      box-shadow: 0 0 0 1.5px var(--accent-color);
     }
 
     /* ====================================================
@@ -793,7 +835,8 @@
       <div class="dock-btn-group">
         <button class="icon-btn" id="next-sentence-btn" title="Forward 1 Sentence">⏩</button>
         <button class="icon-btn" id="next-chapter-btn" title="Next Chapter">⏭</button>
-        <button class="audio-tune-chip" id="speed-chip-btn">1.0x</button>
+        <button class="audio-tune-chip" id="speed-chip-btn" title="Reading Speed">1.0x</button>
+        <button class="audio-tune-chip" id="sleep-timer-chip-btn" title="Sleep Timer">🌙 <span id="sleep-timer-dock-label">Off</span></button>
       </div>
     </div>
   </div>
@@ -986,6 +1029,11 @@
           <span style="font-size: 0.85rem; font-family: sans-serif;">Auto-advance to next chapter</span>
           <input type="checkbox" id="autochapter-toggle" checked style="width: 20px; height: 20px; accent-color: var(--accent-color);" />
         </div>
+
+        <div class="control-row" style="display: flex; align-items: center; justify-content: space-between; padding-top: 6px;">
+          <span style="font-size: 0.85rem; font-family: sans-serif;">Sleep Timer</span>
+          <button id="open-sleep-from-audio-btn" class="audio-tune-chip" style="padding: 6px 14px; font-size: 0.82rem;">🌙 <span id="sleep-timer-audio-label">Off</span></button>
+        </div>
       </div>
     </div>
   </div>
@@ -1048,6 +1096,44 @@
             <strong id="line-height-label">1.75</strong>
           </div>
           <input type="range" id="line-height-range" min="1.3" max="2.4" step="0.05" value="1.75" />
+        </div>
+
+        <div class="control-row" style="display: flex; align-items: center; justify-content: space-between; padding-top: 6px;">
+          <span style="font-size: 0.85rem; font-family: sans-serif;">Keep Screen On while Reading</span>
+          <input type="checkbox" id="keepscreen-toggle" checked style="width: 20px; height: 20px; accent-color: var(--accent-color);" />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sleep Timer Drawer -->
+  <div class="drawer-overlay" id="sleep-drawer-overlay">
+    <div class="drawer-content" style="max-height: 72%; min-height: 300px;">
+      <div class="drawer-drag-pill"></div>
+      <div class="drawer-header">
+        <h3 style="display: flex; align-items: center; gap: 8px;"><span>🌙</span> Sleep Timer</h3>
+        <button class="icon-btn close-drawer-btn" id="close-sleep-drawer">✕</button>
+      </div>
+
+      <div class="drawer-body">
+        <div id="sleep-timer-status-banner" style="text-align: center; padding: 12px 14px; border-radius: 12px; background: var(--bg-color); border: 1px solid var(--surface-border); margin-bottom: 14px; font-family: sans-serif;">
+          <div style="font-size: 0.74rem; opacity: 0.7; margin-bottom: 4px; font-weight: 600; letter-spacing: 0.5px;">CURRENT STATUS</div>
+          <div id="sleep-timer-active-label" style="font-size: 1.15rem; font-weight: 700; color: var(--accent-color);">Off</div>
+        </div>
+
+        <div style="font-size: 0.8rem; font-family: sans-serif; opacity: 0.8; margin-bottom: 10px; line-height: 1.4;">
+          Automatically stop narration and let your phone sleep when the timer ends:
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 16px;">
+          <button type="button" class="sleep-option-btn active" data-sleep="off">⏹️ Turn Off</button>
+          <button type="button" class="sleep-option-btn" data-sleep="15">⏱️ 15 Mins</button>
+          <button type="button" class="sleep-option-btn" data-sleep="30">⏱️ 30 Mins</button>
+          <button type="button" class="sleep-option-btn" data-sleep="45">⏱️ 45 Mins</button>
+          <button type="button" class="sleep-option-btn" data-sleep="60">⏱️ 1 Hour</button>
+          <button type="button" class="sleep-option-btn" data-sleep="120">⏱️ 2 Hours</button>
+          <button type="button" class="sleep-option-btn" data-sleep="180">⏱️ 3 Hours</button>
+          <button type="button" class="sleep-option-btn" data-sleep="chapter">📖 End of Chapter</button>
         </div>
       </div>
     </div>
@@ -1180,6 +1266,17 @@
     let wordPacerTimer = null;
     let lastBoundaryTime = 0;
 
+    let sleepTimerType = 'off'; // 'off', 'chapter', or number in minutes
+    let sleepTimerTargetTime = null; // timestamp ms
+    let sleepTimerInterval = null;
+    let keepScreenOnEnabled = true;
+    try {
+      const savedKeepScreen = localStorage.getItem('keepscreen_enabled');
+      if (savedKeepScreen !== null) {
+        keepScreenOnEnabled = savedKeepScreen === 'true';
+      }
+    } catch(e){}
+
     let ttsSpeed = 1.0;
     let ttsPitch = 1.0;
     let selectedVoice = null;
@@ -1202,11 +1299,18 @@
     const progressFill = document.getElementById('progress-fill');
     const progressTrack = document.getElementById('progress-track');
     const speedChipBtn = document.getElementById('speed-chip-btn');
+    const sleepTimerChipBtn = document.getElementById('sleep-timer-chip-btn');
+    const sleepTimerDockLabel = document.getElementById('sleep-timer-dock-label');
+    const sleepTimerActiveLabel = document.getElementById('sleep-timer-active-label');
 
     const libraryDrawerOverlay = document.getElementById('library-drawer-overlay');
     const chaptersDrawerOverlay = document.getElementById('chapters-drawer-overlay');
     const audioDrawerOverlay = document.getElementById('audio-drawer-overlay');
     const settingsDrawerOverlay = document.getElementById('settings-drawer-overlay');
+    const sleepDrawerOverlay = document.getElementById('sleep-drawer-overlay');
+    const closeSleepDrawer = document.getElementById('close-sleep-drawer');
+    const openSleepFromAudioBtn = document.getElementById('open-sleep-from-audio-btn');
+    const sleepTimerAudioLabel = document.getElementById('sleep-timer-audio-label');
 
     const openLibraryBtn = document.getElementById('open-library-btn');
     const novelsCatalogContainer = document.getElementById('novels-catalog-container');
@@ -1222,6 +1326,7 @@
     const pitchValLabel = document.getElementById('pitch-val-label');
     const autoscrollToggle = document.getElementById('autoscroll-toggle');
     const autochapterToggle = document.getElementById('autochapter-toggle');
+    const keepscreenToggle = document.getElementById('keepscreen-toggle');
 
     const btnModeSentence = document.getElementById('btn-mode-sentence');
     const btnModeWord = document.getElementById('btn-mode-word');
@@ -2817,8 +2922,28 @@
       return span;
     }
 
-    function renderChapter(chIndex) {
-      stopTTS();
+    function renderChapter(chIndex, autoPlay = null) {
+      const shouldContinue = (autoPlay !== null && autoPlay !== undefined) ? autoPlay : isPlaying;
+
+      if (autoAdvanceTimeout) {
+        clearTimeout(autoAdvanceTimeout);
+        autoAdvanceTimeout = null;
+      }
+      clearActiveWord();
+
+      if (!shouldContinue) {
+        stopTTS();
+      } else {
+        // Pause audio utterance without resetting playing state or dropping wake lock
+        if (hasAndroidTTS && window.AndroidTTS.stopUtterance) {
+          window.AndroidTTS.stopUtterance();
+        } else if (hasAndroidTTS) {
+          window.AndroidTTS.stop();
+        } else if ('speechSynthesis' in window) {
+          window.speechSynthesis.cancel();
+        }
+      }
+
       currentChapterIndex = chIndex;
       const chapter = novelBundle.bundled_chapters[chIndex];
       if (!chapter) return;
@@ -2904,16 +3029,27 @@
       updateProgress();
       renderChaptersList();
       window.scrollTo({ top: 0, behavior: 'smooth' });
+
+      if (shouldContinue) {
+        speakSentence(0);
+      }
     }
 
     function onChapterComplete() {
+      // Check Sleep Timer for "End of Chapter" mode
+      if (sleepTimerType === 'chapter') {
+        stopTTS();
+        ttsStatusText.textContent = "Sleep timer: reached end of chapter. Playback stopped.";
+        setSleepTimer('off');
+        return;
+      }
+
       const nextIdx = currentChapterIndex + 1;
       const hasNext = novelBundle && novelBundle.bundled_chapters && nextIdx < novelBundle.bundled_chapters.length;
       if (autoChapterEnabled && hasNext) {
         ttsStatusText.textContent = "Loading next chapter...";
         // Advance immediately without setTimeout to prevent Android WebView background timer throttling when screen is off
-        renderChapter(nextIdx);
-        speakSentence(0);
+        renderChapter(nextIdx, true);
       } else {
         stopTTS();
         ttsStatusText.textContent = hasNext ? "Chapter complete" : "Novel complete";
@@ -3032,6 +3168,10 @@
       playBtnIcon.textContent = '⏸';
       ttsStatusText.textContent = `Speaking sentence ${idx + 1}...`;
 
+      if (hasAndroidTTS && window.AndroidTTS.setKeepScreenOn && keepScreenOnEnabled) {
+        window.AndroidTTS.setKeepScreenOn(true);
+      }
+
       const text = sentences[idx].text;
 
       // Start word tracking if in word mode
@@ -3119,11 +3259,121 @@
       ttsStatusText.textContent = 'Paused';
       if (hasAndroidTTS) {
         window.AndroidTTS.stop();
+        if (window.AndroidTTS.setKeepScreenOn) {
+          window.AndroidTTS.setKeepScreenOn(false);
+        }
       } else if ('speechSynthesis' in window) {
         window.speechSynthesis.cancel();
       }
       document.querySelectorAll('.sentence-span.active-speech').forEach(el => el.classList.remove('active-speech'));
     }
+
+    // ==========================================
+    // Sleep Timer Implementation
+    // ==========================================
+    function formatRemainingTime(ms) {
+      if (ms <= 0) return '0m';
+      const totalSec = Math.floor(ms / 1000);
+      const hours = Math.floor(totalSec / 3600);
+      const mins = Math.ceil((totalSec % 3600) / 60);
+      if (hours > 0) {
+        return `${hours}h ${mins}m`;
+      }
+      return `${mins}m`;
+    }
+
+    function updateSleepTimerUI() {
+      document.querySelectorAll('.sleep-option-btn').forEach(btn => {
+        const val = btn.dataset.sleep;
+        if (sleepTimerType === 'off' && val === 'off') {
+          btn.classList.add('active');
+        } else if (sleepTimerType === 'chapter' && val === 'chapter') {
+          btn.classList.add('active');
+        } else if (typeof sleepTimerType === 'number' && parseInt(val, 10) === sleepTimerType) {
+          btn.classList.add('active');
+        } else {
+          btn.classList.remove('active');
+        }
+      });
+
+      if (sleepTimerType === 'off') {
+        if (sleepTimerDockLabel) sleepTimerDockLabel.textContent = 'Off';
+        if (sleepTimerActiveLabel) sleepTimerActiveLabel.textContent = 'Off';
+        if (sleepTimerAudioLabel) sleepTimerAudioLabel.textContent = 'Off';
+        if (sleepTimerChipBtn) sleepTimerChipBtn.classList.remove('active');
+      } else if (sleepTimerType === 'chapter') {
+        if (sleepTimerDockLabel) sleepTimerDockLabel.textContent = 'End Ch';
+        if (sleepTimerActiveLabel) sleepTimerActiveLabel.textContent = 'End of Current Chapter';
+        if (sleepTimerAudioLabel) sleepTimerAudioLabel.textContent = 'End Ch';
+        if (sleepTimerChipBtn) sleepTimerChipBtn.classList.add('active');
+      } else if (typeof sleepTimerType === 'number' && sleepTimerTargetTime) {
+        const remaining = sleepTimerTargetTime - Date.now();
+        const remStr = formatRemainingTime(remaining);
+        if (sleepTimerDockLabel) sleepTimerDockLabel.textContent = remStr;
+        if (sleepTimerActiveLabel) sleepTimerActiveLabel.textContent = `${remStr} remaining`;
+        if (sleepTimerAudioLabel) sleepTimerAudioLabel.textContent = remStr;
+        if (sleepTimerChipBtn) sleepTimerChipBtn.classList.add('active');
+      }
+    }
+
+    function setSleepTimer(val) {
+      if (sleepTimerInterval) {
+        clearInterval(sleepTimerInterval);
+        sleepTimerInterval = null;
+      }
+
+      if (val === 'off' || !val) {
+        sleepTimerType = 'off';
+        sleepTimerTargetTime = null;
+        if (hasAndroidTTS && window.AndroidTTS.setNativeSleepTimer) {
+          window.AndroidTTS.setNativeSleepTimer(0);
+        }
+      } else if (val === 'chapter') {
+        sleepTimerType = 'chapter';
+        sleepTimerTargetTime = null;
+        if (hasAndroidTTS && window.AndroidTTS.setNativeSleepTimer) {
+          window.AndroidTTS.setNativeSleepTimer(0);
+        }
+      } else {
+        const mins = parseInt(val, 10);
+        if (!isNaN(mins) && mins > 0) {
+          sleepTimerType = mins;
+          sleepTimerTargetTime = Date.now() + (mins * 60 * 1000);
+          if (hasAndroidTTS && window.AndroidTTS.setNativeSleepTimer) {
+            window.AndroidTTS.setNativeSleepTimer(mins);
+          }
+
+          sleepTimerInterval = setInterval(() => {
+            if (!sleepTimerTargetTime) return;
+            const remaining = sleepTimerTargetTime - Date.now();
+            if (remaining <= 0) {
+              triggerSleepTimerExpiry();
+            } else {
+              updateSleepTimerUI();
+            }
+          }, 1000);
+        } else {
+          sleepTimerType = 'off';
+          sleepTimerTargetTime = null;
+        }
+      }
+
+      updateSleepTimerUI();
+    }
+
+    function triggerSleepTimerExpiry() {
+      if (sleepTimerInterval) {
+        clearInterval(sleepTimerInterval);
+        sleepTimerInterval = null;
+      }
+      stopTTS();
+      ttsStatusText.textContent = "Sleep timer expired. Playback stopped.";
+      setSleepTimer('off');
+    }
+
+    window.onSleepTimerExpired = function() {
+      triggerSleepTimerExpiry();
+    };
 
     function jumpToSentence(idx) {
       currentSentenceIdx = idx;
@@ -3200,6 +3450,39 @@
         try { localStorage.setItem('autochapter_enabled', autoChapterEnabled.toString()); } catch(e){}
       };
     }
+
+    if (keepscreenToggle) {
+      keepscreenToggle.onchange = (e) => {
+        keepScreenOnEnabled = e.target.checked;
+        try { localStorage.setItem('keepscreen_enabled', keepScreenOnEnabled.toString()); } catch(e){}
+        if (hasAndroidTTS && window.AndroidTTS.setKeepScreenOn) {
+          window.AndroidTTS.setKeepScreenOn(isPlaying && keepScreenOnEnabled);
+        }
+      };
+    }
+
+    if (sleepTimerChipBtn) {
+      sleepTimerChipBtn.onclick = (e) => {
+        e.stopPropagation();
+        updateSleepTimerUI();
+        window.openDrawer('sleep-drawer-overlay');
+      };
+    }
+
+    if (openSleepFromAudioBtn) {
+      openSleepFromAudioBtn.onclick = (e) => {
+        e.stopPropagation();
+        updateSleepTimerUI();
+        window.openDrawer('sleep-drawer-overlay');
+      };
+    }
+
+    document.querySelectorAll('.sleep-option-btn').forEach(btn => {
+      btn.onclick = () => {
+        const val = btn.dataset.sleep;
+        setSleepTimer(val);
+      };
+    });
 
     // Robust Mutual-Exclusion Drawer Manager
     window.openDrawer = function(drawerId) {
@@ -3462,6 +3745,11 @@
         if (savedAutoChapter !== null && autochapterToggle) {
           autoChapterEnabled = savedAutoChapter === 'true';
           autochapterToggle.checked = autoChapterEnabled;
+        }
+        const savedKeepScreen = localStorage.getItem('keepscreen_enabled');
+        if (savedKeepScreen !== null && keepscreenToggle) {
+          keepScreenOnEnabled = savedKeepScreen === 'true';
+          keepscreenToggle.checked = keepScreenOnEnabled;
         }
       } catch(e) {
         console.error("Error restoring settings:", e);
