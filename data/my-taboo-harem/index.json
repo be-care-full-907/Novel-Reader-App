@@ -2,6 +2,13 @@
   "novel_id": "my-taboo-harem",
   "bundles": [
     {
+      "bundle_file": "chapters_1_50.json",
+      "start_chapter": 1,
+      "end_chapter": 50,
+      "chapter_count": 50,
+      "updated_at": "2026-10-14T18:52:32Z"
+    },
+    {
       "bundle_file": "chapters_51_100.json",
       "start_chapter": 51,
       "end_chapter": 100,
