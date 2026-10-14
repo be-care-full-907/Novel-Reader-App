@@ -1,0 +1,12 @@
+{
+  "novel_id": "6-times-a-day",
+  "bundles": [
+    {
+      "bundle_file": "chapters_1_50.json",
+      "start_chapter": 1,
+      "end_chapter": 50,
+      "chapter_count": 50,
+      "updated_at": "2026-10-14T15:35:20Z"
+    }
+  ]
+}
