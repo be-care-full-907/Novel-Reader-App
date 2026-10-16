@@ -855,6 +855,13 @@
           Select a novel to read. Reading progress, offline chapters, and cloud downloads are preserved independently for each novel.
         </div>
 
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; gap: 8px;">
+          <span id="library-count-label" style="font-size: 0.82rem; font-family: sans-serif; font-weight: 600; opacity: 0.85;">My Novels</span>
+          <button type="button" id="toggle-hidden-novels-btn" class="audio-tune-chip" style="font-size: 0.76rem; padding: 5px 11px;">
+            <span id="hidden-novels-icon">🔒</span> <span id="hidden-novels-text">Show Hidden</span>
+          </button>
+        </div>
+
         <div id="novels-catalog-container">
           <!-- Rendered dynamically -->
         </div>
@@ -1245,8 +1252,18 @@
           }
         }
       } catch(e) {}
+
+      // 3. Exclude user-deleted novels from catalog
+      try {
+        const deletedIds = JSON.parse(localStorage.getItem('deleted_novel_ids') || '[]');
+        if (Array.isArray(deletedIds) && deletedIds.length > 0) {
+          novelsCatalog = novelsCatalog.filter(n => !deletedIds.includes(n.id));
+        }
+      } catch(e) {}
     }
     initNovelsCatalog();
+
+    let showHiddenNovels = false;
 
     function getActiveNovel() {
       return novelsCatalog.find(n => n.id === activeNovelId) || novelsCatalog[0];
@@ -1918,33 +1935,97 @@
       loadCloudManifest().then(() => renderCloudBundles());
     }
 
-    // Render Novel Library Catalog
+    // Render Novel Library Catalog with Delete and Hide support
     function renderNovelsCatalog() {
       if (!novelsCatalogContainer) return;
       novelsCatalogContainer.innerHTML = '';
 
-      novelsCatalog.forEach(n => {
+      let hiddenNovelIds = [];
+      try {
+        hiddenNovelIds = JSON.parse(localStorage.getItem('hidden_novel_ids') || '[]');
+      } catch(e){}
+
+      const libraryCountLabel = document.getElementById('library-count-label');
+      const toggleHiddenBtn = document.getElementById('toggle-hidden-novels-btn');
+      const hiddenNovelsIcon = document.getElementById('hidden-novels-icon');
+      const hiddenNovelsText = document.getElementById('hidden-novels-text');
+
+      if (toggleHiddenBtn) {
+        toggleHiddenBtn.onclick = (e) => {
+          e.stopPropagation();
+          showHiddenNovels = !showHiddenNovels;
+          renderNovelsCatalog();
+        };
+      }
+      if (hiddenNovelsIcon && hiddenNovelsText) {
+        if (showHiddenNovels) {
+          hiddenNovelsIcon.textContent = '👁️';
+          hiddenNovelsText.textContent = 'Hide Hidden';
+          toggleHiddenBtn?.classList.add('active');
+        } else {
+          hiddenNovelsIcon.textContent = '🔒';
+          const hiddenCount = novelsCatalog.filter(n => hiddenNovelIds.includes(n.id)).length;
+          hiddenNovelsText.textContent = hiddenCount > 0 ? `Show Hidden (${hiddenCount})` : 'Show Hidden';
+          toggleHiddenBtn?.classList.remove('active');
+        }
+      }
+
+      const displayList = novelsCatalog.filter(n => {
+        if (showHiddenNovels) return true;
+        return !hiddenNovelIds.includes(n.id);
+      });
+
+      if (libraryCountLabel) {
+        libraryCountLabel.textContent = `My Novels (${displayList.length}${hiddenNovelIds.length > 0 && !showHiddenNovels ? ` • ${hiddenNovelIds.length} hidden` : ''})`;
+      }
+
+      if (displayList.length === 0) {
+        novelsCatalogContainer.innerHTML = `
+          <div style="text-align: center; padding: 2.5rem 1rem; opacity: 0.7; font-family: sans-serif; font-size: 0.88rem;">
+            ${showHiddenNovels ? 'No hidden novels found.' : 'No novels in library. Add one using the form below!'}
+          </div>
+        `;
+        return;
+      }
+
+      displayList.forEach(n => {
+        const isHidden = hiddenNovelIds.includes(n.id);
         const card = document.createElement('div');
         card.className = `novel-card ${n.id === activeNovelId ? 'active' : ''}`;
         card.dataset.novelId = n.id;
+        if (isHidden) {
+          card.style.borderStyle = 'dashed';
+          card.style.opacity = '0.92';
+        }
 
         const savedChNum = parseInt(localStorage.getItem(`last_read_chapter_num_${n.id}`) || (n.id === 'infinite-mana-in-the-apocalypse' ? localStorage.getItem('last_read_chapter_num') : '-1') || '-1', 10);
 
         card.innerHTML = `
           <img class="novel-card-cover" src="${n.cover_url || ''}" alt="${n.title}" onerror="this.onerror=null; this.src='https://placehold.co/100x150/4f46e5/ffffff?text=${encodeURIComponent(n.title.slice(0, 10))}';" />
-          <div class="novel-card-info">
-            <div>
+          <div class="novel-card-info" style="flex: 1; min-width: 0;">
+            <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 6px;">
               <div class="novel-card-title">${n.title}</div>
-              <div class="novel-card-author">By ${n.author || 'Author'} • ${n.total_chapters || '2400+'} Chapters</div>
+              ${isHidden ? `<span style="background: rgba(120,119,198,0.22); color: var(--accent-color); font-size: 0.68rem; padding: 2px 7px; border-radius: 6px; font-weight: 700; white-space: nowrap; flex-shrink: 0;">🔒 Hidden</span>` : ''}
             </div>
+            <div class="novel-card-author">By ${n.author || 'Author'} • ${n.total_chapters || '2400+'} Chapters</div>
             <div class="novel-card-progress">
               ${savedChNum > 0 ? `📖 Reading: Chapter ${savedChNum}` : `📖 Not started (Tap to read)`}
             </div>
-            <div class="novel-card-actions">
-              ${n.id === activeNovelId
-                ? `<span class="novel-badge-active">✓ Currently Reading</span>`
-                : `<button class="btn-download btn-switch-novel" data-novel-id="${n.id}" style="padding: 7px 14px; font-size: 0.8rem;">Read Novel ➔</button>`
-              }
+            <div class="novel-card-actions" style="display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 6px;">
+              <div style="display: flex; gap: 6px; align-items: center;">
+                ${n.id === activeNovelId
+                  ? `<span class="novel-badge-active">✓ Reading</span>`
+                  : `<button class="btn-download btn-switch-novel" data-novel-id="${n.id}" style="padding: 7px 12px; font-size: 0.8rem;">Read ➔</button>`
+                }
+              </div>
+              <div style="display: flex; gap: 6px; align-items: center;">
+                <button class="btn-hide-novel secondary-btn" data-novel-id="${n.id}" title="${isHidden ? 'Unhide this novel' : 'Hide this novel for privacy'}" style="padding: 6px 10px; font-size: 0.76rem; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 4px; font-weight: 600;">
+                  ${isHidden ? '👁️ Unhide' : '🔒 Hide'}
+                </button>
+                <button class="btn-delete-novel" data-novel-id="${n.id}" title="Delete novel from library" style="background: rgba(239, 68, 68, 0.12); border: 1px solid rgba(239, 68, 68, 0.28); color: #ef4444; border-radius: 8px; padding: 6px 10px; font-size: 0.8rem; cursor: pointer;">
+                  🗑️
+                </button>
+              </div>
             </div>
           </div>
         `;
@@ -1961,8 +2042,92 @@
           };
         }
 
+        const hideBtn = card.querySelector('.btn-hide-novel');
+        if (hideBtn) {
+          hideBtn.onclick = (e) => {
+            e.stopPropagation();
+            toggleHideNovel(n.id);
+          };
+        }
+
+        const deleteBtn = card.querySelector('.btn-delete-novel');
+        if (deleteBtn) {
+          deleteBtn.onclick = (e) => {
+            e.stopPropagation();
+            confirmDeleteNovel(n.id, n.title);
+          };
+        }
+
         novelsCatalogContainer.appendChild(card);
       });
+    }
+
+    function toggleHideNovel(novelId) {
+      let hiddenNovelIds = [];
+      try {
+        hiddenNovelIds = JSON.parse(localStorage.getItem('hidden_novel_ids') || '[]');
+      } catch(e){}
+
+      if (hiddenNovelIds.includes(novelId)) {
+        hiddenNovelIds = hiddenNovelIds.filter(id => id !== novelId);
+      } else {
+        hiddenNovelIds.push(novelId);
+      }
+      try {
+        localStorage.setItem('hidden_novel_ids', JSON.stringify(hiddenNovelIds));
+      } catch(e){}
+      renderNovelsCatalog();
+    }
+
+    function confirmDeleteNovel(novelId, title) {
+      const ok = confirm(`Are you sure you want to delete "${title}" from your library?\n\nThis will remove it from your list and delete all its offline chapters from device storage.`);
+      if (!ok) return;
+
+      // 1. Add to deleted_novel_ids so it stays removed even after app restarts
+      let deletedIds = [];
+      try {
+        deletedIds = JSON.parse(localStorage.getItem('deleted_novel_ids') || '[]');
+      } catch(e){}
+      if (!deletedIds.includes(novelId)) {
+        deletedIds.push(novelId);
+        try { localStorage.setItem('deleted_novel_ids', JSON.stringify(deletedIds)); } catch(e){}
+      }
+
+      // 2. Remove from custom_novels if stored
+      try {
+        let custom = JSON.parse(localStorage.getItem('custom_novels') || '[]');
+        custom = custom.filter(cn => cn.id !== novelId);
+        localStorage.setItem('custom_novels', JSON.stringify(custom));
+      } catch(e){}
+
+      // 3. Remove from in-memory novelsCatalog
+      novelsCatalog = novelsCatalog.filter(n => n.id !== novelId);
+
+      // 4. Delete saved bundles from device storage
+      if (hasAndroidTTS && window.AndroidTTS.deleteNovelBundlesInRange) {
+        try {
+          window.AndroidTTS.deleteNovelBundlesInRange(novelId, 0, 999999);
+        } catch(e){}
+      }
+
+      // 5. Clean up localStorage progress keys for this novel
+      try {
+        localStorage.removeItem(`last_read_chapter_num_${novelId}`);
+        localStorage.removeItem(`last_read_chapter_index_${novelId}`);
+        localStorage.removeItem(`last_read_sentence_index_${novelId}`);
+      } catch(e){}
+
+      // 6. If currently active novel was deleted, switch to another available novel
+      if (activeNovelId === novelId) {
+        if (novelsCatalog.length > 0) {
+          switchNovel(novelsCatalog[0].id);
+        } else {
+          novelsCatalog = [...DEFAULT_NOVELS];
+          switchNovel(novelsCatalog[0].id);
+        }
+      } else {
+        renderNovelsCatalog();
+      }
     }
 
     function getChapterDisplayName(ch) {
@@ -2463,16 +2628,9 @@
         updateBanner(`✅ Chapters ${start}–${end} are already installed in your Offline Library!`, 'rgba(16, 185, 129, 0.15)', '#059669');
         if (btnEl) {
           btnEl.disabled = false;
-          btnEl.textContent = '✅ In Library';
+          btnEl.textContent = '✅ Read';
         }
-        const targetChIdx = localChapters.findIndex(c => c.chapter_index === start);
-        if (targetChIdx !== -1) {
-          setTimeout(() => {
-            tabBtnLocal.click();
-            renderChapter(targetChIdx);
-            window.closeAllDrawers();
-          }, 600);
-        }
+        renderCloudBundles();
         return;
       }
 
@@ -2499,12 +2657,12 @@
             await integrateFetchedChapters(parsedData.chapters, exactFileName, initialFetch.text);
             updateBanner(`✅ Successfully imported ${parsedData.chapters.length} chapters (${start}–${end}) into library!`, 'rgba(16, 185, 129, 0.15)', '#059669');
             renderCloudBundles();
-            const targetChIdx = novelBundle.bundled_chapters.findIndex(c => c.chapter_index === start);
-            setTimeout(() => {
-              tabBtnLocal.click();
-              if (targetChIdx !== -1) renderChapter(targetChIdx);
-              window.closeAllDrawers();
-            }, 800);
+            renderChaptersList();
+            renderNovelsCatalog();
+            if (btnEl) {
+              btnEl.disabled = false;
+              btnEl.textContent = '✅ Read';
+            }
             return;
           } catch(storageErr) {
             console.error("Storage error:", storageErr);
@@ -2568,12 +2726,12 @@
           if (stillMissing.length === 0) {
             updateBanner(`✅ Successfully imported Chapters ${start}–${end} into library!`, 'rgba(16, 185, 129, 0.15)', '#059669');
             renderCloudBundles();
-            const targetChIdx = updatedLocal.findIndex(c => c.chapter_index === start);
-            setTimeout(() => {
-              tabBtnLocal.click();
-              if (targetChIdx !== -1) renderChapter(targetChIdx);
-              window.closeAllDrawers();
-            }, 800);
+            renderChaptersList();
+            renderNovelsCatalog();
+            if (btnEl) {
+              btnEl.disabled = false;
+              btnEl.textContent = '✅ Read';
+            }
             return;
           }
         }
@@ -2670,12 +2828,12 @@
             clearInterval(pollTimer);
             updateBanner(`✅ Success! Runner finished and imported chapters (${start}–${end}) into library!`, 'rgba(16, 185, 129, 0.15)', '#059669');
             renderCloudBundles();
-            const targetChIdx = novelBundle.bundled_chapters.findIndex(c => c.chapter_index === start);
-            setTimeout(() => {
-              tabBtnLocal.click();
-              if (targetChIdx !== -1) renderChapter(targetChIdx);
-              window.closeAllDrawers();
-            }, 800);
+            renderChaptersList();
+            renderNovelsCatalog();
+            if (btnEl) {
+              btnEl.disabled = false;
+              btnEl.textContent = '✅ Read';
+            }
             return;
           }
 
@@ -2881,6 +3039,11 @@
       const rawText = rawJsonText || JSON.stringify({ chapters: newChapters });
       await ChapterStore.saveBundle(fileName, rawText, newChapters, activeNovelId);
 
+      // Remember current chapter index's chapter number to maintain user's exact reading position
+      const currentChNum = (novelBundle && novelBundle.bundled_chapters && novelBundle.bundled_chapters[currentChapterIndex])
+        ? novelBundle.bundled_chapters[currentChapterIndex].chapter_index
+        : null;
+
       // 2. Merge into active in-memory bundle
       const activeMap = new Map();
       if (novelBundle && Array.isArray(novelBundle.bundled_chapters)) {
@@ -2888,6 +3051,14 @@
       }
       newChapters.forEach(c => activeMap.set(c.chapter_index, c));
       novelBundle.bundled_chapters = Array.from(activeMap.values()).sort((a,b) => a.chapter_index - b.chapter_index);
+
+      // Re-align currentChapterIndex to the exact same chapter
+      if (currentChNum !== null) {
+        const remappedIdx = novelBundle.bundled_chapters.findIndex(c => c.chapter_index === currentChNum);
+        if (remappedIdx !== -1) {
+          currentChapterIndex = remappedIdx;
+        }
+      }
 
       renderChaptersList();
       renderCloudBundles();
@@ -3029,6 +3200,24 @@
       updateProgress();
       renderChaptersList();
       window.scrollTo({ top: 0, behavior: 'smooth' });
+
+      // Synchronize full chapter sentences to native Android TTS bridge for seamless background playback
+      if (hasAndroidTTS && window.AndroidTTS.updatePlaybackSession) {
+        try {
+          const sArray = sentences.map(s => s.text);
+          window.AndroidTTS.updatePlaybackSession(
+            activeNovelId,
+            (getActiveNovel() && getActiveNovel().title) ? getActiveNovel().title : 'Infinite Reader',
+            chIndex,
+            displayTitle,
+            JSON.stringify(sArray),
+            currentSentenceIdx,
+            !!shouldContinue
+          );
+        } catch (e) {
+          console.error("Error updating AndroidTTS session:", e);
+        }
+      }
 
       if (shouldContinue) {
         speakSentence(0);
@@ -3232,6 +3421,69 @@
       if (isPlaying && sentenceId === currentSentenceIdx) {
         speakSentence(currentSentenceIdx + 1);
       }
+    };
+
+    // Callback from native Android TTS when background advancement moves to next sentence
+    window.onSpeechSentenceAdvanced = function(nextIdx) {
+      if (nextIdx >= 0 && nextIdx < sentences.length) {
+        currentSentenceIdx = nextIdx;
+        highlightSentence(nextIdx);
+        clearActiveWord();
+        try {
+          localStorage.setItem(`last_read_sentence_index_${activeNovelId}`, nextIdx.toString());
+          if (activeNovelId === 'infinite-mana-in-the-apocalypse') {
+            localStorage.setItem('last_read_sentence_index', nextIdx.toString());
+          }
+        } catch(e){}
+        updateProgress();
+        isPlaying = true;
+        playBtnIcon.textContent = '⏸';
+        ttsStatusText.textContent = `Speaking sentence ${nextIdx + 1}...`;
+      }
+    };
+
+    // Callback from native Android notification Play/Pause action
+    window.togglePlayFromNative = function(playNow) {
+      if (playNow) {
+        isPlaying = true;
+        playBtnIcon.textContent = '⏸';
+        ttsStatusText.textContent = `Speaking sentence ${currentSentenceIdx + 1}...`;
+        highlightSentence(currentSentenceIdx);
+      } else {
+        isPlaying = false;
+        playBtnIcon.textContent = '▶';
+        ttsStatusText.textContent = 'Paused';
+        document.querySelectorAll('.sentence-span.active-speech').forEach(el => el.classList.remove('active-speech'));
+      }
+    };
+
+    // Callback from native Android notification Next Chapter action
+    window.nextChapterFromNative = function() {
+      if (novelBundle && novelBundle.bundled_chapters && currentChapterIndex < novelBundle.bundled_chapters.length - 1) {
+        renderChapter(currentChapterIndex + 1, true);
+      }
+    };
+
+    // Callback from native Android notification Prev Chapter action
+    window.prevChapterFromNative = function() {
+      if (currentChapterIndex > 0) {
+        renderChapter(currentChapterIndex - 1, true);
+      }
+    };
+
+    // Callback from MainActivity.onResume to synchronize UI state if sentences advanced in background
+    window.syncPlaybackState = function(chIndex, sentenceIndex, isPlayingNow) {
+      if (chIndex !== currentChapterIndex && novelBundle && novelBundle.bundled_chapters && chIndex >= 0 && chIndex < novelBundle.bundled_chapters.length) {
+        renderChapter(chIndex, isPlayingNow);
+      }
+      if (sentenceIndex >= 0 && sentenceIndex < sentences.length) {
+        currentSentenceIdx = sentenceIndex;
+        highlightSentence(sentenceIndex);
+        updateProgress();
+      }
+      isPlaying = !!isPlayingNow;
+      playBtnIcon.textContent = isPlaying ? '⏸' : '▶';
+      ttsStatusText.textContent = isPlaying ? `Speaking sentence ${currentSentenceIdx + 1}...` : 'Paused';
     };
 
     function highlightSentence(idx) {

@@ -18,16 +18,30 @@ import org.json.JSONObject
 import java.util.Locale
 
 class TTSBridge(private val context: Context, private val webView: WebView) : TextToSpeech.OnInitListener {
+    companion object {
+        var activeBridgeInstance: TTSBridge? = null
+    }
+
     private var tts: TextToSpeech? = null
     private var isInitialized = false
     private var wakeLock: PowerManager.WakeLock? = null
     private val mainHandler = Handler(Looper.getMainLooper())
     private var sleepRunnable: Runnable? = null
 
+    // Native session state for unbreakable background audio playback
+    private var activeSentences: List<String> = emptyList()
+    private var activeSentenceIndex: Int = 0
+    private var activeChapterIndex: Int = 0
+    private var activeChapterTitle: String = "Chapter"
+    private var activeNovelTitle: String = "Infinite Reader"
+    private var activeNovelId: String = ""
+    private var isPlayingActive: Boolean = false
+
     private val activity: Activity?
         get() = context as? Activity
 
     init {
+        activeBridgeInstance = this
         tts = TextToSpeech(context, this)
         try {
             val pm = context.getSystemService(Context.POWER_SERVICE) as? PowerManager
@@ -41,7 +55,7 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
     private fun acquireWakeLock() {
         try {
             if (wakeLock?.isHeld == false) {
-                // Unlimited wakeLock while active playback continues so phone never sleeps after 2-3 chapters
+                // Unlimited wakeLock while active playback continues so phone never sleeps
                 wakeLock?.acquire()
                 Log.d("TTSBridge", "WakeLock acquired for continuous playback")
             }
@@ -75,9 +89,43 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
 
                 override fun onDone(utteranceId: String?) {
                     val id = utteranceId?.toIntOrNull() ?: 0
+                    Log.d("TTSBridge", "Utterance onDone: $id")
+
+                    // 1. Notify WebView (runs immediately if app is currently visible)
                     webView.post {
                         webView.evaluateJavascript("window.onSpeechDone && window.onSpeechDone($id);", null)
                     }
+
+                    // 2. NATIVE BACKGROUND ADVANCEMENT:
+                    // If the user has opened another app, Chromium WebView pauses evaluateJavascript!
+                    // If JavaScript hasn't called speak() within 60ms, Kotlin advances natively so audio NEVER stops!
+                    mainHandler.postDelayed({
+                        if (isPlayingActive && activeSentenceIndex == id) {
+                            val next = id + 1
+                            if (next < activeSentences.size) {
+                                Log.d("TTSBridge", "Native background advance to sentence $next")
+                                activeSentenceIndex = next
+                                val nextText = activeSentences[next]
+                                acquireWakeLock()
+                                TTSPlaybackService.update(
+                                    context,
+                                    activeNovelTitle.ifEmpty { "Infinite Reader" },
+                                    "$activeChapterTitle • Sentence ${next + 1}/${activeSentences.size}",
+                                    true
+                                )
+                                val params = Bundle()
+                                tts?.speak(nextText, TextToSpeech.QUEUE_FLUSH, params, next.toString())
+                                webView.post {
+                                    webView.evaluateJavascript("window.onSpeechSentenceAdvanced && window.onSpeechSentenceAdvanced($next);", null)
+                                }
+                            } else {
+                                Log.d("TTSBridge", "Native background reached end of chapter")
+                                webView.post {
+                                    webView.evaluateJavascript("window.onChapterComplete && window.onChapterComplete();", null)
+                                }
+                            }
+                        }
+                    }, 60)
                 }
 
                 override fun onRangeStart(utteranceId: String?, start: Int, end: Int, frame: Int) {
@@ -102,6 +150,44 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
             }
         } else {
             Log.e("TTSBridge", "TextToSpeech init failed with status: $status")
+        }
+    }
+
+    @JavascriptInterface
+    fun updatePlaybackSession(
+        novelId: String,
+        novelTitle: String,
+        chIndex: Int,
+        chTitle: String,
+        sentencesJson: String,
+        currentIdx: Int,
+        isPlayingNow: Boolean
+    ) {
+        try {
+            activeNovelId = novelId
+            activeNovelTitle = novelTitle.ifEmpty { "Infinite Reader" }
+            activeChapterIndex = chIndex
+            activeChapterTitle = chTitle.ifEmpty { "Chapter ${chIndex + 1}" }
+            activeSentenceIndex = currentIdx
+            isPlayingActive = isPlayingNow
+
+            val jsonArray = JSONArray(sentencesJson)
+            val list = ArrayList<String>(jsonArray.length())
+            for (i in 0 until jsonArray.length()) {
+                list.add(jsonArray.getString(i))
+            }
+            activeSentences = list
+            Log.d("TTSBridge", "Playback session updated: $chTitle (${activeSentences.size} sentences, start at $currentIdx, playing=$isPlayingNow)")
+
+            if (isPlayingNow) {
+                TTSPlaybackService.start(
+                    context,
+                    activeNovelTitle,
+                    "$activeChapterTitle • Sentence ${currentIdx + 1}/${activeSentences.size.coerceAtLeast(1)}"
+                )
+            }
+        } catch (e: Exception) {
+            Log.e("TTSBridge", "Error updating playback session: ${e.message}")
         }
     }
 
@@ -144,7 +230,14 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
     @JavascriptInterface
     fun speak(text: String, sentenceId: Int) {
         if (!isInitialized) return
+        isPlayingActive = true
+        activeSentenceIndex = sentenceId
         acquireWakeLock()
+        TTSPlaybackService.start(
+            context,
+            activeNovelTitle.ifEmpty { "Infinite Reader" },
+            "$activeChapterTitle • Sentence ${sentenceId + 1}/${activeSentences.size.coerceAtLeast(1)}"
+        )
         val params = Bundle()
         tts?.speak(text, TextToSpeech.QUEUE_FLUSH, params, sentenceId.toString())
     }
@@ -152,17 +245,56 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
     @JavascriptInterface
     fun stopUtterance() {
         tts?.stop()
-        // Note: WakeLock intentionally remains acquired during quick sentence / chapter transitions
+        // Note: WakeLock and ForegroundService intentionally remain active during quick transitions
     }
 
     @JavascriptInterface
     fun stop() {
+        isPlayingActive = false
         tts?.stop()
         releaseWakeLock()
         setKeepScreenOn(false)
+        TTSPlaybackService.stop(context)
         mainHandler.post {
             sleepRunnable?.let { mainHandler.removeCallbacks(it) }
             sleepRunnable = null
+        }
+    }
+
+    fun togglePlayPause() {
+        mainHandler.post {
+            if (isPlayingActive) {
+                stop()
+                webView.evaluateJavascript("window.togglePlayFromNative && window.togglePlayFromNative(false);", null)
+            } else {
+                isPlayingActive = true
+                acquireWakeLock()
+                if (activeSentenceIndex in activeSentences.indices) {
+                    speak(activeSentences[activeSentenceIndex], activeSentenceIndex)
+                }
+                webView.evaluateJavascript("window.togglePlayFromNative && window.togglePlayFromNative(true);", null)
+            }
+        }
+    }
+
+    fun nextChapter() {
+        mainHandler.post {
+            webView.evaluateJavascript("window.nextChapterFromNative && window.nextChapterFromNative();", null)
+        }
+    }
+
+    fun prevChapter() {
+        mainHandler.post {
+            webView.evaluateJavascript("window.prevChapterFromNative && window.prevChapterFromNative();", null)
+        }
+    }
+
+    fun syncToWebView() {
+        mainHandler.post {
+            webView.evaluateJavascript(
+                "window.syncPlaybackState && window.syncPlaybackState($activeChapterIndex, $activeSentenceIndex, $isPlayingActive);",
+                null
+            )
         }
     }
 
@@ -454,6 +586,9 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
     }
 
     fun shutdown() {
+        if (activeBridgeInstance == this) {
+            activeBridgeInstance = null
+        }
         stop()
         tts?.shutdown()
     }
