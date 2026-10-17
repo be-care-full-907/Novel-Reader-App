@@ -844,9 +844,9 @@
   <!-- Novel Library Drawer -->
   <div class="drawer-overlay" id="library-drawer-overlay">
     <div class="drawer-content">
-      <div class="drawer-drag-pill"></div>
+      <div class="drawer-drag-pill" id="library-drawer-pill" style="cursor: pointer;"></div>
       <div class="drawer-header">
-        <h3>📚 Novel Library</h3>
+        <h3 id="library-drawer-title" style="cursor: pointer; user-select: none;">📚 Novel Library</h3>
         <button class="icon-btn close-drawer-btn" id="close-library-drawer">✕</button>
       </div>
 
@@ -856,8 +856,8 @@
         </div>
 
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; gap: 8px;">
-          <span id="library-count-label" style="font-size: 0.82rem; font-family: sans-serif; font-weight: 600; opacity: 0.85;">My Novels</span>
-          <button type="button" id="toggle-hidden-novels-btn" class="audio-tune-chip" style="font-size: 0.76rem; padding: 5px 11px;">
+          <span id="library-count-label" style="font-size: 0.82rem; font-family: sans-serif; font-weight: 600; opacity: 0.85; cursor: pointer; user-select: none;">My Novels</span>
+          <button type="button" id="toggle-hidden-novels-btn" class="audio-tune-chip" style="font-size: 0.76rem; padding: 5px 11px; display: none;">
             <span id="hidden-novels-icon">🔒</span> <span id="hidden-novels-text">Show Hidden</span>
           </button>
         </div>
@@ -1264,6 +1264,17 @@
     initNovelsCatalog();
 
     let showHiddenNovels = false;
+    let secretLibraryUnlocked = false;
+    let secretSeqStep = 0;
+    let secretSeqTimer = null;
+
+    function resetSecretSequence() {
+      secretSeqStep = 0;
+      if (secretSeqTimer) {
+        clearTimeout(secretSeqTimer);
+        secretSeqTimer = null;
+      }
+    }
 
     function getActiveNovel() {
       return novelsCatalog.find(n => n.id === activeNovelId) || novelsCatalog[0];
@@ -1951,38 +1962,46 @@
       const hiddenNovelsText = document.getElementById('hidden-novels-text');
 
       if (toggleHiddenBtn) {
-        toggleHiddenBtn.onclick = (e) => {
-          e.stopPropagation();
-          showHiddenNovels = !showHiddenNovels;
-          renderNovelsCatalog();
-        };
-      }
-      if (hiddenNovelsIcon && hiddenNovelsText) {
-        if (showHiddenNovels) {
-          hiddenNovelsIcon.textContent = '👁️';
-          hiddenNovelsText.textContent = 'Hide Hidden';
-          toggleHiddenBtn?.classList.add('active');
+        if (secretLibraryUnlocked) {
+          toggleHiddenBtn.style.display = 'inline-flex';
+          toggleHiddenBtn.onclick = (e) => {
+            e.stopPropagation();
+            // Lock and conceal hidden mode
+            secretLibraryUnlocked = false;
+            showHiddenNovels = false;
+            resetSecretSequence();
+            renderNovelsCatalog();
+          };
+          if (hiddenNovelsIcon && hiddenNovelsText) {
+            hiddenNovelsIcon.textContent = '🔒';
+            hiddenNovelsText.textContent = 'Lock & Hide';
+            toggleHiddenBtn.classList.add('active');
+          }
         } else {
-          hiddenNovelsIcon.textContent = '🔒';
-          const hiddenCount = novelsCatalog.filter(n => hiddenNovelIds.includes(n.id)).length;
-          hiddenNovelsText.textContent = hiddenCount > 0 ? `Show Hidden (${hiddenCount})` : 'Show Hidden';
-          toggleHiddenBtn?.classList.remove('active');
+          toggleHiddenBtn.style.display = 'none';
+          showHiddenNovels = false;
+          toggleHiddenBtn.classList.remove('active');
         }
       }
 
       const displayList = novelsCatalog.filter(n => {
-        if (showHiddenNovels) return true;
+        if (secretLibraryUnlocked && showHiddenNovels) return true;
         return !hiddenNovelIds.includes(n.id);
       });
 
       if (libraryCountLabel) {
-        libraryCountLabel.textContent = `My Novels (${displayList.length}${hiddenNovelIds.length > 0 && !showHiddenNovels ? ` • ${hiddenNovelIds.length} hidden` : ''})`;
+        if (secretLibraryUnlocked && showHiddenNovels) {
+          const hiddenCount = novelsCatalog.filter(n => hiddenNovelIds.includes(n.id)).length;
+          libraryCountLabel.textContent = `My Novels (${displayList.length}${hiddenCount > 0 ? ` • ${hiddenCount} hidden` : ''})`;
+        } else {
+          libraryCountLabel.textContent = `My Novels (${displayList.length})`;
+        }
       }
 
       if (displayList.length === 0) {
         novelsCatalogContainer.innerHTML = `
           <div style="text-align: center; padding: 2.5rem 1rem; opacity: 0.7; font-family: sans-serif; font-size: 0.88rem;">
-            ${showHiddenNovels ? 'No hidden novels found.' : 'No novels in library. Add one using the form below!'}
+            ${secretLibraryUnlocked && showHiddenNovels ? 'No hidden novels found.' : 'No novels in library. Add one using the form below!'}
           </div>
         `;
         return;
@@ -2019,7 +2038,7 @@
                 }
               </div>
               <div style="display: flex; gap: 6px; align-items: center;">
-                <button class="btn-hide-novel secondary-btn" data-novel-id="${n.id}" title="${isHidden ? 'Unhide this novel' : 'Hide this novel for privacy'}" style="padding: 6px 10px; font-size: 0.76rem; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 4px; font-weight: 600;">
+                <button class="btn-hide-novel secondary-btn" data-novel-id="${n.id}" title="${isHidden ? 'Unhide this novel' : 'Hide this novel for privacy'}" style="padding: 6px 10px; font-size: 0.76rem; border-radius: 8px; cursor: pointer; display: ${secretLibraryUnlocked ? 'inline-flex' : 'none'}; align-items: center; gap: 4px; font-weight: 600;">
                   ${isHidden ? '👁️ Unhide' : '🔒 Hide'}
                 </button>
                 <button class="btn-delete-novel" data-novel-id="${n.id}" title="Delete novel from library" style="background: rgba(239, 68, 68, 0.12); border: 1px solid rgba(239, 68, 68, 0.28); color: #ef4444; border-radius: 8px; padding: 6px 10px; font-size: 0.8rem; cursor: pointer;">
@@ -2030,7 +2049,43 @@
           </div>
         `;
 
+        // Long press (press and hold 750ms) to discreetly hide/unhide without entering secret mode
+        let pressTimer = null;
+        let isLongPress = false;
+
+        const startPress = () => {
+          isLongPress = false;
+          pressTimer = setTimeout(() => {
+            isLongPress = true;
+            if (navigator.vibrate) try { navigator.vibrate(35); } catch(e){}
+            const confirmMsg = isHidden 
+              ? `Unhide "${n.title}"?\n\nThis novel will be restored to your visible library.`
+              : `Hide "${n.title}" from your library?\n\nIt will be concealed and only accessible via your 3-step secret sequence.`;
+            if (confirm(confirmMsg)) {
+              toggleHideNovel(n.id);
+            }
+          }, 750);
+        };
+
+        const cancelPress = () => {
+          if (pressTimer) {
+            clearTimeout(pressTimer);
+            pressTimer = null;
+          }
+        };
+
+        card.addEventListener('touchstart', startPress, { passive: true });
+        card.addEventListener('touchend', cancelPress);
+        card.addEventListener('touchmove', cancelPress);
+        card.addEventListener('mousedown', startPress);
+        card.addEventListener('mouseup', cancelPress);
+        card.addEventListener('mouseleave', cancelPress);
+
         card.onclick = () => {
+          if (isLongPress) {
+            isLongPress = false;
+            return;
+          }
           switchNovel(n.id);
         };
 
@@ -2129,6 +2184,59 @@
         renderNovelsCatalog();
       }
     }
+
+    function initSecretSequence() {
+      const step1El = document.getElementById('library-drawer-title');
+      const step2El = document.getElementById('library-drawer-pill');
+      const step3El = document.getElementById('library-count-label');
+
+      if (step1El) {
+        step1El.onclick = (e) => {
+          e.stopPropagation();
+          secretSeqStep = 1;
+          if (secretSeqTimer) clearTimeout(secretSeqTimer);
+          secretSeqTimer = setTimeout(() => { secretSeqStep = 0; }, 3500);
+        };
+      }
+
+      if (step2El) {
+        step2El.onclick = (e) => {
+          e.stopPropagation();
+          if (secretSeqStep === 1) {
+            secretSeqStep = 2;
+            if (secretSeqTimer) clearTimeout(secretSeqTimer);
+            secretSeqTimer = setTimeout(() => { secretSeqStep = 0; }, 3500);
+          } else {
+            resetSecretSequence();
+          }
+        };
+      }
+
+      if (step3El) {
+        step3El.onclick = (e) => {
+          e.stopPropagation();
+          if (secretSeqStep === 2) {
+            resetSecretSequence();
+            secretLibraryUnlocked = true;
+            showHiddenNovels = true;
+            renderNovelsCatalog();
+            if (navigator.vibrate) try { navigator.vibrate([40, 50, 40]); } catch(err){}
+          } else {
+            resetSecretSequence();
+          }
+        };
+      }
+
+      const libraryDrawer = document.getElementById('library-drawer-overlay');
+      if (libraryDrawer) {
+        libraryDrawer.addEventListener('click', (e) => {
+          if (e.target !== step1El && e.target !== step2El && e.target !== step3El) {
+            resetSecretSequence();
+          }
+        });
+      }
+    }
+    initSecretSequence();
 
     function getChapterDisplayName(ch) {
       if (!ch) return 'Unknown Chapter';
@@ -3770,11 +3878,20 @@
         el.classList.remove('active');
       });
       document.body.classList.remove('modal-open');
+      if (secretLibraryUnlocked) {
+        secretLibraryUnlocked = false;
+        showHiddenNovels = false;
+        resetSecretSequence();
+        renderNovelsCatalog();
+      }
     };
 
     if (openLibraryBtn) {
       openLibraryBtn.onclick = (e) => {
         e.stopPropagation();
+        secretLibraryUnlocked = false;
+        showHiddenNovels = false;
+        resetSecretSequence();
         renderNovelsCatalog();
         window.openDrawer('library-drawer-overlay');
       };
@@ -3782,6 +3899,9 @@
     if (headerTitleWrap) {
       headerTitleWrap.onclick = (e) => {
         e.stopPropagation();
+        secretLibraryUnlocked = false;
+        showHiddenNovels = false;
+        resetSecretSequence();
         renderNovelsCatalog();
         window.openDrawer('library-drawer-overlay');
       };
