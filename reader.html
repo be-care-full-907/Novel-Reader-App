@@ -1220,6 +1220,18 @@
         start_bundle_chapter: 1,
         total_chapters: 100,
         description: "Follow the journey of a summoner who begins with an SSS-rank goddess summon..."
+      },
+      {
+        id: "i-got-cheat-ability-in-a-different-world",
+        title: "I Got Cheat Ability In A Different World, Even In The Real World",
+        author: "RenConcreto",
+        cover_url: "https://book-pic.webnovel.com/bookcover/17875881305335005?imageMogr2/thumbnail/600x&imageId=1605014538365",
+        source_url: "https://www.webnovel.com/book/17875881305335005",
+        data_path: "data/i-got-cheat-ability-in-a-different-world/",
+        bundled_file: "chapters_1_50.json",
+        start_bundle_chapter: 1,
+        total_chapters: 107,
+        description: "Tenjou Yuuya has been an ugly, bullied boy since kindergarten. One day, he discovers a hidden room and a door connecting to another world with cheat abilities that transform his life..."
       }
     ];
 
@@ -3097,11 +3109,24 @@
       let slug = '';
       let sourceUrl = '';
 
-      // 1. FreeWebNovel formats
-      let m = val.match(/freewebnovel\.com\/novel\/([^/?#]+)/i);
+      // 1. Webnovel formats
+      let m = val.match(/webnovel\.com\/book\/(?:[^/?#]+_)?(\d+)/i) || val.match(/webnovel\.com\/book\/([^/?#]+)/i);
       if (m) {
-        slug = m[1].replace(/\.html?$/i, '');
-        sourceUrl = `https://freewebnovel.com/novel/${slug}`;
+        if (m[1] === '17875881305335005' || m[1].includes('cheat-ability')) {
+          slug = 'i-got-cheat-ability-in-a-different-world';
+        } else {
+          slug = m[1].replace(/_\d+$/, '').replace(/\.html?$/i, '');
+        }
+        sourceUrl = val;
+      }
+
+      // 2. FreeWebNovel formats
+      if (!slug) {
+        m = val.match(/freewebnovel\.com\/novel\/([^/?#]+)/i);
+        if (m) {
+          slug = m[1].replace(/\.html?$/i, '');
+          sourceUrl = `https://freewebnovel.com/novel/${slug}`;
+        }
       }
       if (!slug) {
         m = val.match(/freewebnovel\.com\/([^/?#]+)(?:\/chapter|\.html)/i);

@@ -82,6 +82,13 @@ KNOWN_NOVELS = {
         "target_dir": os.path.join(PROJECT_ROOT, "data", "alchemy-emperor-of-the-divine-dao"),
         "default_start": 1,
         "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=alchemy-emperor-of-the-divine-dao"
+    },
+    "i-got-cheat-ability-in-a-different-world": {
+        "id": "i-got-cheat-ability-in-a-different-world",
+        "title": "I Got Cheat Ability In A Different World, Even In The Real World",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "i-got-cheat-ability-in-a-different-world"),
+        "default_start": 1,
+        "archive_url": "https://www.webnovel.com/book/17875881305335005"
     }
 }
 
@@ -89,7 +96,8 @@ DEFAULT_THREE_NOVELS = [
     "infinite-mana-in-the-apocalypse",
     "supreme-harem-god-system",
     "my-vampire-system",
-    "alchemy-emperor-of-the-divine-dao"
+    "alchemy-emperor-of-the-divine-dao",
+    "i-got-cheat-ability-in-a-different-world"
 ]
 
 
