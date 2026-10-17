@@ -1228,7 +1228,7 @@
         cover_url: "https://book-pic.webnovel.com/bookcover/17875881305335005?imageMogr2/thumbnail/600x&imageId=1605014538365",
         source_url: "https://www.webnovel.com/book/17875881305335005",
         data_path: "data/i-got-cheat-ability-in-a-different-world/",
-        bundled_file: "chapters_1_50.json",
+        bundled_file: "i_got_cheat_ability_in_a_different_world_data.json",
         start_bundle_chapter: 1,
         total_chapters: 107,
         description: "Tenjou Yuuya has been an ugly, bullied boy since kindergarten. One day, he discovers a hidden room and a door connecting to another world with cheat abilities that transform his life..."
@@ -1244,6 +1244,11 @@
         try {
           const list = JSON.parse(window.AndroidTTS.getNovelsCatalogJson() || '[]');
           if (Array.isArray(list) && list.length > 0) {
+            DEFAULT_NOVELS.forEach(dn => {
+              if (!list.some(n => n.id === dn.id)) {
+                list.push(dn);
+              }
+            });
             novelsCatalog = list;
           }
         } catch(e) {}
@@ -1880,7 +1885,15 @@
         }
 
         if (text && text.trim().startsWith('{')) {
-          novelBundle = JSON.parse(text);
+          const parsed = JSON.parse(text);
+          if (parsed && ((parsed.bundled_chapters && parsed.bundled_chapters.length > 0) || (parsed.chapters && parsed.chapters.length > 0) || parsed.novel)) {
+            novelBundle = parsed;
+            if (novelBundle.chapters && !novelBundle.bundled_chapters) {
+              novelBundle.bundled_chapters = novelBundle.chapters;
+            }
+          } else {
+            novelBundle = null;
+          }
         } else {
           novelBundle = null;
         }
@@ -1889,14 +1902,12 @@
         novelBundle = null;
       }
 
-      if (!novelBundle) {
-        novelBundle = {
-          novel: { title: curNovel.title, author: curNovel.author },
-          bundled_chapters: []
-        };
+      if (!novelBundle || !novelBundle.novel) {
+        if (!novelBundle) novelBundle = {};
+        novelBundle.novel = novelBundle.novel || { title: curNovel.title, author: curNovel.author };
       }
       if (!Array.isArray(novelBundle.bundled_chapters)) {
-        novelBundle.bundled_chapters = [];
+        novelBundle.bundled_chapters = novelBundle.chapters || [];
       }
 
       // Load all downloaded chapters from ChapterStore for this novel
@@ -1927,8 +1938,9 @@
           const autoRes = await fetchFromRepoWithAuth(`${novelPath}${exactFile}`);
           if (autoRes.ok && autoRes.text) {
             const parsed = JSON.parse(autoRes.text);
-            if (parsed && parsed.chapters && parsed.chapters.length > 0) {
-              await integrateFetchedChapters(parsed.chapters, exactFile, autoRes.text);
+            const chs = parsed.chapters || parsed.bundled_chapters || [];
+            if (chs.length > 0) {
+              await integrateFetchedChapters(chs, exactFile, autoRes.text);
             }
           }
         } catch (_) {}

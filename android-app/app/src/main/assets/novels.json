@@ -58,5 +58,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 100,
     "description": "Follow the journey of a summoner who begins with an SSS-rank goddess summon..."
+  },
+  {
+    "id": "i-got-cheat-ability-in-a-different-world",
+    "title": "I Got Cheat Ability In A Different World, Even In The Real World",
+    "author": "RenConcreto",
+    "cover_url": "https://book-pic.webnovel.com/bookcover/17875881305335005?imageMogr2/thumbnail/600x&imageId=1605014538365",
+    "source_url": "https://www.webnovel.com/book/17875881305335005",
+    "data_path": "data/i-got-cheat-ability-in-a-different-world/",
+    "bundled_file": "i_got_cheat_ability_in_a_different_world_data.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 107,
+    "description": "Tenjou Yuuya has been an ugly, bullied boy since kindergarten. One day, he discovers a hidden room and a door connecting to another world with cheat abilities that transform his life..."
   }
 ]
