@@ -422,13 +422,22 @@
     }
 
     .drawer-drag-pill {
-      width: 40px;
-      height: 4px;
-      border-radius: 2px;
+      width: 48px;
+      height: 5px;
+      border-radius: 3px;
       background-color: var(--surface-border);
-      margin: 10px auto 4px auto;
+      margin: 10px auto 6px auto;
       flex-shrink: 0;
-      opacity: 0.8;
+      opacity: 0.85;
+    }
+
+    .secret-tap-pulse {
+      animation: secretTapPulseAnim 0.25s ease-out;
+    }
+    @keyframes secretTapPulseAnim {
+      0% { transform: scale(1); }
+      40% { transform: scale(0.92); opacity: 0.7; }
+      100% { transform: scale(1); opacity: 1; }
     }
 
     .drawer-header {
@@ -846,7 +855,10 @@
     <div class="drawer-content">
       <div class="drawer-drag-pill" id="library-drawer-pill" style="cursor: pointer;"></div>
       <div class="drawer-header">
-        <h3 id="library-drawer-title" style="cursor: pointer; user-select: none;">📚 Novel Library</h3>
+        <h3 id="library-drawer-title" style="cursor: pointer; user-select: none; display: flex; align-items: center; gap: 6px;">
+          <span id="secret-step-1" title="Library Icon" style="display: inline-flex; align-items: center; justify-content: center; min-width: 32px; min-height: 32px; border-radius: 8px; cursor: pointer; user-select: none;">📚</span>
+          <span id="secret-step-2" style="cursor: pointer; user-select: none; padding: 4px 2px;">Novel Library</span>
+        </h3>
         <button class="icon-btn close-drawer-btn" id="close-library-drawer">✕</button>
       </div>
 
@@ -856,7 +868,7 @@
         </div>
 
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; gap: 8px;">
-          <span id="library-count-label" style="font-size: 0.82rem; font-family: sans-serif; font-weight: 600; opacity: 0.85; cursor: pointer; user-select: none;">My Novels</span>
+          <span id="library-count-label" style="font-size: 0.82rem; font-family: sans-serif; font-weight: 600; opacity: 0.85; cursor: pointer; user-select: none; padding: 6px 4px; display: inline-block;">My Novels</span>
           <button type="button" id="toggle-hidden-novels-btn" class="audio-tune-chip" style="font-size: 0.76rem; padding: 5px 11px; display: none;">
             <span id="hidden-novels-icon">🔒</span> <span id="hidden-novels-text">Show Hidden</span>
           </button>
@@ -1267,12 +1279,19 @@
     let secretLibraryUnlocked = false;
     let secretSeqStep = 0;
     let secretSeqTimer = null;
+    let titleTapCount = 0;
+    let titleTapTimer = null;
 
     function resetSecretSequence() {
       secretSeqStep = 0;
+      titleTapCount = 0;
       if (secretSeqTimer) {
         clearTimeout(secretSeqTimer);
         secretSeqTimer = null;
+      }
+      if (titleTapTimer) {
+        clearTimeout(titleTapTimer);
+        titleTapTimer = null;
       }
     }
 
@@ -2185,42 +2204,126 @@
       }
     }
 
-    function initSecretSequence() {
-      const step1El = document.getElementById('library-drawer-title');
-      const step2El = document.getElementById('library-drawer-pill');
-      const step3El = document.getElementById('library-count-label');
+    function triggerUnlockSuccess() {
+      resetSecretSequence();
+      secretLibraryUnlocked = true;
+      showHiddenNovels = true;
+      renderNovelsCatalog();
+      if (navigator.vibrate) {
+        try { navigator.vibrate([40, 50, 40]); } catch(err){}
+      }
+      showSecretUnlockToast();
+    }
 
-      if (step1El) {
-        step1El.onclick = (e) => {
+    function showSecretUnlockToast() {
+      let toast = document.getElementById('secret-unlock-toast');
+      if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'secret-unlock-toast';
+        toast.style.cssText = `
+          position: fixed;
+          bottom: 24px;
+          left: 50%;
+          transform: translateX(-50%);
+          background: #059669;
+          color: #ffffff;
+          padding: 8px 18px;
+          border-radius: 20px;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+          font-size: 0.82rem;
+          font-weight: 600;
+          box-shadow: 0 4px 16px rgba(0,0,0,0.35);
+          z-index: 10000;
+          pointer-events: none;
+          transition: opacity 0.3s ease;
+        `;
+        document.body.appendChild(toast);
+      }
+      toast.textContent = '🔓 Secret Mode: Hidden novels unlocked!';
+      toast.style.opacity = '1';
+      setTimeout(() => {
+        if (toast) toast.style.opacity = '0';
+      }, 2500);
+    }
+
+    function animateSecretTap(el) {
+      if (!el) return;
+      el.classList.remove('secret-tap-pulse');
+      void el.offsetWidth;
+      el.classList.add('secret-tap-pulse');
+    }
+
+    function initSecretSequence() {
+      const step1Icon = document.getElementById('secret-step-1');
+      const step2Title = document.getElementById('secret-step-2');
+      const wholeTitle = document.getElementById('library-drawer-title');
+      const step3Count = document.getElementById('library-count-label');
+
+      function registerTitleTap(e) {
+        titleTapCount++;
+        if (titleTapTimer) clearTimeout(titleTapTimer);
+        titleTapTimer = setTimeout(() => { titleTapCount = 0; }, 2500);
+
+        if (titleTapCount >= 3) {
+          triggerUnlockSuccess();
+          return true;
+        }
+        return false;
+      }
+
+      if (step1Icon) {
+        step1Icon.onclick = (e) => {
           e.stopPropagation();
+          animateSecretTap(step1Icon);
+          if (navigator.vibrate) try { navigator.vibrate(20); } catch(_) {}
+
+          if (registerTitleTap(e)) return;
+
+          // Step 1 in sequential flow
           secretSeqStep = 1;
           if (secretSeqTimer) clearTimeout(secretSeqTimer);
-          secretSeqTimer = setTimeout(() => { secretSeqStep = 0; }, 3500);
+          secretSeqTimer = setTimeout(resetSecretSequence, 4000);
         };
       }
 
-      if (step2El) {
-        step2El.onclick = (e) => {
+      if (step2Title) {
+        step2Title.onclick = (e) => {
           e.stopPropagation();
+          animateSecretTap(step2Title);
+          if (navigator.vibrate) try { navigator.vibrate(25); } catch(_) {}
+
+          if (registerTitleTap(e)) return;
+
+          // Step 2 in sequential flow: only valid if step 1 was done
           if (secretSeqStep === 1) {
             secretSeqStep = 2;
             if (secretSeqTimer) clearTimeout(secretSeqTimer);
-            secretSeqTimer = setTimeout(() => { secretSeqStep = 0; }, 3500);
+            secretSeqTimer = setTimeout(resetSecretSequence, 4000);
           } else {
-            resetSecretSequence();
+            secretSeqStep = 0;
           }
         };
       }
 
-      if (step3El) {
-        step3El.onclick = (e) => {
+      if (wholeTitle) {
+        wholeTitle.onclick = (e) => {
+          if (e.target !== step1Icon && e.target !== step2Title) {
+            e.stopPropagation();
+            animateSecretTap(wholeTitle);
+            if (navigator.vibrate) try { navigator.vibrate(20); } catch(_) {}
+            registerTitleTap(e);
+          }
+        };
+      }
+
+      if (step3Count) {
+        step3Count.onclick = (e) => {
           e.stopPropagation();
+          animateSecretTap(step3Count);
+
+          // Step 3 in sequential flow: only unlocks if step 2 was reached!
           if (secretSeqStep === 2) {
-            resetSecretSequence();
-            secretLibraryUnlocked = true;
-            showHiddenNovels = true;
-            renderNovelsCatalog();
-            if (navigator.vibrate) try { navigator.vibrate([40, 50, 40]); } catch(err){}
+            triggerUnlockSuccess();
           } else {
             resetSecretSequence();
           }
@@ -2230,7 +2333,7 @@
       const libraryDrawer = document.getElementById('library-drawer-overlay');
       if (libraryDrawer) {
         libraryDrawer.addEventListener('click', (e) => {
-          if (e.target !== step1El && e.target !== step2El && e.target !== step3El) {
+          if (e.target !== step1Icon && e.target !== step2Title && e.target !== wholeTitle && e.target !== step3Count) {
             resetSecretSequence();
           }
         });
