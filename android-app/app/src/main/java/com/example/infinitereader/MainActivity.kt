@@ -94,7 +94,13 @@ class MainActivity : ComponentActivity() {
 
     override fun onResume() {
         super.onResume()
+        ttsBridge?.isActivityResumed = true
         ttsBridge?.syncToWebView()
+    }
+
+    override fun onPause() {
+        super.onPause()
+        ttsBridge?.isActivityResumed = false
     }
 
     override fun onDestroy() {

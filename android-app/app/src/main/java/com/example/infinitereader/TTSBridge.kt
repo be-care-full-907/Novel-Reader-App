@@ -75,6 +75,9 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
         }
     }
 
+    @Volatile
+    var isActivityResumed: Boolean = true
+
     override fun onInit(status: Int) {
         if (status == TextToSpeech.SUCCESS) {
             isInitialized = true
@@ -89,18 +92,18 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
 
                 override fun onDone(utteranceId: String?) {
                     val id = utteranceId?.toIntOrNull() ?: 0
-                    Log.d("TTSBridge", "Utterance onDone: $id")
+                    Log.d("TTSBridge", "Utterance onDone: $id (resumed=$isActivityResumed, total=${activeSentences.size})")
 
-                    // 1. Notify WebView (runs immediately if app is currently visible)
-                    webView.post {
-                        webView.evaluateJavascript("window.onSpeechDone && window.onSpeechDone($id);", null)
-                    }
-
-                    // 2. NATIVE BACKGROUND ADVANCEMENT:
-                    // If the user has opened another app, Chromium WebView pauses evaluateJavascript!
-                    // If JavaScript hasn't called speak() within 60ms, Kotlin advances natively so audio NEVER stops!
-                    mainHandler.postDelayed({
-                        if (isPlayingActive && activeSentenceIndex == id) {
+                    if (isActivityResumed) {
+                        // Foreground mode: Chromium WebView is actively displaying the reader.
+                        // Post onSpeechDone to JavaScript; JS advances sentences or invokes onChapterComplete smoothly.
+                        webView.post {
+                            webView.evaluateJavascript("window.onSpeechDone && window.onSpeechDone($id);", null)
+                        }
+                    } else {
+                        // Background mode: User has switched apps or screen is turned off.
+                        // Advance natively so audio NEVER pauses or stutters.
+                        if (isPlayingActive) {
                             val next = id + 1
                             if (next < activeSentences.size) {
                                 Log.d("TTSBridge", "Native background advance to sentence $next")
@@ -120,12 +123,13 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
                                 }
                             } else {
                                 Log.d("TTSBridge", "Native background reached end of chapter")
+                                // Chapter completed in background. Trigger JavaScript to load the next chapter ONCE.
                                 webView.post {
                                     webView.evaluateJavascript("window.onChapterComplete && window.onChapterComplete();", null)
                                 }
                             }
                         }
-                    }, 60)
+                    }
                 }
 
                 override fun onRangeStart(utteranceId: String?, start: Int, end: Int, frame: Int) {

@@ -3093,7 +3093,12 @@
       return span;
     }
 
+    let isTransitioningChapter = false;
+    let lastChapterCompletedTime = 0;
+
     function renderChapter(chIndex, autoPlay = null) {
+      isTransitioningChapter = false;
+      lastChapterCompletedTime = Date.now();
       const shouldContinue = (autoPlay !== null && autoPlay !== undefined) ? autoPlay : isPlaying;
 
       if (autoAdvanceTimeout) {
@@ -3225,11 +3230,21 @@
     }
 
     function onChapterComplete() {
+      const now = Date.now();
+      // Guard against duplicate / rapid calls (must be at least 1.5s apart and not already transitioning)
+      if (isTransitioningChapter || (now - lastChapterCompletedTime < 1500)) {
+        console.warn("Ignoring duplicate onChapterComplete call within 1.5s");
+        return;
+      }
+      isTransitioningChapter = true;
+      lastChapterCompletedTime = now;
+
       // Check Sleep Timer for "End of Chapter" mode
       if (sleepTimerType === 'chapter') {
         stopTTS();
         ttsStatusText.textContent = "Sleep timer: reached end of chapter. Playback stopped.";
         setSleepTimer('off');
+        isTransitioningChapter = false;
         return;
       }
 
@@ -3243,6 +3258,10 @@
         stopTTS();
         ttsStatusText.textContent = hasNext ? "Chapter complete" : "Novel complete";
       }
+
+      setTimeout(() => {
+        isTransitioningChapter = false;
+      }, 500);
     }
 
     function clearActiveWord() {
