@@ -150,6 +150,146 @@ NOVELS_CATALOG = {
 }
 
 
+def load_catalog_from_file():
+    """Loads all novels from novels.json and updates NOVELS_CATALOG dynamically."""
+    novels_json_path = os.path.join(PROJECT_ROOT, "novels.json")
+    if not os.path.exists(novels_json_path):
+        return
+    try:
+        with open(novels_json_path, "r", encoding="utf-8") as f:
+            catalog = json.load(f)
+        if isinstance(catalog, list):
+            for entry in catalog:
+                nid = entry.get("id")
+                if not nid:
+                    continue
+                rel_path = entry.get("data_path", f"data/{nid}/").strip("/\\")
+                target_dir = os.path.join(PROJECT_ROOT, rel_path) if rel_path else os.path.join(PROJECT_ROOT, "data", nid)
+                NOVELS_CATALOG[nid] = {
+                    "id": nid,
+                    "title": entry.get("title", nid.replace("-", " ").title()),
+                    "target_dir": target_dir,
+                    "default_start": entry.get("start_bundle_chapter", 1),
+                    "max_chapters": entry.get("total_chapters", 2000),
+                    "archive_url": f"https://novelping.com/ajax/chapter-archive?novelId={nid}"
+                }
+    except Exception as e:
+        print(f"Warning: Failed to load novels.json: {e}")
+
+
+def parse_novel_input(raw_input: str) -> Optional[dict]:
+    """Parses a FreeWebNovel URL, NovelPing URL, or novel slug into a catalog entry."""
+    val = raw_input.strip()
+    if not val:
+        return None
+
+    slug = ""
+    source_url = val
+
+    # 1. FreeWebNovel formats
+    m = re.search(r'freewebnovel\.com/novel/([^/?#]+)', val, re.I)
+    if m:
+        slug = m.group(1).rstrip(".html")
+    if not slug:
+        m = re.search(r'freewebnovel\.com/([^/?#]+)(?:/chapter|\.html)?', val, re.I)
+        if m and m.group(1).lower() not in ('sort', 'genre', 'search', 'latest-novel'):
+            slug = m.group(1).rstrip(".html")
+
+    # 2. NovelPing formats
+    if not slug:
+        m = re.search(r'novelping\.com/book/([^/?#]+)', val, re.I)
+        if m:
+            slug = m.group(1).rstrip(".html")
+
+    # 3. Plain URL or slug fallback
+    if not slug:
+        if val.startswith("http://") or val.startswith("https://"):
+            parts = [p.rstrip(".html") for p in val.split('/') if p]
+            if parts:
+                slug = parts[-1]
+        else:
+            slug = val
+            source_url = f"https://freewebnovel.com/novel/{slug}"
+
+    slug = re.sub(r'[^a-z0-9_-]', '-', slug.lower()).strip('-')
+    if not slug:
+        return None
+
+    title = slug.replace('-', ' ').title()
+
+    # Query archive to get true online chapter count
+    est_chapters = 2000
+    try:
+        archive_url = f"https://novelping.com/ajax/chapter-archive?novelId={slug}"
+        req = urllib.request.Request(archive_url, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safari/537.36",
+            "X-Requested-With": "XMLHttpRequest"
+        })
+        with urllib.request.urlopen(req, timeout=10) as r:
+            html = r.read().decode('utf-8', errors='ignore')
+            chs = re.findall(r'chapter[- ](\d+)', html, re.I)
+            if chs:
+                nums = [int(x) for x in chs]
+                est_chapters = max(nums)
+    except Exception:
+        pass
+
+    return {
+        "id": slug,
+        "title": title,
+        "author": "Web Novel",
+        "cover_url": f"https://images.novelping.com/novel/{slug}.jpg",
+        "source_url": source_url or f"https://freewebnovel.com/novel/{slug}",
+        "data_path": f"data/{slug}/",
+        "bundled_file": "chapters_1_50.json",
+        "start_bundle_chapter": 1,
+        "total_chapters": est_chapters,
+        "description": f"Imported novel: {title}."
+    }
+
+
+def register_new_novel(novel_entry: dict):
+    """Registers a new novel entry into novels.json and syncs to Android assets."""
+    novels_json_path = os.path.join(PROJECT_ROOT, "novels.json")
+    catalog = []
+    if os.path.exists(novels_json_path):
+        try:
+            with open(novels_json_path, "r", encoding="utf-8") as f:
+                catalog = json.load(f)
+        except Exception:
+            catalog = []
+
+    # Check if already in catalog
+    for n in catalog:
+        if n.get("id") == novel_entry["id"]:
+            log(f"Novel '{novel_entry['title']}' is already in catalog!")
+            return
+
+    catalog.append(novel_entry)
+
+    # Write to root novels.json
+    with open(novels_json_path, "w", encoding="utf-8") as f:
+        json.dump(catalog, f, indent=2, ensure_ascii=False)
+
+    # Sync to android assets
+    asset_catalog_path = os.path.join(PROJECT_ROOT, "android-app", "app", "src", "main", "assets", "novels.json")
+    if os.path.exists(os.path.dirname(asset_catalog_path)):
+        with open(asset_catalog_path, "w", encoding="utf-8") as f:
+            json.dump(catalog, f, indent=2, ensure_ascii=False)
+
+    # Update in-memory catalog
+    nid = novel_entry["id"]
+    NOVELS_CATALOG[nid] = {
+        "id": nid,
+        "title": novel_entry["title"],
+        "target_dir": os.path.join(PROJECT_ROOT, "data", nid),
+        "default_start": novel_entry.get("start_bundle_chapter", 1),
+        "max_chapters": novel_entry.get("total_chapters", 2000),
+        "archive_url": f"https://novelping.com/ajax/chapter-archive?novelId={nid}"
+    }
+    log(f"✓ Registered '{novel_entry['title']}' in library catalog ({novel_entry['total_chapters']} chapters online)!")
+
+
 def log(msg: str):
     """Prints timestamped message and flushes."""
     t = time.strftime("%H:%M:%S")
@@ -516,15 +656,28 @@ def interactive_menu():
             print(f" [{idx:2d}] {info['title'][:44]:<44} | {status_str}")
 
         print("-" * 75)
+        print(" [ +] Add a NEW novel (Paste FreeWebNovel or NovelPing URL)")
         print(" [ A] Scrape all novels with missing chapters")
         print(" [ Q] Quit")
         print("=" * 75)
 
-        choice = input("\nSelect a novel number (1-13), 'A' for all, or 'Q' to quit: ").strip().lower()
+        choice = input(f"\nSelect a novel number (1-{len(novel_keys)}), '+' to add novel, or 'Q' to quit: ").strip().lower()
 
         if choice in ('q', 'quit', 'exit', ''):
             print("Exiting. Happy reading!")
             break
+
+        if choice == '+':
+            url_in = input("\nEnter FreeWebNovel URL, NovelPing URL, or novel slug: ").strip()
+            entry = parse_novel_input(url_in)
+            if not entry:
+                print("Invalid URL or novel slug format.")
+                continue
+            register_new_novel(entry)
+            scrape_now = input(f"Scrape Chapters 1-50 for '{entry['title']}' now? (y/n) [default y]: ").strip().lower()
+            if scrape_now != 'n':
+                scrape_novel_range(entry["id"], 1, min(50, entry["max_chapters"]), workers=4, push=True)
+            continue
 
         if choice == 'a':
             confirm = input("Scrape missing chapters for ALL novels? (y/n): ").strip().lower()
@@ -541,10 +694,10 @@ def interactive_menu():
         try:
             choice_idx = int(choice) - 1
             if not (0 <= choice_idx < len(novel_keys)):
-                print("Invalid number. Please select between 1 and 13.")
+                print(f"Invalid number. Please select between 1 and {len(novel_keys)}.")
                 continue
         except ValueError:
-            print("Invalid input. Please enter a number or 'Q'.")
+            print("Invalid input. Please enter a number, '+', or 'Q'.")
             continue
 
         selected_id = novel_keys[choice_idx]
@@ -578,6 +731,8 @@ def interactive_menu():
 
 
 def main():
+    load_catalog_from_file()
+
     parser = argparse.ArgumentParser(description="Interactive & CLI Web Novel Scraper + Cleaner")
     parser.add_argument("--novel", type=str, help="Novel ID to scrape")
     parser.add_argument("--start", type=int, help="Start chapter index")
@@ -585,8 +740,22 @@ def main():
     parser.add_argument("--workers", type=int, default=4, help="Concurrent workers")
     parser.add_argument("--no-push", action="store_true", help="Do not push to GitHub")
     parser.add_argument("--all", action="store_true", help="Scrape all incomplete novels")
+    parser.add_argument("--add-novel", type=str, help="Add a new novel by URL or slug (e.g. https://freewebnovel.com/novel/shadow-slave)")
 
     args = parser.parse_args()
+
+    if args.add_novel:
+        entry = parse_novel_input(args.add_novel)
+        if not entry:
+            print(f"Error: Could not parse novel from '{args.add_novel}'")
+            return
+        register_new_novel(entry)
+        if not args.no_push:
+            git_commit_and_push(entry["id"], "novels.json", 0, 0)
+        start = args.start if args.start is not None else 1
+        end = args.end if args.end is not None else min(50, entry["max_chapters"])
+        scrape_novel_range(entry["id"], start, end, workers=args.workers, push=not args.no_push)
+        return
 
     if args.all:
         for nid, info in NOVELS_CATALOG.items():
