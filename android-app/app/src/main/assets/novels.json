@@ -154,5 +154,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 107,
     "description": "Tenjou Yuuya discovers a hidden room and a door connecting to another world with cheat abilities that transform his life."
+  },
+  {
+    "id": "tsuki-ga-michibiku-isekai-douchuu",
+    "title": "Tsuki Ga Michibiku Isekai Douchuu",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/tsuki-ga-michibiku-isekai-douchuu.jpg",
+    "source_url": "https://novelping.com/book/tsuki-ga-michibiku-isekai-douchuu",
+    "data_path": "data/tsuki-ga-michibiku-isekai-douchuu/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 503,
+    "description": "Imported novel: Tsuki Ga Michibiku Isekai Douchuu."
   }
 ]
