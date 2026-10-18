@@ -1766,6 +1766,8 @@
           } catch (e) {
             console.warn("Migration error:", e);
           }
+        }
+
         function sanitizeLoadedChapter(c) {
           if (!c) return c;
           if (c.paragraphs && Array.isArray(c.paragraphs)) {
