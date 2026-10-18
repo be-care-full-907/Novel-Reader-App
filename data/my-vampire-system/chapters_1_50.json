@@ -59,7 +59,7 @@
         "The book started to shine brightly and shake uncontrollably. It finally opened up and page after page was being turned. Quinn couldn’t take his eyes off the shining book as if he was in a deep trance. The words written in the book weren’t in any language he had seen before but for some reason, he felt like he could understand it.",
         "When the book finally turned its last page, it started to disappear as if it was slowly turning to dust. At the same time, Quinn’s vision was starting to fade. His body felt weak and his eyes slowly shut.",
         "But just before he passed out, there was a single message that he heard.",
-        "\\u003cCongratulations you have been granted the Va....\\u003e",
+        "<Congratulations you have been granted the Va....>",
         "Unable to maintain consciousness long enough to hear the final words, Quinn passed out."
       ],
       "sentences": [
@@ -556,7 +556,7 @@
         {
           "id": 98,
           "paragraph_id": 49,
-          "text": "\\u003cCongratulations you have been granted the Va....\\u003e"
+          "text": "<Congratulations you have been granted the Va....>"
         },
         {
           "id": 99,
@@ -585,30 +585,30 @@
         "\"What was it, it sounded like some type of system message?\"",
         "Then as soon as Quinn had said those words.",
         "A status screen had appeared right in front of his eyes.",
-        "\\u003cUser: Quinn Talen\\u003e",
-        "\\u003cRace: Human\\u003e",
-        "\\u003c Level 1\\u003e",
-        "\\u003c0/100 exp\\u003e",
-        "\\u003cHP 10/10\\u003e",
-        "\\u003cStrength: 10\\u003e",
-        "\\u003cAgility: 10\\u003e",
-        "\\u003cStamina: 10\\u003e",
+        "<User: Quinn Talen>",
+        "<Race: Human>",
+        "< Level 1>",
+        "<0/100 exp>",
+        "<HP 10/10>",
+        "<Strength: 10>",
+        "<Agility: 10>",
+        "<Stamina: 10>",
         "\"Wow, it’s like those really old games people used to play all the time.\"",
         "Quinn noticed that on the status screen there were more tabs on the top but without even doing anything and just reading the tabs in his head. The screen automatically switched.",
-        "\\u003cSkills\\u003e",
-        "\\u003c0 skill points available\\u003e",
-        "\\u003cSkill locked????\\u003e",
-        "\\u003cSkill locked????\\u003e",
+        "<Skills>",
+        "<0 skill points available>",
+        "<Skill locked????>",
+        "<Skill locked????>",
         "....",
         "On the skills tab, Quinn wasn’t really able to see much. Everything seemed to be locked and slightly greyed out so he quickly moved on to the next tab which was called, shop.",
-        "\\u003cShop\\u003e",
-        "\\u003cUnlocks at level 10\\u003e",
+        "<Shop>",
+        "<Unlocks at level 10>",
         "\"Can I do anything?\"",
         "The last tab was the Quest tab and finally, it seemed like this tab wasn’t locked behind something.",
-        "\\u003cMain quest\\u003e",
-        "\\u003cReach level 10\\u003e",
-        "\\u003cDaily Quest: Drink two litres of water\\u003e",
-        "\\u003cReward 5 exp \\u003e",
+        "<Main quest>",
+        "<Reach level 10>",
+        "<Daily Quest: Drink two litres of water>",
+        "<Reward 5 exp >",
         "After checking everything out that the system had to offer. Quinn had to just think about closing the system and it did. When Quinn thought about opening it again a screen would immediately pop up in front of him.",
         "Quinn could only think of one thing, that the book his parents had left him was an ability book. These books could often be bought at very high prices from the military or a company and could even be obtained on the black market.",
         "The only thing was, Quinn had never heard of an ability book that disappeared and granted the user a system like this. The ability books were designed to be learnt. It wasn’t something that you could pick up and instantly understand how to use.",
@@ -623,8 +623,8 @@
         "He immediately started downing the water bottles one by one.",
         "\"Dam how much is two litres? My belly feels like it’s going to burst.\"",
         "After finishing his eighth bottle of water, a new notification message had appeared.",
-        "\\u003cDaily Quest complete, 5 exp has been granted\\u003e",
-        "\\u003c5/100\\u003e",
+        "<Daily Quest complete, 5 exp has been granted>",
+        "<5/100>",
         "\"Well now I know at least the system works.\"",
         "Suddenly there was a loud knock that could be heard at the door. Quinn quickly went to the door and opened it. Standing in front of him was a large muscular bald-headed man wearing a black military uniform. There were several medals on it and his name written just above his chest. Sargent Griff.",
         "\"Boy, it is time for you to vacate your room immediately, the vehicle has been prepared and has been waiting outside for 5 minutes already.\"",
@@ -775,42 +775,42 @@
         {
           "id": 28,
           "paragraph_id": 14,
-          "text": "\\u003cUser: Quinn Talen\\u003e"
+          "text": "<User: Quinn Talen>"
         },
         {
           "id": 29,
           "paragraph_id": 15,
-          "text": "\\u003cRace: Human\\u003e"
+          "text": "<Race: Human>"
         },
         {
           "id": 30,
           "paragraph_id": 16,
-          "text": "\\u003c Level 1\\u003e"
+          "text": "< Level 1>"
         },
         {
           "id": 31,
           "paragraph_id": 17,
-          "text": "\\u003c0/100 exp\\u003e"
+          "text": "<0/100 exp>"
         },
         {
           "id": 32,
           "paragraph_id": 18,
-          "text": "\\u003cHP 10/10\\u003e"
+          "text": "<HP 10/10>"
         },
         {
           "id": 33,
           "paragraph_id": 19,
-          "text": "\\u003cStrength: 10\\u003e"
+          "text": "<Strength: 10>"
         },
         {
           "id": 34,
           "paragraph_id": 20,
-          "text": "\\u003cAgility: 10\\u003e"
+          "text": "<Agility: 10>"
         },
         {
           "id": 35,
           "paragraph_id": 21,
-          "text": "\\u003cStamina: 10\\u003e"
+          "text": "<Stamina: 10>"
         },
         {
           "id": 36,
@@ -830,22 +830,22 @@
         {
           "id": 39,
           "paragraph_id": 24,
-          "text": "\\u003cSkills\\u003e"
+          "text": "<Skills>"
         },
         {
           "id": 40,
           "paragraph_id": 25,
-          "text": "\\u003c0 skill points available\\u003e"
+          "text": "<0 skill points available>"
         },
         {
           "id": 41,
           "paragraph_id": 26,
-          "text": "\\u003cSkill locked????\\u003e"
+          "text": "<Skill locked????>"
         },
         {
           "id": 42,
           "paragraph_id": 27,
-          "text": "\\u003cSkill locked????\\u003e"
+          "text": "<Skill locked????>"
         },
         {
           "id": 43,
@@ -865,12 +865,12 @@
         {
           "id": 46,
           "paragraph_id": 30,
-          "text": "\\u003cShop\\u003e"
+          "text": "<Shop>"
         },
         {
           "id": 47,
           "paragraph_id": 31,
-          "text": "\\u003cUnlocks at level 10\\u003e"
+          "text": "<Unlocks at level 10>"
         },
         {
           "id": 48,
@@ -885,22 +885,22 @@
         {
           "id": 50,
           "paragraph_id": 34,
-          "text": "\\u003cMain quest\\u003e"
+          "text": "<Main quest>"
         },
         {
           "id": 51,
           "paragraph_id": 35,
-          "text": "\\u003cReach level 10\\u003e"
+          "text": "<Reach level 10>"
         },
         {
           "id": 52,
           "paragraph_id": 36,
-          "text": "\\u003cDaily Quest: Drink two litres of water\\u003e"
+          "text": "<Daily Quest: Drink two litres of water>"
         },
         {
           "id": 53,
           "paragraph_id": 37,
-          "text": "\\u003cReward 5 exp \\u003e"
+          "text": "<Reward 5 exp >"
         },
         {
           "id": 54,
@@ -1055,12 +1055,12 @@
         {
           "id": 84,
           "paragraph_id": 52,
-          "text": "\\u003cDaily Quest complete, 5 exp has been granted\\u003e"
+          "text": "<Daily Quest complete, 5 exp has been granted>"
         },
         {
           "id": 85,
           "paragraph_id": 53,
-          "text": "\\u003c5/100\\u003e"
+          "text": "<5/100>"
         },
         {
           "id": 86,
@@ -1115,7 +1115,7 @@
       "title": "Chapter 3 Miltary School",
       "url": "https://novelping.com/book/my-vampire-system/chapter-3",
       "paragraphs": [
-        "3  Military School",
+        "3 Military School",
         "Due to the war between humans and the Dalki, every individual was required to go to military school for the duration of two years. Although humans and the Dalki were currently embracing a peaceful period, nobody believed it would last forever. The Dalki were not to be trusted. Their taste and hunger for power and their desire to control creatures they considered to be beneath them could hardly be kept at bay.",
         "Every single day there would be news regarding one race antagonising the other, even on the verge of waging war. The citizens had this foreboding that an altercation could break out at any moment.",
         "Quinn quickly went to the toilet before heading off with Sergeant Griff. His bladder felt like it was going to burst any second now because of the sheer amount of water that he had drunk.",
@@ -1179,7 +1179,7 @@
         {
           "id": 0,
           "paragraph_id": 0,
-          "text": "3  Military School"
+          "text": "3 Military School"
         },
         {
           "id": 1,
@@ -1814,8 +1814,8 @@
         "Quinn lifted up his hand to look at the watch which indicated his current power level was one. When he looked around, he noticed that everyone else’s watches currently indicated the same number.",
         "Griff was currently standing in front of all the students and called names in groups of five.",
         "These students would then be transported somewhere to take the test. Quinn was hopeful at first thinking that he might have been able to change his ability level for once but his mind was quickly changed after receiving a notification.",
-        "\\u003cYou are being hit by direct sunlight\\u003e",
-        "\\u003call stats will be halved\\u003e",
+        "<You are being hit by direct sunlight>",
+        "<all stats will be halved>",
         "Quinn didn’t even know how good 10 strength, 10 agility, and 10 stamina was but if his eyes sight was anything to go by. Then it would mean it was at least the top condition of a normal human being but right now Quinn felt incredibly weak and sluggish.",
         "His body felt extremely hot right now and he was sweating buckets of water. Quinn thought it was a good thing he drank a load of water beforehand, otherwise he would have been extremely dehydrated.",
         "\"Hey, are you okay?\" A stranger standing next to Quinn said.",
@@ -1829,11 +1829,11 @@
         "\"The names Vordan,\" Vordan said as he placed his hand out.",
         "Quinn looked at Vordan’s hand, it was actually the first time in his life someone had treated him this way but Quinn thought that would quickly change. They always did once they found out his Ability level but for once he would like to forget about all that.",
         "\"My name’s Quinn,\" Quinn said as he shook Vordan’s hand.",
-        "\\u003cUse of ability has been detected\\u003e",
-        "\\u003c The ability has been rejected\\u003e",
+        "<Use of ability has been detected>",
+        "< The ability has been rejected>",
         "Once the system messages appeared, Quinn looked at them strangely. At the same time, he shook Vordan’s hand the messages came up instantly. He then noticed that Vordan still hadn’t let go of his hand. Then the system repeated the message once again.",
-        "\\u003cUse of ability had been detected\\u003e",
-        "\\u003c The ability had been rejected\\u003e",
+        "<Use of ability had been detected>",
+        "< The ability had been rejected>",
         "Quinn then immediately let go of Vordan’s hand. The system was clearly telling him that Vordan was trying to use his ability on him. Vordan himself even had a puzzled look on his face as he stood there still.",
         "\"You,\" Vordan said. \"What is your ability?\"",
         "\"I....\" Quinn paused thinking for while whether he should answer or not, in the end, he wanted to see Vordan’s true reaction. \"I don’t have an ability.\"",
@@ -1969,12 +1969,12 @@
         {
           "id": 25,
           "paragraph_id": 10,
-          "text": "\\u003cYou are being hit by direct sunlight\\u003e"
+          "text": "<You are being hit by direct sunlight>"
         },
         {
           "id": 26,
           "paragraph_id": 11,
-          "text": "\\u003call stats will be halved\\u003e"
+          "text": "<all stats will be halved>"
         },
         {
           "id": 27,
@@ -2089,12 +2089,12 @@
         {
           "id": 49,
           "paragraph_id": 25,
-          "text": "\\u003cUse of ability has been detected\\u003e"
+          "text": "<Use of ability has been detected>"
         },
         {
           "id": 50,
           "paragraph_id": 26,
-          "text": "\\u003c The ability has been rejected\\u003e"
+          "text": "< The ability has been rejected>"
         },
         {
           "id": 51,
@@ -2119,12 +2119,12 @@
         {
           "id": 55,
           "paragraph_id": 28,
-          "text": "\\u003cUse of ability had been detected\\u003e"
+          "text": "<Use of ability had been detected>"
         },
         {
           "id": 56,
           "paragraph_id": 29,
-          "text": "\\u003c The ability had been rejected\\u003e"
+          "text": "< The ability had been rejected>"
         },
         {
           "id": 57,
@@ -2719,8 +2719,8 @@
         "\"I don’t have an ability.\"",
         "Just like before the hooded man standing by her side handed her a book and then handed it to Quinn.",
         "Quinn took the book off Jane at first but then suddenly, a notification screen appeared.",
-        "\\u003cUnable to learn this ability\\u003e",
-        "\\u003cWould you like to convert the book into 10 Exp?\\u003e",
+        "<Unable to learn this ability>",
+        "<Would you like to convert the book into 10 Exp?>",
         "Quinn had somewhat expected the system to display the first message but the second one truly had surprised him. Quinn was really tempted to take the book and use it as a form of Exp but he knew there would be questions asked later on.",
         "\"I’m sorry but I don’t want it,\" Quinn said as he handed the book back to Jane.",
         "The students watching and the instructor stood there were both shocked. Jane hadn’t experienced anything like this before. In her five years working as an instructor, it was the first time someone with no ability had rejected the book.",
@@ -2853,12 +2853,12 @@
         {
           "id": 20,
           "paragraph_id": 9,
-          "text": "\\u003cUnable to learn this ability\\u003e"
+          "text": "<Unable to learn this ability>"
         },
         {
           "id": 21,
           "paragraph_id": 10,
-          "text": "\\u003cWould you like to convert the book into 10 Exp?\\u003e"
+          "text": "<Would you like to convert the book into 10 Exp?>"
         },
         {
           "id": 22,
@@ -3920,9 +3920,9 @@
         "The only thing he could relate to in the book was being weaker in the sun. Eventually, Quinn decided to close the book and call it a day. It didn’t seem like he was going to find anything from the first floor of the library.",
         "As soon as Quinn closed the book though. A familiar sound was heard.",
         "*Ding",
-        "\\u003cYou gained more knowledge about the system\\u003e",
-        "\\u003c10 exp received\\u003e",
-        "\\u003c15/100 Exp \\u003e",
+        "<You gained more knowledge about the system>",
+        "<10 exp received>",
+        "<15/100 Exp >",
         "\"It couldn’t be, could it?\""
       ],
       "sentences": [
@@ -4279,17 +4279,17 @@
         {
           "id": 70,
           "paragraph_id": 33,
-          "text": "\\u003cYou gained more knowledge about the system\\u003e"
+          "text": "<You gained more knowledge about the system>"
         },
         {
           "id": 71,
           "paragraph_id": 34,
-          "text": "\\u003c10 exp received\\u003e"
+          "text": "<10 exp received>"
         },
         {
           "id": 72,
           "paragraph_id": 35,
-          "text": "\\u003c15/100 Exp \\u003e"
+          "text": "<15/100 Exp >"
         },
         {
           "id": 73,
@@ -4795,7 +4795,7 @@
         "The student maneuvered his way around Quinn, moving quicker than he looked. His claws slashed at Quinn's unprotected back, injuring him once more.",
         "[HP 6/10]",
         "\"Shut up, I know!\" Quinn shouted as he lifted the student using both of his hands by the legs and threw him up against the side of the wall.",
-        "'How did Quinn manage to pick him up like that?' Peter wondered, \"They're roughly the same size and he threw him with ease… Does he really not have an ability? Or did he hide it for some reason?'",
+        "'How did Quinn manage to pick him up like that?' Peter wondered, \"They're roughly the same size and he threw him with ease... Does he really not have an ability? Or did he hide it for some reason?'",
         "Quinn didn't stop there though. It was important to teach this bully a lesson, otherwise, they would just come back for more. Quinn needed to scare him from ever trying to mess with him again.",
         "He ran up to the student who was still lying on the floor and kicked him in the stomach with full force. The kick was so hard that it caused the student to cough up a little bit of blood from his mouth.",
         "[First fight has been completed!]",
@@ -4837,12 +4837,12 @@
         "[Drink the blood of your victim to absorb a stat point]",
         "'What the...? Is this thing crazy!\" Quinn thought'",
         "Even if he would gain a stat point there was no way he was going to drink someone else's blood. The very idea of it made Quinn feel sick. Still, when looked to the ground where Kyle had spat out some of his blood, he felt magically drawn to the red liquid.",
-        "'Maybe a little bit wouldn't hurt… No, I shouldn't do it! You're going crazy, Quinn, STOP IT!!!'",
+        "'Maybe a little bit wouldn't hurt... No, I shouldn't do it! You're going crazy, Quinn, STOP IT!!!'",
         "\"Quinn!\" Peter called again, only this time he shouted at his friend.",
         "\"Yeah, you're right.\"",
         "The two of them continued to walk down the hallway, but while doing so Peter noticed that Quinn kept turning his head to look at Kyle on the floor.",
         "'He must be worried about him. Although he is a mean fighter, seems like Quinn's a nice guy after all,' Peter thought as he smiled.",
-        "If only he knew that Quinn was actually still debating whether to go back and try a bit of the blood after all…"
+        "If only he knew that Quinn was actually still debating whether to go back and try a bit of the blood after all..."
       ],
       "sentences": [
         {
@@ -4978,7 +4978,7 @@
         {
           "id": 26,
           "paragraph_id": 13,
-          "text": "'How did Quinn manage to pick him up like that?' Peter wondered, \"They're roughly the same size and he threw him with ease…"
+          "text": "'How did Quinn manage to pick him up like that?' Peter wondered, \"They're roughly the same size and he threw him with ease..."
         },
         {
           "id": 27,
@@ -5308,7 +5308,7 @@
         {
           "id": 92,
           "paragraph_id": 55,
-          "text": "'Maybe a little bit wouldn't hurt…"
+          "text": "'Maybe a little bit wouldn't hurt..."
         },
         {
           "id": 93,
@@ -5348,7 +5348,7 @@
         {
           "id": 100,
           "paragraph_id": 60,
-          "text": "If only he knew that Quinn was actually still debating whether to go back and try a bit of the blood after all…"
+          "text": "If only he knew that Quinn was actually still debating whether to go back and try a bit of the blood after all..."
         }
       ],
       "word_count": 1170
@@ -6750,7 +6750,7 @@
         "\"I don't know. Not like we can resist him. He's picking on us just because we're weaker than him!\" his friend lamented.",
         "Credits were the school's and city's currency system. There were restaurants and shops and even fun activities and games to play all around the city, however, they cost credits.",
         "The military school didn't want their students to starve, so all three meals were free while at the school. Additionally, each student received a daily amount of ten credits, which was automatically sent to their wristwatch.",
-        "It was possible for students to earn more credits for rewards, usually by performing well on missions or school activities. Of course, there was also the possibility of more dubious means…",
+        "It was possible for students to earn more credits for rewards, usually by performing well on missions or school activities. Of course, there was also the possibility of more dubious means...",
         "\"Wait! Stop right there you two!\" one of the boys suddenly shouted at the duo who had been about to pass them. Peter stopped immediately while Quinn carried on walking.",
         "\"Hey, didn't you hear me? I said stop!\" the same boy shouted again. His friend catching the drift got in front of Quinn and pushed him back to where Peter was standing.",
         "Quinn had hoped they would be safe for a little while, at least until he was out of the sun. If only he got inside the building then he would stand a fighting chance.",
@@ -6878,7 +6878,7 @@
         {
           "id": 18,
           "paragraph_id": 7,
-          "text": "Of course, there was also the possibility of more dubious means…"
+          "text": "Of course, there was also the possibility of more dubious means..."
         },
         {
           "id": 19,
@@ -7189,7 +7189,7 @@
         "\"I think I was doing about a kilometre in under five minutes, and I’m not even out of breath.\" Quinn thought.",
         "The stats given to him were that of an athlete’s body, it wasn’t the same weak body he had before but at the same time, it wasn’t a supernatural body that surpassed human limits.",
         "Another thing he noticed while running at night, he could see everything super clear. Even when there were no street lights, it was as if the moon had lightened everything up. A type of night vision of sorts.",
-        "\\u003c Your hunger grows slightly \\u003e",
+        "< Your hunger grows slightly >",
         "\"I know, I don’t need the system to tell me when I’m hungry.\"",
         "When Quinn entered the convenience store he went and grabbed a few of his favourite snacks. Some late-night ice cream and potato chips. That’s when he suddenly spotted Rylee and his friends in the same store down another aisle.",
         "Quinn ducked down quietly and waited for them to finish shopping before doing anything else.",
@@ -7420,7 +7420,7 @@
         {
           "id": 42,
           "paragraph_id": 26,
-          "text": "\\u003c Your hunger grows slightly \\u003e"
+          "text": "< Your hunger grows slightly >"
         },
         {
           "id": 43,
@@ -8039,7 +8039,6 @@
       "title": "Chapter 18 Im a Vampire",
       "url": "https://novelping.com/book/my-vampire-system/chapter-18",
       "paragraphs": [
-        "﻿Chapter 18 I'm a Vampire",
         "Quinn staggered where he stood, unable to take everything in. He couldn't believe what he was reading right now. After seeing that last message there was only one thing that came into his head.",
         "\"Have I become a vampire?\" he mumbled to himself.",
         "On the ground, Kylee stirred.",
@@ -8105,585 +8104,580 @@
         {
           "id": 0,
           "paragraph_id": 0,
-          "text": "﻿Chapter 18 I'm a Vampire"
-        },
-        {
-          "id": 1,
-          "paragraph_id": 1,
           "text": "Quinn staggered where he stood, unable to take everything in."
         },
         {
-          "id": 2,
-          "paragraph_id": 1,
+          "id": 1,
+          "paragraph_id": 0,
           "text": "He couldn't believe what he was reading right now."
+        },
+        {
+          "id": 2,
+          "paragraph_id": 0,
+          "text": "After seeing that last message there was only one thing that came into his head."
         },
         {
           "id": 3,
           "paragraph_id": 1,
-          "text": "After seeing that last message there was only one thing that came into his head."
+          "text": "\"Have I become a vampire?\" he mumbled to himself."
         },
         {
           "id": 4,
           "paragraph_id": 2,
-          "text": "\"Have I become a vampire?\" he mumbled to himself."
+          "text": "On the ground, Kylee stirred."
         },
         {
           "id": 5,
           "paragraph_id": 3,
-          "text": "On the ground, Kylee stirred."
-        },
-        {
-          "id": 6,
-          "paragraph_id": 4,
           "text": "No matter how hard he tried to ignore it, this message made it clear."
         },
         {
-          "id": 7,
-          "paragraph_id": 4,
+          "id": 6,
+          "paragraph_id": 3,
           "text": "The truth had been staring him in the face long enough."
         },
         {
-          "id": 8,
-          "paragraph_id": 4,
+          "id": 7,
+          "paragraph_id": 3,
           "text": "All the signs had been there."
+        },
+        {
+          "id": 8,
+          "paragraph_id": 3,
+          "text": "The book about vampires granting him Exp, growing weaker when hit by sunlight, the constant hunger, the clear night vision, and the way the blood of his first victim had been enticing him to consume it."
         },
         {
           "id": 9,
           "paragraph_id": 4,
-          "text": "The book about vampires granting him Exp, growing weaker when hit by sunlight, the constant hunger, the clear night vision, and the way the blood of his first victim had been enticing him to consume it."
+          "text": "Quinn was not sure he could do what the system was demanding of him."
         },
         {
           "id": 10,
-          "paragraph_id": 5,
-          "text": "Quinn was not sure he could do what the system was demanding of him."
+          "paragraph_id": 4,
+          "text": "There was this moral binding, his last shred of humanity that held him back from completely turning into a beast."
         },
         {
           "id": 11,
           "paragraph_id": 5,
-          "text": "There was this moral binding, his last shred of humanity that held him back from completely turning into a beast."
+          "text": "He stood there looking down at Rylee who had passed out on the ground."
         },
         {
           "id": 12,
-          "paragraph_id": 6,
-          "text": "He stood there looking down at Rylee who had passed out on the ground."
+          "paragraph_id": 5,
+          "text": "It was the perfect opportunity for him to do as the system demanded."
         },
         {
           "id": 13,
           "paragraph_id": 6,
-          "text": "It was the perfect opportunity for him to do as the system demanded."
-        },
-        {
-          "id": 14,
-          "paragraph_id": 7,
           "text": "He gulped his saliva down as spit was starting to fill his mouth."
         },
         {
-          "id": 15,
-          "paragraph_id": 7,
+          "id": 14,
+          "paragraph_id": 6,
           "text": "Something was drawing him to Rylee's body."
         },
         {
-          "id": 16,
-          "paragraph_id": 7,
+          "id": 15,
+          "paragraph_id": 6,
           "text": "He could smell his victim's blood, he could hear the beating heart."
         },
         {
-          "id": 17,
-          "paragraph_id": 7,
+          "id": 16,
+          "paragraph_id": 6,
           "text": "Without realizing it, he bent towards Rylee and could see his pulse beating through his neck."
         },
         {
-          "id": 18,
-          "paragraph_id": 7,
+          "id": 17,
+          "paragraph_id": 6,
           "text": "The blood flowing through his veins."
+        },
+        {
+          "id": 18,
+          "paragraph_id": 6,
+          "text": "The smell of blood from the chipped off tooth was strong and intoxicating."
         },
         {
           "id": 19,
           "paragraph_id": 7,
-          "text": "The smell of blood from the chipped off tooth was strong and intoxicating."
+          "text": "[You have received an Optional quest]"
         },
         {
           "id": 20,
           "paragraph_id": 8,
-          "text": "[You have received an Optional quest]"
+          "text": "[Drink the blood of your victim to absorb a stat point]"
         },
         {
           "id": 21,
           "paragraph_id": 9,
-          "text": "[Drink the blood of your victim to absorb a stat point]"
-        },
-        {
-          "id": 22,
-          "paragraph_id": 10,
           "text": "There were many questions on Quinn's mind, questions he was unsure about and had no answers. 'How much blood was he supposed to consume?"
         },
         {
-          "id": 23,
-          "paragraph_id": 10,
+          "id": 22,
+          "paragraph_id": 9,
           "text": "Would Riley die if he did this?"
+        },
+        {
+          "id": 23,
+          "paragraph_id": 9,
+          "text": "Would he perhaps turn and become another vampire like him?'"
         },
         {
           "id": 24,
           "paragraph_id": 10,
-          "text": "Would he perhaps turn and become another vampire like him?'"
-        },
-        {
-          "id": 25,
-          "paragraph_id": 11,
           "text": "Layla had continued to watch Quinn ever since he had left the convenience store."
         },
         {
-          "id": 26,
-          "paragraph_id": 11,
+          "id": 25,
+          "paragraph_id": 10,
           "text": "When she had seen him follow after Rylee and donning the mask, she had understood what he was about to do."
+        },
+        {
+          "id": 26,
+          "paragraph_id": 10,
+          "text": "She had kept a safe distance while staying in between the trees to avoid detection."
         },
         {
           "id": 27,
           "paragraph_id": 11,
-          "text": "She had kept a safe distance while staying in between the trees to avoid detection."
-        },
-        {
-          "id": 28,
-          "paragraph_id": 12,
           "text": "It had worked perfectly, allowing her to watch the whole thing unfold."
         },
         {
-          "id": 29,
-          "paragraph_id": 12,
+          "id": 28,
+          "paragraph_id": 11,
           "text": "Although Quinn's ambush had failed, he had nevertheless managed to win over his opponent by tricking him."
         },
         {
-          "id": 30,
-          "paragraph_id": 12,
+          "id": 29,
+          "paragraph_id": 11,
           "text": "However, everything after that had been completely strange."
         },
         {
-          "id": 31,
-          "paragraph_id": 12,
+          "id": 30,
+          "paragraph_id": 11,
           "text": "Out of nowhere Quinn had first grabbed his chest, then his stomach, before going down to his knees."
+        },
+        {
+          "id": 31,
+          "paragraph_id": 11,
+          "text": "The expression on his face showing the great pain he was suddenly under."
         },
         {
           "id": 32,
           "paragraph_id": 12,
-          "text": "The expression on his face showing the great pain he was suddenly under."
+          "text": "Layle had debated whether to run and help him but had been unable to reach a decision."
         },
         {
           "id": 33,
-          "paragraph_id": 13,
-          "text": "Layle had debated whether to run and help him but had been unable to reach a decision."
+          "paragraph_id": 12,
+          "text": "Eventually, the five minutes were over and Quinn had looked to have regained his composure."
         },
         {
           "id": 34,
           "paragraph_id": 13,
-          "text": "Eventually, the five minutes were over and Quinn had looked to have regained his composure."
-        },
-        {
-          "id": 35,
-          "paragraph_id": 14,
           "text": "The next second she saw Quinn lift Rylee's body slightly off the floor while kneeling beside the unconscious boy."
         },
         {
-          "id": 36,
-          "paragraph_id": 14,
+          "id": 35,
+          "paragraph_id": 13,
           "text": "Yet, the gaze he was looking at him was very strange."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 13,
+          "text": "It wasn't the"
         },
         {
           "id": 37,
           "paragraph_id": 14,
-          "text": "It wasn't the"
+          "text": "gloating type of look of a winner over a loser."
         },
         {
           "id": 38,
           "paragraph_id": 15,
-          "text": "gloating type of look of a winner over a loser."
+          "text": "'What the...' Layla wondered, 'He can't be planning to...to... kiss him?!"
         },
         {
           "id": 39,
-          "paragraph_id": 16,
-          "text": "'What the...' Layla wondered, 'He can't be planning to...to... kiss him?!"
+          "paragraph_id": 15,
+          "text": "What is wrong with this guy?!'"
         },
         {
           "id": 40,
           "paragraph_id": 16,
-          "text": "What is wrong with this guy?!'"
+          "text": "The next moment, Quinn placed the unconscious body back down."
         },
         {
           "id": 41,
-          "paragraph_id": 17,
-          "text": "The next moment, Quinn placed the unconscious body back down."
+          "paragraph_id": 16,
+          "text": "Unable to come to a decision, his mind continued to go back and forth."
         },
         {
           "id": 42,
           "paragraph_id": 17,
-          "text": "Unable to come to a decision, his mind continued to go back and forth."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 18,
           "text": "\"Damn it, in the movies it looked so easy."
         },
         {
-          "id": 44,
-          "paragraph_id": 18,
+          "id": 43,
+          "paragraph_id": 17,
           "text": "Just the idea of sticking my teeth into someone..."
         },
         {
-          "id": 45,
-          "paragraph_id": 18,
+          "id": 44,
+          "paragraph_id": 17,
           "text": "I just can't do it!"
         },
         {
-          "id": 46,
-          "paragraph_id": 18,
+          "id": 45,
+          "paragraph_id": 17,
           "text": "Wait, maybe I don't have to!"
+        },
+        {
+          "id": 46,
+          "paragraph_id": 17,
+          "text": "I could just make a small cut on his arm and lick it, perhaps that will do it,\" he was mumbling to himself like a mad man."
         },
         {
           "id": 47,
           "paragraph_id": 18,
-          "text": "I could just make a small cut on his arm and lick it, perhaps that will do it,\" he was mumbling to himself like a mad man."
+          "text": "Trying to confirm if what she was seeing was real."
         },
         {
           "id": 48,
-          "paragraph_id": 19,
-          "text": "Trying to confirm if what she was seeing was real."
+          "paragraph_id": 18,
+          "text": "Layla started to slowly creep about closer through the bushes and trees, then suddenly, her foot had landed on a small twig and a snapping sound was heard."
         },
         {
           "id": 49,
           "paragraph_id": 19,
-          "text": "Layla started to slowly creep about closer through the bushes and trees, then suddenly, her foot had landed on a small twig and a snapping sound was heard."
+          "text": "\"What was that?\" Quinn thought as he turned and looked around, but could see no one."
         },
         {
           "id": 50,
-          "paragraph_id": 20,
-          "text": "\"What was that?\" Quinn thought as he turned and looked around, but could see no one."
+          "paragraph_id": 19,
+          "text": "However, in a panic that someone was coming his way and would find him, he left the body where it was and headed back to school."
         },
         {
           "id": 51,
           "paragraph_id": 20,
-          "text": "However, in a panic that someone was coming his way and would find him, he left the body where it was and headed back to school."
+          "text": "Layla was unaware of the small twig she had stepped on and snapped."
         },
         {
           "id": 52,
-          "paragraph_id": 21,
-          "text": "Layla was unaware of the small twig she had stepped on and snapped."
+          "paragraph_id": 20,
+          "text": "She hadn't even heard the sound herself, in her eyes, she just saw Quinn suddenly leave."
         },
         {
           "id": 53,
           "paragraph_id": 21,
-          "text": "She hadn't even heard the sound herself, in her eyes, she just saw Quinn suddenly leave."
+          "text": "'I wonder what that was all about?"
         },
         {
           "id": 54,
-          "paragraph_id": 22,
-          "text": "'I wonder what that was all about?"
+          "paragraph_id": 21,
+          "text": "In the end, he didn't do anything, Layla was curious what the point of him at the end had been."
         },
         {
           "id": 55,
           "paragraph_id": 22,
-          "text": "In the end, he didn't do anything, Layla was curious what the point of him at the end had been."
+          "text": "Quinn hurried head back to school and placed the mask into his shopping bag."
         },
         {
           "id": 56,
-          "paragraph_id": 23,
-          "text": "Quinn hurried head back to school and placed the mask into his shopping bag."
+          "paragraph_id": 22,
+          "text": "He noticed that the ice cream he had bought had already melted, but for some reason when he looked at it, it no longer looked so appetizing."
         },
         {
           "id": 57,
           "paragraph_id": 23,
-          "text": "He noticed that the ice cream he had bought had already melted, but for some reason when he looked at it, it no longer looked so appetizing."
+          "text": "There was a hunger in his stomach that he felt couldn't be satisfied with food and he wondered just how long he would be able to hold it in."
         },
         {
           "id": 58,
           "paragraph_id": 24,
-          "text": "There was a hunger in his stomach that he felt couldn't be satisfied with food and he wondered just how long he would be able to hold it in."
-        },
-        {
-          "id": 59,
-          "paragraph_id": 25,
           "text": "When Quinn had finally arrived back at school, he decided to stop by the toilet first."
         },
         {
-          "id": 60,
-          "paragraph_id": 25,
+          "id": 59,
+          "paragraph_id": 24,
           "text": "He was taking a good look in the mirror to see if there were any noticeable changes but his outward appearance looked the same as before."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 24,
+          "text": "He even lifted up his lips, so he could get a better view of his teeth, but they too were just the same."
         },
         {
           "id": 61,
           "paragraph_id": 25,
-          "text": "He even lifted up his lips, so he could get a better view of his teeth, but they too were just the same."
+          "text": "'Phew, at least it looks like no one will be able to tell."
         },
         {
           "id": 62,
-          "paragraph_id": 26,
-          "text": "'Phew, at least it looks like no one will be able to tell."
+          "paragraph_id": 25,
+          "text": "But why did I feel that pain in my teeth at the time then?'"
         },
         {
           "id": 63,
           "paragraph_id": 26,
-          "text": "But why did I feel that pain in my teeth at the time then?'"
+          "text": "Quinn then decided to open his status screen to see if his stats had changed after evolving."
         },
         {
           "id": 64,
-          "paragraph_id": 27,
-          "text": "Quinn then decided to open his status screen to see if his stats had changed after evolving."
+          "paragraph_id": 26,
+          "text": "[Name: Quinn Talen]"
         },
         {
           "id": 65,
           "paragraph_id": 27,
-          "text": "[Name: Quinn Talen]"
+          "text": "[Race: Halfling]"
         },
         {
           "id": 66,
           "paragraph_id": 28,
-          "text": "[Race: Halfling]"
+          "text": "[HP 15/15]"
         },
         {
           "id": 67,
           "paragraph_id": 29,
-          "text": "[HP 15/15]"
+          "text": "[Exp 50/200]"
         },
         {
           "id": 68,
           "paragraph_id": 30,
-          "text": "[Exp 50/200]"
+          "text": "[Strength 10]"
         },
         {
           "id": 69,
           "paragraph_id": 31,
-          "text": "[Strength 10]"
+          "text": "[Agility 10]"
         },
         {
           "id": 70,
           "paragraph_id": 32,
-          "text": "[Agility 10]"
+          "text": "[Stamina 10]"
         },
         {
           "id": 71,
           "paragraph_id": 33,
-          "text": "[Stamina 10]"
+          "text": "[Status points available (1)]"
         },
         {
           "id": 72,
           "paragraph_id": 34,
-          "text": "[Status points available (1)]"
+          "text": "From what he could see, merely his HP had increased by 50% while everything else had remained the same."
         },
         {
           "id": 73,
-          "paragraph_id": 35,
-          "text": "From what he could see, merely his HP had increased by 50% while everything else had remained the same."
+          "paragraph_id": 34,
+          "text": "To be honest, Quinn was pretty bummed out about that, expecting more from something called an 'evolution'."
         },
         {
           "id": 74,
           "paragraph_id": 35,
-          "text": "To be honest, Quinn was pretty bummed out about that, expecting more from something called an 'evolution'."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 36,
           "text": "Still, at least his level up appeared to have granted him a single status point."
         },
         {
-          "id": 76,
-          "paragraph_id": 36,
+          "id": 75,
+          "paragraph_id": 35,
           "text": "When Quinn pressed on the system it allowed him to increase either his Strength, Agility, or Stamina by one point."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 35,
+          "text": "Quinn thought about it for a while and decided to add a point to his Agility."
         },
         {
           "id": 77,
           "paragraph_id": 36,
-          "text": "Quinn thought about it for a while and decided to add a point to his Agility."
+          "text": "[Agility 11]"
         },
         {
           "id": 78,
           "paragraph_id": 37,
-          "text": "[Agility 11]"
+          "text": "Quinn had considered increasing his Strength in case he met more people like Rylee, but he had concluded that he could overcome that problem with a good beast weapon."
         },
         {
           "id": 79,
-          "paragraph_id": 38,
-          "text": "Quinn had considered increasing his Strength in case he met more people like Rylee, but he had concluded that he could overcome that problem with a good beast weapon."
+          "paragraph_id": 37,
+          "text": "It would therefore be wasting his stat point."
         },
         {
           "id": 80,
           "paragraph_id": 38,
-          "text": "It would therefore be wasting his stat point."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 39,
           "text": "As such, what he wanted right now was to become fast and agile like an assassin!"
         },
         {
-          "id": 82,
-          "paragraph_id": 39,
+          "id": 81,
+          "paragraph_id": 38,
           "text": "Quinn wondered if there was a reason why the system had only given him one point, but then he recalled the optional quests it had offered him."
         },
         {
-          "id": 83,
-          "paragraph_id": 39,
+          "id": 82,
+          "paragraph_id": 38,
           "text": "So far Quinn would have been able to gain an additional two stat points, whereas leveling up only granted a single one."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 38,
+          "text": "If he wanted to get stronger fast then that would be the quickest way."
         },
         {
           "id": 84,
           "paragraph_id": 39,
-          "text": "If he wanted to get stronger fast then that would be the quickest way."
+          "text": "However, Quinn was unsure of whether or not he would be able to go through with it."
         },
         {
           "id": 85,
-          "paragraph_id": 40,
-          "text": "However, Quinn was unsure of whether or not he would be able to go through with it."
+          "paragraph_id": 39,
+          "text": "At first, he would like to do more research into the system and see if there was anything he could find out about it."
         },
         {
           "id": 86,
           "paragraph_id": 40,
-          "text": "At first, he would like to do more research into the system and see if there was anything he could find out about it."
+          "text": "He had a direction now and knew his system was similar to that of a vampire."
         },
         {
           "id": 87,
-          "paragraph_id": 41,
-          "text": "He had a direction now and knew his system was similar to that of a vampire."
+          "paragraph_id": 40,
+          "text": "Perhaps if he learned more about them he would be able to figure out if there was a way around drinking"
         },
         {
           "id": 88,
           "paragraph_id": 41,
-          "text": "Perhaps if he learned more about them he would be able to figure out if there was a way around drinking"
+          "text": "the blood as well."
         },
         {
           "id": 89,
           "paragraph_id": 42,
-          "text": "the blood as well."
+          "text": "With that in mind, Quinn decided to head to his room where he could hear Vorden and"
         },
         {
           "id": 90,
           "paragraph_id": 43,
-          "text": "With that in mind, Quinn decided to head to his room where he could hear Vorden and"
+          "text": "Peter practising together."
         },
         {
           "id": 91,
-          "paragraph_id": 44,
-          "text": "Peter practising together."
+          "paragraph_id": 43,
+          "text": "Peter was trying his best to learn the ability book the military had given him, while Vorden was tutoring him."
         },
         {
           "id": 92,
           "paragraph_id": 44,
-          "text": "Peter was trying his best to learn the ability book the military had given him, while Vorden was tutoring him."
+          "text": "\"What took you so long?\" Vorden greeted him with a question."
         },
         {
           "id": 93,
-          "paragraph_id": 45,
-          "text": "\"What took you so long?\" Vorden greeted him with a question."
+          "paragraph_id": 44,
+          "text": "\"We were starting to get"
         },
         {
           "id": 94,
           "paragraph_id": 45,
-          "text": "\"We were starting to get"
+          "text": "worried, you might have gotten lost.\""
         },
         {
           "id": 95,
           "paragraph_id": 46,
-          "text": "worried, you might have gotten lost.\""
+          "text": "\"No, I just went exploring the city a little,\" Quinn told a white lie., \"I'm a bit tired, so I think"
         },
         {
           "id": 96,
           "paragraph_id": 47,
-          "text": "\"No, I just went exploring the city a little,\" Quinn told a white lie., \"I'm a bit tired, so I think"
+          "text": "I'm going to bed early today.\""
         },
         {
           "id": 97,
           "paragraph_id": 48,
-          "text": "I'm going to bed early today.\""
+          "text": "\"Maybe we should call it a day for now as well,\" Peter suggested, visibly exhausted."
         },
         {
           "id": 98,
-          "paragraph_id": 49,
-          "text": "\"Maybe we should call it a day for now as well,\" Peter suggested, visibly exhausted."
+          "paragraph_id": 48,
+          "text": "Not wanting to push him, Vorden agreed and with that, the group turned off the lights and went"
         },
         {
           "id": 99,
           "paragraph_id": 49,
-          "text": "Not wanting to push him, Vorden agreed and with that, the group turned off the lights and went"
+          "text": "to sleep."
         },
         {
           "id": 100,
           "paragraph_id": 50,
-          "text": "to sleep."
+          "text": "Although Quinn had been the one to suggest going to sleep, he was unable to."
         },
         {
           "id": 101,
-          "paragraph_id": 51,
-          "text": "Although Quinn had been the one to suggest going to sleep, he was unable to."
+          "paragraph_id": 50,
+          "text": "His stomach was in a tremendous amount of pain and he had too much on his mind."
         },
         {
           "id": 102,
           "paragraph_id": 51,
-          "text": "His stomach was in a tremendous amount of pain and he had too much on his mind."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 52,
           "text": "If what the message had claimed would be true, Quinn only had a limited amount of time to solve his problem."
         },
         {
-          "id": 104,
-          "paragraph_id": 52,
+          "id": 103,
+          "paragraph_id": 51,
           "text": "However, there was nothing he could do."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 51,
+          "text": "The school's curfew began at 10 PM and if you were caught outside after that major punishments awaited."
         },
         {
           "id": 105,
           "paragraph_id": 52,
-          "text": "The school's curfew began at 10 PM and if you were caught outside after that major punishments awaited."
+          "text": "With no other choice, he closed his eyes, hoping to deal with his problems in the morning."
         },
         {
           "id": 106,
-          "paragraph_id": 53,
-          "text": "With no other choice, he closed his eyes, hoping to deal with his problems in the morning."
+          "paragraph_id": 52,
+          "text": "Eventually, he managed to drift off to sleep."
         },
         {
           "id": 107,
           "paragraph_id": 53,
-          "text": "Eventually, he managed to drift off to sleep."
+          "text": "When he woke up the next day, the pain was worse than before."
         },
         {
           "id": 108,
-          "paragraph_id": 54,
-          "text": "When he woke up the next day, the pain was worse than before."
+          "paragraph_id": 53,
+          "text": "His head was pounding and"
         },
         {
           "id": 109,
           "paragraph_id": 54,
-          "text": "His head was pounding and"
+          "text": "the first thing Quinn did was open up his system."
         },
         {
           "id": 110,
           "paragraph_id": 55,
-          "text": "the first thing Quinn did was open up his system."
+          "text": "[10 hours have passed]"
         },
         {
           "id": 111,
           "paragraph_id": 56,
-          "text": "[10 hours have passed]"
+          "text": "[You hunger grows]"
         },
         {
           "id": 112,
           "paragraph_id": 57,
-          "text": "[You hunger grows]"
+          "text": "[You have lost -10 HP]"
         },
         {
           "id": 113,
           "paragraph_id": 58,
-          "text": "[You have lost -10 HP]"
+          "text": "[HP 5/15]"
         },
         {
           "id": 114,
           "paragraph_id": 59,
-          "text": "[HP 5/15]"
-        },
-        {
-          "id": 115,
-          "paragraph_id": 60,
           "text": "[Your HP will continue to decrease every hour]"
         }
       ],
-      "word_count": 1494
+      "word_count": 1489
     },
     {
       "chapter_index": 19,
@@ -8721,7 +8715,7 @@
         "After the group finished eating it was time for them to go to their morning classes but Quinn was unable to concentrate on anything, all he could do was try to calm himself down while in the middle of class and watch his HP slowly tick away.",
         "It was driving him insane seeing the number go down hour by hour and now wished he had just bitten into Rylee’s neck yesterday.",
         "Then when it came to lunchtime, Quinn once again rushed off without Vorden and Peter this time to the library.",
-        "\\u003c1/15 HP\\u003e",
+        "<1/15 HP>",
         "\"What the hell is happening to me?\" Quinn said as his hands wouldn’t stop shaking.",
         "Each time Quinn’s HP would go down, it was getting harder and harder to control his own body and sooner or later he would go crazy. During class, he had multiple visions of tearing the place apart and ripping out the blood from their necks.",
         "Without realising where he was walking to, Quinn eventually ended up in the library. In the quiet corner of the library down one of the isles was the fiction section.",
@@ -9029,7 +9023,7 @@
         {
           "id": 58,
           "paragraph_id": 31,
-          "text": "\\u003c1/15 HP\\u003e"
+          "text": "<1/15 HP>"
         },
         {
           "id": 59,
@@ -9138,19 +9132,19 @@
         "His teeth quickly sunk into Layla’s skin and at the same time, a gush of blood entered Quinn’s mouth. However, Layla didn’t feel any pain from this but instead, it felt like pleasure. A tingling sensation ran through her body as she felt the blood rush up through and out of her neck.",
         "Even if she wanted to resist, she couldn’t, the bite seemed to have a paralysis effect.",
         "Finally, Quinn’s hunger was going away.",
-        "\\u003cYour hunger has decreased \\u003e",
-        "\\u003cYour hunger has decreased \\u003e",
-        "\\u003cYou will no longer lose HP\\u003e",
+        "<Your hunger has decreased >",
+        "<Your hunger has decreased >",
+        "<You will no longer lose HP>",
         "Even though the messages had appeared, Quinn continued to suck Layla’s blood away.",
-        "\\u003cHP regenerating\\u003e",
-        "\\u003cHP regenerating\\u003e",
-        "\\u003c15/15 HP\\u003e",
+        "<HP regenerating>",
+        "<HP regenerating>",
+        "<15/15 HP>",
         "Then when the last message had appeared, Quinn’s mind had finally come back to him. He let got of Layla, causing her body to fall to the ground.",
         "\"What the?\" Quinn said as he looked around himself, only then noticing Layla on the ground.",
         "\"Did I do that?\"",
         "Then images of what he had just done popped into his head, although at the time he felt like he had no control, in the end, his whole body still working causing him to remember everything he had done.",
-        "\\u003cA+ blood type has been absorbed\\u003e",
-        "\\u003c You have gained 1+ strength\\u003e",
+        "<A+ blood type has been absorbed>",
+        "< You have gained 1+ strength>",
         "Although Quinn wanted to check what the message had said and what it had it meant, he needed to get Layla out of the library fast. Even though they were in a quiet part of the library, there was no telling when somebody would come back.",
         "Thankfully Quinn could see Layla breathing so he at least knew she wasn’t dead but there were two clear bite marks on her neck that needed to be dealt with. Quinn then lifted Layla up with his two hands, finding her surprisingly lighter than he thought.",
         "As Quinn headed to the Doctor’s office, he couldn’t stop thinking about what had just happened. A part of him thought that the system might have just been playing tricks on him. Even though he could see his HP going down, he never felt like he was going to die at any point.",
@@ -9173,9 +9167,9 @@
         "\"Oh, young kids these days,\" Hayley said laughing. \"I didn’t realise you two were like that.\"",
         "\"No, No, no,\" Quinn said waving his arms. \"Were just friends that’s all.\"",
         "After Hayley had gone away to look after other students, Quinn decided to open up his system.",
-        "\\u003c Strength 11\\u003e",
-        "\\u003c Agility 11\\u003e",
-        "\\u003cStamina 10\\u003e",
+        "< Strength 11>",
+        "< Agility 11>",
+        "<Stamina 10>",
         "\"It really did give me an extra stat point after all?\"",
         "After sucking Layla’s blood, it seemed like he had gained a stat point. Quinn remembered after defeating opponents the system would give him an additional quest to suck his victim’s blood. The reward was a stat point but it seemed like there was no need for him to get a quest.",
         "Was Quinn able to drink anyone’s blood and gain stat points, what happened if Quinn was to drink Layla’s blood again, would he gain another stat? there were so many questions Quinn wanted answers for.",
@@ -9222,17 +9216,17 @@
         {
           "id": 6,
           "paragraph_id": 4,
-          "text": "\\u003cYour hunger has decreased \\u003e"
+          "text": "<Your hunger has decreased >"
         },
         {
           "id": 7,
           "paragraph_id": 5,
-          "text": "\\u003cYour hunger has decreased \\u003e"
+          "text": "<Your hunger has decreased >"
         },
         {
           "id": 8,
           "paragraph_id": 6,
-          "text": "\\u003cYou will no longer lose HP\\u003e"
+          "text": "<You will no longer lose HP>"
         },
         {
           "id": 9,
@@ -9242,17 +9236,17 @@
         {
           "id": 10,
           "paragraph_id": 8,
-          "text": "\\u003cHP regenerating\\u003e"
+          "text": "<HP regenerating>"
         },
         {
           "id": 11,
           "paragraph_id": 9,
-          "text": "\\u003cHP regenerating\\u003e"
+          "text": "<HP regenerating>"
         },
         {
           "id": 12,
           "paragraph_id": 10,
-          "text": "\\u003c15/15 HP\\u003e"
+          "text": "<15/15 HP>"
         },
         {
           "id": 13,
@@ -9282,12 +9276,12 @@
         {
           "id": 18,
           "paragraph_id": 15,
-          "text": "\\u003cA+ blood type has been absorbed\\u003e"
+          "text": "<A+ blood type has been absorbed>"
         },
         {
           "id": 19,
           "paragraph_id": 16,
-          "text": "\\u003c You have gained 1+ strength\\u003e"
+          "text": "< You have gained 1+ strength>"
         },
         {
           "id": 20,
@@ -9512,17 +9506,17 @@
         {
           "id": 64,
           "paragraph_id": 39,
-          "text": "\\u003c Strength 11\\u003e"
+          "text": "< Strength 11>"
         },
         {
           "id": 65,
           "paragraph_id": 40,
-          "text": "\\u003c Agility 11\\u003e"
+          "text": "< Agility 11>"
         },
         {
           "id": 66,
           "paragraph_id": 41,
-          "text": "\\u003cStamina 10\\u003e"
+          "text": "<Stamina 10>"
         },
         {
           "id": 67,
@@ -9635,7 +9629,7 @@
         "\"Alright come on,\" Quinn said. \"Let’s hurry.\"",
         "The two of them quickly ran through the hallways until they had finally reached the assembly hall. It was currently a large empty hall with marble flooring and a stage at the front. It hadn’t been used for anything yet so far but it was the area where the students would be called if they were to have a meeting.",
         "When the two of them entered the assembly hall, there were already multiple students there mumbling about a commotion.",
-        "\"Did you see what happened\\u003e\"",
+        "\"Did you see what happened>\"",
         "\"Yeah, that guy is a monster how could he do that?\"",
         "\"Luckily the second-year students were here to stop him.\"",
         "The assembly hall was complete trashed. Craters and rubble had formed on parts of the walls and ground. Burn marks and other things were there as well and there was even blood. Something Quinn could smell the second he had entered the room.",
@@ -9649,7 +9643,7 @@
         "Name: Vorden Blade",
         "Race: Human",
         "Blood type: O-",
-        "Quinn started to inspect the battle scene and found more traces of blood but when he used the inspect skill on them, it wouldn’t show him any information at all. It would only show \\u003c?????\\u003e",
+        "Quinn started to inspect the battle scene and found more traces of blood but when he used the inspect skill on them, it wouldn’t show him any information at all. It would only show <?????>",
         "\"Do I have to use the inspect skill on them in person?\" Quinn thought.",
         "It was a shame the blood on the floor had already dried up, otherwise, Quinn would have used the syringe he had on hand.",
         "Just then, Peter had finished questioning everyone and returned to Quinn.",
@@ -9749,7 +9743,7 @@
         {
           "id": 14,
           "paragraph_id": 8,
-          "text": "\"Did you see what happened\\u003e\""
+          "text": "\"Did you see what happened>\""
         },
         {
           "id": 15,
@@ -9864,7 +9858,7 @@
         {
           "id": 37,
           "paragraph_id": 22,
-          "text": "It would only show \\u003c?????\\u003e"
+          "text": "It would only show <?????>"
         },
         {
           "id": 38,
@@ -11262,14 +11256,14 @@
         "Layla didn’t say anything and held out her arm, she was still a bit embarrassed about what had happened earlier.",
         "Once Quinn had filled up two test tubes, he put one of the blood-filled tubes in his bag while holding the other.",
         "\"Inspect.\"",
-        "\\u003c Blood of Layla Munrow\\u003e",
-        "\\u003c Blood type A + \\u003e",
+        "< Blood of Layla Munrow>",
+        "< Blood type A + >",
         "Quinn then looked at Layla and used his inspect Skill once again.",
-        "\\u003cName: Layla Munrow \\u003e",
-        "\\u003c Race: Human \\u003e",
-        "\\u003c Ability: Telekinesis \\u003e",
-        "\\u003c HP 12/12\\u003e",
-        "\\u003c Blood Type A + \\u003e",
+        "<Name: Layla Munrow >",
+        "< Race: Human >",
+        "< Ability: Telekinesis >",
+        "< HP 12/12>",
+        "< Blood Type A + >",
         "It was as Quinn thought. When using the inspect skill on the blood it only showed him what blood type it was and who it was from. Just like the time at the assembly hall. But if the person was in front of him, it would reveal their ability, HP and Blood type.",
         "Some of the blood marks in the hall only reviled question marks. Assuming that Quinn either had to have run into the person before or used the inspect skill on the person once before.",
         "Quinn looked at the test tube and gulped. He then pulled out the cork at the top and start sniffing the blood.",
@@ -11278,10 +11272,10 @@
         "\"I don’t know it feels kind of embarrassing, I can’t explain.\"",
         "Quinn ignored Layla and looked at the blood again. The fragrance smelt quite sweet which was different from how he remembered it before. Then suddenly, Quinn lifted the tube and drank the blood in one gulp as if he was taking an alcoholic shot.",
         "As the blood ran down his throat, he felt a warm tingling sensation through his body. The blood was also surprisingly sweet rather than metallic. It seemed like the race change had also changed his taste buds and sense of smell.",
-        "\\u003c Your HP is already full \\u003e",
-        "\\u003c The blood will have no effect \\u003e",
-        "\\u003c Blood from this person has already been consumed \\u003e",
-        "\\u003c No stat points will be given \\u003e",
+        "< Your HP is already full >",
+        "< The blood will have no effect >",
+        "< Blood from this person has already been consumed >",
+        "< No stat points will be given >",
         "Quinn was surprised to see at the information he had been given. The blood last time seemed to have a healing effect on his body. Judging by the message, if Quinn was injured Layla’s blood would allow him to regain HP.",
         "But the second message is what interested him more. The system stated because he had already consumed this blood before, that no stats would be given. This meant that as long as it was the blood of someone he hadn’t drunk before, he would be able to get an extra stat point.",
         "Quin smiled at the thought. Of course, this was only a theory of his but Quinn wanted to test it out straight away.",
@@ -11582,12 +11576,12 @@
         {
           "id": 57,
           "paragraph_id": 36,
-          "text": "\\u003c Blood of Layla Munrow\\u003e"
+          "text": "< Blood of Layla Munrow>"
         },
         {
           "id": 58,
           "paragraph_id": 37,
-          "text": "\\u003c Blood type A + \\u003e"
+          "text": "< Blood type A + >"
         },
         {
           "id": 59,
@@ -11597,27 +11591,27 @@
         {
           "id": 60,
           "paragraph_id": 39,
-          "text": "\\u003cName: Layla Munrow \\u003e"
+          "text": "<Name: Layla Munrow >"
         },
         {
           "id": 61,
           "paragraph_id": 40,
-          "text": "\\u003c Race: Human \\u003e"
+          "text": "< Race: Human >"
         },
         {
           "id": 62,
           "paragraph_id": 41,
-          "text": "\\u003c Ability: Telekinesis \\u003e"
+          "text": "< Ability: Telekinesis >"
         },
         {
           "id": 63,
           "paragraph_id": 42,
-          "text": "\\u003c HP 12/12\\u003e"
+          "text": "< HP 12/12>"
         },
         {
           "id": 64,
           "paragraph_id": 43,
-          "text": "\\u003c Blood Type A + \\u003e"
+          "text": "< Blood Type A + >"
         },
         {
           "id": 65,
@@ -11707,22 +11701,22 @@
         {
           "id": 82,
           "paragraph_id": 52,
-          "text": "\\u003c Your HP is already full \\u003e"
+          "text": "< Your HP is already full >"
         },
         {
           "id": 83,
           "paragraph_id": 53,
-          "text": "\\u003c The blood will have no effect \\u003e"
+          "text": "< The blood will have no effect >"
         },
         {
           "id": 84,
           "paragraph_id": 54,
-          "text": "\\u003c Blood from this person has already been consumed \\u003e"
+          "text": "< Blood from this person has already been consumed >"
         },
         {
           "id": 85,
           "paragraph_id": 55,
-          "text": "\\u003c No stat points will be given \\u003e"
+          "text": "< No stat points will be given >"
         },
         {
           "id": 86,
@@ -11858,9 +11852,9 @@
         "As soon as Quinn was within five meters, he activated his skill blood swipe at the same time swinging his hand across. A red line of power came surging out of Quinn’s fingertips and hit the student right on his chest causing a claw-like mark but it wasn’t enough to knock him out.",
         "\"Blood swipe, Blood swipe, Blood swipe.\"",
         "Quinn then cast three more blood swipes swinging his arm out. Each blow managed to hit the student dead on, with multiple marks across his chest, he had finally collapsed to the floor.",
-        "\\u003cHP 11/15\\u003e",
-        "\\u003c An opponent has been defeated, 50 exp granted \\u003e",
-        "\\u003c 110/200 exp \\u003e",
+        "<HP 11/15>",
+        "< An opponent has been defeated, 50 exp granted >",
+        "< 110/200 exp >",
         "Blood swipe had no cooldown but did use one point of HP per swipe. As long as Quinn had HP he could continuously cast out his blood swipe skill.",
         "Rylee seeing his two teammates who were of equal power level to himself be defeated in an instant, started to feel scared. His body was shaking and all he wanted to do was get out of there. He turned away from his friends and started running deeper into the forest.",
         "Quinn’s speed was greater though and was easily able to catch up. When his attack was in range, Quinn cast two more blood swipes aiming for the back of Rylee’s ankles. As they hit, Rylee fell to the ground.",
@@ -11883,22 +11877,22 @@
         "\"Thanks, but I just wanted to test something out.\"",
         "\"Inspect,\" Quinn had used his inspect skill on each of the containers.",
         "The first was Rylee’s blood.",
-        "\\u003c Blood type B+ \\u003e",
+        "< Blood type B+ >",
         "\"Here goes,\" Quinn said as he popped the cork open and drank the small tube of blood.",
-        "\\u003c You have regained 5 points of HP \\u003e",
-        "\\u003c 14/15 HP \\u003e",
-        "\\u003c B+ Blood type has been absorbed \\u003e",
-        "\\u003c + 1 point of Agility has been added \\u003e",
+        "< You have regained 5 points of HP >",
+        "< 14/15 HP >",
+        "< B+ Blood type has been absorbed >",
+        "< + 1 point of Agility has been added >",
         "Quinn couldn’t stop smiling as he saw the message. He then went on to drink the second tube of blood. Drinking the blood no longer bothered him once he found out the taste was quite sweet. All Quinn needed to do was convince himself it was some type of juice.",
-        "\\u003c You have regained 1 point of HP \\u003e",
-        "\\u003c HP 15/15 \\u003e",
-        "\\u003c This person blood has been consumed before, no extra stats will be given\\u003e",
+        "< You have regained 1 point of HP >",
+        "< HP 15/15 >",
+        "< This person blood has been consumed before, no extra stats will be given>",
         "As Quinn thought, the blood still regained his health, similar to how a potion worked in a game but once a person’s blood had been consumed, it would no longer give him any stat points.",
         "Quinn then drank the two other test tubes from the other students.",
-        "\\u003c Blood type A- has been absorbed \\u003e",
-        "\\u003c + 1 strength point has been added \\u003e",
-        "\\u003c Blood type Ab + has been absorbed \\u003e",
-        "\\u003c + 1 Stamina point has been added \\u003e",
+        "< Blood type A- has been absorbed >",
+        "< + 1 strength point has been added >",
+        "< Blood type Ab + has been absorbed >",
+        "< + 1 Stamina point has been added >",
         "Quinn looked at messages he received and started to notice a pattern. When he drank Layla’s blood which was A+ he had gained a strength point, it was the same when he drank the A - blood. Rylee whose blood type was B+ had given him an agility point and lastly, AB + had given him a stamina point.",
         "Assuming being positive or negative blood type didn’t matter so far. A type had given him strength, B gave him Agility and AB stamina. That left one blood group that Quinn hadn’t drunk from yet which was O.",
         "Quinn couldn’t help but wonder what would happen if he drank the O type."
@@ -12102,17 +12096,17 @@
         {
           "id": 39,
           "paragraph_id": 26,
-          "text": "\\u003cHP 11/15\\u003e"
+          "text": "<HP 11/15>"
         },
         {
           "id": 40,
           "paragraph_id": 27,
-          "text": "\\u003c An opponent has been defeated, 50 exp granted \\u003e"
+          "text": "< An opponent has been defeated, 50 exp granted >"
         },
         {
           "id": 41,
           "paragraph_id": 28,
-          "text": "\\u003c 110/200 exp \\u003e"
+          "text": "< 110/200 exp >"
         },
         {
           "id": 42,
@@ -12297,7 +12291,7 @@
         {
           "id": 78,
           "paragraph_id": 51,
-          "text": "\\u003c Blood type B+ \\u003e"
+          "text": "< Blood type B+ >"
         },
         {
           "id": 79,
@@ -12307,22 +12301,22 @@
         {
           "id": 80,
           "paragraph_id": 53,
-          "text": "\\u003c You have regained 5 points of HP \\u003e"
+          "text": "< You have regained 5 points of HP >"
         },
         {
           "id": 81,
           "paragraph_id": 54,
-          "text": "\\u003c 14/15 HP \\u003e"
+          "text": "< 14/15 HP >"
         },
         {
           "id": 82,
           "paragraph_id": 55,
-          "text": "\\u003c B+ Blood type has been absorbed \\u003e"
+          "text": "< B+ Blood type has been absorbed >"
         },
         {
           "id": 83,
           "paragraph_id": 56,
-          "text": "\\u003c + 1 point of Agility has been added \\u003e"
+          "text": "< + 1 point of Agility has been added >"
         },
         {
           "id": 84,
@@ -12347,17 +12341,17 @@
         {
           "id": 88,
           "paragraph_id": 58,
-          "text": "\\u003c You have regained 1 point of HP \\u003e"
+          "text": "< You have regained 1 point of HP >"
         },
         {
           "id": 89,
           "paragraph_id": 59,
-          "text": "\\u003c HP 15/15 \\u003e"
+          "text": "< HP 15/15 >"
         },
         {
           "id": 90,
           "paragraph_id": 60,
-          "text": "\\u003c This person blood has been consumed before, no extra stats will be given\\u003e"
+          "text": "< This person blood has been consumed before, no extra stats will be given>"
         },
         {
           "id": 91,
@@ -12372,22 +12366,22 @@
         {
           "id": 93,
           "paragraph_id": 63,
-          "text": "\\u003c Blood type A- has been absorbed \\u003e"
+          "text": "< Blood type A- has been absorbed >"
         },
         {
           "id": 94,
           "paragraph_id": 64,
-          "text": "\\u003c + 1 strength point has been added \\u003e"
+          "text": "< + 1 strength point has been added >"
         },
         {
           "id": 95,
           "paragraph_id": 65,
-          "text": "\\u003c Blood type Ab + has been absorbed \\u003e"
+          "text": "< Blood type Ab + has been absorbed >"
         },
         {
           "id": 96,
           "paragraph_id": 66,
-          "text": "\\u003c + 1 Stamina point has been added \\u003e"
+          "text": "< + 1 Stamina point has been added >"
         },
         {
           "id": 97,
@@ -12433,13 +12427,13 @@
       "url": "https://novelping.com/book/my-vampire-system/chapter-27",
       "paragraphs": [
         "After absorbing all the blood tubes apart from the spare one that contained Layla’s blood, Quinn was feeling stronger than ever.",
-        "\\u003c Name: Quinn Talen\\u003e",
-        "\\u003c Race: Half-Ling \\u003e",
-        "\\u003cHP 15/15\\u003e",
-        "\\u003c 110/200 \\u003e",
-        "\\u003c Strength 12 \\u003e",
-        "\\u003c Agility 12 \\u003e",
-        "\\u003c Stamina 11 \\u003e",
+        "< Name: Quinn Talen>",
+        "< Race: Half-Ling >",
+        "<HP 15/15>",
+        "< 110/200 >",
+        "< Strength 12 >",
+        "< Agility 12 >",
+        "< Stamina 11 >",
         "If Quinn’s body before was that of a top athlete in the past, then Quinn now surpassed the capabilities of regular human power. But he was still weak compared to those with an ability. Lucky for Quinn, it seemed like Rylee and the other two students weren’t very good fighters.",
         "In Quinn’s old school, he would get into fights all the time regardless of what ability they had. He saw how the others got bullied more than him, while the bullying for him lessened because they knew he was a target that would bite back.",
         "But because of this, Quinn managed to get a good grasp on how people fought and a good grasp on different abilities. If Quinn was to face a level two user who was good with their ability like Layla, at this point it was still most likely he would lose.",
@@ -12488,37 +12482,37 @@
         {
           "id": 1,
           "paragraph_id": 1,
-          "text": "\\u003c Name: Quinn Talen\\u003e"
+          "text": "< Name: Quinn Talen>"
         },
         {
           "id": 2,
           "paragraph_id": 2,
-          "text": "\\u003c Race: Half-Ling \\u003e"
+          "text": "< Race: Half-Ling >"
         },
         {
           "id": 3,
           "paragraph_id": 3,
-          "text": "\\u003cHP 15/15\\u003e"
+          "text": "<HP 15/15>"
         },
         {
           "id": 4,
           "paragraph_id": 4,
-          "text": "\\u003c 110/200 \\u003e"
+          "text": "< 110/200 >"
         },
         {
           "id": 5,
           "paragraph_id": 5,
-          "text": "\\u003c Strength 12 \\u003e"
+          "text": "< Strength 12 >"
         },
         {
           "id": 6,
           "paragraph_id": 6,
-          "text": "\\u003c Agility 12 \\u003e"
+          "text": "< Agility 12 >"
         },
         {
           "id": 7,
           "paragraph_id": 7,
-          "text": "\\u003c Stamina 11 \\u003e"
+          "text": "< Stamina 11 >"
         },
         {
           "id": 8,
@@ -12913,11 +12907,11 @@
         "Quinn looked at the wall and saw all sorts of things, axe’s, short swords, Spiked clubs, whips, Scythes there was so much to choose from Quinn was really having a hard time.",
         "Quinn looked at Layla and her bow. It matched up well with her telekinesis ability. If Quinn was to pick a ranged weapon, he would never be able to be as good as Layla. He needed something that suited him right now and his ability.",
         "Quinn then walked up to one of the random swords on the wall and used his inspect skill.",
-        "\\u003c Korge Sword \\u003e",
-        "\\u003c Tier Basic Beast weapon \\u003e",
-        "\\u003c Strength + 3",
-        "\\u003c Agilty – 2\\u003e",
-        "\\u003c the sword in incompatible with the skill \"Blood swipe\"\\u003e",
+        "< Korge Sword >",
+        "< Tier Basic Beast weapon >",
+        "< Strength + 3",
+        "< Agilty – 2>",
+        "< the sword in incompatible with the skill \"Blood swipe\">",
         "The sword Quinn looked at was large in size and looked heavy. Quin needed to be fast so losing some points in agility was a definite no-no. But what surprised him was how much information his inspect skill had given him. It even told him if his blood swipe could be used with it.",
         "Maybe it wouldn’t be so hard picking out a weapon after all thanks to Quinn’s inspect skill."
       ],
@@ -13285,27 +13279,27 @@
         {
           "id": 72,
           "paragraph_id": 35,
-          "text": "\\u003c Korge Sword \\u003e"
+          "text": "< Korge Sword >"
         },
         {
           "id": 73,
           "paragraph_id": 36,
-          "text": "\\u003c Tier Basic Beast weapon \\u003e"
+          "text": "< Tier Basic Beast weapon >"
         },
         {
           "id": 74,
           "paragraph_id": 37,
-          "text": "\\u003c Strength + 3"
+          "text": "< Strength + 3"
         },
         {
           "id": 75,
           "paragraph_id": 38,
-          "text": "\\u003c Agilty – 2\\u003e"
+          "text": "< Agilty – 2>"
         },
         {
           "id": 76,
           "paragraph_id": 39,
-          "text": "\\u003c the sword in incompatible with the skill \"Blood swipe\"\\u003e"
+          "text": "< the sword in incompatible with the skill \"Blood swipe\">"
         },
         {
           "id": 77,
@@ -13344,13 +13338,13 @@
         "All the weapons Quinn had inspected so far was at the basic tier level. The lowest level a weapon could be. Weapons were categorised into eight different levels depending on which beast core it was made with. Of course, this was based on beasts from planets that had already been discovered.",
         "There was sure to be other planets with stronger beasts and abilities that they had yet to find out about, that may be categorised above that. In the human world today, there were two known weapons of this class. The world called them Demon weapons instead.",
         "After searching around the room for a while, Quinn came across a weapon that stood out from the rest.",
-        "\\u003c Black Horned gauntlets \\u003e",
-        "\\u003c Basic tier Beast weapon\\u003e",
-        "\\u003cStrength 3\\u003e",
-        "\\u003cAgility 0 \\u003e",
-        "\\u003cStamina 0\\u003e",
-        "\\u003cDefence 2\\u003e",
-        "\\u003c This weapon is compatible with the skill \"Blood swipe\". When used with the gauntlets blood swipe will have an increase of 5% in power.\\u003e",
+        "< Black Horned gauntlets >",
+        "< Basic tier Beast weapon>",
+        "<Strength 3>",
+        "<Agility 0 >",
+        "<Stamina 0>",
+        "<Defence 2>",
+        "< This weapon is compatible with the skill \"Blood swipe\". When used with the gauntlets blood swipe will have an increase of 5% in power.>",
         "The Gauntlets were black in colour and had little tiny horns going up the forearm. The fingertips where were pointed and bladed at the ends, it made them look almost like some type of Dragon claw.",
         "There were two reasons why the weapon had interested Quinn. The first was it was the only one that had also given him a defensive stat, not just a strength stat but the second one stood out to him even more. It was the fact that it increases the power of his only skill, blood swipe.",
         "Five percent didn’t sound like a lot right now but if in the future Quinn was to get more powerful, five percent would make a huge difference. There were also other bonuses. The gauntlets acted as armour for his hands and he could still hold other weapons if he needed to.",
@@ -13360,11 +13354,11 @@
         "Quinn had already experienced fighting more than most kids, he was used to using his fists, with his blood swipe skill as well, he didn’t always have to get up right close to his opponent.",
         "\"Do you mind if I try it?\" Quinn asked.",
         "\"Go ahead,\" Leo said as he left to check up on other students selecting weapons.",
-        "\\u003c Basic Horned Gauntlets equipped\\u003e",
-        "\\u003cStrength: 12 (3) \\u003e",
-        "\\u003c Agility: 12 \\u003e",
-        "\\u003c Stamina: 11 \\u003e",
-        "\\u003c Defence (2)\\u003e",
+        "< Basic Horned Gauntlets equipped>",
+        "<Strength: 12 (3) >",
+        "< Agility: 12 >",
+        "< Stamina: 11 >",
+        "< Defence (2)>",
         "Now when Quinn checked out his status screen, he had a smaller number next to his stats which would indicate the equipment level. Quinn now had 15 stat points in strength. He felt three times stronger compared to before he had discovered the system and was ready to test out his newfound strength.",
         "Once everyone had finished picking out their weapon. Leo called everyone to gather around the centre ring.",
         "\"Now I won’t claim to be an expert in every weapon,\" Said Leo, \"Some of you might even be able to use your weapons better than me. But what I am an expert in is fighting with weapons alone. Fighting can be considered a game. You are always trying to predict your opponent’s next move, you measure your opponent’s ability and so on. For your first lesson, I want to see what you’ve got. We will have a sparring match. Two people at a time. We will all watch the match and commentate on what could be improved on. Now, are there any volunteers.",
@@ -13447,42 +13441,42 @@
         {
           "id": 11,
           "paragraph_id": 4,
-          "text": "\\u003c Black Horned gauntlets \\u003e"
+          "text": "< Black Horned gauntlets >"
         },
         {
           "id": 12,
           "paragraph_id": 5,
-          "text": "\\u003c Basic tier Beast weapon\\u003e"
+          "text": "< Basic tier Beast weapon>"
         },
         {
           "id": 13,
           "paragraph_id": 6,
-          "text": "\\u003cStrength 3\\u003e"
+          "text": "<Strength 3>"
         },
         {
           "id": 14,
           "paragraph_id": 7,
-          "text": "\\u003cAgility 0 \\u003e"
+          "text": "<Agility 0 >"
         },
         {
           "id": 15,
           "paragraph_id": 8,
-          "text": "\\u003cStamina 0\\u003e"
+          "text": "<Stamina 0>"
         },
         {
           "id": 16,
           "paragraph_id": 9,
-          "text": "\\u003cDefence 2\\u003e"
+          "text": "<Defence 2>"
         },
         {
           "id": 17,
           "paragraph_id": 10,
-          "text": "\\u003c This weapon is compatible with the skill \"Blood swipe\"."
+          "text": "< This weapon is compatible with the skill \"Blood swipe\"."
         },
         {
           "id": 18,
           "paragraph_id": 10,
-          "text": "When used with the gauntlets blood swipe will have an increase of 5% in power.\\u003e"
+          "text": "When used with the gauntlets blood swipe will have an increase of 5% in power.>"
         },
         {
           "id": 19,
@@ -13567,27 +13561,27 @@
         {
           "id": 35,
           "paragraph_id": 20,
-          "text": "\\u003c Basic Horned Gauntlets equipped\\u003e"
+          "text": "< Basic Horned Gauntlets equipped>"
         },
         {
           "id": 36,
           "paragraph_id": 21,
-          "text": "\\u003cStrength: 12 (3) \\u003e"
+          "text": "<Strength: 12 (3) >"
         },
         {
           "id": 37,
           "paragraph_id": 22,
-          "text": "\\u003c Agility: 12 \\u003e"
+          "text": "< Agility: 12 >"
         },
         {
           "id": 38,
           "paragraph_id": 23,
-          "text": "\\u003c Stamina: 11 \\u003e"
+          "text": "< Stamina: 11 >"
         },
         {
           "id": 39,
           "paragraph_id": 24,
-          "text": "\\u003c Defence (2)\\u003e"
+          "text": "< Defence (2)>"
         },
         {
           "id": 40,
@@ -13885,8 +13879,8 @@
         "As Quinn walked up to the stage he noticed that Brandon, his opponent’s indicator showed that he was at the power level of three. If this was a fight in the outside world, where they both could use their abilities Quinn felt like he didn’t have much chance of winning.",
         "But here in the arena, where abilities weren’t allowed. Quinn had a body stronger than most, his speed was faster than most. In the Novels he had read, a Vampires strength was far greater than the human race before the introduction of abilities. If they wanted to, they could have ruled the world.",
         "Brandon held a large spear in hand which had great reach. The end was sharp with a single curved blade at the end.",
-        "\\u003c Opponent power level 3\\u003e",
-        "\\u003c Bonus exp will be rewarded \\u003e",
+        "< Opponent power level 3>",
+        "< Bonus exp will be rewarded >",
         "It seemed like Quinn’s day was only getting better.",
         "\"Begin!\" Leo shouted.",
         "Brandon immediately charged in with his spear, while Quinn stood there and took a fighting stance with both of his hands held out in front of him. When Brandon was within striking distance, he thrust his spear forward. It was fast and impressive to the people watching outside.",
@@ -13896,20 +13890,20 @@
         "\"What the, my weapon, it’s faulty!\" Brandon complained but Leo did nothing to step in.",
         "Quinn rushed forward and before Brandon could do anything, Quinn punched him hard in the stomach. Brandon’s feet lifted off the ground and it looked like his body was about to fly away.",
         "\"Inspect\"",
-        "\\u003cBrandon Richardson\\u003e",
-        "\\u003c Ability: Elemental \\u003e",
-        "\\u003c HP 5/15 \\u003e",
-        "\\u003c Blood type 0 + \\u003e",
+        "<Brandon Richardson>",
+        "< Ability: Elemental >",
+        "< HP 5/15 >",
+        "< Blood type 0 + >",
         "Quinn knew that if Brandon was to fly out of the arena it would be considered his win but the system wouldn’t allow him to win like that, he needed to beat his opponent down to at least one HP. So before Brandon could be lifted into the air, Quinn grabbed him and pulled him back down and at the same time kneed him in the face causing Brandon’s nose to bleed and his head to be sent backwords.",
         "And finally, Brandon collapsed lying there on the ground.",
         "\"Winner, Quinn Talen.\" Leo said.",
-        "\\u003c Opponent has been defeated 50 exp rewarded \\u003e",
-        "\\u003c First time higher power level bonus 50 Exp Rewarded \\u003e",
-        "\\u003c 220/200 Exp \\u003e",
-        "\\u003c Congratulations you are now Level 3\\u003e",
-        "\\u003c 20/400 Exp \\u003e",
-        "\\u003c 1 Attribute point awarded \\u003e",
-        "\\u003c New Skill \"Blood Bank\" Unlocked\\u003e",
+        "< Opponent has been defeated 50 exp rewarded >",
+        "< First time higher power level bonus 50 Exp Rewarded >",
+        "< 220/200 Exp >",
+        "< Congratulations you are now Level 3>",
+        "< 20/400 Exp >",
+        "< 1 Attribute point awarded >",
+        "< New Skill \"Blood Bank\" Unlocked>",
         "After defeating Brandon, Quinn had received multiple messages and had even levelled up. The bonus reward for defeating a level 3 user was higher than when he defeated a level 2 user. However, it was a shame that the bonus reward was only a one-time thing.",
         "With the messages, there was also a new skill that had been unlocked. Although Quinn didn’t have the time to look at it now, he needed to get off the stage and look at it later. Before leaving Quinn looked at Brandon who was lying on the floor. Blood was dripping from his nose and Quinn just had one thought.",
         "\"What a waste.\"",
@@ -13984,12 +13978,12 @@
         {
           "id": 8,
           "paragraph_id": 3,
-          "text": "\\u003c Opponent power level 3\\u003e"
+          "text": "< Opponent power level 3>"
         },
         {
           "id": 9,
           "paragraph_id": 4,
-          "text": "\\u003c Bonus exp will be rewarded \\u003e"
+          "text": "< Bonus exp will be rewarded >"
         },
         {
           "id": 10,
@@ -14069,22 +14063,22 @@
         {
           "id": 25,
           "paragraph_id": 14,
-          "text": "\\u003cBrandon Richardson\\u003e"
+          "text": "<Brandon Richardson>"
         },
         {
           "id": 26,
           "paragraph_id": 15,
-          "text": "\\u003c Ability: Elemental \\u003e"
+          "text": "< Ability: Elemental >"
         },
         {
           "id": 27,
           "paragraph_id": 16,
-          "text": "\\u003c HP 5/15 \\u003e"
+          "text": "< HP 5/15 >"
         },
         {
           "id": 28,
           "paragraph_id": 17,
-          "text": "\\u003c Blood type 0 + \\u003e"
+          "text": "< Blood type 0 + >"
         },
         {
           "id": 29,
@@ -14109,37 +14103,37 @@
         {
           "id": 33,
           "paragraph_id": 21,
-          "text": "\\u003c Opponent has been defeated 50 exp rewarded \\u003e"
+          "text": "< Opponent has been defeated 50 exp rewarded >"
         },
         {
           "id": 34,
           "paragraph_id": 22,
-          "text": "\\u003c First time higher power level bonus 50 Exp Rewarded \\u003e"
+          "text": "< First time higher power level bonus 50 Exp Rewarded >"
         },
         {
           "id": 35,
           "paragraph_id": 23,
-          "text": "\\u003c 220/200 Exp \\u003e"
+          "text": "< 220/200 Exp >"
         },
         {
           "id": 36,
           "paragraph_id": 24,
-          "text": "\\u003c Congratulations you are now Level 3\\u003e"
+          "text": "< Congratulations you are now Level 3>"
         },
         {
           "id": 37,
           "paragraph_id": 25,
-          "text": "\\u003c 20/400 Exp \\u003e"
+          "text": "< 20/400 Exp >"
         },
         {
           "id": 38,
           "paragraph_id": 26,
-          "text": "\\u003c 1 Attribute point awarded \\u003e"
+          "text": "< 1 Attribute point awarded >"
         },
         {
           "id": 39,
           "paragraph_id": 27,
-          "text": "\\u003c New Skill \"Blood Bank\" Unlocked\\u003e"
+          "text": "< New Skill \"Blood Bank\" Unlocked>"
         },
         {
           "id": 40,
@@ -14412,25 +14406,25 @@
         "Once the class had ended, Quinn had to give back the Gauntlets and leave them in the weapons hall. After all, they didn’t belong to him and was only there for the purpose of him getting used to using a weapon.",
         "Once Quinn went on his first portal outing, then he would be able to hunt for a suitable beast to make a weapon of his own. At that time, he would also be allowed to borrow the equipment.",
         "As Quinn was heading back to his dorm room, he decided to first put his stat point into something. So he opened up his status screen to see if there were any changes.",
-        "\\u003cHP 20/20 \\u003e",
-        "\\u003cStrength 12\\u003e",
-        "\\u003c Agility 12 \\u003e",
-        "\\u003c stamina 12 \\u003e",
+        "<HP 20/20 >",
+        "<Strength 12>",
+        "< Agility 12 >",
+        "< stamina 12 >",
         "(All stats are currently halved due to being hit by the direct sunlight)",
         "The system seemed to be consistent with the last time he had levelled up. Although there was no evolution process this time, he still gained five points of HP and one stat point. There was one thing that bothered Quinn and it was the fact that his stat points were halved in sunlight.",
         "There would come a time were Quinn would need to be at full strength even in the sun. When reading about vampires in novels, he was thankful that he was able to be in the sun at all, as some of them burnt to a crisp in an instant.",
         "Quinn decided to stick with his plan and add the stat point to agility, as long as he could hit his opponents without being hit back, he couldn’t see himself losing and worst case if he couldn’t hurt his opponent, he could always run away. It was also handy if he planned to use the clawed gauntlets as his choice of weapon. He would need to be fast to get in close and use hand to hand combat skills.",
-        "\\u003c Agility 13 \\u003e",
+        "< Agility 13 >",
         "The next thing Quinn wanted to check out was the new skill he had obtained from levelling up.",
-        "\\u003c Skill: Blood Bank Lv.1\\u003e",
-        "\\u003c The skill \"blood Bank\" will allow you to store up to a 100 milters of blood in your reserve. The blood bank will automatically be used to heal the user if HP drops below 5. Every 10 millilitres of blood will be used to restore 5 HP of the user. User may also use the blood bank to consume blood at any time for his own personal pleasure. \\u003e",
+        "< Skill: Blood Bank Lv.1>",
+        "< The skill \"blood Bank\" will allow you to store up to a 100 milters of blood in your reserve. The blood bank will automatically be used to heal the user if HP drops below 5. Every 10 millilitres of blood will be used to restore 5 HP of the user. User may also use the blood bank to consume blood at any time for his own personal pleasure. >",
         "Quinn looked at the skill in disbelief. It seemed like the skill was too good to be true. Essentially the blood bank acted as a second life for Quinn. As long as his blood bank was fully stocked up, Quinn was able to restore up to 50 points of HP.",
         "Not only that but it had also solved Quinn’s storage problem. Although Quinn had used test tube and cork to stop the blood from oxidising, it still wouldn’t delay the process of it being spoilt for long. At most Quinn would be able to keep the blood fresh for 8 hours without keeping in some special type of storage.",
         "Sure he had Layla he could rely on, but Layla wouldn’t always be by his side. Quinn then took out the test tube of Layla’s blood and used his inspect skill. It seemed like the blood was still fine to be used for now.",
-        "\\u003cSkill Blood bank\\u003e",
-        "The blood then started to shine bright in Quinn�' hand and suddenly vanished from the test tube.",
-        "\\u003cBlood bank 10/100\\u003e",
-        "\\u003cYour hunger grows\\u003e",
+        "<Skill Blood bank>",
+        "The blood then started to shine bright in Quinn' hand and suddenly vanished from the test tube.",
+        "<Blood bank 10/100>",
+        "<Your hunger grows>",
         "Quinn has happy that the Blood bank skill was convenient and finally after waiting for a while he had received a message he had seen once before.",
         "Last time he had seen the message about his hunger the next day the system told him he needed to consume blood otherwise his HP would drop. With his Blood bank skill though, he wouldn’t have to worry about it as long as he kept it topped up.",
         "After checking out all the information, Quinn had finally arrived back at his dorm room to see Peter and Vorden a little roughed up.",
@@ -14442,14 +14436,14 @@
         "\"But it’s true. You were so cool back then.\"",
         "The three of them continued to share stories about what had happened in their combat classes. Quinn had even talked about his victory against Brandon. At first, they were surprised but when Quinn explained that the use of abilities was banned, they understood.",
         "The three of them were exhausted from their first day of combat classes and decided to get some rest. The next day when Quinn woke up he was greeted with another message.",
-        "\\u003c Daily quest complete 5 exp has been rewarded\\u003e",
-        "\\u003c25/400 Exp\\u003e",
-        "\\u003cYour hunger grows\\u003e",
-        "\\u003cYour HP will now drop by – 1HP every hour until human blood has been consumed\\u003e",
+        "< Daily quest complete 5 exp has been rewarded>",
+        "<25/400 Exp>",
+        "<Your hunger grows>",
+        "<Your HP will now drop by – 1HP every hour until human blood has been consumed>",
         "The message had appeared roughly two days after he had last consumed blood. Meaning this was the time frame before he would need to consume blood again.",
-        "\\u003cSkill Blood bank\\u003e",
-        "\\u003c 10 millilitres of blood will be consumed, would you like to proceed?\\u003e",
-        "\\u003cYes\\u003e",
+        "<Skill Blood bank>",
+        "< 10 millilitres of blood will be consumed, would you like to proceed?>",
+        "<Yes>",
         "After selecting the yes option, a sweet fragrance entered his mouth, the hole he could feel in his stomach had disappeared and once again he was satisfied and back to normal. Now all he needed to do was meet up with Layla and fill up his blood bank to the max.",
         "For the next week, combat class was a normal requirement for students. This would be the case until the teachers were satisfied to take the students on their first outing through the portals to hunt beasts.",
         "After the students picked their weapons from the wall, once again Leo stood at the front to give the students further instructions.",
@@ -14496,22 +14490,22 @@
         {
           "id": 6,
           "paragraph_id": 3,
-          "text": "\\u003cHP 20/20 \\u003e"
+          "text": "<HP 20/20 >"
         },
         {
           "id": 7,
           "paragraph_id": 4,
-          "text": "\\u003cStrength 12\\u003e"
+          "text": "<Strength 12>"
         },
         {
           "id": 8,
           "paragraph_id": 5,
-          "text": "\\u003c Agility 12 \\u003e"
+          "text": "< Agility 12 >"
         },
         {
           "id": 9,
           "paragraph_id": 6,
-          "text": "\\u003c stamina 12 \\u003e"
+          "text": "< stamina 12 >"
         },
         {
           "id": 10,
@@ -14561,7 +14555,7 @@
         {
           "id": 19,
           "paragraph_id": 11,
-          "text": "\\u003c Agility 13 \\u003e"
+          "text": "< Agility 13 >"
         },
         {
           "id": 20,
@@ -14571,12 +14565,12 @@
         {
           "id": 21,
           "paragraph_id": 13,
-          "text": "\\u003c Skill: Blood Bank Lv.1\\u003e"
+          "text": "< Skill: Blood Bank Lv.1>"
         },
         {
           "id": 22,
           "paragraph_id": 14,
-          "text": "\\u003c The skill \"blood Bank\" will allow you to store up to a 100 milters of blood in your reserve."
+          "text": "< The skill \"blood Bank\" will allow you to store up to a 100 milters of blood in your reserve."
         },
         {
           "id": 23,
@@ -14591,7 +14585,7 @@
         {
           "id": 25,
           "paragraph_id": 14,
-          "text": "User may also use the blood bank to consume blood at any time for his own personal pleasure. \\u003e"
+          "text": "User may also use the blood bank to consume blood at any time for his own personal pleasure. >"
         },
         {
           "id": 26,
@@ -14646,22 +14640,22 @@
         {
           "id": 36,
           "paragraph_id": 18,
-          "text": "\\u003cSkill Blood bank\\u003e"
+          "text": "<Skill Blood bank>"
         },
         {
           "id": 37,
           "paragraph_id": 19,
-          "text": "The blood then started to shine bright in Quinn�' hand and suddenly vanished from the test tube."
+          "text": "The blood then started to shine bright in Quinn' hand and suddenly vanished from the test tube."
         },
         {
           "id": 38,
           "paragraph_id": 20,
-          "text": "\\u003cBlood bank 10/100\\u003e"
+          "text": "<Blood bank 10/100>"
         },
         {
           "id": 39,
           "paragraph_id": 21,
-          "text": "\\u003cYour hunger grows\\u003e"
+          "text": "<Your hunger grows>"
         },
         {
           "id": 40,
@@ -14771,22 +14765,22 @@
         {
           "id": 61,
           "paragraph_id": 33,
-          "text": "\\u003c Daily quest complete 5 exp has been rewarded\\u003e"
+          "text": "< Daily quest complete 5 exp has been rewarded>"
         },
         {
           "id": 62,
           "paragraph_id": 34,
-          "text": "\\u003c25/400 Exp\\u003e"
+          "text": "<25/400 Exp>"
         },
         {
           "id": 63,
           "paragraph_id": 35,
-          "text": "\\u003cYour hunger grows\\u003e"
+          "text": "<Your hunger grows>"
         },
         {
           "id": 64,
           "paragraph_id": 36,
-          "text": "\\u003cYour HP will now drop by – 1HP every hour until human blood has been consumed\\u003e"
+          "text": "<Your HP will now drop by – 1HP every hour until human blood has been consumed>"
         },
         {
           "id": 65,
@@ -14801,17 +14795,17 @@
         {
           "id": 67,
           "paragraph_id": 38,
-          "text": "\\u003cSkill Blood bank\\u003e"
+          "text": "<Skill Blood bank>"
         },
         {
           "id": 68,
           "paragraph_id": 39,
-          "text": "\\u003c 10 millilitres of blood will be consumed, would you like to proceed?\\u003e"
+          "text": "< 10 millilitres of blood will be consumed, would you like to proceed?>"
         },
         {
           "id": 69,
           "paragraph_id": 40,
-          "text": "\\u003cYes\\u003e"
+          "text": "<Yes>"
         },
         {
           "id": 70,
@@ -14910,8 +14904,8 @@
         "Before the sparring match started, Quinn decided to use his inspect skill, but for the first time ever, not a single bit of information had come up.",
         "\"Does this mean he’s too powerful, maybe when the skill levels up I might be able to see something?\" Quinn thought.",
         "Just then though, a new message from the system has appeared.",
-        "\\u003c A strong opponent has appeared \\u003e",
-        "\\u003c Defeat the opponent for an Instant level-up reward \\u003e",
+        "< A strong opponent has appeared >",
+        "< Defeat the opponent for an Instant level-up reward >",
         "Suddenly, Quinn’s blood started to rush through his body with excitement, he wasn’t going to go easy on Leo in the first place, but if the match proved too easy then he was going to ease up a little to not raise suspicion. But with a reward like this, Quinn would figure out an explanation later.",
         "Every time Quinn levelled up the Exp requirement seemed to double. Making it harder and harder for him to level up.",
         "\"What’s wrong?\" Leo asked.",
@@ -14950,7 +14944,7 @@
         "That’s when a noise was heard. Fei was charging in at Quinn and did some sought of little battle cry. That was the signal for Brandon to act.",
         "Brandon then lifted his hand and at the right time, cast his wind blast right behind at Quinn’s back.",
         "Quinn saw Fei’s blades and was ready to block but that’s when he felt a strong force push him from behind. It knocked him off balance and at the same time, Fei’s blades went right into Quinn’s stomach.",
-        "\\u003c10/20 HP\\u003e",
+        "<10/20 HP>",
         "\"You... Bastar....\" Quinn Groaned."
       ],
       "sentences": [
@@ -15012,12 +15006,12 @@
         {
           "id": 11,
           "paragraph_id": 9,
-          "text": "\\u003c A strong opponent has appeared \\u003e"
+          "text": "< A strong opponent has appeared >"
         },
         {
           "id": 12,
           "paragraph_id": 10,
-          "text": "\\u003c Defeat the opponent for an Instant level-up reward \\u003e"
+          "text": "< Defeat the opponent for an Instant level-up reward >"
         },
         {
           "id": 13,
@@ -15347,7 +15341,7 @@
         {
           "id": 78,
           "paragraph_id": 49,
-          "text": "\\u003c10/20 HP\\u003e"
+          "text": "<10/20 HP>"
         },
         {
           "id": 79,
@@ -15389,17 +15383,17 @@
         "\"What a handy ability to have.\"",
         "After checking the men had disappeared, Quinn decided to head to the closest bathroom on the same floor. Nearly all the students were in combat classes at the moment so the halls were empty. The reason why Quinn had decided to head to the bathroom rather than to the doctor’s office was because he could already feel his body was healing up.",
         "His status screen also confirmed that fact.",
-        "\\u003c 12/20 HP \\u003e",
+        "< 12/20 HP >",
         "Just like before as soon as Quinn was out of combat, his body was starting to heal at an incredibly fast rate. Quinn looked down and it looked like his body had healed most of the wounds. However, it wasn’t able to heal the area where the blades were stuck.",
         "\"This is going to hurt.\"",
         "Luckily Quinn still had his gauntlets on so he didn’t have to grab the blades with his bare hands.",
         "\"1, 2 ,3\" He then pulled the blades out as fast he could in one action. The pain was quick and sharp and he did everything he could to hold in his screams.",
         "Finally, the wounds around his stomach were slowly starting to heal until suddenly he received some new messages.",
-        "\\u003c Your hunger grows \\u003e",
-        "\\u003c Your hunger grows \\u003e",
-        "\\u003c 15/20 HP \\u003e",
-        "\\u003c You will no longer heal \\u003e",
-        "\\u003c Your HP will continue to decrease by – 1 HP until human blood has been consumed \\u003e",
+        "< Your hunger grows >",
+        "< Your hunger grows >",
+        "< 15/20 HP >",
+        "< You will no longer heal >",
+        "< Your HP will continue to decrease by – 1 HP until human blood has been consumed >",
         "Quinn looked at the message and was trying to figure out what had happened. When Quinn did his tests he found out that his body would need to consume blood once every two days. But this message had come up even though Quinn had only consumed Layla’s blood this morning, it hadn’t reached the time limit yet.",
         "Then Quinn thought back to how the blood was able to heal his health. If it worked the same way then that meant his body was using blood as energy to heal himself. Once this energy had run out inside his body then he would no longer be able to heal and he would once again have to consume blood.",
         "Quinn felt a hunger in his stomach and started to look at himself in the mirror, his clothes were all bloody and he was in slight pain, but he still cracked a smile. That’s when Quinn also noticed that his top two teeth had grown slightly. It was different to last time when he had panicked this time, he felt calm.",
@@ -15615,7 +15609,7 @@
         {
           "id": 36,
           "paragraph_id": 22,
-          "text": "\\u003c 12/20 HP \\u003e"
+          "text": "< 12/20 HP >"
         },
         {
           "id": 37,
@@ -15660,27 +15654,27 @@
         {
           "id": 45,
           "paragraph_id": 28,
-          "text": "\\u003c Your hunger grows \\u003e"
+          "text": "< Your hunger grows >"
         },
         {
           "id": 46,
           "paragraph_id": 29,
-          "text": "\\u003c Your hunger grows \\u003e"
+          "text": "< Your hunger grows >"
         },
         {
           "id": 47,
           "paragraph_id": 30,
-          "text": "\\u003c 15/20 HP \\u003e"
+          "text": "< 15/20 HP >"
         },
         {
           "id": 48,
           "paragraph_id": 31,
-          "text": "\\u003c You will no longer heal \\u003e"
+          "text": "< You will no longer heal >"
         },
         {
           "id": 49,
           "paragraph_id": 32,
-          "text": "\\u003c Your HP will continue to decrease by – 1 HP until human blood has been consumed \\u003e"
+          "text": "< Your HP will continue to decrease by – 1 HP until human blood has been consumed >"
         },
         {
           "id": 50,
@@ -15931,7 +15925,7 @@
         "\"Huh? Oh yeah, I just need to head off to the doctor’s office get this wound checked out on my leg. I’ll be back when I can.\". Vordan said as he left the room and headed outside.",
         "****",
         "Quinn had been following Fei form a safe distance for a while now but it didn’t look like he was heading out of the school and time was running out.",
-        "\\u003c 12/ 20 HP \\u003e",
+        "< 12/ 20 HP >",
         "If he lost any more health he would have to go search for Layla and find his target another time. However, Quinn felt like he would never have an opportunity as good as this one again. Very rarely was there a time when people would be on their own and especially one that Quinn had a grudge against.",
         "That’s when Fei started to head up the stairs and eventually went up to the school roof door. After reaching the closed door, Quinn quickly moved and opened the door ever so slightly and started to peek through.",
         "Quinn glances around the rooftop feeling happy for his luck, Fei was the only person he could see up there.",
@@ -15944,16 +15938,16 @@
         "\"What the...\" Fei was to slow to react and all he could do was lift his hand but the blow was extremely powerful, when the red lines touched his skin it immediately caused blood to be drawn. It felt like five sharp knives were cutting him at the same time.",
         "Not only that, but the force was so strong it managed to throw Fei into the air. With his 12 strength and extra 3 from the gauntlets, Quinn now had a total of 15 strength, and then the gauntlets also increased his attack power by 5% making the attack far stronger than Quinn had predicted.",
         "Fei continued to fly into the air until his body had hit the back of the gated fence, he then collapsed on the floor and passed out.",
-        "\\u003c 11/20 HP \\u003e",
+        "< 11/20 HP >",
         "Fei didn’t even have the chance to use his ability to fight back. It was over in an instant. Blood started to drip from his arms and began to create a small puddle of blood and before Quinn realised it his teeth had grown into fangs.",
         "He slowly walked over to Fei and could feel his heart beating faster. The sweet fragrances were getting stronger but Quinn didn’t care about the blood that was on the floor. He was more interested in the single vein that he could see pulsating through Fei’s neck.",
         "Quinn then lifted Fei slightly off the ground and without even thinking about it sunk his fangs into Fei’s neck.",
         "Quinn continued to drink Fei’s blood until multiple notifications had appeared.",
-        "\\u003c 20/20 HP \\u003e",
-        "\\u003c Blood bank has been filled 100ml \\u003e",
-        "\\u003c A + Blood type has been consumed \\u003e",
-        "\\u003c + 1 Strength stat \\u003e",
-        "\\u003c 50 exp has been awarded \\u003e",
+        "< 20/20 HP >",
+        "< Blood bank has been filled 100ml >",
+        "< A + Blood type has been consumed >",
+        "< + 1 Strength stat >",
+        "< 50 exp has been awarded >",
         "As Quinn was enjoying the last few drops of blood when the sudden sound of the roof door being opened was heard.",
         "\"Huh, so why did you want to meet me on this roof again,\" Loop said rubbing his head. Then when he looked up. He could see his friend covered in a pool of blood and a masked man with his teeth in his friend’s neck.",
         "\"You monster, get off of him!\" Loop shouted!"
@@ -16202,7 +16196,7 @@
         {
           "id": 48,
           "paragraph_id": 31,
-          "text": "\\u003c 12/ 20 HP \\u003e"
+          "text": "< 12/ 20 HP >"
         },
         {
           "id": 49,
@@ -16302,7 +16296,7 @@
         {
           "id": 68,
           "paragraph_id": 44,
-          "text": "\\u003c 11/20 HP \\u003e"
+          "text": "< 11/20 HP >"
         },
         {
           "id": 69,
@@ -16347,27 +16341,27 @@
         {
           "id": 77,
           "paragraph_id": 49,
-          "text": "\\u003c 20/20 HP \\u003e"
+          "text": "< 20/20 HP >"
         },
         {
           "id": 78,
           "paragraph_id": 50,
-          "text": "\\u003c Blood bank has been filled 100ml \\u003e"
+          "text": "< Blood bank has been filled 100ml >"
         },
         {
           "id": 79,
           "paragraph_id": 51,
-          "text": "\\u003c A + Blood type has been consumed \\u003e"
+          "text": "< A + Blood type has been consumed >"
         },
         {
           "id": 80,
           "paragraph_id": 52,
-          "text": "\\u003c + 1 Strength stat \\u003e"
+          "text": "< + 1 Strength stat >"
         },
         {
           "id": 81,
           "paragraph_id": 53,
-          "text": "\\u003c 50 exp has been awarded \\u003e"
+          "text": "< 50 exp has been awarded >"
         },
         {
           "id": 82,
@@ -16422,44 +16416,44 @@
         "That was because of the difference in ability level. Loop was a level three ability user. The special substance he was able to create out of his body was stronger than that of a basic tier beast weapon.",
         "As the two were held in place, Quinn realised his strength was greater and started to push Loop back. When Quinn started to push Loop back, he quickly took in a deep breath and blew out, straight after, white bone spikes had appeared on his body all over.",
         "The bone spikes had managed to pierce Quinn’s body in several different places, but luckily he was able to avoid a blow to the head and his hands were protected by the gauntlets.",
-        "\\u003c 10/20 HP \\u003e",
+        "< 10/20 HP >",
         "It was a strong attack and it had hurt Quinn badly. Loop retracted the bone spikes into his body and was ready for the same attack again. As he breathed in though, he could see Quinn swipe his hand like a claw. Loop ducked down and instead of hitting him, the attack continued to go past and the red lines eventually disappeared into nothing.",
         "\"Let’s see what your hiding under that mask,\" Loop said as he stabbed one of the bone swords into Quinn’s foot and then lifted another one at his face.",
         "However, Quinn decided to use all his strength to pull his foot from the sword. The bone sword stuck in his foot had ripped through his skin and tore through his shoes, his foot was now a mangled mess but at least he was free.",
         "Doing his best to ignore the pain Quinn jumped back a few feet to create distance between himself and Loop.",
         "This was bad, not only did Loop have a strong ability but unlike the people, he had faced before, Loop was a good fighter. Quinn’s sloppy skills weren’t going to save him. Sure, he had more strength then his opponent but that meant nothing if he couldn’t hit him.",
-        "\\u003c 5/20 HP\\u003e",
-        "\\u003c Blood bank auto use \\u003e",
-        "\\u003c10/20 HP\\u003e",
-        "\\u003c 90 Millimetres left in blood bank \\u003e",
+        "< 5/20 HP>",
+        "< Blood bank auto use >",
+        "<10/20 HP>",
+        "< 90 Millimetres left in blood bank >",
         "In nearly an instant, Quinn’s foot had healed. That’s when he came up with a plan.",
-        "\\u003c 20/20 HP\\u003e",
-        "\\u003c 70 millimetres left in blood bank \\u003e",
+        "< 20/20 HP>",
+        "< 70 millimetres left in blood bank >",
         "Quinn had used the rest of his blood bank to heal himself. With this, he would be able to bridge the gap in skill. As long as Quinn didn’t take a fatal blow to the head, he was sure the system would heal him in time.",
         "This time as Quinn rushed forward, he was no longer reserved about using his skills, he cast blood swipe after blood swipe swinging his arms out.",
-        "\\u003c 14/ 20 HP \\u003e",
+        "< 14/ 20 HP >",
         "He had thrown a total of six blood swipes in rapid succession. They had come out fast and all Loop could do was defend with his bones. The first few attacks had been blocked but Loop could feel how powerful they were.",
-        "\\u003c 8/20 HP \\u003e",
+        "< 8/20 HP >",
         "After defending against the first six attacks, Loop thought he was done but another six Blood swipes came straight after and his Bone swords could no longer take it and eventually snapped.",
-        "\\u003c 18/20 HP \\u003e",
-        "\\u003c 50 millilitres of blood left in blood bank\\u003e",
+        "< 18/20 HP >",
+        "< 50 millilitres of blood left in blood bank>",
         "Seeing Quinn continue to rush forward after him and his bone swords were broken, there was only one thing Loop could do.",
         "He took in another deep breath and just when Quinn was close enough, he blew out, making bone spikes appear all over his body.",
         "However, Quinn wasn’t slowing down and continued to run straight into the bone spikes piercing several parts of his body, at the same time he threw a punch out as hard as could sending Loop flying backwards. Then to follow it up Quinn released another barrage of blood swipes.",
-        "\\u003c 5/ 20 HP\\u003e",
-        "\\u003c 10/ 20 HP \\u003e",
-        "\\u003c 40 millilitres of blood left in blood bank \\u003e",
+        "< 5/ 20 HP>",
+        "< 10/ 20 HP >",
+        "< 40 millilitres of blood left in blood bank >",
         "As each of the blood swipes reached Loop’s body, he stood his ground reinforcing his body with bones but not long after he could no longer take any more punishment and collapsed to the ground.",
-        "\\u003c Opponent has been defeated \\u003e",
-        "\\u003c 50 exp has been received \\u003e",
-        "\\u003c130/400\\u003e",
+        "< Opponent has been defeated >",
+        "< 50 exp has been received >",
+        "<130/400>",
         "The fight was a lot tougher then Quinn had thought. The only reason why he was able to be as reckless as he was, was because of his blood bank. Quinn hated to think about how he would have fought if he didn’t have the skill.",
         "Quinn then looked back at Fei who was on the ground. It seemed like after being bitten by him his targets would stay asleep for some time, which was a good thing but now it was time for him to feast on a new person.",
         "Quinn walked over to Loop’s body and cast his Inspect skill.",
-        "\\u003cBrandon Richardson \\u003e",
-        "\\u003c Ability: Bone manipulation\\u003e",
-        "\\u003c HP 1/25\\u003e",
-        "\\u003c Blood type: O- \\u003e",
+        "<Brandon Richardson >",
+        "< Ability: Bone manipulation>",
+        "< HP 1/25>",
+        "< Blood type: O- >",
         "Finally, Quinn was going to find out what use blood type O had for him."
       ],
       "sentences": [
@@ -16666,7 +16660,7 @@
         {
           "id": 40,
           "paragraph_id": 20,
-          "text": "\\u003c 10/20 HP \\u003e"
+          "text": "< 10/20 HP >"
         },
         {
           "id": 41,
@@ -16726,22 +16720,22 @@
         {
           "id": 52,
           "paragraph_id": 26,
-          "text": "\\u003c 5/20 HP\\u003e"
+          "text": "< 5/20 HP>"
         },
         {
           "id": 53,
           "paragraph_id": 27,
-          "text": "\\u003c Blood bank auto use \\u003e"
+          "text": "< Blood bank auto use >"
         },
         {
           "id": 54,
           "paragraph_id": 28,
-          "text": "\\u003c10/20 HP\\u003e"
+          "text": "<10/20 HP>"
         },
         {
           "id": 55,
           "paragraph_id": 29,
-          "text": "\\u003c 90 Millimetres left in blood bank \\u003e"
+          "text": "< 90 Millimetres left in blood bank >"
         },
         {
           "id": 56,
@@ -16756,12 +16750,12 @@
         {
           "id": 58,
           "paragraph_id": 31,
-          "text": "\\u003c 20/20 HP\\u003e"
+          "text": "< 20/20 HP>"
         },
         {
           "id": 59,
           "paragraph_id": 32,
-          "text": "\\u003c 70 millimetres left in blood bank \\u003e"
+          "text": "< 70 millimetres left in blood bank >"
         },
         {
           "id": 60,
@@ -16786,7 +16780,7 @@
         {
           "id": 64,
           "paragraph_id": 35,
-          "text": "\\u003c 14/ 20 HP \\u003e"
+          "text": "< 14/ 20 HP >"
         },
         {
           "id": 65,
@@ -16806,7 +16800,7 @@
         {
           "id": 68,
           "paragraph_id": 37,
-          "text": "\\u003c 8/20 HP \\u003e"
+          "text": "< 8/20 HP >"
         },
         {
           "id": 69,
@@ -16816,12 +16810,12 @@
         {
           "id": 70,
           "paragraph_id": 39,
-          "text": "\\u003c 18/20 HP \\u003e"
+          "text": "< 18/20 HP >"
         },
         {
           "id": 71,
           "paragraph_id": 40,
-          "text": "\\u003c 50 millilitres of blood left in blood bank\\u003e"
+          "text": "< 50 millilitres of blood left in blood bank>"
         },
         {
           "id": 72,
@@ -16846,17 +16840,17 @@
         {
           "id": 76,
           "paragraph_id": 44,
-          "text": "\\u003c 5/ 20 HP\\u003e"
+          "text": "< 5/ 20 HP>"
         },
         {
           "id": 77,
           "paragraph_id": 45,
-          "text": "\\u003c 10/ 20 HP \\u003e"
+          "text": "< 10/ 20 HP >"
         },
         {
           "id": 78,
           "paragraph_id": 46,
-          "text": "\\u003c 40 millilitres of blood left in blood bank \\u003e"
+          "text": "< 40 millilitres of blood left in blood bank >"
         },
         {
           "id": 79,
@@ -16866,17 +16860,17 @@
         {
           "id": 80,
           "paragraph_id": 48,
-          "text": "\\u003c Opponent has been defeated \\u003e"
+          "text": "< Opponent has been defeated >"
         },
         {
           "id": 81,
           "paragraph_id": 49,
-          "text": "\\u003c 50 exp has been received \\u003e"
+          "text": "< 50 exp has been received >"
         },
         {
           "id": 82,
           "paragraph_id": 50,
-          "text": "\\u003c130/400\\u003e"
+          "text": "<130/400>"
         },
         {
           "id": 83,
@@ -16911,22 +16905,22 @@
         {
           "id": 89,
           "paragraph_id": 54,
-          "text": "\\u003cBrandon Richardson \\u003e"
+          "text": "<Brandon Richardson >"
         },
         {
           "id": 90,
           "paragraph_id": 55,
-          "text": "\\u003c Ability: Bone manipulation\\u003e"
+          "text": "< Ability: Bone manipulation>"
         },
         {
           "id": 91,
           "paragraph_id": 56,
-          "text": "\\u003c HP 1/25\\u003e"
+          "text": "< HP 1/25>"
         },
         {
           "id": 92,
           "paragraph_id": 57,
-          "text": "\\u003c Blood type: O- \\u003e"
+          "text": "< Blood type: O- >"
         },
         {
           "id": 93,
@@ -16947,17 +16941,17 @@
         "Quinn lifted Loop’s body from the ground. Only a few inches were separating their faces.",
         "\"I don’t know whether it’s a good thing or a bad thing that I’m finding it easier every time I do this.\"",
         "Quinn opened his mouth wildly showing his teeth, he brought his mouth near Loop’s neck and finally bit into his neck. A rush of blood entered into his mouth, the blood tasted sweet.",
-        "\\u003c 20/20 HP restored \\u003e",
-        "\\u003c O blood type has been consumed \\u003e",
-        "\\u003c 1 free stat point has been added \\u003e",
-        "\\u003c Blood bank has been filled \\u003e",
+        "< 20/20 HP restored >",
+        "< O blood type has been consumed >",
+        "< 1 free stat point has been added >",
+        "< Blood bank has been filled >",
         "Quinn had a few guesses at what the O type would do but this was better than he had imagined. Quinn quickly opened up his status screen and wanted to decide what to put the stat into straight away.",
-        "\\u003c Strength 13 (3) \\u003e",
-        "\\u003c Stamina 12 \\u003e",
-        "\\u003c Agility 13 \\u003e",
+        "< Strength 13 (3) >",
+        "< Stamina 12 >",
+        "< Agility 13 >",
         "Quinn debated internally for a few minutes whether he should put his stat point into stamina or not. If he did his stats would become well rounded. But he thought about all the people who were strong in the world right now. They were usually a specialist in a certain area. A jack of all trades was something too weak in this day and age.",
         "Not only that but Quinn felt like his growth would be quicker if he specialized in strength or Agility. It would allow him to carry on beating weak opponents. Then when he needed to, he could increase his stamina points at another time. It wasn’t like Quinn was going to be facing an army of opponents any time soon.",
-        "\\u003c Agility 14 \\u003e",
+        "< Agility 14 >",
         "In the end, Quinn decided to stick to his original plan and add his stat points into agility.",
         "Quinn stood in place looking at the duos body’s wondering what he should do. He was fairly certain that he had acted fast enough during his fight with Fei. He hoped that he hadn’t seen anything that could give him away, but he couldn’t say the same for Loop.",
         "When Quinn started to inspect Fei’s body, he noticed that the bite marks on Fei’s neck from Quinn had already disappeared.",
@@ -17076,22 +17070,22 @@
         {
           "id": 13,
           "paragraph_id": 6,
-          "text": "\\u003c 20/20 HP restored \\u003e"
+          "text": "< 20/20 HP restored >"
         },
         {
           "id": 14,
           "paragraph_id": 7,
-          "text": "\\u003c O blood type has been consumed \\u003e"
+          "text": "< O blood type has been consumed >"
         },
         {
           "id": 15,
           "paragraph_id": 8,
-          "text": "\\u003c 1 free stat point has been added \\u003e"
+          "text": "< 1 free stat point has been added >"
         },
         {
           "id": 16,
           "paragraph_id": 9,
-          "text": "\\u003c Blood bank has been filled \\u003e"
+          "text": "< Blood bank has been filled >"
         },
         {
           "id": 17,
@@ -17106,17 +17100,17 @@
         {
           "id": 19,
           "paragraph_id": 11,
-          "text": "\\u003c Strength 13 (3) \\u003e"
+          "text": "< Strength 13 (3) >"
         },
         {
           "id": 20,
           "paragraph_id": 12,
-          "text": "\\u003c Stamina 12 \\u003e"
+          "text": "< Stamina 12 >"
         },
         {
           "id": 21,
           "paragraph_id": 13,
-          "text": "\\u003c Agility 13 \\u003e"
+          "text": "< Agility 13 >"
         },
         {
           "id": 22,
@@ -17166,7 +17160,7 @@
         {
           "id": 31,
           "paragraph_id": 16,
-          "text": "\\u003c Agility 14 \\u003e"
+          "text": "< Agility 14 >"
         },
         {
           "id": 32,
@@ -17572,8 +17566,8 @@
         "\"Looks like you were fine,\" Vorden whispered to himself. \"I’m sorry.\"",
         "Each one of them was dealing with their own problems, yet not one of them knew of the others. With a lot on their mind and no one to share it with, they had to sleep with their demons that night.",
         "As Quinn woke up he was greeted with his usual morning message.",
-        "\\u003cDaily quest complete: Avoid direct sunlight for eight hours. \\u003e",
-        "\\u003c135/400 Exp\\u003e",
+        "<Daily quest complete: Avoid direct sunlight for eight hours. >",
+        "<135/400 Exp>",
         "Quinn was satisfied with his growth in strength, however, he couldn’t say the same about his levelling speed. He was currently only level three and had two skills he could use. Unlike other abilities where they gave you the control of something, Quinn’s skills were a one action type thing. IF Quinn wanted to be on an even playing field with the higher-level ability users then Quinn would need more skills.",
         "After fighting with Loop yesterday Quinn realised he needed a few things. The first was he needed to get better at fighting. Although his skills had been fine with defeating low levels so far, he couldn’t say the same when it came to opponents who knew how to fight.",
         "It was only because of Quinn’s blood bank yesterday that he was able to win the fight and fight recklessly. This meant he needed to learn some hand to hand combat skills. The second thing was he couldn’t go out fighting students every day.",
@@ -17688,12 +17682,12 @@
         {
           "id": 15,
           "paragraph_id": 11,
-          "text": "\\u003cDaily quest complete: Avoid direct sunlight for eight hours. \\u003e"
+          "text": "<Daily quest complete: Avoid direct sunlight for eight hours. >"
         },
         {
           "id": 16,
           "paragraph_id": 12,
-          "text": "\\u003c135/400 Exp\\u003e"
+          "text": "<135/400 Exp>"
         },
         {
           "id": 17,
@@ -18397,9 +18391,9 @@
         "With that, everyone went into a separate space with their weapon. A few of the students sat down and started to think about how they could use their ability with their weapon. One student covered their whip in flames making a fire whip, another held a shield and managed to alter its shape to form spikes.",
         "While Quinn had no clue what to do. His only skill was easy to use and there wasn’t much to do with it other than swing his hand but what Quinn wanted to do more than anything, was learn how to fight.",
         "\"I wish there was someone who could teach me how to use these things,\" Quinn said as he sighed.",
-        "\\u003c Request of Combat lesson activated \\u003e",
-        "\\u003c A suitable weapon is currently in use \\u003e",
-        "\\u003c Hand to hand combat Lv. 1 Will now be shown \\u003e",
+        "< Request of Combat lesson activated >",
+        "< A suitable weapon is currently in use >",
+        "< Hand to hand combat Lv. 1 Will now be shown >",
         "Just then as Quinn said those words, he seemed to have activated something within the system. In front of his eyes, a video started to play.",
         "Quinn quickly looked around him to see if anyone else could see what he was seeing but he seemed to be the only one.",
         "In the video stood a single tall long-haired blonde man, in a large empty room. On his both of hand’s he wore two gauntlets similar to Quinn’s but looked a lot more powerful and his beauty was unmatched. Something Quinn had never said about a boy before.",
@@ -18666,22 +18660,22 @@
         {
           "id": 51,
           "paragraph_id": 23,
-          "text": "\\u003c Request of Combat lesson activated \\u003e"
+          "text": "< Request of Combat lesson activated >"
         },
         {
           "id": 52,
           "paragraph_id": 24,
-          "text": "\\u003c A suitable weapon is currently in use \\u003e"
+          "text": "< A suitable weapon is currently in use >"
         },
         {
           "id": 53,
           "paragraph_id": 25,
-          "text": "\\u003c Hand to hand combat Lv."
+          "text": "< Hand to hand combat Lv."
         },
         {
           "id": 54,
           "paragraph_id": 25,
-          "text": "1 Will now be shown \\u003e"
+          "text": "1 Will now be shown >"
         },
         {
           "id": 55,
@@ -19111,8 +19105,8 @@
         "\"We currently have no leads to what happened to Brandon, so that eventually led us to you. Although its hard to believe someone with no ability like you could do something like this, there is always a way. The woman sitting opposite you here has the ability to detect whether someone is telling the truth or not. Now please proceed with her demands\".",
         "\"It’s okay,\" the lady said, \"I just need you to place your hand over mine.\"",
         "As Quinn placed his hand over hers, he suddenly felt a calming feeling enter his body.",
-        "\\u003c An Ability has been detected \\u003e",
-        "\\u003c Unable to block the user’s ability \\u003e",
+        "< An Ability has been detected >",
+        "< Unable to block the user’s ability >",
         "\"Now tell me, did you kill Brandon Richardson last night?\" She asked.",
         "The calming feeling allowed Quinn to answer naturally. He felt like he was suddenly floating on top of clouds.",
         "\"No, I did not.\"",
@@ -19238,12 +19232,12 @@
         {
           "id": 18,
           "paragraph_id": 8,
-          "text": "\\u003c An Ability has been detected \\u003e"
+          "text": "< An Ability has been detected >"
         },
         {
           "id": 19,
           "paragraph_id": 9,
-          "text": "\\u003c Unable to block the user’s ability \\u003e"
+          "text": "< Unable to block the user’s ability >"
         },
         {
           "id": 20,
@@ -20012,11 +20006,11 @@
         "They had only just become second years so there wasn’t much chance for them to learn anything. However, the real problem was Momo and the people by his side. Momo stood there with the power Level of six and the two beside him where Level fours.",
         "It was unlikely that any of the first years would help Quinn out and even the strongest first year in the room was Erin and even she was a level five. It was no wonder even though the first years outnumbered them they were afraid.",
         "As Quinn held the ball in his hand a message had appeared.",
-        "\\u003c Basic tier beast weapon: Round ball \\u003e",
-        "\\u003c Would you like to activate? \\u003e",
-        "\\u003c Strength of weapon will increase by five percent \\u003e",
+        "< Basic tier beast weapon: Round ball >",
+        "< Would you like to activate? >",
+        "< Strength of weapon will increase by five percent >",
         "The Percentage stood out to him, it was the same number his gauntlets gave when using them. Perhaps Quinn didn’t need to figure out how to activate the beast weapons as Momo had said. It seemed like the system would do everything for him.",
-        "\\u003cActivate\\u003e",
+        "<Activate>",
         "The black ball started to glow, it glowed brighter than any of the balls the other students had held before.",
         "\"How is that possible, he was able to activate the basic tier weapon fully?\" Momo thought, \"That means its strength has increased by at least five percent. If he had a higher tier weapon I wonder if he could the same. Wasn’t he just a useless level 1?\"",
         "Quinn then walked in front of where Vorden was standing. There was now a good five meters of distance between the two.",
@@ -20027,15 +20021,15 @@
         "Quinn then chucked the ball using all his strength as hard as he could. With the 16 points of strength and the added 5 percent power, the ball came out lightning fast as it left his fingertips.",
         "Instead of the ball hitting Vorden though like everyone suspected, it landed straight in the student’s stomach standing by the side of the board.",
         "The power was so strong that the student was lifted off his feet and knocked out in one blow.",
-        "\\u003c 50 exp gained \\u003e",
-        "\\u003c 175/400 Exp \\u003e",
+        "< 50 exp gained >",
+        "< 175/400 Exp >",
         "\"What the hell are you guys doing standing there, get him!\" Momo shouted.",
         "Quinn knew there wasn’t much he could do against all the second-year students so he wanted to create as much havoc as possible. The two-level four students who stood by Momo side started to come towards him but instead of Quinn running toward them, he suddenly ran towards the crowd of first-years behind him.",
         "He bent down and picked up two more of the black balls on the floor and started to head for the weaker students around the side while weaving in between the first-year students. Then when he was within distance, he had found his targets.",
         "The weak level twos who were standing by the side.",
         "Once again he threw out another two black balls aiming for them at full strength, one of the students managed to avoid the black ball but the other wasn’t so lucky getting hit and knocked out.",
-        "\\u003c 50 exp gained\\u003e",
-        "\\u003c 225/ 400 Exp \\u003e",
+        "< 50 exp gained>",
+        "< 225/ 400 Exp >",
         "This was Quinn’s plan, so far every level up Quinn was able to obtain an ability, he didn’t know what he would get but he sure hoped it would help him win the fight. There were enough second-year students for him to take on to cause a level up.",
         "He then went back into the crowd to pick up even more balls while making sure to use the other students as cover.",
         "\"What are you guys doing, to anyone who manages to hit or capture that guy they will be free from any form of punishment!\" Mono said.",
@@ -20054,7 +20048,7 @@
         "With Layla and Erin distracting the other high levels in the room, Quinn felt like this was his chance to deal with the rest of the level twos. However, it wasn’t going to be as easy as he thought.",
         "Out from the side, a long thin object came lashing out at him.",
         "Is was too fast for Quinn to react causing him to be hit across his body. Not only did the attack pierce his chest but it also sent him tumbling to the ground.",
-        "\\u003c 13/20 HP\\u003e",
+        "< 13/20 HP>",
         "\"7 points of HP with one attack, just what was that?\" Quinn thought looking at what had just hit him.",
         "Coming towards him was Momo, in his hand, he held a beast weapon whip by his side.",
         "\"You have caused so much trouble.\" Momo said, \"I don’t know how you can activate the beast weapons so well, and your surprise attacks seemed to work but you will always be a weak level one.\"",
@@ -20207,17 +20201,17 @@
         {
           "id": 28,
           "paragraph_id": 12,
-          "text": "\\u003c Basic tier beast weapon: Round ball \\u003e"
+          "text": "< Basic tier beast weapon: Round ball >"
         },
         {
           "id": 29,
           "paragraph_id": 13,
-          "text": "\\u003c Would you like to activate? \\u003e"
+          "text": "< Would you like to activate? >"
         },
         {
           "id": 30,
           "paragraph_id": 14,
-          "text": "\\u003c Strength of weapon will increase by five percent \\u003e"
+          "text": "< Strength of weapon will increase by five percent >"
         },
         {
           "id": 31,
@@ -20237,7 +20231,7 @@
         {
           "id": 34,
           "paragraph_id": 16,
-          "text": "\\u003cActivate\\u003e"
+          "text": "<Activate>"
         },
         {
           "id": 35,
@@ -20317,12 +20311,12 @@
         {
           "id": 50,
           "paragraph_id": 27,
-          "text": "\\u003c 50 exp gained \\u003e"
+          "text": "< 50 exp gained >"
         },
         {
           "id": 51,
           "paragraph_id": 28,
-          "text": "\\u003c 175/400 Exp \\u003e"
+          "text": "< 175/400 Exp >"
         },
         {
           "id": 52,
@@ -20362,12 +20356,12 @@
         {
           "id": 59,
           "paragraph_id": 34,
-          "text": "\\u003c 50 exp gained\\u003e"
+          "text": "< 50 exp gained>"
         },
         {
           "id": 60,
           "paragraph_id": 35,
-          "text": "\\u003c 225/ 400 Exp \\u003e"
+          "text": "< 225/ 400 Exp >"
         },
         {
           "id": 61,
@@ -20502,7 +20496,7 @@
         {
           "id": 87,
           "paragraph_id": 54,
-          "text": "\\u003c 13/20 HP\\u003e"
+          "text": "< 13/20 HP>"
         },
         {
           "id": 88,
@@ -20562,14 +20556,14 @@
         "\"I see so you want the level, 2 user, huh.\" The other student replied. \"Oh well, just finish her off quickly.\"",
         "With that, the two-second years charged in for the attack. The water ability user went after Layla, while the earth user went after Erin.",
         "As the earth user got closer, he stomped the ground and a spiked earth mound followed, heading right for Erin. But Erin remained calm, as the spike came towards her, she slashed her sword and with a single strike, cut the spike in half causing it to fall to the ground.",
-        "\"What the? That beast weapon, if it cut through my earth ability is it an advanced tier beast weapon?��� The earth user thought.",
+        "\"What the? That beast weapon, if it cut through my earth ability is it an advanced tier beast weapon?... The earth user thought.",
         "However, he didn’t have much time to think, with her other hand Erin had formed an ice spear and threw it towards her opponent. The earth user lifted his arms causing a wall of earth blocking the attack.",
         "He then moved his hands apart and at the same time the wall he had created, split in two but when the view in front of him was clear, Erin was nowhere to be seen.",
         "Suddenly, he felt his legs start to feel cold. When he looked down, he noticed they were starting to freeze.",
         "\"For a second-year level four earth user, you are incredibly weak.\" Before the boy could react, Erin had whacked him in the back of the head with the hilt of her sword. Then as he fell to the ground, she froze his arms and limbs in place making sure he would stay on the ground.",
         "\"How did she win so easy?\" The first-year students watching said.",
         "\"Yeah, shouldn’t a match between a level four and five user be closer than that, and he was a second-year student.\"",
-        "\"Maybe they aren���t as strong as we thought?\"",
+        "\"Maybe they aren't as strong as we thought?\"",
         "Usually, a fight with a level four and five users would be a lot closer, especially considering the other student was a second year. But there was a major difference between the two fighters and that was something called, fighting IQ.",
         "No matter how strong someone’s ability was or how powerful a punch they packed, you needed to know how to use your abilities and when. This could be improved with experience or some people were just naturally gifted. For Erin, she had always fallen into the gifted category.",
         "Although Erin had finished her match quickly, the same couldn’t be said for Layla. Her attacks were basically useless. As an archer, her skills were best used when surprising her opponent and when there was a distance between the two.",
@@ -20759,280 +20753,285 @@
         {
           "id": 32,
           "paragraph_id": 15,
-          "text": "That beast weapon, if it cut through my earth ability is it an advanced tier beast weapon?��� The earth user thought."
+          "text": "That beast weapon, if it cut through my earth ability is it an advanced tier beast weapon?..."
         },
         {
           "id": 33,
-          "paragraph_id": 16,
-          "text": "However, he didn’t have much time to think, with her other hand Erin had formed an ice spear and threw it towards her opponent."
+          "paragraph_id": 15,
+          "text": "The earth user thought."
         },
         {
           "id": 34,
           "paragraph_id": 16,
-          "text": "The earth user lifted his arms causing a wall of earth blocking the attack."
+          "text": "However, he didn’t have much time to think, with her other hand Erin had formed an ice spear and threw it towards her opponent."
         },
         {
           "id": 35,
+          "paragraph_id": 16,
+          "text": "The earth user lifted his arms causing a wall of earth blocking the attack."
+        },
+        {
+          "id": 36,
           "paragraph_id": 17,
           "text": "He then moved his hands apart and at the same time the wall he had created, split in two but when the view in front of him was clear, Erin was nowhere to be seen."
         },
         {
-          "id": 36,
+          "id": 37,
           "paragraph_id": 18,
           "text": "Suddenly, he felt his legs start to feel cold."
         },
         {
-          "id": 37,
+          "id": 38,
           "paragraph_id": 18,
           "text": "When he looked down, he noticed they were starting to freeze."
         },
         {
-          "id": 38,
+          "id": 39,
           "paragraph_id": 19,
           "text": "\"For a second-year level four earth user, you are incredibly weak.\" Before the boy could react, Erin had whacked him in the back of the head with the hilt of her sword."
         },
         {
-          "id": 39,
+          "id": 40,
           "paragraph_id": 19,
           "text": "Then as he fell to the ground, she froze his arms and limbs in place making sure he would stay on the ground."
         },
         {
-          "id": 40,
+          "id": 41,
           "paragraph_id": 20,
           "text": "\"How did she win so easy?\" The first-year students watching said."
         },
         {
-          "id": 41,
+          "id": 42,
           "paragraph_id": 21,
           "text": "\"Yeah, shouldn’t a match between a level four and five user be closer than that, and he was a second-year student.\""
         },
         {
-          "id": 42,
-          "paragraph_id": 22,
-          "text": "\"Maybe they aren���t as strong as we thought?\""
-        },
-        {
           "id": 43,
-          "paragraph_id": 23,
-          "text": "Usually, a fight with a level four and five users would be a lot closer, especially considering the other student was a second year."
+          "paragraph_id": 22,
+          "text": "\"Maybe they aren't as strong as we thought?\""
         },
         {
           "id": 44,
           "paragraph_id": 23,
-          "text": "But there was a major difference between the two fighters and that was something called, fighting IQ."
+          "text": "Usually, a fight with a level four and five users would be a lot closer, especially considering the other student was a second year."
         },
         {
           "id": 45,
-          "paragraph_id": 24,
-          "text": "No matter how strong someone’s ability was or how powerful a punch they packed, you needed to know how to use your abilities and when."
+          "paragraph_id": 23,
+          "text": "But there was a major difference between the two fighters and that was something called, fighting IQ."
         },
         {
           "id": 46,
           "paragraph_id": 24,
-          "text": "This could be improved with experience or some people were just naturally gifted."
+          "text": "No matter how strong someone’s ability was or how powerful a punch they packed, you needed to know how to use your abilities and when."
         },
         {
           "id": 47,
           "paragraph_id": 24,
-          "text": "For Erin, she had always fallen into the gifted category."
+          "text": "This could be improved with experience or some people were just naturally gifted."
         },
         {
           "id": 48,
-          "paragraph_id": 25,
-          "text": "Although Erin had finished her match quickly, the same couldn’t be said for Layla."
+          "paragraph_id": 24,
+          "text": "For Erin, she had always fallen into the gifted category."
         },
         {
           "id": 49,
           "paragraph_id": 25,
-          "text": "Her attacks were basically useless."
+          "text": "Although Erin had finished her match quickly, the same couldn’t be said for Layla."
         },
         {
           "id": 50,
           "paragraph_id": 25,
-          "text": "As an archer, her skills were best used when surprising her opponent and when there was a distance between the two."
+          "text": "Her attacks were basically useless."
         },
         {
           "id": 51,
-          "paragraph_id": 26,
-          "text": "Here she had neither of them."
+          "paragraph_id": 25,
+          "text": "As an archer, her skills were best used when surprising her opponent and when there was a distance between the two."
         },
         {
           "id": 52,
           "paragraph_id": 26,
-          "text": "Every attack of hers was met with a wall of water that would stop her arrows in their tracks and finally when she was tired."
+          "text": "Here she had neither of them."
         },
         {
           "id": 53,
           "paragraph_id": 26,
-          "text": "The second-year student threw out his fist and a ball of water came out towards her."
+          "text": "Every attack of hers was met with a wall of water that would stop her arrows in their tracks and finally when she was tired."
         },
         {
           "id": 54,
+          "paragraph_id": 26,
+          "text": "The second-year student threw out his fist and a ball of water came out towards her."
+        },
+        {
+          "id": 55,
           "paragraph_id": 27,
           "text": "It hit her dead in the stomach and sent her flying back towards the front of the hall near Vorden."
         },
         {
-          "id": 55,
+          "id": 56,
           "paragraph_id": 28,
           "text": "The water user started running after her planning to finish her, Layla seeing this struggled but was to hurt to get up."
         },
         {
-          "id": 56,
+          "id": 57,
           "paragraph_id": 29,
           "text": "\"Hey you, free me, I can deal with him.\""
         },
         {
-          "id": 57,
+          "id": 58,
           "paragraph_id": 30,
           "text": "\"What?\" Layla said as she looked up noticing that it was Vorden who was speaking to her."
         },
         {
-          "id": 58,
+          "id": 59,
           "paragraph_id": 31,
           "text": "\"Come on hurry, we don’t have much time touch my leg.\""
         },
         {
-          "id": 59,
+          "id": 60,
           "paragraph_id": 32,
           "text": "Layla hesitated for a moment."
         },
         {
-          "id": 60,
+          "id": 61,
           "paragraph_id": 32,
           "text": "She still had remembered what had happened when the two of them were in the room, she still had an odd feeling in her gut telling her Vorden was a bad person but right now it was the only person she could rely on."
         },
         {
-          "id": 61,
+          "id": 62,
           "paragraph_id": 33,
           "text": "She crawled over to Vorden’s side and touched his leg as he had asked."
         },
         {
-          "id": 62,
+          "id": 63,
           "paragraph_id": 33,
           "text": "Then the shackles tied around Vorden’s arms and legs started shaking."
         },
         {
-          "id": 63,
+          "id": 64,
           "paragraph_id": 34,
           "text": "\"Come on, help me you bitch!\" Vorden shouted at her."
         },
         {
-          "id": 64,
+          "id": 65,
           "paragraph_id": 35,
           "text": "Vorden was using Layal’s telekinesis ability but it was weak, it wasn’t strong enough to break from the shackles."
         },
         {
-          "id": 65,
+          "id": 66,
           "paragraph_id": 35,
           "text": "Layla then lifted her hand and with the two of them working together, the shackles were finally removed and Vorden was free."
         },
         {
-          "id": 66,
+          "id": 67,
           "paragraph_id": 36,
           "text": "He started to rotate his wrist as if he was getting used to his body."
         },
         {
-          "id": 67,
+          "id": 68,
           "paragraph_id": 36,
           "text": "He shook his limbs out and started to jump up and down."
         },
         {
-          "id": 68,
+          "id": 69,
           "paragraph_id": 37,
           "text": "\"Finally, I get to come out, it’s been a long time.\""
         },
         {
-          "id": 69,
+          "id": 70,
           "paragraph_id": 38,
           "text": "As the water user continued to run forward now that Vorden was free, he was more cautious."
         },
         {
-          "id": 70,
+          "id": 71,
           "paragraph_id": 38,
           "text": "The last time they had fought with him in the assembly hall they remembered Vorden having earth powers."
         },
         {
-          "id": 71,
+          "id": 72,
           "paragraph_id": 38,
           "text": "At the time the last person he had touched was Peter."
         },
         {
-          "id": 72,
+          "id": 73,
           "paragraph_id": 39,
           "text": "Vorden then started to laugh hysterically and charged towards the water user."
         },
         {
-          "id": 73,
+          "id": 74,
           "paragraph_id": 39,
           "text": "It was an unexpected move, the water user panicked and threw out two lines of Water blades."
         },
         {
-          "id": 74,
+          "id": 75,
           "paragraph_id": 39,
           "text": "These where just as sharp as an attack from a regular blade but could be thrown out."
         },
         {
-          "id": 75,
+          "id": 76,
           "paragraph_id": 40,
           "text": "As the blades came towards him, at the last second Vorden managed to twist his body in an odd way avoiding both of the blades."
         },
         {
-          "id": 76,
+          "id": 77,
           "paragraph_id": 40,
           "text": "He then lifted one of the black balls from the ground using his telekinesis and threw it out."
         },
         {
-          "id": 77,
+          "id": 78,
           "paragraph_id": 41,
           "text": "However, the attack was easy for the water user to block, forming a water wall stopping the ball but then *Crack."
         },
         {
-          "id": 78,
+          "id": 79,
           "paragraph_id": 41,
           "text": "Something was felt on the back of his leg and at the same time a crunching sound was heard, the boy immediately fell to one knee."
         },
         {
-          "id": 79,
+          "id": 80,
           "paragraph_id": 42,
           "text": "As he looked at Vorden in front of him, he could only see Vorden with his hands held out."
         },
         {
-          "id": 80,
+          "id": 81,
           "paragraph_id": 42,
           "text": "Then another striking pain was felt through his body, this time on his other ankle."
         },
         {
-          "id": 81,
+          "id": 82,
           "paragraph_id": 43,
           "text": "Without realising it, Vorden had attacked him from behind, pulling the other black balls towards him."
         },
         {
-          "id": 82,
+          "id": 83,
           "paragraph_id": 43,
           "text": "The water user was two focused on the attack in front he never thought about an attack from behind."
         },
         {
-          "id": 83,
+          "id": 84,
           "paragraph_id": 43,
           "text": "Also, it had come as a surprise to him that Vorden was not an earth user as he thought."
         },
         {
-          "id": 84,
+          "id": 85,
           "paragraph_id": 44,
           "text": "Vorden then lifted up two more black balls and swung his hands down."
         },
         {
-          "id": 85,
+          "id": 86,
           "paragraph_id": 44,
           "text": "At the same time, the balls came rushing down at a crazy speed hitting the student in the forearms, breaking them at the same time."
         },
         {
-          "id": 86,
+          "id": 87,
           "paragraph_id": 45,
           "text": "The student screamed in pain and with his arm’s mangled, he could no longer use his water ability as he could before."
         },
         {
-          "id": 87,
+          "id": 88,
           "paragraph_id": 46,
           "text": "\"Finally, I, Raten have returned."
         }
@@ -21045,27 +21044,27 @@
       "url": "https://novelping.com/book/my-vampire-system/chapter-45",
       "paragraphs": [
         "The second-year students had Quinn completely surrounded, as he took a step forward to try to break out of the encirclement, a wind strike came towards him. He managed to lift his hand to block the attack but at the same, another slash was felt against his back.",
-        "\\u003c 12/20 HP \\u003e",
+        "< 12/20 HP >",
         "The attacks continued with a mixture of abilities but most of them were weak elemental abilities such as level 2 wind users and earth users. However, when he was being attacked from all sides, the attacks quickly added up.",
         "Quinn continued to block strikes coming from the front of him but still was hit from all sides.",
-        "\\u003c 11/20 HP \\u003e",
-        "\\u003c 10/20 HP \\u003e",
-        "\\u003c 9/20 HP \\u003e",
+        "< 11/20 HP >",
+        "< 10/20 HP >",
+        "< 9/20 HP >",
         "There was a constant cycle. Once he was injured to a certain degree Quinn’s blood bank would auto-activate and heal him, but even with the blood bank, there was no getting out of this one. But he knew this would happen to some degree. He never expected to win in the first place.",
         "Ignoring the pain of the strikes and instead of trying to avoid all the attacks. He rushed forward towards one of the students. This time two hits had hit him from each side, casing two big slashes on his body.",
-        "\\u003c 8/20 HP \\u003e",
-        "\\u003c 7/20 HP \\u003e",
+        "< 8/20 HP >",
+        "< 7/20 HP >",
         "But he didn’t care, his speed was quick and using the strength in his legs he was able to move himself forward and grabbed one of the second-year students. He quickly went behind the student grabbing his arm and at the same time kept one of his claws towards the student’s neck using him as a meat shield.",
         "The second years were hesitant to attack afraid they might hit their fellow classmate. Quinn continued to walk backwards with the student until his back was up against the wall.",
         "\"Me and you both know you’re not going to hurt him Quinn.\" Momo said, \"If you attack too deep and kill him, you’ll be in trouble, attack to shallow and we will pounce on you and make you wish you were dead.\"",
         "Quin hated to admit it but Momo was right, he couldn’t kill the student and at the same time the second he turned his back to them they would take him out so Quinn was left with only one thing.",
         "He no longer had his claw hand out but then started to choke the student from behind wrapping his arm around his neck. He used his strength and carried on until he eventually passed out.",
-        "\\u003c 50 exp gained \\u003e",
-        "\\u003c 275/400 exp \\u003e",
+        "< 50 exp gained >",
+        "< 275/400 exp >",
         "\"No point wasting good exp,\" Quinn said.",
         "As soon as the student fell to the ground the attacks came out fast and furious from the others. Quinn was able to block most of them now his back was up against the wall, he started dodging a lot of the strikes, which made him think back to the test centre.",
         "The situation he was in was similar to the agility test where holographic spikes came at him. However, these attacks were more powerful and were greater in number, eventually, Quinn let a strike get in.",
-        "\\u003c 6/ 20 Hp \\u003e",
+        "< 6/ 20 Hp >",
         "Suddenly the attacks had stopped and Momo had stood forward with his whip in his hand. Seeing the Whip Quinn remembered that a single attack last time had brought his HP down by seven points. If he was to receive another attack form it right now, he would be brought down to below 0.",
         "Quinn still didn’t know what happened when his HP would reach 0 but at the same time, this wasn’t the time to find out. He had no choice, he would have to use the blood bank to heal himself. Even if the others did see him use this, it wouldn’t reveal he was a vampire but they would just think it was some type of self-healing ability.",
         "The problem was Quinn had already displayed abnormal strength. If he then displayed abnormal healing, things wouldn’t add up. A student couldn’t have two abilities apart from rare cases, which meant it would only lead to Quinn being asked more questions.",
@@ -21098,7 +21097,7 @@
         {
           "id": 2,
           "paragraph_id": 1,
-          "text": "\\u003c 12/20 HP \\u003e"
+          "text": "< 12/20 HP >"
         },
         {
           "id": 3,
@@ -21118,17 +21117,17 @@
         {
           "id": 6,
           "paragraph_id": 4,
-          "text": "\\u003c 11/20 HP \\u003e"
+          "text": "< 11/20 HP >"
         },
         {
           "id": 7,
           "paragraph_id": 5,
-          "text": "\\u003c 10/20 HP \\u003e"
+          "text": "< 10/20 HP >"
         },
         {
           "id": 8,
           "paragraph_id": 6,
-          "text": "\\u003c 9/20 HP \\u003e"
+          "text": "< 9/20 HP >"
         },
         {
           "id": 9,
@@ -21168,12 +21167,12 @@
         {
           "id": 16,
           "paragraph_id": 9,
-          "text": "\\u003c 8/20 HP \\u003e"
+          "text": "< 8/20 HP >"
         },
         {
           "id": 17,
           "paragraph_id": 10,
-          "text": "\\u003c 7/20 HP \\u003e"
+          "text": "< 7/20 HP >"
         },
         {
           "id": 18,
@@ -21218,12 +21217,12 @@
         {
           "id": 26,
           "paragraph_id": 16,
-          "text": "\\u003c 50 exp gained \\u003e"
+          "text": "< 50 exp gained >"
         },
         {
           "id": 27,
           "paragraph_id": 17,
-          "text": "\\u003c 275/400 exp \\u003e"
+          "text": "< 275/400 exp >"
         },
         {
           "id": 28,
@@ -21253,7 +21252,7 @@
         {
           "id": 33,
           "paragraph_id": 21,
-          "text": "\\u003c 6/ 20 Hp \\u003e"
+          "text": "< 6/ 20 Hp >"
         },
         {
           "id": 34,
@@ -21822,7 +21821,7 @@
         "\"Sure,\" Quinn replied.",
         "Hayley then proceeded to complete healing the rest of Quinn’s wounds on his body, after she was done there was not a mark on him.",
         "During Quinn’s own healing process his body had used up quite a bit of energy and once again the message had appeared stating he was hungry.",
-        "\\u003cBlood bank 90/100\\u003e",
+        "<Blood bank 90/100>",
         "After consuming some blood from his blood bank, he no longer felt hungry and didn’t have to worry about going on a frenzy for at least another two days.",
         "Once Quinn and Vorden had arrived back in their rooms, they were told not to leave until they were notified. Once in a while, a private would call out a student’s name and they would be taken somewhere for questioning.",
         "Inside their own rooms was Vorden, Peter and Quinn.",
@@ -22034,7 +22033,7 @@
         {
           "id": 38,
           "paragraph_id": 23,
-          "text": "\\u003cBlood bank 90/100\\u003e"
+          "text": "<Blood bank 90/100>"
         },
         {
           "id": 39,

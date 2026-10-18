@@ -52,6 +52,10 @@ if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
 from novel_scraper import NovelScraper
+try:
+    from novel_cleaner import clean_chapter_data
+except ImportError:
+    from scripts.novel_cleaner import clean_chapter_data
 
 # Known novels configuration
 KNOWN_NOVELS = {
@@ -82,13 +86,6 @@ KNOWN_NOVELS = {
         "target_dir": os.path.join(PROJECT_ROOT, "data", "alchemy-emperor-of-the-divine-dao"),
         "default_start": 1,
         "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=alchemy-emperor-of-the-divine-dao"
-    },
-    "i-got-cheat-ability-in-a-different-world": {
-        "id": "i-got-cheat-ability-in-a-different-world",
-        "title": "I Got Cheat Ability In A Different World, Even In The Real World",
-        "target_dir": os.path.join(PROJECT_ROOT, "data", "i-got-cheat-ability-in-a-different-world"),
-        "default_start": 1,
-        "archive_url": "https://www.webnovel.com/book/17875881305335005"
     }
 }
 
@@ -96,8 +93,7 @@ DEFAULT_THREE_NOVELS = [
     "infinite-mana-in-the-apocalypse",
     "supreme-harem-god-system",
     "my-vampire-system",
-    "alchemy-emperor-of-the-divine-dao",
-    "i-got-cheat-ability-in-a-different-world"
+    "alchemy-emperor-of-the-divine-dao"
 ]
 
 
@@ -253,7 +249,7 @@ def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int
                 ch_data = scraper.fetch_chapter(url)
                 paragraphs = ch_data.get("paragraphs", [])
                 if paragraphs and len(paragraphs) > 0:
-                    return {
+                    ch_payload = {
                         "chapter_index": ch_num,
                         "title": ch_data.get("title") or (ch_meta.get("title") if ch_meta else f"Chapter {ch_num}"),
                         "url": url,
@@ -261,6 +257,7 @@ def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int
                         "sentences": ch_data.get("sentences", []),
                         "word_count": ch_data.get("word_count", 0)
                     }
+                    return clean_chapter_data(ch_payload)
                 else:
                     time.sleep(1.0)
             except urllib.error.HTTPError as e:

@@ -13,6 +13,11 @@ import urllib.request
 from typing import Dict, List, Optional
 from bs4 import BeautifulSoup, Tag
 
+try:
+    from novel_cleaner import clean_chapter_data, clean_paragraph_text, is_ad_or_watermark_paragraph
+except ImportError:
+    from scripts.novel_cleaner import clean_chapter_data, clean_paragraph_text, is_ad_or_watermark_paragraph
+
 class NovelScraper:
     def __init__(self, base_url: str = "https://novelping.com"):
         self.base_url = base_url.rstrip("/")
@@ -178,41 +183,28 @@ class NovelScraper:
             if not text:
                 continue
 
+            cleaned = clean_paragraph_text(text)
+            if not cleaned or is_ad_or_watermark_paragraph(cleaned):
+                continue
+
             # Strip watermarks and ad patterns
-            if any(pat.search(text) for pat in self.ad_patterns):
+            if any(pat.search(cleaned) for pat in self.ad_patterns):
                 continue
 
             # Skip short duplicate headers or next/prev chapter text
-            lower_text = text.lower()
-            if lower_text in ["prev chapter", "next chapter", "chapter list", "options"]:
+            lower_text = cleaned.lower()
+            if lower_text in ["prev chapter", "next chapter", "chapter list", "options", "advertisement"]:
                 continue
 
-            cleaned_paragraphs.append(text)
+            cleaned_paragraphs.append(cleaned)
 
-        # Tokenize paragraphs into sentences for TTS synchronization
-        sentences: List[Dict] = []
-        sentence_idx = 0
-        # Regex splits by sentence boundaries (.!?) followed by space/quote/bracket
-        sentence_splitter = re.compile(r'(?<=[.!?…])\s+(?=[A-Z0-9"“\[])')
-
-        for p_idx, para in enumerate(cleaned_paragraphs):
-            raw_sentences = sentence_splitter.split(para)
-            for s in raw_sentences:
-                s_clean = s.strip()
-                if s_clean:
-                    sentences.append({
-                        "id": sentence_idx,
-                        "paragraph_id": p_idx,
-                        "text": s_clean
-                    })
-                    sentence_idx += 1
-
-        return {
+        raw_chapter = {
             "title": chapter_title,
             "paragraphs": cleaned_paragraphs,
-            "sentences": sentences,
-            "word_count": sum(len(p.split()) for p in cleaned_paragraphs)
+            "sentences": [],
+            "word_count": 0
         }
+        return clean_chapter_data(raw_chapter)
 
     def fetch_chapter(self, chapter_url: str) -> Dict:
         """Downloads and processes a single chapter."""

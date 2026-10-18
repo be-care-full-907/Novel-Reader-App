@@ -22,6 +22,10 @@ if hasattr(sys.stdout, "reconfigure"):
         pass
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from novel_scraper import NovelScraper
+try:
+    from novel_cleaner import clean_chapter_data
+except ImportError:
+    from scripts.novel_cleaner import clean_chapter_data
 
 NOVEL_ID = "infinite-mana-in-the-apocalypse"
 ARCHIVE_AJAX_URL = f"https://novelping.com/ajax/chapter-archive?novelId={NOVEL_ID}"
@@ -140,7 +144,7 @@ def fetch_single_chapter_with_retry(scraper, novel_id: str, ch_num: int, ch_meta
                 ch_data = scraper.fetch_chapter(url)
                 paragraphs = ch_data.get('paragraphs', [])
                 if paragraphs and len(paragraphs) > 0:
-                    return {
+                    ch_payload = {
                         "chapter_index": ch_num,
                         "title": ch_data.get('title') or ch_meta.get('title') or f"Chapter {ch_num}",
                         "url": url,
@@ -148,6 +152,7 @@ def fetch_single_chapter_with_retry(scraper, novel_id: str, ch_num: int, ch_meta
                         "sentences": ch_data.get('sentences', []),
                         "word_count": ch_data.get('word_count', 0)
                     }
+                    return clean_chapter_data(ch_payload)
                 else:
                     print(f"  [Attempt {attempt+1}] Empty paragraphs for Ch. {ch_num} at {url}. Retrying...")
                     time.sleep(1.5)

@@ -932,29 +932,11 @@
           <div id="cloud-status-banner" style="display: none; padding: 12px 14px; border-radius: 8px; font-size: 0.82rem; margin-bottom: 14px; font-family: sans-serif; line-height: 1.4;"></div>
 
           <!-- On-Demand GitHub Action Runner Card -->
-          <div style="background: rgba(79, 70, 229, 0.07); border: 1px solid rgba(79, 70, 229, 0.25); border-radius: 12px; padding: 12px 14px; margin-bottom: 14px; font-family: sans-serif;">
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-              <strong style="font-size: 0.84rem; display: flex; align-items: center; gap: 6px;">
-                <span>⚡ On-Demand Cloud Runner</span>
-              </strong>
-              <span id="gh-token-status" style="font-size: 0.72rem; padding: 2px 8px; border-radius: 10px; background: rgba(100,100,100,0.18); font-weight: 600;">No Token</span>
-            </div>
-            <div style="font-size: 0.76rem; opacity: 0.8; line-height: 1.35; margin-bottom: 8px;">
-              Clicking <strong>Download</strong> on any un-scraped bundle will automatically launch your GitHub Action runner in the cloud, commit the chapters, and load them into your library!
-            </div>
-            <div style="display: flex; gap: 6px;">
-              <input type="password" id="github-token-input" class="styled-select" placeholder="Paste GitHub Token (ghp_... or gho_...)" style="flex: 1; font-size: 0.8rem; padding: 7px 10px;" />
-              <button id="toggle-token-visibility" class="secondary-btn" style="padding: 7px 10px; border-radius: 8px; font-size: 0.8rem; cursor: pointer;" title="Show/Hide">👁️</button>
-              <button id="save-token-btn" class="primary-btn" style="padding: 7px 14px; border-radius: 8px; font-size: 0.8rem; cursor: pointer;">Save</button>
-            </div>
-            <div id="token-save-msg" style="font-size: 0.72rem; margin-top: 5px; display: none;"></div>
-          </div>
-
           <!-- GitHub Target Repository -->
           <div class="control-row" style="margin-bottom: 10px;">
             <div class="control-label"><span>GitHub Target Repository (Owner/Repo)</span></div>
             <div style="display: flex; gap: 6px;">
-              <input type="text" id="github-repo-input" class="styled-select" value="leey3870-art/Novel-Reader-App" placeholder="leey3870-art/Novel-Reader-App" style="flex: 1; font-family: monospace; font-size: 0.8rem; padding: 7px 10px;" />
+              <input type="text" id="github-repo-input" class="styled-select" value="be-care-full-907/Novel-Reader-App" placeholder="be-care-full-907/Novel-Reader-App" style="flex: 1; font-family: monospace; font-size: 0.8rem; padding: 7px 10px;" />
               <button id="save-repo-btn" class="secondary-btn" style="padding: 7px 12px; border-radius: 8px; font-size: 0.8rem; cursor: pointer;">Save</button>
             </div>
             <div id="repo-save-msg" style="font-size: 0.72rem; margin-top: 5px; display: none;"></div>
@@ -962,7 +944,7 @@
 
           <div class="control-row">
             <div class="control-label"><span>GitHub Repository Data URL</span></div>
-            <input type="text" id="cloud-source-url" class="styled-select" value="https://raw.githubusercontent.com/leey3870-art/Novel-Reader-App/main/data/" placeholder="https://raw.githubusercontent.com/.../data/" />
+            <input type="text" id="cloud-source-url" class="styled-select" value="https://raw.githubusercontent.com/be-care-full-907/Novel-Reader-App/main/data/" placeholder="https://raw.githubusercontent.com/.../data/" />
           </div>
 
           <div id="bundles-list-container">
@@ -1477,14 +1459,7 @@
       renderCloudBundles();
     };
 
-    // GitHub Token Management for On-Demand Cloud Runner
-    const ghTokenInput = document.getElementById('github-token-input');
-    const ghTokenStatus = document.getElementById('gh-token-status');
-    const saveTokenBtn = document.getElementById('save-token-btn');
-    const toggleTokenBtn = document.getElementById('toggle-token-visibility');
-    const tokenSaveMsg = document.getElementById('token-save-msg');
-
-    // GitHub Target Repository and Token Management
+    // GitHub Target Repository Management
     const ghRepoInput = document.getElementById('github-repo-input');
     const saveRepoBtn = document.getElementById('save-repo-btn');
     const repoSaveMsg = document.getElementById('repo-save-msg');
@@ -1492,7 +1467,7 @@
     function getGitHubRepoOwnerRepo() {
       const saved = (localStorage.getItem('github_repo') || '').trim();
       if (saved && saved.includes('/')) return saved;
-      return 'leey3870-art/Novel-Reader-App';
+      return 'be-care-full-907/Novel-Reader-App';
     }
 
     if (ghRepoInput) {
@@ -1513,65 +1488,14 @@
           }
         } else {
           localStorage.removeItem('github_repo');
-          ghRepoInput.value = 'leey3870-art/Novel-Reader-App';
+          ghRepoInput.value = 'be-care-full-907/Novel-Reader-App';
           if (repoSaveMsg) {
             repoSaveMsg.style.display = 'block';
             repoSaveMsg.style.color = '#b45309';
-            repoSaveMsg.textContent = 'Reset to default: leey3870-art/Novel-Reader-App';
+            repoSaveMsg.textContent = 'Reset to default: be-care-full-907/Novel-Reader-App';
           }
         }
         setTimeout(() => { if (repoSaveMsg) repoSaveMsg.style.display = 'none'; }, 3000);
-      };
-    }
-
-    function updateTokenUI() {
-      const savedRepo = getGitHubRepoOwnerRepo();
-      if (ghRepoInput) ghRepoInput.value = savedRepo;
-      const savedToken = (localStorage.getItem('github_token') || '').trim();
-      if (savedToken) {
-        if (ghTokenInput) ghTokenInput.value = savedToken;
-        if (ghTokenStatus) {
-          ghTokenStatus.textContent = '🟢 Ready';
-          ghTokenStatus.style.background = 'rgba(16, 185, 129, 0.2)';
-          ghTokenStatus.style.color = '#059669';
-        }
-      } else {
-        if (ghTokenStatus) {
-          ghTokenStatus.textContent = 'No Token';
-          ghTokenStatus.style.background = 'rgba(100,100,100,0.18)';
-          ghTokenStatus.style.color = '';
-        }
-      }
-    }
-    updateTokenUI();
-
-    if (saveTokenBtn) {
-      saveTokenBtn.onclick = () => {
-        const val = (ghTokenInput.value || '').trim();
-        if (val) {
-          localStorage.setItem('github_token', val);
-          updateTokenUI();
-          if (tokenSaveMsg) {
-            tokenSaveMsg.style.display = 'block';
-            tokenSaveMsg.style.color = '#059669';
-            tokenSaveMsg.textContent = '✅ Token saved! One-click cloud runner is active.';
-          }
-        } else {
-          localStorage.removeItem('github_token');
-          updateTokenUI();
-          if (tokenSaveMsg) {
-            tokenSaveMsg.style.display = 'block';
-            tokenSaveMsg.style.color = '#b45309';
-            tokenSaveMsg.textContent = 'Token cleared.';
-          }
-        }
-        setTimeout(() => { if (tokenSaveMsg) tokenSaveMsg.style.display = 'none'; }, 3000);
-      };
-    }
-
-    if (toggleTokenBtn && ghTokenInput) {
-      toggleTokenBtn.onclick = () => {
-        ghTokenInput.type = ghTokenInput.type === 'password' ? 'text' : 'password';
       };
     }
 
@@ -2784,42 +2708,6 @@
       });
     }
 
-    async function triggerGitHubWorkflow(start, end, token) {
-      const repo = getGitHubRepoOwnerRepo();
-      const url = `https://api.github.com/repos/${repo}/actions/workflows/fetch_chapters.yml/dispatches`;
-      const payload = JSON.stringify({
-        ref: "main",
-        inputs: {
-          start_chapter: String(start),
-          end_chapter: String(end),
-          novel_id: String(activeNovelId)
-        }
-      });
-
-      if (hasAndroidTTS && window.AndroidTTS && window.AndroidTTS.postUrl) {
-        const res = window.AndroidTTS.postUrl(url, payload, `Bearer ${token}`);
-        if (res.startsWith("HTTP_ERROR:") || res.startsWith("EXCEPTION:")) {
-          throw new Error(res);
-        }
-        return res;
-      } else {
-        const res = await fetch(url, {
-          method: "POST",
-          headers: {
-            "Accept": "application/vnd.github+json",
-            "Authorization": `Bearer ${token}`,
-            "Content-Type": "application/json"
-          },
-          body: payload
-        });
-        if (!res.ok) {
-          const errText = await res.text();
-          throw new Error(`GitHub API HTTP ${res.status}: ${errText}`);
-        }
-        return "SUCCESS:204";
-      }
-    }
-
     async function pullBundle(start, end, btnEl) {
       if (btnEl) {
         btnEl.disabled = true;
@@ -2972,134 +2860,19 @@
         }
       }
 
-      // 4. Bundle is genuinely not yet generated on GitHub.
-      const ghToken = (localStorage.getItem('github_token') || '').trim();
-
-      if (!ghToken) {
-        updateBanner(
-          `⚠️ <strong>Chapters ${start}–${end} (${totalCount} ch) are not yet in the cloud repository for [${getActiveNovel().title}].</strong><br>` +
-          `To trigger the GitHub Action runner automatically from your phone, paste your GitHub Personal Access Token in the <strong>⚡ On-Demand Cloud Runner</strong> box above.<br>` +
-          `<span style="font-size:0.75rem; opacity:0.85;">Or run from PC terminal: <code>gh workflow run fetch_chapters.yml -f start_chapter=${start} -f end_chapter=${end} -f novel_id=${activeNovelId}</code></span>`,
-          'rgba(245, 158, 11, 0.15)',
-          '#b45309'
-        );
-        if (btnEl) {
-          btnEl.disabled = false;
-          btnEl.textContent = '⚡ Run Action';
-          btnEl.onclick = (e) => {
-            e.stopPropagation();
-            const inp = document.getElementById('github-token-input');
-            if (inp) {
-              inp.focus();
-              inp.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
-          };
-        }
-        return;
+      // 4. Bundle is genuinely not yet in the repository.
+      updateBanner(
+        `⚠️ <strong>Chapters ${start}–${end} (${totalCount} ch) are not yet in the repository for [${getActiveNovel().title}].</strong><br>` +
+        `To keep your GitHub account 100% safe from automated scraping bans, chapters are fetched locally on your PC.<br>` +
+        `<span style="font-size:0.75rem; opacity:0.9;">Run from your PC: <code>python scripts/bulk_novel_scraper.py --novels ${activeNovelId} --start ${start} --end ${end}</code></span>`,
+        'rgba(245, 158, 11, 0.15)',
+        '#b45309'
+      );
+      if (btnEl) {
+        btnEl.disabled = false;
+        btnEl.textContent = '📥 Local Scrape';
       }
-
-      // 5. Launch GitHub Action Runner in cloud for missing chapters
-      try {
-        updateBanner(`🚀 Dispatching GitHub Action runner for Chapters ${start}–${end}...`, 'rgba(79, 70, 229, 0.15)', 'var(--accent-color)');
-        if (btnEl) btnEl.textContent = '🚀 Launching...';
-
-        await triggerGitHubWorkflow(start, end, ghToken);
-
-        let elapsed = 0;
-        const maxWait = 240; // 4 minutes timeout
-
-        updateBanner(
-          `⏳ <strong>GitHub Action Runner Started!</strong><br>` +
-          `Scraping & committing Chapters ${start}–${end} for [${getActiveNovel().title}] in cloud...<br>` +
-          `<span style="font-size:0.75rem;">Elapsed: 0s (~45s expected) • Polling GitHub every 6s...</span>`,
-          'rgba(79, 70, 229, 0.15)',
-          'var(--accent-color)'
-        );
-
-        const pollTimer = setInterval(async () => {
-          elapsed += 6;
-          if (btnEl) btnEl.textContent = `⏳ ${elapsed}s...`;
-
-          updateBanner(
-            `⏳ <strong>GitHub Action Runner is Scraping in Cloud...</strong><br>` +
-            `Scraping & committing Chapters ${start}–${end}...<br>` +
-            `<span style="font-size:0.75rem;">Elapsed: ${elapsed}s (~45s expected) • Polling GitHub...</span>`,
-            'rgba(79, 70, 229, 0.15)',
-            'var(--accent-color)'
-          );
-
-          // Refresh cloud manifest during polling
-          await loadCloudManifest();
-
-          // Check if exact file or any overlapping chunk has appeared
-          const pollFetch = await fetchJsonFromRepo(exactFileName);
-          let gotData = false;
-          if (pollFetch.ok) {
-            try {
-              const data = JSON.parse(pollFetch.text);
-              if (data && data.chapters && data.chapters.length > 0) {
-                await integrateFetchedChapters(data.chapters, exactFileName, pollFetch.text);
-                gotData = true;
-              }
-            } catch(e) {}
-          } else {
-            // Check newly appeared overlapping chunks
-            const freshOverlaps = cloudManifestBundles.filter(b => b.start_chapter <= end && b.end_chapter >= start);
-            for (const mb of freshOverlaps) {
-              const chunkFetch = await fetchJsonFromRepo(mb.bundle_file);
-              if (chunkFetch.ok) {
-                try {
-                  const data = JSON.parse(chunkFetch.text);
-                  if (data && data.chapters && data.chapters.length > 0) {
-                    await integrateFetchedChapters(data.chapters, mb.bundle_file, chunkFetch.text);
-                    gotData = true;
-                  }
-                } catch(e) {}
-              }
-            }
-          }
-
-          if (gotData) {
-            clearInterval(pollTimer);
-            updateBanner(`✅ Success! Runner finished and imported chapters (${start}–${end}) into library!`, 'rgba(16, 185, 129, 0.15)', '#059669');
-            renderCloudBundles();
-            renderChaptersList();
-            renderNovelsCatalog();
-            if (btnEl) {
-              btnEl.disabled = false;
-              btnEl.textContent = '✅ Read';
-            }
-            return;
-          }
-
-          if (elapsed >= maxWait) {
-            clearInterval(pollTimer);
-            updateBanner(
-              `⚠️ Runner is taking longer than expected. Please check your GitHub Actions tab, or retry in a few moments.`,
-              'rgba(239, 68, 68, 0.15)',
-              '#dc2626'
-            );
-            if (btnEl) {
-              btnEl.disabled = false;
-              btnEl.textContent = 'Retry ⬇';
-            }
-          }
-        }, 6000);
-
-      } catch (err) {
-        console.error("Workflow trigger failure:", err);
-        updateBanner(
-          `❌ Failed to start GitHub Action runner.<br>` +
-          `<span style="font-size:0.75rem; opacity:0.85;">Details: ${err.message}<br>` +
-          `Please check that your GitHub Token has 'workflow' or 'repo' permission.</span>`,
-          'rgba(239, 68, 68, 0.15)',
-          '#dc2626'
-        );
-        if (btnEl) {
-          btnEl.disabled = false;
-          btnEl.textContent = 'Retry ⬇';
-        }
-      }
+      return;
     }
 
     // Custom Range Fetch Button
@@ -3314,6 +3087,9 @@
     }
 
     function createSentenceSpan(text, globalIdx) {
+      if (text) {
+        text = text.replace(/\\"/g, '"').replace(/\\'/g, "'").replace(/\\u003c/gi, '<').replace(/\\u003e/gi, '>').replace(/\\u0026/gi, '&').replace(/(\d+)\\(\d+)/g, '$1/$2').replace(/\\([a-zA-Z0-9_\-])/g, '$1').replace(/\\+\s*$/g, '').replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '');
+      }
       const span = document.createElement('span');
       span.className = 'sentence-span';
       span.dataset.idx = globalIdx;
@@ -3628,7 +3404,10 @@
         window.AndroidTTS.setKeepScreenOn(true);
       }
 
-      const text = sentences[idx].text;
+      let text = sentences[idx].text;
+      if (text) {
+        text = text.replace(/\\"/g, '"').replace(/\\'/g, "'").replace(/\\u003c/gi, '<').replace(/\\u003e/gi, '>').replace(/\\u0026/gi, '&').replace(/(\d+)\\(\d+)/g, '$1/$2').replace(/\\([a-zA-Z0-9_\-])/g, '$1').replace(/\\+\s*$/g, '').replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '');
+      }
 
       // Start word tracking if in word mode
       if (readingMode === 'word') {

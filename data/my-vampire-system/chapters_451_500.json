@@ -3463,7 +3463,7 @@
         "It seemed as if reputation points were a value that was associated with how Quinn was preserved within the tenth’s castle area. Judging by what the text had said, it was something only related to vampire leaders, and it looked like it would only be considered a factor when dealing with those within the tenth family themselves.",
         "\"If you ever did choose to become the leader of this place I think this will become quite important.\" The system said. \"Think about it, one would be able to order their people to search for beast crystals, gather credits, happy to pay taxes to their leader as long as they thought he was a great person.\"",
         "But Quinn had no desire to become the leader of the tenth family nor stay here, so he thought it was pretty useless for him.",
-        "As for the next system notification, it was something known as a title, but as Quinn reread the title, something about it seemed to rub him the wrong way. \"Edward’s little helper.�� If he could decline to have a title, this would be one of them.",
+        "As for the next system notification, it was something known as a title, but as Quinn reread the title, something about it seemed to rub him the wrong way. \"Edward’s little helper.... If he could decline to have a title, this would be one of them.",
         "It wasn’t menacing, it wasn’t fitting and it kind of made him feel a little useless.",
         "[A title can be switched at any point and time. Titles will often give users additional stats or have an effect on a user depending on what title that would be.]",
         "[Total amount of titles currently (1)]",
@@ -3764,215 +3764,220 @@
         {
           "id": 54,
           "paragraph_id": 19,
-          "text": "\"Edward’s little helper.�� If he could decline to have a title, this would be one of them."
+          "text": "\"Edward’s little helper...."
         },
         {
           "id": 55,
+          "paragraph_id": 19,
+          "text": "If he could decline to have a title, this would be one of them."
+        },
+        {
+          "id": 56,
           "paragraph_id": 20,
           "text": "It wasn’t menacing, it wasn’t fitting and it kind of made him feel a little useless."
         },
         {
-          "id": 56,
+          "id": 57,
           "paragraph_id": 21,
           "text": "[A title can be switched at any point and time."
         },
         {
-          "id": 57,
+          "id": 58,
           "paragraph_id": 21,
           "text": "Titles will often give users additional stats or have an effect on a user depending on what title that would be.]"
         },
         {
-          "id": 58,
+          "id": 59,
           "paragraph_id": 22,
           "text": "[Total amount of titles currently (1)]"
         },
         {
-          "id": 59,
+          "id": 60,
           "paragraph_id": 23,
           "text": "[Would you like to attach the title of \"Edward’s little helper.\"]"
         },
         {
-          "id": 60,
+          "id": 61,
           "paragraph_id": 24,
           "text": "[Edward’s little helper]"
         },
         {
-          "id": 61,
+          "id": 62,
           "paragraph_id": 25,
           "text": "[Title effect ]"
         },
         {
-          "id": 62,
+          "id": 63,
           "paragraph_id": 26,
           "text": "[When completing Quests assigned by Edward, the user will gain an additional 10 percent of exp.]"
         },
         {
-          "id": 63,
+          "id": 64,
           "paragraph_id": 27,
           "text": "The effect of the title didn’t seem completely useless, and just to see what type of thing would happen, Quinn decided to equip it for now."
         },
         {
-          "id": 64,
+          "id": 65,
           "paragraph_id": 27,
           "text": "He could always take it off and change it in the future anyway, so it didn’t seem to matter too much."
         },
         {
-          "id": 65,
+          "id": 66,
           "paragraph_id": 28,
           "text": "What this title did do though, was open up avenues for new things to be explored."
         },
         {
-          "id": 66,
+          "id": 67,
           "paragraph_id": 28,
           "text": "Maybe in the future, he would obtain a title that was more helpful for him in combat, as for what the requirements were to get certain titles, Quinn had no idea."
         },
         {
-          "id": 67,
+          "id": 68,
           "paragraph_id": 29,
           "text": "However, he knew from now on any quest that was given to him that had an unknown reward, he would most likely take and try to do."
         },
         {
-          "id": 68,
+          "id": 69,
           "paragraph_id": 29,
           "text": "It seemed like he always got interesting things from completing such quests."
         },
         {
-          "id": 69,
+          "id": 70,
           "paragraph_id": 30,
           "text": "\"Hey are you okay, you’ve been standing still for a while now?:\" Timmy asked, at first he didn’t want to interrupt, after seeing everything he was a little scared of Quinn."
         },
         {
-          "id": 70,
+          "id": 71,
           "paragraph_id": 30,
           "text": "Especially seeing that familiar that he controlled, but Quinn had been standing still for some time now, and Timmy just had to ask."
         },
         {
-          "id": 71,
+          "id": 72,
           "paragraph_id": 31,
           "text": "\"Yeah, I’m okay, sorry to keep you waiting."
         },
         {
-          "id": 72,
+          "id": 73,
           "paragraph_id": 31,
           "text": "Are we all done now?\" Quinn asked."
         },
         {
-          "id": 73,
+          "id": 74,
           "paragraph_id": 32,
           "text": "\"Yep, let’s head back to the tower and join the others.\" Timmy replied."
         },
         {
-          "id": 74,
+          "id": 75,
           "paragraph_id": 33,
           "text": "While Quinn and Timmy started to head back to the tower, Peter and Edward were taking a little break from training."
         },
         {
-          "id": 75,
+          "id": 76,
           "paragraph_id": 33,
           "text": "Peter had been continuously hurt and healing a little too much."
         },
         {
-          "id": 76,
+          "id": 77,
           "paragraph_id": 33,
           "text": "He had mentioned he was starting to get hungry."
         },
         {
-          "id": 77,
+          "id": 78,
           "paragraph_id": 34,
           "text": "This wasn’t unexpected, and the castle had what Peter needed to regain his strength."
         },
         {
-          "id": 78,
+          "id": 79,
           "paragraph_id": 34,
           "text": "After all, Peter wasn’t the only undead creature in the vampire world."
         },
         {
-          "id": 79,
+          "id": 80,
           "paragraph_id": 34,
           "text": "If he didn’t have the food required for such a task, Edward would have never even tried training in the first place."
         },
         {
-          "id": 80,
+          "id": 81,
           "paragraph_id": 35,
           "text": "As Edward made his way to a special storage room, he came back out with a small box in his hand."
         },
         {
-          "id": 81,
+          "id": 82,
           "paragraph_id": 35,
           "text": "Returning to Peter, he handed over the box to him, and Peter didn’t have to ask as he could guess what was in the box."
         },
         {
-          "id": 82,
+          "id": 83,
           "paragraph_id": 36,
           "text": "At first, Peter was a little afraid of opening the box at what he was about to see."
         },
         {
-          "id": 83,
+          "id": 84,
           "paragraph_id": 36,
           "text": "He had eaten human flesh many times before, but usually, it would be when he was starving."
         },
         {
-          "id": 84,
+          "id": 85,
           "paragraph_id": 36,
           "text": "He wasn’t starving now and only hungry so his mind was still all there and it just felt a little different."
         },
         {
-          "id": 85,
+          "id": 86,
           "paragraph_id": 37,
           "text": "Eventually, Peter gave in though, knowing that Edward and the others were just there to help and there was the chance he could possibly hurt a human close to him if he didn’t consume the food now and the last thing he wanted to do was hurt his friends."
         },
         {
-          "id": 86,
+          "id": 87,
           "paragraph_id": 38,
           "text": "After opening the box, inside was what looked like minced meat could be seen."
         },
         {
-          "id": 87,
+          "id": 88,
           "paragraph_id": 38,
           "text": "It didn’t resemble a human shape or objects at all."
         },
         {
-          "id": 88,
+          "id": 89,
           "paragraph_id": 38,
           "text": "As Peter picked it up, he could feel his body being drawn to the meat, and before he knew it, he was chomping down on it."
         },
         {
-          "id": 89,
+          "id": 90,
           "paragraph_id": 39,
           "text": "Knowing that his body hadn’t rejected such a thing, he knew exactly what it was."
         },
         {
-          "id": 90,
+          "id": 91,
           "paragraph_id": 40,
           "text": "While watching Peter rest, suddenly a message was heard in Edward’s head."
         },
         {
-          "id": 91,
+          "id": 92,
           "paragraph_id": 41,
           "text": "\"Edward Eno, this is an emergency."
         },
         {
-          "id": 92,
+          "id": 93,
           "paragraph_id": 41,
           "text": "You have been summoned to the main castle and have been asked to be present at the council meeting."
         },
         {
-          "id": 93,
+          "id": 94,
           "paragraph_id": 41,
           "text": "You must come here at once.\""
         },
         {
-          "id": 94,
+          "id": 95,
           "paragraph_id": 42,
           "text": "****"
         },
         {
-          "id": 95,
+          "id": 96,
           "paragraph_id": 43,
           "text": "For MVS artwork and updates follow on Instagram and Facebook: jksmanga"
         },
         {
-          "id": 96,
+          "id": 97,
           "paragraph_id": 44,
           "text": "If you want to support the creation of the Webtoon, you can on my P.A.T.R.E.O.N: jksmanga"
         }
@@ -6329,7 +6334,7 @@
         "\"I will be happy to, but I’m afraid I won’t be able to help you out much. I shall still do my best to aid you.\" The Dalki replied.",
         "\"That’s a good idea,\" Peter replied. \"There are a few things I need to update you on as well, Quinn.\"",
         "With that, the group decided to head inside. Still, there was one more thing that needed to be urgently agreed before they did anything else.",
-        "��Wait!\" Layla shouted as she stopped the group. \"We can’t just keep on referring to the Vorden look alike as \"Dalki\".\"",
+        "...Wait!\" Layla shouted as she stopped the group. \"We can’t just keep on referring to the Vorden look alike as \"Dalki\".\"",
         "\"I’m, Dalki?\" He said, pointing to himself.",
         "\"No, you’re not Dalki. Don’t worry, we will try to explain.\" Vorden said a little confused as to why he had never heard the word Dalki before. \"Do you have a name?\"",
         "\"A name.... A name I do not have. Why don’t you give me one brother.\" The Dalki asked.",
@@ -6856,7 +6861,7 @@
         {
           "id": 102,
           "paragraph_id": 47,
-          "text": "��Wait!\" Layla shouted as she stopped the group."
+          "text": "...Wait!\" Layla shouted as she stopped the group."
         },
         {
           "id": 103,
@@ -24162,7 +24167,7 @@
         "Now at least he knew they were safe. He could start thinking a little more clearly as well.",
         "\"Who would do that and why?\" Arthur asked. \"I understand if they were to attack those close to me, but to let them live? It was as if they were sending me some type of message.\"",
         "\"I have an idea,\" Eno replied. \"Many of the leaders weren’t happy with the fact that you would become a fourteenth member, and now I’m assuming even more so are unhappy with the decision that you had chosen to make me king. Instead of taking it out on me, who they see as a fellow brother. They decided to take it out on you, an outsider. Perhaps a warning to not meddle with our affairs.... I’m sorry about this, Arthur, it’s all my fault.\"",
-        "\"No... You gave me the option to save my people, and with your skills, you have saved them more than once. I must find out who did this though.��",
+        "\"No... You gave me the option to save my people, and with your skills, you have saved them more than once. I must find out who did this though....",
         "Eno, then went silent, as if there was something on his mind he wanted to say but he hadn’t said it yet, until finally, he had broken the silence.",
         "\"I think we can find out who did this.\" Said Eno. \"You might not like what I’m about to say, but you have to understand why I did it. I had a vampire stay in your castle. It has been here since the day I turned you. I was worried that something like this would have happened, so I sent him here to protect you. The truth is I already spoke to him and he told me who was the one who had come. If anything was to happen, he was meant to protect you and your people. The only thing was, I never expected a leader themselves to come.\"",
         "\"You’re saying, one of the leaders did this?\" Arthur replied as he clenched his fist. He wanted to return to the vampire settlement and drag whoever it was out of there.",
@@ -24456,7 +24461,7 @@
         {
           "id": 52,
           "paragraph_id": 22,
-          "text": "I must find out who did this though.��"
+          "text": "I must find out who did this though...."
         },
         {
           "id": 53,
