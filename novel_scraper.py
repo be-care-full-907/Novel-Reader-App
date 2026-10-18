@@ -51,9 +51,8 @@ class NovelScraper:
                     return response.read().decode("utf-8", errors="replace")
             except urllib.error.HTTPError as e:
                 if e.code == 429:
-                    wait_time = (attempt + 1) * 3
-                    print(f"  [Rate Limit 429] Waiting {wait_time}s before retry ({attempt+1}/{max_retries}) for {url}...")
-                    time.sleep(wait_time)
+                    # Raise immediately to let caller fall back to alternate mirror domain
+                    raise
                 elif attempt < max_retries - 1:
                     wait_time = (attempt + 1) * 2
                     print(f"  [HTTP {e.code}] Retrying in {wait_time}s ({attempt+1}/{max_retries}) for {url}...")

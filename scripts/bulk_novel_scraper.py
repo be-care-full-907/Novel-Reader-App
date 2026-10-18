@@ -59,6 +59,13 @@ except ImportError:
 
 # Known novels configuration
 KNOWN_NOVELS = {
+    "fourth-princes-debauchery": {
+        "id": "fourth-princes-debauchery",
+        "title": "Fourth Prince's Debauchery",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "fourth-princes-debauchery"),
+        "default_start": 351,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=fourth-princes-debauchery"
+    },
     "infinite-mana-in-the-apocalypse": {
         "id": "infinite-mana-in-the-apocalypse",
         "title": "Infinite Mana In The Apocalypse",
@@ -86,6 +93,55 @@ KNOWN_NOVELS = {
         "target_dir": os.path.join(PROJECT_ROOT, "data", "alchemy-emperor-of-the-divine-dao"),
         "default_start": 1,
         "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=alchemy-emperor-of-the-divine-dao"
+    },
+    "starting-with-an-sss-rank-goddess-summon": {
+        "id": "starting-with-an-sss-rank-goddess-summon",
+        "title": "Starting With An SSS-Rank Goddess Summon",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "starting-with-an-sss-rank-goddess-summon"),
+        "default_start": 638,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=starting-with-an-sss-rank-goddess-summon"
+    },
+    "6-times-a-day": {
+        "id": "6-times-a-day",
+        "title": "6 Times a Day",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "6-times-a-day"),
+        "default_start": 51,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=6-times-a-day"
+    },
+    "my-three-wives-are-beautiful-vampires-novel": {
+        "id": "my-three-wives-are-beautiful-vampires-novel",
+        "title": "My Three Wives Are Beautiful Vampires",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "my-three-wives-are-beautiful-vampires-novel"),
+        "default_start": 1161,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=my-three-wives-are-beautiful-vampires-novel"
+    },
+    "primordial-chaos-dragon-tower-harem-system": {
+        "id": "primordial-chaos-dragon-tower-harem-system",
+        "title": "Primordial Chaos Dragon Tower Harem System",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "primordial-chaos-dragon-tower-harem-system"),
+        "default_start": 1,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=primordial-chaos-dragon-tower-harem-system"
+    },
+    "my-taboo-harem": {
+        "id": "my-taboo-harem",
+        "title": "My Taboo Harem",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "my-taboo-harem"),
+        "default_start": 101,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=my-taboo-harem"
+    },
+    "dimensional-descent": {
+        "id": "dimensional-descent",
+        "title": "Dimensional Descent",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "dimensional-descent"),
+        "default_start": 51,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=dimensional-descent"
+    },
+    "raising-my-trash-ability-into-a-broken-sss-rank-skill": {
+        "id": "raising-my-trash-ability-into-a-broken-sss-rank-skill",
+        "title": "Raising My Trash Ability Into A Broken SSS-Rank Skill",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "raising-my-trash-ability-into-a-broken-sss-rank-skill"),
+        "default_start": 51,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=raising-my-trash-ability-into-a-broken-sss-rank-skill"
     }
 }
 
@@ -150,10 +206,18 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, refresh_cache: bool
             time.sleep(wait_time)
 
     KNOWN_ESTIMATES = {
-        "infinite-mana-in-the-apocalypse": 3150,
+        "fourth-princes-debauchery": 734,
+        "infinite-mana-in-the-apocalypse": 5873,
         "supreme-harem-god-system": 2410,
-        "my-vampire-system": 2528,
-        "alchemy-emperor-of-the-divine-dao": 4928
+        "my-vampire-system": 2545,
+        "alchemy-emperor-of-the-divine-dao": 4932,
+        "starting-with-an-sss-rank-goddess-summon": 684,
+        "6-times-a-day": 1364,
+        "my-three-wives-are-beautiful-vampires-novel": 1162,
+        "primordial-chaos-dragon-tower-harem-system": 1907,
+        "my-taboo-harem": 1373,
+        "dimensional-descent": 3294,
+        "raising-my-trash-ability-into-a-broken-sss-rank-skill": 888
     }
 
     if not html:
@@ -228,19 +292,14 @@ def is_bundle_complete(bundle_path: str, expected_count: int) -> bool:
 
 def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int, ch_meta: dict, max_retries: int = 5) -> dict:
     """Fetches a single chapter with retry backoff and URL fallbacks."""
-    candidate_urls = [
-        # Priority 1 & 2: FreeWebNovel (Ultra-fast ~0.5s response, no rate limits or Cloudflare blocking)
+    candidate_urls = []
+    if ch_meta and ch_meta.get("url"):
+        candidate_urls.append(ch_meta["url"])
+    candidate_urls.extend([
         f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}",
         f"https://freewebnovel.com/{novel_id}/chapter-{ch_num}.html",
-    ]
-    # Priority 3: NovelPing archive URL
-    if ch_meta and ch_meta.get("url"):
-        if ch_meta["url"] not in candidate_urls:
-            candidate_urls.append(ch_meta["url"])
-    # Priority 4: NovelPing fallback URL
-    fallback_url = f"https://novelping.com/book/{novel_id}/chapter-{ch_num}"
-    if fallback_url not in candidate_urls:
-        candidate_urls.append(fallback_url)
+        f"https://novelping.com/book/{novel_id}/chapter-{ch_num}"
+    ])
 
     last_error = None
     for url in candidate_urls:
@@ -262,14 +321,17 @@ def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int
                     time.sleep(1.0)
             except urllib.error.HTTPError as e:
                 last_error = e
-                if e.code in (502, 503, 504, 429):
-                    wait_time = attempt * 2 + random.uniform(0.5, 1.5)
+                if e.code == 429:
+                    # Switch immediately to next mirror without wasting time
+                    break
+                elif e.code in (502, 503, 504):
+                    wait_time = attempt * 1.5 + random.uniform(0.3, 0.8)
                     time.sleep(wait_time)
                 else:
-                    time.sleep(1.5)
+                    time.sleep(1.0)
             except Exception as e:
                 last_error = e
-                wait_time = attempt * 2 + random.uniform(0.5, 1.5)
+                wait_time = attempt * 1.5 + random.uniform(0.3, 0.8)
                 time.sleep(wait_time)
 
     raise RuntimeError(f"Ch. {ch_num} failed on all candidate URLs after {max_retries} attempts. Last error: {last_error}")
@@ -425,7 +487,7 @@ def scrape_novel_bundles(
                 # Submit worker
                 f = executor.submit(fetch_chapter_with_retries, scraper, novel_id, ch_num, ch_meta, 5)
                 future_to_num[f] = ch_num
-                time.sleep(0.35)  # polite stagger to prevent NovelPing server throttling
+                time.sleep(0.6)  # polite stagger to prevent FreeWebNovel/NovelPing rate-limits
 
             for future in as_completed(future_to_num):
                 ch_num = future_to_num[future]

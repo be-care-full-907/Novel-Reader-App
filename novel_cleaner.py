@@ -192,10 +192,15 @@ def is_ad_or_watermark_paragraph(text: str) -> bool:
 
     clean_p = text.strip().lower()
 
-    if len(clean_p) < 85 and re.search(r'https?://(?:www\.)?ko-fi\.com/\S+', clean_p):
+    if len(clean_p) < 160 and re.search(r'https?:\s*//(?:www\.)?ko-fi\.com/\S+|ko-fi\.com/\S+', clean_p):
         return True
 
-    if len(clean_p) < 120 and re.search(r'https?://(?:www\.)?discord(?:\.gg|app\.com/\S+)', clean_p):
+    # Catch discord links with or without http, spaced http: //, and common typos (discrod)
+    if len(clean_p) < 160 and re.search(r'(?:https?:\s*//)?(?:www\.)?disc[or]{2}d(?:\.gg|app\.com)/\S+|disc[or]{2}d\s*:\s*\S+', clean_p):
+        return True
+
+    # Catch patreon links or mentions with or without http
+    if len(clean_p) < 160 and re.search(r'(?:https?:\s*//)?(?:www\.)?p[4a]tre[0o]n(?:\.com)?/\S+|pa[-_ ]*tre[0o]n\s*:\s*\S+', clean_p):
         return True
 
     if 'jksmangafreewebnovel.com' in clean_p:
