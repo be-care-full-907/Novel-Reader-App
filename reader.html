@@ -1550,9 +1550,27 @@
 
     function getGitHubRepoOwnerRepo() {
       const saved = (localStorage.getItem('github_repo') || '').trim();
+      if (saved && (saved.includes('leey3870') || saved.includes('Gopal564'))) {
+        try {
+          localStorage.removeItem('github_repo');
+          localStorage.removeItem('github_token');
+        } catch (_) {}
+        return 'be-care-full-907/Novel-Reader-App';
+      }
       if (saved && saved.includes('/')) return saved;
       return 'be-care-full-907/Novel-Reader-App';
     }
+
+    // Auto-clean any stale token from suspended account
+    try {
+      const savedGhToken = localStorage.getItem('github_token') || '';
+      const savedGhRepo = localStorage.getItem('github_repo') || '';
+      if (savedGhRepo.includes('leey3870') || savedGhToken.includes('ghp_')) {
+        // Clear token so public CDN requests are never rejected with 404
+        localStorage.removeItem('github_token');
+        if (savedGhRepo.includes('leey3870')) localStorage.removeItem('github_repo');
+      }
+    } catch (_) {}
 
     if (ghRepoInput) {
       ghRepoInput.value = getGitHubRepoOwnerRepo();
@@ -2544,20 +2562,29 @@
       let cleanPath = (relativeFilePath || '').replace(/^\/+/, '');
 
       const candidates = [];
-      // Priority 1: Direct raw.githubusercontent.com (for public repos like leey3870-art, this works instantaneously without auth!)
+      // Priority 1: Direct public raw.githubusercontent.com WITHOUT any auth token!
+      // be-care-full-907 is a public repository; sending an expired or invalid token causes GitHub raw CDN to return 404!
       candidates.push({
         url: `https://raw.githubusercontent.com/${repo}/main/${cleanPath}?t=${Date.now()}`,
-        auth: tokenAuth || null
+        auth: null
       });
 
-      // Priority 2: GitHub Contents API (if token provided)
+      // Priority 1b: Fallback to be-care-full-907 default public repo if custom repo fails
+      if (repo !== 'be-care-full-907/Novel-Reader-App') {
+        candidates.push({
+          url: `https://raw.githubusercontent.com/be-care-full-907/Novel-Reader-App/main/${cleanPath}?t=${Date.now()}`,
+          auth: null
+        });
+      }
+
+      // Priority 2: With auth token (only for private repositories)
       if (rawToken) {
         candidates.push({
-          url: `https://api.github.com/repos/${repo}/contents/${cleanPath}?ref=main&t=${Date.now()}`,
-          auth: bearerAuth
+          url: `https://raw.githubusercontent.com/${repo}/main/${cleanPath}?t=${Date.now()}`,
+          auth: tokenAuth
         });
         candidates.push({
-          url: `https://raw.githubusercontent.com/${repo}/main/${cleanPath}?t=${Date.now()}`,
+          url: `https://api.github.com/repos/${repo}/contents/${cleanPath}?ref=main&t=${Date.now()}`,
           auth: bearerAuth
         });
       }
