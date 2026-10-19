@@ -178,5 +178,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 1127,
     "description": "Imported novel: Oh No After I Reincarnated My Moms Became Son Cons."
+  },
+  {
+    "id": "cheat-awakening",
+    "title": "Cheat Awakening",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/cheat-awakening.jpg",
+    "source_url": "https://freewebnovel.com/novel/cheat-awakening",
+    "data_path": "data/cheat-awakening/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 764,
+    "description": "Imported novel: Cheat Awakening."
   }
 ]

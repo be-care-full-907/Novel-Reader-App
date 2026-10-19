@@ -162,6 +162,14 @@ NOVELS_CATALOG = {
         "default_start": 1,
         "max_chapters": 1127,
         "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=oh-no-after-i-reincarnated-my-moms-became-son-cons"
+    },
+    "cheat-awakening": {
+        "id": "cheat-awakening",
+        "title": "Cheat Awakening",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "cheat-awakening"),
+        "default_start": 1,
+        "max_chapters": 764,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=cheat-awakening"
     }
 }
 
