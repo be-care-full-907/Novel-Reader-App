@@ -17,16 +17,19 @@ import org.json.JSONArray
 import org.json.JSONObject
 import java.util.Locale
 
-class TTSBridge(private val context: Context, private val webView: WebView) : TextToSpeech.OnInitListener {
+class TTSBridge(private val context: Context, private var webView: WebView) : TextToSpeech.OnInitListener {
     companion object {
         var activeBridgeInstance: TTSBridge? = null
     }
 
+    private val appContext = context.applicationContext
+    private var activityRef: java.lang.ref.WeakReference<Activity>? = (context as? Activity)?.let { java.lang.ref.WeakReference(it) }
     private var tts: TextToSpeech? = null
     private var isInitialized = false
     private var wakeLock: PowerManager.WakeLock? = null
     private val mainHandler = Handler(Looper.getMainLooper())
     private var sleepRunnable: Runnable? = null
+    private var chapterWatchdogRunnable: Runnable? = null
 
     // Native session state for unbreakable background audio playback
     private var activeSentences: List<String> = emptyList()
@@ -37,14 +40,26 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
     private var activeNovelId: String = ""
     private var isPlayingActive: Boolean = false
 
+    // Next chapter preloaded buffer for zero-delay background transitions
+    private var nextChapterSentences: List<String> = emptyList()
+    private var nextChapterIndex: Int = -1
+    private var nextChapterTitle: String = ""
+
     private val activity: Activity?
-        get() = context as? Activity
+        get() = activityRef?.get()
+
+    fun updateActivity(act: Activity?, wv: WebView) {
+        activityRef = act?.let { java.lang.ref.WeakReference(it) }
+        this.webView = wv
+    }
+
+    fun isPlaying(): Boolean = isPlayingActive
 
     init {
         activeBridgeInstance = this
-        tts = TextToSpeech(context, this)
+        tts = TextToSpeech(appContext, this)
         try {
-            val pm = context.getSystemService(Context.POWER_SERVICE) as? PowerManager
+            val pm = appContext.getSystemService(Context.POWER_SERVICE) as? PowerManager
             wakeLock = pm?.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK, "InfiniteReader:TTSWakeLock")
             wakeLock?.setReferenceCounted(false)
         } catch (e: Exception) {
@@ -85,7 +100,7 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
             tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
                 override fun onStart(utteranceId: String?) {
                     val id = utteranceId?.toIntOrNull() ?: 0
-                    webView.post {
+                    mainHandler.post {
                         webView.evaluateJavascript("window.onSpeechStart && window.onSpeechStart($id);", null)
                     }
                 }
@@ -94,47 +109,49 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
                     val id = utteranceId?.toIntOrNull() ?: 0
                     Log.d("TTSBridge", "Utterance onDone: $id (resumed=$isActivityResumed, total=${activeSentences.size})")
 
-                    if (isActivityResumed) {
-                        // Foreground mode: Chromium WebView is actively displaying the reader.
-                        // Post onSpeechDone to JavaScript; JS advances sentences or invokes onChapterComplete smoothly.
-                        webView.post {
-                            webView.evaluateJavascript("window.onSpeechDone && window.onSpeechDone($id);", null)
+                    if (!isPlayingActive) return
+
+                    val next = id + 1
+                    if (next < activeSentences.size) {
+                        Log.d("TTSBridge", "Advance to sentence $next/${activeSentences.size}")
+                        activeSentenceIndex = next
+                        val nextText = activeSentences[next]
+                        acquireWakeLock()
+                        TTSPlaybackService.update(
+                            appContext,
+                            activeNovelTitle.ifEmpty { "Infinite Reader" },
+                            "$activeChapterTitle • Sentence ${next + 1}/${activeSentences.size}",
+                            true
+                        )
+                        val params = Bundle()
+                        tts?.speak(nextText, TextToSpeech.QUEUE_FLUSH, params, next.toString())
+                        mainHandler.post {
+                            webView.evaluateJavascript("window.onSpeechSentenceAdvanced && window.onSpeechSentenceAdvanced($next);", null)
                         }
                     } else {
-                        // Background mode: User has switched apps or screen is turned off.
-                        // Advance natively so audio NEVER pauses or stutters.
-                        if (isPlayingActive) {
-                            val next = id + 1
-                            if (next < activeSentences.size) {
-                                Log.d("TTSBridge", "Native background advance to sentence $next")
-                                activeSentenceIndex = next
-                                val nextText = activeSentences[next]
-                                acquireWakeLock()
-                                TTSPlaybackService.update(
-                                    context,
-                                    activeNovelTitle.ifEmpty { "Infinite Reader" },
-                                    "$activeChapterTitle • Sentence ${next + 1}/${activeSentences.size}",
-                                    true
-                                )
-                                val params = Bundle()
-                                tts?.speak(nextText, TextToSpeech.QUEUE_FLUSH, params, next.toString())
-                                webView.post {
-                                    webView.evaluateJavascript("window.onSpeechSentenceAdvanced && window.onSpeechSentenceAdvanced($next);", null)
-                                }
-                            } else {
-                                Log.d("TTSBridge", "Native background reached end of chapter")
-                                // Chapter completed in background. Trigger JavaScript to load the next chapter ONCE.
-                                webView.post {
-                                    webView.evaluateJavascript("window.onChapterComplete && window.onChapterComplete();", null)
-                                }
+                        Log.d("TTSBridge", "Reached end of chapter $activeChapterIndex. Requesting next chapter...")
+                        // 1. Notify JavaScript to load next chapter
+                        mainHandler.post {
+                            webView.evaluateJavascript("window.onChapterComplete && window.onChapterComplete();", null)
+                        }
+
+                        // 2. Set watchdog timer: if WebView is frozen/throttled and doesn't load next chapter within 1500ms, advance natively!
+                        val expectedNext = activeChapterIndex + 1
+                        chapterWatchdogRunnable?.let { mainHandler.removeCallbacks(it) }
+                        val watchdog = Runnable {
+                            if (isPlayingActive && activeChapterIndex < expectedNext) {
+                                Log.w("TTSBridge", "Watchdog triggered: WebView delayed/frozen. Advancing natively to chapter $expectedNext!")
+                                advanceToNextChapterNatively()
                             }
                         }
+                        chapterWatchdogRunnable = watchdog
+                        mainHandler.postDelayed(watchdog, 1500L)
                     }
                 }
 
                 override fun onRangeStart(utteranceId: String?, start: Int, end: Int, frame: Int) {
                     val id = utteranceId?.toIntOrNull() ?: 0
-                    webView.post {
+                    mainHandler.post {
                         webView.evaluateJavascript("window.onWordBoundary && window.onWordBoundary($id, $start, $end);", null)
                     }
                 }
@@ -142,14 +159,14 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
                 @Deprecated("Deprecated in Java")
                 override fun onError(utteranceId: String?) {
                     val id = utteranceId?.toIntOrNull() ?: 0
-                    webView.post {
+                    mainHandler.post {
                         webView.evaluateJavascript("window.onSpeechDone && window.onSpeechDone($id);", null)
                     }
                 }
             })
 
             // Notify JavaScript that native voices are initialized and ready
-            webView.post {
+            mainHandler.post {
                 webView.evaluateJavascript("window.onVoicesLoaded && window.onVoicesLoaded();", null)
             }
         } else {
@@ -168,6 +185,10 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
         isPlayingNow: Boolean
     ) {
         try {
+            // Cancel watchdog timer since session has been successfully updated by webView
+            chapterWatchdogRunnable?.let { mainHandler.removeCallbacks(it) }
+            chapterWatchdogRunnable = null
+
             activeNovelId = novelId
             activeNovelTitle = novelTitle.ifEmpty { "Infinite Reader" }
             activeChapterIndex = chIndex
@@ -185,7 +206,7 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
 
             if (isPlayingNow) {
                 TTSPlaybackService.start(
-                    context,
+                    appContext,
                     activeNovelTitle,
                     "$activeChapterTitle • Sentence ${currentIdx + 1}/${activeSentences.size.coerceAtLeast(1)}"
                 )
@@ -193,6 +214,162 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
         } catch (e: Exception) {
             Log.e("TTSBridge", "Error updating playback session: ${e.message}")
         }
+    }
+
+    @JavascriptInterface
+    fun preloadNextChapter(chIndex: Int, chTitle: String, sentencesJson: String) {
+        try {
+            nextChapterIndex = chIndex
+            nextChapterTitle = chTitle.ifEmpty { "Chapter ${chIndex + 1}" }
+            val jsonArray = JSONArray(sentencesJson)
+            val list = ArrayList<String>(jsonArray.length())
+            for (i in 0 until jsonArray.length()) {
+                list.add(jsonArray.getString(i))
+            }
+            nextChapterSentences = list
+            Log.d("TTSBridge", "Preloaded next chapter $chIndex ($chTitle) with ${list.size} sentences")
+        } catch (e: Exception) {
+            Log.e("TTSBridge", "Error preloading next chapter: ${e.message}")
+        }
+    }
+
+    fun advanceToNextChapterNatively() {
+        mainHandler.post {
+            if (!isPlayingActive) return@post
+            chapterWatchdogRunnable?.let { mainHandler.removeCallbacks(it) }
+            chapterWatchdogRunnable = null
+
+            if (nextChapterIndex == activeChapterIndex + 1 && nextChapterSentences.isNotEmpty()) {
+                Log.d("TTSBridge", "Advancing natively using preloaded next chapter $nextChapterIndex ($nextChapterTitle)")
+                activeChapterIndex = nextChapterIndex
+                activeChapterTitle = nextChapterTitle
+                activeSentences = nextChapterSentences
+                activeSentenceIndex = 0
+
+                nextChapterSentences = emptyList()
+                nextChapterIndex = -1
+                nextChapterTitle = ""
+
+                acquireWakeLock()
+                TTSPlaybackService.update(
+                    appContext,
+                    activeNovelTitle.ifEmpty { "Infinite Reader" },
+                    "$activeChapterTitle • Sentence 1/${activeSentences.size.coerceAtLeast(1)}",
+                    true
+                )
+                val params = Bundle()
+                tts?.speak(activeSentences[0], TextToSpeech.QUEUE_FLUSH, params, "0")
+
+                webView.evaluateJavascript(
+                    "window.onNativeChapterAdvanced && window.onNativeChapterAdvanced($activeChapterIndex);",
+                    null
+                )
+            } else {
+                val nextChIdx = activeChapterIndex + 1
+                val loaded = loadChapterFromStorage(activeNovelId, nextChIdx)
+                if (loaded != null && loaded.sentences.isNotEmpty()) {
+                    Log.d("TTSBridge", "Advancing natively using storage chapter $nextChIdx (${loaded.title})")
+                    activeChapterIndex = nextChIdx
+                    activeChapterTitle = loaded.title
+                    activeSentences = loaded.sentences
+                    activeSentenceIndex = 0
+
+                    acquireWakeLock()
+                    TTSPlaybackService.update(
+                        appContext,
+                        activeNovelTitle.ifEmpty { "Infinite Reader" },
+                        "$activeChapterTitle • Sentence 1/${activeSentences.size.coerceAtLeast(1)}",
+                        true
+                    )
+                    val params = Bundle()
+                    tts?.speak(activeSentences[0], TextToSpeech.QUEUE_FLUSH, params, "0")
+
+                    webView.evaluateJavascript(
+                        "window.onNativeChapterAdvanced && window.onNativeChapterAdvanced($activeChapterIndex);",
+                        null
+                    )
+                } else {
+                    Log.d("TTSBridge", "No further chapters available natively for $activeNovelId at index $nextChIdx")
+                    stop()
+                }
+            }
+        }
+    }
+
+    private data class LoadedChapter(val title: String, val sentences: List<String>)
+
+    private fun loadChapterFromStorage(novelId: String, chIndex: Int): LoadedChapter? {
+        try {
+            val dir = getNovelBundlesDir(novelId)
+            val files = dir.listFiles { _, name -> name.endsWith(".json") }
+            files?.forEach { file ->
+                try {
+                    val jsonStr = file.readText(Charsets.UTF_8)
+                    val json = JSONObject(jsonStr)
+                    val chapters = json.optJSONArray("chapters") ?: json.optJSONArray("bundled_chapters")
+                    if (chapters != null) {
+                        for (i in 0 until chapters.length()) {
+                            val chObj = chapters.getJSONObject(i)
+                            val idx = chObj.optInt("chapter_index", -1)
+                            if (idx == chIndex || (idx == -1 && i == chIndex)) {
+                                val title = chObj.optString("title", "Chapter ${chIndex + 1}")
+                                val sList = ArrayList<String>()
+                                val sentArr = chObj.optJSONArray("sentences")
+                                if (sentArr != null && sentArr.length() > 0) {
+                                    for (s in 0 until sentArr.length()) {
+                                        val sObj = sentArr.getJSONObject(s)
+                                        val text = sObj.optString("text", "")
+                                        if (text.isNotBlank()) sList.add(text)
+                                    }
+                                } else {
+                                    val pArr = chObj.optJSONArray("paragraphs")
+                                    if (pArr != null) {
+                                        for (p in 0 until pArr.length()) {
+                                            val pText = pArr.getString(p)
+                                            val split = pText.split(Regex("(?<=[.!?…])\\s+"))
+                                            for (sp in split) {
+                                                if (sp.isNotBlank()) sList.add(sp.trim())
+                                            }
+                                        }
+                                    }
+                                }
+                                if (sList.isNotEmpty()) {
+                                    return LoadedChapter(title, sList)
+                                }
+                            }
+                        }
+                    }
+                } catch (_: Exception) {}
+            }
+
+            // Bundled assets fallback
+            val assetName = if (novelId == "infinite-mana-in-the-apocalypse") {
+                "novel_data.json"
+            } else {
+                "${novelId.replace('-', '_')}_data.json"
+            }
+            try {
+                val jsonStr = appContext.assets.open(assetName).bufferedReader().use { it.readText() }
+                val json = JSONObject(jsonStr)
+                val chapters = json.optJSONArray("bundled_chapters") ?: json.optJSONArray("chapters")
+                if (chapters != null && chIndex in 0 until chapters.length()) {
+                    val chObj = chapters.getJSONObject(chIndex)
+                    val title = chObj.optString("title", "Chapter ${chIndex + 1}")
+                    val sList = ArrayList<String>()
+                    val sentArr = chObj.optJSONArray("sentences")
+                    if (sentArr != null && sentArr.length() > 0) {
+                        for (s in 0 until sentArr.length()) {
+                            val text = sentArr.getJSONObject(s).optString("text", "")
+                            if (text.isNotBlank()) sList.add(text)
+                        }
+                    }
+                    if (sList.isNotEmpty()) return LoadedChapter(title, sList)
+                }
+            } catch (_: Exception) {}
+        } catch (e: Exception) {
+            Log.e("TTSBridge", "Error in loadChapterFromStorage: ${e.message}")
+        }
+        return null
     }
 
     @JavascriptInterface
@@ -238,7 +415,7 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
         activeSentenceIndex = sentenceId
         acquireWakeLock()
         TTSPlaybackService.start(
-            context,
+            appContext,
             activeNovelTitle.ifEmpty { "Infinite Reader" },
             "$activeChapterTitle • Sentence ${sentenceId + 1}/${activeSentences.size.coerceAtLeast(1)}"
         )
@@ -255,10 +432,12 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
     @JavascriptInterface
     fun stop() {
         isPlayingActive = false
+        chapterWatchdogRunnable?.let { mainHandler.removeCallbacks(it) }
+        chapterWatchdogRunnable = null
         tts?.stop()
         releaseWakeLock()
         setKeepScreenOn(false)
-        TTSPlaybackService.stop(context)
+        TTSPlaybackService.stop(appContext)
         mainHandler.post {
             sleepRunnable?.let { mainHandler.removeCallbacks(it) }
             sleepRunnable = null
@@ -283,7 +462,11 @@ class TTSBridge(private val context: Context, private val webView: WebView) : Te
 
     fun nextChapter() {
         mainHandler.post {
-            webView.evaluateJavascript("window.nextChapterFromNative && window.nextChapterFromNative();", null)
+            if (nextChapterIndex == activeChapterIndex + 1 && nextChapterSentences.isNotEmpty()) {
+                advanceToNextChapterNatively()
+            } else {
+                webView.evaluateJavascript("window.nextChapterFromNative && window.nextChapterFromNative();", null)
+            }
         }
     }
 

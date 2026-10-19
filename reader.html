@@ -3274,11 +3274,9 @@
       return span;
     }
 
-    let isTransitioningChapter = false;
     let lastChapterCompletedTime = 0;
 
     function renderChapter(chIndex, autoPlay = null) {
-      isTransitioningChapter = false;
       lastChapterCompletedTime = Date.now();
       const shouldContinue = (autoPlay !== null && autoPlay !== undefined) ? autoPlay : isPlaying;
 
@@ -3405,19 +3403,101 @@
         }
       }
 
+      // Preload next chapter sentences into native Kotlin bridge for unbreakable background playback
+      if (hasAndroidTTS && window.AndroidTTS.preloadNextChapter && novelBundle && Array.isArray(novelBundle.bundled_chapters)) {
+        const nextCh = novelBundle.bundled_chapters[chIndex + 1];
+        if (nextCh) {
+          const nextSentences = [];
+          if (nextCh.sentences && nextCh.sentences.length > 0) {
+            nextCh.sentences.forEach(s => { if (s && s.text) nextSentences.push(s.text); });
+          } else if (nextCh.paragraphs) {
+            nextCh.paragraphs.forEach(p => {
+              if (p) {
+                p.split(/(?<=[.!?…])\s+/).forEach(st => {
+                  if (st.trim()) nextSentences.push(st.trim());
+                });
+              }
+            });
+          }
+          if (nextSentences.length > 0) {
+            const nextDisplayTitle = getChapterDisplayName(nextCh);
+            try {
+              window.AndroidTTS.preloadNextChapter(chIndex + 1, nextDisplayTitle, JSON.stringify(nextSentences));
+            } catch (e) {
+              console.warn("Failed to preload next chapter to native:", e);
+            }
+          }
+        }
+      }
+
       if (shouldContinue) {
         speakSentence(0);
       }
     }
 
-    function onChapterComplete() {
-      const now = Date.now();
-      // Guard against duplicate / rapid calls (must be at least 1.5s apart and not already transitioning)
-      if (isTransitioningChapter || (now - lastChapterCompletedTime < 1500)) {
-        console.warn("Ignoring duplicate onChapterComplete call within 1.5s");
+    async function tryLoadNextBundleAndContinue(nextIdx) {
+      const curNovel = getActiveNovel();
+      const lastCh = novelBundle.bundled_chapters[novelBundle.bundled_chapters.length - 1];
+      const nextChNum = (lastCh && lastCh.chapter_index !== undefined ? lastCh.chapter_index : novelBundle.bundled_chapters.length) + 1;
+      const maxCh = curNovel.total_chapters || 3000;
+
+      if (nextChNum > maxCh) {
+        stopTTS();
+        ttsStatusText.textContent = "Novel complete";
         return;
       }
-      isTransitioningChapter = true;
+
+      // 1. Try loading from ChapterStore in case other bundles were already saved
+      try {
+        const extra = await ChapterStore.loadAllChapters(activeNovelId);
+        if (extra && extra.length > novelBundle.bundled_chapters.length) {
+          const map = new Map();
+          novelBundle.bundled_chapters.forEach(c => map.set(c.chapter_index, c));
+          extra.forEach(c => map.set(c.chapter_index, c));
+          novelBundle.bundled_chapters = Array.from(map.values()).sort((a,b) => a.chapter_index - b.chapter_index);
+          const foundIdx = novelBundle.bundled_chapters.findIndex(c => c.chapter_index === nextChNum);
+          if (foundIdx !== -1) {
+            renderChapter(foundIdx, true);
+            return;
+          }
+        }
+      } catch (_) {}
+
+      // 2. Auto-fetch next bundle from GitHub
+      const nextBundleStart = Math.floor((nextChNum - 1) / 50) * 50 + 1;
+      const nextBundleEnd = Math.min(nextBundleStart + 49, maxCh);
+      const fileName = `chapters_${nextBundleStart}_${nextBundleEnd}.json`;
+      let novelPath = curNovel.data_path || 'data/';
+      if (novelPath.startsWith('/')) novelPath = novelPath.substring(1);
+      if (!novelPath.endsWith('/')) novelPath += '/';
+
+      try {
+        const res = await fetchFromRepoWithAuth(`${novelPath}${fileName}`);
+        if (res.ok && res.text) {
+          const data = JSON.parse(res.text);
+          const chs = data.chapters || data.bundled_chapters || [];
+          if (chs.length > 0) {
+            await integrateFetchedChapters(chs, fileName, res.text);
+            const foundIdx = novelBundle.bundled_chapters.findIndex(c => c.chapter_index === nextChNum);
+            if (foundIdx !== -1) {
+              renderChapter(foundIdx, true);
+              return;
+            }
+          }
+        }
+      } catch (_) {}
+
+      stopTTS();
+      ttsStatusText.textContent = `Reached Chapter ${lastCh ? lastCh.chapter_index : 'end'}. Next bundle (Ch ${nextBundleStart}-${nextBundleEnd}) not downloaded.`;
+    }
+
+    async function onChapterComplete() {
+      const now = Date.now();
+      // Pure timestamp throttle: immune to background timer throttling when screen is off
+      if (now - lastChapterCompletedTime < 1000) {
+        console.warn("Ignoring rapid onChapterComplete call within 1s");
+        return;
+      }
       lastChapterCompletedTime = now;
 
       // Check Sleep Timer for "End of Chapter" mode
@@ -3425,7 +3505,6 @@
         stopTTS();
         ttsStatusText.textContent = "Sleep timer: reached end of chapter. Playback stopped.";
         setSleepTimer('off');
-        isTransitioningChapter = false;
         return;
       }
 
@@ -3435,14 +3514,13 @@
         ttsStatusText.textContent = "Loading next chapter...";
         // Advance immediately without setTimeout to prevent Android WebView background timer throttling when screen is off
         renderChapter(nextIdx, true);
+      } else if (autoChapterEnabled && novelBundle && novelBundle.bundled_chapters && novelBundle.bundled_chapters.length > 0) {
+        ttsStatusText.textContent = "Loading next bundle...";
+        await tryLoadNextBundleAndContinue(nextIdx);
       } else {
         stopTTS();
         ttsStatusText.textContent = hasNext ? "Chapter complete" : "Novel complete";
       }
-
-      setTimeout(() => {
-        isTransitioningChapter = false;
-      }, 500);
     }
 
     function clearActiveWord() {
@@ -3664,6 +3742,17 @@
     window.nextChapterFromNative = function() {
       if (novelBundle && novelBundle.bundled_chapters && currentChapterIndex < novelBundle.bundled_chapters.length - 1) {
         renderChapter(currentChapterIndex + 1, true);
+      }
+    };
+
+    // Callback from native Kotlin watchdog when background advancement moves to next chapter
+    window.onNativeChapterAdvanced = function(newChIndex) {
+      if (novelBundle && novelBundle.bundled_chapters && newChIndex >= 0 && newChIndex < novelBundle.bundled_chapters.length) {
+        currentChapterIndex = newChIndex;
+        // Render chapter DOM without restarting audio (autoPlay = false) since native TTS is ALREADY speaking sentence 0!
+        renderChapter(newChIndex, false);
+        isPlaying = true;
+        playBtnIcon.textContent = '⏸';
       }
     };
 

@@ -51,8 +51,19 @@ class MainActivity : ComponentActivity() {
                                 settings.useWideViewPort = true
                                 settings.loadWithOverviewMode = false
                                 settings.cacheMode = WebSettings.LOAD_DEFAULT
+                                settings.mediaPlaybackRequiresUserGesture = false
 
-                                val bridge = TTSBridge(this@MainActivity, this)
+                                if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+                                    setRendererPriorityPolicy(WebView.RENDERER_PRIORITY_IMPORTANT, false)
+                                }
+
+                                val existingBridge = TTSBridge.activeBridgeInstance
+                                val bridge = if (existingBridge != null) {
+                                    existingBridge.updateActivity(this@MainActivity, this)
+                                    existingBridge
+                                } else {
+                                    TTSBridge(this@MainActivity, this)
+                                }
                                 ttsBridge = bridge
                                 addJavascriptInterface(bridge, "AndroidTTS")
 
@@ -105,6 +116,9 @@ class MainActivity : ComponentActivity() {
 
     override fun onDestroy() {
         super.onDestroy()
-        ttsBridge?.shutdown()
+        // Do not shut down TTS if audio is actively playing in the background foreground service
+        if (ttsBridge?.isPlaying() != true) {
+            ttsBridge?.shutdown()
+        }
     }
 }

@@ -13,6 +13,8 @@ import android.os.IBinder
 import android.util.Log
 import androidx.core.app.NotificationCompat
 
+import android.os.PowerManager
+
 class TTSPlaybackService : Service() {
 
     companion object {
@@ -80,6 +82,35 @@ class TTSPlaybackService : Service() {
         }
     }
 
+    private var serviceWakeLock: PowerManager.WakeLock? = null
+
+    private fun acquireServiceWakeLock() {
+        try {
+            if (serviceWakeLock == null) {
+                val pm = getSystemService(Context.POWER_SERVICE) as? PowerManager
+                serviceWakeLock = pm?.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK, "InfiniteReader:ServiceWakeLock")
+                serviceWakeLock?.setReferenceCounted(false)
+            }
+            if (serviceWakeLock?.isHeld == false) {
+                serviceWakeLock?.acquire()
+                Log.d(TAG, "Service WakeLock acquired for continuous playback")
+            }
+        } catch (e: Exception) {
+            Log.e(TAG, "Error acquiring service wakeLock: ${e.message}")
+        }
+    }
+
+    private fun releaseServiceWakeLock() {
+        try {
+            if (serviceWakeLock?.isHeld == true) {
+                serviceWakeLock?.release()
+                Log.d(TAG, "Service WakeLock released")
+            }
+        } catch (e: Exception) {
+            Log.e(TAG, "Error releasing service wakeLock: ${e.message}")
+        }
+    }
+
     override fun onCreate() {
         super.onCreate()
         createNotificationChannel()
@@ -92,14 +123,21 @@ class TTSPlaybackService : Service() {
                 val subtitle = intent.getStringExtra(EXTRA_SUBTITLE) ?: "Playing"
                 val isPlaying = intent.getBooleanExtra(EXTRA_IS_PLAYING, true)
                 startInForeground(title, subtitle, isPlaying)
+                if (isPlaying) {
+                    acquireServiceWakeLock()
+                }
             }
             ACTION_UPDATE -> {
                 val title = intent.getStringExtra(EXTRA_TITLE) ?: "Infinite Reader"
                 val subtitle = intent.getStringExtra(EXTRA_SUBTITLE) ?: "Playing"
                 val isPlaying = intent.getBooleanExtra(EXTRA_IS_PLAYING, true)
                 updateNotification(title, subtitle, isPlaying)
+                if (isPlaying) {
+                    acquireServiceWakeLock()
+                }
             }
             ACTION_STOP -> {
+                releaseServiceWakeLock()
                 try {
                     stopForeground(STOP_FOREGROUND_REMOVE)
                 } catch (e: Exception) {
@@ -134,6 +172,7 @@ class TTSPlaybackService : Service() {
                 startForeground(NOTIFICATION_ID, notification)
             }
             isServiceRunning = true
+            acquireServiceWakeLock()
         } catch (e: Exception) {
             Log.e(TAG, "startForeground error: ${e.message}")
         }
@@ -217,6 +256,7 @@ class TTSPlaybackService : Service() {
     }
 
     override fun onDestroy() {
+        releaseServiceWakeLock()
         super.onDestroy()
         isServiceRunning = false
     }
