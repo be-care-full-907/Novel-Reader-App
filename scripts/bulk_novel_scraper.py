@@ -444,10 +444,26 @@ def update_manifest(output_dir: str, bundle_filename: str, start_ch: int, end_ch
 
 
 def git_commit_and_push(target_dir: str, commit_msg: str, max_retries: int = 5) -> bool:
-    """Stages target_dir, commits, rebases with origin main, and pushes to GitHub."""
+    """Stages target_dir, commits, rebases with origin main, and pushes to GitHub with conflict protection."""
     try:
-        # Check if there are changes
-        subprocess.run(["git", "add", target_dir], cwd=PROJECT_ROOT, check=True)
+        # 1. Clean up any lingering merge/rebase conflict states
+        merge_head = os.path.join(PROJECT_ROOT, ".git", "MERGE_HEAD")
+        rebase_apply = os.path.join(PROJECT_ROOT, ".git", "rebase-apply")
+        rebase_merge = os.path.join(PROJECT_ROOT, ".git", "rebase-merge")
+        if os.path.exists(merge_head):
+            subprocess.run(["git", "merge", "--abort"], cwd=PROJECT_ROOT, capture_output=True)
+        if os.path.exists(rebase_apply) or os.path.exists(rebase_merge):
+            subprocess.run(["git", "rebase", "--abort"], cwd=PROJECT_ROOT, capture_output=True)
+
+        # 2. Stage target directory and catalogs
+        add_files = [target_dir, "novels.json"]
+        asset_novels = os.path.join("android-app", "app", "src", "main", "assets", "novels.json")
+        if os.path.exists(os.path.join(PROJECT_ROOT, asset_novels)):
+            add_files.append(asset_novels)
+
+        subprocess.run(["git", "add"] + add_files, cwd=PROJECT_ROOT, capture_output=True, text=True)
+
+        # 3. Check if there are staged changes to commit
         diff_res = subprocess.run(["git", "diff", "--staged", "--quiet"], cwd=PROJECT_ROOT)
         if diff_res.returncode == 0:
             log("No changes to commit for git push.")
@@ -457,26 +473,24 @@ def git_commit_and_push(target_dir: str, commit_msg: str, max_retries: int = 5) 
         subprocess.run(["git", "commit", "-m", commit_msg], cwd=PROJECT_ROOT, check=True)
         log(f"Committed: '{commit_msg}'")
 
-        # Push with pull --rebase retry loop
+        # 4. Push with pull --rebase fallback (never interactive merge)
         for attempt in range(1, max_retries + 1):
-            log(f"Pulling with rebase and pushing to origin main (attempt {attempt}/{max_retries})...")
-            # 1. Pull rebase
-            pull_res = subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=PROJECT_ROOT)
-            if pull_res.returncode != 0:
-                subprocess.run(["git", "rebase", "--abort"], cwd=PROJECT_ROOT)
-                subprocess.run(["git", "pull", "--no-edit", "origin", "main"], cwd=PROJECT_ROOT)
-
-            # 2. Push
-            push_res = subprocess.run(["git", "push", "origin", "main"], cwd=PROJECT_ROOT)
+            push_res = subprocess.run(["git", "push", "origin", "main"], cwd=PROJECT_ROOT, capture_output=True, text=True)
             if push_res.returncode == 0:
                 log("Successfully pushed to GitHub main!")
                 return True
 
-            wait = attempt * 3
-            log(f"Push rejected or failed. Retrying in {wait}s...")
-            time.sleep(wait)
+            log(f"Push attempt {attempt} failed, pulling remote changes with rebase...")
+            pull_res = subprocess.run(["git", "pull", "--rebase", "--autostash", "-X", "ours", "origin", "main"], cwd=PROJECT_ROOT, capture_output=True, text=True)
+            if pull_res.returncode != 0:
+                # Always abort rebase so the working tree is NEVER left in a conflicted state
+                subprocess.run(["git", "rebase", "--abort"], cwd=PROJECT_ROOT, capture_output=True)
+                log("Notice: Remote rebase conflict avoided. Clean local data preserved.")
+                break
 
-        log("Warning: Git push failed after all retries.")
+            time.sleep(attempt * 2)
+
+        log("Notice: Local bundles saved cleanly. Push can be done manually via 'git push origin main'.")
         return False
     except Exception as e:
         log(f"Warning: git command error during push: {e}")

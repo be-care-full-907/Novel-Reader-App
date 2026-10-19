@@ -582,22 +582,53 @@ def update_manifest(output_dir: str, bundle_filename: str, start_ch: int, end_ch
 
 
 def git_commit_and_push(novel_id: str, bundle_file: str, s_ch: int, e_ch: int) -> bool:
-    """Commits and pushes scraped bundles to GitHub with retry."""
+    """Commits and pushes scraped bundles to GitHub with retry and conflict protection."""
     try:
-        add_cmd = ["git", "add", "data", "novels.json"]
-        subprocess.run(add_cmd, cwd=PROJECT_ROOT, capture_output=True, text=True)
+        # 1. Clean up any lingering merge/rebase conflict states
+        merge_head = os.path.join(PROJECT_ROOT, ".git", "MERGE_HEAD")
+        rebase_apply = os.path.join(PROJECT_ROOT, ".git", "rebase-apply")
+        rebase_merge = os.path.join(PROJECT_ROOT, ".git", "rebase-merge")
+        if os.path.exists(merge_head):
+            subprocess.run(["git", "merge", "--abort"], cwd=PROJECT_ROOT, capture_output=True)
+        if os.path.exists(rebase_apply) or os.path.exists(rebase_merge):
+            subprocess.run(["git", "rebase", "--abort"], cwd=PROJECT_ROOT, capture_output=True)
+
+        # 2. Stage specific novel data and catalog manifests
+        target_dir = os.path.join("data", novel_id)
+        add_files = [target_dir, "novels.json"]
+        asset_novels = os.path.join("android-app", "app", "src", "main", "assets", "novels.json")
+        if os.path.exists(os.path.join(PROJECT_ROOT, asset_novels)):
+            add_files.append(asset_novels)
+
+        subprocess.run(["git", "add"] + add_files, cwd=PROJECT_ROOT, capture_output=True, text=True)
+
+        # 3. Check if there are staged changes to commit
+        diff_res = subprocess.run(["git", "diff", "--staged", "--quiet"], cwd=PROJECT_ROOT)
+        if diff_res.returncode == 0:
+            log("No changes to commit for git push.")
+            return True
 
         commit_msg = f"Add & clean chapters {s_ch}-{e_ch} for {novel_id}"
         subprocess.run(["git", "commit", "-m", commit_msg], cwd=PROJECT_ROOT, capture_output=True, text=True)
 
+        # 4. Push with pull --rebase fallback (never interactive merge)
         for attempt in range(1, 4):
             push_res = subprocess.run(["git", "push", "origin", "main"], cwd=PROJECT_ROOT, capture_output=True, text=True)
             if push_res.returncode == 0:
-                log(f"Successfully pushed to GitHub origin/main!")
+                log("Successfully pushed to GitHub origin/main!")
                 return True
+
+            log(f"Push attempt {attempt} failed, pulling remote changes with rebase...")
+            pull_res = subprocess.run(["git", "pull", "--rebase", "--autostash", "-X", "ours", "origin", "main"], cwd=PROJECT_ROOT, capture_output=True, text=True)
+            if pull_res.returncode != 0:
+                # Always abort rebase so the working tree is NEVER left in a conflicted state
+                subprocess.run(["git", "rebase", "--abort"], cwd=PROJECT_ROOT, capture_output=True)
+                log("Notice: Remote rebase conflict avoided. Clean local data preserved.")
+                break
+
             time.sleep(attempt * 2)
 
-        log("Notice: Local bundles saved. Push can be done manually via 'git push origin main'.")
+        log("Notice: Local bundles saved cleanly. Push can be done manually via 'git push origin main'.")
         return False
     except Exception as e:
         log(f"Git push notice: {e}")
