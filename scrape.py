@@ -146,6 +146,22 @@ NOVELS_CATALOG = {
         "default_start": 1,
         "max_chapters": 107,
         "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=i-got-cheat-ability-in-a-different-world"
+    },
+    "tsuki-ga-michibiku-isekai-douchuu": {
+        "id": "tsuki-ga-michibiku-isekai-douchuu",
+        "title": "Tsuki Ga Michibiku Isekai Douchuu",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "tsuki-ga-michibiku-isekai-douchuu"),
+        "default_start": 1,
+        "max_chapters": 503,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=tsuki-ga-michibiku-isekai-douchuu"
+    },
+    "oh-no-after-i-reincarnated-my-moms-became-son-cons": {
+        "id": "oh-no-after-i-reincarnated-my-moms-became-son-cons",
+        "title": "Oh No After I Reincarnated My Moms Became Son Cons",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "oh-no-after-i-reincarnated-my-moms-became-son-cons"),
+        "default_start": 1,
+        "max_chapters": 1127,
+        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=oh-no-after-i-reincarnated-my-moms-became-son-cons"
     }
 }
 
@@ -225,12 +241,18 @@ def parse_novel_input(raw_input: str) -> Optional[dict]:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safari/537.36",
             "X-Requested-With": "XMLHttpRequest"
         })
-        with urllib.request.urlopen(req, timeout=10) as r:
+        with urllib.request.urlopen(req, timeout=12) as r:
             html = r.read().decode('utf-8', errors='ignore')
-            chs = re.findall(r'chapter[- ](\d+)', html, re.I)
-            if chs:
-                nums = [int(x) for x in chs]
-                est_chapters = max(nums)
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            valid_links = [a for a in soup.find_all("a") if a.get("href") and not a.get("href").startswith("#") and not a.get("href").startswith("javascript:")]
+            if valid_links:
+                est_chapters = len(valid_links)
+            else:
+                chs = re.findall(r'chapter[- ](\d+)', html, re.I)
+                if chs:
+                    nums = [int(x) for x in chs]
+                    est_chapters = max(nums)
     except Exception:
         pass
 
@@ -324,15 +346,33 @@ def get_local_novel_status(novel_id: str) -> Tuple[int, int, int]:
     return (len(ch_indices), min(ch_indices), max(ch_indices))
 
 
-def fetch_archive_with_retry(novel_id: str, target_dir: str) -> Dict[int, Dict]:
-    """Fetches chapter archive mapping."""
+def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool = False) -> Dict[int, Dict]:
+    """Fetches chapter archive mapping with full support for multi-book/volume novels and sequential TOC ordering."""
     cache_path = os.path.join(target_dir, "archive_cache.json")
-    if os.path.exists(cache_path):
+    if not force_refresh and os.path.exists(cache_path):
         try:
             with open(cache_path, "r", encoding="utf-8") as f:
                 cached = json.load(f)
             if cached and isinstance(cached, dict) and len(cached) > 0:
-                return {int(k): v for k, v in cached.items()}
+                # Sanity check: Ensure key '1' is not corrupted by a later book (e.g. Book 19/20)
+                item1 = cached.get("1") or cached.get(1)
+                is_corrupted = False
+                if item1 and isinstance(item1, dict):
+                    t1 = item1.get("title", "")
+                    m_b = re.search(r'\b(?:book|volume|vol)\s*(\d+)', t1, re.I)
+                    if m_b and int(m_b.group(1)) > 1:
+                        is_corrupted = True
+
+                # Sanity check: Check if cached chapter count is significantly smaller than catalog expectation
+                cat_info = NOVELS_CATALOG.get(novel_id, {})
+                expected_max = cat_info.get("max_chapters", 0)
+                if expected_max > 100 and len(cached) < expected_max * 0.6:
+                    is_corrupted = True
+
+                if not is_corrupted:
+                    return {int(k): v for k, v in cached.items()}
+                else:
+                    log(f"Cached archive for '{novel_id}' was corrupted or incomplete ({len(cached)} items vs expected ~{expected_max}); refreshing online archive...")
         except Exception:
             pass
 
@@ -358,7 +398,7 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str) -> Dict[int, Dict]:
             time.sleep(attempt * 2)
 
     if not html:
-        est = NOVELS_CATALOG[novel_id]["max_chapters"]
+        est = NOVELS_CATALOG.get(novel_id, {}).get("max_chapters", 2000)
         log(f"Archive endpoint busy; generating index (1 to {est}) with FreeWebNovel mirrors.")
         return {
             ch: {
@@ -370,31 +410,54 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str) -> Dict[int, Dict]:
         }
 
     soup = BeautifulSoup(html, "html.parser")
-    chapter_map = {}
+    raw_links = []
     for a in soup.find_all("a"):
-        href = a.get("href", "")
-        title_attr = a.get("title", "")
-        inner_text = " ".join(a.stripped_strings) or a.get_text(strip=True)
-        if not href:
+        href = a.get("href", "").strip()
+        if not href or href.startswith("#") or href.startswith("javascript:"):
             continue
+        title_attr = (a.get("title") or "").strip()
+        inner_text = " ".join(a.stripped_strings) or a.get_text(strip=True)
+        display_title = title_attr or inner_text
+        full_url = href if href.startswith("http") else f"https://novelping.com{href}"
 
-        m = re.search(r'chapter[- ](\d+)', title_attr, re.I)
-        display_title = title_attr
+        m = re.search(r'chapter[- ](\d+)', display_title, re.I)
         if not m:
-            m = re.search(r'chapter[- ](\d+)', inner_text, re.I)
-            display_title = inner_text or display_title
-        if not m:
-            m = re.search(r'chapter-(\d+)', href, re.I)
+            m = re.search(r'chapter[- ](\d+)', href, re.I)
+        parsed_num = int(m.group(1)) if m else None
 
-        if m:
-            ch_num = int(m.group(1))
-            full_url = href if href.startswith("http") else f"https://novelping.com{href}"
-            if ch_num not in chapter_map or title_attr:
-                chapter_map[ch_num] = {
-                    "chapter_number": ch_num,
-                    "title": display_title or f"Chapter {ch_num}",
-                    "url": full_url
-                }
+        raw_links.append({
+            "url": full_url,
+            "title": display_title,
+            "parsed_num": parsed_num
+        })
+
+    total_links = len(raw_links)
+    parsed_nums = [item["parsed_num"] for item in raw_links if item["parsed_num"] is not None]
+    has_duplicates = len(parsed_nums) != len(set(parsed_nums))
+    has_multi_book = any(re.search(r'\b(?:book|volume|vol)\s*\d+', item["title"], re.I) for item in raw_links)
+    max_parsed = max(parsed_nums) if parsed_nums else 0
+    collapsed_count = max_parsed > 0 and max_parsed < total_links * 0.75
+
+    use_sequential_toc = has_duplicates or has_multi_book or collapsed_count
+
+    chapter_map = {}
+    if use_sequential_toc:
+        log(f"Multi-book/volume or duplicate chapters detected for '{novel_id}'. Using sequential Table-of-Contents indexing (1 to {total_links}).")
+        for idx, item in enumerate(raw_links):
+            seq_idx = idx + 1
+            chapter_map[seq_idx] = {
+                "chapter_number": seq_idx,
+                "title": item["title"] or f"Chapter {seq_idx}",
+                "url": item["url"]
+            }
+    else:
+        for idx, item in enumerate(raw_links):
+            ch_num = item["parsed_num"] if item["parsed_num"] is not None else (idx + 1)
+            chapter_map[ch_num] = {
+                "chapter_number": ch_num,
+                "title": item["title"] or f"Chapter {ch_num}",
+                "url": item["url"]
+            }
 
     try:
         os.makedirs(target_dir, exist_ok=True)
@@ -411,22 +474,37 @@ def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int
     candidate_urls = []
     if ch_meta and ch_meta.get("url"):
         candidate_urls.append(ch_meta["url"])
+        slug_part = ch_meta["url"].rstrip("/").split("/")[-1].rstrip(".html")
+        if slug_part:
+            candidate_urls.append(f"https://novelping.com/book/{novel_id}/{slug_part}")
+            candidate_urls.append(f"https://freewebnovel.com/novel/{novel_id}/{slug_part}")
     candidate_urls.extend([
         f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}",
         f"https://freewebnovel.com/{novel_id}/chapter-{ch_num}.html",
         f"https://novelping.com/book/{novel_id}/chapter-{ch_num}"
     ])
 
+    seen = set()
+    unique_candidates = [u for u in candidate_urls if not (u in seen or seen.add(u))]
+
     last_error = None
-    for url in candidate_urls:
+    for url in unique_candidates:
         for attempt in range(1, max_retries + 1):
             try:
                 ch_data = scraper.fetch_chapter(url)
                 paragraphs = ch_data.get("paragraphs", [])
                 if paragraphs and len(paragraphs) > 0:
+                    meta_title = ch_meta.get("title") if ch_meta else ""
+                    page_title = ch_data.get("title") or ""
+                    # Preserve book/volume titles from TOC
+                    if meta_title and re.search(r'\b(?:book|volume|vol)\s*\d+', meta_title, re.I):
+                        final_title = meta_title
+                    else:
+                        final_title = page_title or meta_title or f"Chapter {ch_num}"
+
                     ch_payload = {
                         "chapter_index": ch_num,
-                        "title": ch_data.get("title") or (ch_meta.get("title") if ch_meta else f"Chapter {ch_num}"),
+                        "title": final_title,
                         "url": url,
                         "paragraphs": paragraphs,
                         "sentences": ch_data.get("sentences", []),

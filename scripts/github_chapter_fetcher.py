@@ -81,33 +81,54 @@ def fetch_all_chapter_links(novel_id: str = "infinite-mana-in-the-apocalypse", t
         return {}
 
     soup = BeautifulSoup(html, "html.parser")
-    links = soup.find_all("a")
-    
-    chapter_map = {}
-    for a in links:
-        href = a.get("href", "")
-        title_attr = a.get("title", "")
-        inner_text = " ".join(a.stripped_strings) or a.get_text(strip=True)
-        if not href:
+    raw_links = []
+    for a in soup.find_all("a"):
+        href = a.get("href", "").strip()
+        if not href or href.startswith("#") or href.startswith("javascript:"):
             continue
-        
-        m = re.search(r'chapter[- ](\d+)', title_attr, re.I)
-        display_title = title_attr
+        title_attr = (a.get("title") or "").strip()
+        inner_text = " ".join(a.stripped_strings) or a.get_text(strip=True)
+        display_title = title_attr or inner_text
+        full_url = href if href.startswith("http") else f"https://novelping.com{href}"
+
+        m = re.search(r'chapter[- ](\d+)', display_title, re.I)
         if not m:
-            m = re.search(r'chapter[- ](\d+)', inner_text, re.I)
-            display_title = inner_text or display_title
-        if not m:
-            m = re.search(r'chapter-(\d+)', href, re.I)
-            
-        if m:
-            ch_num = int(m.group(1))
-            full_url = href if href.startswith("http") else f"https://novelping.com{href}"
-            if ch_num not in chapter_map or title_attr:
-                chapter_map[ch_num] = {
-                    "chapter_number": ch_num,
-                    "title": display_title or f"Chapter {ch_num}",
-                    "url": full_url
-                }
+            m = re.search(r'chapter[- ](\d+)', href, re.I)
+        parsed_num = int(m.group(1)) if m else None
+
+        raw_links.append({
+            "url": full_url,
+            "title": display_title,
+            "parsed_num": parsed_num
+        })
+
+    total_links = len(raw_links)
+    parsed_nums = [item["parsed_num"] for item in raw_links if item["parsed_num"] is not None]
+    has_duplicates = len(parsed_nums) != len(set(parsed_nums))
+    has_multi_book = any(re.search(r'\b(?:book|volume|vol)\s*\d+', item["title"], re.I) for item in raw_links)
+    max_parsed = max(parsed_nums) if parsed_nums else 0
+    collapsed_count = max_parsed > 0 and max_parsed < total_links * 0.75
+
+    use_sequential_toc = has_duplicates or has_multi_book or collapsed_count
+
+    chapter_map = {}
+    if use_sequential_toc:
+        print(f"Multi-book/volume or duplicate chapters detected for '{novel_id}'. Using sequential Table-of-Contents indexing (1 to {total_links}).")
+        for idx, item in enumerate(raw_links):
+            seq_idx = idx + 1
+            chapter_map[seq_idx] = {
+                "chapter_number": seq_idx,
+                "title": item["title"] or f"Chapter {seq_idx}",
+                "url": item["url"]
+            }
+    else:
+        for idx, item in enumerate(raw_links):
+            ch_num = item["parsed_num"] if item["parsed_num"] is not None else (idx + 1)
+            chapter_map[ch_num] = {
+                "chapter_number": ch_num,
+                "title": item["title"] or f"Chapter {ch_num}",
+                "url": item["url"]
+            }
 
     print(f"Discovered {len(chapter_map)} unique chapters in archive.")
 
