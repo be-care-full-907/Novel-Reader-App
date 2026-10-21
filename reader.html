@@ -1835,7 +1835,8 @@
                       .replace(/(\d+)\\(\d+)/g, '$1/$2')
                       .replace(/\\([a-zA-Z0-9_\-])/g, '$1')
                       .replace(/\\+\s*$/g, '')
-                      .replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '');
+                      .replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '')
+                      .replace(/\+{6,}%?/g, '*****');
             }).filter(p => p && !p.toLowerCase().includes('discord.gg/') && !p.toLowerCase().includes('patreon.com/aidnovel'));
           }
           if (c.sentences && Array.isArray(c.sentences)) {
@@ -1849,7 +1850,8 @@
                                .replace(/(\d+)\\(\d+)/g, '$1/$2')
                                .replace(/\\([a-zA-Z0-9_\-])/g, '$1')
                                .replace(/\\+\s*$/g, '')
-                               .replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '');
+                               .replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '')
+                      .replace(/\+{6,}%?/g, '*****');
               }
             });
           }
@@ -3269,7 +3271,8 @@
 
     function createSentenceSpan(text, globalIdx) {
       if (text) {
-        text = text.replace(/\\"/g, '"').replace(/\\'/g, "'").replace(/\\u003c/gi, '<').replace(/\\u003e/gi, '>').replace(/\\u0026/gi, '&').replace(/(\d+)\\(\d+)/g, '$1/$2').replace(/\\([a-zA-Z0-9_\-])/g, '$1').replace(/\\+\s*$/g, '').replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '');
+        text = text.replace(/\\"/g, '"').replace(/\\'/g, "'").replace(/\\u003c/gi, '<').replace(/\\u003e/gi, '>').replace(/\\u0026/gi, '&').replace(/(\d+)\\(\d+)/g, '$1/$2').replace(/\\([a-zA-Z0-9_\-])/g, '$1').replace(/\\+\s*$/g, '').replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '')
+                   .replace(/\+{6,}%?/g, '*****');
       }
       const span = document.createElement('span');
       span.className = 'sentence-span';
@@ -3665,7 +3668,8 @@
 
       let text = sentences[idx].text;
       if (text) {
-        text = text.replace(/\\"/g, '"').replace(/\\'/g, "'").replace(/\\u003c/gi, '<').replace(/\\u003e/gi, '>').replace(/\\u0026/gi, '&').replace(/(\d+)\\(\d+)/g, '$1/$2').replace(/\\([a-zA-Z0-9_\-])/g, '$1').replace(/\\+\s*$/g, '').replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '');
+        text = text.replace(/\\"/g, '"').replace(/\\'/g, "'").replace(/\\u003c/gi, '<').replace(/\\u003e/gi, '>').replace(/\\u0026/gi, '&').replace(/(\d+)\\(\d+)/g, '$1/$2').replace(/\\([a-zA-Z0-9_\-])/g, '$1').replace(/\\+\s*$/g, '').replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '')
+                   .replace(/\+{6,}%?/g, '*****');
       }
 
       // Start word tracking if in word mode

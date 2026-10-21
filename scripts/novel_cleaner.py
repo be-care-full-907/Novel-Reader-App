@@ -182,6 +182,10 @@ def clean_paragraph_text(text: str) -> str:
     text = re.sub(r'[\r\t\u00a0\u200b\u200e\u200f\ufeff]+', ' ', text)
     text = re.sub(r' {2,}', ' ', text)
 
+    # 11. Replace runs of more than 5 plus signs (e.g. ++++++++++++ or ++++++%) used as status borders/dividers
+    # with asterisks (*****) so TTS engines do not vocalize "plus plus plus..."
+    text = re.sub(r'\+{6,}%?', '*****', text)
+
     return text.strip()
 
 

@@ -126,6 +126,10 @@ def clean_paragraph_text(text: str) -> str:
     text = re.sub(r'[\r\t\u00a0\u200b\u200e\u200f\ufeff]+', ' ', text)
     text = re.sub(r' {2,}', ' ', text)
 
+    # 11. Replace runs of more than 5 plus signs (e.g. ++++++++++++ or ++++++%) used as status borders/dividers
+    # with asterisks (*****) so TTS engines do not vocalize "plus plus plus..."
+    text = re.sub(r'\+{6,}%?', '*****', text)
+
     return text.strip()
 
 
@@ -202,7 +206,14 @@ if __name__ == "__main__":
         '“It looks like I won’t be able to leave any time soon. Help me tell my friends that they can leave first and not worry about me,” Ling Han said.freewebnovel.com',
         '"... To open the door, two hearts must be connected." Lena read the line on the door. "What does it mean?" She tilted her head.freewebnovel.com',
         '[75\\95 HP]',
-        'trailing backslash test\\'
+        'trailing backslash test\\',
+        '++++++++++++++++',
+        '++++++++++++',
+        '++++++%',
+        'Strength +1',
+        'Luck value + Divine Sin Wheel',
+        'Evolution Progress: 100%',
+        '+50%'
     ]
 
     for s in samples:
