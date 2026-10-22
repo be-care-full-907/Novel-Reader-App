@@ -190,5 +190,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 764,
     "description": "Imported novel: Cheat Awakening."
+  },
+  {
+    "id": "primordial-villain-with-a-slave-harem",
+    "title": "Primordial Villain With A Slave Harem",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/primordial-villain-with-a-slave-harem.jpg",
+    "source_url": "https://novelping.com/book/primordial-villain-with-a-slave-harem",
+    "data_path": "data/primordial-villain-with-a-slave-harem/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Primordial Villain With A Slave Harem."
   }
 ]
