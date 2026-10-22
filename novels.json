@@ -202,5 +202,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2000,
     "description": "Imported novel: Primordial Villain With A Slave Harem."
+  },
+  {
+    "id": "reincarnated-with-the-strongest-system",
+    "title": "Reincarnated With The Strongest System",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/reincarnated-with-the-strongest-system.jpg",
+    "source_url": "https://novelping.com/book/reincarnated-with-the-strongest-system",
+    "data_path": "data/reincarnated-with-the-strongest-system/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Reincarnated With The Strongest System."
   }
 ]
