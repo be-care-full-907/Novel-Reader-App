@@ -238,5 +238,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 1927,
     "description": "Imported novel: Zhang Fei The Abandoned Son."
+  },
+  {
+    "id": "illicit-relationship",
+    "title": "Illicit Relationship",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/illicit-relationship.jpg",
+    "source_url": "https://freewebnovel.com/novel/illicit-relationship",
+    "data_path": "data/illicit-relationship/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Illicit Relationship."
   }
 ]
