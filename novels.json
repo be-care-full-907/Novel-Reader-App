@@ -226,5 +226,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 1283,
     "description": "Imported novel: Milf Hunter Seducing And Taming Beauties."
+  },
+  {
+    "id": "zhang-fei-the-abandoned-son",
+    "title": "Zhang Fei The Abandoned Son",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/zhang-fei-the-abandoned-son.jpg",
+    "source_url": "https://freewebnovel.com/novel/zhang-fei-the-abandoned-son",
+    "data_path": "data/zhang-fei-the-abandoned-son/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 1927,
+    "description": "Imported novel: Zhang Fei The Abandoned Son."
   }
 ]
