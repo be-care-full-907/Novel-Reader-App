@@ -24,6 +24,8 @@ import subprocess
 import argparse
 import urllib.request
 import urllib.error
+import math
+from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Dict, List, Tuple, Optional
 
@@ -169,7 +171,15 @@ NOVELS_CATALOG = {
         "target_dir": os.path.join(PROJECT_ROOT, "data", "cheat-awakening"),
         "default_start": 1,
         "max_chapters": 764,
-        "archive_url": "https://novelping.com/ajax/chapter-archive?novelId=cheat-awakening"
+        "archive_url": "https://freewebnovel.com/novel/cheat-awakening"
+    },
+    "illicit-relationship": {
+        "id": "illicit-relationship",
+        "title": "Illicit Relationship",
+        "target_dir": os.path.join(PROJECT_ROOT, "data", "illicit-relationship"),
+        "default_start": 1,
+        "max_chapters": 1792,
+        "archive_url": "https://freewebnovel.com/novel/illicit-relationship"
     }
 }
 
@@ -241,28 +251,43 @@ def parse_novel_input(raw_input: str) -> Optional[dict]:
 
     title = slug.replace('-', ' ').title()
 
-    # Query archive to get true online chapter count
+    # Query archive to get true online chapter count (FreeWebNovel first, then NovelPing)
     est_chapters = 2000
     try:
-        archive_url = f"https://novelping.com/ajax/chapter-archive?novelId={slug}"
-        req = urllib.request.Request(archive_url, headers={
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safari/537.36",
-            "X-Requested-With": "XMLHttpRequest"
+        fwn_url = f"https://freewebnovel.com/novel/{slug}"
+        req = urllib.request.Request(fwn_url, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
         })
         with urllib.request.urlopen(req, timeout=12) as r:
-            html = r.read().decode('utf-8', errors='ignore')
-            from bs4 import BeautifulSoup
-            soup = BeautifulSoup(html, "html.parser")
-            valid_links = [a for a in soup.find_all("a") if a.get("href") and not a.get("href").startswith("#") and not a.get("href").startswith("javascript:")]
-            if valid_links:
-                est_chapters = len(valid_links)
-            else:
-                chs = re.findall(r'chapter[- ](\d+)', html, re.I)
-                if chs:
-                    nums = [int(x) for x in chs]
-                    est_chapters = max(nums)
+            fwn_html = r.read().decode('utf-8', errors='ignore')
+        fwn_soup = BeautifulSoup(fwn_html, "html.parser")
+        root = fwn_soup.find(id="indexListPage")
+        if root and int(root.get("data-total-chapters") or 0) > 0:
+            est_chapters = int(root["data-total-chapters"])
     except Exception:
         pass
+
+    if est_chapters == 2000:
+        try:
+            archive_url = f"https://novelping.com/ajax/chapter-archive?novelId={slug}"
+            req = urllib.request.Request(archive_url, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safari/537.36",
+                "X-Requested-With": "XMLHttpRequest"
+            })
+            with urllib.request.urlopen(req, timeout=12) as r:
+                html = r.read().decode('utf-8', errors='ignore')
+                soup = BeautifulSoup(html, "html.parser")
+                valid_links = [a for a in soup.find_all("a") if a.get("href") and not a.get("href").startswith("#") and not a.get("href").startswith("javascript:")]
+                if valid_links:
+                    est_chapters = len(valid_links)
+                else:
+                    chs = re.findall(r'chapter[- ](\d+)', html, re.I)
+                    if chs:
+                        nums = [int(x) for x in chs]
+                        est_chapters = max(nums)
+        except Exception:
+            pass
 
     return {
         "id": slug,
@@ -354,38 +379,124 @@ def get_local_novel_status(novel_id: str) -> Tuple[int, int, int]:
     return (len(ch_indices), min(ch_indices), max(ch_indices))
 
 
-def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool = False) -> Dict[int, Dict]:
-    """Fetches chapter archive mapping with full support for multi-book/volume novels and sequential TOC ordering."""
-    cache_path = os.path.join(target_dir, "archive_cache.json")
-    if not force_refresh and os.path.exists(cache_path):
+def fetch_freewebnovel_archive(novel_id: str) -> Dict[int, Dict]:
+    """
+    Fetches complete chapter archive mapping directly from FreeWebNovel via its official AJAX endpoint.
+    Returns: Dict[int, Dict] mapping chapter_number -> {chapter_number, title, url}.
+    """
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+    main_url = f"https://freewebnovel.com/novel/{novel_id}"
+    log(f"Querying FreeWebNovel index for '{novel_id}': {main_url}...")
+
+    html = ""
+    for attempt in range(1, 4):
         try:
-            with open(cache_path, "r", encoding="utf-8") as f:
-                cached = json.load(f)
-            if cached and isinstance(cached, dict) and len(cached) > 0:
-                # Sanity check: Ensure key '1' is not corrupted by a later book (e.g. Book 19/20)
-                item1 = cached.get("1") or cached.get(1)
-                is_corrupted = False
-                if item1 and isinstance(item1, dict):
-                    t1 = item1.get("title", "")
-                    m_b = re.search(r'\b(?:book|volume|vol)\s*(\d+)', t1, re.I)
-                    if m_b and int(m_b.group(1)) > 1:
-                        is_corrupted = True
-
-                # Sanity check: Check if cached chapter count is significantly smaller than catalog expectation
-                cat_info = NOVELS_CATALOG.get(novel_id, {})
-                expected_max = cat_info.get("max_chapters", 0)
-                if expected_max > 100 and len(cached) < expected_max * 0.6:
-                    is_corrupted = True
-
-                if not is_corrupted:
-                    return {int(k): v for k, v in cached.items()}
-                else:
-                    log(f"Cached archive for '{novel_id}' was corrupted or incomplete ({len(cached)} items vs expected ~{expected_max}); refreshing online archive...")
+            req = urllib.request.Request(main_url, headers=headers)
+            with urllib.request.urlopen(req, timeout=15) as res:
+                html = res.read().decode("utf-8", errors="ignore")
+            if html:
+                break
         except Exception:
-            pass
+            if attempt < 3:
+                time.sleep(attempt * 2)
 
+    if not html:
+        log(f"FreeWebNovel index unavailable for '{novel_id}'.")
+        return {}
+
+    soup = BeautifulSoup(html, "html.parser")
+    root = soup.find(id="indexListPage")
+    if not root:
+        log(f"No '#indexListPage' found on FreeWebNovel for '{novel_id}'.")
+        return {}
+
+    total_chapters = int(root.get("data-total-chapters") or 0)
+    if total_chapters <= 0:
+        log(f"FreeWebNovel reported 0 chapters for '{novel_id}'.")
+        return {}
+
+    page_size = 200
+    total_pages = math.ceil(total_chapters / page_size)
+    log(f"FreeWebNovel reports {total_chapters} chapters across {total_pages} pages (pageSize={page_size}). Fetching archive...")
+
+    page_headers = headers.copy()
+    page_headers["X-Requested-With"] = "XMLHttpRequest"
+
+    def fetch_page(p: int) -> Tuple[int, List[Tuple[str, str]]]:
+        p_url = f"https://freewebnovel.com/novel/{novel_id}?ajax=chapters&page={p}&pageSize={page_size}"
+        for attempt in range(1, 4):
+            try:
+                p_req = urllib.request.Request(p_url, headers=page_headers)
+                with urllib.request.urlopen(p_req, timeout=20) as r:
+                    data = json.loads(r.read().decode("utf-8"))
+                s = BeautifulSoup(data.get("html", ""), "html.parser")
+                links = []
+                for a in s.find_all("a", href=True):
+                    href = a["href"].strip()
+                    if not href or href.startswith("#") or href.startswith("javascript:"):
+                        continue
+                    full_url = href if href.startswith("http") else f"https://freewebnovel.com{href}"
+                    title = (a.get("title") or a.get_text(strip=True)).strip()
+                    links.append((title, full_url))
+                return p, links
+            except Exception:
+                if attempt < 3:
+                    time.sleep(attempt)
+        return p, []
+
+    results = {}
+    with ThreadPoolExecutor(max_workers=min(6, total_pages)) as executor:
+        futures = [executor.submit(fetch_page, p) for p in range(1, total_pages + 1)]
+        for fut in as_completed(futures):
+            p, links = fut.result()
+            results[p] = links
+
+    raw_links = []
+    for p in range(1, total_pages + 1):
+        raw_links.extend(results.get(p, []))
+
+    if not raw_links:
+        return {}
+
+    parsed_nums = []
+    for idx, (title, full_url) in enumerate(raw_links):
+        m = re.search(r'chapter[- ](\d+)', title, re.I)
+        if not m:
+            m = re.search(r'chapter[- ](\d+)', full_url, re.I)
+        parsed_nums.append(int(m.group(1)) if m else None)
+
+    valid_nums = [n for n in parsed_nums if n is not None]
+    has_duplicates = len(valid_nums) != len(set(valid_nums))
+    has_multi_book = any(re.search(r'\b(?:book|volume|vol)\s*\d+', title, re.I) for title, _ in raw_links)
+    max_parsed = max(valid_nums) if valid_nums else 0
+    collapsed_count = max_parsed > 0 and max_parsed < len(raw_links) * 0.75
+
+    use_sequential_toc = has_duplicates or has_multi_book or collapsed_count
+
+    chapter_map = {}
+    for idx, (title, full_url) in enumerate(raw_links):
+        seq_idx = idx + 1
+        ch_num = seq_idx if use_sequential_toc else (parsed_nums[idx] if parsed_nums[idx] is not None else seq_idx)
+        chapter_map[ch_num] = {
+            "chapter_number": ch_num,
+            "title": title or f"Chapter {ch_num}",
+            "url": full_url
+        }
+
+    log(f"Successfully discovered {len(chapter_map)} chapters from FreeWebNovel for '{novel_id}'.")
+    return chapter_map
+
+
+def fetch_novelping_archive(novel_id: str) -> Dict[int, Dict]:
+    """
+    Fetches chapter archive mapping from NovelPing fallback.
+    Returns: Dict[int, Dict] mapping chapter_number -> {chapter_number, title, url}.
+    """
     archive_url = f"https://novelping.com/ajax/chapter-archive?novelId={novel_id}"
-    log(f"Fetching complete chapter archive from NovelPing: {archive_url}...")
+    log(f"Falling back to NovelPing archive: {archive_url}...")
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safari/537.36",
@@ -393,7 +504,6 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool
         "Referer": f"https://novelping.com/book/{novel_id}"
     }
 
-    from bs4 import BeautifulSoup
     html = ""
     for attempt in range(1, 4):
         try:
@@ -402,20 +512,11 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool
                 html = res.read().decode("utf-8", errors="ignore")
             if html and len(html) > 500:
                 break
-        except Exception as e:
+        except Exception:
             time.sleep(attempt * 2)
 
     if not html:
-        est = NOVELS_CATALOG.get(novel_id, {}).get("max_chapters", 2000)
-        log(f"Archive endpoint busy; generating index (1 to {est}) with FreeWebNovel mirrors.")
-        return {
-            ch: {
-                "chapter_number": ch,
-                "title": f"Chapter {ch}",
-                "url": f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch}"
-            }
-            for ch in range(1, est + 1)
-        }
+        return {}
 
     soup = BeautifulSoup(html, "html.parser")
     raw_links = []
@@ -439,6 +540,10 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool
             "parsed_num": parsed_num
         })
 
+    if not raw_links:
+        log(f"NovelPing returned 0 chapter links for '{novel_id}'.")
+        return {}
+
     total_links = len(raw_links)
     parsed_nums = [item["parsed_num"] for item in raw_links if item["parsed_num"] is not None]
     has_duplicates = len(parsed_nums) != len(set(parsed_nums))
@@ -450,7 +555,7 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool
 
     chapter_map = {}
     if use_sequential_toc:
-        log(f"Multi-book/volume or duplicate chapters detected for '{novel_id}'. Using sequential Table-of-Contents indexing (1 to {total_links}).")
+        log(f"Multi-book/volume or duplicate chapters detected on NovelPing for '{novel_id}'. Using sequential Table-of-Contents indexing (1 to {total_links}).")
         for idx, item in enumerate(raw_links):
             seq_idx = idx + 1
             chapter_map[seq_idx] = {
@@ -467,25 +572,85 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool
                 "url": item["url"]
             }
 
-    try:
-        os.makedirs(target_dir, exist_ok=True)
-        with open(cache_path, "w", encoding="utf-8") as f:
-            json.dump({str(k): v for k, v in chapter_map.items()}, f, indent=2, ensure_ascii=False)
-    except Exception:
-        pass
+    log(f"Discovered {len(chapter_map)} unique chapters on NovelPing for '{novel_id}'.")
+    return chapter_map
+
+
+def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool = False) -> Dict[int, Dict]:
+    """
+    Fetches chapter archive mapping: FreeWebNovel FIRST, then NovelPing as fallback.
+    Results are cached in target_dir/archive_cache.json only when non-empty and uncorrupted.
+    """
+    cache_path = os.path.join(target_dir, "archive_cache.json")
+    if not force_refresh and os.path.exists(cache_path):
+        try:
+            with open(cache_path, "r", encoding="utf-8") as f:
+                cached = json.load(f)
+            if cached and isinstance(cached, dict) and len(cached) > 0:
+                item1 = cached.get("1") or cached.get(1)
+                is_corrupted = False
+                if item1 and isinstance(item1, dict):
+                    t1 = item1.get("title", "")
+                    m_b = re.search(r'\b(?:book|volume|vol)\s*(\d+)', t1, re.I)
+                    if m_b and int(m_b.group(1)) > 1:
+                        is_corrupted = True
+
+                cat_info = NOVELS_CATALOG.get(novel_id, {})
+                expected_max = cat_info.get("max_chapters", 0)
+                if expected_max > 100 and len(cached) < expected_max * 0.6:
+                    is_corrupted = True
+
+                if not is_corrupted:
+                    log(f"Loaded {len(cached)} chapters from local archive cache: {cache_path}")
+                    return {int(k): v for k, v in cached.items()}
+                else:
+                    log(f"Cached archive for '{novel_id}' was corrupted or incomplete ({len(cached)} items vs expected ~{expected_max}); refreshing online archive...")
+        except Exception:
+            pass
+
+    # 1. Try FreeWebNovel FIRST
+    chapter_map = fetch_freewebnovel_archive(novel_id)
+
+    # 2. If FreeWebNovel failed or returned 0 chapters, fallback to NovelPing
+    if not chapter_map:
+        chapter_map = fetch_novelping_archive(novel_id)
+
+    # 3. If both failed, generate synthetic index using FreeWebNovel direct URLs
+    if not chapter_map:
+        cat_info = NOVELS_CATALOG.get(novel_id, {})
+        est = cat_info.get("max_chapters", 2000)
+        log(f"Warning: Neither FreeWebNovel nor NovelPing archive available for '{novel_id}'. Generating synthetic chapter index (1 to {est}) with FreeWebNovel URLs.")
+        chapter_map = {
+            ch: {
+                "chapter_number": ch,
+                "title": f"Chapter {ch}",
+                "url": f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch}"
+            }
+            for ch in range(1, est + 1)
+        }
+
+    # 4. Save to local archive cache ONLY if valid and non-empty
+    if chapter_map:
+        try:
+            os.makedirs(target_dir, exist_ok=True)
+            with open(cache_path, "w", encoding="utf-8") as f:
+                json.dump({str(k): v for k, v in chapter_map.items()}, f, indent=2, ensure_ascii=False)
+            log(f"Cached {len(chapter_map)} chapters to {cache_path}.")
+        except Exception as e:
+            log(f"Warning: Could not save archive cache: {e}")
 
     return chapter_map
 
 
 def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int, ch_meta: dict, max_retries: int = 5) -> dict:
-    """Fetches and simultaneously cleans a single chapter with mirror failover."""
+    """Fetches and simultaneously cleans a single chapter with mirror failover (FreeWebNovel first, then NovelPing)."""
     candidate_urls = []
     if ch_meta and ch_meta.get("url"):
         candidate_urls.append(ch_meta["url"])
         slug_part = ch_meta["url"].rstrip("/").split("/")[-1].rstrip(".html")
         if slug_part:
-            candidate_urls.append(f"https://novelping.com/book/{novel_id}/{slug_part}")
             candidate_urls.append(f"https://freewebnovel.com/novel/{novel_id}/{slug_part}")
+            candidate_urls.append(f"https://novelping.com/book/{novel_id}/{slug_part}")
     candidate_urls.extend([
         f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}",
         f"https://freewebnovel.com/{novel_id}/chapter-{ch_num}.html",
