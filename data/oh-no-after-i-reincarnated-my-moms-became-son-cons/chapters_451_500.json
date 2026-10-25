@@ -587,7 +587,6 @@
         "We held each others hands tightly.",
         "I dont know how long shell have to work for here or how considerable the sacrifice will be. I dont know how much will change or how long it will take, but I still believe that said future can be realised here with the efforts of countless people.",
         "That will also change this world to be more similar to my old home.",
-        "============",
         "Vyvyan, why are you here again?",
         "Am I that unwelcome?",
         "Elizabeth sighed. She looked at Vyvyan, who was covered in mist from head to toe, and said, You can come, but do you have no sense of timing? You chose to come here when Im bathing. Do you want me to argue with you or fight with you when Im covered in steam? Im not in the mood for that stuff right now.",
@@ -1031,190 +1030,185 @@
         {
           "id": 85,
           "paragraph_id": 22,
-          "text": "============"
+          "text": "Vyvyan, why are you here again?"
         },
         {
           "id": 86,
           "paragraph_id": 23,
-          "text": "Vyvyan, why are you here again?"
+          "text": "Am I that unwelcome?"
         },
         {
           "id": 87,
           "paragraph_id": 24,
-          "text": "Am I that unwelcome?"
-        },
-        {
-          "id": 88,
-          "paragraph_id": 25,
           "text": "Elizabeth sighed."
         },
         {
-          "id": 89,
-          "paragraph_id": 25,
+          "id": 88,
+          "paragraph_id": 24,
           "text": "She looked at Vyvyan, who was covered in mist from head to toe, and said, You can come, but do you have no sense of timing?"
         },
         {
-          "id": 90,
-          "paragraph_id": 25,
+          "id": 89,
+          "paragraph_id": 24,
           "text": "You chose to come here when Im bathing."
         },
         {
-          "id": 91,
-          "paragraph_id": 25,
+          "id": 90,
+          "paragraph_id": 24,
           "text": "Do you want me to argue with you or fight with you when Im covered in steam?"
+        },
+        {
+          "id": 91,
+          "paragraph_id": 24,
+          "text": "Im not in the mood for that stuff right now."
         },
         {
           "id": 92,
           "paragraph_id": 25,
-          "text": "Im not in the mood for that stuff right now."
+          "text": "Youre in a good mood, arent you?"
         },
         {
           "id": 93,
           "paragraph_id": 26,
-          "text": "Youre in a good mood, arent you?"
+          "text": "Of course."
         },
         {
           "id": 94,
-          "paragraph_id": 27,
-          "text": "Of course."
+          "paragraph_id": 26,
+          "text": "Lots of good things have happened lately, after all."
         },
         {
           "id": 95,
           "paragraph_id": 27,
-          "text": "Lots of good things have happened lately, after all."
+          "text": "Vyvyan snickered, What I bring up next might just rain on your parade."
         },
         {
           "id": 96,
-          "paragraph_id": 28,
-          "text": "Vyvyan snickered, What I bring up next might just rain on your parade."
+          "paragraph_id": 27,
+          "text": "If I were you, I would reinforce your defence lines at the Northern border."
         },
         {
           "id": 97,
           "paragraph_id": 28,
-          "text": "If I were you, I would reinforce your defence lines at the Northern border."
-        },
-        {
-          "id": 98,
-          "paragraph_id": 29,
           "text": "The Northern border?"
         },
         {
-          "id": 99,
-          "paragraph_id": 29,
+          "id": 98,
+          "paragraph_id": 28,
           "text": "Thats where our boundaries intersect."
         },
         {
-          "id": 100,
-          "paragraph_id": 29,
+          "id": 99,
+          "paragraph_id": 28,
           "text": "What, you want to fight with us?"
+        },
+        {
+          "id": 100,
+          "paragraph_id": 28,
+          "text": "Did you forget about my son?"
         },
         {
           "id": 101,
           "paragraph_id": 29,
-          "text": "Did you forget about my son?"
+          "text": "Im talking about the border at the canyon up North!!"
         },
         {
           "id": 102,
           "paragraph_id": 30,
-          "text": "Im talking about the border at the canyon up North!!"
-        },
-        {
-          "id": 103,
-          "paragraph_id": 31,
           "text": "Vyvyan looked at Elizabeth; in a serious tone, she explained, The anthropoids and trolls up North have attacked too frequently."
         },
         {
-          "id": 104,
-          "paragraph_id": 31,
+          "id": 103,
+          "paragraph_id": 30,
           "text": "I feel that the situation is dire."
         },
         {
-          "id": 105,
-          "paragraph_id": 31,
+          "id": 104,
+          "paragraph_id": 30,
           "text": "Additionally, The North is colder this year."
         },
         {
-          "id": 106,
-          "paragraph_id": 31,
+          "id": 105,
+          "paragraph_id": 30,
           "text": "If the races in the North cant survive up there, their only option is to launch an attack against the South."
         },
         {
-          "id": 107,
-          "paragraph_id": 31,
+          "id": 106,
+          "paragraph_id": 30,
           "text": "As people with no retreat route, they will be fearsome opponents."
+        },
+        {
+          "id": 107,
+          "paragraph_id": 30,
+          "text": "If I were you, I would prepare as soon as possible!"
         },
         {
           "id": 108,
           "paragraph_id": 31,
-          "text": "If I were you, I would prepare as soon as possible!"
-        },
-        {
-          "id": 109,
-          "paragraph_id": 32,
           "text": "Elizabeth froze for a moment."
         },
         {
-          "id": 110,
-          "paragraph_id": 32,
+          "id": 109,
+          "paragraph_id": 31,
           "text": "She then stood right up from the water."
         },
         {
-          "id": 111,
-          "paragraph_id": 32,
+          "id": 110,
+          "paragraph_id": 31,
           "text": "She hesitated for a moment, and then exclaimed, Large canyon to the North the city located there is Socina!"
+        },
+        {
+          "id": 111,
+          "paragraph_id": 31,
+          "text": "My son is there right now!"
         },
         {
           "id": 112,
           "paragraph_id": 32,
-          "text": "My son is there right now!"
+          "text": "Hurry up and call him back, then!!!"
         },
         {
           "id": 113,
           "paragraph_id": 33,
-          "text": "Hurry up and call him back, then!!!"
-        },
-        {
-          "id": 114,
-          "paragraph_id": 34,
           "text": "I know!"
         },
         {
-          "id": 115,
-          "paragraph_id": 34,
+          "id": 114,
+          "paragraph_id": 33,
           "text": "Ill go and write a letter now!"
         },
         {
-          "id": 116,
-          "paragraph_id": 34,
+          "id": 115,
+          "paragraph_id": 33,
           "text": "Aaaahh!!"
         },
         {
-          "id": 117,
-          "paragraph_id": 34,
+          "id": 116,
+          "paragraph_id": 33,
           "text": "Why dont we humans have an instant messaging method?!!"
         },
         {
-          "id": 118,
-          "paragraph_id": 34,
+          "id": 117,
+          "paragraph_id": 33,
           "text": "Ill organise an army; nevertheless, I need to call my son back first."
+        },
+        {
+          "id": 118,
+          "paragraph_id": 33,
+          "text": "I swear that if my son gets hurt, Ill personally reduce the North to smithereens!!"
         },
         {
           "id": 119,
           "paragraph_id": 34,
-          "text": "I swear that if my son gets hurt, Ill personally reduce the North to smithereens!!"
-        },
-        {
-          "id": 120,
-          "paragraph_id": 35,
           "text": "Ah, were in consensus this time."
         },
         {
-          "id": 121,
-          "paragraph_id": 35,
+          "id": 120,
+          "paragraph_id": 34,
           "text": "If you want to destroy the North, Ill help out"
         }
       ],
-      "word_count": 1413
+      "word_count": 1412
     },
     {
       "chapter_index": 453,
@@ -1802,7 +1796,6 @@
         "Let us head out tomorrow, then. I estimate that we will need to travel for some time. It is very cold and dangerous on the snowy mountains, but the scenery is very captivating.",
         "Karana giggled then turned around to leave. I sat on my chair and looked at the books before me. I sighed, and then carefully picked one up to begin to read through it",
         "Ah, fuck!! I cant read Socinas texts!",
-        "=============",
         "Miss! Hurry! Hurry!! You will be safe once you get over there! You just need to get over there!",
         "Th-there are still pursuers behind us! Theyre catching up! Theyre catching up!!",
         "Miss, you go on ahead. You people protect her well. Dont turn around no matter what happens. Just run. Now hurry, hurry to that side. When you see the humans there, inform them of what happened here! You must survive! You must! Miss, promise me! Promise! Our tribes bloodline and the safety in the North rests in your hands now! You must survive! You must survive!",
@@ -2285,190 +2278,185 @@
         {
           "id": 94,
           "paragraph_id": 28,
-          "text": "============="
-        },
-        {
-          "id": 95,
-          "paragraph_id": 29,
           "text": "Miss!"
         },
         {
-          "id": 96,
-          "paragraph_id": 29,
+          "id": 95,
+          "paragraph_id": 28,
           "text": "Hurry!"
         },
         {
-          "id": 97,
-          "paragraph_id": 29,
+          "id": 96,
+          "paragraph_id": 28,
           "text": "Hurry!!"
         },
         {
-          "id": 98,
-          "paragraph_id": 29,
+          "id": 97,
+          "paragraph_id": 28,
           "text": "You will be safe once you get over there!"
+        },
+        {
+          "id": 98,
+          "paragraph_id": 28,
+          "text": "You just need to get over there!"
         },
         {
           "id": 99,
           "paragraph_id": 29,
-          "text": "You just need to get over there!"
-        },
-        {
-          "id": 100,
-          "paragraph_id": 30,
           "text": "Th-there are still pursuers behind us!"
         },
         {
-          "id": 101,
-          "paragraph_id": 30,
+          "id": 100,
+          "paragraph_id": 29,
           "text": "Theyre catching up!"
+        },
+        {
+          "id": 101,
+          "paragraph_id": 29,
+          "text": "Theyre catching up!!"
         },
         {
           "id": 102,
           "paragraph_id": 30,
-          "text": "Theyre catching up!!"
-        },
-        {
-          "id": 103,
-          "paragraph_id": 31,
           "text": "Miss, you go on ahead."
         },
         {
-          "id": 104,
-          "paragraph_id": 31,
+          "id": 103,
+          "paragraph_id": 30,
           "text": "You people protect her well."
         },
         {
-          "id": 105,
-          "paragraph_id": 31,
+          "id": 104,
+          "paragraph_id": 30,
           "text": "Dont turn around no matter what happens."
         },
         {
-          "id": 106,
-          "paragraph_id": 31,
+          "id": 105,
+          "paragraph_id": 30,
           "text": "Just run."
         },
         {
-          "id": 107,
-          "paragraph_id": 31,
+          "id": 106,
+          "paragraph_id": 30,
           "text": "Now hurry, hurry to that side."
         },
         {
-          "id": 108,
-          "paragraph_id": 31,
+          "id": 107,
+          "paragraph_id": 30,
           "text": "When you see the humans there, inform them of what happened here!"
         },
         {
-          "id": 109,
-          "paragraph_id": 31,
+          "id": 108,
+          "paragraph_id": 30,
           "text": "You must survive!"
         },
         {
-          "id": 110,
-          "paragraph_id": 31,
+          "id": 109,
+          "paragraph_id": 30,
           "text": "You must!"
         },
         {
-          "id": 111,
-          "paragraph_id": 31,
+          "id": 110,
+          "paragraph_id": 30,
           "text": "Miss, promise me!"
         },
         {
-          "id": 112,
-          "paragraph_id": 31,
+          "id": 111,
+          "paragraph_id": 30,
           "text": "Promise!"
         },
         {
-          "id": 113,
-          "paragraph_id": 31,
+          "id": 112,
+          "paragraph_id": 30,
           "text": "Our tribes bloodline and the safety in the North rests in your hands now!"
         },
         {
+          "id": 113,
+          "paragraph_id": 30,
+          "text": "You must survive!"
+        },
+        {
           "id": 114,
-          "paragraph_id": 31,
+          "paragraph_id": 30,
           "text": "You must survive!"
         },
         {
           "id": 115,
           "paragraph_id": 31,
-          "text": "You must survive!"
+          "text": "I I"
         },
         {
           "id": 116,
           "paragraph_id": 32,
-          "text": "I I"
-        },
-        {
-          "id": 117,
-          "paragraph_id": 33,
           "text": "Dont cry, Miss, dont cry."
         },
         {
-          "id": 118,
-          "paragraph_id": 33,
+          "id": 117,
+          "paragraph_id": 32,
           "text": "Do not worry about us."
         },
         {
-          "id": 119,
-          "paragraph_id": 33,
+          "id": 118,
+          "paragraph_id": 32,
           "text": "Turn around and run now."
         },
         {
-          "id": 120,
-          "paragraph_id": 33,
+          "id": 119,
+          "paragraph_id": 32,
           "text": "If you cannot return with glory then do not return."
         },
         {
-          "id": 121,
-          "paragraph_id": 33,
+          "id": 120,
+          "paragraph_id": 32,
           "text": "We are dying for you, our tribe and the safety of all of the souls in the North."
         },
         {
-          "id": 122,
-          "paragraph_id": 33,
+          "id": 121,
+          "paragraph_id": 32,
           "text": "As long as we live in your heart, we will never die!"
         },
         {
-          "id": 123,
-          "paragraph_id": 33,
+          "id": 122,
+          "paragraph_id": 32,
           "text": "Now go!"
+        },
+        {
+          "id": 123,
+          "paragraph_id": 32,
+          "text": "Go!!"
         },
         {
           "id": 124,
           "paragraph_id": 33,
-          "text": "Go!!"
-        },
-        {
-          "id": 125,
-          "paragraph_id": 34,
           "text": "I swear!"
         },
         {
-          "id": 126,
-          "paragraph_id": 34,
+          "id": 125,
+          "paragraph_id": 33,
           "text": "I swear that I will not let your deaths be in vain!"
         },
         {
-          "id": 127,
-          "paragraph_id": 34,
+          "id": 126,
+          "paragraph_id": 33,
           "text": "I will not let my fathers death be in vain!"
         },
         {
-          "id": 128,
-          "paragraph_id": 34,
+          "id": 127,
+          "paragraph_id": 33,
           "text": "I will definitely bring back hope!"
+        },
+        {
+          "id": 128,
+          "paragraph_id": 33,
+          "text": "I promise!"
         },
         {
           "id": 129,
           "paragraph_id": 34,
-          "text": "I promise!"
-        },
-        {
-          "id": 130,
-          "paragraph_id": 35,
           "text": "Its all in your hands Miss Now hurry and run!"
         }
       ],
-      "word_count": 1333
+      "word_count": 1332
     },
     {
       "chapter_index": 455,
@@ -2500,7 +2488,6 @@
         "Though she said survival was important, she still minds physical contact. Shes a widow, all right, one that loves her husband.",
         "I smiled. I didnt pull her into my arms; instead, I raised the coat up higher, trying to cover her best as I could. The fire in front of me crackled. Nobody was singing and drinking the way we did in the desert. We, virtually, fell into silence not long after sitting down, with just the sound of the wind whistling outside.",
         "My eyes gradually shut. My head lowered and entered my dreams.",
-        "============================",
         "*Pant Pant Pant*",
         "Ive already ran for a very long time a very long time truly too long",
         "How long have I run for? I dont know I dont know Probably around a week, I think After my father was taken by that group and after I received my fathers head from them, I ran with all my might. I ran through the snow and northern winds. Behind me were screams and bloodshed. Im getting further and further away from my home",
@@ -2917,170 +2904,165 @@
         {
           "id": 79,
           "paragraph_id": 25,
-          "text": "============================"
+          "text": "*Pant Pant Pant*"
         },
         {
           "id": 80,
           "paragraph_id": 26,
-          "text": "*Pant Pant Pant*"
+          "text": "Ive already ran for a very long time a very long time truly too long"
         },
         {
           "id": 81,
           "paragraph_id": 27,
-          "text": "Ive already ran for a very long time a very long time truly too long"
-        },
-        {
-          "id": 82,
-          "paragraph_id": 28,
           "text": "How long have I run for?"
         },
         {
-          "id": 83,
-          "paragraph_id": 28,
+          "id": 82,
+          "paragraph_id": 27,
           "text": "I dont know I dont know Probably around a week, I think After my father was taken by that group and after I received my fathers head from them, I ran with all my might."
         },
         {
-          "id": 84,
-          "paragraph_id": 28,
+          "id": 83,
+          "paragraph_id": 27,
           "text": "I ran through the snow and northern winds."
         },
         {
-          "id": 85,
-          "paragraph_id": 28,
+          "id": 84,
+          "paragraph_id": 27,
           "text": "Behind me were screams and bloodshed."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 27,
+          "text": "Im getting further and further away from my home"
         },
         {
           "id": 86,
           "paragraph_id": 28,
-          "text": "Im getting further and further away from my home"
-        },
-        {
-          "id": 87,
-          "paragraph_id": 29,
           "text": "I cant turn back, though."
         },
         {
-          "id": 88,
-          "paragraph_id": 29,
+          "id": 87,
+          "paragraph_id": 28,
           "text": "I cant take one step back."
         },
         {
-          "id": 89,
-          "paragraph_id": 29,
+          "id": 88,
+          "paragraph_id": 28,
           "text": "I dont have anybody with me anymore."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 28,
+          "text": "Theres nobody left with me to stop those maniacs"
         },
         {
           "id": 90,
           "paragraph_id": 29,
-          "text": "Theres nobody left with me to stop those maniacs"
+          "text": "My father did what he did for their sake"
         },
         {
           "id": 91,
           "paragraph_id": 30,
-          "text": "My father did what he did for their sake"
+          "text": "My father did what he did for this continent"
         },
         {
           "id": 92,
           "paragraph_id": 31,
-          "text": "My father did what he did for this continent"
+          "text": "Our tribe has done our best every generation for the sake of this continent that the gods abandoned"
         },
         {
           "id": 93,
           "paragraph_id": 32,
-          "text": "Our tribe has done our best every generation for the sake of this continent that the gods abandoned"
-        },
-        {
-          "id": 94,
-          "paragraph_id": 33,
           "text": "Why why why. does nobody remember that?"
         },
         {
-          "id": 95,
-          "paragraph_id": 33,
+          "id": 94,
+          "paragraph_id": 32,
           "text": "Why didnt anybody stand up?"
         },
         {
-          "id": 96,
-          "paragraph_id": 33,
+          "id": 95,
+          "paragraph_id": 32,
           "text": "My father gave up everything he had for them, and yet he couldnt even exchange it for mercy in the end."
+        },
+        {
+          "id": 96,
+          "paragraph_id": 32,
+          "text": "My father gave everything he had for that tyrant, yet had his life taken from him, just because he wouldnt hand me over"
         },
         {
           "id": 97,
           "paragraph_id": 33,
-          "text": "My father gave everything he had for that tyrant, yet had his life taken from him, just because he wouldnt hand me over"
+          "text": "Thats too disgusting"
         },
         {
           "id": 98,
           "paragraph_id": 34,
-          "text": "Thats too disgusting"
+          "text": "Thats too despicable"
         },
         {
           "id": 99,
           "paragraph_id": 35,
-          "text": "Thats too despicable"
+          "text": "Thats too cold-hearted"
         },
         {
           "id": 100,
           "paragraph_id": 36,
-          "text": "Thats too cold-hearted"
+          "text": "I must continue to run."
         },
         {
           "id": 101,
-          "paragraph_id": 37,
-          "text": "I must continue to run."
+          "paragraph_id": 36,
+          "text": "I must continue to run"
         },
         {
           "id": 102,
           "paragraph_id": 37,
-          "text": "I must continue to run"
-        },
-        {
-          "id": 103,
-          "paragraph_id": 38,
           "text": "I must find the power to seek revenge."
         },
         {
-          "id": 104,
-          "paragraph_id": 38,
+          "id": 103,
+          "paragraph_id": 37,
           "text": "I must acquire the power to get revenge."
         },
         {
-          "id": 105,
-          "paragraph_id": 38,
+          "id": 104,
+          "paragraph_id": 37,
           "text": "I cant turn back now, but I must return to kill those traitors."
         },
         {
-          "id": 106,
-          "paragraph_id": 38,
+          "id": 105,
+          "paragraph_id": 37,
           "text": "I must save this continent again."
         },
         {
-          "id": 107,
-          "paragraph_id": 38,
+          "id": 106,
+          "paragraph_id": 37,
           "text": "I cant let my fathers death be in vain."
+        },
+        {
+          "id": 107,
+          "paragraph_id": 37,
+          "text": "I cant let the continent my tribe has protected for centuries be destroyed now."
         },
         {
           "id": 108,
           "paragraph_id": 38,
-          "text": "I cant let the continent my tribe has protected for centuries be destroyed now."
+          "text": "Run Run Run!!"
         },
         {
           "id": 109,
           "paragraph_id": 39,
-          "text": "Run Run Run!!"
+          "text": "She suddenly slipped, causing her red silhouette to roll down the snow."
         },
         {
           "id": 110,
           "paragraph_id": 40,
-          "text": "She suddenly slipped, causing her red silhouette to roll down the snow."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 41,
           "text": "She couldnt get to her feet again"
         }
       ],
-      "word_count": 1289
+      "word_count": 1288
     },
     {
       "chapter_index": 456,
@@ -3727,7 +3709,7 @@
         "Theyre pretty similar to what I imagined. Theyre furry and wrapped in simple clothing. Their heads resemble the heads of wolves. However, they didnt stand out when compared to humans. They had firm flesh and thick skin. If my guards swords werent high-quality swords made by elves and they werent trained by Nier, we really may have suffered heavy casualties.",
         "I rode at the forefront, racing back to Socina as fast as I could. The fierce wind whistled. The snowflakes that hit me felt as if they were bullets. They hurt when they smacked me in the face. The wind was blowing so strong it was, virtually, impossible to breathe. I narrowed my eyes. Despite having enhanced senses thanks to my elven genetics I still couldnt see anything in the heavy snow.",
         "It appears that a snowstorm really is coming.",
-        "Your Majesty, watch out!!!!!",
+        "Your Majesty, watch out!!!",
         "As I was galloping along the path, Philes suddenly yelled out loudly. I instinctively tugged on my horse reins. In the next instant, a dark silhouette came down from overhead while roaring. A huge axe swung down in front of me, brutally smashing my horses heads to mush.",
         "My horse didnt even get to neigh before its head was demolished. Its blood sprayed forth, heating up a section of the snow. I made an emergency dismount and rolled to the side, almost rolling off the mountain. Philes caught my cloak from behind and pulled me back, while Shusia roared and charged forward.",
         "She engaged the big and dark silhouette.",
@@ -3748,7 +3730,6 @@
         "Then my brain was just smashed with chaos and the world spun",
         "I had no idea what happened after that",
         "I wasnt sure if I could survive the avalanche.",
-        "========",
         "I seemed to catch sight of a red pair of eyes looking at me. I could seemingly feel a warm sensation from my chest that enveloped my entire body spreading to my every nerve",
         "Dont die dont die You saved my life so I wont let you die!",
         "Ive never heard this voice before",
@@ -3763,7 +3744,7 @@
         "Is she speaking to me?",
         "I struggled to open my eyes. All I saw was a field of white and a pair of red eyes. The pair of eyes was different to Mommy Vyvyans. The pupils werent round, but an odd crescent moon shape. Those eyes were trained on me right now. Below those eyes, was a red pair of lips gently moving. Two sharp fangs were vaguely visible",
         "Kind Man dont die dont die because of me dont Weve only met for the first time Please dont let someone die for my sake again I will definitely save you Come back to me! Come back to me! Come back to me!",
-        "Cant you see that Ive opened my eyes?! Who saves people by slapping them across the face the way you do?!!!!"
+        "Cant you see that Ive opened my eyes?! Who saves people by slapping them across the face the way you do?!!!"
       ],
       "sentences": [
         {
@@ -3989,7 +3970,7 @@
         {
           "id": 44,
           "paragraph_id": 11,
-          "text": "Your Majesty, watch out!!!!!"
+          "text": "Your Majesty, watch out!!!"
         },
         {
           "id": 45,
@@ -4239,135 +4220,130 @@
         {
           "id": 94,
           "paragraph_id": 32,
-          "text": "========"
+          "text": "I seemed to catch sight of a red pair of eyes looking at me."
         },
         {
           "id": 95,
-          "paragraph_id": 33,
-          "text": "I seemed to catch sight of a red pair of eyes looking at me."
+          "paragraph_id": 32,
+          "text": "I could seemingly feel a warm sensation from my chest that enveloped my entire body spreading to my every nerve"
         },
         {
           "id": 96,
           "paragraph_id": 33,
-          "text": "I could seemingly feel a warm sensation from my chest that enveloped my entire body spreading to my every nerve"
+          "text": "Dont die dont die You saved my life so I wont let you die!"
         },
         {
           "id": 97,
           "paragraph_id": 34,
-          "text": "Dont die dont die You saved my life so I wont let you die!"
+          "text": "Ive never heard this voice before"
         },
         {
           "id": 98,
           "paragraph_id": 35,
-          "text": "Ive never heard this voice before"
+          "text": "Its right next to my ear"
         },
         {
           "id": 99,
           "paragraph_id": 36,
-          "text": "Its right next to my ear"
+          "text": "I think somebody is hugging me"
         },
         {
           "id": 100,
           "paragraph_id": 37,
-          "text": "I think somebody is hugging me"
+          "text": "I can feel a warm sensation from my waist to my chest"
         },
         {
           "id": 101,
           "paragraph_id": 38,
-          "text": "I can feel a warm sensation from my waist to my chest"
+          "text": "Its soft"
         },
         {
           "id": 102,
           "paragraph_id": 39,
-          "text": "Its soft"
+          "text": "I feel as if theres something smooth, well-kept and furry teasing my skin"
         },
         {
           "id": 103,
           "paragraph_id": 40,
-          "text": "I feel as if theres something smooth, well-kept and furry teasing my skin"
+          "text": "A pair of hands"
         },
         {
           "id": 104,
           "paragraph_id": 41,
-          "text": "A pair of hands"
+          "text": "A pair of small and warm hands held mine"
         },
         {
           "id": 105,
           "paragraph_id": 42,
-          "text": "A pair of small and warm hands held mine"
+          "text": "Dont die!"
         },
         {
           "id": 106,
           "paragraph_id": 43,
-          "text": "Dont die!"
+          "text": "Is she speaking to me?"
         },
         {
           "id": 107,
           "paragraph_id": 44,
-          "text": "Is she speaking to me?"
-        },
-        {
-          "id": 108,
-          "paragraph_id": 45,
           "text": "I struggled to open my eyes."
         },
         {
-          "id": 109,
-          "paragraph_id": 45,
+          "id": 108,
+          "paragraph_id": 44,
           "text": "All I saw was a field of white and a pair of red eyes."
         },
         {
-          "id": 110,
-          "paragraph_id": 45,
+          "id": 109,
+          "paragraph_id": 44,
           "text": "The pair of eyes was different to Mommy Vyvyans."
         },
         {
-          "id": 111,
-          "paragraph_id": 45,
+          "id": 110,
+          "paragraph_id": 44,
           "text": "The pupils werent round, but an odd crescent moon shape."
         },
         {
-          "id": 112,
-          "paragraph_id": 45,
+          "id": 111,
+          "paragraph_id": 44,
           "text": "Those eyes were trained on me right now."
         },
         {
-          "id": 113,
-          "paragraph_id": 45,
+          "id": 112,
+          "paragraph_id": 44,
           "text": "Below those eyes, was a red pair of lips gently moving."
+        },
+        {
+          "id": 113,
+          "paragraph_id": 44,
+          "text": "Two sharp fangs were vaguely visible"
         },
         {
           "id": 114,
           "paragraph_id": 45,
-          "text": "Two sharp fangs were vaguely visible"
-        },
-        {
-          "id": 115,
-          "paragraph_id": 46,
           "text": "Kind Man dont die dont die because of me dont Weve only met for the first time Please dont let someone die for my sake again I will definitely save you Come back to me!"
         },
         {
+          "id": 115,
+          "paragraph_id": 45,
+          "text": "Come back to me!"
+        },
+        {
           "id": 116,
-          "paragraph_id": 46,
+          "paragraph_id": 45,
           "text": "Come back to me!"
         },
         {
           "id": 117,
           "paragraph_id": 46,
-          "text": "Come back to me!"
-        },
-        {
-          "id": 118,
-          "paragraph_id": 47,
           "text": "Cant you see that Ive opened my eyes?!"
         },
         {
-          "id": 119,
-          "paragraph_id": 47,
-          "text": "Who saves people by slapping them across the face the way you do?!!!!"
+          "id": 118,
+          "paragraph_id": 46,
+          "text": "Who saves people by slapping them across the face the way you do?!!!"
         }
       ],
-      "word_count": 1305
+      "word_count": 1304
     },
     {
       "chapter_index": 458,
@@ -4408,7 +4384,7 @@
         "Ah, the fluffy feeling feels so nice",
         "*Smack!*",
         "I received another big slap to my face again. And then I got slapped again before I could react.",
-        "You are not to touch my ears, you rude man!!!!",
+        "You are not to touch my ears, you rude man!!!",
         "Why do you like slapping me across the face so much?!",
         "The young girl looked at me, feeling angry. Despite her face still having traces of her tears on it, she still looked at me with a furious gaze. She put her hand on her hip then pointed at my face and shouted.",
         "I touched my face. We had only exchanged a few sentences, yet she had slapped me a number of times already. I just had a strong urge to touch her twitching ears and tail she wagged from side to side. Plus, her tail she wagged around was particularly warm and smooth. I really wanted to play with it in my hands.",
@@ -4890,7 +4866,7 @@
         {
           "id": 91,
           "paragraph_id": 34,
-          "text": "You are not to touch my ears, you rude man!!!!"
+          "text": "You are not to touch my ears, you rude man!!!"
         },
         {
           "id": 92,
@@ -7313,7 +7289,6 @@
         "Arent I the same as her? I then chuckled and explained, I cant do anything, either. I rely on you guys to protect me, as well. That said, you, too, should be aware that Karana wont stop now. Shell probably form her own team to attack them even if I reject her. Socina City might be a station we can use as our frontline base for attacking. With Karana with us, itll be easier to negotiate things.",
         "In a concerned tone, Philes asked, Do you think Troy City is in danger?",
         "I looked in the direction of Troy city and clenched my teeth, I dont know. Troy City best be fine. My wives and mom are all there. I must guarantee their safety. Theyre the most important to me, as well as the people I love most Its my turn to protect my moms this time!",
-        "=====================",
         "Current time at Troy City",
         "The elves have entered a harsh battle, as well.",
         "Elizabeth threw the letter in her hand into the basin of fire. She lied down sideways on the bed and cleared her throat softly before giving her orders, Send Lucia and Nier mm and Freya to the Royal Capital. They are the most important people to my son. If something happens to them, I wont be able to stand my sons tears.",
@@ -7856,145 +7831,140 @@
         {
           "id": 106,
           "paragraph_id": 37,
-          "text": "====================="
+          "text": "Current time at Troy City"
         },
         {
           "id": 107,
           "paragraph_id": 38,
-          "text": "Current time at Troy City"
+          "text": "The elves have entered a harsh battle, as well."
         },
         {
           "id": 108,
           "paragraph_id": 39,
-          "text": "The elves have entered a harsh battle, as well."
-        },
-        {
-          "id": 109,
-          "paragraph_id": 40,
           "text": "Elizabeth threw the letter in her hand into the basin of fire."
         },
         {
-          "id": 110,
-          "paragraph_id": 40,
+          "id": 109,
+          "paragraph_id": 39,
           "text": "She lied down sideways on the bed and cleared her throat softly before giving her orders, Send Lucia and Nier mm and Freya to the Royal Capital."
         },
         {
-          "id": 111,
-          "paragraph_id": 40,
+          "id": 110,
+          "paragraph_id": 39,
           "text": "They are the most important people to my son."
+        },
+        {
+          "id": 111,
+          "paragraph_id": 39,
+          "text": "If something happens to them, I wont be able to stand my sons tears."
         },
         {
           "id": 112,
           "paragraph_id": 40,
-          "text": "If something happens to them, I wont be able to stand my sons tears."
-        },
-        {
-          "id": 113,
-          "paragraph_id": 41,
           "text": "A Valkyrie looked at Her Majesty, Your Majesty, the enemy is estimated to arrive at the city around tonight."
         },
         {
-          "id": 114,
-          "paragraph_id": 41,
+          "id": 113,
+          "paragraph_id": 40,
           "text": "Our army has just left, and hence, require some time to return."
         },
         {
-          "id": 115,
-          "paragraph_id": 41,
+          "id": 114,
+          "paragraph_id": 40,
           "text": "We should just retreat for now."
         },
         {
-          "id": 116,
-          "paragraph_id": 41,
+          "id": 115,
+          "paragraph_id": 40,
           "text": "Your safety is what is truly most important!"
         },
         {
-          "id": 117,
-          "paragraph_id": 41,
+          "id": 116,
+          "paragraph_id": 40,
           "text": "It matters not if we abandon this city, as it is not suited for a defensive battle."
+        },
+        {
+          "id": 117,
+          "paragraph_id": 40,
+          "text": "The land is flat, and its only combat force is its militia!"
         },
         {
           "id": 118,
           "paragraph_id": 41,
-          "text": "The land is flat, and its only combat force is its militia!"
-        },
-        {
-          "id": 119,
-          "paragraph_id": 42,
           "text": "The Empress chuckled."
         },
         {
-          "id": 120,
-          "paragraph_id": 42,
+          "id": 119,
+          "paragraph_id": 41,
           "text": "She looked at her and responded, This is my sons city."
         },
         {
-          "id": 121,
-          "paragraph_id": 42,
+          "id": 120,
+          "paragraph_id": 41,
           "text": "This citys name is Troy City."
         },
         {
-          "id": 122,
-          "paragraph_id": 42,
+          "id": 121,
+          "paragraph_id": 41,
           "text": "I abandoned my son once ten years ago, and you want me to abandon him again?!"
         },
         {
-          "id": 123,
-          "paragraph_id": 42,
+          "id": 122,
+          "paragraph_id": 41,
           "text": "I will never do that!"
         },
         {
-          "id": 124,
-          "paragraph_id": 42,
+          "id": 123,
+          "paragraph_id": 41,
           "text": "This city doesnt just have militia."
         },
         {
-          "id": 125,
-          "paragraph_id": 42,
+          "id": 124,
+          "paragraph_id": 41,
           "text": "Theres all of you and me!"
         },
         {
-          "id": 126,
-          "paragraph_id": 42,
+          "id": 125,
+          "paragraph_id": 41,
           "text": "Im right here inside my sons city!"
         },
         {
-          "id": 127,
-          "paragraph_id": 42,
+          "id": 126,
+          "paragraph_id": 41,
           "text": "Im not taking a single step back!"
         },
         {
-          "id": 128,
-          "paragraph_id": 42,
+          "id": 127,
+          "paragraph_id": 41,
           "text": "This is Troy City!"
+        },
+        {
+          "id": 128,
+          "paragraph_id": 41,
+          "text": "It is blissful for me to die in my sons city!"
         },
         {
           "id": 129,
           "paragraph_id": 42,
-          "text": "It is blissful for me to die in my sons city!"
+          "text": "Your Majesty"
         },
         {
           "id": 130,
           "paragraph_id": 43,
-          "text": "Your Majesty"
-        },
-        {
-          "id": 131,
-          "paragraph_id": 44,
           "text": "I, myself, will fight just as I did in the past."
         },
         {
-          "id": 132,
-          "paragraph_id": 44,
+          "id": 131,
+          "paragraph_id": 43,
           "text": "As long as it has to do with my son, I shall never abandon it."
         },
         {
-          "id": 133,
-          "paragraph_id": 44,
+          "id": 132,
+          "paragraph_id": 43,
           "text": "Never!"
         }
       ],
-      "word_count": 1553
+      "word_count": 1552
     },
     {
       "chapter_index": 463,
@@ -8014,7 +7984,6 @@
         "Elizabeth looked over to the palace entrance to see Lorana carrying her sword. She had changed out of her usual work clothes and wore on an elven battle uniform. She swung her long sword in a circle then laughed, I failed to protect His Majesty in the desert last time and got injured before I could. That stung my pride. Im the number one Sword Saint of the continent, yet I couldnt show His Majesty how skilled I am. This time, I wont let you down. Although Im not an expert at city defences, I just need to butcher the punks that climb up, right?",
         "Uhm, but I have no experience fighting anthropoids. Teacher, do you have any ideas?",
         "I dont know, either, but I imagine they wont be able to live if you behead them, pierce their heart or dismember their limbs even if they are anthropoids, right? Lorana then snickered and continued, Ive got a large volume of gun powder and guns, too. Even if the anthropoids come with their big team, Ill show them what firepower is!",
-        "=======================",
         "Esteemed Queen, our first team has arrived in the southern lands already. The humans and elves did not react in time, thereby allowing our first team to wear them down.",
         "Nobody expected the anthropoids to be skilled artisans. Despite being in the desolate North, behind the monarchs palace was a structure that resembled a sword that pierced the sky. Behind the gothic buildings and white stone material were the white snowy mountains, making them look larger.",
         "At this moment, sitting inside was an anthropoid dressed in an exquisite long robe, was passing a document toward the Queen, who was behind the black veil.",
@@ -8327,340 +8296,335 @@
         {
           "id": 57,
           "paragraph_id": 13,
-          "text": "======================="
+          "text": "Esteemed Queen, our first team has arrived in the southern lands already."
         },
         {
           "id": 58,
-          "paragraph_id": 14,
-          "text": "Esteemed Queen, our first team has arrived in the southern lands already."
+          "paragraph_id": 13,
+          "text": "The humans and elves did not react in time, thereby allowing our first team to wear them down."
         },
         {
           "id": 59,
           "paragraph_id": 14,
-          "text": "The humans and elves did not react in time, thereby allowing our first team to wear them down."
-        },
-        {
-          "id": 60,
-          "paragraph_id": 15,
           "text": "Nobody expected the anthropoids to be skilled artisans."
         },
         {
-          "id": 61,
-          "paragraph_id": 15,
+          "id": 60,
+          "paragraph_id": 14,
           "text": "Despite being in the desolate North, behind the monarchs palace was a structure that resembled a sword that pierced the sky."
+        },
+        {
+          "id": 61,
+          "paragraph_id": 14,
+          "text": "Behind the gothic buildings and white stone material were the white snowy mountains, making them look larger."
         },
         {
           "id": 62,
           "paragraph_id": 15,
-          "text": "Behind the gothic buildings and white stone material were the white snowy mountains, making them look larger."
+          "text": "At this moment, sitting inside was an anthropoid dressed in an exquisite long robe, was passing a document toward the Queen, who was behind the black veil."
         },
         {
           "id": 63,
           "paragraph_id": 16,
-          "text": "At this moment, sitting inside was an anthropoid dressed in an exquisite long robe, was passing a document toward the Queen, who was behind the black veil."
+          "text": "However, the Queen didnt take it, because the anthropoid was just putting on a show."
         },
         {
           "id": 64,
-          "paragraph_id": 17,
-          "text": "However, the Queen didnt take it, because the anthropoid was just putting on a show."
+          "paragraph_id": 16,
+          "text": "He put the document back on the round table, where eight anthropoids dressed in robes were sitting at."
         },
         {
           "id": 65,
           "paragraph_id": 17,
-          "text": "He put the document back on the round table, where eight anthropoids dressed in robes were sitting at."
-        },
-        {
-          "id": 66,
-          "paragraph_id": 18,
           "text": "It looks as though our campaign South is ninety-percent likely to succeed now."
         },
         {
-          "id": 67,
-          "paragraph_id": 18,
+          "id": 66,
+          "paragraph_id": 17,
           "text": "Our main forces are on their way now."
         },
         {
-          "id": 68,
-          "paragraph_id": 18,
+          "id": 67,
+          "paragraph_id": 17,
           "text": "As long as we can hold the elves and humans, the South shall fall once our main forces arrive."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 17,
+          "text": "Your hometown will soon be returned to you, My Queen."
         },
         {
           "id": 69,
           "paragraph_id": 18,
-          "text": "Your hometown will soon be returned to you, My Queen."
+          "text": "Yes."
         },
         {
           "id": 70,
-          "paragraph_id": 19,
-          "text": "Yes."
+          "paragraph_id": 18,
+          "text": "This is all thanks to your wise decisiveness, My Queen!"
         },
         {
           "id": 71,
           "paragraph_id": 19,
-          "text": "This is all thanks to your wise decisiveness, My Queen!"
-        },
-        {
-          "id": 72,
-          "paragraph_id": 20,
           "text": "Though they said that, they all wore belittling smiles of mockery."
         },
         {
-          "id": 73,
-          "paragraph_id": 20,
+          "id": 72,
+          "paragraph_id": 19,
           "text": "There was no response from behind the black veil."
+        },
+        {
+          "id": 73,
+          "paragraph_id": 19,
+          "text": "It was as though nobody was there, and the anthropoids were merely speaking to an imaginary figure as they played House."
         },
         {
           "id": 74,
           "paragraph_id": 20,
-          "text": "It was as though nobody was there, and the anthropoids were merely speaking to an imaginary figure as they played House."
+          "text": "So then, My Queen, please await the good news from the frontlines."
         },
         {
           "id": 75,
-          "paragraph_id": 21,
-          "text": "So then, My Queen, please await the good news from the frontlines."
+          "paragraph_id": 20,
+          "text": "With our wise general and brave soldiers, your home is within reach now."
         },
         {
           "id": 76,
           "paragraph_id": 21,
-          "text": "With our wise general and brave soldiers, your home is within reach now."
+          "text": "The anthropoids got up and turned around to leave the rulers palace without even bowing, leaving nothing but silence and a black veil that budged a little."
         },
         {
           "id": 77,
           "paragraph_id": 22,
-          "text": "The anthropoids got up and turned around to leave the rulers palace without even bowing, leaving nothing but silence and a black veil that budged a little."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 23,
           "text": "Movement suddenly came from behind the black veil."
         },
         {
-          "id": 79,
-          "paragraph_id": 23,
+          "id": 78,
+          "paragraph_id": 22,
           "text": "The Queen swept the black veil open with one hand, revealing her beautiful face as she let out a heavy sigh."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 22,
+          "text": "She sat weakly in her gold throne, making her appear akin to a cloth doll that was misplaced."
         },
         {
           "id": 80,
           "paragraph_id": 23,
-          "text": "She sat weakly in her gold throne, making her appear akin to a cloth doll that was misplaced."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 24,
           "text": "A tall young girl with long ears walked in."
         },
         {
-          "id": 82,
-          "paragraph_id": 24,
+          "id": 81,
+          "paragraph_id": 23,
           "text": "She looked at the Queen sitting on the throne in a daze with her blood-red eyes."
         },
         {
-          "id": 83,
-          "paragraph_id": 24,
+          "id": 82,
+          "paragraph_id": 23,
           "text": "She made a respectful bow and said, My Queen, has your meeting ended?"
         },
         {
-          "id": 84,
-          "paragraph_id": 24,
+          "id": 83,
+          "paragraph_id": 23,
           "text": "Your dinner has been prepared."
+        },
+        {
+          "id": 84,
+          "paragraph_id": 23,
+          "text": "Please come with me."
         },
         {
           "id": 85,
           "paragraph_id": 24,
-          "text": "Please come with me."
+          "text": "Leah"
         },
         {
           "id": 86,
           "paragraph_id": 25,
-          "text": "Leah"
-        },
-        {
-          "id": 87,
-          "paragraph_id": 26,
           "text": "The Queen looked at her with gold eyes and reached her hand out."
         },
         {
-          "id": 88,
-          "paragraph_id": 26,
+          "id": 87,
+          "paragraph_id": 25,
           "text": "Leah lingered for a moment before revealing a nervous smile."
         },
         {
-          "id": 89,
-          "paragraph_id": 26,
+          "id": 88,
+          "paragraph_id": 25,
           "text": "She placed her hand behind her and softly said, My Queen, my my my hand is a bit dirty so I think it is best not to Ah My Queen!"
+        },
+        {
+          "id": 89,
+          "paragraph_id": 25,
+          "text": "This this"
         },
         {
           "id": 90,
           "paragraph_id": 26,
-          "text": "This this"
-        },
-        {
-          "id": 91,
-          "paragraph_id": 27,
           "text": "The young girl froze in place because the Queen had hugged her tightly."
         },
         {
-          "id": 92,
-          "paragraph_id": 27,
+          "id": 91,
+          "paragraph_id": 26,
           "text": "She went completely red in the face, thereby resembling a ripe tomato, while her excited eyes shook."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 26,
+          "text": "She didnt know if she should hug the Queen back"
         },
         {
           "id": 93,
           "paragraph_id": 27,
-          "text": "She didnt know if she should hug the Queen back"
-        },
-        {
-          "id": 94,
-          "paragraph_id": 28,
           "text": "The Queen gently rubbed her face against the young girls face."
         },
         {
-          "id": 95,
-          "paragraph_id": 28,
+          "id": 94,
+          "paragraph_id": 27,
           "text": "The Queen then let out a heavy sigh, Only you You are the only one around me that still considers me the Queen I didnt want to start this war at all."
         },
         {
-          "id": 96,
-          "paragraph_id": 28,
+          "id": 95,
+          "paragraph_id": 27,
           "text": "I want to go home, but this was not how I wanted to do it."
         },
         {
-          "id": 97,
-          "paragraph_id": 28,
+          "id": 96,
+          "paragraph_id": 27,
           "text": "I I didnt want to but Im useless I dont have any authority."
+        },
+        {
+          "id": 97,
+          "paragraph_id": 27,
+          "text": "Im just a puppet Queen"
         },
         {
           "id": 98,
           "paragraph_id": 28,
-          "text": "Im just a puppet Queen"
-        },
-        {
-          "id": 99,
-          "paragraph_id": 29,
           "text": "You are not!"
         },
         {
-          "id": 100,
-          "paragraph_id": 29,
+          "id": 99,
+          "paragraph_id": 28,
           "text": "My Queen!"
         },
         {
-          "id": 101,
-          "paragraph_id": 29,
+          "id": 100,
+          "paragraph_id": 28,
           "text": "You are the Queen, the ruler of the North!"
+        },
+        {
+          "id": 101,
+          "paragraph_id": 28,
+          "text": "You could save me, so you can save the entire North, as well!"
         },
         {
           "id": 102,
           "paragraph_id": 29,
-          "text": "You could save me, so you can save the entire North, as well!"
+          "text": "But the only one I trusted the only tribe I trusted is no more"
         },
         {
           "id": 103,
           "paragraph_id": 30,
-          "text": "But the only one I trusted the only tribe I trusted is no more"
-        },
-        {
-          "id": 104,
-          "paragraph_id": 31,
           "text": "The Queen shuddered."
         },
         {
-          "id": 105,
-          "paragraph_id": 31,
+          "id": 104,
+          "paragraph_id": 30,
           "text": "The young girl hesitated for a moment before hugging the Queen around her waist."
         },
         {
-          "id": 106,
-          "paragraph_id": 31,
+          "id": 105,
+          "paragraph_id": 30,
           "text": "Next to her ear, she solemnly said, Not yet, My Queen."
         },
         {
-          "id": 107,
-          "paragraph_id": 31,
+          "id": 106,
+          "paragraph_id": 30,
           "text": "The Moon Fox tribe has not yet been completely exterminated."
         },
         {
-          "id": 108,
-          "paragraph_id": 31,
+          "id": 107,
+          "paragraph_id": 30,
           "text": "They still have one last survivor who is their last hope."
         },
         {
-          "id": 109,
-          "paragraph_id": 31,
+          "id": 108,
+          "paragraph_id": 30,
           "text": "Miss Ling Yue, who has the most pure mana, is not dead yet."
         },
         {
-          "id": 110,
-          "paragraph_id": 31,
+          "id": 109,
+          "paragraph_id": 30,
           "text": "She must have left."
         },
         {
-          "id": 111,
-          "paragraph_id": 31,
+          "id": 110,
+          "paragraph_id": 30,
           "text": "She is, definitely, still alive."
+        },
+        {
+          "id": 111,
+          "paragraph_id": 30,
+          "text": "I am certain of it."
         },
         {
           "id": 112,
           "paragraph_id": 31,
-          "text": "I am certain of it."
+          "text": "Can their tribe still save me and the North?"
         },
         {
           "id": 113,
           "paragraph_id": 32,
-          "text": "Can their tribe still save me and the North?"
-        },
-        {
-          "id": 114,
-          "paragraph_id": 33,
           "text": "They can!"
         },
         {
-          "id": 115,
-          "paragraph_id": 33,
+          "id": 114,
+          "paragraph_id": 32,
           "text": "They absolutely can!"
         },
         {
-          "id": 116,
-          "paragraph_id": 33,
+          "id": 115,
+          "paragraph_id": 32,
           "text": "The Moon Fox tribe has never disappointed us after all these centuries and millenniums!"
         },
         {
-          "id": 117,
-          "paragraph_id": 33,
+          "id": 116,
+          "paragraph_id": 32,
           "text": "I believe in them, and you must believe in them, as well, My Queen."
         },
         {
-          "id": 118,
-          "paragraph_id": 33,
+          "id": 117,
+          "paragraph_id": 32,
           "text": "Ling Yue will definitely save us!"
         },
         {
-          "id": 119,
-          "paragraph_id": 33,
+          "id": 118,
+          "paragraph_id": 32,
           "text": "She will definitely save the North!"
+        },
+        {
+          "id": 119,
+          "paragraph_id": 32,
+          "text": "She definitely will!"
         },
         {
           "id": 120,
           "paragraph_id": 33,
-          "text": "She definitely will!"
+          "text": "But I really want to go home I dont want I really dont want to die in this desolate place as my ancestors did again."
         },
         {
           "id": 121,
-          "paragraph_id": 34,
-          "text": "But I really want to go home I dont want I really dont want to die in this desolate place as my ancestors did again."
+          "paragraph_id": 33,
+          "text": "I want to go home I want to return to the south"
         },
         {
           "id": 122,
           "paragraph_id": 34,
-          "text": "I want to go home I want to return to the south"
-        },
-        {
-          "id": 123,
-          "paragraph_id": 35,
           "text": "You will return I I will definitely do my best I will ensure you get to go home, I promise!"
         }
       ],
-      "word_count": 1314
+      "word_count": 1313
     },
     {
       "chapter_index": 464,
@@ -11984,7 +11948,6 @@
         "Of course I wasnt created by two women!! How do I put it the story between the two of them involves my father, Inard Galadriel. Its a very strange story. If youre not sleepy, Ill tell you the story, but well need to be quiet, since",
         "I pointed at Tanya, who was curled up next to me, and finished softly. I took my cape off and covered Tanya with it. The camp had fallen silent. Only the guards and patrol team were still awake. My guards havent had a good rest in a while, but they wont be getting a break anytime soon, unfortunately.",
         "Ling Yue placed her tail on her legs and combed her fur to look nice and neat. She looked at the fire and replied, Tell me the story if youre not sleepy, then. Ive told you my story; tell me yours now, as an exchange.",
-        "=================",
         "Your Highness! Our frontlines are all engaged in battle. It is as we thought. The anthropoids are not harassing us this time as they previously did. This is a pre-mediated war! We beg you, please take to the field. We will help you maintain the rear. You have the purest mana of all. You are the ruler of elves and a demi-god. We hope that you can annihilate as many of our enemies as you can, the same way you did a decade ago!",
         "Vyvyan looked at the General on his knees down below. She twirled her blonde hair with her finger and looked at the large, exuberant tree overhead. She didnt answer. She just looked on as though she was spacing out.",
         "The General continued to await his Queens response on his knees. Vyvyan is the individual with the purest mana. The elves were engaged in a tough battle with the anthropoids in the Eastern forest. She could easily crush them in an instant and reverse the stalemate situation. She could absolutely do it. It would be a simple matter with her mana, but she didnt want to go, because she didnt have an abundance of mana as she did before.",
@@ -12355,245 +12318,240 @@
         {
           "id": 71,
           "paragraph_id": 26,
-          "text": "================="
-        },
-        {
-          "id": 72,
-          "paragraph_id": 27,
           "text": "Your Highness!"
         },
         {
-          "id": 73,
-          "paragraph_id": 27,
+          "id": 72,
+          "paragraph_id": 26,
           "text": "Our frontlines are all engaged in battle."
         },
         {
-          "id": 74,
-          "paragraph_id": 27,
+          "id": 73,
+          "paragraph_id": 26,
           "text": "It is as we thought."
         },
         {
-          "id": 75,
-          "paragraph_id": 27,
+          "id": 74,
+          "paragraph_id": 26,
           "text": "The anthropoids are not harassing us this time as they previously did."
         },
         {
-          "id": 76,
-          "paragraph_id": 27,
+          "id": 75,
+          "paragraph_id": 26,
           "text": "This is a pre-mediated war!"
         },
         {
-          "id": 77,
-          "paragraph_id": 27,
+          "id": 76,
+          "paragraph_id": 26,
           "text": "We beg you, please take to the field."
         },
         {
-          "id": 78,
-          "paragraph_id": 27,
+          "id": 77,
+          "paragraph_id": 26,
           "text": "We will help you maintain the rear."
         },
         {
-          "id": 79,
-          "paragraph_id": 27,
+          "id": 78,
+          "paragraph_id": 26,
           "text": "You have the purest mana of all."
         },
         {
-          "id": 80,
-          "paragraph_id": 27,
+          "id": 79,
+          "paragraph_id": 26,
           "text": "You are the ruler of elves and a demi-god."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 26,
+          "text": "We hope that you can annihilate as many of our enemies as you can, the same way you did a decade ago!"
         },
         {
           "id": 81,
           "paragraph_id": 27,
-          "text": "We hope that you can annihilate as many of our enemies as you can, the same way you did a decade ago!"
-        },
-        {
-          "id": 82,
-          "paragraph_id": 28,
           "text": "Vyvyan looked at the General on his knees down below."
         },
         {
-          "id": 83,
-          "paragraph_id": 28,
+          "id": 82,
+          "paragraph_id": 27,
           "text": "She twirled her blonde hair with her finger and looked at the large, exuberant tree overhead."
         },
         {
-          "id": 84,
-          "paragraph_id": 28,
+          "id": 83,
+          "paragraph_id": 27,
           "text": "She didnt answer."
+        },
+        {
+          "id": 84,
+          "paragraph_id": 27,
+          "text": "She just looked on as though she was spacing out."
         },
         {
           "id": 85,
           "paragraph_id": 28,
-          "text": "She just looked on as though she was spacing out."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 29,
           "text": "The General continued to await his Queens response on his knees."
         },
         {
-          "id": 87,
-          "paragraph_id": 29,
+          "id": 86,
+          "paragraph_id": 28,
           "text": "Vyvyan is the individual with the purest mana."
         },
         {
-          "id": 88,
-          "paragraph_id": 29,
+          "id": 87,
+          "paragraph_id": 28,
           "text": "The elves were engaged in a tough battle with the anthropoids in the Eastern forest."
         },
         {
-          "id": 89,
-          "paragraph_id": 29,
+          "id": 88,
+          "paragraph_id": 28,
           "text": "She could easily crush them in an instant and reverse the stalemate situation."
         },
         {
-          "id": 90,
-          "paragraph_id": 29,
+          "id": 89,
+          "paragraph_id": 28,
           "text": "She could absolutely do it."
+        },
+        {
+          "id": 90,
+          "paragraph_id": 28,
+          "text": "It would be a simple matter with her mana, but she didnt want to go, because she didnt have an abundance of mana as she did before."
         },
         {
           "id": 91,
           "paragraph_id": 29,
-          "text": "It would be a simple matter with her mana, but she didnt want to go, because she didnt have an abundance of mana as she did before."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 30,
           "text": "She had to try to maintain Zero Time Boundary for her child, while her child absorbed her mana as though it was a bottomless pit."
         },
         {
-          "id": 93,
-          "paragraph_id": 30,
+          "id": 92,
+          "paragraph_id": 29,
           "text": "She could control her childs physical growth, but she had to supply mana to her child."
         },
         {
-          "id": 94,
-          "paragraph_id": 30,
+          "id": 93,
+          "paragraph_id": 29,
           "text": "Vyvyan felt surprised."
         },
         {
-          "id": 95,
-          "paragraph_id": 30,
+          "id": 94,
+          "paragraph_id": 29,
           "text": "When she carried Troy, the flow of mana in her wasnt so evident."
         },
         {
-          "id": 96,
-          "paragraph_id": 30,
+          "id": 95,
+          "paragraph_id": 29,
           "text": "Since her child was absorbing so much mana, he must be a descendant with extremely high purity mana."
+        },
+        {
+          "id": 96,
+          "paragraph_id": 29,
+          "text": "He might even be more powerful than her."
         },
         {
           "id": 97,
           "paragraph_id": 30,
-          "text": "He might even be more powerful than her."
-        },
-        {
-          "id": 98,
-          "paragraph_id": 31,
           "text": "However, the consequence was that she didnt dare to use magic carelessly."
         },
         {
-          "id": 99,
-          "paragraph_id": 31,
+          "id": 98,
+          "paragraph_id": 30,
           "text": "If she couldnt supply mana, the boundary would break, thereby revealing the change in her belly."
+        },
+        {
+          "id": 99,
+          "paragraph_id": 30,
+          "text": "Once exposed, she had no means of explaining it to her son."
         },
         {
           "id": 100,
           "paragraph_id": 31,
-          "text": "Once exposed, she had no means of explaining it to her son."
+          "text": "She needed somebody to come to her right now, and said person was her son."
         },
         {
           "id": 101,
           "paragraph_id": 32,
-          "text": "She needed somebody to come to her right now, and said person was her son."
-        },
-        {
-          "id": 102,
-          "paragraph_id": 33,
           "text": "Vyvyan can absorb anothers mana via sucking their blood."
         },
         {
-          "id": 103,
-          "paragraph_id": 33,
+          "id": 102,
+          "paragraph_id": 32,
           "text": "Her son happened to have an abundance of highly pure mana, making him the best candidate for her."
         },
         {
-          "id": 104,
-          "paragraph_id": 33,
+          "id": 103,
+          "paragraph_id": 32,
           "text": "Unfortunately, she couldnt have her son come back as it wasnt safe here in the elven lands."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 32,
+          "text": "She was determined to not put her son in danger."
         },
         {
           "id": 105,
           "paragraph_id": 33,
-          "text": "She was determined to not put her son in danger."
+          "text": "At the same time, she couldnt leave the Imperial Capital during wartime, for she had a duty to fulfil as the ruler of elves."
         },
         {
           "id": 106,
           "paragraph_id": 34,
-          "text": "At the same time, she couldnt leave the Imperial Capital during wartime, for she had a duty to fulfil as the ruler of elves."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 35,
           "text": "Its not time for me to descend to the battlefield yet."
         },
         {
-          "id": 108,
-          "paragraph_id": 35,
+          "id": 107,
+          "paragraph_id": 34,
           "text": "I cant thoughtlessly leave the Imperial Capital."
         },
         {
-          "id": 109,
-          "paragraph_id": 35,
+          "id": 108,
+          "paragraph_id": 34,
           "text": "I took to the field back then, because the human soldiers were right at our city."
+        },
+        {
+          "id": 109,
+          "paragraph_id": 34,
+          "text": "Its nowhere near as dangerous right now, though."
         },
         {
           "id": 110,
           "paragraph_id": 35,
-          "text": "Its nowhere near as dangerous right now, though."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 36,
           "text": "Vyvyan stood up and walked to the door."
         },
         {
-          "id": 112,
-          "paragraph_id": 36,
+          "id": 111,
+          "paragraph_id": 35,
           "text": "She said, If I had to take to the battlefield every time something happened to you, what use do I have for an army?"
         },
         {
-          "id": 113,
-          "paragraph_id": 36,
+          "id": 112,
+          "paragraph_id": 35,
           "text": "What use do I have for a General?"
         },
         {
-          "id": 114,
-          "paragraph_id": 36,
+          "id": 113,
+          "paragraph_id": 35,
           "text": "Youre not my son."
         },
         {
-          "id": 115,
-          "paragraph_id": 36,
+          "id": 114,
+          "paragraph_id": 35,
           "text": "I dont need to personally attend to your affairs."
         },
         {
-          "id": 116,
-          "paragraph_id": 36,
+          "id": 115,
+          "paragraph_id": 35,
           "text": "Additionally, if you disappoint me, I will punish you."
         },
         {
-          "id": 117,
-          "paragraph_id": 36,
+          "id": 116,
+          "paragraph_id": 35,
           "text": "Now return to the frontlines."
         },
         {
-          "id": 118,
-          "paragraph_id": 36,
+          "id": 117,
+          "paragraph_id": 35,
           "text": "I will only personally take to the battlefield when the situation truly becomes dangerous, and I can see the silhouettes of the anthropoids from here!"
         }
       ],
-      "word_count": 1398
+      "word_count": 1397
     },
     {
       "chapter_index": 470,
@@ -13380,7 +13338,6 @@
         "Nothing. Son, sleep for a bit. Get some good rest. Just consider it a dream. Mommy wont disturb your life or ask you to do anything Mommy does everything Mommy does for you, because you are Mommys son. Mommy can do anything for you as long as you can be happy Mommy loves you Honest Mommy loves you far too much",
         "I blankly looked at Moms hand that was stroking my forehead. Moms heterochromia eyes that carried a hint of sadness swallowed me into the darkness before I could shout. I had countless questions to ask and countless things to say, but Mom didnt give me the opportunity.",
         "Mom can erase peoples memories. I dont know if Ill be able to remember anything once Ive woken up",
-        "========",
         "From her throne, Vyvyan looked down at Echte kneeling on one knee and softly said, Make the preparations. I shall go to the frontlines tomorrow.",
         "That that",
         "Ecthe looked at his queen, feeling dumbfounded. Vyvyan covered one of her eyes and sternly said, I think that I need to go to the frontlines. The battle on the frontlines has reached a stalemate. We have no need to be entangled with these over-the-hill filthy anthropoids any longer. The lives of our soldiers are a lot more valuable than theirs. I will personally head out tomorrow. I will show them how frightening an elven rulers fury is.",
@@ -13582,420 +13539,415 @@
         {
           "id": 34,
           "paragraph_id": 11,
-          "text": "========"
+          "text": "From her throne, Vyvyan looked down at Echte kneeling on one knee and softly said, Make the preparations."
         },
         {
           "id": 35,
-          "paragraph_id": 12,
-          "text": "From her throne, Vyvyan looked down at Echte kneeling on one knee and softly said, Make the preparations."
+          "paragraph_id": 11,
+          "text": "I shall go to the frontlines tomorrow."
         },
         {
           "id": 36,
           "paragraph_id": 12,
-          "text": "I shall go to the frontlines tomorrow."
+          "text": "That that"
         },
         {
           "id": 37,
           "paragraph_id": 13,
-          "text": "That that"
-        },
-        {
-          "id": 38,
-          "paragraph_id": 14,
           "text": "Ecthe looked at his queen, feeling dumbfounded."
         },
         {
-          "id": 39,
-          "paragraph_id": 14,
+          "id": 38,
+          "paragraph_id": 13,
           "text": "Vyvyan covered one of her eyes and sternly said, I think that I need to go to the frontlines."
         },
         {
-          "id": 40,
-          "paragraph_id": 14,
+          "id": 39,
+          "paragraph_id": 13,
           "text": "The battle on the frontlines has reached a stalemate."
         },
         {
-          "id": 41,
-          "paragraph_id": 14,
+          "id": 40,
+          "paragraph_id": 13,
           "text": "We have no need to be entangled with these over-the-hill filthy anthropoids any longer."
         },
         {
-          "id": 42,
-          "paragraph_id": 14,
+          "id": 41,
+          "paragraph_id": 13,
           "text": "The lives of our soldiers are a lot more valuable than theirs."
         },
         {
-          "id": 43,
-          "paragraph_id": 14,
+          "id": 42,
+          "paragraph_id": 13,
           "text": "I will personally head out tomorrow."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 13,
+          "text": "I will show them how frightening an elven rulers fury is."
         },
         {
           "id": 44,
           "paragraph_id": 14,
-          "text": "I will show them how frightening an elven rulers fury is."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 15,
           "text": "Is this decision of yours not a bit too reckless?"
         },
         {
-          "id": 46,
-          "paragraph_id": 15,
+          "id": 45,
+          "paragraph_id": 14,
           "text": "You see did you not refuse our Generals request yesterday?"
+        },
+        {
+          "id": 46,
+          "paragraph_id": 14,
+          "text": "For you to suddenly join the frontlines now is"
         },
         {
           "id": 47,
           "paragraph_id": 15,
-          "text": "For you to suddenly join the frontlines now is"
+          "text": "I already told you."
         },
         {
           "id": 48,
-          "paragraph_id": 16,
-          "text": "I already told you."
+          "paragraph_id": 15,
+          "text": "I will go to the frontlines when I judge it to be appropriate, and I believe that I need to go now."
         },
         {
           "id": 49,
           "paragraph_id": 16,
-          "text": "I will go to the frontlines when I judge it to be appropriate, and I believe that I need to go now."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 17,
           "text": "Vyvyan removed her hand and looked at Echte with one of her blood-red eyes."
         },
         {
-          "id": 51,
-          "paragraph_id": 17,
+          "id": 50,
+          "paragraph_id": 16,
           "text": "It was as though she could see through Echtes entire body."
         },
         {
-          "id": 52,
-          "paragraph_id": 17,
+          "id": 51,
+          "paragraph_id": 16,
           "text": "He shivered as if he felt a cold breeze."
         },
         {
-          "id": 53,
-          "paragraph_id": 17,
+          "id": 52,
+          "paragraph_id": 16,
           "text": "Any normal person would be frightened after being looked at by eyes filled with a wild nature."
         },
         {
-          "id": 54,
-          "paragraph_id": 17,
+          "id": 53,
+          "paragraph_id": 16,
           "text": "Her blood-red eyes were evidently abnormal."
         },
         {
-          "id": 55,
-          "paragraph_id": 17,
+          "id": 54,
+          "paragraph_id": 16,
           "text": "They looked as if blood would spill out from them."
+        },
+        {
+          "id": 55,
+          "paragraph_id": 16,
+          "text": "Or maybe they were eyes that wanted to make others spill blood."
         },
         {
           "id": 56,
           "paragraph_id": 17,
-          "text": "Or maybe they were eyes that wanted to make others spill blood."
+          "text": "Then, your health"
         },
         {
           "id": 57,
           "paragraph_id": 18,
-          "text": "Then, your health"
-        },
-        {
-          "id": 58,
-          "paragraph_id": 19,
           "text": "Ive always been fine."
         },
         {
-          "id": 59,
-          "paragraph_id": 19,
+          "id": 58,
+          "paragraph_id": 18,
           "text": "Vyvyan flexed her neck then whipped her long blonde hair, My mana and body are both fine."
         },
         {
-          "id": 60,
-          "paragraph_id": 19,
+          "id": 59,
+          "paragraph_id": 18,
           "text": "As a matter of fact, I have more mana than before."
         },
         {
-          "id": 61,
-          "paragraph_id": 19,
+          "id": 60,
+          "paragraph_id": 18,
           "text": "My son is here by my side, so naturally, I cant sit in the rear and watch my son go to war."
         },
         {
-          "id": 62,
-          "paragraph_id": 19,
+          "id": 61,
+          "paragraph_id": 18,
           "text": "My son is the Elven Prince."
         },
         {
-          "id": 63,
-          "paragraph_id": 19,
+          "id": 62,
+          "paragraph_id": 18,
           "text": "As the Elven Prince, he cant just sit around in the rear."
         },
         {
-          "id": 64,
-          "paragraph_id": 19,
+          "id": 63,
+          "paragraph_id": 18,
           "text": "I will accompany my son."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 18,
+          "text": "He shall protect this nation. and I shall protect him."
         },
         {
           "id": 65,
           "paragraph_id": 19,
-          "text": "He shall protect this nation. and I shall protect him."
+          "text": "Echte, while looking at his Queen, lingered for a moment before nodding, All right, Your Highness."
         },
         {
           "id": 66,
-          "paragraph_id": 20,
-          "text": "Echte, while looking at his Queen, lingered for a moment before nodding, All right, Your Highness."
+          "paragraph_id": 19,
+          "text": "The Imperial Guards shall accompany you at your side."
         },
         {
           "id": 67,
           "paragraph_id": 20,
-          "text": "The Imperial Guards shall accompany you at your side."
+          "text": "Uhm, also, girl, whos been standing at the door the entire time, you came here with my son, right?"
         },
         {
           "id": 68,
           "paragraph_id": 21,
-          "text": "Uhm, also, girl, whos been standing at the door the entire time, you came here with my son, right?"
-        },
-        {
-          "id": 69,
-          "paragraph_id": 22,
           "text": "Vyvyans gaze suddenly shifted to the door."
         },
         {
-          "id": 70,
-          "paragraph_id": 22,
+          "id": 69,
+          "paragraph_id": 21,
           "text": "Echte froze up; he looked at Ling Yue standing at the door shaking."
         },
         {
-          "id": 71,
-          "paragraph_id": 22,
+          "id": 70,
+          "paragraph_id": 21,
           "text": "He, himself, was surprised."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 21,
+          "text": "He stood up and in a tense tone, apologised, I apologise I apologise, Your Highness I I honestly did not notice her"
         },
         {
           "id": 72,
           "paragraph_id": 22,
-          "text": "He stood up and in a tense tone, apologised, I apologise I apologise, Your Highness I I honestly did not notice her"
-        },
-        {
-          "id": 73,
-          "paragraph_id": 23,
           "text": "Its fine."
         },
         {
-          "id": 74,
-          "paragraph_id": 23,
+          "id": 73,
+          "paragraph_id": 22,
           "text": "The girl used magic."
         },
         {
-          "id": 75,
-          "paragraph_id": 23,
+          "id": 74,
+          "paragraph_id": 22,
           "text": "Her mana is a fair lot superior to yours."
         },
         {
-          "id": 76,
-          "paragraph_id": 23,
+          "id": 75,
+          "paragraph_id": 22,
           "text": "Its, therefore, normal for you to have not detected her."
         },
         {
-          "id": 77,
-          "paragraph_id": 23,
+          "id": 76,
+          "paragraph_id": 22,
           "text": "Nonetheless, since my son brought her here, I am not hostile toward her."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 22,
+          "text": "Im just a little curious, since shes stood there for so long."
         },
         {
           "id": 78,
           "paragraph_id": 23,
-          "text": "Im just a little curious, since shes stood there for so long."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 24,
           "text": "Vyvyan looked at her and stood up."
         },
         {
-          "id": 80,
-          "paragraph_id": 24,
+          "id": 79,
+          "paragraph_id": 23,
           "text": "Ling Yues ears and tail shook with excitement when she looked back at her."
         },
         {
-          "id": 81,
-          "paragraph_id": 24,
+          "id": 80,
+          "paragraph_id": 23,
           "text": "She looked at Vyvyan with her own blood-red eyes."
         },
         {
-          "id": 82,
-          "paragraph_id": 24,
+          "id": 81,
+          "paragraph_id": 23,
           "text": "In a shaky voice, she called, G-G-Galadriel?!"
+        },
+        {
+          "id": 82,
+          "paragraph_id": 23,
+          "text": "Your Highness The elves the elves most outstanding leader Galadriel"
         },
         {
           "id": 83,
           "paragraph_id": 24,
-          "text": "Your Highness The elves the elves most outstanding leader Galadriel"
+          "text": "Echte looked at her and thundered, You have no right to mention Her Highnesss surname!"
         },
         {
           "id": 84,
           "paragraph_id": 25,
-          "text": "Echte looked at her and thundered, You have no right to mention Her Highnesss surname!"
-        },
-        {
-          "id": 85,
-          "paragraph_id": 26,
           "text": "Ling Yue ignored him."
         },
         {
-          "id": 86,
-          "paragraph_id": 26,
+          "id": 85,
+          "paragraph_id": 25,
           "text": "She looked at Vyvyan with excitement in her eyes as she sobbed."
         },
         {
-          "id": 87,
-          "paragraph_id": 26,
+          "id": 86,
+          "paragraph_id": 25,
           "text": "She knelt on the ground and sobbed, I beg you I beg you save us Please help us The North the North cannot hold on any longer."
         },
         {
-          "id": 88,
-          "paragraph_id": 26,
+          "id": 87,
+          "paragraph_id": 25,
           "text": "Without the elven spring the North will definitely be destroyed It definitely will be destroyed!"
+        },
+        {
+          "id": 88,
+          "paragraph_id": 25,
+          "text": "I beg you please help us!"
         },
         {
           "id": 89,
           "paragraph_id": 26,
-          "text": "I beg you please help us!"
-        },
-        {
-          "id": 90,
-          "paragraph_id": 27,
           "text": "Vyvyan rose and pushed Echte, who had his sword drawn out, of the way."
         },
         {
-          "id": 91,
-          "paragraph_id": 27,
+          "id": 90,
+          "paragraph_id": 26,
           "text": "The elven spring is a taboo topic for elves."
         },
         {
-          "id": 92,
-          "paragraph_id": 27,
+          "id": 91,
+          "paragraph_id": 26,
           "text": "Nobody is allowed to covet it."
         },
         {
-          "id": 93,
-          "paragraph_id": 27,
+          "id": 92,
+          "paragraph_id": 26,
           "text": "What was on Vyvyans mind right now wasnt that, though."
         },
         {
-          "id": 94,
-          "paragraph_id": 27,
+          "id": 93,
+          "paragraph_id": 26,
           "text": "She slowly walked up to Ling Yue, and then lifted her chin up with her fingers."
         },
         {
-          "id": 95,
-          "paragraph_id": 27,
+          "id": 94,
+          "paragraph_id": 26,
           "text": "She looked at the blood-red crescent moon shaped eyes Ling Yue had."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 26,
+          "text": "With a smile, Vyvyan said, Your eyes are very beautiful."
         },
         {
           "id": 96,
           "paragraph_id": 27,
-          "text": "With a smile, Vyvyan said, Your eyes are very beautiful."
+          "text": "What?"
         },
         {
           "id": 97,
           "paragraph_id": 28,
-          "text": "What?"
+          "text": "Ling Yue didnt quite get it."
         },
         {
           "id": 98,
-          "paragraph_id": 29,
-          "text": "Ling Yue didnt quite get it."
+          "paragraph_id": 28,
+          "text": "She looked at Vyvyan with confusion."
         },
         {
           "id": 99,
           "paragraph_id": 29,
-          "text": "She looked at Vyvyan with confusion."
+          "text": "I think my son would like your pretty eyes, so dont do something that will lead to being you unable to open them again."
         },
         {
           "id": 100,
           "paragraph_id": 30,
-          "text": "I think my son would like your pretty eyes, so dont do something that will lead to being you unable to open them again."
-        },
-        {
-          "id": 101,
-          "paragraph_id": 31,
           "text": "Vyvyan turned around."
         },
         {
-          "id": 102,
-          "paragraph_id": 31,
+          "id": 101,
+          "paragraph_id": 30,
           "text": "With her back facing Ling Yue, she coldly said, The Galadriel tribe controls the elves spring."
         },
         {
-          "id": 103,
-          "paragraph_id": 31,
+          "id": 102,
+          "paragraph_id": 30,
           "text": "Only members of the Galadriel family have the right to discuss where it flows to."
         },
         {
-          "id": 104,
-          "paragraph_id": 31,
+          "id": 103,
+          "paragraph_id": 30,
           "text": "Anybody who wants to pollute it must be punished."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 30,
+          "text": "I shall forgive your rudeness this time, for you are a woman at my sons side; however"
         },
         {
           "id": 105,
           "paragraph_id": 31,
-          "text": "I shall forgive your rudeness this time, for you are a woman at my sons side; however"
-        },
-        {
-          "id": 106,
-          "paragraph_id": 32,
           "text": "Vyvyan appeared behind Ling Yue in what appeared to be an instant."
         },
         {
-          "id": 107,
-          "paragraph_id": 32,
+          "id": 106,
+          "paragraph_id": 31,
           "text": "Ling Yue froze in place as if a dagger was on her back."
         },
         {
-          "id": 108,
-          "paragraph_id": 32,
+          "id": 107,
+          "paragraph_id": 31,
           "text": "Vyvyan gently grabbed Ling Yues tail."
+        },
+        {
+          "id": 108,
+          "paragraph_id": 31,
+          "text": "She giggled softly then continued, However you, too, are an anthropoid Miss you appeared at my sons side when the anthropoids attacked us, and you want us elves spring water You are suspicious from every perspective"
         },
         {
           "id": 109,
           "paragraph_id": 32,
-          "text": "She giggled softly then continued, However you, too, are an anthropoid Miss you appeared at my sons side when the anthropoids attacked us, and you want us elves spring water You are suspicious from every perspective"
+          "text": "I I"
         },
         {
           "id": 110,
           "paragraph_id": 33,
-          "text": "I I"
+          "text": "I can see what youre thinking, Miss."
         },
         {
           "id": 111,
           "paragraph_id": 34,
-          "text": "I can see what youre thinking, Miss."
+          "text": "Vyvyan gently placed Ling Yues tail down."
         },
         {
           "id": 112,
           "paragraph_id": 35,
-          "text": "Vyvyan gently placed Ling Yues tail down."
+          "text": "Ling Yue swiftly coiled her tail underneath her, afraid that it would disappear in the next instant."
         },
         {
           "id": 113,
           "paragraph_id": 36,
-          "text": "Ling Yue swiftly coiled her tail underneath her, afraid that it would disappear in the next instant."
-        },
-        {
-          "id": 114,
-          "paragraph_id": 37,
           "text": "Dont go getting any ideas for my son."
         },
         {
-          "id": 115,
-          "paragraph_id": 37,
+          "id": 114,
+          "paragraph_id": 36,
           "text": "Miss, your thoughts are still considered pure, right now."
         },
         {
-          "id": 116,
-          "paragraph_id": 37,
+          "id": 115,
+          "paragraph_id": 36,
           "text": "However, if you hold any threatening thoughts for my son, even if just a tinge Ill, personally, snap your neck no matter where you are or when"
         }
       ],
-      "word_count": 1329
+      "word_count": 1328
     },
     {
       "chapter_index": 472,
@@ -16071,7 +16023,6 @@
         "Mera, Im sorry. I cant stay for long this time. I need to leave Duargana now. Ive cleaned and tidied your house for you. Your scent in this house has virtually completely disappeared now, but my memory of you will never fade. I came to mourn you, as I might not get a chance to again.",
         "If I survive, Ill come back. Oh, right, if you meet a girl called Luna, please tell her that Im sorry for not having the time to visit her.",
         "Mera, I miss you and if youre wondering I really like you, too I really do like you very much.",
-        "=========================",
         "The White Deer King is, indeed, truly very fast. I had to pay attention to the speed of my men behind me as we rode. We were truly marching swiftly this time. I brought the Earth Dragon Cavalry unit out this time to rush toward Troy City. I hoped that the anthropoids werent rushing to Troy City, but somewhere else. However, the only place that they can go to once leaving the elven lands is Troy City.",
         "Has Troy City become embroiled in a tough battle?",
         "Mommy Vyvyan had tears in her eyes when it was time for me to leave. I knew that she doesnt want me to go somewhere so dangerous. I could probably defeat all of the enemies at Troy City if I brought Mom along, but Mom had to repair the damaged forest. I could only hope that Mommy Vyvyan could provide me with reinforcements after she was done repairing it.",
@@ -16097,7 +16048,6 @@
         "I scrubbed her head and met with her eyes, Tanya, let me give you your second order. You can find the anthropoids commander tomorrow, right? Dont kill him, just scare him off. You must make sure you scare him off. Then you can slay anthropoids to your hearts content. Also, dont worry about whether Im alive or not. Your only mission is to scare off their commander.",
         "Tanya looked at me very calmly, Who shall I follow if you die, then?",
         "I scrubbed her head one last time then replied, Follow whoever you like, whether its Her Majesty or Her Highness. Choose whoever you like. We havent been together for a long time, but, Tanya, you would probably be cuter if you smiled.",
-        "=================",
         "Troy City interior",
         "Your Majesty",
         "Ah, Nier.",
@@ -16183,605 +16133,595 @@
         {
           "id": 15,
           "paragraph_id": 7,
-          "text": "========================="
-        },
-        {
-          "id": 16,
-          "paragraph_id": 8,
           "text": "The White Deer King is, indeed, truly very fast."
         },
         {
-          "id": 17,
-          "paragraph_id": 8,
+          "id": 16,
+          "paragraph_id": 7,
           "text": "I had to pay attention to the speed of my men behind me as we rode."
         },
         {
-          "id": 18,
-          "paragraph_id": 8,
+          "id": 17,
+          "paragraph_id": 7,
           "text": "We were truly marching swiftly this time."
         },
         {
-          "id": 19,
-          "paragraph_id": 8,
+          "id": 18,
+          "paragraph_id": 7,
           "text": "I brought the Earth Dragon Cavalry unit out this time to rush toward Troy City."
         },
         {
-          "id": 20,
-          "paragraph_id": 8,
+          "id": 19,
+          "paragraph_id": 7,
           "text": "I hoped that the anthropoids werent rushing to Troy City, but somewhere else."
+        },
+        {
+          "id": 20,
+          "paragraph_id": 7,
+          "text": "However, the only place that they can go to once leaving the elven lands is Troy City."
         },
         {
           "id": 21,
           "paragraph_id": 8,
-          "text": "However, the only place that they can go to once leaving the elven lands is Troy City."
+          "text": "Has Troy City become embroiled in a tough battle?"
         },
         {
           "id": 22,
           "paragraph_id": 9,
-          "text": "Has Troy City become embroiled in a tough battle?"
-        },
-        {
-          "id": 23,
-          "paragraph_id": 10,
           "text": "Mommy Vyvyan had tears in her eyes when it was time for me to leave."
         },
         {
-          "id": 24,
-          "paragraph_id": 10,
+          "id": 23,
+          "paragraph_id": 9,
           "text": "I knew that she doesnt want me to go somewhere so dangerous."
         },
         {
-          "id": 25,
-          "paragraph_id": 10,
+          "id": 24,
+          "paragraph_id": 9,
           "text": "I could probably defeat all of the enemies at Troy City if I brought Mom along, but Mom had to repair the damaged forest."
+        },
+        {
+          "id": 25,
+          "paragraph_id": 9,
+          "text": "I could only hope that Mommy Vyvyan could provide me with reinforcements after she was done repairing it."
         },
         {
           "id": 26,
           "paragraph_id": 10,
-          "text": "I could only hope that Mommy Vyvyan could provide me with reinforcements after she was done repairing it."
-        },
-        {
-          "id": 27,
-          "paragraph_id": 11,
           "text": "If the anthropoids have launched a full-scale attack, then Im honestly not confident that I can defeat them, because their numbers are far too great."
         },
         {
-          "id": 28,
-          "paragraph_id": 11,
+          "id": 27,
+          "paragraph_id": 10,
           "text": "Theyre akin to ocean tides coming to Troy City."
         },
         {
-          "id": 29,
-          "paragraph_id": 11,
+          "id": 28,
+          "paragraph_id": 10,
           "text": "I only have my Earth Dragon Cavalry unit, plus my tiny militia."
         },
         {
-          "id": 30,
-          "paragraph_id": 11,
+          "id": 29,
+          "paragraph_id": 10,
           "text": "Tanyas companions are a group of less than one-hundred people."
         },
         {
-          "id": 31,
-          "paragraph_id": 11,
+          "id": 30,
+          "paragraph_id": 10,
           "text": "My guard unit appears to look as if its a large unit, but in reality, there arent even one thousand members."
+        },
+        {
+          "id": 31,
+          "paragraph_id": 10,
+          "text": "How am I going to defeat the massive horde of anthropoids?"
         },
         {
           "id": 32,
           "paragraph_id": 11,
-          "text": "How am I going to defeat the massive horde of anthropoids?"
+          "text": "I dont know, but I do know that I must return."
         },
         {
           "id": 33,
           "paragraph_id": 12,
-          "text": "I dont know, but I do know that I must return."
-        },
-        {
-          "id": 34,
-          "paragraph_id": 13,
           "text": "My Mom and my wives are in the city."
         },
         {
-          "id": 35,
-          "paragraph_id": 13,
+          "id": 34,
+          "paragraph_id": 12,
           "text": "Troy City will definitely fall if we dont get reinforcements."
         },
         {
-          "id": 36,
-          "paragraph_id": 13,
+          "id": 35,
+          "paragraph_id": 12,
           "text": "I can only do my best to return to Troy City as soon as possible right now."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 12,
+          "text": "Every second counts."
         },
         {
           "id": 37,
           "paragraph_id": 13,
-          "text": "Every second counts."
-        },
-        {
-          "id": 38,
-          "paragraph_id": 14,
           "text": "However, the Earth Dragon Cavalry unit behind me could barely keep up with my current speed."
         },
         {
-          "id": 39,
-          "paragraph_id": 14,
+          "id": 38,
+          "paragraph_id": 13,
           "text": "The cavalry, on the other hand, couldnt keep up."
+        },
+        {
+          "id": 39,
+          "paragraph_id": 13,
+          "text": "Despite being the best horses, they still couldnt keep up with the White Deer King."
         },
         {
           "id": 40,
           "paragraph_id": 14,
-          "text": "Despite being the best horses, they still couldnt keep up with the White Deer King."
+          "text": "We wont move tonight."
         },
         {
           "id": 41,
-          "paragraph_id": 15,
-          "text": "We wont move tonight."
+          "paragraph_id": 14,
+          "text": "Prepare for a rest."
         },
         {
           "id": 42,
           "paragraph_id": 15,
-          "text": "Prepare for a rest."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 16,
           "text": "We got close to Troy City by night time."
         },
         {
-          "id": 44,
-          "paragraph_id": 16,
+          "id": 43,
+          "paragraph_id": 15,
           "text": "We stopped behind a small mountain slope."
         },
         {
-          "id": 45,
-          "paragraph_id": 16,
+          "id": 44,
+          "paragraph_id": 15,
           "text": "We could see Troy City down below from here."
         },
         {
-          "id": 46,
-          "paragraph_id": 16,
+          "id": 45,
+          "paragraph_id": 15,
           "text": "I rode up to the slope on the White Deer King."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 15,
+          "text": "When I looked down, all of my blood froze."
         },
         {
           "id": 47,
           "paragraph_id": 16,
-          "text": "When I looked down, all of my blood froze."
-        },
-        {
-          "id": 48,
-          "paragraph_id": 17,
           "text": "Flames were burning all around Troy City below."
         },
         {
-          "id": 49,
-          "paragraph_id": 17,
+          "id": 48,
+          "paragraph_id": 16,
           "text": "Those were the flames in the camps of the anthropoids."
         },
         {
-          "id": 50,
-          "paragraph_id": 17,
+          "id": 49,
+          "paragraph_id": 16,
           "text": "They were spread around Troy City similarly to stars in the sky."
         },
         {
-          "id": 51,
-          "paragraph_id": 17,
+          "id": 50,
+          "paragraph_id": 16,
           "text": "They were situated so closely together that it resembled a river of flames."
+        },
+        {
+          "id": 51,
+          "paragraph_id": 16,
+          "text": "I didnt know how many anthropoids were down below, but the number of fires and closely gathered shadows told me that the anthropoids could create a hill to climb over Troy Citys city walls with their sheer numbers alone."
         },
         {
           "id": 52,
           "paragraph_id": 17,
-          "text": "I didnt know how many anthropoids were down below, but the number of fires and closely gathered shadows told me that the anthropoids could create a hill to climb over Troy Citys city walls with their sheer numbers alone."
+          "text": "Ah!"
         },
         {
           "id": 53,
           "paragraph_id": 18,
-          "text": "Ah!"
-        },
-        {
-          "id": 54,
-          "paragraph_id": 19,
           "text": "Ling Yue walked up to my side and exclaimed with surprise when she saw the scene below."
         },
         {
-          "id": 55,
-          "paragraph_id": 19,
+          "id": 54,
+          "paragraph_id": 18,
           "text": "She looked at the fires below with a stunned expression."
         },
         {
-          "id": 56,
-          "paragraph_id": 19,
+          "id": 55,
+          "paragraph_id": 18,
           "text": "Despair and helplessness surfaced in her blood-red eyes."
         },
         {
-          "id": 57,
-          "paragraph_id": 19,
+          "id": 56,
+          "paragraph_id": 18,
           "text": "She turned her head to look at me, Give up Its impossible now."
         },
         {
-          "id": 58,
-          "paragraph_id": 19,
+          "id": 57,
+          "paragraph_id": 18,
           "text": "This city will fall Theres just too many of them Did you know that the anthropoids were actually made from mana using an express method?"
         },
         {
-          "id": 59,
-          "paragraph_id": 19,
+          "id": 58,
+          "paragraph_id": 18,
           "text": "These sorts of lowly anthropoids have a nest."
         },
         {
-          "id": 60,
-          "paragraph_id": 19,
+          "id": 59,
+          "paragraph_id": 18,
           "text": "When the elves were exiled back then, they offered their mana."
         },
         {
-          "id": 61,
-          "paragraph_id": 19,
+          "id": 60,
+          "paragraph_id": 18,
           "text": "A female elf used her mana to create a seedbed."
         },
         {
-          "id": 62,
-          "paragraph_id": 19,
+          "id": 61,
+          "paragraph_id": 18,
           "text": "You just had to provide mana, and would be able to extract countless eggs of mana from it."
         },
         {
-          "id": 63,
-          "paragraph_id": 19,
+          "id": 62,
+          "paragraph_id": 18,
           "text": "The eggs would take shape in a matter of days."
         },
         {
-          "id": 64,
-          "paragraph_id": 19,
+          "id": 63,
+          "paragraph_id": 18,
           "text": "After ten or so days, theyd have grown up."
         },
         {
-          "id": 65,
-          "paragraph_id": 19,
+          "id": 64,
+          "paragraph_id": 18,
           "text": "That is how the anthropoids below were created."
         },
         {
-          "id": 66,
-          "paragraph_id": 19,
+          "id": 65,
+          "paragraph_id": 18,
           "text": "They dont have any brains, are very obedient and wont resist."
         },
         {
-          "id": 67,
-          "paragraph_id": 19,
+          "id": 66,
+          "paragraph_id": 18,
           "text": "They were born as suicide attackers and slaves."
+        },
+        {
+          "id": 67,
+          "paragraph_id": 18,
+          "text": "It was through their labour that we managed to maintain basic life in the North"
         },
         {
           "id": 68,
           "paragraph_id": 19,
-          "text": "It was through their labour that we managed to maintain basic life in the North"
+          "text": "So, your tribe warmed up the land there, while the elves created these pieces of shit worker ants, right?"
         },
         {
           "id": 69,
           "paragraph_id": 20,
-          "text": "So, your tribe warmed up the land there, while the elves created these pieces of shit worker ants, right?"
+          "text": "Worker ants?"
         },
         {
           "id": 70,
           "paragraph_id": 21,
-          "text": "Worker ants?"
-        },
-        {
-          "id": 71,
-          "paragraph_id": 22,
           "text": "I looked at the elves below with a cold gaze and explained, Worker ants are like them."
         },
         {
-          "id": 72,
-          "paragraph_id": 22,
+          "id": 71,
+          "paragraph_id": 21,
           "text": "Theyre the lowest life form."
         },
         {
-          "id": 73,
-          "paragraph_id": 22,
+          "id": 72,
+          "paragraph_id": 21,
           "text": "Theyre used as disposable goods."
         },
         {
-          "id": 74,
-          "paragraph_id": 22,
+          "id": 73,
+          "paragraph_id": 21,
           "text": "I know that there are lots of them, and I know how many men we have, but thats not a reason for me to retreat."
         },
         {
-          "id": 75,
-          "paragraph_id": 22,
+          "id": 74,
+          "paragraph_id": 21,
           "text": "Ling Yue, you have your reasons for insisting to return to the North."
         },
         {
-          "id": 76,
-          "paragraph_id": 22,
+          "id": 75,
+          "paragraph_id": 21,
           "text": "Likewise, I have my reasons for insisting on returning to Troy City."
         },
         {
-          "id": 77,
-          "paragraph_id": 22,
+          "id": 76,
+          "paragraph_id": 21,
           "text": "My mother and wives are inside Troy City."
         },
         {
-          "id": 78,
-          "paragraph_id": 22,
+          "id": 77,
+          "paragraph_id": 21,
           "text": "I have to die at my house if I must die."
+        },
+        {
+          "id": 78,
+          "paragraph_id": 21,
+          "text": "Im not abandoning my family for my own hide."
         },
         {
           "id": 79,
           "paragraph_id": 22,
-          "text": "Im not abandoning my family for my own hide."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 23,
           "text": "Its impossible!!"
         },
         {
-          "id": 81,
-          "paragraph_id": 23,
+          "id": 80,
+          "paragraph_id": 22,
           "text": "Its impossible!"
         },
         {
-          "id": 82,
-          "paragraph_id": 23,
+          "id": 81,
+          "paragraph_id": 22,
           "text": "We cant defeat these numbers!"
         },
         {
-          "id": 83,
-          "paragraph_id": 23,
+          "id": 82,
+          "paragraph_id": 22,
           "text": "They dont know fear!"
         },
         {
-          "id": 84,
-          "paragraph_id": 23,
+          "id": 83,
+          "paragraph_id": 22,
           "text": "They wont retreat unless their commander gives the order to!"
         },
         {
-          "id": 85,
-          "paragraph_id": 23,
+          "id": 84,
+          "paragraph_id": 22,
           "text": "We cant kill so many anthropoids!"
         },
         {
-          "id": 86,
-          "paragraph_id": 23,
+          "id": 85,
+          "paragraph_id": 22,
           "text": "Its absolutely impossible!"
+        },
+        {
+          "id": 86,
+          "paragraph_id": 22,
+          "text": "Youre just marching to your own death!"
         },
         {
           "id": 87,
           "paragraph_id": 23,
-          "text": "Youre just marching to your own death!"
-        },
-        {
-          "id": 88,
-          "paragraph_id": 24,
           "text": "Ling Yue looked at me."
         },
         {
-          "id": 89,
-          "paragraph_id": 24,
+          "id": 88,
+          "paragraph_id": 23,
           "text": "Her beautiful face was covered with anxiety."
         },
         {
-          "id": 90,
-          "paragraph_id": 24,
+          "id": 89,
+          "paragraph_id": 23,
           "text": "She looked at me while swinging her tail around with all her might."
         },
         {
-          "id": 91,
-          "paragraph_id": 24,
+          "id": 90,
+          "paragraph_id": 23,
           "text": "She anxiously said, Youre my only hope!!"
         },
         {
-          "id": 92,
-          "paragraph_id": 24,
+          "id": 91,
+          "paragraph_id": 23,
           "text": "Cant we return to the elves?!"
         },
         {
-          "id": 93,
-          "paragraph_id": 24,
+          "id": 92,
+          "paragraph_id": 23,
           "text": "Get the Queen to come."
         },
         {
-          "id": 94,
-          "paragraph_id": 24,
+          "id": 93,
+          "paragraph_id": 23,
           "text": "Get your mom to come."
         },
         {
-          "id": 95,
-          "paragraph_id": 24,
+          "id": 94,
+          "paragraph_id": 23,
           "text": "Your mom could easily obliterate the enemies here with her magic, right?!"
+        },
+        {
+          "id": 95,
+          "paragraph_id": 23,
+          "text": "You just need to wait for a bit, and the problem will be solved, so why do you insist on marching to your own death?!"
         },
         {
           "id": 96,
           "paragraph_id": 24,
-          "text": "You just need to wait for a bit, and the problem will be solved, so why do you insist on marching to your own death?!"
+          "text": "Because some things cant wait."
         },
         {
           "id": 97,
-          "paragraph_id": 25,
-          "text": "Because some things cant wait."
+          "paragraph_id": 24,
+          "text": "I can wait, and I can flee, but my family cant wait or flee."
         },
         {
           "id": 98,
           "paragraph_id": 25,
-          "text": "I can wait, and I can flee, but my family cant wait or flee."
-        },
-        {
-          "id": 99,
-          "paragraph_id": 26,
           "text": "I turned around and descended the slope."
         },
         {
-          "id": 100,
-          "paragraph_id": 26,
+          "id": 99,
+          "paragraph_id": 25,
           "text": "From Behind, Ling Yue loudly shouted, Dont go dying!!"
         },
         {
-          "id": 101,
-          "paragraph_id": 26,
+          "id": 100,
+          "paragraph_id": 25,
           "text": "What am I going to do if you die?!"
         },
         {
-          "id": 102,
-          "paragraph_id": 26,
+          "id": 101,
+          "paragraph_id": 25,
           "text": "It wasnt easy for me to meet you!!"
+        },
+        {
+          "id": 102,
+          "paragraph_id": 25,
+          "text": "Who is going to help me get my revenge if you die?!"
         },
         {
           "id": 103,
           "paragraph_id": 26,
-          "text": "Who is going to help me get my revenge if you die?!"
-        },
-        {
-          "id": 104,
-          "paragraph_id": 27,
           "text": "Go and find Vyvyan; go and see my moms."
         },
         {
-          "id": 105,
-          "paragraph_id": 27,
+          "id": 104,
+          "paragraph_id": 26,
           "text": "If I die, the two of them will scorch the entire North."
+        },
+        {
+          "id": 105,
+          "paragraph_id": 26,
+          "text": "Theyll definitely be able to help you get your revenge."
         },
         {
           "id": 106,
           "paragraph_id": 27,
-          "text": "Theyll definitely be able to help you get your revenge."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 28,
           "text": "I rubbed my nose."
         },
         {
-          "id": 108,
-          "paragraph_id": 28,
+          "id": 107,
+          "paragraph_id": 27,
           "text": "Without turning my head around, I said, Im going to attack them tomorrow."
         },
         {
-          "id": 109,
-          "paragraph_id": 28,
+          "id": 108,
+          "paragraph_id": 27,
           "text": "Stay here if youre afraid."
         },
         {
-          "id": 110,
-          "paragraph_id": 28,
+          "id": 109,
+          "paragraph_id": 27,
           "text": "I wont blame you, as our agreement was for me to help you get revenge, not for you to die with me."
+        },
+        {
+          "id": 110,
+          "paragraph_id": 27,
+          "text": "I dont care."
         },
         {
           "id": 111,
           "paragraph_id": 28,
-          "text": "I dont care."
-        },
-        {
-          "id": 112,
-          "paragraph_id": 29,
           "text": "Ling Yue didnt respon, and I didnt look back."
         },
         {
-          "id": 113,
-          "paragraph_id": 29,
+          "id": 112,
+          "paragraph_id": 28,
           "text": "I continued to go toward Tanya, who was looking at me."
+        },
+        {
+          "id": 113,
+          "paragraph_id": 28,
+          "text": "She looked at me with a complex gaze in silence."
         },
         {
           "id": 114,
           "paragraph_id": 29,
-          "text": "She looked at me with a complex gaze in silence."
-        },
-        {
-          "id": 115,
-          "paragraph_id": 30,
           "text": "I scrubbed her head and met with her eyes, Tanya, let me give you your second order."
         },
         {
-          "id": 116,
-          "paragraph_id": 30,
+          "id": 115,
+          "paragraph_id": 29,
           "text": "You can find the anthropoids commander tomorrow, right?"
         },
         {
-          "id": 117,
-          "paragraph_id": 30,
+          "id": 116,
+          "paragraph_id": 29,
           "text": "Dont kill him, just scare him off."
         },
         {
-          "id": 118,
-          "paragraph_id": 30,
+          "id": 117,
+          "paragraph_id": 29,
           "text": "You must make sure you scare him off."
         },
         {
-          "id": 119,
-          "paragraph_id": 30,
+          "id": 118,
+          "paragraph_id": 29,
           "text": "Then you can slay anthropoids to your hearts content."
         },
         {
-          "id": 120,
-          "paragraph_id": 30,
+          "id": 119,
+          "paragraph_id": 29,
           "text": "Also, dont worry about whether Im alive or not."
+        },
+        {
+          "id": 120,
+          "paragraph_id": 29,
+          "text": "Your only mission is to scare off their commander."
         },
         {
           "id": 121,
           "paragraph_id": 30,
-          "text": "Your only mission is to scare off their commander."
+          "text": "Tanya looked at me very calmly, Who shall I follow if you die, then?"
         },
         {
           "id": 122,
           "paragraph_id": 31,
-          "text": "Tanya looked at me very calmly, Who shall I follow if you die, then?"
-        },
-        {
-          "id": 123,
-          "paragraph_id": 32,
           "text": "I scrubbed her head one last time then replied, Follow whoever you like, whether its Her Majesty or Her Highness."
         },
         {
-          "id": 124,
-          "paragraph_id": 32,
+          "id": 123,
+          "paragraph_id": 31,
           "text": "Choose whoever you like."
+        },
+        {
+          "id": 124,
+          "paragraph_id": 31,
+          "text": "We havent been together for a long time, but, Tanya, you would probably be cuter if you smiled."
         },
         {
           "id": 125,
           "paragraph_id": 32,
-          "text": "We havent been together for a long time, but, Tanya, you would probably be cuter if you smiled."
+          "text": "Troy City interior"
         },
         {
           "id": 126,
           "paragraph_id": 33,
-          "text": "================="
+          "text": "Your Majesty"
         },
         {
           "id": 127,
           "paragraph_id": 34,
-          "text": "Troy City interior"
+          "text": "Ah, Nier."
         },
         {
           "id": 128,
           "paragraph_id": 35,
-          "text": "Your Majesty"
-        },
-        {
-          "id": 129,
-          "paragraph_id": 36,
-          "text": "Ah, Nier."
-        },
-        {
-          "id": 130,
-          "paragraph_id": 37,
           "text": "Elizabeth placed down her sword that she was wiping."
         },
         {
-          "id": 131,
-          "paragraph_id": 37,
+          "id": 129,
+          "paragraph_id": 35,
           "text": "She looked at Nier and asked, Whats wrong?"
         },
         {
-          "id": 132,
-          "paragraph_id": 37,
+          "id": 130,
+          "paragraph_id": 35,
           "text": "Are you a little afraid?"
         },
         {
-          "id": 133,
-          "paragraph_id": 38,
+          "id": 131,
+          "paragraph_id": 36,
           "text": "No."
         },
         {
-          "id": 134,
-          "paragraph_id": 38,
+          "id": 132,
+          "paragraph_id": 36,
           "text": "It is just I cannot do up my belt It is the lolly pouch His Majesty tied on for me but why can I not do up this belt now?"
         }
       ],
-      "word_count": 1449
+      "word_count": 1447
     },
     {
       "chapter_index": 476,
@@ -16791,7 +16731,7 @@
         "Your Majesty!",
         "The soldiers tasked with defending the city turned their heads around and knelt down when they saw the silhouette coming up the city wall.",
         "Elizabeth looked at them and waved her hand, The enemy is before us, so you dont need to bother with the formalities. Looking at the corpses below is enough to make one feel frustrated. I havent been onto a battlefield for a long time. You can say that Ive returned to where Im meant to be. Have you heard of the battle, The Siege of Lage City? That was the defence battle with the largest gap in power that I ever fought in. At the time, the city walls were littered with corpses. The places that were torn down were blocked up with corpses. However, that was a very good experience. That was the battle that showed who the brave soldiers were.",
-        "Elizabeth looked down at the militia and opened her arms. In a dominant voice, she proudly exclaimed, My proud soldiers, you may have never set foot on a battlefield before or seen death before, but you dont need to be afraid. You were only militia in the past, but I hereby declare all of you participating in the battle, the peoples guardians! You are no longer just militia, but guardians guarding Troy City!g",
+        "Elizabeth looked down at the militia and opened her arms. In a dominant voice, she proudly exclaimed, My proud soldiers, you may have never set foot on a battlefield before or seen death before, but you dont need to be afraid. You were only militia in the past, but I hereby declare all of you participating in the battle, the peoples guardians! You are no longer just militia, but guardians guarding Troy City! g",
         "The soldiers exchanged glances with each other. They didnt whistle or kneel and cheer, but the Empresss words filled them with pride.",
         "They no longer had a reason to run.",
         "They werent militia, but the peoples guardians. The peoples guardians had to protect the people and every inch of their land. Their Empress was right behind them. She stood atop the city wall with them. They had no reason to be afraid or flee.",
@@ -16913,7 +16853,7 @@
         {
           "id": 15,
           "paragraph_id": 3,
-          "text": "You are no longer just militia, but guardians guarding Troy City!g"
+          "text": "You are no longer just militia, but guardians guarding Troy City! g"
         },
         {
           "id": 16,
@@ -17491,7 +17431,7 @@
           "text": "Cavalry, infantry, lets go!"
         }
       ],
-      "word_count": 1323
+      "word_count": 1324
     },
     {
       "chapter_index": 477,
@@ -17514,7 +17454,7 @@
         "I could virtually see the saliva the anthropoids before me spat out as they roared. The irritating stench overrode the nice flower scent on Ling Yue. The ground rumbled beneath their footsteps. It was as if I was charging toward a mountain.",
         "I dont know if I can pierce their defences or how thick their skin is, but Ive got no way back!",
         "The horde of anthropoids charged toward us!!",
-        "Charge!!!!!",
+        "Charge!!!",
         "I roared and the Earth Dragons roared correspondingly. The Earth Dragon riders aimed their long rifles at the anthropoids charging toward us. The Earth Dragons kicked up sand as though they were kicking up tornadoes with every step they took. I made way, and the Earth Dragon Cavalry formed a wedge formation. They were our sharp blade for cutting open a hole!",
         "The charge of the Earth Dragons is as frightening as the charge of a horde of dinosaurs. Everybody gets scared when a gigantic wild beast charges towards them extremely fast, but the anthropoids werent fazed in the least. It was as though seeing the Earth Dragons added fuel to their fighting spirit. The anthropoids howled and charged toward the Earth Dragon riders and their shining spears under the sun!",
         "I pressed my hand down on top of Ling Yues head gently, Hold onto me tightly, Ling Yue. Dont fall off. As long as youre by my side, I shall protect you.",
@@ -17778,7 +17718,7 @@
         {
           "id": 47,
           "paragraph_id": 16,
-          "text": "Charge!!!!!"
+          "text": "Charge!!!"
         },
         {
           "id": 48,
@@ -18211,7 +18151,6 @@
         "Lucia stood to the side while the Valkyries mounted their horses. The city doors slowly opened, creating a narrow path for the warriors to get out. Nier watched the backs of the Valkyries as her tears coursed down her face. Lucia walked up to her and poked Niers chest. She said, How powerless do you consider His Highness? I think that the Prince that I see is different to the one in your eyes. Dont worry. His Highness has never let me down before. He will definitely return to our side, because he loves me.",
         "You mean he loves me!",
         "You want to fight?!",
-        "=======================",
         "It stank on the city walls now.",
         "The siege towers ended up managing getting close to the walls. They let down a wooden board, which connected the top of the siege tower to the city walls, allowing countless anthropoids to get into the city. However, it wasnt that simple. As soon as the board was lowered, the human soldiers tossed explosives inside before the anthropoids could even shout. The explosives blew up inside the tower, causing the smell of burnt things to come from the interior of the towers. They even poured a black liquid into the entrance and lit it up with fire.",
         "Elizabeth zipped around the crowds comparably to lightning. All that could be seen of her blade was an afterimage. Every time her cape was spotted, blood would spill. It was as if her cape was doing the killing, and not her blade. No anthropoid lasted more than even seconds in her presence. Any anthropoid her black eyes laid sight on would have his neck cut the next instant, and his blood would spray into the air similarly to fireworks as a result.",
@@ -18649,295 +18588,290 @@
         {
           "id": 82,
           "paragraph_id": 18,
-          "text": "======================="
+          "text": "It stank on the city walls now."
         },
         {
           "id": 83,
           "paragraph_id": 19,
-          "text": "It stank on the city walls now."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 20,
           "text": "The siege towers ended up managing getting close to the walls."
         },
         {
-          "id": 85,
-          "paragraph_id": 20,
+          "id": 84,
+          "paragraph_id": 19,
           "text": "They let down a wooden board, which connected the top of the siege tower to the city walls, allowing countless anthropoids to get into the city."
         },
         {
-          "id": 86,
-          "paragraph_id": 20,
+          "id": 85,
+          "paragraph_id": 19,
           "text": "However, it wasnt that simple."
         },
         {
-          "id": 87,
-          "paragraph_id": 20,
+          "id": 86,
+          "paragraph_id": 19,
           "text": "As soon as the board was lowered, the human soldiers tossed explosives inside before the anthropoids could even shout."
         },
         {
-          "id": 88,
-          "paragraph_id": 20,
+          "id": 87,
+          "paragraph_id": 19,
           "text": "The explosives blew up inside the tower, causing the smell of burnt things to come from the interior of the towers."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 19,
+          "text": "They even poured a black liquid into the entrance and lit it up with fire."
         },
         {
           "id": 89,
           "paragraph_id": 20,
-          "text": "They even poured a black liquid into the entrance and lit it up with fire."
-        },
-        {
-          "id": 90,
-          "paragraph_id": 21,
           "text": "Elizabeth zipped around the crowds comparably to lightning."
         },
         {
-          "id": 91,
-          "paragraph_id": 21,
+          "id": 90,
+          "paragraph_id": 20,
           "text": "All that could be seen of her blade was an afterimage."
         },
         {
-          "id": 92,
-          "paragraph_id": 21,
+          "id": 91,
+          "paragraph_id": 20,
           "text": "Every time her cape was spotted, blood would spill."
         },
         {
-          "id": 93,
-          "paragraph_id": 21,
+          "id": 92,
+          "paragraph_id": 20,
           "text": "It was as if her cape was doing the killing, and not her blade."
         },
         {
-          "id": 94,
-          "paragraph_id": 21,
+          "id": 93,
+          "paragraph_id": 20,
           "text": "No anthropoid lasted more than even seconds in her presence."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 20,
+          "text": "Any anthropoid her black eyes laid sight on would have his neck cut the next instant, and his blood would spray into the air similarly to fireworks as a result."
         },
         {
           "id": 95,
           "paragraph_id": 21,
-          "text": "Any anthropoid her black eyes laid sight on would have his neck cut the next instant, and his blood would spray into the air similarly to fireworks as a result."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 22,
           "text": "Nobody could get close to her."
         },
         {
-          "id": 97,
-          "paragraph_id": 22,
+          "id": 96,
+          "paragraph_id": 21,
           "text": "She faced the anthropoids in two siege towers alone."
         },
         {
-          "id": 98,
-          "paragraph_id": 22,
+          "id": 97,
+          "paragraph_id": 21,
           "text": "There were countless heads rolling on the ground and corpses at her feet."
         },
         {
-          "id": 99,
-          "paragraph_id": 22,
+          "id": 98,
+          "paragraph_id": 21,
           "text": "Blood dripped off her boots."
         },
         {
-          "id": 100,
-          "paragraph_id": 22,
+          "id": 99,
+          "paragraph_id": 21,
           "text": "Regardless of where she stepped, she ended up stepping into blood."
         },
         {
-          "id": 101,
-          "paragraph_id": 22,
+          "id": 100,
+          "paragraph_id": 21,
           "text": "Two empty towers were open."
+        },
+        {
+          "id": 101,
+          "paragraph_id": 21,
+          "text": "The anthropoids inside looked at the calm woman before them and were surprisingly trembling."
         },
         {
           "id": 102,
           "paragraph_id": 22,
-          "text": "The anthropoids inside looked at the calm woman before them and were surprisingly trembling."
+          "text": "They were afraid."
         },
         {
           "id": 103,
           "paragraph_id": 23,
-          "text": "They were afraid."
-        },
-        {
-          "id": 104,
-          "paragraph_id": 24,
           "text": "Her long black hair had come undone during her battle and blew in the wind as if it was a black military flag."
         },
         {
-          "id": 105,
-          "paragraph_id": 24,
+          "id": 104,
+          "paragraph_id": 23,
           "text": "Her cape was soaked in so much blood that the wind couldnt move it."
         },
         {
-          "id": 106,
-          "paragraph_id": 24,
+          "id": 105,
+          "paragraph_id": 23,
           "text": "Blood continued to trickle off of her cape."
         },
         {
-          "id": 107,
-          "paragraph_id": 24,
+          "id": 106,
+          "paragraph_id": 23,
           "text": "The gaps between her bits of armour were also covered in blood."
+        },
+        {
+          "id": 107,
+          "paragraph_id": 23,
+          "text": "Her beautiful and venerable face was now stained with blood."
         },
         {
           "id": 108,
           "paragraph_id": 24,
-          "text": "Her beautiful and venerable face was now stained with blood."
-        },
-        {
-          "id": 109,
-          "paragraph_id": 25,
           "text": "Only those black pair of eyes showed a desire to kill and a thirst for blood."
         },
         {
-          "id": 110,
-          "paragraph_id": 25,
+          "id": 109,
+          "paragraph_id": 24,
           "text": "She lowered her blade."
         },
         {
-          "id": 111,
-          "paragraph_id": 25,
+          "id": 110,
+          "paragraph_id": 24,
           "text": "She, herself, didnt know how many anthropoids necks she had cut."
         },
         {
-          "id": 112,
-          "paragraph_id": 25,
+          "id": 111,
+          "paragraph_id": 24,
           "text": "She stood there emotionlessly."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 24,
+          "text": "However, she was covered with the stench of blood and a murderous intent so intense that it appeared as though it could freeze the air."
         },
         {
           "id": 113,
           "paragraph_id": 25,
-          "text": "However, she was covered with the stench of blood and a murderous intent so intense that it appeared as though it could freeze the air."
+          "text": "Nobody dared to step forth, not even the simple anthropoids that were a quick creation through magic."
         },
         {
           "id": 114,
           "paragraph_id": 26,
-          "text": "Nobody dared to step forth, not even the simple anthropoids that were a quick creation through magic."
-        },
-        {
-          "id": 115,
-          "paragraph_id": 27,
           "text": "They now felt an instinctual fear."
         },
         {
-          "id": 116,
-          "paragraph_id": 27,
+          "id": 115,
+          "paragraph_id": 26,
           "text": "Bugs that know that salt water is harmful dont approach it."
+        },
+        {
+          "id": 116,
+          "paragraph_id": 26,
+          "text": "The anthropoids, themselves, were more than aware of that feeling now."
         },
         {
           "id": 117,
           "paragraph_id": 27,
-          "text": "The anthropoids, themselves, were more than aware of that feeling now."
+          "text": "She was invincible."
         },
         {
           "id": 118,
           "paragraph_id": 28,
-          "text": "She was invincible."
+          "text": "If she swung her sword, there was bound to be no survivor."
         },
         {
           "id": 119,
           "paragraph_id": 29,
-          "text": "If she swung her sword, there was bound to be no survivor."
+          "text": "Nobody can threaten my sons city."
         },
         {
           "id": 120,
-          "paragraph_id": 30,
-          "text": "Nobody can threaten my sons city."
+          "paragraph_id": 29,
+          "text": "Absolutely nobody!!"
         },
         {
           "id": 121,
           "paragraph_id": 30,
-          "text": "Absolutely nobody!!"
+          "text": "On another side at the same time, a red silhouette danced among the anthropoids akin to a mesmerising flower and yet akin a deadly lotus."
         },
         {
           "id": 122,
           "paragraph_id": 31,
-          "text": "On another side at the same time, a red silhouette danced among the anthropoids akin to a mesmerising flower and yet akin a deadly lotus."
+          "text": "Honestly"
         },
         {
           "id": 123,
           "paragraph_id": 32,
-          "text": "Honestly"
+          "text": "Her sword cut open the neck of an anthropoid."
         },
         {
           "id": 124,
-          "paragraph_id": 33,
-          "text": "Her sword cut open the neck of an anthropoid."
+          "paragraph_id": 32,
+          "text": "She leapt up and kicked the body kneeling on the ground off the city wall."
         },
         {
           "id": 125,
           "paragraph_id": 33,
-          "text": "She leapt up and kicked the body kneeling on the ground off the city wall."
+          "text": "You anthropoids"
         },
         {
           "id": 126,
           "paragraph_id": 34,
-          "text": "You anthropoids"
-        },
-        {
-          "id": 127,
-          "paragraph_id": 35,
           "text": "She evaded the axe swung at her."
         },
         {
-          "id": 128,
-          "paragraph_id": 35,
+          "id": 127,
+          "paragraph_id": 34,
           "text": "She spun gracefully as if she was dancing."
         },
         {
-          "id": 129,
-          "paragraph_id": 35,
+          "id": 128,
+          "paragraph_id": 34,
           "text": "She swung her arm, slashing the anthropoids neck in half."
+        },
+        {
+          "id": 129,
+          "paragraph_id": 34,
+          "text": "His neck flopped down similarly to a mushroom."
         },
         {
           "id": 130,
           "paragraph_id": 35,
-          "text": "His neck flopped down similarly to a mushroom."
+          "text": "Truly need to learn that"
         },
         {
           "id": 131,
           "paragraph_id": 36,
-          "text": "Truly need to learn that"
-        },
-        {
-          "id": 132,
-          "paragraph_id": 37,
           "text": "She watched the anthropoid charging at her while roaring."
         },
         {
-          "id": 133,
-          "paragraph_id": 37,
+          "id": 132,
+          "paragraph_id": 36,
           "text": "She exploded forward and thrust her sword through his neck."
+        },
+        {
+          "id": 133,
+          "paragraph_id": 36,
+          "text": "Her sword went straight through his neck, causing his blood to drip down his backside."
         },
         {
           "id": 134,
           "paragraph_id": 37,
-          "text": "Her sword went straight through his neck, causing his blood to drip down his backside."
+          "text": "You cant win a battle just by swinging your axe around!!"
         },
         {
           "id": 135,
           "paragraph_id": 38,
-          "text": "You cant win a battle just by swinging your axe around!!"
+          "text": "Lorana pulled her sword out and swiftly spun around."
         },
         {
           "id": 136,
-          "paragraph_id": 39,
-          "text": "Lorana pulled her sword out and swiftly spun around."
+          "paragraph_id": 38,
+          "text": "The blood sprayed into the air behind her, staining her cape with blood."
         },
         {
           "id": 137,
           "paragraph_id": 39,
-          "text": "The blood sprayed into the air behind her, staining her cape with blood."
-        },
-        {
-          "id": 138,
-          "paragraph_id": 40,
           "text": "She turned around and snickered, Lucky I spun around fast."
         },
         {
-          "id": 139,
-          "paragraph_id": 40,
+          "id": 138,
+          "paragraph_id": 39,
           "text": "Otherwise, Id puke at such a foul stench of blood."
         }
       ],
-      "word_count": 1320
+      "word_count": 1319
     },
     {
       "chapter_index": 479,
@@ -23936,7 +23870,6 @@
         "I understand, My Queen.",
         "The Queen pressed her hand on her knights shoulder in a particularly serious fashion. In a somewhat excited tone, she said, It might not be easy for you to leave the palace, as they wont let anyone around me leave, especially after what happened with the Moon Fox Tribe, so you must be cautious when you leave. You might be pursued. The road to the South is long and arduous, but I believe in you. I truly believe in you, my knight. You can do it. You can definitely do it! You definitely can! You definitely can!",
         "The knight hugged her Queen and responded just as solemnly, I know, I know, My Queen.",
-        "=================",
         "Troy City experienced two glorious days inside the city. There were more people in the city than when it was built thanks to all of the high-ranking ministers and dignitaries coming and going. However, I didnt agree to anyones request, because they were not my vassals. I cannot give them what they want from me.",
         "I only need my people. The army from Socina was already gathered outside the city. There were two more armies, in addition to the one that came from nearby. I have three armies with me to attack the North this time. I also have my guard unit, as well as my Tanya and company. You can say that were packing serious military power this time.",
         "Your Majesty, you need to parade the army tomorrow, so you should rest well today.",
@@ -24471,70 +24404,65 @@
         {
           "id": 105,
           "paragraph_id": 28,
-          "text": "================="
-        },
-        {
-          "id": 106,
-          "paragraph_id": 29,
           "text": "Troy City experienced two glorious days inside the city."
         },
         {
-          "id": 107,
-          "paragraph_id": 29,
+          "id": 106,
+          "paragraph_id": 28,
           "text": "There were more people in the city than when it was built thanks to all of the high-ranking ministers and dignitaries coming and going."
         },
         {
-          "id": 108,
-          "paragraph_id": 29,
+          "id": 107,
+          "paragraph_id": 28,
           "text": "However, I didnt agree to anyones request, because they were not my vassals."
+        },
+        {
+          "id": 108,
+          "paragraph_id": 28,
+          "text": "I cannot give them what they want from me."
         },
         {
           "id": 109,
           "paragraph_id": 29,
-          "text": "I cannot give them what they want from me."
-        },
-        {
-          "id": 110,
-          "paragraph_id": 30,
           "text": "I only need my people."
         },
         {
-          "id": 111,
-          "paragraph_id": 30,
+          "id": 110,
+          "paragraph_id": 29,
           "text": "The army from Socina was already gathered outside the city."
         },
         {
-          "id": 112,
-          "paragraph_id": 30,
+          "id": 111,
+          "paragraph_id": 29,
           "text": "There were two more armies, in addition to the one that came from nearby."
         },
         {
-          "id": 113,
-          "paragraph_id": 30,
+          "id": 112,
+          "paragraph_id": 29,
           "text": "I have three armies with me to attack the North this time."
         },
         {
-          "id": 114,
-          "paragraph_id": 30,
+          "id": 113,
+          "paragraph_id": 29,
           "text": "I also have my guard unit, as well as my Tanya and company."
+        },
+        {
+          "id": 114,
+          "paragraph_id": 29,
+          "text": "You can say that were packing serious military power this time."
         },
         {
           "id": 115,
           "paragraph_id": 30,
-          "text": "You can say that were packing serious military power this time."
+          "text": "Your Majesty, you need to parade the army tomorrow, so you should rest well today."
         },
         {
           "id": 116,
           "paragraph_id": 31,
-          "text": "Your Majesty, you need to parade the army tomorrow, so you should rest well today."
-        },
-        {
-          "id": 117,
-          "paragraph_id": 32,
           "text": "Uhm."
         }
       ],
-      "word_count": 1215
+      "word_count": 1214
     },
     {
       "chapter_index": 488,
@@ -26519,7 +26447,6 @@
         "Well Miss Ling Yue is always with His Majesty. We thought that she would not put his life at risk That is why we let Miss Ling Yue be with His Majesty Ah!!",
         "Vyvyan, who had lost her patience, shoved Philes aside with one hand before he could stop her. She restrained him with two vines and even blocked his mouth. Vyvyan pulled the tents curtain open and rushed in.",
         "That was her special right!",
-        "=============",
         "A few hours ago",
         "Your Majesty Your body",
         "Ah, Im fine",
@@ -26552,7 +26479,7 @@
         "Sorry",
         "I felt as though I took a bullet to my heart. My conscience cursed me with all it had. The vexing feeling and regret made me want to pull my handgun out and shoot myself.",
         "What have I done? What have I done to a girl who was already in despair? I I I",
-        "What have I done?! Aaahhhh!!!!!!!",
+        "What have I done?! Aaahhhh!!!",
         "Sorry Sorry Sorry Sorry!!!",
         "I had no idea what to say. Actually, I had countless things to say. I wanted to comfort her, apologise and console her despaired gaze, but all I could do was repeat a totally pointless word over and over with regret and despair.",
         "Ling Yue looked at me; her pink lips budged a little",
@@ -26672,500 +26599,495 @@
         {
           "id": 22,
           "paragraph_id": 8,
-          "text": "============="
+          "text": "A few hours ago"
         },
         {
           "id": 23,
           "paragraph_id": 9,
-          "text": "A few hours ago"
+          "text": "Your Majesty Your body"
         },
         {
           "id": 24,
           "paragraph_id": 10,
-          "text": "Your Majesty Your body"
+          "text": "Ah, Im fine"
         },
         {
           "id": 25,
           "paragraph_id": 11,
-          "text": "Ah, Im fine"
-        },
-        {
-          "id": 26,
-          "paragraph_id": 12,
           "text": "I took in a breath of cold air."
         },
         {
-          "id": 27,
-          "paragraph_id": 12,
+          "id": 26,
+          "paragraph_id": 11,
           "text": "I lay on my bed and gripped the edge of it tightly."
         },
         {
-          "id": 28,
-          "paragraph_id": 12,
+          "id": 27,
+          "paragraph_id": 11,
           "text": "I had virtually lost my vision entirely."
         },
         {
-          "id": 29,
-          "paragraph_id": 12,
+          "id": 28,
+          "paragraph_id": 11,
           "text": "My eyes felt as though they were going to pop out of my head, while the painful ripping sensation radiating throughout my entire body made me feel dizzy."
         },
         {
-          "id": 30,
-          "paragraph_id": 12,
+          "id": 29,
+          "paragraph_id": 11,
           "text": "I wanted to roar out, but I couldnt attract everybodys attention, so I clenched my teeth as tight as I could."
         },
         {
-          "id": 31,
-          "paragraph_id": 12,
+          "id": 30,
+          "paragraph_id": 11,
           "text": "I could even hear myself grinding my teeth."
+        },
+        {
+          "id": 31,
+          "paragraph_id": 11,
+          "text": "It didnt matter if I was wounded, since my boosted mana would heal me."
         },
         {
           "id": 32,
           "paragraph_id": 12,
-          "text": "It didnt matter if I was wounded, since my boosted mana would heal me."
+          "text": "You"
         },
         {
           "id": 33,
           "paragraph_id": 13,
-          "text": "You"
-        },
-        {
-          "id": 34,
-          "paragraph_id": 14,
           "text": "Berserk mana My mana goes berserk on full-moon nights Im used to it Ling Yue, you should hurry and leave."
         },
         {
-          "id": 35,
-          "paragraph_id": 14,
+          "id": 34,
+          "paragraph_id": 13,
           "text": "I dont know how long I can maintain my rationality for."
         },
         {
-          "id": 36,
-          "paragraph_id": 14,
+          "id": 35,
+          "paragraph_id": 13,
           "text": "Youll be the first one to be attacked if I crumble, so hurry up and leave now."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 13,
+          "text": "Mommy Vyvyan will come to help me at midnight."
         },
         {
           "id": 37,
           "paragraph_id": 14,
-          "text": "Mommy Vyvyan will come to help me at midnight."
+          "text": "No!"
         },
         {
           "id": 38,
-          "paragraph_id": 15,
-          "text": "No!"
+          "paragraph_id": 14,
+          "text": "How can I just stand by and watch when youre in so much pain?!"
         },
         {
           "id": 39,
           "paragraph_id": 15,
-          "text": "How can I just stand by and watch when youre in so much pain?!"
+          "text": "Dont act on your emotions Im not suffering a headache or something here but berserk mana Hurry and leave."
         },
         {
           "id": 40,
-          "paragraph_id": 16,
-          "text": "Dont act on your emotions Im not suffering a headache or something here but berserk mana Hurry and leave."
+          "paragraph_id": 15,
+          "text": "Thatll be best for both of us!"
         },
         {
           "id": 41,
           "paragraph_id": 16,
-          "text": "Thatll be best for both of us!"
+          "text": "I seriously started to get irritated."
         },
         {
           "id": 42,
-          "paragraph_id": 17,
-          "text": "I seriously started to get irritated."
+          "paragraph_id": 16,
+          "text": "My annoyance urged me to rip the rambling woman apart."
         },
         {
           "id": 43,
           "paragraph_id": 17,
-          "text": "My annoyance urged me to rip the rambling woman apart."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 18,
           "text": "I must resist."
         },
         {
-          "id": 45,
-          "paragraph_id": 18,
+          "id": 44,
+          "paragraph_id": 17,
           "text": "I must maintain rational."
         },
         {
-          "id": 46,
-          "paragraph_id": 18,
+          "id": 45,
+          "paragraph_id": 17,
           "text": "My desire to seek destruction on full-moon nights is overwhelming."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 17,
+          "text": "Everything best go my way for now, or I might kill without discrimination."
         },
         {
           "id": 47,
           "paragraph_id": 18,
-          "text": "Everything best go my way for now, or I might kill without discrimination."
-        },
-        {
-          "id": 48,
-          "paragraph_id": 19,
           "text": "No!"
         },
         {
-          "id": 49,
-          "paragraph_id": 19,
+          "id": 48,
+          "paragraph_id": 18,
           "text": "Tell me how I can help you!"
         },
         {
-          "id": 50,
-          "paragraph_id": 19,
+          "id": 49,
+          "paragraph_id": 18,
           "text": "I have mana, too!"
         },
         {
-          "id": 51,
-          "paragraph_id": 19,
+          "id": 50,
+          "paragraph_id": 18,
           "text": "I can solve mana problems!"
+        },
+        {
+          "id": 51,
+          "paragraph_id": 18,
+          "text": "I can resolve your problem, cant I?!"
         },
         {
           "id": 52,
           "paragraph_id": 19,
-          "text": "I can resolve your problem, cant I?!"
-        },
-        {
-          "id": 53,
-          "paragraph_id": 20,
           "text": "I chuckled coldly."
         },
         {
-          "id": 54,
-          "paragraph_id": 20,
+          "id": 53,
+          "paragraph_id": 19,
           "text": "I looked in the direction I vaguely heard her voice from."
         },
         {
-          "id": 55,
-          "paragraph_id": 20,
+          "id": 54,
+          "paragraph_id": 19,
           "text": "I replied, Can you?"
         },
         {
-          "id": 56,
-          "paragraph_id": 20,
+          "id": 55,
+          "paragraph_id": 19,
           "text": "I do have a method."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 19,
+          "text": "The question is whether or not youre all right with it."
         },
         {
           "id": 57,
           "paragraph_id": 20,
-          "text": "The question is whether or not youre all right with it."
+          "text": "What method?"
         },
         {
           "id": 58,
           "paragraph_id": 21,
-          "text": "What method?"
+          "text": "Like this"
         },
         {
           "id": 59,
           "paragraph_id": 22,
-          "text": "Like this"
-        },
-        {
-          "id": 60,
-          "paragraph_id": 23,
           "text": "Everything went silent when I explained to her the method for resolving berserk mana."
         },
         {
-          "id": 61,
-          "paragraph_id": 23,
+          "id": 60,
+          "paragraph_id": 22,
           "text": "I was just hopedshe wouldnt slap me."
         },
         {
-          "id": 62,
-          "paragraph_id": 23,
+          "id": 61,
+          "paragraph_id": 22,
           "text": "Usually, I could stand them, but I wouldnt be able to when I was so annoyed."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 22,
+          "text": "I, actually, might get up and rip her apart if she slapped me."
         },
         {
           "id": 63,
           "paragraph_id": 23,
-          "text": "I, actually, might get up and rip her apart if she slapped me."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 24,
           "text": "Understand?"
         },
         {
-          "id": 65,
-          "paragraph_id": 24,
+          "id": 64,
+          "paragraph_id": 23,
           "text": "Thats why you cant help me."
         },
         {
-          "id": 66,
-          "paragraph_id": 24,
+          "id": 65,
+          "paragraph_id": 23,
           "text": "Hurry and leave now."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 23,
+          "text": "At midnight"
         },
         {
           "id": 67,
           "paragraph_id": 24,
-          "text": "At midnight"
-        },
-        {
-          "id": 68,
-          "paragraph_id": 25,
           "text": "Before I finished, a furry tail covered my body, causing me to shiver."
         },
         {
-          "id": 69,
-          "paragraph_id": 25,
+          "id": 68,
+          "paragraph_id": 24,
           "text": "The warm and fluffy fur covered my body, yet I didnt feel annoyed."
         },
         {
-          "id": 70,
-          "paragraph_id": 25,
+          "id": 69,
+          "paragraph_id": 24,
           "text": "In fact, it gave me an oddly peaceful feeling."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 24,
+          "text": "I subconsciously reached my hand out to grab her furry tail."
         },
         {
           "id": 71,
           "paragraph_id": 25,
-          "text": "I subconsciously reached my hand out to grab her furry tail."
+          "text": "Only my husband can stroke this tail on the day we get married"
         },
         {
           "id": 72,
           "paragraph_id": 26,
-          "text": "Only my husband can stroke this tail on the day we get married"
-        },
-        {
-          "id": 73,
-          "paragraph_id": 27,
           "text": "Ling Yues voice came from very close by."
         },
         {
-          "id": 74,
-          "paragraph_id": 27,
+          "id": 73,
+          "paragraph_id": 26,
           "text": "Her teary face appeared before my eyes."
         },
         {
-          "id": 75,
-          "paragraph_id": 27,
+          "id": 74,
+          "paragraph_id": 26,
           "text": "She clasped my face gently then looked at me with a sad look."
         },
         {
-          "id": 76,
-          "paragraph_id": 27,
+          "id": 75,
+          "paragraph_id": 26,
           "text": "She sadly and softly said, I always looked forward to my wedding when I was young I was eager to meet my husband, who I could entrust my entire life with, so I cherish this tail very much."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 26,
+          "text": "This is my promise to my husband and my life in the future But I now no longer have the right to look forward to my happiness I no longer want to love him anymore."
         },
         {
           "id": 77,
           "paragraph_id": 27,
-          "text": "This is my promise to my husband and my life in the future But I now no longer have the right to look forward to my happiness I no longer want to love him anymore."
+          "text": "Ill let you stroke my tail."
         },
         {
           "id": 78,
-          "paragraph_id": 28,
-          "text": "Ill let you stroke my tail."
+          "paragraph_id": 27,
+          "text": "I dont love you and Ive never had any feelings for you But you can help me Can you guarantee you wont abandon me if I give you my body, which is my most important asset?"
         },
         {
           "id": 79,
           "paragraph_id": 28,
-          "text": "I dont love you and Ive never had any feelings for you But you can help me Can you guarantee you wont abandon me if I give you my body, which is my most important asset?"
-        },
-        {
-          "id": 80,
-          "paragraph_id": 29,
           "text": "The Queen can give you what I can give you."
         },
         {
-          "id": 81,
-          "paragraph_id": 29,
+          "id": 80,
+          "paragraph_id": 28,
           "text": "I dont mind you using me to conquer the North."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 28,
+          "text": "This is all I have to exchange with you for you to get my revenge for me You now have a new choice But please dont abandon me I dont have anything else to give you anymore I only have myself and this tail"
         },
         {
           "id": 82,
           "paragraph_id": 29,
-          "text": "This is all I have to exchange with you for you to get my revenge for me You now have a new choice But please dont abandon me I dont have anything else to give you anymore I only have myself and this tail"
+          "text": "Im willing to give these to you even though I dont love you I dont want to be abandoned now"
         },
         {
           "id": 83,
           "paragraph_id": 30,
-          "text": "Im willing to give these to you even though I dont love you I dont want to be abandoned now"
-        },
-        {
-          "id": 84,
-          "paragraph_id": 31,
           "text": "Her body, that was as warm as her tail, leaned in closer to me."
         },
         {
-          "id": 85,
-          "paragraph_id": 31,
+          "id": 84,
+          "paragraph_id": 30,
           "text": "I virtually put up no resistance on the crazy full-moon night."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 30,
+          "text": "I grabbed her, and then aggressively went down on her."
         },
         {
           "id": 86,
           "paragraph_id": 31,
-          "text": "I grabbed her, and then aggressively went down on her."
+          "text": "I didnt know what I did in my crazed moments, but I could remember that Ling Yue didnt react in any way."
         },
         {
           "id": 87,
           "paragraph_id": 32,
-          "text": "I didnt know what I did in my crazed moments, but I could remember that Ling Yue didnt react in any way."
-        },
-        {
-          "id": 88,
-          "paragraph_id": 33,
           "text": "She didnt wrap her arms around me."
         },
         {
-          "id": 89,
-          "paragraph_id": 33,
+          "id": 88,
+          "paragraph_id": 32,
           "text": "She didnt hold my hands."
         },
         {
-          "id": 90,
-          "paragraph_id": 33,
+          "id": 89,
+          "paragraph_id": 32,
           "text": "She didnt even move her tongue when I kissed her."
         },
         {
-          "id": 91,
-          "paragraph_id": 33,
+          "id": 90,
+          "paragraph_id": 32,
           "text": "It was as though the body I clung to was an empty shell, a small puppet."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 32,
+          "text": "I genuinely wouldve believed that if her body wasnt warm."
         },
         {
           "id": 92,
           "paragraph_id": 33,
-          "text": "I genuinely wouldve believed that if her body wasnt warm."
+          "text": "Only Ling Yues face covered in tears and her sadness, that reflected part of the moon, gradually calmed me down."
         },
         {
           "id": 93,
           "paragraph_id": 34,
-          "text": "Only Ling Yues face covered in tears and her sadness, that reflected part of the moon, gradually calmed me down."
-        },
-        {
-          "id": 94,
-          "paragraph_id": 35,
           "text": "She lay there under the moonlight."
         },
         {
-          "id": 95,
-          "paragraph_id": 35,
+          "id": 94,
+          "paragraph_id": 34,
           "text": "She looked at the ceiling with her lifeless blood-red eyes."
         },
         {
-          "id": 96,
-          "paragraph_id": 35,
+          "id": 95,
+          "paragraph_id": 34,
           "text": "She didnt look at me or anywhere in particular."
         },
         {
-          "id": 97,
-          "paragraph_id": 35,
+          "id": 96,
+          "paragraph_id": 34,
           "text": "It was as if she had turned into a corpse."
         },
         {
-          "id": 98,
-          "paragraph_id": 35,
+          "id": 97,
+          "paragraph_id": 34,
           "text": "I held her lifeless tail in my hands."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 34,
+          "text": "Her tail was akin to a foxs tail that had been cut off, or rather, the fur of a skinned fox."
         },
         {
           "id": 99,
           "paragraph_id": 35,
-          "text": "Her tail was akin to a foxs tail that had been cut off, or rather, the fur of a skinned fox."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 36,
           "text": "Tears flowed out of her blood-red eyes as though they were tears of blood that were shed due to despair."
         },
         {
-          "id": 101,
-          "paragraph_id": 36,
+          "id": 100,
+          "paragraph_id": 35,
           "text": "She wore a despairing and sad expression."
+        },
+        {
+          "id": 101,
+          "paragraph_id": 35,
+          "text": "She was a bossy girl, but she now resembled a cloth doll that was torn and tattered after being played with."
         },
         {
           "id": 102,
           "paragraph_id": 36,
-          "text": "She was a bossy girl, but she now resembled a cloth doll that was torn and tattered after being played with."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 37,
           "text": "I released my grip on her tail in a stupefied manner."
         },
         {
-          "id": 104,
-          "paragraph_id": 37,
+          "id": 103,
+          "paragraph_id": 36,
           "text": "Her body jerked a little, and her crescent moon shaped eyes finally budged."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 36,
+          "text": "She looked toward me."
         },
         {
           "id": 105,
           "paragraph_id": 37,
-          "text": "She looked toward me."
+          "text": "Sorry"
         },
         {
           "id": 106,
           "paragraph_id": 38,
-          "text": "Sorry"
-        },
-        {
-          "id": 107,
-          "paragraph_id": 39,
           "text": "I felt as though I took a bullet to my heart."
         },
         {
-          "id": 108,
-          "paragraph_id": 39,
+          "id": 107,
+          "paragraph_id": 38,
           "text": "My conscience cursed me with all it had."
+        },
+        {
+          "id": 108,
+          "paragraph_id": 38,
+          "text": "The vexing feeling and regret made me want to pull my handgun out and shoot myself."
         },
         {
           "id": 109,
           "paragraph_id": 39,
-          "text": "The vexing feeling and regret made me want to pull my handgun out and shoot myself."
-        },
-        {
-          "id": 110,
-          "paragraph_id": 40,
           "text": "What have I done?"
         },
         {
-          "id": 111,
-          "paragraph_id": 40,
+          "id": 110,
+          "paragraph_id": 39,
           "text": "What have I done to a girl who was already in despair?"
+        },
+        {
+          "id": 111,
+          "paragraph_id": 39,
+          "text": "I I I"
         },
         {
           "id": 112,
           "paragraph_id": 40,
-          "text": "I I I"
+          "text": "What have I done?!"
         },
         {
           "id": 113,
-          "paragraph_id": 41,
-          "text": "What have I done?!"
+          "paragraph_id": 40,
+          "text": "Aaahhhh!!!"
         },
         {
           "id": 114,
           "paragraph_id": 41,
-          "text": "Aaahhhh!!!!!!!"
+          "text": "Sorry Sorry Sorry Sorry!!!"
         },
         {
           "id": 115,
           "paragraph_id": 42,
-          "text": "Sorry Sorry Sorry Sorry!!!"
-        },
-        {
-          "id": 116,
-          "paragraph_id": 43,
           "text": "I had no idea what to say."
         },
         {
-          "id": 117,
-          "paragraph_id": 43,
+          "id": 116,
+          "paragraph_id": 42,
           "text": "Actually, I had countless things to say."
+        },
+        {
+          "id": 117,
+          "paragraph_id": 42,
+          "text": "I wanted to comfort her, apologise and console her despaired gaze, but all I could do was repeat a totally pointless word over and over with regret and despair."
         },
         {
           "id": 118,
           "paragraph_id": 43,
-          "text": "I wanted to comfort her, apologise and console her despaired gaze, but all I could do was repeat a totally pointless word over and over with regret and despair."
+          "text": "Ling Yue looked at me; her pink lips budged a little"
         },
         {
           "id": 119,
           "paragraph_id": 44,
-          "text": "Ling Yue looked at me; her pink lips budged a little"
-        },
-        {
-          "id": 120,
-          "paragraph_id": 45,
           "text": "I I gave you my last possession Dont abandon me Help me get revenge revenge"
         }
       ],
-      "word_count": 1298
+      "word_count": 1297
     },
     {
       "chapter_index": 492,
@@ -32155,7 +32077,6 @@
         "He knew that one man couldnt change a war, which was why he felt despaired. He might not be able to change anything regardless of how brilliantly he fought on the frontlines, so he had to go despite his own despair.",
         "He wasnt fighting just for his wife and child, but also for his honour as a noble. He wasnt a coward. Honour flowed in his blood. His ancestors blood once flowed in the Norths soil. How could he fall after burying his ancestors?",
         "He had to head south. He had to fight with the humans. He didnt want to be buried with those other anthropoids even if he only had this army alone and even if he had to die.",
-        "============",
         "I silently acknowledged what Ling Yue said to me.",
         "I looked at the soldiers below. It was night time, but I could see everyones face lighted up by the flames. They looked up at me as they awaited my command.",
         "I was now wearing the Elven Kings war cloak and held the Elven Kings sword in my hand. They were the honour Mommy Vyvyan and the Galadriel gave me. The red scarf at my neck swayed gently. It was very simple in design and old, but it was Mommy Elizabeths protection for me, nonetheless.",
@@ -32506,245 +32427,240 @@
         {
           "id": 65,
           "paragraph_id": 18,
-          "text": "============"
+          "text": "I silently acknowledged what Ling Yue said to me."
         },
         {
           "id": 66,
           "paragraph_id": 19,
-          "text": "I silently acknowledged what Ling Yue said to me."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 20,
           "text": "I looked at the soldiers below."
         },
         {
-          "id": 68,
-          "paragraph_id": 20,
+          "id": 67,
+          "paragraph_id": 19,
           "text": "It was night time, but I could see everyones face lighted up by the flames."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 19,
+          "text": "They looked up at me as they awaited my command."
         },
         {
           "id": 69,
           "paragraph_id": 20,
-          "text": "They looked up at me as they awaited my command."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 21,
           "text": "I was now wearing the Elven Kings war cloak and held the Elven Kings sword in my hand."
         },
         {
-          "id": 71,
-          "paragraph_id": 21,
+          "id": 70,
+          "paragraph_id": 20,
           "text": "They were the honour Mommy Vyvyan and the Galadriel gave me."
         },
         {
-          "id": 72,
-          "paragraph_id": 21,
+          "id": 71,
+          "paragraph_id": 20,
           "text": "The red scarf at my neck swayed gently."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 20,
+          "text": "It was very simple in design and old, but it was Mommy Elizabeths protection for me, nonetheless."
         },
         {
           "id": 73,
           "paragraph_id": 21,
-          "text": "It was very simple in design and old, but it was Mommy Elizabeths protection for me, nonetheless."
+          "text": "I took out a protective amulet from my shirt, and gave it a gentle kiss."
         },
         {
           "id": 74,
           "paragraph_id": 22,
-          "text": "I took out a protective amulet from my shirt, and gave it a gentle kiss."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 23,
           "text": "Nier gave me the amulet."
         },
         {
-          "id": 76,
-          "paragraph_id": 23,
+          "id": 75,
+          "paragraph_id": 22,
           "text": "It was the same as the one I took with me to the desert, except that this one was made by the two of them."
         },
         {
-          "id": 77,
-          "paragraph_id": 23,
+          "id": 76,
+          "paragraph_id": 22,
           "text": "I looked at the small protective amulet as though I could see the two of them together."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 22,
+          "text": "I ran my hand that had gotten used to holding a sword on it as if I was engraving time."
         },
         {
           "id": 78,
           "paragraph_id": 23,
-          "text": "I ran my hand that had gotten used to holding a sword on it as if I was engraving time."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 24,
           "text": "Soldiers, I dont need to say anymore, right?"
         },
         {
-          "id": 80,
-          "paragraph_id": 24,
+          "id": 79,
+          "paragraph_id": 23,
           "text": "Your mission is simple."
         },
         {
-          "id": 81,
-          "paragraph_id": 24,
+          "id": 80,
+          "paragraph_id": 23,
           "text": "Get into the North, and defeat all of our enemies that dare to stand in our way."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 23,
+          "text": "Then let us regroup inside the palace!"
         },
         {
           "id": 82,
           "paragraph_id": 24,
-          "text": "Then let us regroup inside the palace!"
-        },
-        {
-          "id": 83,
-          "paragraph_id": 25,
           "text": "As I looked at the soldiers below, I violently slammed my sword on the rock in front of me."
         },
         {
-          "id": 84,
-          "paragraph_id": 25,
+          "id": 83,
+          "paragraph_id": 24,
           "text": "The soldiers below shouted out in sync."
+        },
+        {
+          "id": 84,
+          "paragraph_id": 24,
+          "text": "All of them wore looks of excitement on their faces."
         },
         {
           "id": 85,
           "paragraph_id": 25,
-          "text": "All of them wore looks of excitement on their faces."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 26,
           "text": "It was understandable."
         },
         {
-          "id": 87,
-          "paragraph_id": 26,
+          "id": 86,
+          "paragraph_id": 25,
           "text": "We were finally attacking after doing nothing for days."
         },
         {
-          "id": 88,
-          "paragraph_id": 26,
+          "id": 87,
+          "paragraph_id": 25,
           "text": "I didnt prepare any camouflage gear."
         },
         {
-          "id": 89,
-          "paragraph_id": 26,
+          "id": 88,
+          "paragraph_id": 25,
           "text": "However, it was desolate in the north, so theyd see our preparations to cross the large canyon if they looked closely."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 25,
+          "text": "I didnt even hide our simply constructed bridges."
         },
         {
           "id": 90,
           "paragraph_id": 26,
-          "text": "I didnt even hide our simply constructed bridges."
+          "text": "There was no reaction from the North, however."
         },
         {
           "id": 91,
-          "paragraph_id": 27,
-          "text": "There was no reaction from the North, however."
+          "paragraph_id": 26,
+          "text": "Though I knew that the four tribes were somewhat estranged with each other, and leaving their zones meant that it was likely theyd be attacked from the rear."
         },
         {
           "id": 92,
           "paragraph_id": 27,
-          "text": "Though I knew that the four tribes were somewhat estranged with each other, and leaving their zones meant that it was likely theyd be attacked from the rear."
+          "text": "Arent they being excessively selfish here?"
         },
         {
           "id": 93,
           "paragraph_id": 28,
-          "text": "Arent they being excessively selfish here?"
+          "text": "The North is faced with a life and death situation now, and yet theyre refusing to attack?"
         },
         {
           "id": 94,
           "paragraph_id": 29,
-          "text": "The North is faced with a life and death situation now, and yet theyre refusing to attack?"
+          "text": "Is the North history or do they still have strength when theyre on their last leg?"
         },
         {
           "id": 95,
           "paragraph_id": 30,
-          "text": "Is the North history or do they still have strength when theyre on their last leg?"
-        },
-        {
-          "id": 96,
-          "paragraph_id": 31,
           "text": "Im actually starting to feel flustered now I really cant make sense of what the anthropoids in the North are thinking."
         },
         {
-          "id": 97,
-          "paragraph_id": 31,
+          "id": 96,
+          "paragraph_id": 30,
           "text": "Theyve divided up the ruling rights in the North, yet they are completely distrustful of each other."
+        },
+        {
+          "id": 97,
+          "paragraph_id": 30,
+          "text": "They should be aware of the severity of the current situation, yet theyre still unwilling to suffer personal losses."
         },
         {
           "id": 98,
           "paragraph_id": 31,
-          "text": "They should be aware of the severity of the current situation, yet theyre still unwilling to suffer personal losses."
+          "text": "Theyll die even if they dont attack."
         },
         {
           "id": 99,
-          "paragraph_id": 32,
-          "text": "Theyll die even if they dont attack."
+          "paragraph_id": 31,
+          "text": "Theyd rather cling to the notion of death and waste away, because they dont trust each other, yet they believe that someone will strike in their place."
         },
         {
           "id": 100,
           "paragraph_id": 32,
-          "text": "Theyd rather cling to the notion of death and waste away, because they dont trust each other, yet they believe that someone will strike in their place."
+          "text": "What sort of thinking is that?"
         },
         {
           "id": 101,
           "paragraph_id": 33,
-          "text": "What sort of thinking is that?"
+          "text": "I dont get it."
         },
         {
           "id": 102,
           "paragraph_id": 34,
-          "text": "I dont get it."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 35,
           "text": "But thats good, isnt it?"
         },
         {
-          "id": 104,
-          "paragraph_id": 35,
+          "id": 103,
+          "paragraph_id": 34,
           "text": "If thats the case, Ill be able to get right into the North."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 34,
+          "text": "With the most likely place to be attacked from brought under control, we wont face any attacks."
         },
         {
           "id": 105,
           "paragraph_id": 35,
-          "text": "With the most likely place to be attacked from brought under control, we wont face any attacks."
+          "text": "Oh, right, I have a new order."
         },
         {
           "id": 106,
           "paragraph_id": 36,
-          "text": "Oh, right, I have a new order."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 37,
           "text": "I looked at the soldiers below and cleared my throat."
         },
         {
-          "id": 108,
-          "paragraph_id": 37,
+          "id": 107,
+          "paragraph_id": 36,
           "text": "I looked at Ling Yue behind me; then turned around and said, Do not kill civilians without my orders."
         },
         {
-          "id": 109,
-          "paragraph_id": 37,
+          "id": 108,
+          "paragraph_id": 36,
           "text": "No plundering, and no damaging civilian structures."
         },
         {
-          "id": 110,
-          "paragraph_id": 37,
+          "id": 109,
+          "paragraph_id": 36,
           "text": "Were soldiers, not thugs."
+        },
+        {
+          "id": 110,
+          "paragraph_id": 36,
+          "text": "If I find out someone disobeys my orders, Ill have you killed regardless of who you are or your rank."
         },
         {
           "id": 111,
           "paragraph_id": 37,
-          "text": "If I find out someone disobeys my orders, Ill have you killed regardless of who you are or your rank."
-        },
-        {
-          "id": 112,
-          "paragraph_id": 38,
           "text": "Roger!"
         }
       ],
-      "word_count": 1288
+      "word_count": 1287
     }
   ]
 }

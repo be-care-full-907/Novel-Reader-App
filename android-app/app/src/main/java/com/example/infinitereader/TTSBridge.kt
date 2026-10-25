@@ -318,14 +318,14 @@ class TTSBridge(private val context: Context, private var webView: WebView) : Te
                                 if (sentArr != null && sentArr.length() > 0) {
                                     for (s in 0 until sentArr.length()) {
                                         val sObj = sentArr.getJSONObject(s)
-                                        val text = sObj.optString("text", "").replace(Regex("\\+{6,}%?"), "*****")
+                                        val text = sObj.optString("text", "").replace(Regex("\\+{6,}%?|\\*{4,}"), "").trim()
                                         if (text.isNotBlank()) sList.add(text)
                                     }
                                 } else {
                                     val pArr = chObj.optJSONArray("paragraphs")
                                     if (pArr != null) {
                                         for (p in 0 until pArr.length()) {
-                                            val pText = pArr.getString(p).replace(Regex("\\+{6,}%?"), "*****")
+                                            val pText = pArr.getString(p).replace(Regex("\\+{6,}%?|\\*{4,}"), "").trim()
                                             val split = pText.split(Regex("(?<=[.!?…])\\s+"))
                                             for (sp in split) {
                                                 if (sp.isNotBlank()) sList.add(sp.trim())
@@ -359,7 +359,7 @@ class TTSBridge(private val context: Context, private var webView: WebView) : Te
                     val sentArr = chObj.optJSONArray("sentences")
                     if (sentArr != null && sentArr.length() > 0) {
                         for (s in 0 until sentArr.length()) {
-                            val text = sentArr.getJSONObject(s).optString("text", "").replace(Regex("\\+{6,}%?"), "*****")
+                            val text = sentArr.getJSONObject(s).optString("text", "").replace(Regex("\\+{6,}%?|\\*{4,}"), "").trim()
                             if (text.isNotBlank()) sList.add(text)
                         }
                     }

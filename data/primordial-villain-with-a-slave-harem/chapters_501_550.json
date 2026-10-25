@@ -5992,7 +5992,6 @@
         "<How many strong guards did you spy around them?>",
         "<Five, and there's also the slim elf lady, Blossom thinks her to be the strongest out of them.>",
         "<Alright, here's the plan...>",
-        "...",
         "\"What's your favorite food? What's your favorite color? What's your favorite hobby?\" Vivienne bombarded Sylvaris with her questions.",
         "The elven matriarch was sitting in front of the twins in their artifact carriage. Next to her sat the perpetually trembling Eira, the 15-year-old girl who was sold as a maid but in reality was groomed to be a pleasure toy.",
         "As for why Sylvaris was not yet harassed, Vivienne was so infatuated with the woman that she wanted to win her heart the right way instead of beginning to molest the elf to her heart's content. To this effect, she did her best to get to know Sylvaris, hence her many questions.",
@@ -6018,7 +6017,6 @@
         "The man didn't respond. He remained still in the form of a towering monument of dread.",
         "Then, from one moment to the next, his form crackled and he vanished.",
         "The guards blinked as they were stunned for a fraction of a second before a flash of lightning illuminated the place.",
-        "...",
         "A/N: Please read the note below."
       ],
       "sentences": [
@@ -6130,300 +6128,290 @@
         {
           "id": 21,
           "paragraph_id": 8,
-          "text": "..."
-        },
-        {
-          "id": 22,
-          "paragraph_id": 9,
           "text": "\"What's your favorite food?"
         },
         {
-          "id": 23,
-          "paragraph_id": 9,
+          "id": 22,
+          "paragraph_id": 8,
           "text": "What's your favorite color?"
+        },
+        {
+          "id": 23,
+          "paragraph_id": 8,
+          "text": "What's your favorite hobby?\" Vivienne bombarded Sylvaris with her questions."
         },
         {
           "id": 24,
           "paragraph_id": 9,
-          "text": "What's your favorite hobby?\" Vivienne bombarded Sylvaris with her questions."
+          "text": "The elven matriarch was sitting in front of the twins in their artifact carriage."
         },
         {
           "id": 25,
-          "paragraph_id": 10,
-          "text": "The elven matriarch was sitting in front of the twins in their artifact carriage."
+          "paragraph_id": 9,
+          "text": "Next to her sat the perpetually trembling Eira, the 15-year-old girl who was sold as a maid but in reality was groomed to be a pleasure toy."
         },
         {
           "id": 26,
           "paragraph_id": 10,
-          "text": "Next to her sat the perpetually trembling Eira, the 15-year-old girl who was sold as a maid but in reality was groomed to be a pleasure toy."
+          "text": "As for why Sylvaris was not yet harassed, Vivienne was so infatuated with the woman that she wanted to win her heart the right way instead of beginning to molest the elf to her heart's content."
         },
         {
           "id": 27,
-          "paragraph_id": 11,
-          "text": "As for why Sylvaris was not yet harassed, Vivienne was so infatuated with the woman that she wanted to win her heart the right way instead of beginning to molest the elf to her heart's content."
+          "paragraph_id": 10,
+          "text": "To this effect, she did her best to get to know Sylvaris, hence her many questions."
         },
         {
           "id": 28,
           "paragraph_id": 11,
-          "text": "To this effect, she did her best to get to know Sylvaris, hence her many questions."
-        },
-        {
-          "id": 29,
-          "paragraph_id": 12,
           "text": "\"Are you ordering me to answer your questions?\" Sylvaris spoke up for the first time."
         },
         {
-          "id": 30,
-          "paragraph_id": 12,
+          "id": 29,
+          "paragraph_id": 11,
           "text": "Her voice was so serene that it bordered on emotionless."
+        },
+        {
+          "id": 30,
+          "paragraph_id": 11,
+          "text": "Her expression was the same; she was the living definition of the words 'refinement' and 'grace'."
         },
         {
           "id": 31,
           "paragraph_id": 12,
-          "text": "Her expression was the same; she was the living definition of the words 'refinement' and 'grace'."
+          "text": "Vivienne gasped, \"No!"
         },
         {
           "id": 32,
-          "paragraph_id": 13,
-          "text": "Vivienne gasped, \"No!"
+          "paragraph_id": 12,
+          "text": "I have no intentions of treating you like a slave.\""
         },
         {
           "id": 33,
           "paragraph_id": 13,
-          "text": "I have no intentions of treating you like a slave.\""
+          "text": "Sylvaris took this as permission to remain silent, which was exactly what she did as she began examining the environment they were traveling through."
         },
         {
           "id": 34,
-          "paragraph_id": 14,
-          "text": "Sylvaris took this as permission to remain silent, which was exactly what she did as she began examining the environment they were traveling through."
+          "paragraph_id": 13,
+          "text": "Their carriage was completely closed off from the outside, but the walls were set up in a way that allowed those sitting inside to see what was going on outside through special artifacts that acted as one-way windows."
         },
         {
           "id": 35,
           "paragraph_id": 14,
-          "text": "Their carriage was completely closed off from the outside, but the walls were set up in a way that allowed those sitting inside to see what was going on outside through special artifacts that acted as one-way windows."
+          "text": "Their guards were positioned outside the carriage, save for the one who sat in a separate compartment and was the driver of the vehicle."
         },
         {
           "id": 36,
-          "paragraph_id": 15,
-          "text": "Their guards were positioned outside the carriage, save for the one who sat in a separate compartment and was the driver of the vehicle."
+          "paragraph_id": 14,
+          "text": "At their levels, the guards could run at incredible speeds, so they didn't hinder the pace of the journey back to Greenvale."
         },
         {
           "id": 37,
           "paragraph_id": 15,
-          "text": "At their levels, the guards could run at incredible speeds, so they didn't hinder the pace of the journey back to Greenvale."
-        },
-        {
-          "id": 38,
-          "paragraph_id": 16,
           "text": "Amara watched her sister fail over and over again her first attempts at winning someone's heart instead of just skipping all steps and raping them, as she always did up until now."
         },
         {
-          "id": 39,
-          "paragraph_id": 16,
+          "id": 38,
+          "paragraph_id": 15,
           "text": "It was quite amusing, but there was one thing going on in her mind that made her anxious."
+        },
+        {
+          "id": 39,
+          "paragraph_id": 15,
+          "text": "\"What do you think Dad will say when he learns how much we spent?\""
         },
         {
           "id": 40,
           "paragraph_id": 16,
-          "text": "\"What do you think Dad will say when he learns how much we spent?\""
-        },
-        {
-          "id": 41,
-          "paragraph_id": 17,
           "text": "Vivienne turned to her twin sister before giggling, \"Hehe!"
         },
         {
-          "id": 42,
-          "paragraph_id": 17,
+          "id": 41,
+          "paragraph_id": 16,
           "text": "I think Papa will not be angry."
         },
         {
-          "id": 43,
-          "paragraph_id": 17,
+          "id": 42,
+          "paragraph_id": 16,
           "text": "Sure, you wasted money on the laborers and the staff, and we spent quite a bit on this useless kid, but Miss Sylvaris should be worth her price."
         },
         {
-          "id": 44,
-          "paragraph_id": 17,
+          "id": 43,
+          "paragraph_id": 16,
           "text": "She is an amazing woman, after all!"
+        },
+        {
+          "id": 44,
+          "paragraph_id": 16,
+          "text": "And even if he gets angry, I'm sure Mom will take care of it.\""
         },
         {
           "id": 45,
           "paragraph_id": 17,
-          "text": "And even if he gets angry, I'm sure Mom will take care of it.\""
-        },
-        {
-          "id": 46,
-          "paragraph_id": 18,
           "text": "\"Are you sure?"
         },
         {
-          "id": 47,
-          "paragraph_id": 18,
+          "id": 46,
+          "paragraph_id": 17,
           "text": "Even if she's a beautiful elf, her class and levels don't make her price worth that much, she's not even a virgin, our information says that she has a daughter who was bought by a man called Quinlan or something stupid like that, who later sold her and that's where the trail ended..."
         },
         {
-          "id": 48,
-          "paragraph_id": 18,
+          "id": 47,
+          "paragraph_id": 17,
           "text": "The only thing that could bolster this elf's value to the 700 gold we paid would be political, but the Alliance of Elvardia doesn't border us, we're constantly warring with the Beastkin Confederation instead."
         },
         {
-          "id": 49,
-          "paragraph_id": 18,
+          "id": 48,
+          "paragraph_id": 17,
           "text": "Therefore I'm not sure how much sway she holds as a hostage."
+        },
+        {
+          "id": 49,
+          "paragraph_id": 17,
+          "text": "Furthermore, there are hundreds of clans in the elf-dwarf alliance, hers isn't anything special.\""
         },
         {
           "id": 50,
           "paragraph_id": 18,
-          "text": "Furthermore, there are hundreds of clans in the elf-dwarf alliance, hers isn't anything special.\""
-        },
-        {
-          "id": 51,
-          "paragraph_id": 19,
           "text": "The two then turned their heads toward Sylvaris, looking for her opinion."
         },
         {
-          "id": 52,
-          "paragraph_id": 19,
+          "id": 51,
+          "paragraph_id": 18,
           "text": "The woman met their gaze but refused to part her delicate lips."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 18,
+          "text": "\"Answer.\" Amara hissed."
         },
         {
           "id": 53,
           "paragraph_id": 19,
-          "text": "\"Answer.\" Amara hissed."
+          "text": "\"My favorite color is silver.\""
         },
         {
           "id": 54,
           "paragraph_id": 20,
-          "text": "\"My favorite color is silver.\""
+          "text": "\"Answer my question, not hers!"
         },
         {
           "id": 55,
-          "paragraph_id": 21,
-          "text": "\"Answer my question, not hers!"
+          "paragraph_id": 20,
+          "text": "Dumb bitch pretending to be crafty...\" Amara hissed."
         },
         {
           "id": 56,
           "paragraph_id": 21,
-          "text": "Dumb bitch pretending to be crafty...\" Amara hissed."
+          "text": "\"Don't speak to her like that!"
         },
         {
           "id": 57,
-          "paragraph_id": 22,
-          "text": "\"Don't speak to her like that!"
+          "paragraph_id": 21,
+          "text": "I'm sorry, Miss Sylvaris, my sister has a foul mouth, but I think very highly of you!\""
         },
         {
           "id": 58,
           "paragraph_id": 22,
-          "text": "I'm sorry, Miss Sylvaris, my sister has a foul mouth, but I think very highly of you!\""
+          "text": "Sylvaris ignored Vivienne and replied to Amara with condescending eyes as if she were conversing with a stupid kid; \"You didn't ask a question.\""
         },
         {
           "id": 59,
           "paragraph_id": 23,
-          "text": "Sylvaris ignored Vivienne and replied to Amara with condescending eyes as if she were conversing with a stupid kid; \"You didn't ask a question.\""
+          "text": "Amara had enough - she lunged at the elven matriarch to beat her rude mouth up, but Vivienne grabbed onto the furious woman to hold her back."
         },
         {
           "id": 60,
           "paragraph_id": 24,
-          "text": "Amara had enough - she lunged at the elven matriarch to beat her rude mouth up, but Vivienne grabbed onto the furious woman to hold her back."
+          "text": "The guard at the front who assumed driver duties suddenly shouted with a voice that was full of unease, \"There's someone ahead!\" Her words caught everyone's attention, silencing the chatter inside the carriage."
         },
         {
           "id": 61,
           "paragraph_id": 25,
-          "text": "The guard at the front who assumed driver duties suddenly shouted with a voice that was full of unease, \"There's someone ahead!\" Her words caught everyone's attention, silencing the chatter inside the carriage."
+          "text": "Vivienne and Amara exchanged puzzled glances, the speed with which they traveled should not allow anyone to set up a trap in time, as their vehicle allowed them to take any uncharted path they wanted."
         },
         {
           "id": 62,
-          "paragraph_id": 26,
-          "text": "Vivienne and Amara exchanged puzzled glances, the speed with which they traveled should not allow anyone to set up a trap in time, as their vehicle allowed them to take any uncharted path they wanted."
+          "paragraph_id": 25,
+          "text": "No one should know where they were precisely until they arrived home."
         },
         {
           "id": 63,
           "paragraph_id": 26,
-          "text": "No one should know where they were precisely until they arrived home."
+          "text": "They turned their gazes toward the artifact windows."
         },
         {
           "id": 64,
-          "paragraph_id": 27,
-          "text": "They turned their gazes toward the artifact windows."
+          "paragraph_id": 26,
+          "text": "Through the one-way window, they saw him."
         },
         {
           "id": 65,
           "paragraph_id": 27,
-          "text": "Through the one-way window, they saw him."
+          "text": "A man stood alone in the middle of their path as the forest's shadows danced around him like ghosts."
         },
         {
           "id": 66,
-          "paragraph_id": 28,
-          "text": "A man stood alone in the middle of their path as the forest's shadows danced around him like ghosts."
+          "paragraph_id": 27,
+          "text": "His appearance was the definition of malevolence - his entire setup was pitch-black."
         },
         {
           "id": 67,
           "paragraph_id": 28,
-          "text": "His appearance was the definition of malevolence - his entire setup was pitch-black."
+          "text": "In his right hand, he held a saber like they'd never seen before."
         },
         {
           "id": 68,
-          "paragraph_id": 29,
-          "text": "In his right hand, he held a saber like they'd never seen before."
+          "paragraph_id": 28,
+          "text": "Blue flames licked hungrily along its black edge, making their glow illuminate the surrounding darkness and giving the tall man a truly ominous presence."
         },
         {
           "id": 69,
           "paragraph_id": 29,
-          "text": "Blue flames licked hungrily along its black edge, making their glow illuminate the surrounding darkness and giving the tall man a truly ominous presence."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 30,
           "text": "The guards halted in their tracks alongside the carriage, drew their weapons, and moved to form a protective barrier in front of the hovering carriage."
         },
         {
-          "id": 71,
-          "paragraph_id": 30,
+          "id": 70,
+          "paragraph_id": 29,
           "text": "One of them barked out a warning."
         },
         {
-          "id": 72,
-          "paragraph_id": 30,
+          "id": 71,
+          "paragraph_id": 29,
           "text": "\"You there!"
+        },
+        {
+          "id": 72,
+          "paragraph_id": 29,
+          "text": "Out of the way, before we cut you down!\""
         },
         {
           "id": 73,
           "paragraph_id": 30,
-          "text": "Out of the way, before we cut you down!\""
+          "text": "The man didn't respond."
         },
         {
           "id": 74,
-          "paragraph_id": 31,
-          "text": "The man didn't respond."
+          "paragraph_id": 30,
+          "text": "He remained still in the form of a towering monument of dread."
         },
         {
           "id": 75,
           "paragraph_id": 31,
-          "text": "He remained still in the form of a towering monument of dread."
+          "text": "Then, from one moment to the next, his form crackled and he vanished."
         },
         {
           "id": 76,
           "paragraph_id": 32,
-          "text": "Then, from one moment to the next, his form crackled and he vanished."
+          "text": "The guards blinked as they were stunned for a fraction of a second before a flash of lightning illuminated the place."
         },
         {
           "id": 77,
           "paragraph_id": 33,
-          "text": "The guards blinked as they were stunned for a fraction of a second before a flash of lightning illuminated the place."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 34,
-          "text": "..."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 35,
           "text": "A/N: Please read the note below."
         }
       ],
-      "word_count": 1308
+      "word_count": 1306
     },
     {
       "chapter_index": 515,
@@ -6467,8 +6455,7 @@
         "They didn't see the tall man anywhere. But what they did see froze them in place.",
         "From the distant shadows, numerous silhouettes began to emerge. They moved to converge on the crater and the overturned vehicle.",
         "\"Shit, it's an ambush! We have to meet them head-on. If create a battlefield close to the artifact carriage, the young ladies will come into harm's way!\"",
-        "They all agreed, and the four guards split up with each of them dashing in a different direction to intercept the approaching forces.",
-        "..."
+        "They all agreed, and the four guards split up with each of them dashing in a different direction to intercept the approaching forces."
       ],
       "sentences": [
         {
@@ -6835,14 +6822,9 @@
           "id": 72,
           "paragraph_id": 37,
           "text": "They all agreed, and the four guards split up with each of them dashing in a different direction to intercept the approaching forces."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 38,
-          "text": "..."
         }
       ],
-      "word_count": 1230
+      "word_count": 1229
     },
     {
       "chapter_index": 516,
@@ -7359,7 +7341,6 @@
         "The pink-haired beauty yelped before animatedly shaking her head. \"I can't! I'm not worthy of receiving his adoration. I'm just a girl born into slavery, I'm not the daughter of a duke nor am I especially outstanding as a combatant, furthermore I don't even have hobbies or interests, I would surely bore him to death. All I can do for him is to shield him from harm by offering up my body, I don't need to become his lover to do so.\"",
         "Lucille eyed the pessimistic girl with a wry expression. Lyra was a woman who never knew freedom and thus couldn't develop her personality, making Quinlan seem like a larger-than-life character to her who shined so brightly that she felt unworthy of even being in the same room with him, let alone being the recipient of his passionate feelings.",
         "\"Let's talk, just you and me, once we're done here.\" Lucille stated with a faint smile just before a spear-wielding woman appeared on the horizon, rushing toward them. \"Formation!\" She commanded and flanked Lyra on the left while Abudha, who was silent thus far, moved to her right. In the backline Aurora and Seraphiel readied their spells for the upcoming confrontation.",
-        "...",
         "\"Damn, this crazy bastard keeps getting stronger at a truly annoying pace...\" Blackjack murmured as he watched Quinlan's strike land on the twin's artifact carriage.",
         "\"I'm not sure you should call others crazy, old man,\" Cedric responded while gingerly watching the manic man's swirling eyes that spoke volumes of his overwhelming madness.",
         "Blackjack ignored his words and turned toward Selene, \"You and I should become friends. We're the only two of the group who received his sadistic ire.\"",
@@ -7371,7 +7352,6 @@
         "\"... Chopster?\" Cedric asked with disbelief.",
         "\"Don't you kill things by chopping them?\"",
         "\"Sigh... I don't want to be your friend either.\"",
-        "...",
         "\"My lord is the greatest lord!\" Kaelira announced with overwhelming pride as she watched the results of Quinlan's handiwork from the distance.",
         "\"Yeah... I don't know the proper words to describe him...\" Liora replied in a hushed tone that perfectly described the amazement she felt and the quick beating of her heart.",
         "The two of them were surrounded by the remaining four ex-slaves of Kai, they were the tanker elf's Heralds, with the only change being Shallan getting replaced by the trapper girl who wasn't a Herald but instead focused her efforts on protecting Quinlan's stronghold by setting up numerous elaborate traps around it.",
@@ -7388,7 +7368,6 @@
         "Liora's cheeks immediately turned into a bright shade of crimson while her hands snapped to shield her squirming kitty from her imaginary aggressor as very vivid and descriptive pictures flashed in her mind of mercilessly getting pinned under the giant, muscly, overwhelming frame of Quinlan without having an ounce of power to do anything about it while he brought her to the brink and beyond within a few thrusts of his large spear.",
         "Liora refused to meet Kaelira's eyes and began whistling embarrassedly, eliciting another sigh from her leader.",
         "\"The enemy's coming, let's focus up...\" Kaelira murmured gingerly.",
-        "...",
         "Aldrin's confident smirk was short-lived despite him managing to disarm two sword-wielders. Normally, this should've been the only move he needed to make before he could bring about the end of his enemies if they were reliant on their weapons, which he thought two sword users would be.",
         "However, his opponents this time around were wildly different, best evidenced by the relentlessly charging Ayame and Iris who encircled him from opposite directions to make the best use of their numerical advantage over him.",
         "Despite their constant banter and borderline aggression toward the other, there was a reason why Quinlan teamed the two up. Although he only barely saw Ayame and Iris fight together beforehand which happened against the Phantom League's ambush during the Trials, what he saw was enough to make him think that this team-up might end up working magnificently. Continue your saga on empire",
@@ -7512,320 +7491,305 @@
         {
           "id": 22,
           "paragraph_id": 10,
-          "text": "..."
+          "text": "\"Damn, this crazy bastard keeps getting stronger at a truly annoying pace...\" Blackjack murmured as he watched Quinlan's strike land on the twin's artifact carriage."
         },
         {
           "id": 23,
           "paragraph_id": 11,
-          "text": "\"Damn, this crazy bastard keeps getting stronger at a truly annoying pace...\" Blackjack murmured as he watched Quinlan's strike land on the twin's artifact carriage."
+          "text": "\"I'm not sure you should call others crazy, old man,\" Cedric responded while gingerly watching the manic man's swirling eyes that spoke volumes of his overwhelming madness."
         },
         {
           "id": 24,
           "paragraph_id": 12,
-          "text": "\"I'm not sure you should call others crazy, old man,\" Cedric responded while gingerly watching the manic man's swirling eyes that spoke volumes of his overwhelming madness."
+          "text": "Blackjack ignored his words and turned toward Selene, \"You and I should become friends."
         },
         {
           "id": 25,
-          "paragraph_id": 13,
-          "text": "Blackjack ignored his words and turned toward Selene, \"You and I should become friends."
+          "paragraph_id": 12,
+          "text": "We're the only two of the group who received his sadistic ire.\""
         },
         {
           "id": 26,
           "paragraph_id": 13,
-          "text": "We're the only two of the group who received his sadistic ire.\""
+          "text": "\"No, thanks.\" Selene wanted nothing to do with this unhinged man."
         },
         {
           "id": 27,
           "paragraph_id": 14,
-          "text": "\"No, thanks.\" Selene wanted nothing to do with this unhinged man."
+          "text": "\"Hey, you should invite me to the group too.\" Cedric didn't think he should be excluded."
         },
         {
           "id": 28,
           "paragraph_id": 15,
-          "text": "\"Hey, you should invite me to the group too.\" Cedric didn't think he should be excluded."
+          "text": "\"Why?"
         },
         {
           "id": 29,
-          "paragraph_id": 16,
-          "text": "\"Why?"
+          "paragraph_id": 15,
+          "text": "I thought he treated you well.\""
         },
         {
           "id": 30,
           "paragraph_id": 16,
-          "text": "I thought he treated you well.\""
+          "text": "\"Yeah, if you ignore the fact that he forcibly broke the engagement between me and my fiance before throwing her to his filthy workers only to get ravaged.\""
         },
         {
           "id": 31,
           "paragraph_id": 17,
-          "text": "\"Yeah, if you ignore the fact that he forcibly broke the engagement between me and my fiance before throwing her to his filthy workers only to get ravaged.\""
-        },
-        {
-          "id": 32,
-          "paragraph_id": 18,
           "text": "Blackjack paused for a moment before erupting into a fit of manic laughter."
         },
         {
-          "id": 33,
-          "paragraph_id": 18,
+          "id": 32,
+          "paragraph_id": 17,
           "text": "\"Zehahaha!"
+        },
+        {
+          "id": 33,
+          "paragraph_id": 17,
+          "text": "Although he probably saved you from a truly unhappy marriage that could rival even my own in how horrible it ended up being, but alright, Chopster, you're welcome to the gang too.\""
         },
         {
           "id": 34,
           "paragraph_id": 18,
-          "text": "Although he probably saved you from a truly unhappy marriage that could rival even my own in how horrible it ended up being, but alright, Chopster, you're welcome to the gang too.\""
+          "text": "\"..."
         },
         {
           "id": 35,
-          "paragraph_id": 19,
-          "text": "\"..."
+          "paragraph_id": 18,
+          "text": "Chopster?\" Cedric asked with disbelief."
         },
         {
           "id": 36,
           "paragraph_id": 19,
-          "text": "Chopster?\" Cedric asked with disbelief."
+          "text": "\"Don't you kill things by chopping them?\""
         },
         {
           "id": 37,
           "paragraph_id": 20,
-          "text": "\"Don't you kill things by chopping them?\""
+          "text": "\"Sigh..."
         },
         {
           "id": 38,
-          "paragraph_id": 21,
-          "text": "\"Sigh..."
+          "paragraph_id": 20,
+          "text": "I don't want to be your friend either.\""
         },
         {
           "id": 39,
           "paragraph_id": 21,
-          "text": "I don't want to be your friend either.\""
+          "text": "\"My lord is the greatest lord!\" Kaelira announced with overwhelming pride as she watched the results of Quinlan's handiwork from the distance."
         },
         {
           "id": 40,
           "paragraph_id": 22,
-          "text": "..."
+          "text": "\"Yeah..."
         },
         {
           "id": 41,
-          "paragraph_id": 23,
-          "text": "\"My lord is the greatest lord!\" Kaelira announced with overwhelming pride as she watched the results of Quinlan's handiwork from the distance."
+          "paragraph_id": 22,
+          "text": "I don't know the proper words to describe him...\" Liora replied in a hushed tone that perfectly described the amazement she felt and the quick beating of her heart."
         },
         {
           "id": 42,
-          "paragraph_id": 24,
-          "text": "\"Yeah..."
+          "paragraph_id": 23,
+          "text": "The two of them were surrounded by the remaining four ex-slaves of Kai, they were the tanker elf's Heralds, with the only change being Shallan getting replaced by the trapper girl who wasn't a Herald but instead focused her efforts on protecting Quinlan's stronghold by setting up numerous elaborate traps around it."
         },
         {
           "id": 43,
           "paragraph_id": 24,
-          "text": "I don't know the proper words to describe him...\" Liora replied in a hushed tone that perfectly described the amazement she felt and the quick beating of her heart."
+          "text": "\"The birdies told me that you received an open invitation into his harem.\" The archer said with an eager smile as she eyed her leader."
         },
         {
           "id": 44,
           "paragraph_id": 25,
-          "text": "The two of them were surrounded by the remaining four ex-slaves of Kai, they were the tanker elf's Heralds, with the only change being Shallan getting replaced by the trapper girl who wasn't a Herald but instead focused her efforts on protecting Quinlan's stronghold by setting up numerous elaborate traps around it."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 26,
-          "text": "\"The birdies told me that you received an open invitation into his harem.\" The archer said with an eager smile as she eyed her leader."
-        },
-        {
-          "id": 46,
-          "paragraph_id": 27,
           "text": "\"Aww!"
         },
         {
-          "id": 47,
-          "paragraph_id": 27,
+          "id": 45,
+          "paragraph_id": 25,
           "text": "Really?!\" The trapper squeaked, she was in desperate need of some juicy rumors."
         },
         {
-          "id": 48,
-          "paragraph_id": 28,
+          "id": 46,
+          "paragraph_id": 26,
           "text": "\"Ah, so lucky!!"
         },
         {
-          "id": 49,
-          "paragraph_id": 28,
+          "id": 47,
+          "paragraph_id": 26,
           "text": "I wish it was me!\" The rogue grumbled her dissatisfaction."
         },
         {
-          "id": 50,
-          "paragraph_id": 28,
+          "id": 48,
+          "paragraph_id": 26,
           "text": "When she was Kai's slave, she was forced to wield a bow because he suffered from the main character syndrome and refused to let any of them become a frontliner, they all had to support him and his giant ego from the backline."
+        },
+        {
+          "id": 49,
+          "paragraph_id": 26,
+          "text": "Naturally, Quinlan and Kaelira had no such mental issues, so she was happily eyeing her shiny dagger in her hand."
+        },
+        {
+          "id": 50,
+          "paragraph_id": 27,
+          "text": "\"I thought that I would become a lesbian man-hater for the rest of my life due to the wretched scum called Kai, but I would be lying if I said I wouldn't jump straight into Lord Quinlan's arms if he invited me to do so,\" the fourth woman who was also a ranger declared."
         },
         {
           "id": 51,
           "paragraph_id": 28,
-          "text": "Naturally, Quinlan and Kaelira had no such mental issues, so she was happily eyeing her shiny dagger in her hand."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 29,
-          "text": "\"I thought that I would become a lesbian man-hater for the rest of my life due to the wretched scum called Kai, but I would be lying if I said I wouldn't jump straight into Lord Quinlan's arms if he invited me to do so,\" the fourth woman who was also a ranger declared."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 30,
           "text": "\"He's so different from all other men...\" The rogue nodded dreamily."
         },
         {
-          "id": 54,
-          "paragraph_id": 30,
+          "id": 52,
+          "paragraph_id": 28,
           "text": "\"Just look at Seraphiel, she constantly leads him on because she loves flirting with him."
         },
         {
-          "id": 55,
-          "paragraph_id": 30,
+          "id": 53,
+          "paragraph_id": 28,
           "text": "How many men in his position would accept being blue-balled by that beyond-gorgeous long-eared creature?"
         },
         {
-          "id": 56,
-          "paragraph_id": 30,
+          "id": 54,
+          "paragraph_id": 28,
           "text": "I think all would abuse their power over her to make her undress and begin servicing them.\""
         },
         {
-          "id": 57,
-          "paragraph_id": 31,
+          "id": 55,
+          "paragraph_id": 29,
           "text": "The trapper quickly voiced her agreement; \"Yes, yes!"
         },
         {
-          "id": 58,
-          "paragraph_id": 31,
+          "id": 56,
+          "paragraph_id": 29,
           "text": "When I saw his amateur work around the stronghold with his traps which were just haphazardly thrown all over the place without any plan or strategy, I accidentally burst out into laughter."
         },
         {
-          "id": 59,
-          "paragraph_id": 32,
+          "id": 57,
+          "paragraph_id": 30,
           "text": "I immediately flinched and got ready to receive a beating of a magnitude I'd never seen before because I never dared even smile in Kai's presence let alone mock him, but Lord Quinlan laughed alongside me and then asked me to show him how to do it better..."
         },
         {
-          "id": 60,
-          "paragraph_id": 32,
+          "id": 58,
+          "paragraph_id": 30,
           "text": "He's a real man while all the others are just cheap pretenders!\""
         },
         {
-          "id": 61,
-          "paragraph_id": 33,
+          "id": 59,
+          "paragraph_id": 31,
           "text": "\"If I ever have to give you all a collective name, the only acceptable one would have to be 'Quinlan's Fangirl Club'...\" Kaelira stated while wryly watching her Heralds fawn all over the man."
         },
         {
-          "id": 62,
-          "paragraph_id": 33,
+          "id": 60,
+          "paragraph_id": 31,
           "text": "They didn't dare do it in his presence, but all of them had dreamt with him at least once since being [Subjugated] by him, and let's just say that those dreams were not of the family-friendly kind."
         },
         {
-          "id": 63,
-          "paragraph_id": 34,
+          "id": 61,
+          "paragraph_id": 32,
           "text": "\"Hey, why am I counted among them?!"
+        },
+        {
+          "id": 62,
+          "paragraph_id": 32,
+          "text": "I didn't say anything.\" Liora voiced her strong disapproval of the captain's words."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 33,
+          "text": "Kaelira then turned her gaze toward her and tiredly asked, \"In the hypothetical scenario of Lord Quinlan getting on his right knee and then sandwiching your dainty hand in between his two strong ones to profess his undying and limitless adoration for you, what would you do?\""
         },
         {
           "id": 64,
           "paragraph_id": 34,
-          "text": "I didn't say anything.\" Liora voiced her strong disapproval of the captain's words."
+          "text": "Liora's cheeks immediately turned into a bright shade of crimson while her hands snapped to shield her squirming kitty from her imaginary aggressor as very vivid and descriptive pictures flashed in her mind of mercilessly getting pinned under the giant, muscly, overwhelming frame of Quinlan without having an ounce of power to do anything about it while he brought her to the brink and beyond within a few thrusts of his large spear."
         },
         {
           "id": 65,
           "paragraph_id": 35,
-          "text": "Kaelira then turned her gaze toward her and tiredly asked, \"In the hypothetical scenario of Lord Quinlan getting on his right knee and then sandwiching your dainty hand in between his two strong ones to profess his undying and limitless adoration for you, what would you do?\""
+          "text": "Liora refused to meet Kaelira's eyes and began whistling embarrassedly, eliciting another sigh from her leader."
         },
         {
           "id": 66,
           "paragraph_id": 36,
-          "text": "Liora's cheeks immediately turned into a bright shade of crimson while her hands snapped to shield her squirming kitty from her imaginary aggressor as very vivid and descriptive pictures flashed in her mind of mercilessly getting pinned under the giant, muscly, overwhelming frame of Quinlan without having an ounce of power to do anything about it while he brought her to the brink and beyond within a few thrusts of his large spear."
+          "text": "\"The enemy's coming, let's focus up...\" Kaelira murmured gingerly."
         },
         {
           "id": 67,
           "paragraph_id": 37,
-          "text": "Liora refused to meet Kaelira's eyes and began whistling embarrassedly, eliciting another sigh from her leader."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 38,
-          "text": "\"The enemy's coming, let's focus up...\" Kaelira murmured gingerly."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 39,
-          "text": "..."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 40,
           "text": "Aldrin's confident smirk was short-lived despite him managing to disarm two sword-wielders."
         },
         {
-          "id": 71,
-          "paragraph_id": 40,
+          "id": 68,
+          "paragraph_id": 37,
           "text": "Normally, this should've been the only move he needed to make before he could bring about the end of his enemies if they were reliant on their weapons, which he thought two sword users would be."
         },
         {
-          "id": 72,
-          "paragraph_id": 41,
+          "id": 69,
+          "paragraph_id": 38,
           "text": "However, his opponents this time around were wildly different, best evidenced by the relentlessly charging Ayame and Iris who encircled him from opposite directions to make the best use of their numerical advantage over him."
         },
         {
-          "id": 73,
-          "paragraph_id": 42,
+          "id": 70,
+          "paragraph_id": 39,
           "text": "Despite their constant banter and borderline aggression toward the other, there was a reason why Quinlan teamed the two up."
         },
         {
-          "id": 74,
-          "paragraph_id": 42,
+          "id": 71,
+          "paragraph_id": 39,
           "text": "Although he only barely saw Ayame and Iris fight together beforehand which happened against the Phantom League's ambush during the Trials, what he saw was enough to make him think that this team-up might end up working magnificently."
         },
         {
-          "id": 75,
-          "paragraph_id": 42,
+          "id": 72,
+          "paragraph_id": 39,
           "text": "Continue your saga on empire"
         },
         {
-          "id": 76,
-          "paragraph_id": 43,
+          "id": 73,
+          "paragraph_id": 40,
           "text": "The two women moved like a well-oiled machine as their contrasting styles complemented one another in a strangely synergistic method."
         },
         {
-          "id": 77,
-          "paragraph_id": 44,
+          "id": 74,
+          "paragraph_id": 41,
           "text": "Iris was a wild, aggressive fighter who bore her enemies down with overwhelming personal might and a never-ending assault, while Ayame was a graceful fighter who specialized in precision and athletics over strength."
         },
         {
-          "id": 78,
-          "paragraph_id": 44,
+          "id": 75,
+          "paragraph_id": 41,
           "text": "She was a woman who trained in the way of the sword ever since she could walk as a baby, making her swordsmanship a true work of art."
         },
         {
-          "id": 79,
-          "paragraph_id": 45,
+          "id": 76,
+          "paragraph_id": 42,
           "text": "At long last, their efforts seemed to start to begin wearing him down."
         },
         {
-          "id": 80,
-          "paragraph_id": 45,
+          "id": 77,
+          "paragraph_id": 42,
           "text": "Ayame's fluid strikes kept him on the defensive, while Iris' raw, brutal power forced him to react quickly or risk being punched with so much force that even his high Vitality and powerful armor might not save him."
         },
         {
-          "id": 81,
-          "paragraph_id": 46,
+          "id": 78,
+          "paragraph_id": 43,
           "text": "His grin twisted into a grimace as he realized disarming them hadn't turned the tide of battle at all."
         },
         {
-          "id": 82,
-          "paragraph_id": 46,
+          "id": 79,
+          "paragraph_id": 43,
           "text": "Ayame's wakizashi blurred in sharp arcs, slicing toward him with unerring precision, while Iris darted in with her fists that moved with so much strength that they turned into blurs."
         },
         {
-          "id": 83,
-          "paragraph_id": 47,
+          "id": 80,
+          "paragraph_id": 44,
           "text": "Aldrin blocked Ayame's slash just when Iris came in from his other side."
         },
         {
-          "id": 84,
-          "paragraph_id": 47,
+          "id": 81,
+          "paragraph_id": 44,
           "text": "Her fist crashed toward his face, but he swiftly brought his blade up to intercept which resulted in the weapon's edge piercing through her hand, sending a spray of blood into the air."
         }
       ],
-      "word_count": 1668
+      "word_count": 1665
     },
     {
       "chapter_index": 518,
@@ -7859,13 +7823,11 @@
         "\"You dumbass... who told you to catch him with your body? We would've won without your sacrificial play.\" Ayame grumbled with dissatisfaction as she brought out a second healing potion for the woman to drink.",
         "\"Heh...\" Iris laughed while spitting a mouthful of blood, \"I've always been bad with time constraints... Knowing that more enemies were on their way... I felt very agitated so I... decided to end things in the swiftest manner possible...\"",
         "\"Sigh... You're truly like a wild beast. I can't help but wonder if he will be able to tame you one day.\"",
-        "...",
         "\"Unreasonably Arrogant Redhead With Big Mommy Milkers! Shoot your load, I can take it!\" Blackjack shouted while wrestling with their opponent.",
         "\"I sincerely hope you can't.\" Selene spat while eagerly doing as instructed - she lit the both of them on flames with a Pyromancer spell of hers.",
         "\"Ahahaha! This feeling makes me remember when my wife boiled my balls in a cauldron!\" Blackjack screamed as his skin and flesh were getting burned off of his bones, but he'd lived through worse.",
         "Child of Agony was reserved for tormented children, and while Blackjack didn't have access to that class, it was only because he didn't meet his wife when he was a child. During his adulthood, he'd gained a pain tolerance that rivaled Quinlan's and Iris'.",
         "His enemy was screaming for his life in his hands, but he also had a respectable tolerance for pain. \"Chopster, your turn!\" Blackjack shouted, and Cedric rushed in to deliver the finishing blow.",
-        "...",
         "\"What the hell is this unfair class?!\" The enemy shouted as her spear was unable to pierce through Aurora's shield.",
         "\"Hehehe! Daddy always said my class would be broken, I just needed to level up a bit. And now that I'm above level 20, together with Daddy's new present, I don't even run out of mana when I spam my AoE buffs and shields!\" Aurora declared haughtily.",
         "\"How much of a daddy's little girl can you be?! Aren't you like 60? Have you no shame whatsoever?\" The spear wielder hissed with fury as she did her best to fight against the combined onslaught of Lucille, Lyra, Abudha, and the magic arrows of Seraphiel, since due to Aurora's potent shields, her heals were not needed.",
@@ -7873,7 +7835,6 @@
         "Her allies listened to her furious commands, as Abudha's palm strike into her ribs gave Lucille the opening she needed to cleave the woman in half with her mean axe.",
         "\"Hmph!\" Aurora snorted as she watched her enemy fall into two separate bloody heaps.",
         "\"You need help...\" Lucille giggled bemusedly once she turned her attention to her sister-wife, eliciting an \"I know...\" sigh from the platinum haired plump beauty. With that being said, she had no plans to change whatsoever.",
-        "...",
         "\"Liora, please reattach my limb...\" The rogue asked painedly while crawling on the ground toward the healer.",
         "Their battle was brutal, resulting in multiple injuries which mostly happened because the man had an ability that ignored Kaelira's taunt-oriented spells, and he kept attacking their weaker members without the tanker having the speed to properly protect them.",
         "\"This fight was brutal... If Kai was still our leader, his first and only order for us would've been to halt the enemy while he escapes.\" The archer mumbled with a white face due to all the blood loss she suffered while reaching to the ground to collect her severed fingers. Stay updated via empire",
@@ -7881,7 +7842,6 @@
         "\"Is that so...\"",
         "\"Don't beat yourself up over it, he was a counter to you. Our next battle will go much more seamlessly, especially if Shallan joins us.\"",
         "The rogue then spoke up while Liora busied herself with regenerating the damaged tissues around her severed leg, \"And hey, if you're still feeling guilty, you can make up to me by detailing all the juicy info you can when Lord Quinlan finally takes you. All his wives refuse to elaborate to me about details of paramount importance like his size and bed endurance...\"",
-        "...",
         "While the ascendants were in the middle of their battles, Quinlan reappeared in front of the armored vehicle to finish what he started."
       ],
       "sentences": [
@@ -8143,215 +8103,195 @@
         {
           "id": 51,
           "paragraph_id": 27,
-          "text": "..."
+          "text": "\"Unreasonably Arrogant Redhead With Big Mommy Milkers!"
         },
         {
           "id": 52,
-          "paragraph_id": 28,
-          "text": "\"Unreasonably Arrogant Redhead With Big Mommy Milkers!"
+          "paragraph_id": 27,
+          "text": "Shoot your load, I can take it!\" Blackjack shouted while wrestling with their opponent."
         },
         {
           "id": 53,
           "paragraph_id": 28,
-          "text": "Shoot your load, I can take it!\" Blackjack shouted while wrestling with their opponent."
+          "text": "\"I sincerely hope you can't.\" Selene spat while eagerly doing as instructed - she lit the both of them on flames with a Pyromancer spell of hers."
         },
         {
           "id": 54,
           "paragraph_id": 29,
-          "text": "\"I sincerely hope you can't.\" Selene spat while eagerly doing as instructed - she lit the both of them on flames with a Pyromancer spell of hers."
+          "text": "\"Ahahaha!"
         },
         {
           "id": 55,
-          "paragraph_id": 30,
-          "text": "\"Ahahaha!"
+          "paragraph_id": 29,
+          "text": "This feeling makes me remember when my wife boiled my balls in a cauldron!\" Blackjack screamed as his skin and flesh were getting burned off of his bones, but he'd lived through worse."
         },
         {
           "id": 56,
           "paragraph_id": 30,
-          "text": "This feeling makes me remember when my wife boiled my balls in a cauldron!\" Blackjack screamed as his skin and flesh were getting burned off of his bones, but he'd lived through worse."
+          "text": "Child of Agony was reserved for tormented children, and while Blackjack didn't have access to that class, it was only because he didn't meet his wife when he was a child."
         },
         {
           "id": 57,
-          "paragraph_id": 31,
-          "text": "Child of Agony was reserved for tormented children, and while Blackjack didn't have access to that class, it was only because he didn't meet his wife when he was a child."
+          "paragraph_id": 30,
+          "text": "During his adulthood, he'd gained a pain tolerance that rivaled Quinlan's and Iris'."
         },
         {
           "id": 58,
           "paragraph_id": 31,
-          "text": "During his adulthood, he'd gained a pain tolerance that rivaled Quinlan's and Iris'."
+          "text": "His enemy was screaming for his life in his hands, but he also had a respectable tolerance for pain."
         },
         {
           "id": 59,
-          "paragraph_id": 32,
-          "text": "His enemy was screaming for his life in his hands, but he also had a respectable tolerance for pain."
+          "paragraph_id": 31,
+          "text": "\"Chopster, your turn!\" Blackjack shouted, and Cedric rushed in to deliver the finishing blow."
         },
         {
           "id": 60,
           "paragraph_id": 32,
-          "text": "\"Chopster, your turn!\" Blackjack shouted, and Cedric rushed in to deliver the finishing blow."
+          "text": "\"What the hell is this unfair class?!\" The enemy shouted as her spear was unable to pierce through Aurora's shield."
         },
         {
           "id": 61,
           "paragraph_id": 33,
-          "text": "..."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 34,
-          "text": "\"What the hell is this unfair class?!\" The enemy shouted as her spear was unable to pierce through Aurora's shield."
-        },
-        {
-          "id": 63,
-          "paragraph_id": 35,
           "text": "\"Hehehe!"
         },
         {
-          "id": 64,
-          "paragraph_id": 35,
+          "id": 62,
+          "paragraph_id": 33,
           "text": "Daddy always said my class would be broken, I just needed to level up a bit."
         },
         {
-          "id": 65,
-          "paragraph_id": 35,
+          "id": 63,
+          "paragraph_id": 33,
           "text": "And now that I'm above level 20, together with Daddy's new present, I don't even run out of mana when I spam my AoE buffs and shields!\" Aurora declared haughtily."
         },
         {
-          "id": 66,
-          "paragraph_id": 36,
+          "id": 64,
+          "paragraph_id": 34,
           "text": "\"How much of a daddy's little girl can you be?!"
         },
         {
-          "id": 67,
-          "paragraph_id": 36,
+          "id": 65,
+          "paragraph_id": 34,
           "text": "Aren't you like 60?"
         },
         {
-          "id": 68,
-          "paragraph_id": 36,
+          "id": 66,
+          "paragraph_id": 34,
           "text": "Have you no shame whatsoever?\" The spear wielder hissed with fury as she did her best to fight against the combined onslaught of Lucille, Lyra, Abudha, and the magic arrows of Seraphiel, since due to Aurora's potent shields, her heals were not needed."
         },
         {
-          "id": 69,
-          "paragraph_id": 37,
+          "id": 67,
+          "paragraph_id": 35,
           "text": "Aurora looked like a 25-year-old woman, so due to her relatively high level, their enemy thought her to be a seasoned combatant who was much older than she seemed."
         },
         {
-          "id": 70,
-          "paragraph_id": 37,
+          "id": 68,
+          "paragraph_id": 35,
           "text": "\"Haaah?!\" Aurora roared furiously before screaming viciously, \"Kill this bitch!!"
         },
         {
-          "id": 71,
-          "paragraph_id": 37,
+          "id": 69,
+          "paragraph_id": 35,
           "text": "End her miserable life!"
         },
         {
-          "id": 72,
-          "paragraph_id": 37,
+          "id": 70,
+          "paragraph_id": 35,
           "text": "Tear her heart through her soggy little grandma tits!"
+        },
+        {
+          "id": 71,
+          "paragraph_id": 35,
+          "text": "Only Daddy can speak like that to me, and only while spanking me because I did something bad!\""
+        },
+        {
+          "id": 72,
+          "paragraph_id": 36,
+          "text": "Her allies listened to her furious commands, as Abudha's palm strike into her ribs gave Lucille the opening she needed to cleave the woman in half with her mean axe."
         },
         {
           "id": 73,
           "paragraph_id": 37,
-          "text": "Only Daddy can speak like that to me, and only while spanking me because I did something bad!\""
+          "text": "\"Hmph!\" Aurora snorted as she watched her enemy fall into two separate bloody heaps."
         },
         {
           "id": 74,
           "paragraph_id": 38,
-          "text": "Her allies listened to her furious commands, as Abudha's palm strike into her ribs gave Lucille the opening she needed to cleave the woman in half with her mean axe."
+          "text": "\"You need help...\" Lucille giggled bemusedly once she turned her attention to her sister-wife, eliciting an \"I know...\" sigh from the platinum haired plump beauty."
         },
         {
           "id": 75,
-          "paragraph_id": 39,
-          "text": "\"Hmph!\" Aurora snorted as she watched her enemy fall into two separate bloody heaps."
+          "paragraph_id": 38,
+          "text": "With that being said, she had no plans to change whatsoever."
         },
         {
           "id": 76,
-          "paragraph_id": 40,
-          "text": "\"You need help...\" Lucille giggled bemusedly once she turned her attention to her sister-wife, eliciting an \"I know...\" sigh from the platinum haired plump beauty."
+          "paragraph_id": 39,
+          "text": "\"Liora, please reattach my limb...\" The rogue asked painedly while crawling on the ground toward the healer."
         },
         {
           "id": 77,
           "paragraph_id": 40,
-          "text": "With that being said, she had no plans to change whatsoever."
+          "text": "Their battle was brutal, resulting in multiple injuries which mostly happened because the man had an ability that ignored Kaelira's taunt-oriented spells, and he kept attacking their weaker members without the tanker having the speed to properly protect them."
         },
         {
           "id": 78,
           "paragraph_id": 41,
-          "text": "..."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 42,
-          "text": "\"Liora, please reattach my limb...\" The rogue asked painedly while crawling on the ground toward the healer."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 43,
-          "text": "Their battle was brutal, resulting in multiple injuries which mostly happened because the man had an ability that ignored Kaelira's taunt-oriented spells, and he kept attacking their weaker members without the tanker having the speed to properly protect them."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 44,
           "text": "\"This fight was brutal..."
         },
         {
-          "id": 82,
-          "paragraph_id": 44,
+          "id": 79,
+          "paragraph_id": 41,
           "text": "If Kai was still our leader, his first and only order for us would've been to halt the enemy while he escapes.\" The archer mumbled with a white face due to all the blood loss she suffered while reaching to the ground to collect her severed fingers."
         },
         {
-          "id": 83,
-          "paragraph_id": 44,
+          "id": 80,
+          "paragraph_id": 41,
           "text": "Stay updated via empire"
         },
         {
-          "id": 84,
-          "paragraph_id": 45,
+          "id": 81,
+          "paragraph_id": 42,
           "text": "\"Damn right!"
         },
         {
-          "id": 85,
-          "paragraph_id": 45,
+          "id": 82,
+          "paragraph_id": 42,
           "text": "Miss Kaelira, you're an amazing leader.\" The trapper nodded eagerly."
         },
         {
-          "id": 86,
-          "paragraph_id": 46,
+          "id": 83,
+          "paragraph_id": 43,
           "text": "\"Is that so...\""
         },
         {
-          "id": 87,
-          "paragraph_id": 47,
+          "id": 84,
+          "paragraph_id": 44,
           "text": "\"Don't beat yourself up over it, he was a counter to you."
         },
         {
-          "id": 88,
-          "paragraph_id": 47,
+          "id": 85,
+          "paragraph_id": 44,
           "text": "Our next battle will go much more seamlessly, especially if Shallan joins us.\""
         },
         {
-          "id": 89,
-          "paragraph_id": 48,
+          "id": 86,
+          "paragraph_id": 45,
           "text": "The rogue then spoke up while Liora busied herself with regenerating the damaged tissues around her severed leg, \"And hey, if you're still feeling guilty, you can make up to me by detailing all the juicy info you can when Lord Quinlan finally takes you."
         },
         {
-          "id": 90,
-          "paragraph_id": 48,
+          "id": 87,
+          "paragraph_id": 45,
           "text": "All his wives refuse to elaborate to me about details of paramount importance like his size and bed endurance...\""
         },
         {
-          "id": 91,
-          "paragraph_id": 49,
-          "text": "..."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 50,
+          "id": 88,
+          "paragraph_id": 46,
           "text": "While the ascendants were in the middle of their battles, Quinlan reappeared in front of the armored vehicle to finish what he started."
         }
       ],
-      "word_count": 1637
+      "word_count": 1633
     },
     {
       "chapter_index": 519,
@@ -10125,7 +10065,6 @@
         "Explore new worlds at empire",
         "<Beatrice, please send Jasmine to us.> I asked.",
         "It was time to hold 'the conversation' with my fifth lover, where the most graceful woman I'd ever seen would participate as well.",
-        "...",
         "\"You're back!\" Jasmine shouted elatedly while rushing in for a hug. She told me she would wait for my return like a good wife should, which based on her extreme elation and red eyes, must've indeed been the case.",
         "Truly, when it comes to women, no one has a better taste than me. All of my girls are extremely precious existences.",
         "I let her cry her built-up anxiety out onto my chest while pulling her into my tight embrace, after which the four of us left the stronghold and walked a bit into the forest. I did so because I wanted privacy, but mostly because I knew the two elves would appreciate the gesture. Elves always seemed happy when they were surrounded by nature.",
@@ -10324,220 +10263,215 @@
         {
           "id": 35,
           "paragraph_id": 21,
-          "text": "..."
+          "text": "\"You're back!\" Jasmine shouted elatedly while rushing in for a hug."
         },
         {
           "id": 36,
-          "paragraph_id": 22,
-          "text": "\"You're back!\" Jasmine shouted elatedly while rushing in for a hug."
+          "paragraph_id": 21,
+          "text": "She told me she would wait for my return like a good wife should, which based on her extreme elation and red eyes, must've indeed been the case."
         },
         {
           "id": 37,
           "paragraph_id": 22,
-          "text": "She told me she would wait for my return like a good wife should, which based on her extreme elation and red eyes, must've indeed been the case."
+          "text": "Truly, when it comes to women, no one has a better taste than me."
         },
         {
           "id": 38,
-          "paragraph_id": 23,
-          "text": "Truly, when it comes to women, no one has a better taste than me."
+          "paragraph_id": 22,
+          "text": "All of my girls are extremely precious existences."
         },
         {
           "id": 39,
           "paragraph_id": 23,
-          "text": "All of my girls are extremely precious existences."
-        },
-        {
-          "id": 40,
-          "paragraph_id": 24,
           "text": "I let her cry her built-up anxiety out onto my chest while pulling her into my tight embrace, after which the four of us left the stronghold and walked a bit into the forest."
         },
         {
-          "id": 41,
-          "paragraph_id": 24,
+          "id": 40,
+          "paragraph_id": 23,
           "text": "I did so because I wanted privacy, but mostly because I knew the two elves would appreciate the gesture."
+        },
+        {
+          "id": 41,
+          "paragraph_id": 23,
+          "text": "Elves always seemed happy when they were surrounded by nature."
         },
         {
           "id": 42,
           "paragraph_id": 24,
-          "text": "Elves always seemed happy when they were surrounded by nature."
+          "text": "We comfortably seated ourselves under the comforting shade of a large tree, and I laid my back against its trunk."
         },
         {
           "id": 43,
-          "paragraph_id": 25,
-          "text": "We comfortably seated ourselves under the comforting shade of a large tree, and I laid my back against its trunk."
+          "paragraph_id": 24,
+          "text": "My two girls seated themselves on either of my sides, while Sylvaris gracefully got on her knees and rested her legs under herself with a pristinely straight spine."
         },
         {
           "id": 44,
           "paragraph_id": 25,
-          "text": "My two girls seated themselves on either of my sides, while Sylvaris gracefully got on her knees and rested her legs under herself with a pristinely straight spine."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 26,
           "text": "I sighed inwardly."
         },
         {
-          "id": 46,
-          "paragraph_id": 26,
+          "id": 45,
+          "paragraph_id": 25,
           "text": "The implications of my actions were heavy."
         },
         {
-          "id": 47,
-          "paragraph_id": 26,
+          "id": 46,
+          "paragraph_id": 25,
           "text": "I kidnapped the daughters of a duke."
         },
         {
-          "id": 48,
-          "paragraph_id": 26,
+          "id": 47,
+          "paragraph_id": 25,
           "text": "In the Vraven Kingdom, there were five dukes, each lording over giant swathes of land."
         },
         {
-          "id": 49,
-          "paragraph_id": 26,
+          "id": 48,
+          "paragraph_id": 25,
           "text": "It was best to think of them as kings and the actual king to be an emperor."
+        },
+        {
+          "id": 49,
+          "paragraph_id": 25,
+          "text": "The Vraven Kingdom had hundreds of millions of citizens, after all."
         },
         {
           "id": 50,
           "paragraph_id": 26,
-          "text": "The Vraven Kingdom had hundreds of millions of citizens, after all."
+          "text": "While the implications might be a bit stressful, I didn't regret doing what I did at all."
         },
         {
           "id": 51,
-          "paragraph_id": 27,
-          "text": "While the implications might be a bit stressful, I didn't regret doing what I did at all."
+          "paragraph_id": 26,
+          "text": "A man had to have a code to live by, and letting my lover's mother fall into the hands of such deranged lunatics simply didn't fit into my code."
         },
         {
           "id": 52,
           "paragraph_id": 27,
-          "text": "A man had to have a code to live by, and letting my lover's mother fall into the hands of such deranged lunatics simply didn't fit into my code."
+          "text": "\"Let me start by saying that it's nice to meet you in a less chaotic setting, Sylvaris.\""
         },
         {
           "id": 53,
           "paragraph_id": 28,
-          "text": "\"Let me start by saying that it's nice to meet you in a less chaotic setting, Sylvaris.\""
+          "text": "She nodded at my words."
         },
         {
           "id": 54,
-          "paragraph_id": 29,
-          "text": "She nodded at my words."
+          "paragraph_id": 28,
+          "text": "Seeing that I was not getting much out of this woman without asking for them, I decided to speak up again, but Sera beat me to it."
         },
         {
           "id": 55,
           "paragraph_id": 29,
-          "text": "Seeing that I was not getting much out of this woman without asking for them, I decided to speak up again, but Sera beat me to it."
+          "text": "\"Mom, don't act like a social recluse."
         },
         {
           "id": 56,
-          "paragraph_id": 30,
-          "text": "\"Mom, don't act like a social recluse."
+          "paragraph_id": 29,
+          "text": "I know you can behave properly.\""
         },
         {
           "id": 57,
           "paragraph_id": 30,
-          "text": "I know you can behave properly.\""
+          "text": "Sylvaris raised an eyebrow at her daughter, \"I am behaving properly.\""
         },
         {
           "id": 58,
           "paragraph_id": 31,
-          "text": "Sylvaris raised an eyebrow at her daughter, \"I am behaving properly.\""
+          "text": "\"Agh, I can't do this right now."
         },
         {
           "id": 59,
-          "paragraph_id": 32,
-          "text": "\"Agh, I can't do this right now."
+          "paragraph_id": 31,
+          "text": "Instead, tell me what you're doing here, in the human lands, as a slave.\""
         },
         {
           "id": 60,
           "paragraph_id": 32,
-          "text": "Instead, tell me what you're doing here, in the human lands, as a slave.\""
+          "text": "\"My beloved daughter was captured, so I came to save her.\""
         },
         {
           "id": 61,
           "paragraph_id": 33,
-          "text": "\"My beloved daughter was captured, so I came to save her.\""
-        },
-        {
-          "id": 62,
-          "paragraph_id": 34,
           "text": "\"That's nice of you and I dearly love you, but what the hell was your plan?"
         },
         {
-          "id": 63,
-          "paragraph_id": 34,
+          "id": 62,
+          "paragraph_id": 33,
           "text": "To visit all households in the kingdom and knock on their doors, asking if they saw a blonde elf?"
         },
         {
-          "id": 64,
-          "paragraph_id": 34,
+          "id": 63,
+          "paragraph_id": 33,
           "text": "Also, without guards?"
+        },
+        {
+          "id": 64,
+          "paragraph_id": 33,
+          "text": "Where are your soldiers?\" I couldn't help but realize that Sera was angry with her mother, despite the harsh journey this woman went through just for her sake."
         },
         {
           "id": 65,
           "paragraph_id": 34,
-          "text": "Where are your soldiers?\" I couldn't help but realize that Sera was angry with her mother, despite the harsh journey this woman went through just for her sake."
+          "text": "Also, she was bringing up some good points, best evidenced by Sylvaris coughing into her palm."
         },
         {
           "id": 66,
-          "paragraph_id": 35,
-          "text": "Also, she was bringing up some good points, best evidenced by Sylvaris coughing into her palm."
+          "paragraph_id": 34,
+          "text": "I could see a faint shade of pink on her cheeks, she was embarrassed by her daughter's words, but her amazing poker face almost concealed that fact from me."
         },
         {
           "id": 67,
           "paragraph_id": 35,
-          "text": "I could see a faint shade of pink on her cheeks, she was embarrassed by her daughter's words, but her amazing poker face almost concealed that fact from me."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 36,
           "text": "\"I lobbied the queen for weeks to initiate a negotiation for your release, but I couldn't get her to budge, saying the timing wasn't right."
         },
         {
-          "id": 69,
-          "paragraph_id": 36,
+          "id": 68,
+          "paragraph_id": 35,
           "text": "I had enough of waiting."
         },
         {
-          "id": 70,
-          "paragraph_id": 36,
+          "id": 69,
+          "paragraph_id": 35,
           "text": "I wrote a letter in which I abdicated the clan's leadership to my mother, and came here alone."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 35,
+          "text": "Knowing that it was a near-impossible mission, I didn't ask my retainers to follow me.\""
         },
         {
           "id": 71,
           "paragraph_id": 36,
-          "text": "Knowing that it was a near-impossible mission, I didn't ask my retainers to follow me.\""
-        },
-        {
-          "id": 72,
-          "paragraph_id": 37,
           "text": "So that's what it was."
         },
         {
-          "id": 73,
-          "paragraph_id": 37,
+          "id": 72,
+          "paragraph_id": 36,
           "text": "Can't say I blame her, I would've done the same, probably even attacking the queen."
+        },
+        {
+          "id": 73,
+          "paragraph_id": 36,
+          "text": "After all, Seraphiel was conscripted into the army."
         },
         {
           "id": 74,
           "paragraph_id": 37,
-          "text": "After all, Seraphiel was conscripted into the army."
+          "text": "\"I never asked this, but I'm curious."
         },
         {
           "id": 75,
-          "paragraph_id": 38,
-          "text": "\"I never asked this, but I'm curious."
+          "paragraph_id": 37,
+          "text": "How did you get conscripted in the first place?\""
         },
         {
           "id": 76,
           "paragraph_id": 38,
-          "text": "How did you get conscripted in the first place?\""
-        },
-        {
-          "id": 77,
-          "paragraph_id": 39,
           "text": "It was time to learn just what was going on in the Alliance of Elvardia, after which I had some revelations to make."
         }
       ],
-      "word_count": 1212
+      "word_count": 1211
     },
     {
       "chapter_index": 525,
@@ -11647,7 +11581,6 @@
         "Damn. So the elven land is a yuri heaven. I didn't expect that.",
         "<Baby, they're waking up.> Lucille's voice sounded in my mind all of a sudden.",
         "It was time to settle my affairs with the twins.",
-        "...",
         "Amara and Vivienne woke up with a splitting headache. Their eyes were hazy and their mind scrambled, but with some difficulty, they managed to get up onto their knees.",
         "\"Morning, ladies.\" A feminine voice rang, and the two snapped their heads in sync toward the direction of the sound.",
         "As their vision cleared and their brains caught up to reality, they froze.",
@@ -11865,280 +11798,275 @@
         {
           "id": 37,
           "paragraph_id": 18,
-          "text": "..."
+          "text": "Amara and Vivienne woke up with a splitting headache."
         },
         {
           "id": 38,
-          "paragraph_id": 19,
-          "text": "Amara and Vivienne woke up with a splitting headache."
+          "paragraph_id": 18,
+          "text": "Their eyes were hazy and their mind scrambled, but with some difficulty, they managed to get up onto their knees."
         },
         {
           "id": 39,
           "paragraph_id": 19,
-          "text": "Their eyes were hazy and their mind scrambled, but with some difficulty, they managed to get up onto their knees."
+          "text": "\"Morning, ladies.\" A feminine voice rang, and the two snapped their heads in sync toward the direction of the sound."
         },
         {
           "id": 40,
           "paragraph_id": 20,
-          "text": "\"Morning, ladies.\" A feminine voice rang, and the two snapped their heads in sync toward the direction of the sound."
+          "text": "As their vision cleared and their brains caught up to reality, they froze."
         },
         {
           "id": 41,
           "paragraph_id": 21,
-          "text": "As their vision cleared and their brains caught up to reality, they froze."
+          "text": "Seated on a chair with one leg crossed over the other, a caramel-haired beauty sat."
         },
         {
           "id": 42,
-          "paragraph_id": 22,
-          "text": "Seated on a chair with one leg crossed over the other, a caramel-haired beauty sat."
+          "paragraph_id": 21,
+          "text": "Her expression was cold, distant."
         },
         {
           "id": 43,
           "paragraph_id": 22,
-          "text": "Her expression was cold, distant."
+          "text": "\"Eveliana?!\" Vivienne yelped, followed by Amara's disbelieving murmurs; \"Mother said you died... but a body was never recovered, so I felt something was off.\""
         },
         {
           "id": 44,
           "paragraph_id": 23,
-          "text": "\"Eveliana?!\" Vivienne yelped, followed by Amara's disbelieving murmurs; \"Mother said you died... but a body was never recovered, so I felt something was off.\""
+          "text": "\"I am Lucille."
         },
         {
           "id": 45,
-          "paragraph_id": 24,
-          "text": "\"I am Lucille."
+          "paragraph_id": 23,
+          "text": "Eveliana died when your mother killed mine, forcing me to run for my life in shame and throw all that I had away, including the name my beloved mother bestowed upon me.\""
         },
         {
           "id": 46,
           "paragraph_id": 24,
-          "text": "Eveliana died when your mother killed mine, forcing me to run for my life in shame and throw all that I had away, including the name my beloved mother bestowed upon me.\""
+          "text": "Both of the twins winced when they heard the extreme hatred oozing from the woman in front of them."
         },
         {
           "id": 47,
-          "paragraph_id": 25,
-          "text": "Both of the twins winced when they heard the extreme hatred oozing from the woman in front of them."
+          "paragraph_id": 24,
+          "text": "Not being able to look the woman in the eye, they glanced around the room."
         },
         {
           "id": 48,
           "paragraph_id": 25,
-          "text": "Not being able to look the woman in the eye, they glanced around the room."
+          "text": "It was a spacious room with no furnishing save for Lucille's chair."
         },
         {
           "id": 49,
           "paragraph_id": 26,
-          "text": "It was a spacious room with no furnishing save for Lucille's chair."
+          "text": "\"W-w-where are we?!\" Vivienne cried out with alarm, both of them felt that something was horribly wrong."
         },
         {
           "id": 50,
           "paragraph_id": 27,
-          "text": "\"W-w-where are we?!\" Vivienne cried out with alarm, both of them felt that something was horribly wrong."
+          "text": "\"In our home."
         },
         {
           "id": 51,
-          "paragraph_id": 28,
-          "text": "\"In our home."
+          "paragraph_id": 27,
+          "text": "Welcome, enjoy your stay as much as you can.\""
         },
         {
           "id": 52,
           "paragraph_id": 28,
-          "text": "Welcome, enjoy your stay as much as you can.\""
+          "text": "Upon the hateful woman's mocking reply, flashes of memories emerged from their jumbled brains."
         },
         {
           "id": 53,
-          "paragraph_id": 29,
-          "text": "Upon the hateful woman's mocking reply, flashes of memories emerged from their jumbled brains."
+          "paragraph_id": 28,
+          "text": "Of them being ambushed by a dark-robed man who was the epitome of the word 'dread', of the fight between their guard Eve and the men, and then of their upcoming fight... which they lost."
         },
         {
           "id": 54,
           "paragraph_id": 29,
-          "text": "Of them being ambushed by a dark-robed man who was the epitome of the word 'dread', of the fight between their guard Eve and the men, and then of their upcoming fight... which they lost."
+          "text": "Lost?"
         },
         {
           "id": 55,
           "paragraph_id": 30,
-          "text": "Lost?"
+          "text": "They lost!"
         },
         {
           "id": 56,
           "paragraph_id": 31,
-          "text": "They lost!"
+          "text": "Their panic reached overdrive when they realized that they were beaten by the elemental assault of the man, who was likely none other than the scumbag called Black!"
         },
         {
           "id": 57,
           "paragraph_id": 32,
-          "text": "Their panic reached overdrive when they realized that they were beaten by the elemental assault of the man, who was likely none other than the scumbag called Black!"
-        },
-        {
-          "id": 58,
-          "paragraph_id": 33,
           "text": "\"No!"
         },
         {
-          "id": 59,
-          "paragraph_id": 33,
+          "id": 58,
+          "paragraph_id": 32,
           "text": "Th-this can't be!"
+        },
+        {
+          "id": 59,
+          "paragraph_id": 32,
+          "text": "We have to escape!\" Amara cried out with overwhelming fear, she couldn't help but be so frightened that she shook from head to toe."
         },
         {
           "id": 60,
           "paragraph_id": 33,
-          "text": "We have to escape!\" Amara cried out with overwhelming fear, she couldn't help but be so frightened that she shook from head to toe."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 34,
           "text": "\"Eveliana, I know we had our differences as we grew up, but think about it!"
         },
         {
-          "id": 62,
-          "paragraph_id": 34,
+          "id": 61,
+          "paragraph_id": 33,
           "text": "What you're doing is the worst crime imaginable."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 33,
+          "text": "Help us escape and we'll ensure you get your noble status reinstated.\""
         },
         {
           "id": 63,
           "paragraph_id": 34,
-          "text": "Help us escape and we'll ensure you get your noble status reinstated.\""
-        },
-        {
-          "id": 64,
-          "paragraph_id": 35,
           "text": "Lucille eyed her amusedly for a bit before giggling."
         },
         {
-          "id": 65,
-          "paragraph_id": 35,
+          "id": 64,
+          "paragraph_id": 34,
           "text": "\"So that your mother may finish the job she failed all those years ago?"
+        },
+        {
+          "id": 65,
+          "paragraph_id": 34,
+          "text": "It doesn't even have to be her, you two have more than enough power to order my assassination now.\""
         },
         {
           "id": 66,
           "paragraph_id": 35,
-          "text": "It doesn't even have to be her, you two have more than enough power to order my assassination now.\""
-        },
-        {
-          "id": 67,
-          "paragraph_id": 36,
           "text": "Vivienne winced at the accusation, but she knew them to be valid."
         },
         {
-          "id": 68,
-          "paragraph_id": 36,
+          "id": 67,
+          "paragraph_id": 35,
           "text": "She had no choice but to plead in earnest."
         },
         {
-          "id": 69,
-          "paragraph_id": 36,
+          "id": 68,
+          "paragraph_id": 35,
           "text": "\"We'll make an oath with the Goddess as our witness!"
+        },
+        {
+          "id": 69,
+          "paragraph_id": 35,
+          "text": "May we be barred from entering the afterlife should we go against our promise!\""
         },
         {
           "id": 70,
           "paragraph_id": 36,
-          "text": "May we be barred from entering the afterlife should we go against our promise!\""
+          "text": "\"Hmm..."
         },
         {
           "id": 71,
-          "paragraph_id": 37,
-          "text": "\"Hmm..."
+          "paragraph_id": 36,
+          "text": "Honestly, I'm beefing with the Goddess right now, so no dice I'm afraid.\""
         },
         {
           "id": 72,
           "paragraph_id": 37,
-          "text": "Honestly, I'm beefing with the Goddess right now, so no dice I'm afraid.\""
+          "text": "\"Huh?"
         },
         {
           "id": 73,
-          "paragraph_id": 38,
-          "text": "\"Huh?"
+          "paragraph_id": 37,
+          "text": "Beefing with the Goddess???\""
         },
         {
           "id": 74,
           "paragraph_id": 38,
-          "text": "Beefing with the Goddess???\""
-        },
-        {
-          "id": 75,
-          "paragraph_id": 39,
           "text": "An annoyed scoff erupted from Lucille's lips as she magnanimously decided to explain herself; \"She thinks my man to be an evil scumbag, so I'm not very fond of the Goddess right now."
         },
         {
-          "id": 76,
-          "paragraph_id": 39,
+          "id": 75,
+          "paragraph_id": 38,
           "text": "Call it a dispute between women if you will."
         },
         {
-          "id": 77,
-          "paragraph_id": 39,
+          "id": 76,
+          "paragraph_id": 38,
           "text": "Though I'll admit that the dispute is one-sided... for now."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 38,
+          "text": "Anyhow, all you need to know is that if such a shallow woman is your witness, then your oath is worthless as far as I'm concerned.\""
         },
         {
           "id": 78,
           "paragraph_id": 39,
-          "text": "Anyhow, all you need to know is that if such a shallow woman is your witness, then your oath is worthless as far as I'm concerned.\""
-        },
-        {
-          "id": 79,
-          "paragraph_id": 40,
           "text": "\"???\" The twins' eyes fluttered wide open while their mouths closed and opened without a sound escaping their lips."
         },
         {
-          "id": 80,
-          "paragraph_id": 40,
+          "id": 79,
+          "paragraph_id": 39,
           "text": "What Lucille just uttered was a heresy of the highest order."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 39,
+          "text": "Of course, there were some disgruntled people who weren't fond of the Goddess, but no one ever dared make such bold declarations as Lucille just did."
         },
         {
           "id": 81,
           "paragraph_id": 40,
-          "text": "Of course, there were some disgruntled people who weren't fond of the Goddess, but no one ever dared make such bold declarations as Lucille just did."
+          "text": "The caramel-haired beauty was bold enough to say this because she knew that the Goddess had no way to punish her without her dying first."
         },
         {
           "id": 82,
-          "paragraph_id": 41,
-          "text": "The caramel-haired beauty was bold enough to say this because she knew that the Goddess had no way to punish her without her dying first."
+          "paragraph_id": 40,
+          "text": "People didn't dare speak badly about the Goddess because she was widely believed to rule the domain where the afterlife would take place, thus they thought if they said or did something against her, their place in the afterlife would be ruined."
         },
         {
           "id": 83,
           "paragraph_id": 41,
-          "text": "People didn't dare speak badly about the Goddess because she was widely believed to rule the domain where the afterlife would take place, thus they thought if they said or did something against her, their place in the afterlife would be ruined."
+          "text": "Lucille, however, had no such worries."
         },
         {
           "id": 84,
-          "paragraph_id": 42,
-          "text": "Lucille, however, had no such worries."
+          "paragraph_id": 41,
+          "text": "She couldn't care less what the Goddess did to her if she ever entered her domain, because the woman only cared about her life with the love of her life, not what happened after she was separated from him."
         },
         {
           "id": 85,
           "paragraph_id": 42,
-          "text": "She couldn't care less what the Goddess did to her if she ever entered her domain, because the woman only cared about her life with the love of her life, not what happened after she was separated from him."
+          "text": "To her, that would be game over, and anything that happened afterward would be entirely worthless."
         },
         {
           "id": 86,
-          "paragraph_id": 43,
-          "text": "To her, that would be game over, and anything that happened afterward would be entirely worthless."
+          "paragraph_id": 42,
+          "text": "If Quinlan wasn't with her, she didn't care for it, whatever 'it' was - good or bad, it didn't matter in the slightest."
         },
         {
           "id": 87,
           "paragraph_id": 43,
-          "text": "If Quinlan wasn't with her, she didn't care for it, whatever 'it' was - good or bad, it didn't matter in the slightest."
-        },
-        {
-          "id": 88,
-          "paragraph_id": 44,
           "text": "\"You're confusing them.\" A deep voice chuckled just before a man emerged."
         },
         {
-          "id": 89,
-          "paragraph_id": 44,
+          "id": 88,
+          "paragraph_id": 43,
           "text": "He was tall, muscular, and ruggedly handsome."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 43,
+          "text": "Although he was no longer dressed as a noble and his wolf mask was missing, both could tell who he was."
         },
         {
           "id": 90,
           "paragraph_id": 44,
-          "text": "Although he was no longer dressed as a noble and his wolf mask was missing, both could tell who he was."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 45,
           "text": "\"Black...!\" The twins hissed in sync."
         }
       ],
-      "word_count": 1242
+      "word_count": 1241
     },
     {
       "chapter_index": 528,
@@ -12693,7 +12621,6 @@
         "\"No! Please! Black! I mean, Lord Black! Pleaseee!!! I'll do anythingggg!!!\" Her screeching sounded even after Ronan slammed the door behind himself, but it quietened with every passing moment.",
         "\"I'll leave you two in your lonesome, Lucille. I'm sure you have a lot to go over with this wonderful human specimen. Once you're done and there's still some time of the night left, ask Selene or Blackjack if they have some steam to vent. However, ensure that she remains functional... both in mind and body. I plan to return the two by morning.\"",
         "\"Sure!\" Lucille's beaming smile welcomed the man's words, who chuckled dryly before turning around and leaving the room.",
-        "...",
         "- PoV: Quinlan -",
         "\"Sister... please...\"",
         "Amara's pleading slowly faded from my ears as I made my way out of the building. My discussion with Sylvaris, Jasmine, and Seraphiel was somewhat interrupted due to the twins waking up early. We didn't arrange a place for us to meet back again once I settled this matter, but I knew where I would find them.",
@@ -12980,180 +12907,175 @@
         {
           "id": 53,
           "paragraph_id": 20,
-          "text": "..."
+          "text": "- PoV: Quinlan -"
         },
         {
           "id": 54,
           "paragraph_id": 21,
-          "text": "- PoV: Quinlan -"
+          "text": "\"Sister... please...\""
         },
         {
           "id": 55,
           "paragraph_id": 22,
-          "text": "\"Sister... please...\""
-        },
-        {
-          "id": 56,
-          "paragraph_id": 23,
           "text": "Amara's pleading slowly faded from my ears as I made my way out of the building."
         },
         {
-          "id": 57,
-          "paragraph_id": 23,
+          "id": 56,
+          "paragraph_id": 22,
           "text": "My discussion with Sylvaris, Jasmine, and Seraphiel was somewhat interrupted due to the twins waking up early."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 22,
+          "text": "We didn't arrange a place for us to meet back again once I settled this matter, but I knew where I would find them."
         },
         {
           "id": 58,
           "paragraph_id": 23,
-          "text": "We didn't arrange a place for us to meet back again once I settled this matter, but I knew where I would find them."
+          "text": "\"It's so beautiful...\" Sylvaris mouthed in wonderment."
         },
         {
           "id": 59,
-          "paragraph_id": 24,
-          "text": "\"It's so beautiful...\" Sylvaris mouthed in wonderment."
+          "paragraph_id": 23,
+          "text": "Her typical composure and serenity were nowhere to be found as shimmering crystal tears streamed down her soft cheeks."
         },
         {
           "id": 60,
           "paragraph_id": 24,
-          "text": "Her typical composure and serenity were nowhere to be found as shimmering crystal tears streamed down her soft cheeks."
+          "text": "With trembling hands, she reached toward the baby Geim in my courtyard, but as if it were too holy for her mortal touch, she hesitated."
         },
         {
           "id": 61,
-          "paragraph_id": 25,
-          "text": "With trembling hands, she reached toward the baby Geim in my courtyard, but as if it were too holy for her mortal touch, she hesitated."
+          "paragraph_id": 24,
+          "text": "Instead, she slowly dropped to her knees before it, clasping her hands in front of her face and closing her eyes in silent prayer."
         },
         {
           "id": 62,
           "paragraph_id": 25,
-          "text": "Instead, she slowly dropped to her knees before it, clasping her hands in front of her face and closing her eyes in silent prayer."
+          "text": "Luminara was a religious idol in their culture, and the Geim was akin to their holy species, they believed the Eternal Forest to be made up of these creatures."
         },
         {
           "id": 63,
-          "paragraph_id": 26,
-          "text": "Luminara was a religious idol in their culture, and the Geim was akin to their holy species, they believed the Eternal Forest to be made up of these creatures."
+          "paragraph_id": 25,
+          "text": "The reason for Sylvaris' strong reaction was that the Geims were so incredibly rare that the elven lands didn't have even one of them - making them believe Geims only existed in Luminara's otherworldly domain."
         },
         {
           "id": 64,
           "paragraph_id": 26,
-          "text": "The reason for Sylvaris' strong reaction was that the Geims were so incredibly rare that the elven lands didn't have even one of them - making them believe Geims only existed in Luminara's otherworldly domain."
+          "text": "But even then, her reaction was by far the strongest I'd seen in the elves who observed the Geim."
         },
         {
           "id": 65,
-          "paragraph_id": 27,
-          "text": "But even then, her reaction was by far the strongest I'd seen in the elves who observed the Geim."
+          "paragraph_id": 26,
+          "text": "Seraphiel didn't care too much for it because she was a heretic who didn't believe in the elven tales regarding the afterlife with Luminara and the Eternal Forest."
         },
         {
           "id": 66,
           "paragraph_id": 27,
-          "text": "Seraphiel didn't care too much for it because she was a heretic who didn't believe in the elven tales regarding the afterlife with Luminara and the Eternal Forest."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 28,
           "text": "On the other hand, Kaelira and her five rangers reacted by throwing all reservations out of the window and swearing their loyalty to me."
         },
         {
-          "id": 68,
-          "paragraph_id": 28,
+          "id": 67,
+          "paragraph_id": 27,
           "text": "However, even they didn't shed tears, at least not in such an obvious and overwhelming manner."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 27,
+          "text": "For all intents and purposes, the most serene woman I'd ever met in my life was overcome with emotions."
         },
         {
           "id": 69,
           "paragraph_id": 28,
-          "text": "For all intents and purposes, the most serene woman I'd ever met in my life was overcome with emotions."
+          "text": "The five rangers who I left the Geim's protection and care to observed this beautiful sight silently and motionlessly, as if worried a single move of theirs might ruin the moment."
         },
         {
           "id": 70,
           "paragraph_id": 29,
-          "text": "The five rangers who I left the Geim's protection and care to observed this beautiful sight silently and motionlessly, as if worried a single move of theirs might ruin the moment."
+          "text": "Jasmine was also present."
         },
         {
           "id": 71,
-          "paragraph_id": 30,
-          "text": "Jasmine was also present."
+          "paragraph_id": 29,
+          "text": "While she couldn't fully grasp the significance this moment held for a traditional elf like Sylvaris, she was a respectful and intelligent woman who knew when to stay silent and simply observe."
         },
         {
           "id": 72,
           "paragraph_id": 30,
-          "text": "While she couldn't fully grasp the significance this moment held for a traditional elf like Sylvaris, she was a respectful and intelligent woman who knew when to stay silent and simply observe."
+          "text": "Seraphiel, meanwhile, stood behind her mother and was gently patting her shoulder in support."
         },
         {
           "id": 73,
-          "paragraph_id": 31,
-          "text": "Seraphiel, meanwhile, stood behind her mother and was gently patting her shoulder in support."
+          "paragraph_id": 30,
+          "text": "Even her perpetually mischievous self wore a calm expression as she did her best to comfort Sylvaris, who wept tears of joy."
         },
         {
           "id": 74,
           "paragraph_id": 31,
-          "text": "Even her perpetually mischievous self wore a calm expression as she did her best to comfort Sylvaris, who wept tears of joy."
+          "text": "It was rare to see Seraphiel be this serious, but it made me appreciate her as a person even more."
         },
         {
           "id": 75,
-          "paragraph_id": 32,
-          "text": "It was rare to see Seraphiel be this serious, but it made me appreciate her as a person even more."
+          "paragraph_id": 31,
+          "text": "Those who couldn't pause their eccentric antics when the situation called for seriousness were no longer fun to be around - they were simply obnoxious and irritating."
         },
         {
           "id": 76,
           "paragraph_id": 32,
-          "text": "Those who couldn't pause their eccentric antics when the situation called for seriousness were no longer fun to be around - they were simply obnoxious and irritating."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 33,
           "text": "I didn't dare disturb the moment with my presence either."
         },
         {
-          "id": 78,
-          "paragraph_id": 33,
+          "id": 77,
+          "paragraph_id": 32,
           "text": "Instead, I quietly approached Jasmine and stood behind her while wrapping my arms around her waist."
+        },
+        {
+          "id": 78,
+          "paragraph_id": 32,
+          "text": "She contentedly leaned into me, and together, we watched the scene unfold, savoring the serenity of the beautiful moment."
         },
         {
           "id": 79,
           "paragraph_id": 33,
-          "text": "She contentedly leaned into me, and together, we watched the scene unfold, savoring the serenity of the beautiful moment."
+          "text": "It lasted for over ten minutes, and its end was marked by Sylvaris leaning forward and gently kissing the ground in front of the Geim as if it were holy land."
         },
         {
           "id": 80,
-          "paragraph_id": 34,
-          "text": "It lasted for over ten minutes, and its end was marked by Sylvaris leaning forward and gently kissing the ground in front of the Geim as if it were holy land."
+          "paragraph_id": 33,
+          "text": "She then wiped her tears with her fingers and stood, using Sera's offered hand as support."
         },
         {
           "id": 81,
           "paragraph_id": 34,
-          "text": "She then wiped her tears with her fingers and stood, using Sera's offered hand as support."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 35,
           "text": "Sylvaris glanced in my direction and her expression brightened, after which she walked up to me and Jasmine, and then bowed deeply."
         },
         {
-          "id": 83,
-          "paragraph_id": 35,
+          "id": 82,
+          "paragraph_id": 34,
           "text": "\"Prodigious Son."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 34,
+          "text": "Thank you for all that you've done for me and my daughter, as well as our species as a whole.\""
         },
         {
           "id": 84,
           "paragraph_id": 35,
-          "text": "Thank you for all that you've done for me and my daughter, as well as our species as a whole.\""
-        },
-        {
-          "id": 85,
-          "paragraph_id": 36,
           "text": "I went from Boyfriend to Prodigious Son, huh..."
         },
         {
-          "id": 86,
-          "paragraph_id": 36,
+          "id": 85,
+          "paragraph_id": 35,
           "text": "It was a drastic jump, and I can't say I liked it."
         },
         {
-          "id": 87,
-          "paragraph_id": 36,
+          "id": 86,
+          "paragraph_id": 35,
           "text": "Traditional elves like Sylvaris might react to learning of my relations with the first elf and the Geim in more drastic manners than I expected them to."
         }
       ],
-      "word_count": 1331
+      "word_count": 1330
     },
     {
       "chapter_index": 530,
@@ -13198,9 +13120,9 @@
         "\"No one asked your opinion.\"",
         "\"Although I only arrived at Hubby's home today, want me to show you around? I love this place already, it's so nice!\" Jasmine cheerily asked Sylvaris if she wanted a tour of my stronghold.",
         "\"I would like that, thank you.\" The serene woman replied while coyly eyeing me and her daughter's wildly squirming form in my hand.",
-        "\"Mom!!!!\"",
+        "\"Mom!!!\"",
         "\"Enjoy yourself, my beloved daughter. Know that the sight of you and the extreme privilege you will soon partake in would leave all of my friends in a state of furious jealousy.\"",
-        "\"Then gives those horny bitches with cobwebs in between their legs to this brute caveman, not me! Mooooommm!!!!\"",
+        "\"Then gives those horny bitches with cobwebs in between their legs to this brute caveman, not me! Mooooommm!!!\"",
         "*Slap!*",
         "At long last, the time came for me to bed my bombshell of a healer."
       ],
@@ -13663,7 +13585,7 @@
         {
           "id": 91,
           "paragraph_id": 38,
-          "text": "\"Mom!!!!\""
+          "text": "\"Mom!!!\""
         },
         {
           "id": 92,
@@ -13683,7 +13605,7 @@
         {
           "id": 95,
           "paragraph_id": 40,
-          "text": "Mooooommm!!!!\""
+          "text": "Mooooommm!!!\""
         },
         {
           "id": 96,
@@ -13704,7 +13626,7 @@
       "url": "https://novelping.com/book/primordial-villain-with-a-slave-harem/chapter-531-not-in-the-forest",
       "paragraphs": [
         "\"Enjoy yourself, my beloved daughter. Know that the sight of you and the extreme privilege you will soon partake in would leave all of my friends in a state of furious jealousy.\"",
-        "\"Then gives those horny bitches with cobwebs in between their legs to this brute caveman, not me! Mooooommm!!!!\"",
+        "\"Then gives those horny bitches with cobwebs in between their legs to this brute caveman, not me! Mooooommm!!!\"",
         "*Slap!*",
         "At long last, the time came for me to bed my bombshell of a healer.",
         "\"[Warp Gate]\" we stepped out of my portal with Sera still hung over my shoulder like a potato sack.",
@@ -13769,7 +13691,7 @@
         {
           "id": 3,
           "paragraph_id": 1,
-          "text": "Mooooommm!!!!\""
+          "text": "Mooooommm!!!\""
         },
         {
           "id": 4,

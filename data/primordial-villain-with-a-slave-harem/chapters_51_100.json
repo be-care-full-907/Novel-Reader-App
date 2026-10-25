@@ -3915,7 +3915,6 @@
         "\"Yeah, we do. In fact, I used to have one myself.\"",
         "Ohh! Spatial storage is a staple for fantasy stories. We have 94 silver and 452 bronze coins to our names. I think it's time to finally invest in one!",
         "\"A spatial ring with respectable storage space, which I consider to be at least as big as a large crate, cost as much as a baron title with a small patch of land included. My old ring could store our inn room's worth of space in it, my beloved father bought it for my 16th birthday for 900 gold coins at an auction in the royal capital.\"",
-        "...",
         "900 gold?! That's 90.000 silver or 9.000.000 bronze coins!",
         "I stop in my tracks and gawk at her like she'd gone crazy. There's simply no way that's right, right?!",
         "The young elf sex slave healer-archer-herbalist girl was worth only 65 gold coins! And she was by far the most expensive slave I've seen thus far. You're telling me that a storage ring with relatively big space is worth more than 10 of those kinds exotic, long-lived, rare classed types of slaves? There's simply no way that's real.",
@@ -4083,200 +4082,195 @@
         {
           "id": 29,
           "paragraph_id": 14,
-          "text": "..."
+          "text": "900 gold?!"
         },
         {
           "id": 30,
-          "paragraph_id": 15,
-          "text": "900 gold?!"
+          "paragraph_id": 14,
+          "text": "That's 90.000 silver or 9.000.000 bronze coins!"
         },
         {
           "id": 31,
           "paragraph_id": 15,
-          "text": "That's 90.000 silver or 9.000.000 bronze coins!"
+          "text": "I stop in my tracks and gawk at her like she'd gone crazy."
         },
         {
           "id": 32,
-          "paragraph_id": 16,
-          "text": "I stop in my tracks and gawk at her like she'd gone crazy."
+          "paragraph_id": 15,
+          "text": "There's simply no way that's right, right?!"
         },
         {
           "id": 33,
           "paragraph_id": 16,
-          "text": "There's simply no way that's right, right?!"
-        },
-        {
-          "id": 34,
-          "paragraph_id": 17,
           "text": "The young elf sex slave healer-archer-herbalist girl was worth only 65 gold coins!"
         },
         {
-          "id": 35,
-          "paragraph_id": 17,
+          "id": 34,
+          "paragraph_id": 16,
           "text": "And she was by far the most expensive slave I've seen thus far."
         },
         {
-          "id": 36,
-          "paragraph_id": 17,
+          "id": 35,
+          "paragraph_id": 16,
           "text": "You're telling me that a storage ring with relatively big space is worth more than 10 of those kinds exotic, long-lived, rare classed types of slaves?"
+        },
+        {
+          "id": 36,
+          "paragraph_id": 16,
+          "text": "There's simply no way that's real."
         },
         {
           "id": 37,
           "paragraph_id": 17,
-          "text": "There's simply no way that's real."
+          "text": "Ayame sees that I've completely frozen in place while looking absolutely incredulous, so she begins explaining how things work in this world, \"to create a spatial ring one needs to first reach level 50 of the Artificer class, spend skill points to unlock the Epic Class; Dimensional Artificer, and then further spend skill points to unlock the [Magic Item Imbuing] spell, though he or she can unlock that one while being a simple Artificer."
         },
         {
           "id": 38,
           "paragraph_id": 18,
-          "text": "Ayame sees that I've completely frozen in place while looking absolutely incredulous, so she begins explaining how things work in this world, \"to create a spatial ring one needs to first reach level 50 of the Artificer class, spend skill points to unlock the Epic Class; Dimensional Artificer, and then further spend skill points to unlock the [Magic Item Imbuing] spell, though he or she can unlock that one while being a simple Artificer."
+          "text": "Artificer itself is a Rare Class, to unlock that class one needs to accomplish an impressive engineering feat, such as building a complex device or structure that earns the system's recognition of you as a talented crafter."
         },
         {
           "id": 39,
-          "paragraph_id": 19,
-          "text": "Artificer itself is a Rare Class, to unlock that class one needs to accomplish an impressive engineering feat, such as building a complex device or structure that earns the system's recognition of you as a talented crafter."
+          "paragraph_id": 18,
+          "text": "And all of these are just prerequisites to earn the right to even begin the process of creating a storage ring, the actual work needs to be done as well.\""
         },
         {
           "id": 40,
           "paragraph_id": 19,
-          "text": "And all of these are just prerequisites to earn the right to even begin the process of creating a storage ring, the actual work needs to be done as well.\""
+          "text": "Oh..."
         },
         {
           "id": 41,
-          "paragraph_id": 20,
-          "text": "Oh..."
+          "paragraph_id": 19,
+          "text": "\"That does indeed explain a few things...\" I sigh dejectedly."
         },
         {
           "id": 42,
           "paragraph_id": 20,
-          "text": "\"That does indeed explain a few things...\" I sigh dejectedly."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 21,
           "text": "\"That's not all."
         },
         {
-          "id": 44,
-          "paragraph_id": 21,
+          "id": 43,
+          "paragraph_id": 20,
           "text": "Dwarves are the best Artificers on the continent by far, with the magical artifact market being basically monopolized by them."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 20,
+          "text": "The issue is that they live in the nation called Alliance of Elvardia, which is a union formed between the Elven and Dwarven races, and just like the Beastman Confederation, they are at war with us."
         },
         {
           "id": 45,
           "paragraph_id": 21,
-          "text": "The issue is that they live in the nation called Alliance of Elvardia, which is a union formed between the Elven and Dwarven races, and just like the Beastman Confederation, they are at war with us."
+          "text": "So the only way for us in the Vraven Kingdom to get dwarven crafts is to either take it from them by force or enslave skilled dwarves and have them craft the items for us."
         },
         {
           "id": 46,
-          "paragraph_id": 22,
-          "text": "So the only way for us in the Vraven Kingdom to get dwarven crafts is to either take it from them by force or enslave skilled dwarves and have them craft the items for us."
+          "paragraph_id": 21,
+          "text": "Therefore, with that 900 gold my father not only paid for the crafter's skills and time and the item's base cost, but also the warlord's efforts to take the item from Elvardia through bloodshed.\""
         },
         {
           "id": 47,
           "paragraph_id": 22,
-          "text": "Therefore, with that 900 gold my father not only paid for the crafter's skills and time and the item's base cost, but also the warlord's efforts to take the item from Elvardia through bloodshed.\""
+          "text": "\"I see..."
         },
         {
           "id": 48,
-          "paragraph_id": 23,
-          "text": "\"I see..."
+          "paragraph_id": 22,
+          "text": "So you are telling me to get a cute dwarf slave wife, right?\""
         },
         {
           "id": 49,
           "paragraph_id": 23,
-          "text": "So you are telling me to get a cute dwarf slave wife, right?\""
-        },
-        {
-          "id": 50,
-          "paragraph_id": 24,
           "text": "Ayame snorts and shakes her head."
         },
         {
-          "id": 51,
-          "paragraph_id": 24,
+          "id": 50,
+          "paragraph_id": 23,
           "text": "\"I don't know how you came to that conclusion, but I must ruin the party before it even starts, I'm afraid."
+        },
+        {
+          "id": 51,
+          "paragraph_id": 23,
+          "text": "Dwarf women are about a head shorter than me while weighing three times as much, and their beards and body hair would put the masculinity of the most manly human to shame.\""
         },
         {
           "id": 52,
           "paragraph_id": 24,
-          "text": "Dwarf women are about a head shorter than me while weighing three times as much, and their beards and body hair would put the masculinity of the most manly human to shame.\""
-        },
-        {
-          "id": 53,
-          "paragraph_id": 25,
           "text": "She then grins and snickers at me, \"oh wait, I forgot about your unique tastes."
         },
         {
-          "id": 54,
-          "paragraph_id": 25,
+          "id": 53,
+          "paragraph_id": 24,
           "text": "Strong, ambitious women, beast-kin women, what about hairy, bulky women?"
+        },
+        {
+          "id": 54,
+          "paragraph_id": 24,
+          "text": "They are certainly very exotic, that I can personally guarantee you.\""
         },
         {
           "id": 55,
           "paragraph_id": 25,
-          "text": "They are certainly very exotic, that I can personally guarantee you.\""
-        },
-        {
-          "id": 56,
-          "paragraph_id": 26,
           "text": "I chuckle in response."
         },
         {
-          "id": 57,
-          "paragraph_id": 26,
+          "id": 56,
+          "paragraph_id": 25,
           "text": "It's nice to see that we can joke around with each other this well."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 25,
+          "text": "\"I retract the cute and wife part, though after listening to you I have an inkling that an Artificer dwarf slave would be slightly out of my budget, so let's focus on getting some amazing gear for now, shall we?\""
         },
         {
           "id": 58,
           "paragraph_id": 26,
-          "text": "\"I retract the cute and wife part, though after listening to you I have an inkling that an Artificer dwarf slave would be slightly out of my budget, so let's focus on getting some amazing gear for now, shall we?\""
+          "text": "\"I concur wholeheartedly.\" She answers."
         },
         {
           "id": 59,
           "paragraph_id": 27,
-          "text": "\"I concur wholeheartedly.\" She answers."
+          "text": "\"So I imagine you would prefer those curved eastern blades, right?"
         },
         {
           "id": 60,
-          "paragraph_id": 28,
-          "text": "\"So I imagine you would prefer those curved eastern blades, right?"
+          "paragraph_id": 27,
+          "text": "What about armor?\""
         },
         {
           "id": 61,
           "paragraph_id": 28,
-          "text": "What about armor?\""
-        },
-        {
-          "id": 62,
-          "paragraph_id": 29,
           "text": "\"Yeah, using straight swords is not optimal for me because a lot of my spells are less effective with them, or are straight up unusable."
         },
         {
-          "id": 63,
-          "paragraph_id": 29,
+          "id": 62,
+          "paragraph_id": 28,
           "text": "I used to carry three blades on me, an odachi for big monsters, a katana for humanoids, and a wakizashi for combat in tight spaces."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 28,
+          "text": "As for defenses, I prefer light armor that lets me move around to utilize my flexibility.\""
         },
         {
           "id": 64,
           "paragraph_id": 29,
-          "text": "As for defenses, I prefer light armor that lets me move around to utilize my flexibility.\""
+          "text": "Yeah, her acrobatic genius is indisputable after what she displayed yesterday."
         },
         {
           "id": 65,
-          "paragraph_id": 30,
-          "text": "Yeah, her acrobatic genius is indisputable after what she displayed yesterday."
+          "paragraph_id": 29,
+          "text": "\"And what would you recommend for me?\""
         },
         {
           "id": 66,
           "paragraph_id": 30,
-          "text": "\"And what would you recommend for me?\""
-        },
-        {
-          "id": 67,
-          "paragraph_id": 31,
           "text": "She thinks inwardly for a few seconds before replying:"
         }
       ],
-      "word_count": 1063
+      "word_count": 1062
     },
     {
       "chapter_index": 62,
@@ -5595,7 +5589,6 @@
         "\"Oh, then that must be Quinlan! Is he a noble to be able to afford such armor right after registering as an iron plate? He even has a Fujimori combat slave... She really is a beautiful battle babe... We shouldn't mock him then...\"",
         "That hushes the crowd. I see no reason to clear up the misunderstanding.",
         "We walk to the inn portion of the guild and order lunch. We might as well dig in while waiting for the fatty.",
-        "...",
         "\"Hey, Lardy! Over here! Come eat with your senior.\" Grunt calls out to Ian when he and Blossom finally arrive. Grunt was already seated in the inn when I came, his two slaves standing loyally behind him. This time they are not wearing their baggy civilian clothes as they are dressed for combat. Perhaps they plan to move out after the meal.",
         "Grunt seems to be a regular warrior with heavy armor and a warhammer while his two slaves appear to be rogue-types, evidenced by their sharp daggers and dark, hooded robes.",
         "I don't understand why neither he nor Kai made a better team composition, but you won't catch me complaining.",
@@ -5811,255 +5804,250 @@
         {
           "id": 38,
           "paragraph_id": 15,
-          "text": "..."
-        },
-        {
-          "id": 39,
-          "paragraph_id": 16,
           "text": "\"Hey, Lardy!"
         },
         {
-          "id": 40,
-          "paragraph_id": 16,
+          "id": 39,
+          "paragraph_id": 15,
           "text": "Over here!"
         },
         {
-          "id": 41,
-          "paragraph_id": 16,
+          "id": 40,
+          "paragraph_id": 15,
           "text": "Come eat with your senior.\" Grunt calls out to Ian when he and Blossom finally arrive."
         },
         {
-          "id": 42,
-          "paragraph_id": 16,
+          "id": 41,
+          "paragraph_id": 15,
           "text": "Grunt was already seated in the inn when I came, his two slaves standing loyally behind him."
         },
         {
-          "id": 43,
-          "paragraph_id": 16,
+          "id": 42,
+          "paragraph_id": 15,
           "text": "This time they are not wearing their baggy civilian clothes as they are dressed for combat."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 15,
+          "text": "Perhaps they plan to move out after the meal."
         },
         {
           "id": 44,
           "paragraph_id": 16,
-          "text": "Perhaps they plan to move out after the meal."
+          "text": "Grunt seems to be a regular warrior with heavy armor and a warhammer while his two slaves appear to be rogue-types, evidenced by their sharp daggers and dark, hooded robes."
         },
         {
           "id": 45,
           "paragraph_id": 17,
-          "text": "Grunt seems to be a regular warrior with heavy armor and a warhammer while his two slaves appear to be rogue-types, evidenced by their sharp daggers and dark, hooded robes."
+          "text": "I don't understand why neither he nor Kai made a better team composition, but you won't catch me complaining."
         },
         {
           "id": 46,
           "paragraph_id": 18,
-          "text": "I don't understand why neither he nor Kai made a better team composition, but you won't catch me complaining."
+          "text": "\"Ah!"
         },
         {
           "id": 47,
-          "paragraph_id": 19,
-          "text": "\"Ah!"
+          "paragraph_id": 18,
+          "text": "Brother Grunt!\" Ian recognizes him and waddles over, after which he takes a seat and orders three meals."
         },
         {
           "id": 48,
           "paragraph_id": 19,
-          "text": "Brother Grunt!\" Ian recognizes him and waddles over, after which he takes a seat and orders three meals."
+          "text": "\"Still as good of an eater as before, huh?"
         },
         {
           "id": 49,
-          "paragraph_id": 20,
-          "text": "\"Still as good of an eater as before, huh?"
+          "paragraph_id": 19,
+          "text": "How was your time with the lovely Lily?\""
         },
         {
           "id": 50,
           "paragraph_id": 20,
-          "text": "How was your time with the lovely Lily?\""
-        },
-        {
-          "id": 51,
-          "paragraph_id": 21,
           "text": "\"Oh, brother, she is just wonderful."
         },
         {
-          "id": 52,
-          "paragraph_id": 21,
+          "id": 51,
+          "paragraph_id": 20,
           "text": "I asked her to tell me some tales about her worst clients, besides myself, of course, and she reluctantly obliged."
         },
         {
-          "id": 53,
-          "paragraph_id": 21,
+          "id": 52,
+          "paragraph_id": 20,
           "text": "It didn't even take her ten seconds to begin sobbing helplessly."
+        },
+        {
+          "id": 53,
+          "paragraph_id": 20,
+          "text": "It resulted in the fattest nut I've released in a long time!\" He says with a proud grin."
         },
         {
           "id": 54,
           "paragraph_id": 21,
-          "text": "It resulted in the fattest nut I've released in a long time!\" He says with a proud grin."
-        },
-        {
-          "id": 55,
-          "paragraph_id": 22,
           "text": "\"Kekeke!"
         },
         {
-          "id": 56,
-          "paragraph_id": 22,
+          "id": 55,
+          "paragraph_id": 21,
           "text": "You are just as despicable as I remember, good."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 21,
+          "text": "Good!\""
         },
         {
           "id": 57,
           "paragraph_id": 22,
-          "text": "Good!\""
+          "text": "The fatty then glances around, \"where's big brother?\""
         },
         {
           "id": 58,
           "paragraph_id": 23,
-          "text": "The fatty then glances around, \"where's big brother?\""
+          "text": "\"Oh, he went to our duchy's, Greenvale's, capital city to sell that old slave of his."
         },
         {
           "id": 59,
-          "paragraph_id": 24,
-          "text": "\"Oh, he went to our duchy's, Greenvale's, capital city to sell that old slave of his."
+          "paragraph_id": 23,
+          "text": "Supposedly the market there is much more abundant and he has some connections there.\""
         },
         {
           "id": 60,
           "paragraph_id": 24,
-          "text": "Supposedly the market there is much more abundant and he has some connections there.\""
-        },
-        {
-          "id": 61,
-          "paragraph_id": 25,
           "text": "\"Oh!"
         },
         {
-          "id": 62,
-          "paragraph_id": 25,
+          "id": 61,
+          "paragraph_id": 24,
           "text": "How envious."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 24,
+          "text": "Maybe I should've gone there to buy a slave instead of this useless one!\""
         },
         {
           "id": 63,
           "paragraph_id": 25,
-          "text": "Maybe I should've gone there to buy a slave instead of this useless one!\""
+          "text": "\"You know, my offer still stands."
         },
         {
           "id": 64,
-          "paragraph_id": 26,
-          "text": "\"You know, my offer still stands."
+          "paragraph_id": 25,
+          "text": "These two and a gold coin for your doggy.\""
         },
         {
           "id": 65,
           "paragraph_id": 26,
-          "text": "These two and a gold coin for your doggy.\""
-        },
-        {
-          "id": 66,
-          "paragraph_id": 27,
           "text": "\"I might be dumb but not that dumb!"
         },
         {
-          "id": 67,
-          "paragraph_id": 27,
+          "id": 66,
+          "paragraph_id": 26,
           "text": "My slave is a level 13 Phantom Canine, a rare class!"
+        },
+        {
+          "id": 67,
+          "paragraph_id": 26,
+          "text": "Yours are barely level ten and are a duo of basic Assassin and Thief!\""
         },
         {
           "id": 68,
           "paragraph_id": 27,
-          "text": "Yours are barely level ten and are a duo of basic Assassin and Thief!\""
-        },
-        {
-          "id": 69,
-          "paragraph_id": 28,
           "text": "Oh?"
         },
         {
-          "id": 70,
-          "paragraph_id": 28,
+          "id": 69,
+          "paragraph_id": 27,
           "text": "Phantom Canine sounds utterly badass."
         },
         {
-          "id": 71,
-          "paragraph_id": 28,
+          "id": 70,
+          "paragraph_id": 27,
           "text": "Back when I bought Ayame I saw an Assassin cat-kin who was level 19, and she cost 20 gold coins."
         },
         {
-          "id": 72,
-          "paragraph_id": 28,
+          "id": 71,
+          "paragraph_id": 27,
           "text": "She only had a basic class but her level was much higher, so from this I can estimate that Blossom's market price should be between 10-15 gold coins at least."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 27,
+          "text": "I wonder how this tard got his greasy hands on her contract."
         },
         {
           "id": 73,
           "paragraph_id": 28,
-          "text": "I wonder how this tard got his greasy hands on her contract."
-        },
-        {
-          "id": 74,
-          "paragraph_id": 29,
           "text": "Grunt clicks his tongue in annoyance."
         },
         {
-          "id": 75,
-          "paragraph_id": 29,
+          "id": 74,
+          "paragraph_id": 28,
           "text": "\"Well, it was worth a try."
+        },
+        {
+          "id": 75,
+          "paragraph_id": 28,
+          "text": "But now you better stop complaining about her uselessness or I swear I will beat you up.\""
         },
         {
           "id": 76,
           "paragraph_id": 29,
-          "text": "But now you better stop complaining about her uselessness or I swear I will beat you up.\""
+          "text": "Ian swallows a lump of saliva in his throat audibly."
         },
         {
           "id": 77,
-          "paragraph_id": 30,
-          "text": "Ian swallows a lump of saliva in his throat audibly."
+          "paragraph_id": 29,
+          "text": "\"Alright...\" The pecking order is quite clear; Kai is the big boss, Grunt is the sergeant while Ian is the reject who failed to even become a foot soldier."
         },
         {
           "id": 78,
           "paragraph_id": 30,
-          "text": "\"Alright...\" The pecking order is quite clear; Kai is the big boss, Grunt is the sergeant while Ian is the reject who failed to even become a foot soldier."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 31,
           "text": "They continue merrily chatting while gorging multiple plates of food."
         },
         {
-          "id": 80,
-          "paragraph_id": 31,
+          "id": 79,
+          "paragraph_id": 30,
           "text": "Even from over there I can hear poor Blossom's stomach grumble but, of course, no one pays attention to her."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 30,
+          "text": "Once they are done, Ian stands and walks over to the quest board, and after a minute takes one paper off."
         },
         {
           "id": 81,
           "paragraph_id": 31,
-          "text": "Once they are done, Ian stands and walks over to the quest board, and after a minute takes one paper off."
+          "text": "\"Orc movement scouting this time should be good.\" He states loudly then walks over to Evelyn who is standing at the reception desk and accepts the quest officially."
         },
         {
           "id": 82,
           "paragraph_id": 32,
-          "text": "\"Orc movement scouting this time should be good.\" He states loudly then walks over to Evelyn who is standing at the reception desk and accepts the quest officially."
+          "text": "Orcs now?"
         },
         {
           "id": 83,
-          "paragraph_id": 33,
-          "text": "Orcs now?"
+          "paragraph_id": 32,
+          "text": "Is the county facing the threat of a greenskin invasion or what?"
         },
         {
           "id": 84,
           "paragraph_id": 33,
-          "text": "Is the county facing the threat of a greenskin invasion or what?"
+          "text": "He then throws the mission paper at Blossom."
         },
         {
           "id": 85,
-          "paragraph_id": 34,
-          "text": "He then throws the mission paper at Blossom."
+          "paragraph_id": 33,
+          "text": "\"Go make money!\" After that he waddles back to the bar section of the inn."
         },
         {
           "id": 86,
           "paragraph_id": 34,
-          "text": "\"Go make money!\" After that he waddles back to the bar section of the inn."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 35,
           "text": "Blossom gives me a knowing glance before nodding and then turning to leave."
         }
       ],
-      "word_count": 1045
+      "word_count": 1044
     },
     {
       "chapter_index": 66,
@@ -7814,7 +7802,6 @@
         "\"I think I know a way to heal-\"",
         "\"No.\"",
         "\"...\"",
-        "...",
         "We spent the next few minutes walking back to the inn, then I had a thorough cleaning session with their bucket-and-rag service, after which I opened our window wide and went to sleep peacefully.",
         "Sometime later I'm awoken by a strange sense of wetness on my cheeks. I open my eyes only to see two big blue eyes staring at me from an inch away. I can see realization shine in those beautiful eyes, recognizing my sleepless state, but the gentle licking of her tongue doesn't stop its onslaught for a few more seconds after which she freezes up completely.",
         "\"Ah! Blossom is sorry! She got caught up in the moment...\" She whimpers, her tail hiding between her legs as she has a downcast look and jumps off of me.",
@@ -8027,250 +8014,245 @@
         {
           "id": 37,
           "paragraph_id": 18,
-          "text": "..."
+          "text": "We spent the next few minutes walking back to the inn, then I had a thorough cleaning session with their bucket-and-rag service, after which I opened our window wide and went to sleep peacefully."
         },
         {
           "id": 38,
           "paragraph_id": 19,
-          "text": "We spent the next few minutes walking back to the inn, then I had a thorough cleaning session with their bucket-and-rag service, after which I opened our window wide and went to sleep peacefully."
-        },
-        {
-          "id": 39,
-          "paragraph_id": 20,
           "text": "Sometime later I'm awoken by a strange sense of wetness on my cheeks."
         },
         {
-          "id": 40,
-          "paragraph_id": 20,
+          "id": 39,
+          "paragraph_id": 19,
           "text": "I open my eyes only to see two big blue eyes staring at me from an inch away."
+        },
+        {
+          "id": 40,
+          "paragraph_id": 19,
+          "text": "I can see realization shine in those beautiful eyes, recognizing my sleepless state, but the gentle licking of her tongue doesn't stop its onslaught for a few more seconds after which she freezes up completely."
         },
         {
           "id": 41,
           "paragraph_id": 20,
-          "text": "I can see realization shine in those beautiful eyes, recognizing my sleepless state, but the gentle licking of her tongue doesn't stop its onslaught for a few more seconds after which she freezes up completely."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 21,
           "text": "\"Ah!"
         },
         {
-          "id": 43,
-          "paragraph_id": 21,
+          "id": 42,
+          "paragraph_id": 20,
           "text": "Blossom is sorry!"
+        },
+        {
+          "id": 43,
+          "paragraph_id": 20,
+          "text": "She got caught up in the moment...\" She whimpers, her tail hiding between her legs as she has a downcast look and jumps off of me."
         },
         {
           "id": 44,
           "paragraph_id": 21,
-          "text": "She got caught up in the moment...\" She whimpers, her tail hiding between her legs as she has a downcast look and jumps off of me."
+          "text": "I chuckle and reach my arm out to rub behind her ears to make her relax while asking, \"no issues on the way back?\""
         },
         {
           "id": 45,
           "paragraph_id": 22,
-          "text": "I chuckle and reach my arm out to rub behind her ears to make her relax while asking, \"no issues on the way back?\""
+          "text": "\"No."
         },
         {
           "id": 46,
-          "paragraph_id": 23,
-          "text": "\"No."
+          "paragraph_id": 22,
+          "text": "Blossom was recognized by the guards and let into the city easily.\""
         },
         {
           "id": 47,
           "paragraph_id": 23,
-          "text": "Blossom was recognized by the guards and let into the city easily.\""
+          "text": "Ayame stirs, or rather sits up."
         },
         {
           "id": 48,
-          "paragraph_id": 24,
-          "text": "Ayame stirs, or rather sits up."
+          "paragraph_id": 23,
+          "text": "I imagine she was wide awake the moment Blossom stepped into the room."
         },
         {
           "id": 49,
           "paragraph_id": 24,
-          "text": "I imagine she was wide awake the moment Blossom stepped into the room."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 25,
           "text": "She gets out of bed, and walks over to the dog-kin, enveloping the newcomer a welcoming hug."
         },
         {
-          "id": 51,
-          "paragraph_id": 25,
+          "id": 50,
+          "paragraph_id": 24,
           "text": "I'm slightly surprised by her actions, though I can understand where she is coming from."
         },
         {
-          "id": 52,
-          "paragraph_id": 25,
+          "id": 51,
+          "paragraph_id": 24,
           "text": "Blossom is so adorable that she must've flared Ayame's protective instincts, which was part of why Ian met such a gruesome end."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 24,
+          "text": "I already see a beautiful sisterly bond form between the two girls in the near future."
         },
         {
           "id": 53,
           "paragraph_id": 25,
-          "text": "I already see a beautiful sisterly bond form between the two girls in the near future."
+          "text": "I'm very happy to observe this sight, future sister-wives must stick together to create a harmonious harem environment, after all."
         },
         {
           "id": 54,
-          "paragraph_id": 26,
-          "text": "I'm very happy to observe this sight, future sister-wives must stick together to create a harmonious harem environment, after all."
+          "paragraph_id": 25,
+          "text": "I don't need drama in my house."
         },
         {
           "id": 55,
           "paragraph_id": 26,
-          "text": "I don't need drama in my house."
-        },
-        {
-          "id": 56,
-          "paragraph_id": 27,
           "text": "Ayame then speaks up, \"come, Blossom."
         },
         {
-          "id": 57,
-          "paragraph_id": 27,
+          "id": 56,
+          "paragraph_id": 26,
           "text": "Let me give you a nice bath."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 26,
+          "text": "The water is room temperature now but it's much better than nothing.\""
         },
         {
           "id": 58,
           "paragraph_id": 27,
-          "text": "The water is room temperature now but it's much better than nothing.\""
+          "text": "My vicious samurai drags the dog-kin over to where we left the bucket and begins undressing her, while glancing my way, \"look away for a few minutes, please.\""
         },
         {
           "id": 59,
           "paragraph_id": 28,
-          "text": "My vicious samurai drags the dog-kin over to where we left the bucket and begins undressing her, while glancing my way, \"look away for a few minutes, please.\""
+          "text": "Stop cockblocking me, damn woman!"
         },
         {
           "id": 60,
           "paragraph_id": 29,
-          "text": "Stop cockblocking me, damn woman!"
+          "text": "Before I can respond Blossom speaks up, \"Blossom doesn't mind if Master wants to watch.\""
         },
         {
           "id": 61,
           "paragraph_id": 30,
-          "text": "Before I can respond Blossom speaks up, \"Blossom doesn't mind if Master wants to watch.\""
+          "text": "\"You shouldn't say such things to Quinlan because he will shamelessly take a mile if you give him an inch.\""
         },
         {
           "id": 62,
           "paragraph_id": 31,
-          "text": "\"You shouldn't say such things to Quinlan because he will shamelessly take a mile if you give him an inch.\""
+          "text": "She tilts her head cutely with complete confusion evident on her features before replying, \"... but Master is Blossom's owner."
         },
         {
           "id": 63,
-          "paragraph_id": 32,
-          "text": "She tilts her head cutely with complete confusion evident on her features before replying, \"... but Master is Blossom's owner."
+          "paragraph_id": 31,
+          "text": "My body is his to use.\""
         },
         {
           "id": 64,
           "paragraph_id": 32,
-          "text": "My body is his to use.\""
+          "text": "\"He is not technically your master yet, but that matters little..."
         },
         {
           "id": 65,
-          "paragraph_id": 33,
-          "text": "\"He is not technically your master yet, but that matters little..."
+          "paragraph_id": 32,
+          "text": "You should value yourself a bit more than this, Blossom.\""
         },
         {
           "id": 66,
           "paragraph_id": 33,
-          "text": "You should value yourself a bit more than this, Blossom.\""
+          "text": "She shakes her head while looking at Ayame, \"Blossom doesn't understand.\""
         },
         {
           "id": 67,
           "paragraph_id": 34,
-          "text": "She shakes her head while looking at Ayame, \"Blossom doesn't understand.\""
-        },
-        {
-          "id": 68,
-          "paragraph_id": 35,
           "text": "Aww."
         },
         {
-          "id": 69,
-          "paragraph_id": 35,
+          "id": 68,
+          "paragraph_id": 34,
           "text": "What a good girl."
         },
         {
-          "id": 70,
-          "paragraph_id": 35,
+          "id": 69,
+          "paragraph_id": 34,
           "text": "I believe this disparity between their ideologies comes from the fact that Ayame was brought up as a noble human girl, while Blossom is a dog-kin."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 34,
+          "text": "Perhaps giving oneself entirely to the person you are loyal to is natural to them."
         },
         {
           "id": 71,
           "paragraph_id": 35,
-          "text": "Perhaps giving oneself entirely to the person you are loyal to is natural to them."
-        },
-        {
-          "id": 72,
-          "paragraph_id": 36,
           "text": "Ayame looks puzzled, clearly not knowing how to explain things to blossom."
         },
         {
-          "id": 73,
-          "paragraph_id": 36,
+          "id": 72,
+          "paragraph_id": 35,
           "text": "I inform her, \"stop being a hypocrite, Ayame."
+        },
+        {
+          "id": 73,
+          "paragraph_id": 35,
+          "text": "Don't force your values and views on others.\""
         },
         {
           "id": 74,
           "paragraph_id": 36,
-          "text": "Don't force your values and views on others.\""
-        },
-        {
-          "id": 75,
-          "paragraph_id": 37,
           "text": "She gives me an accusatory glance."
         },
         {
-          "id": 76,
-          "paragraph_id": 37,
+          "id": 75,
+          "paragraph_id": 36,
           "text": "\"Don't worry, I won't take her up on her offer tonight."
         },
         {
-          "id": 77,
-          "paragraph_id": 37,
+          "id": 76,
+          "paragraph_id": 36,
           "text": "She has just returned from a mission and has lived through cruel slavery for three years straight."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 36,
+          "text": "We have plenty of time to let her mind settle and decide what she really wants.\""
         },
         {
           "id": 78,
           "paragraph_id": 37,
-          "text": "We have plenty of time to let her mind settle and decide what she really wants.\""
+          "text": "Before, I wanted to enjoy seeing her bathe, among other things, but I'm no longer interested."
         },
         {
           "id": 79,
-          "paragraph_id": 38,
-          "text": "Before, I wanted to enjoy seeing her bathe, among other things, but I'm no longer interested."
+          "paragraph_id": 37,
+          "text": "Once we finish Operation Fluffy Liberation and she has had some time to herself we will see where things take us."
         },
         {
           "id": 80,
           "paragraph_id": 38,
-          "text": "Once we finish Operation Fluffy Liberation and she has had some time to herself we will see where things take us."
+          "text": "I wouldn't feel right relieving myself using the seriously mistreated Blossom tonight, even if she is a willing participant."
         },
         {
           "id": 81,
-          "paragraph_id": 39,
-          "text": "I wouldn't feel right relieving myself using the seriously mistreated Blossom tonight, even if she is a willing participant."
+          "paragraph_id": 38,
+          "text": "I've only spent four days in this world, so I can easily wait a while longer before being pent up."
         },
         {
           "id": 82,
           "paragraph_id": 39,
-          "text": "I've only spent four days in this world, so I can easily wait a while longer before being pent up."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 40,
           "text": "I lie back down on the bed and begin inspecting my status."
         },
         {
-          "id": 84,
-          "paragraph_id": 40,
+          "id": 83,
+          "paragraph_id": 39,
           "text": "After all, I had just gotten a shit-ton of XP and levels thanks to Grunt & Co."
         },
         {
-          "id": 85,
-          "paragraph_id": 40,
+          "id": 84,
+          "paragraph_id": 39,
           "text": "And Ayame as well, to be fair, whose kills I stole with absolute shamelessness."
         }
       ],
-      "word_count": 1150
+      "word_count": 1149
     },
     {
       "chapter_index": 71,
@@ -9144,7 +9126,6 @@
         "She shakes her head vehemently, \"no... It was just an unconscious motion.\"",
         "\"I see. Well, I'm glad to see that your mind thought of me as someone to search out for comfort. If you really are alright, I have an act I wish to play out on your favorite person.\"",
         "\"Hmm? I'm listening.\"",
-        "...",
         "We waltz in through the doors of the establishment called House of Aleron.",
         "An attendant quickly arrives at our side and begins the usual chatter. She quickly recognizes Ayame, though, and begins sweating. \"Is Marcus available?\" I inquire."
       ],
@@ -9517,30 +9498,25 @@
         {
           "id": 73,
           "paragraph_id": 34,
-          "text": "..."
+          "text": "We waltz in through the doors of the establishment called House of Aleron."
         },
         {
           "id": 74,
           "paragraph_id": 35,
-          "text": "We waltz in through the doors of the establishment called House of Aleron."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 36,
           "text": "An attendant quickly arrives at our side and begins the usual chatter."
         },
         {
-          "id": 76,
-          "paragraph_id": 36,
+          "id": 75,
+          "paragraph_id": 35,
           "text": "She quickly recognizes Ayame, though, and begins sweating."
         },
         {
-          "id": 77,
-          "paragraph_id": 36,
+          "id": 76,
+          "paragraph_id": 35,
           "text": "\"Is Marcus available?\" I inquire."
         }
       ],
-      "word_count": 1054
+      "word_count": 1053
     },
     {
       "chapter_index": 74,
@@ -14303,7 +14279,6 @@
         "Its entire form radiates a palpable aura of menace and majesty. The icy spikes on its back glisten like frozen daggers, ready to impale any who dare approach. The embers within its fur create a hypnotic, ever-changing pattern of light and shadow, giving the impression that the Direwolf is constantly aflame.",
         "The arcs of electricity that crackle along its limbs illuminate the dark chamber, highlighting the muscular power coiled within its massive frame.",
         "\"Prepare yourself, Quinlan,\" Ayame warns, her voice steady despite the tension in the air. \"This is going to be one hell of a fight. I'm honestly getting a bit excited...\" She grins, her battle maniac persona beginning to slip through its usually obstructive veil.",
-        "...",
         "- PoV: Ayame -",
         "As the heavy doors of the chamber clank shut behind us, I feel a familiar rush of anticipation coursing through me. A wicked grin of exhilaration due to the upcoming confrontation threatens to emerge on my features but I fight back against it with all my might. I'm a noble lady after all, not a battle junkie, nor a crazed maniac.",
         "I don't want to give the wrong impression to my cherished student, after all.",
@@ -14467,170 +14442,165 @@
         {
           "id": 29,
           "paragraph_id": 10,
-          "text": "..."
+          "text": "- PoV: Ayame -"
         },
         {
           "id": 30,
           "paragraph_id": 11,
-          "text": "- PoV: Ayame -"
-        },
-        {
-          "id": 31,
-          "paragraph_id": 12,
           "text": "As the heavy doors of the chamber clank shut behind us, I feel a familiar rush of anticipation coursing through me."
         },
         {
-          "id": 32,
-          "paragraph_id": 12,
+          "id": 31,
+          "paragraph_id": 11,
           "text": "A wicked grin of exhilaration due to the upcoming confrontation threatens to emerge on my features but I fight back against it with all my might."
+        },
+        {
+          "id": 32,
+          "paragraph_id": 11,
+          "text": "I'm a noble lady after all, not a battle junkie, nor a crazed maniac."
         },
         {
           "id": 33,
           "paragraph_id": 12,
-          "text": "I'm a noble lady after all, not a battle junkie, nor a crazed maniac."
+          "text": "I don't want to give the wrong impression to my cherished student, after all."
         },
         {
           "id": 34,
           "paragraph_id": 13,
-          "text": "I don't want to give the wrong impression to my cherished student, after all."
-        },
-        {
-          "id": 35,
-          "paragraph_id": 14,
           "text": "Standing before us is the towering form of the Tri-Elemental Direwolf, its massive frame brimming with elemental fury."
         },
         {
-          "id": 36,
-          "paragraph_id": 14,
+          "id": 35,
+          "paragraph_id": 13,
           "text": "My heart thrums with excitement."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 13,
+          "text": "This thrill, this sense of mortal danger is a feeling I've almost forgotten during my year-long captivity, but thanks to Quinlan this is the second time I get to experience such a wonderful adrenaline rush in the span of only four days."
         },
         {
           "id": 37,
           "paragraph_id": 14,
-          "text": "This thrill, this sense of mortal danger is a feeling I've almost forgotten during my year-long captivity, but thanks to Quinlan this is the second time I get to experience such a wonderful adrenaline rush in the span of only four days."
+          "text": "\"[Eternal Spirit of the Unyielding],\" I whisper, feeling a surge of energy wash over me, sharpening my senses and boosting my physical stats."
         },
         {
           "id": 38,
-          "paragraph_id": 15,
-          "text": "\"[Eternal Spirit of the Unyielding],\" I whisper, feeling a surge of energy wash over me, sharpening my senses and boosting my physical stats."
+          "paragraph_id": 14,
+          "text": "I've never been one to back down from a challenge, and this giant mutt won't be able to change that."
         },
         {
           "id": 39,
           "paragraph_id": 15,
-          "text": "I've never been one to back down from a challenge, and this giant mutt won't be able to change that."
+          "text": "In the war troll fight I was already half-way depleted of my mana and energy reserves before the confrontation even began, but today I haven't cast a single spell yet, fully expecting to face a difficult boss battle on the fifth floor, though this monster surpassed even my already high expectations."
         },
         {
           "id": 40,
           "paragraph_id": 16,
-          "text": "In the war troll fight I was already half-way depleted of my mana and energy reserves before the confrontation even began, but today I haven't cast a single spell yet, fully expecting to face a difficult boss battle on the fifth floor, though this monster surpassed even my already high expectations."
-        },
-        {
-          "id": 41,
-          "paragraph_id": 17,
           "text": "It could've been something as simple as a goblin warrior, if one of the normal monsters of the floor was a goblin."
         },
         {
-          "id": 42,
-          "paragraph_id": 17,
+          "id": 41,
+          "paragraph_id": 16,
           "text": "Despite a monster's level being a significant deciding factor in its overall prowess, not all races are born equal."
+        },
+        {
+          "id": 42,
+          "paragraph_id": 16,
+          "text": "A level 5 goblin would be absolutely eradicated by a level 5 dragon, or, in this case, a level 5 Tri-Elemental Direwolf."
         },
         {
           "id": 43,
           "paragraph_id": 17,
-          "text": "A level 5 goblin would be absolutely eradicated by a level 5 dragon, or, in this case, a level 5 Tri-Elemental Direwolf."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 18,
           "text": "The beast's eyes, a mesmerizing swirl of icy blue, fiery orange, and electric yellow, lock onto mine."
         },
         {
-          "id": 45,
-          "paragraph_id": 18,
+          "id": 44,
+          "paragraph_id": 17,
           "text": "There's an intelligence there, a challenge, and it honestly makes my blood sing."
+        },
+        {
+          "id": 45,
+          "paragraph_id": 17,
+          "text": "The war troll was a creature that heavily relied on its high Vitality and Strength stats, but this one is different; a cunning opponent."
         },
         {
           "id": 46,
           "paragraph_id": 18,
-          "text": "The war troll was a creature that heavily relied on its high Vitality and Strength stats, but this one is different; a cunning opponent."
+          "text": "I meet its gaze unflinchingly."
         },
         {
           "id": 47,
           "paragraph_id": 19,
-          "text": "I meet its gaze unflinchingly."
-        },
-        {
-          "id": 48,
-          "paragraph_id": 20,
           "text": "The beast raises its head toward the ceiling and lets out an ear-drum-shattering howl."
         },
         {
-          "id": 49,
-          "paragraph_id": 20,
+          "id": 48,
+          "paragraph_id": 19,
           "text": "White currents begin swirling throughout its fur, and with astonishing speed, it lunges at me."
         },
         {
-          "id": 50,
-          "paragraph_id": 20,
+          "id": 49,
+          "paragraph_id": 19,
           "text": "Clearly, it uses its lightning affinity to boost its speed, just like the Thunderfang did."
+        },
+        {
+          "id": 50,
+          "paragraph_id": 19,
+          "text": "But unlike that simpler monster, this one has a triple elemental affinity and an incredibly sturdy and strong body to boot."
         },
         {
           "id": 51,
           "paragraph_id": 20,
-          "text": "But unlike that simpler monster, this one has a triple elemental affinity and an incredibly sturdy and strong body to boot."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 21,
           "text": "\"[Flash Step],\" I dash forward, drawing it away from Quinlan so he isn't caught in the crossfire."
         },
         {
-          "id": 53,
-          "paragraph_id": 21,
+          "id": 52,
+          "paragraph_id": 20,
           "text": "The Direwolf reacts almost instantly, sensing my sudden arrival as if it has a sixth sense."
         },
         {
-          "id": 54,
-          "paragraph_id": 21,
+          "id": 53,
+          "paragraph_id": 20,
           "text": "It leaps out of the way of my [Crescent Moon Cut], the energy wave slicing into the floor where it should've stood."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 20,
+          "text": "For a creature this giant, it is amazingly agile."
         },
         {
           "id": 55,
           "paragraph_id": 21,
-          "text": "For a creature this giant, it is amazingly agile."
-        },
-        {
-          "id": 56,
-          "paragraph_id": 22,
           "text": "Spinning around mid-air to face me, the Direwolf swipes its massive claws toward me, and from each claw erupts a fiery beam."
         },
         {
-          "id": 57,
-          "paragraph_id": 22,
+          "id": 56,
+          "paragraph_id": 21,
           "text": "I activate my only defensive spell, [Spirit Shield], to protect myself."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 21,
+          "text": "The burning projectiles crash into it, threatening to break it into smithereens."
         },
         {
           "id": 58,
           "paragraph_id": 22,
-          "text": "The burning projectiles crash into it, threatening to break it into smithereens."
-        },
-        {
-          "id": 59,
-          "paragraph_id": 23,
           "text": "Sensing an opportunity, the Direwolf howls loudly, summoning a barrage of ice spears that rain down upon me."
         },
         {
-          "id": 60,
-          "paragraph_id": 23,
+          "id": 59,
+          "paragraph_id": 22,
           "text": "Then, it charges, its immense form bearing down towards me."
         },
         {
-          "id": 61,
-          "paragraph_id": 23,
+          "id": 60,
+          "paragraph_id": 22,
           "text": "\"[Storm of Wind]!\" I shout, performing a series of rapid slashes that conjure gusts of wind to deflect the icy barrage and thwarting the wolf's charge at the same time."
         }
       ],
-      "word_count": 1039
+      "word_count": 1038
     },
     {
       "chapter_index": 88,
@@ -14903,7 +14873,6 @@
         "With the combat done and the final boss monster of the day defeated our labyrinth exploration session has been officially concluded thus I bend down to pick up the final loot drop we will receive for the foreseeable future. It is one of the Tri-Elemental Direwolf's giant claws. Now this will fetch a price Quinlan won't whine about. I hope.",
         "He can whine about a lot of things, to be honest.",
         "I'm very happy to know that I managed to refrain from letting my battle crazed grin from slipping through. I want to retain my elegant ladylike image in front of Quinlan, or he might begin to think of me as a brutish barbarian.",
-        "...",
         "Pov: Quinlan",
         "I think back to the struggle we've been through and can't help but exclaim inwardly at how beautiful Ayame looked while wrestling with the boss monster. Their high octane, speedy duel was an extremely satisfying sight to behold, I'm just saddened that I couldn't contribute to a good-enough degree that I could be proud of.",
         "As soon as Ayame laid eyes on the Direwolf, a battle-crazed grin spread across her face, transforming her usually composed and serene demeanor into that of a fierce warrior woman eager for her upcoming death battle. Her eyes gleamed with an intense, almost manic light and her lips curled into a smile that promised nothing but pain for her adversary. I found this sight absolutely mesmerizing.",
@@ -15120,180 +15089,175 @@
         {
           "id": 39,
           "paragraph_id": 16,
-          "text": "..."
+          "text": "Pov: Quinlan"
         },
         {
           "id": 40,
           "paragraph_id": 17,
-          "text": "Pov: Quinlan"
+          "text": "I think back to the struggle we've been through and can't help but exclaim inwardly at how beautiful Ayame looked while wrestling with the boss monster."
         },
         {
           "id": 41,
-          "paragraph_id": 18,
-          "text": "I think back to the struggle we've been through and can't help but exclaim inwardly at how beautiful Ayame looked while wrestling with the boss monster."
+          "paragraph_id": 17,
+          "text": "Their high octane, speedy duel was an extremely satisfying sight to behold, I'm just saddened that I couldn't contribute to a good-enough degree that I could be proud of."
         },
         {
           "id": 42,
           "paragraph_id": 18,
-          "text": "Their high octane, speedy duel was an extremely satisfying sight to behold, I'm just saddened that I couldn't contribute to a good-enough degree that I could be proud of."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 19,
           "text": "As soon as Ayame laid eyes on the Direwolf, a battle-crazed grin spread across her face, transforming her usually composed and serene demeanor into that of a fierce warrior woman eager for her upcoming death battle."
         },
         {
-          "id": 44,
-          "paragraph_id": 19,
+          "id": 43,
+          "paragraph_id": 18,
           "text": "Her eyes gleamed with an intense, almost manic light and her lips curled into a smile that promised nothing but pain for her adversary."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 18,
+          "text": "I found this sight absolutely mesmerizing."
         },
         {
           "id": 45,
           "paragraph_id": 19,
-          "text": "I found this sight absolutely mesmerizing."
-        },
-        {
-          "id": 46,
-          "paragraph_id": 20,
           "text": "There was something tantalizing, almost intoxicating about the way she embraced the fight."
         },
         {
-          "id": 47,
-          "paragraph_id": 20,
+          "id": 46,
+          "paragraph_id": 19,
           "text": "Her fierce expression, filled with exhilaration and bloodlust, struck me as incredibly gorgeous."
         },
         {
-          "id": 48,
-          "paragraph_id": 20,
+          "id": 47,
+          "paragraph_id": 19,
           "text": "It was a side of Ayame that was raw, powerful, and undeniably sexy."
         },
         {
-          "id": 49,
-          "paragraph_id": 20,
+          "id": 48,
+          "paragraph_id": 19,
           "text": "I had only seen this side of her once before, when she was massacring Grunt and his slave women."
+        },
+        {
+          "id": 49,
+          "paragraph_id": 19,
+          "text": "Watching her, I felt a shiver run down my spine."
         },
         {
           "id": 50,
           "paragraph_id": 20,
-          "text": "Watching her, I felt a shiver run down my spine."
+          "text": "She was in her element, a true warrior, and the Direwolf had no idea what kind of trouble found herself in its chamber."
         },
         {
           "id": 51,
           "paragraph_id": 21,
-          "text": "She was in her element, a true warrior, and the Direwolf had no idea what kind of trouble found herself in its chamber."
+          "text": "Naturally, her crazed expression never left her features for a second during the fight either."
         },
         {
           "id": 52,
           "paragraph_id": 22,
-          "text": "Naturally, her crazed expression never left her features for a second during the fight either."
+          "text": "Ayame picks up the huge claw monster drop and puts it into our bag, and I'm very happy to see that the bag is nearly bursting apart from all the goodies that are stuffed inside."
         },
         {
           "id": 53,
-          "paragraph_id": 23,
-          "text": "Ayame picks up the huge claw monster drop and puts it into our bag, and I'm very happy to see that the bag is nearly bursting apart from all the goodies that are stuffed inside."
+          "paragraph_id": 22,
+          "text": "After decimating five floors in a single go I hope we will make some big bucks."
         },
         {
           "id": 54,
           "paragraph_id": 23,
-          "text": "After decimating five floors in a single go I hope we will make some big bucks."
+          "text": "We move down towards the 6th floor and the safe chamber greets us, where the exit portal is located."
         },
         {
           "id": 55,
           "paragraph_id": 24,
-          "text": "We move down towards the 6th floor and the safe chamber greets us, where the exit portal is located."
-        },
-        {
-          "id": 56,
-          "paragraph_id": 25,
           "text": "As we emerge from the portal, the bustling sounds of the labyrinth's entrance greet us."
         },
         {
-          "id": 57,
-          "paragraph_id": 25,
+          "id": 56,
+          "paragraph_id": 24,
           "text": "Adventurers and merchants mingle, exchanging stories of their exploits and the treasures they've gathered."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 24,
+          "text": "The air is filled with a mix of excitement and fatigue, the atmosphere buzzing with energy."
         },
         {
           "id": 58,
           "paragraph_id": 25,
-          "text": "The air is filled with a mix of excitement and fatigue, the atmosphere buzzing with energy."
+          "text": "\"We should head to the slave market before it gets too late,\" I say, scanning the crowd."
         },
         {
           "id": 59,
-          "paragraph_id": 26,
-          "text": "\"We should head to the slave market before it gets too late,\" I say, scanning the crowd."
+          "paragraph_id": 25,
+          "text": "\"We need to reach the old bones at the market before he slithers off into the night.\""
         },
         {
           "id": 60,
           "paragraph_id": 26,
-          "text": "\"We need to reach the old bones at the market before he slithers off into the night.\""
+          "text": "Ayame nods, her gaze scanning the area for any potential threats or allies."
         },
         {
           "id": 61,
-          "paragraph_id": 27,
-          "text": "Ayame nods, her gaze scanning the area for any potential threats or allies."
+          "paragraph_id": 26,
+          "text": "Her alertness never ceases to impress me, always ready to spring into action at a moment's notice."
         },
         {
           "id": 62,
           "paragraph_id": 27,
-          "text": "Her alertness never ceases to impress me, always ready to spring into action at a moment's notice."
+          "text": "\"Agreed,\" she replies."
         },
         {
           "id": 63,
-          "paragraph_id": 28,
-          "text": "\"Agreed,\" she replies."
+          "paragraph_id": 27,
+          "text": "\"But since we've finished earlier than expected, we have some time to sell our loot first.\""
         },
         {
           "id": 64,
           "paragraph_id": 28,
-          "text": "\"But since we've finished earlier than expected, we have some time to sell our loot first.\""
+          "text": "\"What is your guess?\""
         },
         {
           "id": 65,
           "paragraph_id": 29,
-          "text": "\"What is your guess?\""
+          "text": "\"Are you asking what I expect us to get for all these drops?"
         },
         {
           "id": 66,
-          "paragraph_id": 30,
-          "text": "\"Are you asking what I expect us to get for all these drops?"
+          "paragraph_id": 29,
+          "text": "I suppose somewhere between five to ten silver.\""
         },
         {
           "id": 67,
           "paragraph_id": 30,
-          "text": "I suppose somewhere between five to ten silver.\""
-        },
-        {
-          "id": 68,
-          "paragraph_id": 31,
           "text": "I can't help but grimace."
         },
         {
-          "id": 69,
-          "paragraph_id": 31,
+          "id": 68,
+          "paragraph_id": 30,
           "text": "\"Shit, woman."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 30,
+          "text": "You certainly know how to ruin a man's mood.\""
         },
         {
           "id": 70,
           "paragraph_id": 31,
-          "text": "You certainly know how to ruin a man's mood.\""
-        },
-        {
-          "id": 71,
-          "paragraph_id": 32,
           "text": "She looks at me with a raised eyebrow, \"what were you expecting?"
         },
         {
-          "id": 72,
-          "paragraph_id": 32,
+          "id": 71,
+          "paragraph_id": 31,
           "text": "This is not a get rich quick scheme, Quinlan..."
         },
         {
-          "id": 73,
-          "paragraph_id": 32,
+          "id": 72,
+          "paragraph_id": 31,
           "text": "My estimate would mean that repeating this activity every day would earn us a very comfortable income, and as you get stronger none of us would be in danger while doing so.\""
         }
       ],
-      "word_count": 1096
+      "word_count": 1095
     },
     {
       "chapter_index": 90,
@@ -16602,7 +16566,6 @@
         "With one last fond scratch behind Blossom's ears, we turn to leave. The door closes with a soft click behind us, leaving her to watch over our temporary home.",
         "The streets of the city are alive with the shifting shadows of late afternoon, the sun dipping low on the horizon, casting long shadows across the cobblestones. We move with purpose, the path to the slave district well-worn and familiar by this point. The air is thick with the scents of the city: smoke, spice, and the unmistakable tang of salt from the distant sea.",
         "Our destination is a place where freedom is a commodity, where lives are bought and sold under the guise of civility and the protection of the law. The slave district is a harsh reminder of the world we inhabit- a world where power is everything, and the weak become the literal possessions of the strong.",
-        "...",
         "- Pov: ??? -",
         "The day drags to a close in this pit of misery and broken souls, the slave market a wretched reminder of life's harshest truths. It has been decades since the smell of sweat and despair first became a comforting balm to me, but lately, it seems even this small satisfaction in my life is slipping away.",
         "I turn my head towards the recent cause of my depression and grimace at the sight. Marla was supposed to be my prized possession. I bought her with the intention of flipping her for a handsome profit. Her extraordinary beauty and status as a level 9 Warrior had real potential on the market, and I thought she would fetch me a tidy sum.",
@@ -16847,60 +16810,55 @@
         {
           "id": 47,
           "paragraph_id": 21,
-          "text": "..."
+          "text": "- Pov: ??? -"
         },
         {
           "id": 48,
           "paragraph_id": 22,
-          "text": "- Pov: ??? -"
+          "text": "The day drags to a close in this pit of misery and broken souls, the slave market a wretched reminder of life's harshest truths."
         },
         {
           "id": 49,
-          "paragraph_id": 23,
-          "text": "The day drags to a close in this pit of misery and broken souls, the slave market a wretched reminder of life's harshest truths."
+          "paragraph_id": 22,
+          "text": "It has been decades since the smell of sweat and despair first became a comforting balm to me, but lately, it seems even this small satisfaction in my life is slipping away."
         },
         {
           "id": 50,
           "paragraph_id": 23,
-          "text": "It has been decades since the smell of sweat and despair first became a comforting balm to me, but lately, it seems even this small satisfaction in my life is slipping away."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 24,
           "text": "I turn my head towards the recent cause of my depression and grimace at the sight."
         },
         {
-          "id": 52,
-          "paragraph_id": 24,
+          "id": 51,
+          "paragraph_id": 23,
           "text": "Marla was supposed to be my prized possession."
         },
         {
-          "id": 53,
-          "paragraph_id": 24,
+          "id": 52,
+          "paragraph_id": 23,
           "text": "I bought her with the intention of flipping her for a handsome profit."
+        },
+        {
+          "id": 53,
+          "paragraph_id": 23,
+          "text": "Her extraordinary beauty and status as a level 9 Warrior had real potential on the market, and I thought she would fetch me a tidy sum."
         },
         {
           "id": 54,
           "paragraph_id": 24,
-          "text": "Her extraordinary beauty and status as a level 9 Warrior had real potential on the market, and I thought she would fetch me a tidy sum."
-        },
-        {
-          "id": 55,
-          "paragraph_id": 25,
           "text": "But that notion soured quickly when I allowed myself to indulge."
         },
         {
-          "id": 56,
-          "paragraph_id": 25,
+          "id": 55,
+          "paragraph_id": 24,
           "text": "She'd already lost her virginity before captivity, which should have made her fair game for my desires."
         },
         {
-          "id": 57,
-          "paragraph_id": 25,
+          "id": 56,
+          "paragraph_id": 24,
           "text": "But I didn't count on how quickly her mind would unravel, turning what could have been a lucrative investment into a financial liability."
         }
       ],
-      "word_count": 1100
+      "word_count": 1099
     },
     {
       "chapter_index": 94,

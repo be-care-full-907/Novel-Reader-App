@@ -6401,7 +6401,6 @@
         "\"Then what would I, Skoggr, and Kazarak be doing since we don’t have a mission?\" Gorzak, the barbarian Orc King, asked.",
         "\"Oh, your mission is very important.\" Kent smiled evilly and explained their mission. By the time he was done, his legion could only pity the Orc alliance for making an indirect enemy out of their master.",
         "After a while, Kent went back to Fedora. He informed Sword King Shawn about the battle. As expected, he planned to join in and see what he could do before entering seclusion, which he estimated would take years.",
-        "---",
         "Far at the core of the universe, Lady Universe, who saw and heard Kent’s plans, smiled.",
         "\"He hasn’t even awakened a quarter of his bloodline, but he’s already started causing this much chaos. Makes me wonder what he will do once he becomes a full Dragon.\"",
         "A smile tugged at the corner of her mouth as she looked at the handsome face now biting into an apple.",
@@ -6761,75 +6760,70 @@
         {
           "id": 69,
           "paragraph_id": 34,
-          "text": "---"
+          "text": "Far at the core of the universe, Lady Universe, who saw and heard Kent’s plans, smiled."
         },
         {
           "id": 70,
           "paragraph_id": 35,
-          "text": "Far at the core of the universe, Lady Universe, who saw and heard Kent’s plans, smiled."
+          "text": "\"He hasn’t even awakened a quarter of his bloodline, but he’s already started causing this much chaos."
         },
         {
           "id": 71,
-          "paragraph_id": 36,
-          "text": "\"He hasn’t even awakened a quarter of his bloodline, but he’s already started causing this much chaos."
+          "paragraph_id": 35,
+          "text": "Makes me wonder what he will do once he becomes a full Dragon.\""
         },
         {
           "id": 72,
           "paragraph_id": 36,
-          "text": "Makes me wonder what he will do once he becomes a full Dragon.\""
+          "text": "A smile tugged at the corner of her mouth as she looked at the handsome face now biting into an apple."
         },
         {
           "id": 73,
           "paragraph_id": 37,
-          "text": "A smile tugged at the corner of her mouth as she looked at the handsome face now biting into an apple."
+          "text": "Suddenly, Kent said something that made her break into a cold sweat."
         },
         {
           "id": 74,
           "paragraph_id": 38,
-          "text": "Suddenly, Kent said something that made her break into a cold sweat."
+          "text": "\"I feel like someone is watching me...\""
         },
         {
           "id": 75,
           "paragraph_id": 39,
-          "text": "\"I feel like someone is watching me...\""
+          "text": "He looked around him for a few seconds but sighed when he couldn’t find anything."
         },
         {
           "id": 76,
-          "paragraph_id": 40,
-          "text": "He looked around him for a few seconds but sighed when he couldn’t find anything."
+          "paragraph_id": 39,
+          "text": "He then closed his eyes and decided to take a nap for a few hours while he waited for his wives to come back."
         },
         {
           "id": 77,
           "paragraph_id": 40,
-          "text": "He then closed his eyes and decided to take a nap for a few hours while he waited for his wives to come back."
+          "text": "Lady Universe thought, \"I must be careful next time."
         },
         {
           "id": 78,
-          "paragraph_id": 41,
-          "text": "Lady Universe thought, \"I must be careful next time."
+          "paragraph_id": 40,
+          "text": "Who knows what will happen when he discovers me...\""
         },
         {
           "id": 79,
           "paragraph_id": 41,
-          "text": "Who knows what will happen when he discovers me...\""
+          "text": "Soon, Kent fell asleep, and she went back to staring at his handsome face."
         },
         {
           "id": 80,
-          "paragraph_id": 42,
-          "text": "Soon, Kent fell asleep, and she went back to staring at his handsome face."
+          "paragraph_id": 41,
+          "text": "A few seconds into it, the Enchantress’ voice entered her ears, causing her to blush."
         },
         {
           "id": 81,
           "paragraph_id": 42,
-          "text": "A few seconds into it, the Enchantress’ voice entered her ears, causing her to blush."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 43,
           "text": "\"Pervert...\""
         }
       ],
-      "word_count": 1093
+      "word_count": 1092
     },
     {
       "chapter_index": 617,
@@ -10998,7 +10992,6 @@
         "⟦Description: An impeccable swordsman meant to help the guardian in protecting his flocks.⟧",
         "⟦Note: If this guardian’s tool is used in a Medium world, the rank will regress to Tier 12. The grade and rank are upgradable.⟧",
         "⟦Price: 50,000,000 Tower Points⟧",
-        "---",
         "⟦Name: Guardian Archer⟧",
         "⟦Grade: Tier 14⟧",
         "⟦Rank: SSS⟧",
@@ -11216,175 +11209,170 @@
         {
           "id": 38,
           "paragraph_id": 26,
-          "text": "---"
+          "text": "⟦Name: Guardian Archer⟧"
         },
         {
           "id": 39,
           "paragraph_id": 27,
-          "text": "⟦Name: Guardian Archer⟧"
+          "text": "⟦Grade: Tier 14⟧"
         },
         {
           "id": 40,
           "paragraph_id": 28,
-          "text": "⟦Grade: Tier 14⟧"
+          "text": "⟦Rank: SSS⟧"
         },
         {
           "id": 41,
           "paragraph_id": 29,
-          "text": "⟦Rank: SSS⟧"
+          "text": "⟦Description: An impeccable archer meant to help the guardian in protecting his flocks.⟧"
         },
         {
           "id": 42,
           "paragraph_id": 30,
-          "text": "⟦Description: An impeccable archer meant to help the guardian in protecting his flocks.⟧"
+          "text": "⟦Note: If this guardian’s tool is used in a Medium world, the rank will regress to Tier 12."
         },
         {
           "id": 43,
-          "paragraph_id": 31,
-          "text": "⟦Note: If this guardian’s tool is used in a Medium world, the rank will regress to Tier 12."
+          "paragraph_id": 30,
+          "text": "The grade and rank are upgradable.⟧"
         },
         {
           "id": 44,
           "paragraph_id": 31,
-          "text": "The grade and rank are upgradable.⟧"
+          "text": "⟦Price: 50,000,000 Tower Points⟧"
         },
         {
           "id": 45,
           "paragraph_id": 32,
-          "text": "⟦Price: 50,000,000 Tower Points⟧"
-        },
-        {
-          "id": 46,
-          "paragraph_id": 33,
           "text": "\"Interesting."
         },
         {
-          "id": 47,
-          "paragraph_id": 33,
+          "id": 46,
+          "paragraph_id": 32,
           "text": "To think I will be getting two powerful tools that are comparable to a Spirit King right off the bat."
         },
         {
-          "id": 48,
-          "paragraph_id": 33,
+          "id": 47,
+          "paragraph_id": 32,
           "text": "However, the price is a little too much."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 32,
+          "text": "But I can handle it.\" Kent smiled."
         },
         {
           "id": 49,
           "paragraph_id": 33,
-          "text": "But I can handle it.\" Kent smiled."
+          "text": "He didn’t know if this was something he could really focus on to guard the Grayvine Foxkin, but he knew having five of each would put up a good fight."
         },
         {
           "id": 50,
           "paragraph_id": 34,
-          "text": "He didn’t know if this was something he could really focus on to guard the Grayvine Foxkin, but he knew having five of each would put up a good fight."
+          "text": "The best part was that they were SSS rank, which made them comparable to someone who had broken a limit."
         },
         {
           "id": 51,
-          "paragraph_id": 35,
-          "text": "The best part was that they were SSS rank, which made them comparable to someone who had broken a limit."
+          "paragraph_id": 34,
+          "text": "And while Kent knew they were less likely to lose to a peak Emperor, he knew they would struggle against a Spirit Lord."
         },
         {
           "id": 52,
           "paragraph_id": 35,
-          "text": "And while Kent knew they were less likely to lose to a peak Emperor, he knew they would struggle against a Spirit Lord."
+          "text": "However, there was something here that made them dangerous, and that was the fact that they wouldn’t tire."
         },
         {
           "id": 53,
-          "paragraph_id": 36,
-          "text": "However, there was something here that made them dangerous, and that was the fact that they wouldn’t tire."
+          "paragraph_id": 35,
+          "text": "In combat, unless they were destroyed, they would never get tired."
         },
         {
           "id": 54,
           "paragraph_id": 36,
-          "text": "In combat, unless they were destroyed, they would never get tired."
+          "text": "That was enough to show they were meant to guard those he truly wanted to."
         },
         {
           "id": 55,
           "paragraph_id": 37,
-          "text": "That was enough to show they were meant to guard those he truly wanted to."
+          "text": "\"So far, I only have one of each as a gift from the tower for adding an entire race to the tower."
         },
         {
           "id": 56,
-          "paragraph_id": 38,
-          "text": "\"So far, I only have one of each as a gift from the tower for adding an entire race to the tower."
+          "paragraph_id": 37,
+          "text": "This means I can only station these two for now."
         },
         {
           "id": 57,
           "paragraph_id": 38,
-          "text": "This means I can only station these two for now."
+          "text": "However, considering I have billions in tower points, I can go ahead and buy a few more."
         },
         {
           "id": 58,
           "paragraph_id": 39,
-          "text": "However, considering I have billions in tower points, I can go ahead and buy a few more."
+          "text": "I will be entering seclusion, and judging by the number of things I need to accomplish, I don’t know how long I will be gone for, so it is better to have a backup plan.\""
         },
         {
           "id": 59,
           "paragraph_id": 40,
-          "text": "I will be entering seclusion, and judging by the number of things I need to accomplish, I don’t know how long I will be gone for, so it is better to have a backup plan.\""
+          "text": "Kent nodded."
         },
         {
           "id": 60,
-          "paragraph_id": 41,
-          "text": "Kent nodded."
+          "paragraph_id": 40,
+          "text": "With what he had saved up, he knew the chances of his staying in seclusion for years were likely."
         },
         {
           "id": 61,
           "paragraph_id": 41,
-          "text": "With what he had saved up, he knew the chances of his staying in seclusion for years were likely."
+          "text": "Thankfully, time in the tower is much faster than outside, so he knew only a couple of months would pass on the outside, but that still didn’t change the fact that he needed to ensure they were safe while he was away."
         },
         {
           "id": 62,
           "paragraph_id": 42,
-          "text": "Thankfully, time in the tower is much faster than outside, so he knew only a couple of months would pass on the outside, but that still didn’t change the fact that he needed to ensure they were safe while he was away."
+          "text": "\"Tower, I will purchase four of each.\""
         },
         {
           "id": 63,
           "paragraph_id": 43,
-          "text": "\"Tower, I will purchase four of each.\""
+          "text": "His tower points were deducted, and eight Guardian Tools were deposited into the tower storage."
         },
         {
           "id": 64,
-          "paragraph_id": 44,
-          "text": "His tower points were deducted, and eight Guardian Tools were deposited into the tower storage."
+          "paragraph_id": 43,
+          "text": "Adding to the rewards he got from the tower, he summoned ten powerful metallic beings, each radiating no aura, but just staring at them showed they were dangerous."
         },
         {
           "id": 65,
           "paragraph_id": 44,
-          "text": "Adding to the rewards he got from the tower, he summoned ten powerful metallic beings, each radiating no aura, but just staring at them showed they were dangerous."
+          "text": "\"This will do for now."
         },
         {
           "id": 66,
-          "paragraph_id": 45,
-          "text": "\"This will do for now."
+          "paragraph_id": 44,
+          "text": "As for the materials to upgrade them, I will give the list to the king; this is a High World—they will have more than a Medium World could offer.\""
         },
         {
           "id": 67,
           "paragraph_id": 45,
-          "text": "As for the materials to upgrade them, I will give the list to the king; this is a High World—they will have more than a Medium World could offer.\""
+          "text": "Kent nodded with satisfaction."
         },
         {
           "id": 68,
           "paragraph_id": 46,
-          "text": "Kent nodded with satisfaction."
+          "text": "So far, as a guardian, he had already ensured the future of those he was protecting was catered for."
         },
         {
           "id": 69,
-          "paragraph_id": 47,
-          "text": "So far, as a guardian, he had already ensured the future of those he was protecting was catered for."
+          "paragraph_id": 46,
+          "text": "The only thing left was for him to get back to his business and watch his Soul Essence rise every damn second."
         },
         {
           "id": 70,
           "paragraph_id": 47,
-          "text": "The only thing left was for him to get back to his business and watch his Soul Essence rise every damn second."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 48,
           "text": "\"This is the best,\" Kent smiled and vanished back to Fedora."
         }
       ],
-      "word_count": 1066
+      "word_count": 1065
     },
     {
       "chapter_index": 628,
@@ -14160,9 +14148,7 @@
         "The two ladies smiled.",
         "They truly wanted to know because the Chaos Dragon was someone who had lived up to his name from the very beginning. He had no ordinary name, just one that described his nature.",
         "\"Oh Chaos, I wonder what you have planned for your future?\"",
-        "---",
         "Kent held the key for a few seconds before a smile appeared on his lips. \"Time to meet myself, I guess.\" With that, he pressed the key against his forehead, and his consciousness was pulled into a realm.",
-        "---",
         "Kent appeared in a serene forest, one with lush green plants and a beautiful, picturesque sky. The air smelled and tasted clean, and the wind blowing across the space was just too tantalizing.",
         "Kent felt at home, like he was meant to be there. He immersed himself in the tranquil environment, even forgetting why he was there or what he was supposed to be doing at that moment.",
         "\"Beautiful, isn’t it?\" Suddenly, a voice spoke, causing Kent to turn around and examine his environment. The moment he turned, his gaze met that of a handsome man.",
@@ -14267,370 +14253,360 @@
         {
           "id": 13,
           "paragraph_id": 7,
-          "text": "---"
+          "text": "Kent held the key for a few seconds before a smile appeared on his lips."
         },
         {
           "id": 14,
-          "paragraph_id": 8,
-          "text": "Kent held the key for a few seconds before a smile appeared on his lips."
+          "paragraph_id": 7,
+          "text": "\"Time to meet myself, I guess.\" With that, he pressed the key against his forehead, and his consciousness was pulled into a realm."
         },
         {
           "id": 15,
           "paragraph_id": 8,
-          "text": "\"Time to meet myself, I guess.\" With that, he pressed the key against his forehead, and his consciousness was pulled into a realm."
-        },
-        {
-          "id": 16,
-          "paragraph_id": 9,
-          "text": "---"
-        },
-        {
-          "id": 17,
-          "paragraph_id": 10,
           "text": "Kent appeared in a serene forest, one with lush green plants and a beautiful, picturesque sky."
         },
         {
-          "id": 18,
-          "paragraph_id": 10,
+          "id": 16,
+          "paragraph_id": 8,
           "text": "The air smelled and tasted clean, and the wind blowing across the space was just too tantalizing."
         },
         {
-          "id": 19,
-          "paragraph_id": 11,
+          "id": 17,
+          "paragraph_id": 9,
           "text": "Kent felt at home, like he was meant to be there."
         },
         {
-          "id": 20,
-          "paragraph_id": 11,
+          "id": 18,
+          "paragraph_id": 9,
           "text": "He immersed himself in the tranquil environment, even forgetting why he was there or what he was supposed to be doing at that moment."
         },
         {
-          "id": 21,
-          "paragraph_id": 12,
+          "id": 19,
+          "paragraph_id": 10,
           "text": "\"Beautiful, isn’t it?\" Suddenly, a voice spoke, causing Kent to turn around and examine his environment."
         },
         {
-          "id": 22,
-          "paragraph_id": 12,
+          "id": 20,
+          "paragraph_id": 10,
           "text": "The moment he turned, his gaze met that of a handsome man."
         },
         {
-          "id": 23,
-          "paragraph_id": 13,
+          "id": 21,
+          "paragraph_id": 11,
           "text": "The person had purple hair that flowed down his back, purple eyes, and deep golden dragon horns."
+        },
+        {
+          "id": 22,
+          "paragraph_id": 11,
+          "text": "He was clad in a simple tunic shirt and trousers that showed his perfect physique."
+        },
+        {
+          "id": 23,
+          "paragraph_id": 12,
+          "text": "In his hand was an apple."
         },
         {
           "id": 24,
           "paragraph_id": 13,
-          "text": "He was clad in a simple tunic shirt and trousers that showed his perfect physique."
+          "text": "Kent observed him for a few seconds before a smirk appeared on his face."
         },
         {
           "id": 25,
           "paragraph_id": 14,
-          "text": "In his hand was an apple."
+          "text": "\"I guess the apple doesn’t fall far from the tree.\" The man who appeared before him smirked and threw an apple at him."
         },
         {
           "id": 26,
           "paragraph_id": 15,
-          "text": "Kent observed him for a few seconds before a smirk appeared on his face."
+          "text": "\"Thanks,\" Kent said, accepting it."
         },
         {
           "id": 27,
           "paragraph_id": 16,
-          "text": "\"I guess the apple doesn’t fall far from the tree.\" The man who appeared before him smirked and threw an apple at him."
-        },
-        {
-          "id": 28,
-          "paragraph_id": 17,
-          "text": "\"Thanks,\" Kent said, accepting it."
-        },
-        {
-          "id": 29,
-          "paragraph_id": 18,
           "text": "Perhaps the apple doesn’t fall far from the tree, indeed."
         },
         {
-          "id": 30,
-          "paragraph_id": 18,
+          "id": 28,
+          "paragraph_id": 16,
           "text": "That was because the person who appeared was an exact copy of him."
         },
         {
-          "id": 31,
-          "paragraph_id": 19,
+          "id": 29,
+          "paragraph_id": 17,
           "text": "While Jest bears a resemblance to him, the uncanny resemblance he shared with this man was strikingly similar to his current appearance."
+        },
+        {
+          "id": 30,
+          "paragraph_id": 17,
+          "text": "However, the man was more handsome, mature, and dangerous by all standards than he appeared to be."
+        },
+        {
+          "id": 31,
+          "paragraph_id": 18,
+          "text": "However, they shared the same eye color and physical appearance."
         },
         {
           "id": 32,
           "paragraph_id": 19,
-          "text": "However, the man was more handsome, mature, and dangerous by all standards than he appeared to be."
+          "text": "\"So you are the Chaos Dragon,\" Kent asked, biting into the apple."
         },
         {
           "id": 33,
           "paragraph_id": 20,
-          "text": "However, they shared the same eye color and physical appearance."
-        },
-        {
-          "id": 34,
-          "paragraph_id": 21,
-          "text": "\"So you are the Chaos Dragon,\" Kent asked, biting into the apple."
-        },
-        {
-          "id": 35,
-          "paragraph_id": 22,
           "text": "\"Indeed."
         },
         {
-          "id": 36,
-          "paragraph_id": 22,
+          "id": 34,
+          "paragraph_id": 20,
           "text": "You can call me Chaos,\" the man, who was identified as the Chaos Dragon, said."
         },
         {
-          "id": 37,
-          "paragraph_id": 23,
+          "id": 35,
+          "paragraph_id": 21,
           "text": "\"Chaos."
         },
         {
-          "id": 38,
-          "paragraph_id": 23,
+          "id": 36,
+          "paragraph_id": 21,
           "text": "Like, seriously."
         },
         {
-          "id": 39,
-          "paragraph_id": 23,
+          "id": 37,
+          "paragraph_id": 21,
           "text": "Don’t you have a normal dragon name, like Drogo or Drogan?"
+        },
+        {
+          "id": 38,
+          "paragraph_id": 21,
+          "text": "Even Frodo is a good name... why only Chaos?\" Kent asked, not understanding why someone would call themselves Chaos."
+        },
+        {
+          "id": 39,
+          "paragraph_id": 22,
+          "text": "I mean, it sounded cool, but come on, that is just crazy."
         },
         {
           "id": 40,
           "paragraph_id": 23,
-          "text": "Even Frodo is a good name... why only Chaos?\" Kent asked, not understanding why someone would call themselves Chaos."
-        },
-        {
-          "id": 41,
-          "paragraph_id": 24,
-          "text": "I mean, it sounded cool, but come on, that is just crazy."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 25,
           "text": "Chaos looked at Kent and laughed."
         },
         {
-          "id": 43,
-          "paragraph_id": 25,
+          "id": 41,
+          "paragraph_id": 23,
           "text": "\"You will understand later.\""
         },
         {
-          "id": 44,
-          "paragraph_id": 26,
+          "id": 42,
+          "paragraph_id": 24,
           "text": "Kent sighed."
         },
         {
-          "id": 45,
-          "paragraph_id": 26,
+          "id": 43,
+          "paragraph_id": 24,
           "text": "\"Though, aren’t you supposed to be dead or something?"
         },
         {
-          "id": 46,
-          "paragraph_id": 26,
+          "id": 44,
+          "paragraph_id": 24,
           "text": "I mean, I didn’t meet Jest, so why am I meeting you?"
         },
         {
-          "id": 47,
-          "paragraph_id": 26,
+          "id": 45,
+          "paragraph_id": 24,
           "text": "Not that I am complaining, but why?\""
         },
         {
-          "id": 48,
-          "paragraph_id": 27,
+          "id": 46,
+          "paragraph_id": 25,
           "text": "Chaos walked past Kent and then moved to a cliff not far from where they stood."
         },
         {
-          "id": 49,
-          "paragraph_id": 27,
+          "id": 47,
+          "paragraph_id": 25,
           "text": "Kent followed and stood beside him, looking like a father and son when in fact, they were the same person."
         },
         {
-          "id": 50,
-          "paragraph_id": 28,
+          "id": 48,
+          "paragraph_id": 26,
           "text": "Chaos turned to him and smiled."
+        },
+        {
+          "id": 49,
+          "paragraph_id": 26,
+          "text": "Kent could swear he saw some emotions flash in those crazy purple eyes, but then they vanished."
+        },
+        {
+          "id": 50,
+          "paragraph_id": 27,
+          "text": "\"I reckon Jest is one of our incarnations?\" he asked, and Kent nodded."
         },
         {
           "id": 51,
           "paragraph_id": 28,
-          "text": "Kent could swear he saw some emotions flash in those crazy purple eyes, but then they vanished."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 29,
-          "text": "\"I reckon Jest is one of our incarnations?\" he asked, and Kent nodded."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 30,
           "text": "\"Looks like it works."
         },
         {
-          "id": 54,
-          "paragraph_id": 30,
+          "id": 52,
+          "paragraph_id": 28,
           "text": "This is good.\" Chaos’s smile caused his eyes to flash golden for a second before returning to their purple form."
         },
         {
-          "id": 55,
-          "paragraph_id": 31,
+          "id": 53,
+          "paragraph_id": 29,
           "text": "\"To answer your question, I am here because of you."
         },
         {
-          "id": 56,
-          "paragraph_id": 31,
+          "id": 54,
+          "paragraph_id": 29,
           "text": "This consciousness is left in this realm, which is hidden deep within your mind."
         },
         {
-          "id": 57,
-          "paragraph_id": 31,
+          "id": 55,
+          "paragraph_id": 29,
           "text": "Now that you want to learn about your memories, I will guide you and perhaps answer your questions.\""
         },
         {
-          "id": 58,
-          "paragraph_id": 32,
+          "id": 56,
+          "paragraph_id": 30,
           "text": "\"This means if you have anything you want to know, I am ready to answer..."
         },
         {
-          "id": 59,
-          "paragraph_id": 32,
+          "id": 57,
+          "paragraph_id": 30,
           "text": "Though you have to know I can’t answer all questions, the laws are not exactly deaf, you see.\" Chaos smiled, biting again into his apple."
         },
         {
-          "id": 60,
-          "paragraph_id": 32,
+          "id": 58,
+          "paragraph_id": 30,
           "text": "Kent did the same."
         },
         {
-          "id": 61,
-          "paragraph_id": 33,
+          "id": 59,
+          "paragraph_id": 31,
           "text": "\"First question, then."
         },
         {
-          "id": 62,
-          "paragraph_id": 33,
+          "id": 60,
+          "paragraph_id": 31,
           "text": "I want to know about how you died.\""
         },
         {
-          "id": 63,
-          "paragraph_id": 34,
+          "id": 61,
+          "paragraph_id": 32,
           "text": "\"Right off the bat, I see.\" Chaos smiled and then shook his head."
         },
         {
-          "id": 64,
-          "paragraph_id": 34,
+          "id": 62,
+          "paragraph_id": 32,
           "text": "\"Unfortunately, I can’t tell you how I died.\""
         },
         {
-          "id": 65,
-          "paragraph_id": 35,
+          "id": 63,
+          "paragraph_id": 33,
           "text": "\"Why?\" Kent asked, not liking how his first question had turned out."
         },
         {
-          "id": 66,
-          "paragraph_id": 35,
+          "id": 64,
+          "paragraph_id": 33,
           "text": "He knew the Chaos Dragon had died; he had learned that from Vexthra, so he wanted to know what had happened."
         },
         {
-          "id": 67,
-          "paragraph_id": 36,
+          "id": 65,
+          "paragraph_id": 34,
           "text": "\"I don’t know how I died because I never died,\" Chaos said with a cheeky laugh."
         },
         {
-          "id": 68,
-          "paragraph_id": 36,
+          "id": 66,
+          "paragraph_id": 34,
           "text": "However, Kent wasn’t sharing in his fun."
         },
         {
-          "id": 69,
-          "paragraph_id": 36,
+          "id": 67,
+          "paragraph_id": 34,
           "text": "From all he knew, the Chaos Dragon fell during the Great War, so why was he saying he didn’t die?"
         },
         {
-          "id": 70,
-          "paragraph_id": 37,
+          "id": 68,
+          "paragraph_id": 35,
           "text": "\"I don’t understand."
         },
         {
-          "id": 71,
-          "paragraph_id": 37,
+          "id": 69,
+          "paragraph_id": 35,
           "text": "From what I learned about the Chaos Dragon, you fell during the Great War."
         },
         {
-          "id": 72,
-          "paragraph_id": 37,
+          "id": 70,
+          "paragraph_id": 35,
           "text": "So, what then happened if you are saying you never died?\""
         },
         {
-          "id": 73,
-          "paragraph_id": 38,
+          "id": 71,
+          "paragraph_id": 36,
           "text": "It all didn’t make any sense."
         },
         {
-          "id": 74,
-          "paragraph_id": 38,
+          "id": 72,
+          "paragraph_id": 36,
           "text": "The Chaos Dragon was the lone guardian to stay when the others were transcending."
         },
         {
-          "id": 75,
-          "paragraph_id": 39,
+          "id": 73,
+          "paragraph_id": 37,
           "text": "He stood his ground and fought for what he loved, and died doing it."
         },
         {
-          "id": 76,
-          "paragraph_id": 39,
+          "id": 74,
+          "paragraph_id": 37,
           "text": "So if that was the case, why was he saying he never died?"
         },
         {
-          "id": 77,
-          "paragraph_id": 40,
+          "id": 75,
+          "paragraph_id": 38,
           "text": "Was it that he was mistaken for someone, or had he perhaps sustained brain damage during the battle?"
         },
         {
-          "id": 78,
-          "paragraph_id": 40,
+          "id": 76,
+          "paragraph_id": 38,
           "text": "Kent looked at Chaos weirdly and then sighed."
         },
         {
-          "id": 79,
-          "paragraph_id": 41,
+          "id": 77,
+          "paragraph_id": 39,
           "text": "\"How are you still alive then, and what happened during the Great War?\" he asked."
         },
         {
-          "id": 80,
-          "paragraph_id": 41,
+          "id": 78,
+          "paragraph_id": 39,
           "text": "That seemed like the logical question at the moment."
         },
         {
-          "id": 81,
-          "paragraph_id": 42,
+          "id": 79,
+          "paragraph_id": 40,
           "text": "\"The Great War, huh?"
         },
         {
-          "id": 82,
-          "paragraph_id": 42,
+          "id": 80,
+          "paragraph_id": 40,
           "text": "Sounds like a good name, but I prepared for the Doom War."
         },
         {
-          "id": 83,
-          "paragraph_id": 42,
+          "id": 81,
+          "paragraph_id": 40,
           "text": "After all, it was then I died, yet I didn’t die."
         },
         {
-          "id": 84,
-          "paragraph_id": 43,
+          "id": 82,
+          "paragraph_id": 41,
           "text": "You might think I am messing with you, but the truth of the matter is, I died, but I didn’t die."
         },
         {
-          "id": 85,
-          "paragraph_id": 43,
+          "id": 83,
+          "paragraph_id": 41,
           "text": "I died in the sense that my soul shattered, but I didn’t die because my soul never went to the underworld.\""
         }
       ],
-      "word_count": 1071
+      "word_count": 1069
     },
     {
       "chapter_index": 636,
@@ -15894,14 +15870,12 @@
         "\"However, the Primal Bone Tempering Art is what I need right now.",
         "It will not only enhance my body and bones, but it will also make me a predator, someone worthy of once being the opponent of the infamous Abyssal Leviathan, the overlord of the wild.\"",
         "Kent laughed, feeling the craziness stir within him.",
-        "---",
         "Inside the Mountain Garden, Dori and her sister were watching their master with smiles on their faces.",
         "⟪I can start to see that craziness surface. Mercy on the souls of those who would anger him. I fear for them,⟫ Gaia said, shaking her small head. Her sisters were the same.",
         "⟪His bloodline is already thirteen percent, yet that craziness has started to surface. Makes me wonder, would this version of him become even crazier?⟫ Akira asked.",
         "⟪Only natural. He has lived many lives after all, and while I won’t say all of them were crazy like the Chaos Dragon era, he was a menace in all, so it is only normal.",
         "The question, however, should be whether he can control the chaos and not exacerbate it, as he did in Lumen.⟫",
         "The three sisters nodded, looked at each other, and sighed in unison.",
-        "---",
         "Kent flipped to the next page of the diary.",
         "[So I killed 12 thousand people today. Although I couldn’t reach all of them, the 12,000 are from a world called Myrrath. I don’t know where it is located, but I believe they are demons who can breathe fire.",
         "Makes me sad I can’t do that despite being a dragon. However, I learned something new... Killing is so much fun.]",
@@ -16062,265 +16036,255 @@
         {
           "id": 27,
           "paragraph_id": 18,
-          "text": "---"
+          "text": "Inside the Mountain Garden, Dori and her sister were watching their master with smiles on their faces."
         },
         {
           "id": 28,
           "paragraph_id": 19,
-          "text": "Inside the Mountain Garden, Dori and her sister were watching their master with smiles on their faces."
-        },
-        {
-          "id": 29,
-          "paragraph_id": 20,
           "text": "⟪I can start to see that craziness surface."
         },
         {
-          "id": 30,
-          "paragraph_id": 20,
+          "id": 29,
+          "paragraph_id": 19,
           "text": "Mercy on the souls of those who would anger him."
         },
         {
-          "id": 31,
-          "paragraph_id": 20,
+          "id": 30,
+          "paragraph_id": 19,
           "text": "I fear for them,⟫ Gaia said, shaking her small head."
+        },
+        {
+          "id": 31,
+          "paragraph_id": 19,
+          "text": "Her sisters were the same."
         },
         {
           "id": 32,
           "paragraph_id": 20,
-          "text": "Her sisters were the same."
+          "text": "⟪His bloodline is already thirteen percent, yet that craziness has started to surface."
         },
         {
           "id": 33,
-          "paragraph_id": 21,
-          "text": "⟪His bloodline is already thirteen percent, yet that craziness has started to surface."
+          "paragraph_id": 20,
+          "text": "Makes me wonder, would this version of him become even crazier?⟫ Akira asked."
         },
         {
           "id": 34,
           "paragraph_id": 21,
-          "text": "Makes me wonder, would this version of him become even crazier?⟫ Akira asked."
+          "text": "⟪Only natural."
         },
         {
           "id": 35,
-          "paragraph_id": 22,
-          "text": "⟪Only natural."
+          "paragraph_id": 21,
+          "text": "He has lived many lives after all, and while I won’t say all of them were crazy like the Chaos Dragon era, he was a menace in all, so it is only normal."
         },
         {
           "id": 36,
           "paragraph_id": 22,
-          "text": "He has lived many lives after all, and while I won’t say all of them were crazy like the Chaos Dragon era, he was a menace in all, so it is only normal."
+          "text": "The question, however, should be whether he can control the chaos and not exacerbate it, as he did in Lumen.⟫"
         },
         {
           "id": 37,
           "paragraph_id": 23,
-          "text": "The question, however, should be whether he can control the chaos and not exacerbate it, as he did in Lumen.⟫"
+          "text": "The three sisters nodded, looked at each other, and sighed in unison."
         },
         {
           "id": 38,
           "paragraph_id": 24,
-          "text": "The three sisters nodded, looked at each other, and sighed in unison."
+          "text": "Kent flipped to the next page of the diary."
         },
         {
           "id": 39,
           "paragraph_id": 25,
-          "text": "---"
-        },
-        {
-          "id": 40,
-          "paragraph_id": 26,
-          "text": "Kent flipped to the next page of the diary."
-        },
-        {
-          "id": 41,
-          "paragraph_id": 27,
           "text": "[So I killed 12 thousand people today."
         },
         {
-          "id": 42,
-          "paragraph_id": 27,
+          "id": 40,
+          "paragraph_id": 25,
           "text": "Although I couldn’t reach all of them, the 12,000 are from a world called Myrrath."
         },
         {
-          "id": 43,
-          "paragraph_id": 27,
+          "id": 41,
+          "paragraph_id": 25,
           "text": "I don’t know where it is located, but I believe they are demons who can breathe fire."
         },
         {
-          "id": 44,
-          "paragraph_id": 28,
+          "id": 42,
+          "paragraph_id": 26,
           "text": "Makes me sad I can’t do that despite being a dragon."
         },
         {
-          "id": 45,
-          "paragraph_id": 28,
+          "id": 43,
+          "paragraph_id": 26,
           "text": "However, I learned something new..."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 26,
+          "text": "Killing is so much fun.]"
+        },
+        {
+          "id": 45,
+          "paragraph_id": 27,
+          "text": "Kent’s eyes remained on the book, looking at the words written in black, and he just couldn’t fathom how someone could be this crazy."
         },
         {
           "id": 46,
           "paragraph_id": 28,
-          "text": "Killing is so much fun.]"
-        },
-        {
-          "id": 47,
-          "paragraph_id": 29,
-          "text": "Kent’s eyes remained on the book, looking at the words written in black, and he just couldn’t fathom how someone could be this crazy."
-        },
-        {
-          "id": 48,
-          "paragraph_id": 30,
           "text": "\"At this point, I think we were crazy — I was crazy."
         },
         {
-          "id": 49,
-          "paragraph_id": 30,
+          "id": 47,
+          "paragraph_id": 28,
           "text": "But strangely, it felt good slaughtering them."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 28,
+          "text": "After all, they came to destroy my world, and I wouldn’t let that happen."
+        },
+        {
+          "id": 49,
+          "paragraph_id": 29,
+          "text": "All those who cross me will die.\""
         },
         {
           "id": 50,
           "paragraph_id": 30,
-          "text": "After all, they came to destroy my world, and I wouldn’t let that happen."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 31,
-          "text": "All those who cross me will die.\""
-        },
-        {
-          "id": 52,
-          "paragraph_id": 32,
           "text": "Kent’s eyes turned golden, and the aura of chaos radiated from him."
         },
         {
-          "id": 53,
-          "paragraph_id": 32,
+          "id": 51,
+          "paragraph_id": 30,
           "text": "Without even knowing it, his claws were activated as he said those words."
         },
         {
-          "id": 54,
-          "paragraph_id": 32,
+          "id": 52,
+          "paragraph_id": 30,
           "text": "However, a few seconds later, a sigh escaped his lips."
         },
         {
-          "id": 55,
-          "paragraph_id": 33,
+          "id": 53,
+          "paragraph_id": 31,
           "text": "\"I was a menace."
         },
         {
-          "id": 56,
-          "paragraph_id": 33,
+          "id": 54,
+          "paragraph_id": 31,
           "text": "However, while I understand what I did, perhaps I could have been more welcoming and not gone straight to slaughter.\" He smiled, then continued to read."
         },
         {
-          "id": 57,
-          "paragraph_id": 34,
+          "id": 55,
+          "paragraph_id": 32,
           "text": "[Okay."
         },
         {
-          "id": 58,
-          "paragraph_id": 34,
+          "id": 56,
+          "paragraph_id": 32,
           "text": "So the slaughter I committed wasn’t in vain."
         },
         {
-          "id": 59,
-          "paragraph_id": 34,
+          "id": 57,
+          "paragraph_id": 32,
           "text": "I managed to comprehend the first form of The Primal Bone Tempering Art."
         },
         {
-          "id": 60,
-          "paragraph_id": 35,
+          "id": 58,
+          "paragraph_id": 33,
           "text": "This made my claws three times stronger, and my Dragon Aura now has that primal kink to it."
         },
         {
-          "id": 61,
-          "paragraph_id": 35,
+          "id": 59,
+          "paragraph_id": 33,
           "text": "I think I am becoming a predator, and the feeling is incredible."
         },
         {
-          "id": 62,
-          "paragraph_id": 36,
+          "id": 60,
+          "paragraph_id": 34,
           "text": "However, I also think I may have gone overboard the last time."
         },
         {
-          "id": 63,
-          "paragraph_id": 36,
+          "id": 61,
+          "paragraph_id": 34,
           "text": "Perhaps I will be more civil next time and try to make things more peaceful."
         },
         {
-          "id": 64,
-          "paragraph_id": 37,
+          "id": 62,
+          "paragraph_id": 35,
           "text": "However, the people of Lumen are happy with my leadership."
         },
         {
-          "id": 65,
-          "paragraph_id": 37,
+          "id": 63,
+          "paragraph_id": 35,
           "text": "Life is good, and while the slaughter is too much, they seem not to care."
         },
         {
-          "id": 66,
-          "paragraph_id": 38,
+          "id": 64,
+          "paragraph_id": 36,
           "text": "Perhaps they are too afraid to say anything, considering on occasion I hear whispers of people saying I am a tyrant."
         },
         {
-          "id": 67,
-          "paragraph_id": 38,
+          "id": 65,
+          "paragraph_id": 36,
           "text": "Not that I care."
         },
         {
-          "id": 68,
-          "paragraph_id": 39,
+          "id": 66,
+          "paragraph_id": 37,
           "text": "I don’t need their praise anyway."
+        },
+        {
+          "id": 67,
+          "paragraph_id": 37,
+          "text": "The only thing I need now is to grow stronger and have my battle with Leviathan.]"
+        },
+        {
+          "id": 68,
+          "paragraph_id": 38,
+          "text": "Kent flipped to the next page."
         },
         {
           "id": 69,
           "paragraph_id": 39,
-          "text": "The only thing I need now is to grow stronger and have my battle with Leviathan.]"
-        },
-        {
-          "id": 70,
-          "paragraph_id": 40,
-          "text": "Kent flipped to the next page."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 41,
           "text": "[So the civil approach didn’t work, so I had to lay waste to a thousand more."
         },
         {
-          "id": 72,
-          "paragraph_id": 41,
+          "id": 70,
+          "paragraph_id": 39,
           "text": "This time, they put up a fight."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 39,
+          "text": "However, they couldn’t break past me."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 40,
+          "text": "Also, I managed to get one of their boats, which can travel through the spatial channels."
         },
         {
           "id": 73,
           "paragraph_id": 41,
-          "text": "However, they couldn’t break past me."
+          "text": "I am considering leaving Lumen to give them an in-person warning."
         },
         {
           "id": 74,
-          "paragraph_id": 42,
-          "text": "Also, I managed to get one of their boats, which can travel through the spatial channels."
+          "paragraph_id": 41,
+          "text": "However, I am afraid they will come while I am gone, so for now, I am weighing my options."
         },
         {
           "id": 75,
-          "paragraph_id": 43,
-          "text": "I am considering leaving Lumen to give them an in-person warning."
+          "paragraph_id": 42,
+          "text": "On one side, I could wait for the strongest of them to come, then after I kill all of them, I can travel to nearby worlds and give them a stern warning."
         },
         {
           "id": 76,
           "paragraph_id": 43,
-          "text": "However, I am afraid they will come while I am gone, so for now, I am weighing my options."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 44,
-          "text": "On one side, I could wait for the strongest of them to come, then after I kill all of them, I can travel to nearby worlds and give them a stern warning."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 45,
           "text": "Or I can risk it and go bananas.]"
         }
       ],
-      "word_count": 1039
+      "word_count": 1037
     },
     {
       "chapter_index": 640,
@@ -16773,7 +16737,6 @@
         "\"Was that even possible? I mean, to live without a face.\" Kent was eager to find out. After all, it was his life, and as such, he must find out who he was.",
         "He pressed the key against his forehead, and his consciousness was pulled into yet another realm that made him wonder why Jest never had that.",
         "He was about to meet the realm’s faceless assassin.",
-        "---",
         "Lady Universe sighed, a smile playing on her lips. \"Looks like he wouldn’t be that crazy after all.\"",
         "\"I think so too. However, he has now started to awaken his memories, so I doubt it will remain like that forever,\" the Enchantress responded.",
         "\"Well, that would be for the future to determine. But until then, we can only hope he doesn’t make things much more chaotic than they already are.\" Lady Universe smiled.",
@@ -17129,60 +17092,55 @@
         {
           "id": 69,
           "paragraph_id": 36,
-          "text": "---"
+          "text": "Lady Universe sighed, a smile playing on her lips."
         },
         {
           "id": 70,
-          "paragraph_id": 37,
-          "text": "Lady Universe sighed, a smile playing on her lips."
+          "paragraph_id": 36,
+          "text": "\"Looks like he wouldn’t be that crazy after all.\""
         },
         {
           "id": 71,
           "paragraph_id": 37,
-          "text": "\"Looks like he wouldn’t be that crazy after all.\""
+          "text": "\"I think so too."
         },
         {
           "id": 72,
-          "paragraph_id": 38,
-          "text": "\"I think so too."
+          "paragraph_id": 37,
+          "text": "However, he has now started to awaken his memories, so I doubt it will remain like that forever,\" the Enchantress responded."
         },
         {
           "id": 73,
           "paragraph_id": 38,
-          "text": "However, he has now started to awaken his memories, so I doubt it will remain like that forever,\" the Enchantress responded."
+          "text": "\"Well, that would be for the future to determine."
         },
         {
           "id": 74,
-          "paragraph_id": 39,
-          "text": "\"Well, that would be for the future to determine."
+          "paragraph_id": 38,
+          "text": "But until then, we can only hope he doesn’t make things much more chaotic than they already are.\" Lady Universe smiled."
         },
         {
           "id": 75,
           "paragraph_id": 39,
-          "text": "But until then, we can only hope he doesn’t make things much more chaotic than they already are.\" Lady Universe smiled."
+          "text": "\"Ahh, what a headache."
         },
         {
           "id": 76,
-          "paragraph_id": 40,
-          "text": "\"Ahh, what a headache."
+          "paragraph_id": 39,
+          "text": "How can a single existence make us all stand on edge?\" the Enchantress smirked, saying that."
         },
         {
           "id": 77,
           "paragraph_id": 40,
-          "text": "How can a single existence make us all stand on edge?\" the Enchantress smirked, saying that."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 41,
           "text": "\"What can I say?"
         },
         {
-          "id": 79,
-          "paragraph_id": 41,
+          "id": 78,
+          "paragraph_id": 40,
           "text": "He is the Chaos Dragon after all.\""
         }
       ],
-      "word_count": 1063
+      "word_count": 1062
     },
     {
       "chapter_index": 642,

@@ -1829,7 +1829,6 @@
         "⟦Role: Chieftain⟧",
         "⟦Current Realm: Root Sovereign (Peak)⟧",
         "⟦True Realm: Spirit Immortal (Two Immortal Auras)⟧",
-        "---",
         "⟦Name: Kha’azal Drogan⟧",
         "⟦Title: The Stormbringer ⟧",
         "⟦Role: Guardian of the Tempest Peak⟧",
@@ -2209,100 +2208,95 @@
         {
           "id": 72,
           "paragraph_id": 44,
-          "text": "---"
+          "text": "⟦Name: Kha’azal Drogan⟧"
         },
         {
           "id": 73,
           "paragraph_id": 45,
-          "text": "⟦Name: Kha’azal Drogan⟧"
+          "text": "⟦Title: The Stormbringer ⟧"
         },
         {
           "id": 74,
           "paragraph_id": 46,
-          "text": "⟦Title: The Stormbringer ⟧"
+          "text": "⟦Role: Guardian of the Tempest Peak⟧"
         },
         {
           "id": 75,
           "paragraph_id": 47,
-          "text": "⟦Role: Guardian of the Tempest Peak⟧"
+          "text": "⟦Current Realm: Root Sovereign (Peak)⟧"
         },
         {
           "id": 76,
           "paragraph_id": 48,
-          "text": "⟦Current Realm: Root Sovereign (Peak)⟧"
+          "text": "⟦True Realm: True Immortal (Four Immortal Auras)⟧"
         },
         {
           "id": 77,
           "paragraph_id": 49,
-          "text": "⟦True Realm: True Immortal (Four Immortal Auras)⟧"
+          "text": "’Damn, they are impressive,’ Kent said inwardly, reading their status pages."
         },
         {
           "id": 78,
           "paragraph_id": 50,
-          "text": "’Damn, they are impressive,’ Kent said inwardly, reading their status pages."
+          "text": "⟪Looks like the limitations of the medium worlds are affecting them."
         },
         {
           "id": 79,
           "paragraph_id": 51,
-          "text": "⟪Looks like the limitations of the medium worlds are affecting them."
+          "text": "However, the moment they enter a high world, they will gradually recover to their peak, and the same will happen when they reach an immortal world."
         },
         {
           "id": 80,
           "paragraph_id": 52,
-          "text": "However, the moment they enter a high world, they will gradually recover to their peak, and the same will happen when they reach an immortal world."
+          "text": "Still, I advise you to take your alchemy seriously, Master."
         },
         {
           "id": 81,
           "paragraph_id": 53,
-          "text": "Still, I advise you to take your alchemy seriously, Master."
+          "text": "Though they are immortals, their bodies will need time to adapt and fully restore their strength in higher worlds."
         },
         {
           "id": 82,
-          "paragraph_id": 54,
-          "text": "Though they are immortals, their bodies will need time to adapt and fully restore their strength in higher worlds."
+          "paragraph_id": 53,
+          "text": "But with body tempering now, and by making more pills for them, they can recover much faster to aid you when you need them⟫, Dori said, and Kent nodded inwardly."
         },
         {
           "id": 83,
           "paragraph_id": 54,
-          "text": "But with body tempering now, and by making more pills for them, they can recover much faster to aid you when you need them⟫, Dori said, and Kent nodded inwardly."
+          "text": "He turned to the third dungeon boss, the skull-headed man known as the Shade King."
         },
         {
           "id": 84,
           "paragraph_id": 55,
-          "text": "He turned to the third dungeon boss, the skull-headed man known as the Shade King."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 56,
           "text": "\"I am Nykali."
         },
         {
-          "id": 86,
-          "paragraph_id": 56,
+          "id": 85,
+          "paragraph_id": 55,
           "text": "I don’t have any recollection aside from my name,\" Nykali said with a sigh."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 55,
+          "text": "Kent patted him on the shoulder and smiled."
         },
         {
           "id": 87,
           "paragraph_id": 56,
-          "text": "Kent patted him on the shoulder and smiled."
+          "text": "\"Don’t worry, we all have memories locked away."
         },
         {
           "id": 88,
-          "paragraph_id": 57,
-          "text": "\"Don’t worry, we all have memories locked away."
+          "paragraph_id": 56,
+          "text": "One day we’ll remember them, and when that time comes, we can return to where we’re supposed to be.\""
         },
         {
           "id": 89,
           "paragraph_id": 57,
-          "text": "One day we’ll remember them, and when that time comes, we can return to where we’re supposed to be.\""
-        },
-        {
-          "id": 90,
-          "paragraph_id": 58,
           "text": "Though his head was a skull and he looked terrifying, his true realm was that of an Immortal King—someone several times stronger than even Kha’azal."
         }
       ],
-      "word_count": 1029
+      "word_count": 1028
     },
     {
       "chapter_index": 556,
@@ -8675,9 +8669,7 @@
         "Surrounding these rivers were even more coffins that eventually opened.",
         "They all uttered the same words as the first...",
         "\"...Blood of a Wynthrall.\"",
-        "***",
         "Far from this castle and the seven pillars, signals lit up on every last continent, signaling the awakening of something ancient that should never have awakened in this rather peaceful world.",
-        "***",
         "Kent looked at the beheaded body of the cursed corpse disguised as Elaine and let out a deep sigh.",
         "\"Things never stop looking bizarre. It’s like there’s always something weirder after the last weird thing.\" His words made Alina laugh.",
         "\"...This is a cultivation world, so it’s only natural to see bizarre things like this.\" She pressed her hand against Elaine’s forehead for a few seconds before letting go.",
@@ -8834,255 +8826,245 @@
         {
           "id": 24,
           "paragraph_id": 18,
-          "text": "***"
+          "text": "Far from this castle and the seven pillars, signals lit up on every last continent, signaling the awakening of something ancient that should never have awakened in this rather peaceful world."
         },
         {
           "id": 25,
           "paragraph_id": 19,
-          "text": "Far from this castle and the seven pillars, signals lit up on every last continent, signaling the awakening of something ancient that should never have awakened in this rather peaceful world."
+          "text": "Kent looked at the beheaded body of the cursed corpse disguised as Elaine and let out a deep sigh."
         },
         {
           "id": 26,
           "paragraph_id": 20,
-          "text": "***"
+          "text": "\"Things never stop looking bizarre."
         },
         {
           "id": 27,
-          "paragraph_id": 21,
-          "text": "Kent looked at the beheaded body of the cursed corpse disguised as Elaine and let out a deep sigh."
+          "paragraph_id": 20,
+          "text": "It’s like there’s always something weirder after the last weird thing.\" His words made Alina laugh."
         },
         {
           "id": 28,
-          "paragraph_id": 22,
-          "text": "\"Things never stop looking bizarre."
+          "paragraph_id": 21,
+          "text": "\"...This is a cultivation world, so it’s only natural to see bizarre things like this.\" She pressed her hand against Elaine’s forehead for a few seconds before letting go."
         },
         {
           "id": 29,
           "paragraph_id": 22,
-          "text": "It’s like there’s always something weirder after the last weird thing.\" His words made Alina laugh."
+          "text": "Suddenly, a powerful burst of energy erupted from Elaine’s body."
         },
         {
           "id": 30,
           "paragraph_id": 23,
-          "text": "\"...This is a cultivation world, so it’s only natural to see bizarre things like this.\" She pressed her hand against Elaine’s forehead for a few seconds before letting go."
+          "text": "\"This...\" The sudden turn of events took the life magician’s breath away."
         },
         {
           "id": 31,
           "paragraph_id": 24,
-          "text": "Suddenly, a powerful burst of energy erupted from Elaine’s body."
+          "text": "\"I am advancing in my life magic... this... the curse has been broken... hahaha.\" Her tears fell as she laughed, feeling overjoyed, yet her emotions overwhelmed her, making her shed tears of joy."
         },
         {
           "id": 32,
           "paragraph_id": 25,
-          "text": "\"This...\" The sudden turn of events took the life magician’s breath away."
-        },
-        {
-          "id": 33,
-          "paragraph_id": 26,
-          "text": "\"I am advancing in my life magic... this... the curse has been broken... hahaha.\" Her tears fell as she laughed, feeling overjoyed, yet her emotions overwhelmed her, making her shed tears of joy."
-        },
-        {
-          "id": 34,
-          "paragraph_id": 27,
           "text": "She went from Tier 4 to Tier 5."
         },
         {
-          "id": 35,
-          "paragraph_id": 27,
+          "id": 33,
+          "paragraph_id": 25,
           "text": "Then it moved to 6, and then stopped when it reached Tier 7."
         },
         {
-          "id": 36,
-          "paragraph_id": 27,
+          "id": 34,
+          "paragraph_id": 25,
           "text": "In the vast world of Life Magic, she could be considered a Life King, someone akin to a Pill King if she were an alchemist."
         },
         {
-          "id": 37,
-          "paragraph_id": 28,
+          "id": 35,
+          "paragraph_id": 26,
           "text": "However, the sudden rise in her life magic wasn’t the only thing that happened to her."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 26,
+          "text": "After the breakthroughs, a small lotus tattoo appeared on her forehead."
+        },
+        {
+          "id": 37,
+          "paragraph_id": 27,
+          "text": "Suddenly, the manifestation green and golden lotus appeared behind her."
         },
         {
           "id": 38,
           "paragraph_id": 28,
-          "text": "After the breakthroughs, a small lotus tattoo appeared on her forehead."
+          "text": "It appeared and enlarged until it was large enough to be seen thousands of miles away."
         },
         {
           "id": 39,
           "paragraph_id": 29,
-          "text": "Suddenly, the manifestation green and golden lotus appeared behind her."
-        },
-        {
-          "id": 40,
-          "paragraph_id": 30,
-          "text": "It appeared and enlarged until it was large enough to be seen thousands of miles away."
-        },
-        {
-          "id": 41,
-          "paragraph_id": 31,
           "text": "Vexthra, who was standing back, suddenly gasped, placing her hand over her mouth."
         },
         {
-          "id": 42,
-          "paragraph_id": 31,
+          "id": 40,
+          "paragraph_id": 29,
           "text": "Her sisters became puzzled watching such an expression."
         },
         {
-          "id": 43,
-          "paragraph_id": 32,
+          "id": 41,
+          "paragraph_id": 30,
           "text": "However, before they could ask a question, three presences appeared in the Soul Tower."
         },
         {
-          "id": 44,
-          "paragraph_id": 32,
+          "id": 42,
+          "paragraph_id": 30,
           "text": "Naturally, it was the three lolis who wore shocked expressions on their faces, too."
         },
         {
-          "id": 45,
-          "paragraph_id": 33,
+          "id": 43,
+          "paragraph_id": 31,
           "text": "⟪Is that the infamous Celestial Golden Jade Lotus...?⟫ Gaia asked, eyes wide."
         },
         {
-          "id": 46,
-          "paragraph_id": 33,
+          "id": 44,
+          "paragraph_id": 31,
           "text": "Clearly, something universe-shattering was happening that they couldn’t believe."
         },
         {
-          "id": 47,
-          "paragraph_id": 34,
+          "id": 45,
+          "paragraph_id": 32,
           "text": "⟪I know my eyes won’t deceive me, so that is indeed the Celestial Golden Jade Lotus... the jade lotus that went missing billions of years ago."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 32,
+          "text": "I can’t believe it.⟫"
+        },
+        {
+          "id": 47,
+          "paragraph_id": 33,
+          "text": "⟪Who would have thought that in a remote world, a place no immortal would dare step, has been housing the infamous innate body constitution that only appeared once in all of time this whole time?⟫"
         },
         {
           "id": 48,
           "paragraph_id": 34,
-          "text": "I can’t believe it.⟫"
+          "text": "The words from the three lolis reached the ladies, giving them a fair idea of what was happening."
         },
         {
           "id": 49,
           "paragraph_id": 35,
-          "text": "⟪Who would have thought that in a remote world, a place no immortal would dare step, has been housing the infamous innate body constitution that only appeared once in all of time this whole time?⟫"
-        },
-        {
-          "id": 50,
-          "paragraph_id": 36,
-          "text": "The words from the three lolis reached the ladies, giving them a fair idea of what was happening."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 37,
           "text": "\"As expected, anyone Kent adds to his harem is special."
         },
         {
-          "id": 52,
-          "paragraph_id": 37,
+          "id": 50,
+          "paragraph_id": 35,
           "text": "Sister Elaine is even more special than I expected.\" Unity, of course, had to hype Elaine, who sat with eyes closed, letting her awakening stabilize first."
         },
         {
-          "id": 53,
-          "paragraph_id": 38,
+          "id": 51,
+          "paragraph_id": 36,
           "text": "\"Big sister, can you tell us about what is happening?\" Mara asked, looking in Elaine’s direction."
         },
         {
-          "id": 54,
-          "paragraph_id": 38,
+          "id": 52,
+          "paragraph_id": 36,
           "text": "Vexthra, who was asked this question, took a minute to compose himself and answered."
         },
         {
-          "id": 55,
-          "paragraph_id": 39,
+          "id": 53,
+          "paragraph_id": 37,
           "text": "\"There are some things that cannot be spoken about."
         },
         {
-          "id": 56,
-          "paragraph_id": 39,
+          "id": 54,
+          "paragraph_id": 37,
           "text": "They are things the laws won’t allow to be spoken of by just anyone."
         },
         {
-          "id": 57,
-          "paragraph_id": 40,
+          "id": 55,
+          "paragraph_id": 38,
           "text": "The Celestial Golden Jade Lotus is one of such things."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 38,
+          "text": "I can’t say much simply because the public knowledge I have is limited."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 39,
+          "text": "However, from what I know, the Celestial Golden Jade Lotus is a powerful innate body constitution that appeared during the primordial era."
         },
         {
           "id": 58,
           "paragraph_id": 40,
-          "text": "I can’t say much simply because the public knowledge I have is limited."
+          "text": "They say it’s one that holds the power of life and death."
         },
         {
           "id": 59,
-          "paragraph_id": 41,
-          "text": "However, from what I know, the Celestial Golden Jade Lotus is a powerful innate body constitution that appeared during the primordial era."
+          "paragraph_id": 40,
+          "text": "The one who possesses it holds life and death at their fingertips.\""
         },
         {
           "id": 60,
-          "paragraph_id": 42,
-          "text": "They say it’s one that holds the power of life and death."
+          "paragraph_id": 41,
+          "text": "Cough."
         },
         {
           "id": 61,
           "paragraph_id": 42,
-          "text": "The one who possesses it holds life and death at their fingertips.\""
+          "text": "Vexthra suddenly coughed up blood, some coming from her nose, but she held a smile on her face."
         },
         {
           "id": 62,
           "paragraph_id": 43,
-          "text": "Cough."
+          "text": "\"Big sister, are you okay?\" Unity and her sisters panicked, watching this."
         },
         {
           "id": 63,
           "paragraph_id": 44,
-          "text": "Vexthra suddenly coughed up blood, some coming from her nose, but she held a smile on her face."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 45,
-          "text": "\"Big sister, are you okay?\" Unity and her sisters panicked, watching this."
-        },
-        {
-          "id": 65,
-          "paragraph_id": 46,
           "text": "\"Yes, I am fine,\" she said, but the three lolis shook their heads."
         },
         {
-          "id": 66,
-          "paragraph_id": 46,
+          "id": 64,
+          "paragraph_id": 44,
           "text": "They knew that if the one who said this were even a demigod, they would have died where they stood."
         },
         {
-          "id": 67,
-          "paragraph_id": 47,
+          "id": 65,
+          "paragraph_id": 45,
           "text": "Some things are public knowledge, but that doesn’t mean they can be spoken about casually."
         },
         {
-          "id": 68,
-          "paragraph_id": 47,
+          "id": 66,
+          "paragraph_id": 45,
           "text": "The price paid for such offenses can sometimes amount to one’s life."
         },
         {
-          "id": 69,
-          "paragraph_id": 48,
+          "id": 67,
+          "paragraph_id": 46,
           "text": "\"Don’t talk again, Vex."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 46,
+          "text": "You will only hurt yourself.\" Kent, who wore a panicked expression when he saw Vexthra bleeding, quickly cleaned her blood and warned her."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 47,
+          "text": "However, before Vexthra could answer, a green leaf designed with golden lines flew from Elaine’s forehead and landed in Vexthra’s hand."
         },
         {
           "id": 70,
           "paragraph_id": 48,
-          "text": "You will only hurt yourself.\" Kent, who wore a panicked expression when he saw Vexthra bleeding, quickly cleaned her blood and warned her."
+          "text": "\"This...\""
         },
         {
           "id": 71,
           "paragraph_id": 49,
-          "text": "However, before Vexthra could answer, a green leaf designed with golden lines flew from Elaine’s forehead and landed in Vexthra’s hand."
-        },
-        {
-          "id": 72,
-          "paragraph_id": 50,
-          "text": "\"This...\""
-        },
-        {
-          "id": 73,
-          "paragraph_id": 51,
           "text": "The three lolis held their jaws loose, not believing their eyes..."
         }
       ],
-      "word_count": 1062
+      "word_count": 1060
     },
     {
       "chapter_index": 572,
@@ -10418,7 +10400,6 @@
         "Val didn’t seem disappointed. Instead, she smiled and said, \"I will surpass you one day, Selene. Don’t forget that.\"",
         "Selene just laughed. \"I look forward to that day, sister.\"",
         "The environment was suddenly filled with love, something every last one of them felt. Val talked more about her gains. After she was done, Lady Lani was called to start her awakening.",
-        "---",
         "Sitting at the universe’s core, Lady Universe smiled, shaking her head. Dori, who was seated beside her, turned and looked at her and asked,",
         "\"What is it, mother?\"",
         "\"That maniac is about to be awakened.\"",
@@ -10830,55 +10811,50 @@
         {
           "id": 80,
           "paragraph_id": 45,
-          "text": "---"
+          "text": "Sitting at the universe’s core, Lady Universe smiled, shaking her head."
         },
         {
           "id": 81,
-          "paragraph_id": 46,
-          "text": "Sitting at the universe’s core, Lady Universe smiled, shaking her head."
+          "paragraph_id": 45,
+          "text": "Dori, who was seated beside her, turned and looked at her and asked,"
         },
         {
           "id": 82,
           "paragraph_id": 46,
-          "text": "Dori, who was seated beside her, turned and looked at her and asked,"
+          "text": "\"What is it, mother?\""
         },
         {
           "id": 83,
           "paragraph_id": 47,
-          "text": "\"What is it, mother?\""
+          "text": "\"That maniac is about to be awakened.\""
         },
         {
           "id": 84,
           "paragraph_id": 48,
-          "text": "\"That maniac is about to be awakened.\""
+          "text": "Dori became puzzled."
         },
         {
           "id": 85,
-          "paragraph_id": 49,
-          "text": "Dori became puzzled."
+          "paragraph_id": 48,
+          "text": "She had no idea what her mother was saying...or who she referred to as a maniac..."
         },
         {
           "id": 86,
           "paragraph_id": 49,
-          "text": "She had no idea what her mother was saying...or who she referred to as a maniac..."
+          "text": "\"Don’t worry, you will know when you get back."
         },
         {
           "id": 87,
-          "paragraph_id": 50,
-          "text": "\"Don’t worry, you will know when you get back."
+          "paragraph_id": 49,
+          "text": "For now, focus on your recovery.\""
         },
         {
           "id": 88,
           "paragraph_id": 50,
-          "text": "For now, focus on your recovery.\""
-        },
-        {
-          "id": 89,
-          "paragraph_id": 51,
           "text": "\"Okay, mother.\""
         }
       ],
-      "word_count": 1131
+      "word_count": 1130
     },
     {
       "chapter_index": 576,
@@ -12692,7 +12668,6 @@
         "The lady went quiet, hearing Kent speak.",
         "\"You wouldn’t actually kill the entire universe, right?\" For a moment, panic set in her tone. And when Kent raised his head and looked at her, that panic intensified.",
         "Somehow, Kent was remembering everything. Everything that led to him losing everything. His mind started to crack, and his anger continued to flare as the memories of something made-up started flowing in.",
-        "---",
         "Far at the core of the universe, Lady Universe’s eyes suddenly widened, causing Dori to turn to her.",
         "\"Mother, what is it?\" He wasn’t even done when Lady Universe answered.",
         "\"Go back, Doriana. Chaos needs you, and don’t worry, I will keep the cosmic channel open so you won’t run out this time.\"",
@@ -13090,55 +13065,50 @@
         {
           "id": 77,
           "paragraph_id": 45,
-          "text": "---"
+          "text": "Far at the core of the universe, Lady Universe’s eyes suddenly widened, causing Dori to turn to her."
         },
         {
           "id": 78,
           "paragraph_id": 46,
-          "text": "Far at the core of the universe, Lady Universe’s eyes suddenly widened, causing Dori to turn to her."
+          "text": "\"Mother, what is it?\" He wasn’t even done when Lady Universe answered."
         },
         {
           "id": 79,
           "paragraph_id": 47,
-          "text": "\"Mother, what is it?\" He wasn’t even done when Lady Universe answered."
+          "text": "\"Go back, Doriana."
         },
         {
           "id": 80,
-          "paragraph_id": 48,
-          "text": "\"Go back, Doriana."
+          "paragraph_id": 47,
+          "text": "Chaos needs you, and don’t worry, I will keep the cosmic channel open so you won’t run out this time.\""
         },
         {
           "id": 81,
           "paragraph_id": 48,
-          "text": "Chaos needs you, and don’t worry, I will keep the cosmic channel open so you won’t run out this time.\""
+          "text": "Dori needn’t be told twice."
         },
         {
           "id": 82,
-          "paragraph_id": 49,
-          "text": "Dori needn’t be told twice."
+          "paragraph_id": 48,
+          "text": "She vanished and appeared inside the soul tower, where everyone was frozen in time."
         },
         {
           "id": 83,
           "paragraph_id": 49,
-          "text": "She vanished and appeared inside the soul tower, where everyone was frozen in time."
+          "text": "When she walked close to Kent, she saw his eyes had turned red, and the pain, hatred, and resentment in them weren’t ones she had seen before."
         },
         {
           "id": 84,
           "paragraph_id": 50,
-          "text": "When she walked close to Kent, she saw his eyes had turned red, and the pain, hatred, and resentment in them weren’t ones she had seen before."
+          "text": "Even the god of hatred and resentment would shudder if they saw his eyes."
         },
         {
           "id": 85,
           "paragraph_id": 51,
-          "text": "Even the god of hatred and resentment would shudder if they saw his eyes."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 52,
           "text": "She quickly entered his mind, and what she saw made her shudder in her soul."
         }
       ],
-      "word_count": 1134
+      "word_count": 1133
     },
     {
       "chapter_index": 581,
@@ -13155,7 +13125,6 @@
         "\"Then we prepare for the worst. But I have no doubt they will, because from what I just witnessed, he loved so much. Meaning they are the only ones that can reach him...",
         "If this love is enough for him to threaten to destroy the universe, then I have no doubt he will be able to overcome that part of himself when the time comes with the help of his ladies.",
         "\"I hope you are right this time too... if not, I can only wonder what would happen when he gets angry.\" The two cosmic ladies sighed and continued to watch the events.",
-        "---",
         "The lady stared at Kent in shock for a few minutes, digesting what he said. After a long, hard digestion of Kent’s clear declaration that he would destroy the universe and everything it contains, the lady snapped her fingers.",
         "The space around them shattered, and Kent found himself back inside the boat, only this time, there was a destination in sight.",
         "A painful headache rocked his mind when he woke up, making him close his eyes and grit his teeth for a few minutes before he calmed down.",
@@ -13284,260 +13253,255 @@
         {
           "id": 18,
           "paragraph_id": 10,
-          "text": "---"
+          "text": "The lady stared at Kent in shock for a few minutes, digesting what he said."
         },
         {
           "id": 19,
-          "paragraph_id": 11,
-          "text": "The lady stared at Kent in shock for a few minutes, digesting what he said."
+          "paragraph_id": 10,
+          "text": "After a long, hard digestion of Kent’s clear declaration that he would destroy the universe and everything it contains, the lady snapped her fingers."
         },
         {
           "id": 20,
           "paragraph_id": 11,
-          "text": "After a long, hard digestion of Kent’s clear declaration that he would destroy the universe and everything it contains, the lady snapped her fingers."
+          "text": "The space around them shattered, and Kent found himself back inside the boat, only this time, there was a destination in sight."
         },
         {
           "id": 21,
           "paragraph_id": 12,
-          "text": "The space around them shattered, and Kent found himself back inside the boat, only this time, there was a destination in sight."
+          "text": "A painful headache rocked his mind when he woke up, making him close his eyes and grit his teeth for a few minutes before he calmed down."
         },
         {
           "id": 22,
           "paragraph_id": 13,
-          "text": "A painful headache rocked his mind when he woke up, making him close his eyes and grit his teeth for a few minutes before he calmed down."
+          "text": "\"It was just an illusion...\" Kent’s eyes turned cold; however, a familiar voice entered his mind the next second, making him take a deep breath."
         },
         {
           "id": 23,
           "paragraph_id": 14,
-          "text": "\"It was just an illusion...\" Kent’s eyes turned cold; however, a familiar voice entered his mind the next second, making him take a deep breath."
-        },
-        {
-          "id": 24,
-          "paragraph_id": 15,
           "text": "⟪Master, you don’t have to worry."
         },
         {
-          "id": 25,
-          "paragraph_id": 15,
+          "id": 24,
+          "paragraph_id": 14,
           "text": "All you saw was just an illusion created by a powerful mind cultivator."
+        },
+        {
+          "id": 25,
+          "paragraph_id": 14,
+          "text": "I don’t know, but her consciousness still remains, and you are going to her now."
         },
         {
           "id": 26,
           "paragraph_id": 15,
-          "text": "I don’t know, but her consciousness still remains, and you are going to her now."
-        },
-        {
-          "id": 27,
-          "paragraph_id": 16,
           "text": "Don’t worry."
         },
         {
-          "id": 28,
-          "paragraph_id": 16,
+          "id": 27,
+          "paragraph_id": 15,
           "text": "Your mind is safe, and whatever memory you have absorbed is but an illusion."
+        },
+        {
+          "id": 28,
+          "paragraph_id": 15,
+          "text": "Don’t worry too much about it⟫, Dori spoke, and Kent nodded."
         },
         {
           "id": 29,
           "paragraph_id": 16,
-          "text": "Don’t worry too much about it⟫, Dori spoke, and Kent nodded."
+          "text": "’Thank you, Dori.’ Though he knew it was an illusion, still, he still couldn’t shake the helplessness he felt when he saw his wife’s lifeless body hanging at the dam gate."
         },
         {
           "id": 30,
           "paragraph_id": 17,
-          "text": "’Thank you, Dori.’ Though he knew it was an illusion, still, he still couldn’t shake the helplessness he felt when he saw his wife’s lifeless body hanging at the dam gate."
+          "text": "A few minutes later, the boat docked, and Kent jumped down."
         },
         {
           "id": 31,
-          "paragraph_id": 18,
-          "text": "A few minutes later, the boat docked, and Kent jumped down."
+          "paragraph_id": 17,
+          "text": "The space around him twisted the moment his leg touched the shore."
         },
         {
           "id": 32,
           "paragraph_id": 18,
-          "text": "The space around him twisted the moment his leg touched the shore."
+          "text": "This time, he appeared inside a lush garden where a beautiful lady who looked exactly like Zaila was watering flowers."
         },
         {
           "id": 33,
           "paragraph_id": 19,
-          "text": "This time, he appeared inside a lush garden where a beautiful lady who looked exactly like Zaila was watering flowers."
+          "text": "Though she was much more mature and beautiful, Kent’s eyes wouldn’t lie to him; it was Zaila, true and accurate."
         },
         {
           "id": 34,
           "paragraph_id": 20,
-          "text": "Though she was much more mature and beautiful, Kent’s eyes wouldn’t lie to him; it was Zaila, true and accurate."
+          "text": "\"Before anything, I have three questions for you,\" Kent said, not lowering his guard."
         },
         {
           "id": 35,
           "paragraph_id": 21,
-          "text": "\"Before anything, I have three questions for you,\" Kent said, not lowering his guard."
+          "text": "Though Dori said this was just a strand of consciousness that belonged to the Mind Cultivator, the fact that she was able to mess with his mind that much was enough to tell him she was dangerous."
         },
         {
           "id": 36,
           "paragraph_id": 22,
-          "text": "Though Dori said this was just a strand of consciousness that belonged to the Mind Cultivator, the fact that she was able to mess with his mind that much was enough to tell him she was dangerous."
+          "text": "So he wasn’t lowering his guard."
         },
         {
           "id": 37,
           "paragraph_id": 23,
-          "text": "So he wasn’t lowering his guard."
+          "text": "\"Go ahead...\" the lady said."
         },
         {
           "id": 38,
           "paragraph_id": 24,
-          "text": "\"Go ahead...\" the lady said."
+          "text": "\"First question, are you Zaila’s past self?\""
         },
         {
           "id": 39,
           "paragraph_id": 25,
-          "text": "\"First question, are you Zaila’s past self?\""
+          "text": "\"Second, was any of what you said real?"
         },
         {
           "id": 40,
-          "paragraph_id": 26,
-          "text": "\"Second, was any of what you said real?"
+          "paragraph_id": 25,
+          "text": "And I mean real in the sense that out of the infinite possibilities, I lost my wives, and the end result was hatred.\""
         },
         {
           "id": 41,
           "paragraph_id": 26,
-          "text": "And I mean real in the sense that out of the infinite possibilities, I lost my wives, and the end result was hatred.\""
+          "text": "\"And lastly, would the memories I somehow got influence me?\" Kent asked the question in one breath, showing how serious he was."
         },
         {
           "id": 42,
           "paragraph_id": 27,
-          "text": "\"And lastly, would the memories I somehow got influence me?\" Kent asked the question in one breath, showing how serious he was."
+          "text": "The lady looked at him long and hard, and then she spoke, \"I will answer your questions, but before that, answer one of mine first."
         },
         {
           "id": 43,
           "paragraph_id": 28,
-          "text": "The lady looked at him long and hard, and then she spoke, \"I will answer your questions, but before that, answer one of mine first."
+          "text": "Would you really destroy the entire universe for your wives?\""
         },
         {
           "id": 44,
           "paragraph_id": 29,
-          "text": "Would you really destroy the entire universe for your wives?\""
+          "text": "\"Yes.\" She wasn’t even done, but Kent replied, shocking not only her, but two other women listening in on this."
         },
         {
           "id": 45,
           "paragraph_id": 30,
-          "text": "\"Yes.\" She wasn’t even done, but Kent replied, shocking not only her, but two other women listening in on this."
+          "text": "\"Why?\" the lady asked."
         },
         {
           "id": 46,
           "paragraph_id": 31,
-          "text": "\"Why?\" the lady asked."
+          "text": "\"You said only one question.\""
         },
         {
           "id": 47,
           "paragraph_id": 32,
-          "text": "\"You said only one question.\""
+          "text": "\"Show a girl some love, would you?"
         },
         {
           "id": 48,
-          "paragraph_id": 33,
-          "text": "\"Show a girl some love, would you?"
+          "paragraph_id": 32,
+          "text": "And don’t worry, I will let you in on a secret about the memories before you leave, so it’s not like I will be cheating you here.\""
         },
         {
           "id": 49,
           "paragraph_id": 33,
-          "text": "And don’t worry, I will let you in on a secret about the memories before you leave, so it’s not like I will be cheating you here.\""
+          "text": "Kent took a deep breath, walked toward a table, sat down, and poured himself some tea."
         },
         {
           "id": 50,
-          "paragraph_id": 34,
-          "text": "Kent took a deep breath, walked toward a table, sat down, and poured himself some tea."
+          "paragraph_id": 33,
+          "text": "He also poured one for the lady."
         },
         {
           "id": 51,
           "paragraph_id": 34,
-          "text": "He also poured one for the lady."
+          "text": "\"Well then, why would you destroy the universe for your women?\" she asked after taking a sip."
         },
         {
           "id": 52,
           "paragraph_id": 35,
-          "text": "\"Well then, why would you destroy the universe for your women?\" she asked after taking a sip."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 36,
           "text": "\"I am not an idiot, you know."
         },
         {
-          "id": 54,
-          "paragraph_id": 36,
+          "id": 53,
+          "paragraph_id": 35,
           "text": "I am someone who, from when I was very young, knew life requires sacrifice."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 35,
+          "text": "Now, I can start seeing that I wasn’t kidding by saying that."
         },
         {
           "id": 55,
           "paragraph_id": 36,
-          "text": "Now, I can start seeing that I wasn’t kidding by saying that."
+          "text": "I have no idea who or what I am."
         },
         {
           "id": 56,
-          "paragraph_id": 37,
-          "text": "I have no idea who or what I am."
+          "paragraph_id": 36,
+          "text": "My true self is still locked behind a bundle of memories that have yet to be retrieved."
         },
         {
           "id": 57,
           "paragraph_id": 37,
-          "text": "My true self is still locked behind a bundle of memories that have yet to be retrieved."
-        },
-        {
-          "id": 58,
-          "paragraph_id": 38,
           "text": "However, I do know my life is to protect this universe."
         },
         {
-          "id": 59,
-          "paragraph_id": 38,
+          "id": 58,
+          "paragraph_id": 37,
           "text": "I know that is my destiny."
         },
         {
-          "id": 60,
-          "paragraph_id": 38,
+          "id": 59,
+          "paragraph_id": 37,
           "text": "However, I wouldn’t ask the universe to protect or look after me while I am at it."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 37,
+          "text": "If she asks, I will say, ’Look after my wives while I am away.’"
         },
         {
           "id": 61,
           "paragraph_id": 38,
-          "text": "If she asks, I will say, ’Look after my wives while I am away.’"
+          "text": "So when I return and something I went out to protect fails to protect what is dear to me, then what was my sacrifice for?"
         },
         {
           "id": 62,
-          "paragraph_id": 39,
-          "text": "So when I return and something I went out to protect fails to protect what is dear to me, then what was my sacrifice for?"
+          "paragraph_id": 38,
+          "text": "Did I perhaps choose not to sleep in the arms and spend time with my wives just so I can protect everyone else, all for nothing?"
         },
         {
           "id": 63,
           "paragraph_id": 39,
-          "text": "Did I perhaps choose not to sleep in the arms and spend time with my wives just so I can protect everyone else, all for nothing?"
+          "text": "If that is not the case, then I want to return to a happy family."
         },
         {
           "id": 64,
-          "paragraph_id": 40,
-          "text": "If that is not the case, then I want to return to a happy family."
+          "paragraph_id": 39,
+          "text": "But if I return and everything is as I came to meet it in the illusion, I wouldn’t hesitate to reduce this universe to rubble, knowing those I protected were not worthy of living.\""
         },
         {
           "id": 65,
           "paragraph_id": 40,
-          "text": "But if I return and everything is as I came to meet it in the illusion, I wouldn’t hesitate to reduce this universe to rubble, knowing those I protected were not worthy of living.\""
+          "text": "\"Many innocents will die, you know,\" the lady said, but Kent smiled and said,"
         },
         {
           "id": 66,
           "paragraph_id": 41,
-          "text": "\"Many innocents will die, you know,\" the lady said, but Kent smiled and said,"
+          "text": "\"A wise man once said, the innocent is just someone who hasn’t committed a crime yet.\""
         },
         {
           "id": 67,
           "paragraph_id": 42,
-          "text": "\"A wise man once said, the innocent is just someone who hasn’t committed a crime yet.\""
-        },
-        {
-          "id": 68,
-          "paragraph_id": 43,
           "text": "Three ladies shuddered, hearing that..."
         }
       ],
-      "word_count": 1031
+      "word_count": 1030
     },
     {
       "chapter_index": 582,

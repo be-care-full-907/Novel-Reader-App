@@ -51,7 +51,6 @@
         "The ring shone!",
         "Atlas’s light poured out along Noah’s hand and into the curtain, and the curtain knew it. The same hand had made both, keyed to the same maker, and the barrier parted before that key. The years drew back. A path opened into the coil of the serpent, dim and cold and older than the storms outside it!",
         "They went in!",
-        "—",
         "Inside the serpent, time waited.",
         "The walls of the coil were stone that was not quite stone, dark and smooth, threaded through with faint lines of light that pulsed slow, like something very large breathing in its sleep! The path curved away ahead of them, spiraling down toward a core they could not yet see, and the deeper they went the quieter it became, until the only sounds were their own passage and that slow pulse in the walls.",
         "Noah walked at the front, and he spoke as they walked, quiet, to the old man of light beside him.",
@@ -447,400 +446,395 @@
         {
           "id": 71,
           "paragraph_id": 41,
-          "text": "—"
+          "text": "Inside the serpent, time waited."
         },
         {
           "id": 72,
           "paragraph_id": 42,
-          "text": "Inside the serpent, time waited."
+          "text": "The walls of the coil were stone that was not quite stone, dark and smooth, threaded through with faint lines of light that pulsed slow, like something very large breathing in its sleep!"
         },
         {
           "id": 73,
-          "paragraph_id": 43,
-          "text": "The walls of the coil were stone that was not quite stone, dark and smooth, threaded through with faint lines of light that pulsed slow, like something very large breathing in its sleep!"
+          "paragraph_id": 42,
+          "text": "The path curved away ahead of them, spiraling down toward a core they could not yet see, and the deeper they went the quieter it became, until the only sounds were their own passage and that slow pulse in the walls."
         },
         {
           "id": 74,
           "paragraph_id": 43,
-          "text": "The path curved away ahead of them, spiraling down toward a core they could not yet see, and the deeper they went the quieter it became, until the only sounds were their own passage and that slow pulse in the walls."
+          "text": "Noah walked at the front, and he spoke as they walked, quiet, to the old man of light beside him."
         },
         {
           "id": 75,
           "paragraph_id": 44,
-          "text": "Noah walked at the front, and he spoke as they walked, quiet, to the old man of light beside him."
+          "text": "\"The Vheldrani were open to me when their Dreams ceased,\" he said."
         },
         {
           "id": 76,
-          "paragraph_id": 45,
-          "text": "\"The Vheldrani were open to me when their Dreams ceased,\" he said."
+          "paragraph_id": 44,
+          "text": "\"Their memories, at least what they were thinking of when they died.\""
         },
         {
           "id": 77,
           "paragraph_id": 45,
-          "text": "\"Their memories, at least what they were thinking of when they died.\""
+          "text": "\"And?\" Atlas said."
         },
         {
           "id": 78,
           "paragraph_id": 46,
-          "text": "\"And?\" Atlas said."
+          "text": "\"They did not come here on their own."
         },
         {
           "id": 79,
-          "paragraph_id": 47,
-          "text": "\"They did not come here on their own."
+          "paragraph_id": 46,
+          "text": "They were sent to this place, to strip it of your Relics at the behest of another.\""
         },
         {
           "id": 80,
           "paragraph_id": 47,
-          "text": "They were sent to this place, to strip it of your Relics at the behest of another.\""
+          "text": "Atlas was quiet for a moment."
         },
         {
           "id": 81,
-          "paragraph_id": 48,
-          "text": "Atlas was quiet for a moment."
+          "paragraph_id": 47,
+          "text": "\"Whose behest?\""
         },
         {
           "id": 82,
           "paragraph_id": 48,
-          "text": "\"Whose behest?\""
+          "text": "\"THE SLEEPLESS FIEND.\""
         },
         {
           "id": 83,
           "paragraph_id": 49,
-          "text": "\"THE SLEEPLESS FIEND.\""
+          "text": "The light in the walls pulsed once, twice, in the silence, and when the old man started forward again the warmth had gone out of his voice."
         },
         {
           "id": 84,
           "paragraph_id": 50,
-          "text": "The light in the walls pulsed once, twice, in the silence, and when the old man started forward again the warmth had gone out of his voice."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 51,
           "text": "\"Okay."
         },
         {
-          "id": 86,
-          "paragraph_id": 51,
+          "id": 85,
+          "paragraph_id": 50,
           "text": "Anything else?\"Atlas said."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 50,
+          "text": "\"Tell me the rest.\""
         },
         {
           "id": 87,
           "paragraph_id": 51,
-          "text": "\"Tell me the rest.\""
-        },
-        {
-          "id": 88,
-          "paragraph_id": 52,
           "text": "\"This is not their first hunt in your Elsedimensions."
         },
         {
-          "id": 89,
-          "paragraph_id": 52,
+          "id": 88,
+          "paragraph_id": 51,
           "text": "They have taken things from you across the ages in different Elsedimensions."
         },
         {
-          "id": 90,
-          "paragraph_id": 52,
+          "id": 89,
+          "paragraph_id": 51,
           "text": "Small things."
         },
         {
-          "id": 91,
-          "paragraph_id": 52,
+          "id": 90,
+          "paragraph_id": 51,
           "text": "Tools."
         },
         {
-          "id": 92,
-          "paragraph_id": 52,
+          "id": 91,
+          "paragraph_id": 51,
           "text": "Fragments."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 51,
+          "text": "The Fiend has been picking your bones a very long time, one Relic at a time, and paying Lineages of Provenance Lifeforms to do so.\""
         },
         {
           "id": 93,
           "paragraph_id": 52,
-          "text": "The Fiend has been picking your bones a very long time, one Relic at a time, and paying Lineages of Provenance Lifeforms to do so.\""
+          "text": "Atlas nodded for a moment."
         },
         {
           "id": 94,
           "paragraph_id": 53,
-          "text": "Atlas nodded for a moment."
-        },
-        {
-          "id": 95,
-          "paragraph_id": 54,
           "text": "\"The small things they can take."
         },
         {
-          "id": 96,
-          "paragraph_id": 54,
+          "id": 95,
+          "paragraph_id": 53,
           "text": "I expected that."
+        },
+        {
+          "id": 96,
+          "paragraph_id": 53,
+          "text": "Let him have every workbench and every failed prototype and every clever little toy I left lying around, and much good may they do him.\""
         },
         {
           "id": 97,
           "paragraph_id": 54,
-          "text": "Let him have every workbench and every failed prototype and every clever little toy I left lying around, and much good may they do him.\""
+          "text": "The light in the walls steadied and hardened."
         },
         {
           "id": 98,
           "paragraph_id": 55,
-          "text": "The light in the walls steadied and hardened."
-        },
-        {
-          "id": 99,
-          "paragraph_id": 56,
           "text": "\"But the truly critical things, Dreamer."
         },
         {
-          "id": 100,
-          "paragraph_id": 56,
+          "id": 99,
+          "paragraph_id": 55,
           "text": "The things I hid in the deep places, behind curtains of years, in the coils of serpents that eat their own tails."
         },
         {
-          "id": 101,
-          "paragraph_id": 56,
+          "id": 100,
+          "paragraph_id": 55,
           "text": "Those were never supposed to be grasped."
         },
         {
-          "id": 102,
-          "paragraph_id": 56,
+          "id": 101,
+          "paragraph_id": 55,
           "text": "Not by him."
         },
         {
-          "id": 103,
-          "paragraph_id": 56,
+          "id": 102,
+          "paragraph_id": 55,
           "text": "Not by anyone."
         },
         {
-          "id": 104,
-          "paragraph_id": 56,
+          "id": 103,
+          "paragraph_id": 55,
           "text": "One of them is here."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 55,
+          "text": "THE Quill of Chronos.\""
         },
         {
           "id": 105,
           "paragraph_id": 56,
-          "text": "THE Quill of Chronos.\""
+          "text": "Noah listened intently."
         },
         {
           "id": 106,
           "paragraph_id": 57,
-          "text": "Noah listened intently."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 58,
           "text": "\"I made a great many things in my life,\" Atlas said."
         },
         {
-          "id": 108,
-          "paragraph_id": 58,
+          "id": 107,
+          "paragraph_id": 57,
           "text": "\"Most of them were cleverness for its own sake."
         },
         {
-          "id": 109,
-          "paragraph_id": 58,
+          "id": 108,
+          "paragraph_id": 57,
           "text": "Cleverness is worth having for its own sake."
         },
         {
-          "id": 110,
-          "paragraph_id": 58,
+          "id": 109,
+          "paragraph_id": 57,
           "text": "But a few of them were more."
+        },
+        {
+          "id": 110,
+          "paragraph_id": 57,
+          "text": "A few of them were what I built once I understood, finally, what I was up against, and how badly I was losing.\""
         },
         {
           "id": 111,
           "paragraph_id": 58,
-          "text": "A few of them were what I built once I understood, finally, what I was up against, and how badly I was losing.\""
-        },
-        {
-          "id": 112,
-          "paragraph_id": 59,
           "text": "The light pulsed beside him."
         },
         {
-          "id": 113,
-          "paragraph_id": 59,
+          "id": 112,
+          "paragraph_id": 58,
           "text": "\"THE Quill of Chronos is one of those."
         },
         {
-          "id": 114,
-          "paragraph_id": 59,
+          "id": 113,
+          "paragraph_id": 58,
           "text": "With it, I wrote an inscription."
         },
         {
-          "id": 115,
-          "paragraph_id": 59,
+          "id": 114,
+          "paragraph_id": 58,
           "text": "A single inscription, into the weaving of an Elsedimension, and that inscription twisted time itself to my favor."
+        },
+        {
+          "id": 115,
+          "paragraph_id": 58,
+          "text": "Do you understand what a being could do who could write time?\""
         },
         {
           "id": 116,
           "paragraph_id": 59,
-          "text": "Do you understand what a being could do who could write time?\""
+          "text": "\"I am beginning to,\"Noah said."
         },
         {
           "id": 117,
-          "paragraph_id": 60,
-          "text": "\"I am beginning to,\"Noah said."
+          "paragraph_id": 59,
+          "text": "He thought of a serpent eating its own tail, and a place where hours blew past like seconds."
         },
         {
           "id": 118,
           "paragraph_id": 60,
-          "text": "He thought of a serpent eating its own tail, and a place where hours blew past like seconds."
+          "text": "\"You built this whole Dimension around the Quill, yes?\""
         },
         {
           "id": 119,
           "paragraph_id": 61,
-          "text": "\"You built this whole Dimension around the Quill, yes?\""
+          "text": "\"I built this whole Dimension to hide the Quill, and to hide the inscription I wrote with it, and to keep both out of the hands of beings who would use them to do to existence what I only ever did to a single Elsedimension.\""
         },
         {
           "id": 120,
           "paragraph_id": 62,
-          "text": "\"I built this whole Dimension to hide the Quill, and to hide the inscription I wrote with it, and to keep both out of the hands of beings who would use them to do to existence what I only ever did to a single Elsedimension.\""
-        },
-        {
-          "id": 121,
-          "paragraph_id": 63,
           "text": "Atlas’s voice dropped."
         },
         {
-          "id": 122,
-          "paragraph_id": 63,
+          "id": 121,
+          "paragraph_id": 62,
           "text": "\"And now a Lineage sent by THE SLEEPLESS FIEND has found the door to it."
         },
         {
-          "id": 123,
-          "paragraph_id": 63,
+          "id": 122,
+          "paragraph_id": 62,
           "text": "Because they were here, THE Sleepless Fiend should sense something."
         },
         {
-          "id": 124,
-          "paragraph_id": 63,
+          "id": 123,
+          "paragraph_id": 62,
           "text": "I built these Elsedimensions to keep his kind out, specifically his kind, and he has never once set foot in one, which means he cannot simply follow us in."
         },
         {
-          "id": 125,
-          "paragraph_id": 63,
+          "id": 124,
+          "paragraph_id": 62,
           "text": "But nothing is guaranteed."
         },
         {
-          "id": 126,
-          "paragraph_id": 63,
+          "id": 125,
+          "paragraph_id": 62,
           "text": "Nothing has ever been guaranteed in existence."
+        },
+        {
+          "id": 126,
+          "paragraph_id": 62,
+          "text": "You saw that with the Vasiliou Provenance Lineage\""
         },
         {
           "id": 127,
           "paragraph_id": 63,
-          "text": "You saw that with the Vasiliou Provenance Lineage\""
+          "text": "...!"
         },
         {
           "id": 128,
           "paragraph_id": 64,
-          "text": "...!"
+          "text": "\"Then we move quickly,\" Noah said."
         },
         {
           "id": 129,
           "paragraph_id": 65,
-          "text": "\"Then we move quickly,\" Noah said."
-        },
-        {
-          "id": 130,
-          "paragraph_id": 66,
           "text": "\"Yes."
         },
         {
-          "id": 131,
-          "paragraph_id": 66,
+          "id": 130,
+          "paragraph_id": 65,
           "text": "We get the Quill."
+        },
+        {
+          "id": 131,
+          "paragraph_id": 65,
+          "text": "We get out.\""
         },
         {
           "id": 132,
           "paragraph_id": 66,
-          "text": "We get out.\""
-        },
-        {
-          "id": 133,
-          "paragraph_id": 67,
           "text": "The old man of light almost smiled."
         },
         {
-          "id": 134,
-          "paragraph_id": 67,
+          "id": 133,
+          "paragraph_id": 66,
           "text": "\"And then, Dreamer, and only then, you can play at inducing Roots and dreaming impossibilities to your heart’s content."
         },
         {
-          "id": 135,
-          "paragraph_id": 67,
+          "id": 134,
+          "paragraph_id": 66,
           "text": "But first, my Quill."
+        },
+        {
+          "id": 135,
+          "paragraph_id": 66,
+          "text": "Before the winter and Immense Ones and everything else in existence remembers this place is here.\""
         },
         {
           "id": 136,
           "paragraph_id": 67,
-          "text": "Before the winter and Immense Ones and everything else in existence remembers this place is here.\""
+          "text": "Noah looked down the spiraling path, into the deep of the serpent, and the slow light pulsed in the walls, and somewhere far below, at the core they could not yet see, something old and precise waited for the first hand in an age that had a right to it."
         },
         {
           "id": 137,
           "paragraph_id": 68,
-          "text": "Noah looked down the spiraling path, into the deep of the serpent, and the slow light pulsed in the walls, and somewhere far below, at the core they could not yet see, something old and precise waited for the first hand in an age that had a right to it."
+          "text": "He did not intend to walk the whole of that path as he had a faster way now."
         },
         {
           "id": 138,
           "paragraph_id": 69,
-          "text": "He did not intend to walk the whole of that path as he had a faster way now."
-        },
-        {
-          "id": 139,
-          "paragraph_id": 70,
           "text": "\"I dream,\" Noah said, quiet, \"that we do not have to search for long."
         },
         {
-          "id": 140,
-          "paragraph_id": 70,
+          "id": 139,
+          "paragraph_id": 69,
           "text": "That the Relic is close."
+        },
+        {
+          "id": 140,
+          "paragraph_id": 69,
+          "text": "That we are coming up on it now.\""
         },
         {
           "id": 141,
           "paragraph_id": 70,
-          "text": "That we are coming up on it now.\""
+          "text": "WAA!"
         },
         {
           "id": 142,
           "paragraph_id": 71,
-          "text": "WAA!"
+          "text": "|25 Provenance Essence expended.|"
         },
         {
           "id": 143,
           "paragraph_id": 72,
-          "text": "|25 Provenance Essence expended.|"
+          "text": "|You have dreamed a shortening of the way as you bypass many traps of time."
         },
         {
           "id": 144,
-          "paragraph_id": 73,
-          "text": "|You have dreamed a shortening of the way as you bypass many traps of time."
+          "paragraph_id": 72,
+          "text": "Existence is adjusting to agree.|"
         },
         {
           "id": 145,
           "paragraph_id": 73,
-          "text": "Existence is adjusting to agree.|"
+          "text": "|The distance between you and THE Quill of Chronos has begun to collapse toward zero...|"
         },
         {
           "id": 146,
           "paragraph_id": 74,
-          "text": "|The distance between you and THE Quill of Chronos has begun to collapse toward zero...|"
+          "text": "The spiraling path blurred!"
         },
         {
           "id": 147,
-          "paragraph_id": 75,
-          "text": "The spiraling path blurred!"
+          "paragraph_id": 74,
+          "text": "The slow light in the walls streamed past, faster and faster, the coil unwinding around them, the core rushing up to meet them, and the four of them dissolved forward into the deep of the serpent of time!"
         },
         {
           "id": 148,
           "paragraph_id": 75,
-          "text": "The slow light in the walls streamed past, faster and faster, the coil unwinding around them, the core rushing up to meet them, and the four of them dissolved forward into the deep of the serpent of time!"
-        },
-        {
-          "id": 149,
-          "paragraph_id": 76,
           "text": "...!"
         }
       ],
-      "word_count": 1792
+      "word_count": 1791
     },
     {
       "chapter_index": 5781,
@@ -911,16 +905,15 @@
         "|THE QUILL OF CHRONOS|",
         "|A Relic of the engineer known as ATLAS. Function: The inscription of Time.|",
         "|With it, an inscription may be written into the weaving of a place that bends the flow of Time to the writer’s favor.|",
-        "|Grade: ??????|",
-        "|Origin: ??????|",
-        "|Remaining capacity: ??????|",
-        "|Further functions: ??????|",
+        "|Grade: ???|",
+        "|Origin: ???|",
+        "|Remaining capacity: ???|",
+        "|Further functions: ???|",
         "Half of what it was would not resolve! Question marks sat where the deeper truth of the thing hid behind a wall Noah could not yet read. It did not matter. Atlas would know, and Noah had not come to read the thing. He had come to take it.",
         "A bubble of the Provenance of THE Human Dreamer closed around the quill, and it stopped spinning, held in a dream of stilness, and the whole chamber went quiet in a new way, as though the last turning thing in it had finally been allowed to rest!",
         "He did not intend to linger in a place a dead man had warned him Immense Ones might sense.",
         "\"Let’s go.\"",
         "He imposed his Provenance around all four of them, and the core of the serpent of time was gone!",
-        "—",
         "The Glacial Elsedimension Mountain rose white and endless out of the deep of Lucy’s Legacy, and the snow never stopped falling on it.",
         "It was a mountain that was also a sealed reality, and it climbed higher than a mountain had any right to, its slopes pale and clean and softened under a blanket of snow.",
         "Near its shoulder, where the slope leveled into a wide white shelf, stood a monastery. It had been built out of golden Existential Conduits, the veins of existence coaxed into walls and a low roof and a single arched door, and the gold of it glowed warm and steady through the falling white, the one warm thing in a world of cold and quiet.",
@@ -1536,22 +1529,22 @@
         {
           "id": 118,
           "paragraph_id": 64,
-          "text": "|Grade: ??????|"
+          "text": "|Grade: ???|"
         },
         {
           "id": 119,
           "paragraph_id": 65,
-          "text": "|Origin: ??????|"
+          "text": "|Origin: ???|"
         },
         {
           "id": 120,
           "paragraph_id": 66,
-          "text": "|Remaining capacity: ??????|"
+          "text": "|Remaining capacity: ???|"
         },
         {
           "id": 121,
           "paragraph_id": 67,
-          "text": "|Further functions: ??????|"
+          "text": "|Further functions: ???|"
         },
         {
           "id": 122,
@@ -1601,175 +1594,170 @@
         {
           "id": 131,
           "paragraph_id": 73,
-          "text": "—"
+          "text": "The Glacial Elsedimension Mountain rose white and endless out of the deep of Lucy’s Legacy, and the snow never stopped falling on it."
         },
         {
           "id": 132,
           "paragraph_id": 74,
-          "text": "The Glacial Elsedimension Mountain rose white and endless out of the deep of Lucy’s Legacy, and the snow never stopped falling on it."
+          "text": "It was a mountain that was also a sealed reality, and it climbed higher than a mountain had any right to, its slopes pale and clean and softened under a blanket of snow."
         },
         {
           "id": 133,
           "paragraph_id": 75,
-          "text": "It was a mountain that was also a sealed reality, and it climbed higher than a mountain had any right to, its slopes pale and clean and softened under a blanket of snow."
+          "text": "Near its shoulder, where the slope leveled into a wide white shelf, stood a monastery."
         },
         {
           "id": 134,
-          "paragraph_id": 76,
-          "text": "Near its shoulder, where the slope leveled into a wide white shelf, stood a monastery."
+          "paragraph_id": 75,
+          "text": "It had been built out of golden Existential Conduits, the veins of existence coaxed into walls and a low roof and a single arched door, and the gold of it glowed warm and steady through the falling white, the one warm thing in a world of cold and quiet."
         },
         {
           "id": 135,
           "paragraph_id": 76,
-          "text": "It had been built out of golden Existential Conduits, the veins of existence coaxed into walls and a low roof and a single arched door, and the gold of it glowed warm and steady through the falling white, the one warm thing in a world of cold and quiet."
+          "text": "Snow gathered on its roof and did not melt."
         },
         {
           "id": 136,
           "paragraph_id": 77,
-          "text": "Snow gathered on its roof and did not melt."
+          "text": "Snow filled the air around it, drifting slow and soundless, each flake catching the gold of the walls as it fell, so that the monastery sat inside a slow golden storm of its own light!"
         },
         {
           "id": 137,
           "paragraph_id": 78,
-          "text": "Snow filled the air around it, drifting slow and soundless, each flake catching the gold of the walls as it fell, so that the monastery sat inside a slow golden storm of its own light!"
+          "text": "Nothing moved on that mountain but the snow."
         },
         {
           "id": 138,
           "paragraph_id": 79,
-          "text": "Nothing moved on that mountain but the snow."
+          "text": "Nothing sounded but the snow, which made no sound at all."
         },
         {
           "id": 139,
-          "paragraph_id": 80,
-          "text": "Nothing sounded but the snow, which made no sound at all."
+          "paragraph_id": 79,
+          "text": "It was the most peaceful place in all of existence!"
         },
         {
           "id": 140,
           "paragraph_id": 80,
-          "text": "It was the most peaceful place in all of existence!"
+          "text": "And Noah sat outside the monastery in the middle of it, on the white shelf, and let the snow fall on his crystalline shoulders and did not brush it off."
         },
         {
           "id": 141,
           "paragraph_id": 81,
-          "text": "And Noah sat outside the monastery in the middle of it, on the white shelf, and let the snow fall on his crystalline shoulders and did not brush it off."
+          "text": "A golden bubble of light bloomed in the air before him soon after."
         },
         {
           "id": 142,
           "paragraph_id": 82,
-          "text": "A golden bubble of light bloomed in the air before him soon after."
-        },
-        {
-          "id": 143,
-          "paragraph_id": 83,
           "text": "It held a spinning quill, held still."
         },
         {
-          "id": 144,
-          "paragraph_id": 83,
+          "id": 143,
+          "paragraph_id": 82,
           "text": "And a breath after it appeared, two more shapes came into being on the snow beside it."
         },
         {
-          "id": 145,
-          "paragraph_id": 83,
+          "id": 144,
+          "paragraph_id": 82,
           "text": "A green-haired woman and the king who shone with the luster of a hundred assimilated rivers of time."
+        },
+        {
+          "id": 145,
+          "paragraph_id": 82,
+          "text": "Noah nodded to them."
         },
         {
           "id": 146,
           "paragraph_id": 83,
-          "text": "Noah nodded to them."
-        },
-        {
-          "id": 147,
-          "paragraph_id": 84,
           "text": "\"Welcome to the Legacy of THE Acharya of Immensity,\" Noah said."
         },
         {
-          "id": 148,
-          "paragraph_id": 84,
+          "id": 147,
+          "paragraph_id": 83,
           "text": "\"It is...somewhat safe here."
+        },
+        {
+          "id": 148,
+          "paragraph_id": 83,
+          "text": "As safe as anywhere is, now.\""
         },
         {
           "id": 149,
           "paragraph_id": 84,
-          "text": "As safe as anywhere is, now.\""
+          "text": "Rose looked at the falling snow, at the golden monastery, at the endless white slope, and for the first time since the orchard, her shoulders came down from around her ears!"
         },
         {
           "id": 150,
           "paragraph_id": 85,
-          "text": "Rose looked at the falling snow, at the golden monastery, at the endless white slope, and for the first time since the orchard, her shoulders came down from around her ears!"
+          "text": "Achilles did not look at any of it."
         },
         {
           "id": 151,
-          "paragraph_id": 86,
-          "text": "Achilles did not look at any of it."
+          "paragraph_id": 85,
+          "text": "He was looking at his own hands, which still pulsed with that slow stellar purple, his whole existence buzzing with Dimensionality it had not finished settling, a transformation still turning over inside him."
         },
         {
           "id": 152,
           "paragraph_id": 86,
-          "text": "He was looking at his own hands, which still pulsed with that slow stellar purple, his whole existence buzzing with Dimensionality it had not finished settling, a transformation still turning over inside him."
+          "text": "Noah watched him for a moment."
         },
         {
           "id": 153,
           "paragraph_id": 87,
-          "text": "Noah watched him for a moment."
+          "text": "\"Your existence is transforming,\" Noah said.\"It will keep transforming for a while yet as that makes now as good a time as any.\""
         },
         {
           "id": 154,
           "paragraph_id": 88,
-          "text": "\"Your existence is transforming,\" Noah said.\"It will keep transforming for a while yet as that makes now as good a time as any.\""
+          "text": "He rose from the snow."
         },
         {
           "id": 155,
-          "paragraph_id": 89,
-          "text": "He rose from the snow."
+          "paragraph_id": 88,
+          "text": "\"Why don’t we see whether the impossible is possible?\""
         },
         {
           "id": 156,
           "paragraph_id": 89,
-          "text": "\"Why don’t we see whether the impossible is possible?\""
+          "text": "He had done it once already."
         },
         {
           "id": 157,
-          "paragraph_id": 90,
-          "text": "He had done it once already."
+          "paragraph_id": 89,
+          "text": "Inducing a unique Chorionic Gonadotropin in a being already turning with fresh Dimensionality of Time could not be so much harder than that, right?"
         },
         {
           "id": 158,
           "paragraph_id": 90,
-          "text": "Inducing a unique Chorionic Gonadotropin in a being already turning with fresh Dimensionality of Time could not be so much harder than that, right?"
-        },
-        {
-          "id": 159,
-          "paragraph_id": 91,
           "text": "And there was more in it than kindness."
         },
         {
-          "id": 160,
-          "paragraph_id": 91,
+          "id": 159,
+          "paragraph_id": 90,
           "text": "A Dream of Assimilation, spun out across existence through a being who became everything he touched, was a Dream Noah would be steering."
+        },
+        {
+          "id": 160,
+          "paragraph_id": 90,
+          "text": "The further it spun, the more Provenance it would return to the hand that dreamed it!"
         },
         {
           "id": 161,
           "paragraph_id": 91,
-          "text": "The further it spun, the more Provenance it would return to the hand that dreamed it!"
+          "text": "He looked at the shining king in the falling snow as his eyes burned with grand ambitions!"
         },
         {
           "id": 162,
           "paragraph_id": 92,
-          "text": "He looked at the shining king in the falling snow as his eyes burned with grand ambitions!"
-        },
-        {
-          "id": 163,
-          "paragraph_id": 93,
           "text": "\"Sit,\" Noah said."
         },
         {
-          "id": 164,
-          "paragraph_id": 93,
+          "id": 163,
+          "paragraph_id": 92,
           "text": "\"And dream with me.\""
         }
       ],
-      "word_count": 2414
+      "word_count": 2413
     },
     {
       "chapter_index": 5782,

@@ -6307,7 +6307,6 @@
         "Since his soul has reached the 10th Tier, he can easily activate the compass.",
         "He took a deep sigh before walking through the created portal.",
         "The next second, he found himself in the Domain of Hatred and Resentment.",
-        "****",
         "(A/N: End of Volume II. It was a huge ride, but we managed to get where we wanted. Now, we can only see where Volume III takes us.",
         "Volume III: Past, Present, Future.)"
       ],
@@ -6755,30 +6754,25 @@
         {
           "id": 88,
           "paragraph_id": 56,
-          "text": "****"
-        },
-        {
-          "id": 89,
-          "paragraph_id": 57,
           "text": "(A/N: End of Volume II."
         },
         {
-          "id": 90,
-          "paragraph_id": 57,
+          "id": 89,
+          "paragraph_id": 56,
           "text": "It was a huge ride, but we managed to get where we wanted."
+        },
+        {
+          "id": 90,
+          "paragraph_id": 56,
+          "text": "Now, we can only see where Volume III takes us."
         },
         {
           "id": 91,
           "paragraph_id": 57,
-          "text": "Now, we can only see where Volume III takes us."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 58,
           "text": "Volume III: Past, Present, Future.)"
         }
       ],
-      "word_count": 1216
+      "word_count": 1215
     },
     {
       "chapter_index": 465,

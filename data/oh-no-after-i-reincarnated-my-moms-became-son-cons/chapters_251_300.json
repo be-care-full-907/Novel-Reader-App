@@ -4171,7 +4171,7 @@
         "*Chuunibyou is a derogatory colloquial term in the Japanese language used to describe a person which manifests delusional behaviour, thinking that one has special powers that no other person has.",
         "**I dont know if Dragoon sounds Chuuni in English speaking culture, but in Chinese culture, the Chinese term for it does sound try-hard and Chuuni",
         "***Before someone calls it out, dragons per Chinese, Vietnamese, Japanese and Korean culture are mythical flying creatures, thats why lots of their idioms that refer to flight reference dragons. But somebody isnt going to read and say something about dragons not strictly having to fly while completely ignoring this cultural difference",
-        "**** Guan Ning Cavalry was a cavalry unit formed in later years of the Ming Dynasty. It was ruled by famous military general Yuan Chonghuan (1584-1630). It was considered a formidable unit even though it was small relatively speaking."
+        "Guan Ning Cavalry was a cavalry unit formed in later years of the Ming Dynasty. It was ruled by famous military general Yuan Chonghuan (1584-1630). It was considered a formidable unit even though it was small relatively speaking."
       ],
       "sentences": [
         {
@@ -4722,7 +4722,7 @@
         {
           "id": 109,
           "paragraph_id": 42,
-          "text": "**** Guan Ning Cavalry was a cavalry unit formed in later years of the Ming Dynasty."
+          "text": "Guan Ning Cavalry was a cavalry unit formed in later years of the Ming Dynasty."
         },
         {
           "id": 110,
@@ -4735,7 +4735,7 @@
           "text": "It was considered a formidable unit even though it was small relatively speaking."
         }
       ],
-      "word_count": 1527
+      "word_count": 1526
     },
     {
       "chapter_index": 258,
@@ -16400,7 +16400,7 @@
         "The difficulty of replicating something versus inventing something is completely different. I just recreated a gun that I know of, and while I had blueprints she was inventing on her own.",
         "I admire her production skills more than my own.",
         "The factory isnt in complete operation yet. We are still learning how to operate some machines. Once we learn how to use them we will begin full-scale production, which should be around spring. Lorana looked at the factory behind her with a sense of pride and continued, This is the first time Ive seen this sort of production method. Everyone is responsible for an individual part, which is then assembled together. This is truly a simple and pragmatic method. Plus, there are so many people here working on producing them. If they could be replaced with machines, I presume the production rate would be even higher.",
-        "Thats the point of a factory. If we had machines, the factory could continue to produce the needed goods without end. I nodded. I then looked at the rifle in her hand and said, We need to hurry and produce guns and ammunition. I dont ask that everyone in the militia has a gun.,Though, but I at least want to ensure that all of my personal guards have a rifle each, as well as the weapons and bullets they use for practice.",
+        "Thats the point of a factory. If we had machines, the factory could continue to produce the needed goods without end. I nodded. I then looked at the rifle in her hand and said, We need to hurry and produce guns and ammunition. I dont ask that everyone in the militia has a gun., Though, but I at least want to ensure that all of my personal guards have a rifle each, as well as the weapons and bullets they use for practice.",
         "That wont be a problem. Lorana nodded.",
         "She then stretched out her back and said, This is truly an interesting place. If I could have more machines, how powerful would this place be? This must be humanitys strongest place.",
         "I looked up at the tall and sturdy building. In a serious tone, I said, This place will definitely become so. It definitely will.",
@@ -16417,7 +16417,7 @@
         "From behind, Luna softly uttered, Do not force yourself. Do not force yourself, Your Majesty if you are tired just say it.",
         "I know. I know. I touched Lunas hands on the front of my waist.",
         "Luna giggled and then said, Your Majesty, Her Majesty came before and invited you to go to the hot-springs tomorrow",
-        "Wha-? Wha-?What?! What hot-spring?!",
+        "Wha-? Wha-? What?! What hot-spring?!",
         "What sort of development is this?! Do we have hot-spring play here too?! So I get to experience this one-hundred-percent fan-service-guaranteed plot?! And I get to bathe together with my moms in a justified way!",
         "Im blessed! Im excited!!"
       ],
@@ -16835,7 +16835,7 @@
         {
           "id": 82,
           "paragraph_id": 35,
-          "text": "I dont ask that everyone in the militia has a gun.,Though, but I at least want to ensure that all of my personal guards have a rifle each, as well as the weapons and bullets they use for practice."
+          "text": "I dont ask that everyone in the militia has a gun., Though, but I at least want to ensure that all of my personal guards have a rifle each, as well as the weapons and bullets they use for practice."
         },
         {
           "id": 83,
@@ -17000,45 +17000,50 @@
         {
           "id": 115,
           "paragraph_id": 52,
-          "text": "Wha-?What?!"
+          "text": "Wha-?"
         },
         {
           "id": 116,
           "paragraph_id": 52,
-          "text": "What hot-spring?!"
+          "text": "What?!"
         },
         {
           "id": 117,
-          "paragraph_id": 53,
-          "text": "What sort of development is this?!"
+          "paragraph_id": 52,
+          "text": "What hot-spring?!"
         },
         {
           "id": 118,
           "paragraph_id": 53,
-          "text": "Do we have hot-spring play here too?!"
+          "text": "What sort of development is this?!"
         },
         {
           "id": 119,
           "paragraph_id": 53,
-          "text": "So I get to experience this one-hundred-percent fan-service-guaranteed plot?!"
+          "text": "Do we have hot-spring play here too?!"
         },
         {
           "id": 120,
           "paragraph_id": 53,
-          "text": "And I get to bathe together with my moms in a justified way!"
+          "text": "So I get to experience this one-hundred-percent fan-service-guaranteed plot?!"
         },
         {
           "id": 121,
-          "paragraph_id": 54,
-          "text": "Im blessed!"
+          "paragraph_id": 53,
+          "text": "And I get to bathe together with my moms in a justified way!"
         },
         {
           "id": 122,
           "paragraph_id": 54,
+          "text": "Im blessed!"
+        },
+        {
+          "id": 123,
+          "paragraph_id": 54,
           "text": "Im excited!!"
         }
       ],
-      "word_count": 1455
+      "word_count": 1457
     },
     {
       "chapter_index": 276,
@@ -17101,7 +17106,6 @@
         "Nier and Lucia hugged me left-and-right and kicked each others legs every now and then.",
         "Freya and Luna leaned on each others shoulders and hummed in a relaxed fashion.",
         "Why does this scene feel oddly harmonious?",
-        "***********************************",
         "Dear person lying about me not supporting the author,",
         "The author has been offered support by me on more than one occasion. Ive provided proof of another scenario I tried to offer him support in the comments below. The only reason I never mention this is because I dont seek acknowledgement for it from anybody, but I cant have you lying. This is not an attack on you as a person, but check your facts first next time. Hugs and kisses."
       ],
@@ -17744,40 +17748,35 @@
         {
           "id": 127,
           "paragraph_id": 56,
-          "text": "***********************************"
+          "text": "Dear person lying about me not supporting the author,"
         },
         {
           "id": 128,
           "paragraph_id": 57,
-          "text": "Dear person lying about me not supporting the author,"
-        },
-        {
-          "id": 129,
-          "paragraph_id": 58,
           "text": "The author has been offered support by me on more than one occasion."
         },
         {
-          "id": 130,
-          "paragraph_id": 58,
+          "id": 129,
+          "paragraph_id": 57,
           "text": "Ive provided proof of another scenario I tried to offer him support in the comments below."
         },
         {
-          "id": 131,
-          "paragraph_id": 58,
+          "id": 130,
+          "paragraph_id": 57,
           "text": "The only reason I never mention this is because I dont seek acknowledgement for it from anybody, but I cant have you lying."
         },
         {
-          "id": 132,
-          "paragraph_id": 58,
+          "id": 131,
+          "paragraph_id": 57,
           "text": "This is not an attack on you as a person, but check your facts first next time."
         },
         {
-          "id": 133,
-          "paragraph_id": 58,
+          "id": 132,
+          "paragraph_id": 57,
           "text": "Hugs and kisses."
         }
       ],
-      "word_count": 1405
+      "word_count": 1404
     },
     {
       "chapter_index": 277,
@@ -18484,7 +18483,7 @@
         "I noticed trails of sweat run down his forehead as he looked at me. Even though he looked pretty and gentle, his gaze was filled with determination right now.",
         "He looked at me and continued from the bottom of his heart, We made up our minds long ago You respect us, Your Majesty you helped us Your Majesty, you asked your own wife to instruct us so we so we have resolved to give our all for you About our training it is okay We we are training for your safety it is okay",
         "I took in a deep breath and looked at his face in silence for a long time.",
-        "He closed his eyes as the anaesthetics he had taken before started to take effect. The agonised expression from the intense pain and terror ,slowly calmed down.",
+        "He closed his eyes as the anaesthetics he had taken before started to take effect. The agonised expression from the intense pain and terror , slowly calmed down.",
         "I sat by his side and waited for him to slowly fall asleep. I just looked at his face for a long time in silence.",
         "From behind, Nier tugged on my cape and called out to me in a soft voice, Your Majesty",
         "Nier I turned around and looked at her.",
@@ -18950,7 +18949,7 @@
         {
           "id": 91,
           "paragraph_id": 42,
-          "text": "The agonised expression from the intense pain and terror ,slowly calmed down."
+          "text": "The agonised expression from the intense pain and terror , slowly calmed down."
         },
         {
           "id": 92,
@@ -19008,7 +19007,7 @@
           "text": "She then made a small bow and said, Your Majesty, you already are."
         }
       ],
-      "word_count": 1258
+      "word_count": 1259
     },
     {
       "chapter_index": 279,
@@ -19693,7 +19692,7 @@
         "Vyvyan stroked my head and I calmed down.",
         "Mom stuck the goose-feather inside my ear and picked it as she elaborated, Of course, if you want to do that then you cant rely on just humans alone to purify this dye. Elves must be the ones to purify it to be able to bring out the mana. As such, if you want to do that, you must sell your raw materials over to us.",
         "Ah",
-        "Thats not such a good idea, is it?Ive never learnt high-level economics, but I am aware of this.By that, I mean that we cant make enough money to cover the cost if we rely on selling raw materials. We can only make money by processing materials and producing them. Only third-world countries, countries that are just getting off the ground and lack finances would sell raw materials.",
+        "Thats not such a good idea, is it? Ive never learnt high-level economics, but I am aware of this.By that, I mean that we cant make enough money to cover the cost if we rely on selling raw materials. We can only make money by processing materials and producing them. Only third-world countries, countries that are just getting off the ground and lack finances would sell raw materials.",
         "Id probably only be earning spare change selling these dyes. I would still have to ask Vyvyan to help us out as my mother. If planting in this field earned people money that they could purchase food with, and yet not reach a surplus, then this city wont ever be able to develop.",
         "Mom the farmers wont make money if we did that Cant you ask elves to come here? If elves were here too, we could successfully plant the crop and process it here before selling it off.",
         "Im afraid thats not possible, Son.",
@@ -20040,315 +20039,320 @@
         {
           "id": 64,
           "paragraph_id": 25,
-          "text": "Thats not such a good idea, is it?Ive never learnt high-level economics, but I am aware of this.By that, I mean that we cant make enough money to cover the cost if we rely on selling raw materials."
+          "text": "Thats not such a good idea, is it?"
         },
         {
           "id": 65,
           "paragraph_id": 25,
-          "text": "We can only make money by processing materials and producing them."
+          "text": "Ive never learnt high-level economics, but I am aware of this.By that, I mean that we cant make enough money to cover the cost if we rely on selling raw materials."
         },
         {
           "id": 66,
           "paragraph_id": 25,
-          "text": "Only third-world countries, countries that are just getting off the ground and lack finances would sell raw materials."
+          "text": "We can only make money by processing materials and producing them."
         },
         {
           "id": 67,
-          "paragraph_id": 26,
-          "text": "Id probably only be earning spare change selling these dyes."
+          "paragraph_id": 25,
+          "text": "Only third-world countries, countries that are just getting off the ground and lack finances would sell raw materials."
         },
         {
           "id": 68,
           "paragraph_id": 26,
-          "text": "I would still have to ask Vyvyan to help us out as my mother."
+          "text": "Id probably only be earning spare change selling these dyes."
         },
         {
           "id": 69,
           "paragraph_id": 26,
-          "text": "If planting in this field earned people money that they could purchase food with, and yet not reach a surplus, then this city wont ever be able to develop."
+          "text": "I would still have to ask Vyvyan to help us out as my mother."
         },
         {
           "id": 70,
-          "paragraph_id": 27,
-          "text": "Mom the farmers wont make money if we did that Cant you ask elves to come here?"
+          "paragraph_id": 26,
+          "text": "If planting in this field earned people money that they could purchase food with, and yet not reach a surplus, then this city wont ever be able to develop."
         },
         {
           "id": 71,
           "paragraph_id": 27,
-          "text": "If elves were here too, we could successfully plant the crop and process it here before selling it off."
+          "text": "Mom the farmers wont make money if we did that Cant you ask elves to come here?"
         },
         {
           "id": 72,
+          "paragraph_id": 27,
+          "text": "If elves were here too, we could successfully plant the crop and process it here before selling it off."
+        },
+        {
+          "id": 73,
           "paragraph_id": 28,
           "text": "Im afraid thats not possible, Son."
         },
         {
-          "id": 73,
+          "id": 74,
           "paragraph_id": 29,
           "text": "Mom shook her head with a helpless smile and explained, Elves are not a race that likes to migrate, Son."
         },
         {
-          "id": 74,
+          "id": 75,
           "paragraph_id": 29,
           "text": "You should have noticed it by now, too."
         },
         {
-          "id": 75,
+          "id": 76,
           "paragraph_id": 29,
           "text": "Elves only like to stay within their own forest, not to mention their opposition towards interacting with other races, due to the importance they place on bloodlines."
         },
         {
-          "id": 76,
+          "id": 77,
           "paragraph_id": 29,
           "text": "Only by doing so can they ensure the purity of bloodlines."
         },
         {
-          "id": 77,
+          "id": 78,
           "paragraph_id": 29,
           "text": "Mommy cannot use Mommys own power to force the elves and humans to cohabitate, because Mommy knows that it is something elves definitely cannot accept."
         },
         {
-          "id": 78,
+          "id": 79,
           "paragraph_id": 30,
           "text": "Is there really no way?"
         },
         {
-          "id": 79,
+          "id": 80,
           "paragraph_id": 30,
           "text": "I mean, Her Majesty and my father gave birth to me, didnt they?"
         },
         {
-          "id": 80,
+          "id": 81,
           "paragraph_id": 31,
           "text": "I gave birth to you!"
         },
         {
-          "id": 81,
+          "id": 82,
           "paragraph_id": 31,
           "text": "Vyvyan harshly cut me off, and I zipped my mouth."
         },
         {
-          "id": 82,
+          "id": 83,
           "paragraph_id": 32,
           "text": "Vyvyan wasnt willing to accept this reality, no matter what."
         },
         {
-          "id": 83,
+          "id": 84,
           "paragraph_id": 32,
           "text": "Vyvyan calmed herself down and then continued, There are very few elves who like humans."
         },
         {
-          "id": 84,
+          "id": 85,
           "paragraph_id": 32,
           "text": "It was only Onii-sama who was strongly curious."
         },
         {
-          "id": 85,
+          "id": 86,
           "paragraph_id": 32,
           "text": "If Onii-sama were still alive, then perhaps, humans and elves would be a little closer."
         },
         {
-          "id": 86,
+          "id": 87,
           "paragraph_id": 33,
           "text": "However, as it stands at present, the corpses of the soldiers from the war ten years ago have yet to turn cold, and their vengeance is still left unfulfilled."
         },
         {
-          "id": 87,
+          "id": 88,
           "paragraph_id": 33,
           "text": "The elves who can do business with humans are already showing the utmost level of tolerance."
         },
         {
-          "id": 88,
+          "id": 89,
           "paragraph_id": 34,
           "text": "Asking elves to come here is definitely impossible."
         },
         {
-          "id": 89,
+          "id": 90,
           "paragraph_id": 34,
           "text": "Furthermore, elves killed their fair share of humans, too."
         },
         {
-          "id": 90,
+          "id": 91,
           "paragraph_id": 34,
           "text": "Do you think humans could treat elves kindly?"
         },
         {
-          "id": 91,
+          "id": 92,
           "paragraph_id": 34,
           "text": "Son, humans have never treated us equally."
         },
         {
-          "id": 92,
+          "id": 93,
           "paragraph_id": 35,
           "text": "Look, theyre trafficking us elves."
         },
         {
-          "id": 93,
+          "id": 94,
           "paragraph_id": 35,
           "text": "They kidnapped us elves."
         },
         {
-          "id": 94,
+          "id": 95,
           "paragraph_id": 35,
           "text": "We are just goods to them."
         },
         {
-          "id": 95,
+          "id": 96,
           "paragraph_id": 35,
           "text": "That is why elves wont forgive humans."
         },
         {
-          "id": 96,
+          "id": 97,
           "paragraph_id": 35,
           "text": "Elves and humans are only maintaining the most basic form of peace because of your existence."
         },
         {
-          "id": 97,
+          "id": 98,
           "paragraph_id": 36,
           "text": "Vyvyan sighed and then stroked my head in a tender way."
         },
         {
-          "id": 98,
+          "id": 99,
           "paragraph_id": 36,
           "text": "She continued in a soft voice, Son, if humans cant treat elves with dignity, elves will never get along with humans."
         },
         {
-          "id": 99,
+          "id": 100,
           "paragraph_id": 36,
           "text": "Son, you are also an elf."
         },
         {
-          "id": 100,
+          "id": 101,
           "paragraph_id": 36,
           "text": "You must remember this."
         },
         {
-          "id": 101,
+          "id": 102,
           "paragraph_id": 36,
           "text": "Do not test the ugliness and darkness of humans with the dignity of elves."
         },
         {
-          "id": 102,
+          "id": 103,
           "paragraph_id": 36,
           "text": "If possible, do not let elves and humans be together."
         },
         {
-          "id": 103,
+          "id": 104,
           "paragraph_id": 36,
           "text": "If the two races meet, violence could occur."
         },
         {
-          "id": 104,
+          "id": 105,
           "paragraph_id": 37,
           "text": "I silently looked at the embroidery on Moms clothes."
         },
         {
-          "id": 105,
+          "id": 106,
           "paragraph_id": 38,
           "text": "Mom didnt say any more."
         },
         {
-          "id": 106,
+          "id": 107,
           "paragraph_id": 38,
           "text": "She just gently stroked my head while humming a soothing melody."
         },
         {
-          "id": 107,
+          "id": 108,
           "paragraph_id": 38,
           "text": "She waited for me to fall asleep on her thigh like I was a child."
         },
         {
-          "id": 108,
+          "id": 109,
           "paragraph_id": 39,
           "text": "My feelings were all tangled up."
         },
         {
-          "id": 109,
+          "id": 110,
           "paragraph_id": 39,
           "text": "The biggest communication obstacle between the two races is the resentment elves hold for humans, and the contempt humans have for elves."
         },
         {
-          "id": 110,
+          "id": 111,
           "paragraph_id": 39,
           "text": "The bloody war from ten years ago further triggers their violent sentiments for each other."
         },
         {
-          "id": 111,
+          "id": 112,
           "paragraph_id": 40,
           "text": "Honestly, as opposed to saying that the two races have a long history of hatred, it might be more accurate to say that Im the biggest obstacle between them, preventing them from communicating with one another."
         },
         {
-          "id": 112,
+          "id": 113,
           "paragraph_id": 41,
           "text": "I almost managed to make the two races go all out in a life-and-death fight a decade ago, but I was now very sad."
         },
         {
-          "id": 113,
+          "id": 114,
           "paragraph_id": 41,
           "text": "Im an elf and a human."
         },
         {
-          "id": 114,
+          "id": 115,
           "paragraph_id": 41,
           "text": "The resentment between the two races was more like a knot in my heart."
         },
         {
-          "id": 115,
+          "id": 116,
           "paragraph_id": 41,
           "text": "I had no means of helping either side or attacking either side."
         },
         {
-          "id": 116,
+          "id": 117,
           "paragraph_id": 41,
           "text": "The one in agony from the fighting of the two races was I alone."
         },
         {
-          "id": 117,
+          "id": 118,
           "paragraph_id": 42,
           "text": "A moment later, I grabbed Moms hand and said, Mom I want I want for elves and humans to get along harmoniously."
         },
         {
-          "id": 118,
+          "id": 119,
           "paragraph_id": 43,
           "text": "Moms hand froze up."
         },
         {
-          "id": 119,
+          "id": 120,
           "paragraph_id": 43,
           "text": "She revealed a bitter smile and said in a soft voice, Son what you just said what you said, just now, was the exact same thing as your father, my brother"
         },
         {
-          "id": 120,
+          "id": 121,
           "paragraph_id": 44,
           "text": "Glossary"
         },
         {
-          "id": 121,
+          "id": 122,
           "paragraph_id": 45,
           "text": "*His reference to the East about tea is basically Southeast Asia, or China in his case where tea is a big thing."
         },
         {
-          "id": 122,
+          "id": 123,
           "paragraph_id": 45,
           "text": "Hence, tea ceremonies."
         },
         {
-          "id": 123,
+          "id": 124,
           "paragraph_id": 46,
           "text": "**That was my best attempt at separating silk, from silk."
         },
         {
-          "id": 124,
+          "id": 125,
           "paragraph_id": 46,
           "text": "In Chinese, you have multiple ways for referring to them, but in English, not so."
         },
         {
-          "id": 125,
+          "id": 126,
           "paragraph_id": 46,
           "text": "I know there are some subtle differences, but we will just have to make do unless you have a better suggestion"
         }
       ],
-      "word_count": 1649
+      "word_count": 1650
     },
     {
       "chapter_index": 281,
@@ -21798,7 +21802,7 @@
         "This definitely isnt my fault! Ive already done my best. Its not my fault Nier isnt pregnant! Im definitely innocent this time. If Lucia can get pregnant, but not Nier, then its not my fault, but Niers!",
         "Alright then. But you mustnt let Nier be without a child. Vyvyan will get the upper hand if you only have an elf descendant! Whatever the case, Mommy hereby orders you: You must get Nier pregnant in the shortest amount of time possible! Ive prepared drugs for Nier already. Get started tonight",
         "Please dont treat me like Im an animal! I want my human rights! I want my human rights! I want that I-dont-know-the-name-of socialist to come and give me my human rights! Dont hand me over to Nier! Dont hand me over to the current Nier! Youll lose your dear son! Im serious! You really will!!",
-        "Editors comment:Thanks to everyone who enjoyed the series. Thats all, folks. R.I.P Troy Galadriel Rosvenor"
+        "Editors comment: Thanks to everyone who enjoyed the series. Thats all, folks. R.I.P Troy Galadriel Rosvenor"
       ],
       "sentences": [
         {
@@ -22489,7 +22493,7 @@
         {
           "id": 137,
           "paragraph_id": 49,
-          "text": "Editors comment:Thanks to everyone who enjoyed the series."
+          "text": "Editors comment: Thanks to everyone who enjoyed the series."
         },
         {
           "id": 138,
@@ -22502,7 +22506,7 @@
           "text": "R.I.P Troy Galadriel Rosvenor"
         }
       ],
-      "word_count": 1463
+      "word_count": 1464
     },
     {
       "chapter_index": 284,
@@ -28866,7 +28870,7 @@
         "Vyvyan stroked my head. Her smile, under the light of the early morning sun, was brimming with a golden light. It was warmer and more captivating than the sun outside",
         "I silently ate a simple breakfast, like I do when Im in the elven lands",
         "No Something feels wrong",
-        "I know what it is, now! Its because its too harmonious! Its too harmonious! Isnt it too harmonious?! Next to me is a sleeping Elizabeth, Nier, Lucia, Luna and Freya! Nier and Elizabeth are easily awoken, too. Why are they still sleeping calmly and not waking up?!My heart sunk.",
+        "I know what it is, now! Its because its too harmonious! Its too harmonious! Isnt it too harmonious?! Next to me is a sleeping Elizabeth, Nier, Lucia, Luna and Freya! Nier and Elizabeth are easily awoken, too. Why are they still sleeping calmly and not waking up?! My heart sunk.",
         "When I saw Vyvyans blissful and warm smile, my entire body virtually felt like it was dunked into water.",
         "Maybe last night Maybe last night maybe last night maybe that did end up happening last night?! Did it happen or not?! What has Vyvyan done to them?!",
         "Mom why are they not waking up? I asked her the question.",
@@ -29354,105 +29358,110 @@
         {
           "id": 95,
           "paragraph_id": 33,
-          "text": "Why are they still sleeping calmly and not waking up?!My heart sunk."
+          "text": "Why are they still sleeping calmly and not waking up?!"
         },
         {
           "id": 96,
+          "paragraph_id": 33,
+          "text": "My heart sunk."
+        },
+        {
+          "id": 97,
           "paragraph_id": 34,
           "text": "When I saw Vyvyans blissful and warm smile, my entire body virtually felt like it was dunked into water."
         },
         {
-          "id": 97,
+          "id": 98,
           "paragraph_id": 35,
           "text": "Maybe last night Maybe last night maybe last night maybe that did end up happening last night?!"
         },
         {
-          "id": 98,
+          "id": 99,
           "paragraph_id": 35,
           "text": "Did it happen or not?!"
         },
         {
-          "id": 99,
+          "id": 100,
           "paragraph_id": 35,
           "text": "What has Vyvyan done to them?!"
         },
         {
-          "id": 100,
+          "id": 101,
           "paragraph_id": 36,
           "text": "Mom why are they not waking up?"
         },
         {
-          "id": 101,
+          "id": 102,
           "paragraph_id": 36,
           "text": "I asked her the question."
         },
         {
-          "id": 102,
+          "id": 103,
           "paragraph_id": 37,
           "text": "Vyvyan dawdled for a moment, then revealed a smile."
         },
         {
-          "id": 103,
+          "id": 104,
           "paragraph_id": 37,
           "text": "She made a shh hand gesture and answered, Maybe theyre too tired."
         },
         {
-          "id": 104,
+          "id": 105,
           "paragraph_id": 37,
           "text": "Lets not wake them up, Son."
         },
         {
-          "id": 105,
+          "id": 106,
           "paragraph_id": 38,
           "text": "Are they truly too tired?!"
         },
         {
-          "id": 106,
+          "id": 107,
           "paragraph_id": 38,
           "text": "Is that true?!"
         },
         {
-          "id": 107,
+          "id": 108,
           "paragraph_id": 38,
           "text": "Why wont my mind let me feel convinced?!"
         },
         {
-          "id": 108,
+          "id": 109,
           "paragraph_id": 38,
           "text": "Why do I think that youre lying to me?!"
         },
         {
-          "id": 109,
+          "id": 110,
           "paragraph_id": 38,
           "text": "Youre lying to me, arent you?!"
         },
         {
-          "id": 110,
+          "id": 111,
           "paragraph_id": 38,
           "text": "What what did you do to me when I wasnt conscious last night?!"
         },
         {
-          "id": 111,
+          "id": 112,
           "paragraph_id": 38,
           "text": "What exactly did you do to me?!"
         },
         {
-          "id": 112,
+          "id": 113,
           "paragraph_id": 39,
           "text": "But Im confident that Vyvyan wont answer me even if I ask."
         },
         {
-          "id": 113,
+          "id": 114,
           "paragraph_id": 39,
           "text": "If they dont remember either What happened on this last full moon night became a mystery along with the night after the trip to the hot-springs"
         },
         {
-          "id": 114,
+          "id": 115,
           "paragraph_id": 40,
           "text": "What on Earth happened?!"
         }
       ],
-      "word_count": 1188
+      "word_count": 1189
     },
     {
       "chapter_index": 294,
@@ -33182,7 +33191,7 @@
         "Nier nodded with a soft giggle. She then clasped her face gently and smiled with complete infatuation, looking somewhat silly. She mumbled to herself, Ah Im so looking forward to my wedding dress ehehe Itll be my first time seeing one. Ive never seen one before I keep getting to see new things after getting married to His Majesty. I never thought Id be able to get married in the past, but Im the princess now Nier smiled blissfully and spaced out.",
         "Her change was actually quite significant. Just two months ago, she wore a stern look and kept saying to me Please kill yourself, and always remarking Im Her Majestys Valkyrie. But now shes completely transformed into a young housewife who waits for my return every night with a bright smile.",
         "Nier didnt see herself as a woman in the past. She treated herself as Her Majestys tool. When did she begin to change?",
-        "I dont know, but isnt it good enough that we have a happy ending?I picked up my cup of tea with a smile and scanned Nier.",
+        "I dont know, but isnt it good enough that we have a happy ending? I picked up my cup of tea with a smile and scanned Nier.",
         "I suddenly noticed that Nier hadnt really touched the food on her plate.",
         "Come to think of it; Niers appetite has decreased a fair bit. When I first asked her, she just said she didnt have an appetite. I didnt think too much of it, either since Nier is a lot healthier, and stronger physically, than Lucia.",
         "But its been a number of days now. Nier has to instruct my guards in swordplay every day. Will she be okay like this?",
@@ -33328,157 +33337,157 @@
         {
           "id": 21,
           "paragraph_id": 5,
-          "text": "I dont know, but isnt it good enough that we have a happy ending?I picked up my cup of tea with a smile and scanned Nier."
+          "text": "I dont know, but isnt it good enough that we have a happy ending?"
         },
         {
           "id": 22,
+          "paragraph_id": 5,
+          "text": "I picked up my cup of tea with a smile and scanned Nier."
+        },
+        {
+          "id": 23,
           "paragraph_id": 6,
           "text": "I suddenly noticed that Nier hadnt really touched the food on her plate."
         },
         {
-          "id": 23,
+          "id": 24,
           "paragraph_id": 7,
           "text": "Come to think of it; Niers appetite has decreased a fair bit."
         },
         {
-          "id": 24,
+          "id": 25,
           "paragraph_id": 7,
           "text": "When I first asked her, she just said she didnt have an appetite."
         },
         {
-          "id": 25,
+          "id": 26,
           "paragraph_id": 7,
           "text": "I didnt think too much of it, either since Nier is a lot healthier, and stronger physically, than Lucia."
         },
         {
-          "id": 26,
+          "id": 27,
           "paragraph_id": 8,
           "text": "But its been a number of days now."
         },
         {
-          "id": 27,
+          "id": 28,
           "paragraph_id": 8,
           "text": "Nier has to instruct my guards in swordplay every day."
         },
         {
-          "id": 28,
+          "id": 29,
           "paragraph_id": 8,
           "text": "Will she be okay like this?"
         },
         {
-          "id": 29,
+          "id": 30,
           "paragraph_id": 9,
           "text": "I looked at Nier and said, Nier, are you alright?"
         },
         {
-          "id": 30,
+          "id": 31,
           "paragraph_id": 9,
           "text": "I noticed that you were eating less and less."
         },
         {
-          "id": 31,
+          "id": 32,
           "paragraph_id": 9,
           "text": "You have to teach every day, as well."
         },
         {
-          "id": 32,
+          "id": 33,
           "paragraph_id": 9,
           "text": "How about giving them a few days off?"
         },
         {
-          "id": 33,
+          "id": 34,
           "paragraph_id": 9,
           "text": "Dont get sick before our wedding."
         },
         {
-          "id": 34,
+          "id": 35,
           "paragraph_id": 10,
           "text": "Nier paused for a moment, then revealed a smile intended to put me at ease and replied, Im alright, Your Majesty."
         },
         {
-          "id": 35,
+          "id": 36,
           "paragraph_id": 10,
           "text": "Im feeling fine Its just that my body recently erm its not my bodys fault Its that the things I consumed recently put me off from eating."
         },
         {
-          "id": 36,
+          "id": 37,
           "paragraph_id": 11,
           "text": "Niers expression turned a little imposing when she said the things that I consumed like she wanted to vomit."
         },
         {
-          "id": 37,
+          "id": 38,
           "paragraph_id": 11,
           "text": "I frowned and asked, What did you consume the last two days, Nier?"
         },
         {
-          "id": 38,
+          "id": 39,
           "paragraph_id": 12,
           "text": "The drugs that can speed up pregnancy Her Majesty gave them to me Nier paused and then went on, It tasted terrible."
         },
         {
-          "id": 39,
+          "id": 40,
           "paragraph_id": 12,
           "text": "After I ate it, my lower abdomen kept feeling hot and I wanted to see you even more."
         },
         {
-          "id": 40,
+          "id": 41,
           "paragraph_id": 12,
           "text": "I kept having the urge to do that"
         },
         {
-          "id": 41,
+          "id": 42,
           "paragraph_id": 13,
           "text": "Yeah?"
         },
         {
-          "id": 42,
+          "id": 43,
           "paragraph_id": 13,
           "text": "Cause I think you were the same before you had that stuff Thats definitely not because of the drug."
         },
         {
-          "id": 43,
+          "id": 44,
           "paragraph_id": 13,
           "text": "Its just that your instincts are now different."
         },
         {
-          "id": 44,
+          "id": 45,
           "paragraph_id": 14,
           "text": "I looked at her silently, let out a heavy sigh and said, Nier, didnt I tell you not to rush that?"
         },
         {
-          "id": 45,
+          "id": 46,
           "paragraph_id": 14,
           "text": "Well definitely have our own child."
         },
         {
-          "id": 46,
+          "id": 47,
           "paragraph_id": 14,
           "text": "Theres no point for you to be like that."
         },
         {
-          "id": 47,
+          "id": 48,
           "paragraph_id": 14,
           "text": "Youre harming your body like this."
         },
         {
-          "id": 48,
+          "id": 49,
           "paragraph_id": 14,
           "text": "Nier, youre not to consume those types of drugs again."
         },
         {
-          "id": 49,
+          "id": 50,
           "paragraph_id": 14,
           "text": "Eat properly."
         },
         {
-          "id": 50,
+          "id": 51,
           "paragraph_id": 14,
           "text": "If you consume them again, Ill go sleep with Her Majesty at night."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 15,
-          "text": "Dont!"
         },
         {
           "id": 52,
@@ -33493,310 +33502,315 @@
         {
           "id": 54,
           "paragraph_id": 15,
-          "text": "Im sorry, Your Majesty!"
+          "text": "Dont!"
         },
         {
           "id": 55,
           "paragraph_id": 15,
-          "text": "You must come back at night I can only sleep if I get to hold you Nier was so frightened she turned pale and nearly cried."
+          "text": "Im sorry, Your Majesty!"
         },
         {
           "id": 56,
-          "paragraph_id": 16,
-          "text": "I sighed and stroked her head."
+          "paragraph_id": 15,
+          "text": "You must come back at night I can only sleep if I get to hold you Nier was so frightened she turned pale and nearly cried."
         },
         {
           "id": 57,
           "paragraph_id": 16,
-          "text": "I then said, Dont do things that will harm your health again."
+          "text": "I sighed and stroked her head."
         },
         {
           "id": 58,
           "paragraph_id": 16,
-          "text": "Ill be sad if you do that."
+          "text": "I then said, Dont do things that will harm your health again."
         },
         {
           "id": 59,
-          "paragraph_id": 17,
-          "text": "Nier looked at me and nodded gently."
+          "paragraph_id": 16,
+          "text": "Ill be sad if you do that."
         },
         {
           "id": 60,
           "paragraph_id": 17,
-          "text": "I told her, Well definitely have our own child, so you dont need to worry."
+          "text": "Nier looked at me and nodded gently."
         },
         {
           "id": 61,
-          "paragraph_id": 18,
-          "text": "Uhm Your Majesty."
+          "paragraph_id": 17,
+          "text": "I told her, Well definitely have our own child, so you dont need to worry."
         },
         {
           "id": 62,
           "paragraph_id": 18,
-          "text": "Nier nodded and then grabbed my hand."
+          "text": "Uhm Your Majesty."
         },
         {
           "id": 63,
           "paragraph_id": 18,
-          "text": "After a soft giggle, she said, Your Majesty, Im really looking forward to our wedding."
+          "text": "Nier nodded and then grabbed my hand."
         },
         {
           "id": 64,
           "paragraph_id": 18,
-          "text": "Honest."
+          "text": "After a soft giggle, she said, Your Majesty, Im really looking forward to our wedding."
         },
         {
           "id": 65,
           "paragraph_id": 18,
-          "text": "Im honestly really looking forward to it."
+          "text": "Honest."
         },
         {
           "id": 66,
-          "paragraph_id": 19,
-          "text": "I am too."
+          "paragraph_id": 18,
+          "text": "Im honestly really looking forward to it."
         },
         {
           "id": 67,
           "paragraph_id": 19,
-          "text": "I nodded and then stood up."
+          "text": "I am too."
         },
         {
           "id": 68,
-          "paragraph_id": 20,
-          "text": "After waiting for two seconds, I suddenly realised the Luna was not here anymore."
+          "paragraph_id": 19,
+          "text": "I nodded and then stood up."
         },
         {
           "id": 69,
           "paragraph_id": 20,
-          "text": "I didnt have another personal servant, so I had to wear my cape myself."
+          "text": "After waiting for two seconds, I suddenly realised the Luna was not here anymore."
         },
         {
           "id": 70,
+          "paragraph_id": 20,
+          "text": "I didnt have another personal servant, so I had to wear my cape myself."
+        },
+        {
+          "id": 71,
           "paragraph_id": 21,
           "text": "Though there were maids around, none of them dared to come over."
         },
         {
-          "id": 71,
+          "id": 72,
           "paragraph_id": 22,
           "text": "No one was allowed to touch His Majestys things other than his personal servant."
         },
         {
-          "id": 72,
+          "id": 73,
           "paragraph_id": 23,
           "text": "I randomly missed Luna when I picked up my cape."
         },
         {
-          "id": 73,
+          "id": 74,
           "paragraph_id": 24,
           "text": "I wonder how she is doing."
         },
         {
-          "id": 74,
+          "id": 75,
           "paragraph_id": 25,
           "text": "Luna doesnt have enough mana, so she cant set up a communication network with me."
         },
         {
-          "id": 75,
+          "id": 76,
           "paragraph_id": 25,
           "text": "As such, she had no choice but to send letters back."
         },
         {
-          "id": 76,
+          "id": 77,
           "paragraph_id": 25,
           "text": "I believe that Luna will be fine, though."
         },
         {
-          "id": 77,
+          "id": 78,
           "paragraph_id": 25,
           "text": "That group isnt our enemy."
         },
         {
-          "id": 78,
+          "id": 79,
           "paragraph_id": 26,
           "text": "Your Majesty, is something the matter?"
         },
         {
-          "id": 79,
+          "id": 80,
           "paragraph_id": 27,
           "text": "Yeah."
         },
         {
-          "id": 80,
+          "id": 81,
           "paragraph_id": 27,
           "text": "Im going to go and see Her Majesty now."
         },
         {
-          "id": 81,
+          "id": 82,
           "paragraph_id": 27,
           "text": "Ive rarely seen her recently."
         },
         {
-          "id": 82,
+          "id": 83,
           "paragraph_id": 27,
           "text": "I bet shes been cooped up in her room preparing for the wedding."
         },
         {
-          "id": 83,
+          "id": 84,
           "paragraph_id": 27,
           "text": "Oh, right, Nier, when Freya gets back from the Earth Dragons place, remember to tell her to go and see if Castell he needs any help."
         },
         {
-          "id": 84,
+          "id": 85,
           "paragraph_id": 28,
           "text": "Nier stood up."
         },
         {
-          "id": 85,
+          "id": 86,
           "paragraph_id": 28,
           "text": "She took my cape off my hands and draped it onto my shoulders from in front of me."
         },
         {
-          "id": 86,
+          "id": 87,
           "paragraph_id": 28,
           "text": "She then carefully did up the buttons."
         },
         {
-          "id": 87,
+          "id": 88,
           "paragraph_id": 29,
           "text": "I watched her white hands gently move about in front of me."
         },
         {
-          "id": 88,
+          "id": 89,
           "paragraph_id": 30,
           "text": "She then looked up and kissed my lips."
         },
         {
-          "id": 89,
+          "id": 90,
           "paragraph_id": 30,
           "text": "She smiled and said, Take care, Your Majesty Ive wanted to try this and as I thought, it really does give me the feeling of being a wife."
         },
         {
-          "id": 90,
+          "id": 91,
           "paragraph_id": 31,
           "text": "Thank you, Nier."
         },
         {
-          "id": 91,
+          "id": 92,
           "paragraph_id": 32,
           "text": "I cupped Niers face in my hands and kissed her lips."
         },
         {
-          "id": 92,
+          "id": 93,
           "paragraph_id": 32,
           "text": "Our tongues entwined for a while, not wanting to let go of each other."
         },
         {
-          "id": 93,
+          "id": 94,
           "paragraph_id": 32,
           "text": "We embraced before I exited the dining hall and headed out."
         },
         {
-          "id": 94,
+          "id": 95,
           "paragraph_id": 33,
           "text": "I dont have any other work today, but I should go and see Mommy Elizabeth since shes done so much for me."
         },
         {
-          "id": 95,
+          "id": 96,
           "paragraph_id": 34,
           "text": "I really want to go and see Lucia, but Lucia has only just gotten pregnant so you cant notice any visible difference."
         },
         {
-          "id": 96,
+          "id": 97,
           "paragraph_id": 34,
           "text": "Im really looking forward to it, though."
         },
         {
-          "id": 97,
+          "id": 98,
           "paragraph_id": 34,
           "text": "In fact, Im looking forward to the birth of our child so much that I dont want to do anything."
         },
         {
-          "id": 98,
+          "id": 99,
           "paragraph_id": 35,
           "text": "A cosy family is certainly what causes a man to lose his fighting spirit, after all."
         },
         {
-          "id": 99,
+          "id": 100,
           "paragraph_id": 35,
           "text": "I definitely cant go and do dangerous things on whims after my child is born."
         },
         {
-          "id": 100,
+          "id": 101,
           "paragraph_id": 35,
           "text": "I probably wouldnt even be willing to leave this place."
         },
         {
-          "id": 101,
+          "id": 102,
           "paragraph_id": 36,
           "text": "Though I never had any plan to conquer the world, it would be too ordinary if my dimensional travel story were to end at this small city."
         },
         {
-          "id": 102,
+          "id": 103,
           "paragraph_id": 36,
           "text": "There are places I have yet to go to on this continent."
         },
         {
-          "id": 103,
+          "id": 104,
           "paragraph_id": 36,
           "text": "Ill feel like I have wasted an opportunity if I stop here."
         },
         {
-          "id": 104,
+          "id": 105,
           "paragraph_id": 37,
           "text": "After Lucias child is born, I need to give him a settled environment, a cosy home and then wait for Nier to give birth to her own child."
         },
         {
-          "id": 105,
+          "id": 106,
           "paragraph_id": 38,
           "text": "Then Im going to take my guard unit and Earth Dragon cavalry unit north of the continent."
         },
         {
-          "id": 106,
+          "id": 107,
           "paragraph_id": 38,
           "text": "I want to see what its like there."
         },
         {
-          "id": 107,
+          "id": 108,
           "paragraph_id": 39,
           "text": "Thats my plan."
         },
         {
-          "id": 108,
+          "id": 109,
           "paragraph_id": 39,
           "text": "I want to have a plan."
         },
         {
-          "id": 109,
+          "id": 110,
           "paragraph_id": 39,
           "text": "I dont want to lose my fighting spirit here."
         },
         {
-          "id": 110,
+          "id": 111,
           "paragraph_id": 39,
           "text": "Luckily, both of my mothers are still young."
         },
         {
-          "id": 111,
+          "id": 112,
           "paragraph_id": 39,
           "text": "If I put their grandchildren in their care, they wont fight and I can live a carefree life outside."
         },
         {
-          "id": 112,
+          "id": 113,
           "paragraph_id": 39,
           "text": "I dont want to return to the other world either because Im just a pile of ashes there."
         },
         {
-          "id": 113,
+          "id": 114,
           "paragraph_id": 39,
           "text": "Im going to enjoy my second life here to the fullest"
         },
         {
-          "id": 114,
+          "id": 115,
           "paragraph_id": 40,
           "text": "Though this isnt my life"
         }
       ],
-      "word_count": 1334
+      "word_count": 1335
     }
   ]
 }

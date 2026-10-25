@@ -15,7 +15,6 @@
         "He wanted to talk to someone!",
         "Out of every dreamer sleeping on the golden shore, one name had come to mind.",
         "He stepped into Bob’s dream.",
-        "—",
         "It was full of Wheels!",
         "Dead ones. Countless dead Wheels of Existence, hanging in a grey sky that went on forever. Every one of them was broken. Spokes snapped. Rims crakced through. Hubs crumbled to calcified dust.",
         "And every one of them was trying to rebuild itself!",
@@ -160,1085 +159,1080 @@
         {
           "id": 9,
           "paragraph_id": 5,
-          "text": "—"
+          "text": "It was full of Wheels!"
         },
         {
           "id": 10,
           "paragraph_id": 6,
-          "text": "It was full of Wheels!"
-        },
-        {
-          "id": 11,
-          "paragraph_id": 7,
           "text": "Dead ones."
         },
         {
-          "id": 12,
-          "paragraph_id": 7,
+          "id": 11,
+          "paragraph_id": 6,
           "text": "Countless dead Wheels of Existence, hanging in a grey sky that went on forever."
         },
         {
-          "id": 13,
-          "paragraph_id": 7,
+          "id": 12,
+          "paragraph_id": 6,
           "text": "Every one of them was broken."
         },
         {
-          "id": 14,
-          "paragraph_id": 7,
+          "id": 13,
+          "paragraph_id": 6,
           "text": "Spokes snapped."
         },
         {
-          "id": 15,
-          "paragraph_id": 7,
+          "id": 14,
+          "paragraph_id": 6,
           "text": "Rims crakced through."
+        },
+        {
+          "id": 15,
+          "paragraph_id": 6,
+          "text": "Hubs crumbled to calcified dust."
         },
         {
           "id": 16,
           "paragraph_id": 7,
-          "text": "Hubs crumbled to calcified dust."
+          "text": "And every one of them was trying to rebuild itself!"
         },
         {
           "id": 17,
           "paragraph_id": 8,
-          "text": "And every one of them was trying to rebuild itself!"
-        },
-        {
-          "id": 18,
-          "paragraph_id": 9,
           "text": "A spoke would drift back toward its hub and fit itself into place."
         },
         {
-          "id": 19,
-          "paragraph_id": 9,
+          "id": 18,
+          "paragraph_id": 8,
           "text": "A shard of rim would find another shard and fuse."
         },
         {
-          "id": 20,
-          "paragraph_id": 9,
+          "id": 19,
+          "paragraph_id": 8,
           "text": "For a moment, a Wheel would look almost whole, turning slowly, light flickering across its rim where life might once have been."
+        },
+        {
+          "id": 20,
+          "paragraph_id": 8,
+          "text": "Then a crack would race across it, and it would come apart again, and the pieces would drift, and begin again."
         },
         {
           "id": 21,
           "paragraph_id": 9,
-          "text": "Then a crack would race across it, and it would come apart again, and the pieces would drift, and begin again."
-        },
-        {
-          "id": 22,
-          "paragraph_id": 10,
           "text": "Over and over."
         },
         {
-          "id": 23,
-          "paragraph_id": 10,
+          "id": 22,
+          "paragraph_id": 9,
           "text": "Thousands of them, as far as the eye could see."
+        },
+        {
+          "id": 23,
+          "paragraph_id": 9,
+          "text": "Building, breaking, building."
         },
         {
           "id": 24,
           "paragraph_id": 10,
-          "text": "Building, breaking, building."
+          "text": "Noah stood among them for a while and watched."
         },
         {
           "id": 25,
           "paragraph_id": 11,
-          "text": "Noah stood among them for a while and watched."
-        },
-        {
-          "id": 26,
-          "paragraph_id": 12,
           "text": "He knew this dream."
         },
         {
-          "id": 27,
-          "paragraph_id": 12,
+          "id": 26,
+          "paragraph_id": 11,
           "text": "Once, he had stood on the Calcified Wheels of the Null Cradle once, beside Thauron’s shadow, and looked down at a tentacled thing that had lost everything."
+        },
+        {
+          "id": 27,
+          "paragraph_id": 11,
+          "text": "He knew which Wheel had broken first for Bob."
         },
         {
           "id": 28,
           "paragraph_id": 12,
-          "text": "He knew which Wheel had broken first for Bob."
-        },
-        {
-          "id": 29,
-          "paragraph_id": 13,
           "text": "At the center of the dream, a cocoon of hazy blue-gold light hung among the drifting spokes, glowing softly."
         },
         {
-          "id": 30,
-          "paragraph_id": 13,
+          "id": 29,
+          "paragraph_id": 12,
           "text": "Bob’s."
+        },
+        {
+          "id": 30,
+          "paragraph_id": 12,
+          "text": "Like every other Kin in the Dream Engine, still closed, still changing slowly."
         },
         {
           "id": 31,
           "paragraph_id": 13,
-          "text": "Like every other Kin in the Dream Engine, still closed, still changing slowly."
+          "text": "Noah reached out and touched it."
         },
         {
           "id": 32,
           "paragraph_id": 14,
-          "text": "Noah reached out and touched it."
+          "text": "He poured a little of himself into it."
         },
         {
           "id": 33,
-          "paragraph_id": 15,
-          "text": "He poured a little of himself into it."
+          "paragraph_id": 14,
+          "text": "Just a little, enough to say: hurry up."
         },
         {
           "id": 34,
           "paragraph_id": 15,
-          "text": "Just a little, enough to say: hurry up."
+          "text": "|Kin recognized: Bob.|"
         },
         {
           "id": 35,
           "paragraph_id": 16,
-          "text": "|Kin recognized: Bob.|"
+          "text": "|Kin Evolution accelerated by your will.|"
         },
         {
           "id": 36,
           "paragraph_id": 17,
-          "text": "|Kin Evolution accelerated by your will.|"
+          "text": "...!"
         },
         {
           "id": 37,
           "paragraph_id": 18,
-          "text": "...!"
+          "text": "The cocoon brightened, then shuddered, then split down its middle like a seed pod in summer!"
         },
         {
           "id": 38,
           "paragraph_id": 19,
-          "text": "The cocoon brightened, then shuddered, then split down its middle like a seed pod in summer!"
+          "text": "A figure stepped out!"
         },
         {
           "id": 39,
           "paragraph_id": 20,
-          "text": "A figure stepped out!"
-        },
-        {
-          "id": 40,
-          "paragraph_id": 21,
           "text": "It was humanoid, mostly."
         },
         {
-          "id": 41,
-          "paragraph_id": 21,
+          "id": 40,
+          "paragraph_id": 20,
           "text": "A round bald head, silver shading into gold, smooth and gleaming like a polished pebble."
         },
         {
-          "id": 42,
-          "paragraph_id": 21,
+          "id": 41,
+          "paragraph_id": 20,
           "text": "A body that stood upright, broad-shouldered and easy."
         },
         {
-          "id": 43,
-          "paragraph_id": 21,
+          "id": 42,
+          "paragraph_id": 20,
           "text": "But where arms and legs should have been, there were tentacles, long and supple and silver-gold, curling and uncurling lazily as they found their balance."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 20,
+          "text": "And in the round face, two eyes like singularities, dark and deep and faintly glowing, looking out at the dream with mild surprise."
         },
         {
           "id": 44,
           "paragraph_id": 21,
-          "text": "And in the round face, two eyes like singularities, dark and deep and faintly glowing, looking out at the dream with mild surprise."
+          "text": "Something burned in his chest."
         },
         {
           "id": 45,
-          "paragraph_id": 22,
-          "text": "Something burned in his chest."
+          "paragraph_id": 21,
+          "text": "Obsidian and violet, slow and wild, the colors of a storm given shape."
         },
         {
           "id": 46,
           "paragraph_id": 22,
-          "text": "Obsidian and violet, slow and wild, the colors of a storm given shape."
+          "text": "|Kin Evolution: Bob has emerged first among your Kin.|"
         },
         {
           "id": 47,
           "paragraph_id": 23,
-          "text": "|Kin Evolution: Bob has emerged first among your Kin.|"
+          "text": "|Root formed: THE Khaotic Chorionic Gonadotropin."
         },
         {
           "id": 48,
-          "paragraph_id": 24,
-          "text": "|Root formed: THE Khaotic Chorionic Gonadotropin."
+          "paragraph_id": 23,
+          "text": "Root of Khaos.|"
         },
         {
           "id": 49,
           "paragraph_id": 24,
-          "text": "Root of Khaos.|"
+          "text": "|Saturation toward Immensity: 9%."
         },
         {
           "id": 50,
-          "paragraph_id": 25,
-          "text": "|Saturation toward Immensity: 9%."
+          "paragraph_id": 24,
+          "text": "The road to his Immensity is long.|"
         },
         {
           "id": 51,
           "paragraph_id": 25,
-          "text": "The road to his Immensity is long.|"
+          "text": "...!"
         },
         {
           "id": 52,
           "paragraph_id": 26,
-          "text": "...!"
-        },
-        {
-          "id": 53,
-          "paragraph_id": 27,
           "text": "Bob flexed a tentacle."
         },
         {
-          "id": 54,
-          "paragraph_id": 27,
+          "id": 53,
+          "paragraph_id": 26,
           "text": "Then another."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 26,
+          "text": "He looked down at himself, at the violet storm turning in his chest, and then up, at the man standing among his broken Wheels."
         },
         {
           "id": 55,
           "paragraph_id": 27,
-          "text": "He looked down at himself, at the violet storm turning in his chest, and then up, at the man standing among his broken Wheels."
+          "text": "His singularity eyes squinted."
         },
         {
           "id": 56,
           "paragraph_id": 28,
-          "text": "His singularity eyes squinted."
+          "text": "\"Now this is rare,\" Bob said.\"A visit from the big guy himself?\""
         },
         {
           "id": 57,
           "paragraph_id": 29,
-          "text": "\"Now this is rare,\" Bob said.\"A visit from the big guy himself?\""
+          "text": "He tilted his round head."
         },
         {
           "id": 58,
-          "paragraph_id": 30,
-          "text": "He tilted his round head."
+          "paragraph_id": 29,
+          "text": "\"What brought you to my dream?\""
         },
         {
           "id": 59,
           "paragraph_id": 30,
-          "text": "\"What brought you to my dream?\""
+          "text": "Noah shrugged."
         },
         {
           "id": 60,
           "paragraph_id": 31,
-          "text": "Noah shrugged."
+          "text": "\"I just felt like talking to someone,\" he said."
         },
         {
           "id": 61,
-          "paragraph_id": 32,
-          "text": "\"I just felt like talking to someone,\" he said."
+          "paragraph_id": 31,
+          "text": "\"And for some reason, you came to mind, Little Bobby.\""
         },
         {
           "id": 62,
           "paragraph_id": 32,
-          "text": "\"And for some reason, you came to mind, Little Bobby.\""
+          "text": "Bob stared at him for a moment."
         },
         {
           "id": 63,
           "paragraph_id": 33,
-          "text": "Bob stared at him for a moment."
+          "text": "Then he laughed and shook his gleaming head!"
         },
         {
           "id": 64,
           "paragraph_id": 34,
-          "text": "Then he laughed and shook his gleaming head!"
+          "text": "Clouds began to form around them!"
         },
         {
           "id": 65,
           "paragraph_id": 35,
-          "text": "Clouds began to form around them!"
+          "text": "They came out of Noah without him asking, soft and golden, drifting up between the broken Wheels and gathering in loose piles, as clouds gather on a lazy afternoon."
         },
         {
           "id": 66,
-          "paragraph_id": 36,
-          "text": "They came out of Noah without him asking, soft and golden, drifting up between the broken Wheels and gathering in loose piles, as clouds gather on a lazy afternoon."
+          "paragraph_id": 35,
+          "text": "Noah lowered himself onto one and sat back against it, stretching out his legs, and looked up."
         },
         {
           "id": 67,
           "paragraph_id": 36,
-          "text": "Noah lowered himself onto one and sat back against it, stretching out his legs, and looked up."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 37,
           "text": "Above them, the grey sky of Bob’s dream began to change."
         },
         {
-          "id": 69,
-          "paragraph_id": 37,
+          "id": 68,
+          "paragraph_id": 36,
           "text": "Noah’s dreams leaked into it as warmth leaks into a cold room."
         },
         {
-          "id": 70,
-          "paragraph_id": 37,
+          "id": 69,
+          "paragraph_id": 36,
           "text": "Stars came out between the dead Wheels, blue and gold."
         },
         {
-          "id": 71,
-          "paragraph_id": 37,
+          "id": 70,
+          "paragraph_id": 36,
           "text": "A faint shape of a great Tree glimmered for a moment far overhead, its trunk climbing out of sight, and faded."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 36,
+          "text": "A golden-blue panda drifted past on a cloud, yawning, and disolved into mist."
         },
         {
           "id": 72,
           "paragraph_id": 37,
-          "text": "A golden-blue panda drifted past on a cloud, yawning, and disolved into mist."
+          "text": "Bob watched the panda go by with one eyebrow raised, or the place an eyebrow would be."
         },
         {
           "id": 73,
           "paragraph_id": 38,
-          "text": "Bob watched the panda go by with one eyebrow raised, or the place an eyebrow would be."
+          "text": "\"Your dreams are...as grand as ever,\" he said."
         },
         {
           "id": 74,
           "paragraph_id": 39,
-          "text": "\"Your dreams are...as grand as ever,\" he said."
+          "text": "\"Mmm.\""
         },
         {
           "id": 75,
           "paragraph_id": 40,
-          "text": "\"Mmm.\""
-        },
-        {
-          "id": 76,
-          "paragraph_id": 41,
           "text": "Bob coiled himself onto a golden cloud of his own, tentacles tucked under him, and settled in."
         },
         {
-          "id": 77,
-          "paragraph_id": 41,
+          "id": 76,
+          "paragraph_id": 40,
           "text": "For a while, both of them stayed quiet."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 40,
+          "text": "They simply sat there among the Wheels and the clouds, two old enemies on a quiet afternoon."
         },
         {
           "id": 78,
           "paragraph_id": 41,
-          "text": "They simply sat there among the Wheels and the clouds, two old enemies on a quiet afternoon."
+          "text": "It had been weeks, Noah thought."
         },
         {
           "id": 79,
           "paragraph_id": 42,
-          "text": "It had been weeks, Noah thought."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 43,
           "text": "Or it had been Ages."
         },
         {
-          "id": 81,
-          "paragraph_id": 43,
+          "id": 80,
+          "paragraph_id": 42,
           "text": "Telling the difference had grown hard."
         },
         {
-          "id": 82,
-          "paragraph_id": 43,
+          "id": 81,
+          "paragraph_id": 42,
           "text": "Time felt different to him now."
         },
         {
-          "id": 83,
-          "paragraph_id": 43,
+          "id": 82,
+          "paragraph_id": 42,
           "text": "It ran in periods rather than in a line."
         },
         {
-          "id": 84,
-          "paragraph_id": 43,
+          "id": 83,
+          "paragraph_id": 42,
           "text": "It sat around him in periods, like rooms in a house he could walk between: the room where he had first met this creature, the room where they had fought, the room on the Middle Wheel Platform, the room where he had reached into a broken father’s life and pulled his daughter out of it."
         },
         {
-          "id": 85,
-          "paragraph_id": 43,
+          "id": 84,
+          "paragraph_id": 42,
           "text": "All of them were still there."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 42,
+          "text": "All of them had led here."
         },
         {
           "id": 86,
           "paragraph_id": 43,
-          "text": "All of them had led here."
+          "text": "Noah let the clouds drift."
         },
         {
           "id": 87,
           "paragraph_id": 44,
-          "text": "Noah let the clouds drift."
+          "text": "When Bob spoke again, his voice had changed."
         },
         {
           "id": 88,
           "paragraph_id": 45,
-          "text": "When Bob spoke again, his voice had changed."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 46,
           "text": "\"I...did everything I did for my daughter,\" he said."
         },
         {
-          "id": 90,
-          "paragraph_id": 46,
+          "id": 89,
+          "paragraph_id": 45,
           "text": "\"It was not an excuse for all the ones who died while I sought to save her."
         },
         {
-          "id": 91,
-          "paragraph_id": 46,
+          "id": 90,
+          "paragraph_id": 45,
           "text": "I know that."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 45,
+          "text": "I carry that.\""
         },
         {
           "id": 92,
           "paragraph_id": 46,
-          "text": "I carry that.\""
-        },
-        {
-          "id": 93,
-          "paragraph_id": 47,
           "text": "His singularity eyes stayed on the broken Wheels, building and breaking, building and breaking."
         },
         {
-          "id": 94,
-          "paragraph_id": 47,
+          "id": 93,
+          "paragraph_id": 46,
           "text": "\"But this is what we do."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 46,
+          "text": "Fathers do everything they can for their children.\""
         },
         {
           "id": 95,
           "paragraph_id": 47,
-          "text": "Fathers do everything they can for their children.\""
+          "text": "He turned his round head toward Noah."
         },
         {
           "id": 96,
           "paragraph_id": 48,
-          "text": "He turned his round head toward Noah."
+          "text": "\"You have two now,\" Bob said."
         },
         {
           "id": 97,
-          "paragraph_id": 49,
-          "text": "\"You have two now,\" Bob said."
+          "paragraph_id": 48,
+          "text": "\"And your Son is even messing around with my Daughter...\""
         },
         {
           "id": 98,
           "paragraph_id": 49,
-          "text": "\"And your Son is even messing around with my Daughter...\""
+          "text": "A slow smile spread across his face."
         },
         {
           "id": 99,
           "paragraph_id": 50,
-          "text": "A slow smile spread across his face."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 51,
           "text": "\"Hah."
         },
         {
-          "id": 101,
-          "paragraph_id": 51,
+          "id": 100,
+          "paragraph_id": 50,
           "text": "Is that why you came to me?"
+        },
+        {
+          "id": 101,
+          "paragraph_id": 50,
+          "text": "Do you now consider me your in-law?\""
         },
         {
           "id": 102,
           "paragraph_id": 51,
-          "text": "Do you now consider me your in-law?\""
+          "text": "He laughed, delighted with himself."
         },
         {
           "id": 103,
           "paragraph_id": 52,
-          "text": "He laughed, delighted with himself."
+          "text": "\"Haha."
         },
         {
           "id": 104,
-          "paragraph_id": 53,
-          "text": "\"Haha."
+          "paragraph_id": 52,
+          "text": "We have come far...\""
         },
         {
           "id": 105,
           "paragraph_id": 53,
-          "text": "We have come far...\""
+          "text": "Noah tipped his head back against the cloud and smiled at the stars."
         },
         {
           "id": 106,
           "paragraph_id": 54,
-          "text": "Noah tipped his head back against the cloud and smiled at the stars."
+          "text": "They had."
         },
         {
           "id": 107,
-          "paragraph_id": 55,
-          "text": "They had."
+          "paragraph_id": 54,
+          "text": "They truly had!"
         },
         {
           "id": 108,
           "paragraph_id": 55,
-          "text": "They truly had!"
-        },
-        {
-          "id": 109,
-          "paragraph_id": 56,
           "text": "He remembered the old Bob."
         },
         {
-          "id": 110,
-          "paragraph_id": 56,
+          "id": 109,
+          "paragraph_id": 55,
           "text": "A tentacled monster following the being who had crushed his own Wheel because that was the only road left that led toward his child."
         },
         {
-          "id": 111,
-          "paragraph_id": 56,
+          "id": 110,
+          "paragraph_id": 55,
           "text": "He remembered looking at that monster and thinking: pitiful."
         },
         {
-          "id": 112,
-          "paragraph_id": 56,
+          "id": 111,
+          "paragraph_id": 55,
           "text": "Noble, tragically so, and pitiful."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 55,
+          "text": "A man held up by a single thread of regret."
         },
         {
           "id": 113,
           "paragraph_id": 56,
-          "text": "A man held up by a single thread of regret."
+          "text": "And he remembered the day he had finally reached into that thread and pulled the daughter free, and eventually brought them both home into THE Infiniverse, and set them down among his own people."
         },
         {
           "id": 114,
-          "paragraph_id": 57,
-          "text": "And he remembered the day he had finally reached into that thread and pulled the daughter free, and eventually brought them both home into THE Infiniverse, and set them down among his own people."
+          "paragraph_id": 56,
+          "text": "He remembered Hell Terra Firma, and the Prime Flame and Wheels of Existence...he remembered too many things!"
         },
         {
           "id": 115,
           "paragraph_id": 57,
-          "text": "He remembered Hell Terra Firma, and the Prime Flame and Wheels of Existence...he remembered too many things!"
+          "text": "\"Everything here is yours.\" Bob waved a tentacle at the dream around them, the Wheels, the clouds, the stars."
         },
         {
           "id": 116,
           "paragraph_id": 58,
-          "text": "\"Everything here is yours.\" Bob waved a tentacle at the dream around them, the Wheels, the clouds, the stars."
-        },
-        {
-          "id": 117,
-          "paragraph_id": 59,
           "text": "\"I live in your Infiniverse."
         },
         {
-          "id": 118,
-          "paragraph_id": 59,
+          "id": 117,
+          "paragraph_id": 58,
           "text": "I sleep in your Dream Engine."
+        },
+        {
+          "id": 118,
+          "paragraph_id": 58,
+          "text": "My daughter eats at your table and makes eyes at your son...\""
         },
         {
           "id": 119,
           "paragraph_id": 59,
-          "text": "My daughter eats at your table and makes eyes at your son...\""
+          "text": "They sat for a while longer."
         },
         {
           "id": 120,
           "paragraph_id": 60,
-          "text": "They sat for a while longer."
-        },
-        {
-          "id": 121,
-          "paragraph_id": 61,
           "text": "A dead Wheel nearby came together almost completely, turning slowly, light flickering across its rim."
         },
         {
-          "id": 122,
-          "paragraph_id": 61,
+          "id": 121,
+          "paragraph_id": 60,
           "text": "Both of them watched it."
         },
         {
-          "id": 123,
-          "paragraph_id": 61,
+          "id": 122,
+          "paragraph_id": 60,
           "text": "It held for a long moment, longer than the others."
+        },
+        {
+          "id": 123,
+          "paragraph_id": 60,
+          "text": "Then a crack spread through it, and it drifted apart."
         },
         {
           "id": 124,
           "paragraph_id": 61,
-          "text": "Then a crack spread through it, and it drifted apart."
+          "text": "Bob sighed."
         },
         {
           "id": 125,
           "paragraph_id": 62,
-          "text": "Bob sighed."
+          "text": "\"You know,\" he said, \"no matter how high you climb, it all comes back to the same few things.\""
         },
         {
           "id": 126,
           "paragraph_id": 63,
-          "text": "\"You know,\" he said, \"no matter how high you climb, it all comes back to the same few things.\""
+          "text": "Noah looked over at him."
         },
         {
           "id": 127,
           "paragraph_id": 64,
-          "text": "Noah looked over at him."
+          "text": "\"Power,\" Little Bobby went on, slowly, as a man talks when he has been thinking about something for a very long time."
         },
         {
           "id": 128,
           "paragraph_id": 65,
-          "text": "\"Power,\" Little Bobby went on, slowly, as a man talks when he has been thinking about something for a very long time."
-        },
-        {
-          "id": 129,
-          "paragraph_id": 66,
           "text": "\"Complexity."
         },
         {
-          "id": 130,
-          "paragraph_id": 66,
+          "id": 129,
+          "paragraph_id": 65,
           "text": "True Sources."
         },
         {
-          "id": 131,
-          "paragraph_id": 66,
+          "id": 130,
+          "paragraph_id": 65,
           "text": "Lattices."
         },
         {
-          "id": 132,
-          "paragraph_id": 66,
+          "id": 131,
+          "paragraph_id": 65,
           "text": "Wheels."
         },
         {
-          "id": 133,
-          "paragraph_id": 66,
+          "id": 132,
+          "paragraph_id": 65,
           "text": "Now Roots and Immensity and whatever else you have going on."
         },
         {
-          "id": 134,
-          "paragraph_id": 66,
+          "id": 133,
+          "paragraph_id": 65,
           "text": "I’ve seen beings rise so high they forgot what the ground looked like."
+        },
+        {
+          "id": 134,
+          "paragraph_id": 65,
+          "text": "I’ve seen Wheels that held more life than anyone could count, and I’ve watched them break.\""
         },
         {
           "id": 135,
           "paragraph_id": 66,
-          "text": "I’ve seen Wheels that held more life than anyone could count, and I’ve watched them break.\""
+          "text": "His tentacles curled under him."
         },
         {
           "id": 136,
-          "paragraph_id": 67,
-          "text": "His tentacles curled under him."
+          "paragraph_id": 66,
+          "text": "\"And at the bottom of all of it, under every power anyone has ever had, there’s the same thing.\""
         },
         {
           "id": 137,
           "paragraph_id": 67,
-          "text": "\"And at the bottom of all of it, under every power anyone has ever had, there’s the same thing.\""
+          "text": "He held up one tentacle and counted on it, tip by tip."
         },
         {
           "id": 138,
           "paragraph_id": 68,
-          "text": "He held up one tentacle and counted on it, tip by tip."
-        },
-        {
-          "id": 139,
-          "paragraph_id": 69,
           "text": "\"To love."
         },
         {
-          "id": 140,
-          "paragraph_id": 69,
+          "id": 139,
+          "paragraph_id": 68,
           "text": "To protect."
+        },
+        {
+          "id": 140,
+          "paragraph_id": 68,
+          "text": "To provide.\""
         },
         {
           "id": 141,
           "paragraph_id": 69,
-          "text": "To provide.\""
+          "text": "The violet storm in his chest turned slowly."
         },
         {
           "id": 142,
           "paragraph_id": 70,
-          "text": "The violet storm in his chest turned slowly."
-        },
-        {
-          "id": 143,
-          "paragraph_id": 71,
           "text": "\"That’s it."
         },
         {
-          "id": 144,
-          "paragraph_id": 71,
+          "id": 143,
+          "paragraph_id": 70,
           "text": "That’s all of it."
         },
         {
-          "id": 145,
-          "paragraph_id": 71,
+          "id": 144,
+          "paragraph_id": 70,
           "text": "Whether it’s my daughter.\" He pointed the tentacle at Noah."
         },
         {
-          "id": 146,
-          "paragraph_id": 71,
+          "id": 145,
+          "paragraph_id": 70,
           "text": "\"Or your son and daughter."
         },
         {
-          "id": 147,
-          "paragraph_id": 71,
+          "id": 146,
+          "paragraph_id": 70,
           "text": "We do everything we can for them."
         },
         {
-          "id": 148,
-          "paragraph_id": 71,
+          "id": 147,
+          "paragraph_id": 70,
           "text": "And for ourselves, so that we’re still standing when they need us."
         },
         {
-          "id": 149,
-          "paragraph_id": 71,
+          "id": 148,
+          "paragraph_id": 70,
           "text": "Everything else is just...\" He waved at the broken Wheels."
+        },
+        {
+          "id": 149,
+          "paragraph_id": 70,
+          "text": "\"Scenery.\""
         },
         {
           "id": 150,
           "paragraph_id": 71,
-          "text": "\"Scenery.\""
+          "text": "Noah closed his eyes."
         },
         {
           "id": 151,
           "paragraph_id": 72,
-          "text": "Noah closed his eyes."
+          "text": "He nodded, slowly, and for a long while he stayed quiet."
         },
         {
           "id": 152,
           "paragraph_id": 73,
-          "text": "He nodded, slowly, and for a long while he stayed quiet."
+          "text": "\"Sometimes I feel very distant from all of them,\" Noah said."
         },
         {
           "id": 153,
           "paragraph_id": 74,
-          "text": "\"Sometimes I feel very distant from all of them,\" Noah said."
+          "text": "Bob turned his head."
         },
         {
           "id": 154,
           "paragraph_id": 75,
-          "text": "Bob turned his head."
-        },
-        {
-          "id": 155,
-          "paragraph_id": 76,
           "text": "\"I see so much now,\" Noah went on."
         },
         {
-          "id": 156,
-          "paragraph_id": 76,
+          "id": 155,
+          "paragraph_id": 75,
           "text": "\"Every path."
         },
         {
-          "id": 157,
-          "paragraph_id": 76,
+          "id": 156,
+          "paragraph_id": 75,
           "text": "Every branch."
         },
         {
-          "id": 158,
-          "paragraph_id": 76,
+          "id": 157,
+          "paragraph_id": 75,
           "text": "When I look at Seo-yeon, I can see a thousand versions of her growing up, all at once, all of them real."
         },
         {
-          "id": 159,
-          "paragraph_id": 76,
+          "id": 158,
+          "paragraph_id": 75,
           "text": "When I look at Henry, I see every choice he could make before he makes it."
+        },
+        {
+          "id": 159,
+          "paragraph_id": 75,
+          "text": "When I look at my mother, I see thr countless years she has left, and every way those years could go.\""
         },
         {
           "id": 160,
           "paragraph_id": 76,
-          "text": "When I look at my mother, I see thr countless years she has left, and every way those years could go.\""
-        },
-        {
-          "id": 161,
-          "paragraph_id": 77,
           "text": "He was quiet for a moment."
         },
         {
-          "id": 162,
-          "paragraph_id": 77,
+          "id": 161,
+          "paragraph_id": 76,
           "text": "\"It would be easy to stand up here and watch it all happen."
         },
         {
-          "id": 163,
-          "paragraph_id": 77,
+          "id": 162,
+          "paragraph_id": 76,
           "text": "To see everyone I love as patterns."
+        },
+        {
+          "id": 163,
+          "paragraph_id": 76,
+          "text": "Beautiful patterns, and very far away.\""
         },
         {
           "id": 164,
           "paragraph_id": 77,
-          "text": "Beautiful patterns, and very far away.\""
+          "text": "The clouds drifted around them."
         },
         {
           "id": 165,
           "paragraph_id": 78,
-          "text": "The clouds drifted around them."
-        },
-        {
-          "id": 166,
-          "paragraph_id": 79,
           "text": "\"But the Human in me will not let me,\" he said."
         },
         {
-          "id": 167,
-          "paragraph_id": 79,
+          "id": 166,
+          "paragraph_id": 78,
           "text": "\"My evolution took it and made it infinite."
         },
         {
-          "id": 168,
-          "paragraph_id": 79,
+          "id": 167,
+          "paragraph_id": 78,
           "text": "Every feeling I have now, it grows."
         },
         {
-          "id": 169,
-          "paragraph_id": 79,
+          "id": 168,
+          "paragraph_id": 78,
           "text": "It does not fade."
         },
         {
-          "id": 170,
-          "paragraph_id": 79,
+          "id": 169,
+          "paragraph_id": 78,
           "text": "I worry about them, and the worry keeps going."
         },
         {
-          "id": 171,
-          "paragraph_id": 79,
+          "id": 170,
+          "paragraph_id": 78,
           "text": "I love them, and it keeps going."
+        },
+        {
+          "id": 171,
+          "paragraph_id": 78,
+          "text": "I am angry for them, and it keeps going.\""
         },
         {
           "id": 172,
           "paragraph_id": 79,
-          "text": "I am angry for them, and it keeps going.\""
-        },
-        {
-          "id": 173,
-          "paragraph_id": 80,
           "text": "He opened his gold eyes and looked up at the stars his own dreams had put into Bob’s sky."
         },
         {
-          "id": 174,
-          "paragraph_id": 80,
+          "id": 173,
+          "paragraph_id": 79,
           "text": "\"I used to wonder whether I would stop caring, someday."
+        },
+        {
+          "id": 174,
+          "paragraph_id": 79,
+          "text": "Whether a being like me eventually becomes too large to feel small things.\""
         },
         {
           "id": 175,
           "paragraph_id": 80,
-          "text": "Whether a being like me eventually becomes too large to feel small things.\""
-        },
-        {
-          "id": 176,
-          "paragraph_id": 81,
           "text": "He smiled faintly."
         },
         {
-          "id": 177,
-          "paragraph_id": 81,
+          "id": 176,
+          "paragraph_id": 80,
           "text": "\"I do not think I will."
         },
         {
-          "id": 178,
-          "paragraph_id": 81,
+          "id": 177,
+          "paragraph_id": 80,
           "text": "I think I will feel all of it, for as long as there is a me to feel it."
+        },
+        {
+          "id": 178,
+          "paragraph_id": 80,
+          "text": "I think I am going to keep caring for a very, very long time.\""
         },
         {
           "id": 179,
           "paragraph_id": 81,
-          "text": "I think I am going to keep caring for a very, very long time.\""
+          "text": "Bob only listened."
         },
         {
           "id": 180,
           "paragraph_id": 82,
-          "text": "Bob only listened."
+          "text": "\"Right now,\" Noah said, \"almost everyone I love is in a cocoon.\""
         },
         {
           "id": 181,
           "paragraph_id": 83,
-          "text": "\"Right now,\" Noah said, \"almost everyone I love is in a cocoon.\""
-        },
-        {
-          "id": 182,
-          "paragraph_id": 84,
           "text": "He could see them, through the threads, even from here."
         },
         {
-          "id": 183,
-          "paragraph_id": 84,
+          "id": 182,
+          "paragraph_id": 83,
           "text": "A hill in his Domain with two shining shapes on it."
+        },
+        {
+          "id": 183,
+          "paragraph_id": 83,
+          "text": "The golden shore of THE Infiniverse lined with sleepers wrapped in light."
         },
         {
           "id": 184,
           "paragraph_id": 84,
-          "text": "The golden shore of THE Infiniverse lined with sleepers wrapped in light."
-        },
-        {
-          "id": 185,
-          "paragraph_id": 85,
           "text": "\"Ruination."
         },
         {
-          "id": 186,
-          "paragraph_id": 85,
+          "id": 185,
+          "paragraph_id": 84,
           "text": "She has been with me since before I was anything."
+        },
+        {
+          "id": 186,
+          "paragraph_id": 84,
+          "text": "I hope she comes out of it knowing she was never just a voice in my head.\" He paused."
         },
         {
           "id": 187,
           "paragraph_id": 85,
-          "text": "I hope she comes out of it knowing she was never just a voice in my head.\" He paused."
-        },
-        {
-          "id": 188,
-          "paragraph_id": 86,
           "text": "\"THE Infiniverse."
         },
         {
-          "id": 189,
-          "paragraph_id": 86,
+          "id": 188,
+          "paragraph_id": 85,
           "text": "She has carried everything I own and everyone I love on her back without once complaining."
         },
         {
-          "id": 190,
-          "paragraph_id": 86,
+          "id": 189,
+          "paragraph_id": 85,
           "text": "I hope she comes out of it lighter."
+        },
+        {
+          "id": 190,
+          "paragraph_id": 85,
+          "text": "I hope she finds out what she wants for herself.\""
         },
         {
           "id": 191,
           "paragraph_id": 86,
-          "text": "I hope she finds out what she wants for herself.\""
-        },
-        {
-          "id": 192,
-          "paragraph_id": 87,
           "text": "\"My mother."
         },
         {
-          "id": 193,
-          "paragraph_id": 87,
+          "id": 192,
+          "paragraph_id": 86,
           "text": "I hope she comes out of it with nothing left to fear.\" His voice softened."
         },
         {
-          "id": 194,
-          "paragraph_id": 87,
+          "id": 193,
+          "paragraph_id": 86,
           "text": "\"Seo-yeon."
         },
         {
-          "id": 195,
-          "paragraph_id": 87,
+          "id": 194,
+          "paragraph_id": 86,
           "text": "I hope she comes out of it curious, and stays curious, and never once has to be brave as I had to be."
         },
         {
-          "id": 196,
-          "paragraph_id": 87,
+          "id": 195,
+          "paragraph_id": 86,
           "text": "Henry."
+        },
+        {
+          "id": 196,
+          "paragraph_id": 86,
+          "text": "I hope he comes out of it strong enough to protect what he loves.\""
         },
         {
           "id": 197,
           "paragraph_id": 87,
-          "text": "I hope he comes out of it strong enough to protect what he loves.\""
+          "text": "A glance toward Bob."
         },
         {
           "id": 198,
-          "paragraph_id": 88,
-          "text": "A glance toward Bob."
+          "paragraph_id": 87,
+          "text": "\"Including your daughter...\""
         },
         {
           "id": 199,
           "paragraph_id": 88,
-          "text": "\"Including your daughter...\""
+          "text": "Bob snorted."
         },
         {
           "id": 200,
           "paragraph_id": 89,
-          "text": "Bob snorted."
-        },
-        {
-          "id": 201,
-          "paragraph_id": 90,
           "text": "\"Emotive,\" Noah said."
         },
         {
-          "id": 202,
-          "paragraph_id": 90,
+          "id": 201,
+          "paragraph_id": 89,
           "text": "\"I hope she comes out of it with every color she has, and none of them hurting."
         },
         {
-          "id": 203,
-          "paragraph_id": 90,
+          "id": 202,
+          "paragraph_id": 89,
           "text": "Thalia."
         },
         {
-          "id": 204,
-          "paragraph_id": 90,
+          "id": 203,
+          "paragraph_id": 89,
           "text": "I hope she comes out of it and rewrites whatever she likes."
         },
         {
-          "id": 205,
-          "paragraph_id": 90,
+          "id": 204,
+          "paragraph_id": 89,
           "text": "Barbatos."
         },
         {
-          "id": 206,
-          "paragraph_id": 90,
+          "id": 205,
+          "paragraph_id": 89,
           "text": "I hope her dead stand up for her forever."
         },
         {
-          "id": 207,
-          "paragraph_id": 90,
+          "id": 206,
+          "paragraph_id": 89,
           "text": "Ling, Poona...\" He shook his head slowly."
         },
         {
-          "id": 208,
-          "paragraph_id": 90,
+          "id": 207,
+          "paragraph_id": 89,
           "text": "\"All of them."
+        },
+        {
+          "id": 208,
+          "paragraph_id": 89,
+          "text": "I hope they come out bigger than they were, and still themselves.\""
         },
         {
           "id": 209,
           "paragraph_id": 90,
-          "text": "I hope they come out bigger than they were, and still themselves.\""
+          "text": "He let out a long breath."
         },
         {
           "id": 210,
           "paragraph_id": 91,
-          "text": "He let out a long breath."
-        },
-        {
-          "id": 211,
-          "paragraph_id": 92,
           "text": "\"I have been chasing power for a long time, Bob."
         },
         {
-          "id": 212,
-          "paragraph_id": 92,
+          "id": 211,
+          "paragraph_id": 91,
           "text": "I am still chasing it."
+        },
+        {
+          "id": 212,
+          "paragraph_id": 91,
+          "text": "I will chase it all the way down into where Those Who Remain have not even accessed, and eat everything I find.\""
         },
         {
           "id": 213,
           "paragraph_id": 92,
-          "text": "I will chase it all the way down into where Those Who Remain have not even accessed, and eat everything I find.\""
-        },
-        {
-          "id": 214,
-          "paragraph_id": 93,
           "text": "He settled deeper into the cloud."
         },
         {
-          "id": 215,
-          "paragraph_id": 93,
+          "id": 214,
+          "paragraph_id": 92,
           "text": "\"But you are right."
         },
         {
-          "id": 216,
-          "paragraph_id": 93,
+          "id": 215,
+          "paragraph_id": 92,
           "text": "Underneath all of it, that is the reason."
         },
         {
-          "id": 217,
-          "paragraph_id": 93,
+          "id": 216,
+          "paragraph_id": 92,
           "text": "I want to stand high enough that nothing can ever reach down and take them from me."
+        },
+        {
+          "id": 217,
+          "paragraph_id": 92,
+          "text": "And then I want to sit at the table with them, and eat, and argue, and smile.\""
         },
         {
           "id": 218,
           "paragraph_id": 93,
-          "text": "And then I want to sit at the table with them, and eat, and argue, and smile.\""
+          "text": "Bob laughed softly."
         },
         {
           "id": 219,
           "paragraph_id": 94,
-          "text": "Bob laughed softly."
+          "text": "\"That,\" Noah said,\"is the dream.\""
         },
         {
           "id": 220,
           "paragraph_id": 95,
-          "text": "\"That,\" Noah said,\"is the dream.\""
+          "text": "Above them, a dead Wheel drifted together."
         },
         {
           "id": 221,
           "paragraph_id": 96,
-          "text": "Above them, a dead Wheel drifted together."
+          "text": "Spoke by spoke, shard by shard, it came whole and began to turn, and this time, with a faint hum, Noah’s dream reached up into it, golden and patient, and held its cracks closed."
         },
         {
           "id": 222,
           "paragraph_id": 97,
-          "text": "Spoke by spoke, shard by shard, it came whole and began to turn, and this time, with a faint hum, Noah’s dream reached up into it, golden and patient, and held its cracks closed."
+          "text": "It stayed whole!"
         },
         {
           "id": 223,
           "paragraph_id": 98,
-          "text": "It stayed whole!"
-        },
-        {
-          "id": 224,
-          "paragraph_id": 99,
           "text": "Bob watched it turn for a long moment, his singularity eyes very bright!"
         }
       ],
-      "word_count": 2079
+      "word_count": 2078
     },
     {
       "chapter_index": 5831,
@@ -2122,7 +2116,6 @@
         "The crimson faded.",
         "The Chorus settled behind THE Sealed One, quiet and enormous.",
         "Three enemies lay broken in the foam of a dead home!",
-        "—",
         "THE Sealed One stood over them, and smoothed down the front of his dark coat.",
         "\"I defeated you fairly,\" he said. \"One against three. No help from behind me. You saw them. They did not move.\"",
         "He glanced back at the five Immense Ones. \"Fair and square.\"",
@@ -2346,590 +2339,585 @@
         {
           "id": 31,
           "paragraph_id": 16,
-          "text": "—"
+          "text": "THE Sealed One stood over them, and smoothed down the front of his dark coat."
         },
         {
           "id": 32,
           "paragraph_id": 17,
-          "text": "THE Sealed One stood over them, and smoothed down the front of his dark coat."
-        },
-        {
-          "id": 33,
-          "paragraph_id": 18,
           "text": "\"I defeated you fairly,\" he said."
         },
         {
-          "id": 34,
-          "paragraph_id": 18,
+          "id": 33,
+          "paragraph_id": 17,
           "text": "\"One against three."
         },
         {
-          "id": 35,
-          "paragraph_id": 18,
+          "id": 34,
+          "paragraph_id": 17,
           "text": "No help from behind me."
         },
         {
-          "id": 36,
-          "paragraph_id": 18,
+          "id": 35,
+          "paragraph_id": 17,
           "text": "You saw them."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 17,
+          "text": "They did not move.\""
         },
         {
           "id": 37,
           "paragraph_id": 18,
-          "text": "They did not move.\""
+          "text": "He glanced back at the five Immense Ones."
         },
         {
           "id": 38,
-          "paragraph_id": 19,
-          "text": "He glanced back at the five Immense Ones."
+          "paragraph_id": 18,
+          "text": "\"Fair and square.\""
         },
         {
           "id": 39,
           "paragraph_id": 19,
-          "text": "\"Fair and square.\""
+          "text": "He looked down at the three of them, and smiled."
         },
         {
           "id": 40,
           "paragraph_id": 20,
-          "text": "He looked down at the three of them, and smiled."
+          "text": "\"But will you play fair?\""
         },
         {
           "id": 41,
           "paragraph_id": 21,
-          "text": "\"But will you play fair?\""
+          "text": "He lifted his eyes."
         },
         {
           "id": 42,
           "paragraph_id": 22,
-          "text": "He lifted his eyes."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 23,
           "text": "Past the foam, past the red, past the edge of the undefinition, there was a place that only a very few beings could see."
         },
         {
-          "id": 44,
-          "paragraph_id": 23,
+          "id": 43,
+          "paragraph_id": 22,
           "text": "A vast and quiet brilliance, standing among shelves that climbed out of sight."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 22,
+          "text": "Ink and parchment and patience."
         },
         {
           "id": 45,
           "paragraph_id": 23,
-          "text": "Ink and parchment and patience."
+          "text": "THE MATRIARCH OF INK, watching over her fallen daughter."
         },
         {
           "id": 46,
           "paragraph_id": 24,
-          "text": "THE MATRIARCH OF INK, watching over her fallen daughter."
+          "text": "THE Sealed One looked straight at her."
         },
         {
           "id": 47,
           "paragraph_id": 25,
-          "text": "THE Sealed One looked straight at her."
-        },
-        {
-          "id": 48,
-          "paragraph_id": 26,
           "text": "\"I defeated your daughter,\" he said."
         },
         {
-          "id": 49,
-          "paragraph_id": 26,
+          "id": 48,
+          "paragraph_id": 25,
           "text": "\"She is my spoil now."
         },
         {
-          "id": 50,
-          "paragraph_id": 26,
+          "id": 49,
+          "paragraph_id": 25,
           "text": "That is how these things go.\" His gold eyes glittered."
         },
         {
-          "id": 51,
-          "paragraph_id": 26,
+          "id": 50,
+          "paragraph_id": 25,
           "text": "\"So."
+        },
+        {
+          "id": 51,
+          "paragraph_id": 25,
+          "text": "Will you be fair, Matriarch?\""
         },
         {
           "id": 52,
           "paragraph_id": 26,
-          "text": "Will you be fair, Matriarch?\""
+          "text": "He took a step toward Calliope."
         },
         {
           "id": 53,
           "paragraph_id": 27,
-          "text": "He took a step toward Calliope."
+          "text": "\"Or will you intervene?\""
         },
         {
           "id": 54,
           "paragraph_id": 28,
-          "text": "\"Or will you intervene?\""
+          "text": "He took a second step!"
         },
         {
           "id": 55,
           "paragraph_id": 29,
-          "text": "He took a second step!"
+          "text": "And THE MATRIARCH OF INK’s power came down."
         },
         {
           "id": 56,
           "paragraph_id": 30,
-          "text": "And THE MATRIARCH OF INK’s power came down."
-        },
-        {
-          "id": 57,
-          "paragraph_id": 31,
           "text": "It spilled out of the hidden brilliance like a sea of ink pouring off a shelf, black and endless and furious, every drop of it a word, every word a law, falling on the undefinition from above."
         },
         {
-          "id": 58,
-          "paragraph_id": 31,
+          "id": 57,
+          "paragraph_id": 30,
           "text": "Its pressure crushed the foam flat."
+        },
+        {
+          "id": 58,
+          "paragraph_id": 30,
+          "text": "Its edges wrote themselves across the red sky in letters too vast to read."
         },
         {
           "id": 59,
           "paragraph_id": 31,
-          "text": "Its edges wrote themselves across the red sky in letters too vast to read."
+          "text": "|You will not touch my child.|"
         },
         {
           "id": 60,
           "paragraph_id": 32,
-          "text": "|You will not touch my child.|"
+          "text": "THE Sealed One laughed!"
         },
         {
           "id": 61,
           "paragraph_id": 33,
-          "text": "THE Sealed One laughed!"
+          "text": "He threw back his head and laughed with real joy."
         },
         {
           "id": 62,
           "paragraph_id": 34,
-          "text": "He threw back his head and laughed with real joy."
+          "text": "\"There it is!"
         },
         {
           "id": 63,
-          "paragraph_id": 35,
-          "text": "\"There it is!"
+          "paragraph_id": 34,
+          "text": "Hypocrisy!\""
         },
         {
           "id": 64,
           "paragraph_id": 35,
-          "text": "Hypocrisy!\""
+          "text": "Behind him, the five Immense Ones moved at last."
         },
         {
           "id": 65,
           "paragraph_id": 36,
-          "text": "Behind him, the five Immense Ones moved at last."
+          "text": "They rose out of the foam like five suns coming up at once, and their Immensity met the falling ink in the air above the undefinition, and the whole sky cracked."
         },
         {
           "id": 66,
           "paragraph_id": 37,
-          "text": "They rose out of the foam like five suns coming up at once, and their Immensity met the falling ink in the air above the undefinition, and the whole sky cracked."
+          "text": "\"Remember!\" THE Sealed One called up to them, still laughing."
         },
         {
           "id": 67,
-          "paragraph_id": 38,
-          "text": "\"Remember!\" THE Sealed One called up to them, still laughing."
+          "paragraph_id": 37,
+          "text": "\"You all played unfairly first!\""
         },
         {
           "id": 68,
           "paragraph_id": 38,
-          "text": "\"You all played unfairly first!\""
+          "text": "|Unfair is a word for the losing side,| one of the five answered, its voice like a bell rung underwater."
         },
         {
           "id": 69,
           "paragraph_id": 39,
-          "text": "|Unfair is a word for the losing side,| one of the five answered, its voice like a bell rung underwater."
+          "text": "|Hold her,| said another, cold and flat. |Let the boy collect.|"
         },
         {
           "id": 70,
           "paragraph_id": 40,
-          "text": "|Hold her,| said another, cold and flat. |Let the boy collect.|"
-        },
-        {
-          "id": 71,
-          "paragraph_id": 41,
           "text": "The five of them pushed."
         },
         {
-          "id": 72,
-          "paragraph_id": 41,
+          "id": 71,
+          "paragraph_id": 40,
           "text": "The sea of ink pushed back."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 40,
+          "text": "Above the undefinition, Immensity ground against Immensity in a storm of black and gold, and THE Matriarch’s brilliance strained against five at once, and slowly, slowly, was forced back toward her shelves."
         },
         {
           "id": 73,
           "paragraph_id": 41,
-          "text": "Above the undefinition, Immensity ground against Immensity in a storm of black and gold, and THE Matriarch’s brilliance strained against five at once, and slowly, slowly, was forced back toward her shelves."
+          "text": "And THE Sealed One walked toward his spoils."
         },
         {
           "id": 74,
           "paragraph_id": 42,
-          "text": "And THE Sealed One walked toward his spoils."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 43,
           "text": "He walked past THE Creature, groaning in the foam."
         },
         {
-          "id": 76,
-          "paragraph_id": 43,
+          "id": 75,
+          "paragraph_id": 42,
           "text": "Past Anaximander, propped on one elbow, watching him go with a calm that had blood on it."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 42,
+          "text": "He walked to where Calliope lay with her script smeared and her eyes half open, and he crouched beside her, and reached out one pale hand."
         },
         {
           "id": 77,
           "paragraph_id": 43,
-          "text": "He walked to where Calliope lay with her script smeared and her eyes half open, and he crouched beside her, and reached out one pale hand."
+          "text": "Then the snow stopped falling!"
         },
         {
           "id": 78,
           "paragraph_id": 44,
-          "text": "Then the snow stopped falling!"
-        },
-        {
-          "id": 79,
-          "paragraph_id": 45,
           "text": "Every flake hung in the air, perfectly still."
         },
         {
-          "id": 80,
-          "paragraph_id": 45,
+          "id": 79,
+          "paragraph_id": 44,
           "text": "The red light dimmed."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 44,
+          "text": "The storm above them, five Immense Ones and one Matriarch locked together, slowed and grew quiet, as though the whole undefinition had stepped inside a house where someone was in mourning."
         },
         {
           "id": 81,
           "paragraph_id": 45,
-          "text": "The storm above them, five Immense Ones and one Matriarch locked together, slowed and grew quiet, as though the whole undefinition had stepped inside a house where someone was in mourning."
+          "text": "Frost spread across the foam!"
         },
         {
           "id": 82,
           "paragraph_id": 46,
-          "text": "Frost spread across the foam!"
+          "text": "It came in a slow, silver tide, ticking softly as it went, and where it passed, everything grew very cold and very calm."
         },
         {
           "id": 83,
-          "paragraph_id": 47,
-          "text": "It came in a slow, silver tide, ticking softly as it went, and where it passed, everything grew very cold and very calm."
+          "paragraph_id": 46,
+          "text": "Out of it, walking without hurry, came a woman."
         },
         {
           "id": 84,
           "paragraph_id": 47,
-          "text": "Out of it, walking without hurry, came a woman."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 48,
           "text": "She was tall and pale, dressed in layers of grey like the light of a winter morning, her hair now bound up with silver pins."
         },
         {
-          "id": 86,
-          "paragraph_id": 48,
+          "id": 85,
+          "paragraph_id": 47,
           "text": "Her face held no anger."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 47,
+          "text": "It held something older and heavier than anger, a grief kept so long and so carefully that it had become a kind of composure."
         },
         {
           "id": 87,
           "paragraph_id": 48,
-          "text": "It held something older and heavier than anger, a grief kept so long and so carefully that it had become a kind of composure."
+          "text": "THE REMINISCING WIDOW!"
         },
         {
           "id": 88,
           "paragraph_id": 49,
-          "text": "THE REMINISCING WIDOW!"
-        },
-        {
-          "id": 89,
-          "paragraph_id": 50,
           "text": "Behind her, faint and flickering, stood a second figure."
         },
         {
-          "id": 90,
-          "paragraph_id": 50,
+          "id": 89,
+          "paragraph_id": 49,
           "text": "A man, translucent and illusory, sharp-faced and somber, with eyes far too bright for a ghost."
         },
         {
-          "id": 91,
-          "paragraph_id": 50,
+          "id": 90,
+          "paragraph_id": 49,
           "text": "He held a quill."
         },
         {
-          "id": 92,
-          "paragraph_id": 50,
+          "id": 91,
+          "paragraph_id": 49,
           "text": "Ancient, plain, its nib dark with something deeper than ink."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 49,
+          "text": "It hummed in his illusory hand with a sound like a clock ticking very far away."
         },
         {
           "id": 93,
           "paragraph_id": 50,
-          "text": "It hummed in his illusory hand with a sound like a clock ticking very far away."
+          "text": "The Quill of Chronos!"
         },
         {
           "id": 94,
           "paragraph_id": 51,
-          "text": "The Quill of Chronos!"
+          "text": "THE Sealed One went still!"
         },
         {
           "id": 95,
           "paragraph_id": 52,
-          "text": "THE Sealed One went still!"
+          "text": "The Widow kept her gaze above him."
         },
         {
           "id": 96,
-          "paragraph_id": 53,
-          "text": "The Widow kept her gaze above him."
+          "paragraph_id": 52,
+          "text": "She looked up, past the five Immense Ones, past the storm, toward the hidden shelves and the brilliance straining among them."
         },
         {
           "id": 97,
           "paragraph_id": 53,
-          "text": "She looked up, past the five Immense Ones, past the storm, toward the hidden shelves and the brilliance straining among them."
+          "text": "|Matriarch,| she said."
         },
         {
           "id": 98,
-          "paragraph_id": 54,
-          "text": "|Matriarch,| she said."
+          "paragraph_id": 53,
+          "text": "Her voice was perfectly calm. |You will want to write with something.|"
         },
         {
           "id": 99,
           "paragraph_id": 54,
-          "text": "Her voice was perfectly calm. |You will want to write with something.|"
+          "text": "The illusory man behind her flicked his wrist."
         },
         {
           "id": 100,
           "paragraph_id": 55,
-          "text": "The illusory man behind her flicked his wrist."
+          "text": "The Quill of Chronos left his illusory fingers and flew upward, through the storm, past the five Immense Ones, straight into the hidden brilliance among the shelves."
         },
         {
           "id": 101,
           "paragraph_id": 56,
-          "text": "The Quill of Chronos left his illusory fingers and flew upward, through the storm, past the five Immense Ones, straight into the hidden brilliance among the shelves."
+          "text": "THE MATRIARCH OF INK caught it!"
         },
         {
           "id": 102,
           "paragraph_id": 57,
-          "text": "THE MATRIARCH OF INK caught it!"
-        },
-        {
-          "id": 103,
-          "paragraph_id": 58,
           "text": "For one long moment, the undefinition held its breath."
         },
         {
-          "id": 104,
-          "paragraph_id": 58,
+          "id": 103,
+          "paragraph_id": 57,
           "text": "Then, from the hidden place, came a sound that every being in the undefinition felt in their bones: an intake of breath."
         },
         {
-          "id": 105,
-          "paragraph_id": 58,
+          "id": 104,
+          "paragraph_id": 57,
           "text": "Shock."
+        },
+        {
+          "id": 105,
+          "paragraph_id": 57,
+          "text": "Disbelief."
         },
         {
           "id": 106,
           "paragraph_id": 58,
-          "text": "Disbelief."
+          "text": "|This is...|"
         },
         {
           "id": 107,
           "paragraph_id": 59,
-          "text": "|This is...|"
+          "text": "Her power exploded upward!"
         },
         {
           "id": 108,
           "paragraph_id": 60,
-          "text": "Her power exploded upward!"
-        },
-        {
-          "id": 109,
-          "paragraph_id": 61,
           "text": "The sea of ink became an ocean."
         },
         {
-          "id": 110,
-          "paragraph_id": 61,
+          "id": 109,
+          "paragraph_id": 60,
           "text": "It rose out of the hidden shelves in a single vast column and tore through the storm, and the five Immense Ones were flung back across the sky like leaves."
         },
         {
-          "id": 111,
-          "paragraph_id": 61,
+          "id": 110,
+          "paragraph_id": 60,
           "text": "The ink was words, and now it was time as well."
+        },
+        {
+          "id": 111,
+          "paragraph_id": 60,
+          "text": "Every letter now carried a tick of the Quill, every law a moment written and fixed, and where it fell, things that had happened began to be written differently."
         },
         {
           "id": 112,
           "paragraph_id": 61,
-          "text": "Every letter now carried a tick of the Quill, every law a moment written and fixed, and where it fell, things that had happened began to be written differently."
+          "text": "The smears on Calliope’s skin began, slowly, to run backward."
         },
         {
           "id": 113,
           "paragraph_id": 62,
-          "text": "The smears on Calliope’s skin began, slowly, to run backward."
+          "text": "THE Sealed One rose from his crouch, and looked at the Widow, and at the somber ghost behind her, and at the column of ink and time blazing up from the hidden shelves."
         },
         {
           "id": 114,
           "paragraph_id": 63,
-          "text": "THE Sealed One rose from his crouch, and looked at the Widow, and at the somber ghost behind her, and at the column of ink and time blazing up from the hidden shelves."
+          "text": "Then, quite deliberately, he sat down."
         },
         {
           "id": 115,
           "paragraph_id": 64,
-          "text": "Then, quite deliberately, he sat down."
+          "text": "He sat on the frozen foam with one knee drawn up and his arm resting across it, in the middle of the undefinition, ringed by Immensity on every side."
         },
         {
           "id": 116,
           "paragraph_id": 65,
-          "text": "He sat on the frozen foam with one knee drawn up and his arm resting across it, in the middle of the undefinition, ringed by Immensity on every side."
-        },
-        {
-          "id": 117,
-          "paragraph_id": 66,
           "text": "Five Immense Ones regrouping above him."
         },
         {
-          "id": 118,
-          "paragraph_id": 66,
+          "id": 117,
+          "paragraph_id": 65,
           "text": "A Matriarch with a weapon of time in her hand."
         },
         {
-          "id": 119,
-          "paragraph_id": 66,
+          "id": 118,
+          "paragraph_id": 65,
           "text": "A Widow whose cold could still a storm."
+        },
+        {
+          "id": 119,
+          "paragraph_id": 65,
+          "text": "His Chorus of stolen Roots towering silent at his back."
         },
         {
           "id": 120,
           "paragraph_id": 66,
-          "text": "His Chorus of stolen Roots towering silent at his back."
+          "text": "And he looked entirely at ease."
         },
         {
           "id": 121,
           "paragraph_id": 67,
-          "text": "And he looked entirely at ease."
+          "text": "\"Everyone thinks the door is sealed,\" THE Sealed One said."
         },
         {
           "id": 122,
           "paragraph_id": 68,
-          "text": "\"Everyone thinks the door is sealed,\" THE Sealed One said."
+          "text": "His voice was calm."
         },
         {
           "id": 123,
           "paragraph_id": 69,
-          "text": "His voice was calm."
-        },
-        {
-          "id": 124,
-          "paragraph_id": 70,
           "text": "\"The Long Night closed it."
         },
         {
-          "id": 125,
-          "paragraph_id": 70,
+          "id": 124,
+          "paragraph_id": 69,
           "text": "The First Frost swore it."
         },
         {
-          "id": 126,
-          "paragraph_id": 70,
+          "id": 125,
+          "paragraph_id": 69,
           "text": "The Counting presses on every Root in existence, and every Immense One I have ever met stands in front of that door and weeps, or waits, or schemes."
         },
         {
-          "id": 127,
-          "paragraph_id": 70,
+          "id": 126,
+          "paragraph_id": 69,
           "text": "They think it is the shape of everything."
+        },
+        {
+          "id": 127,
+          "paragraph_id": 69,
+          "text": "The great wall at the end of everything.\""
         },
         {
           "id": 128,
           "paragraph_id": 70,
-          "text": "The great wall at the end of everything.\""
+          "text": "He tipped his head back and looked up at the red sky."
         },
         {
           "id": 129,
           "paragraph_id": 71,
-          "text": "He tipped his head back and looked up at the red sky."
-        },
-        {
-          "id": 130,
-          "paragraph_id": 72,
           "text": "\"I have watched them."
         },
         {
-          "id": 131,
-          "paragraph_id": 72,
+          "id": 130,
+          "paragraph_id": 71,
           "text": "A great many of them, through a great many eyes."
         },
         {
-          "id": 132,
-          "paragraph_id": 72,
+          "id": 131,
+          "paragraph_id": 71,
           "text": "Every one of them sees the door, and sees themselves, and sees nothing else."
         },
         {
-          "id": 133,
-          "paragraph_id": 72,
+          "id": 132,
+          "paragraph_id": 71,
           "text": "That is the trouble with being born whole."
+        },
+        {
+          "id": 133,
+          "paragraph_id": 71,
+          "text": "You spend your whole existence trying to stay that way.\""
         },
         {
           "id": 134,
           "paragraph_id": 72,
-          "text": "You spend your whole existence trying to stay that way.\""
+          "text": "He smiled."
         },
         {
           "id": 135,
           "paragraph_id": 73,
-          "text": "He smiled."
-        },
-        {
-          "id": 136,
-          "paragraph_id": 74,
           "text": "\"I was never whole."
         },
         {
-          "id": 137,
-          "paragraph_id": 74,
+          "id": 136,
+          "paragraph_id": 73,
           "text": "I was riven."
         },
         {
-          "id": 138,
-          "paragraph_id": 74,
+          "id": 137,
+          "paragraph_id": 73,
           "text": "Torn into pieces and scattered across more vessels than I can count."
         },
         {
-          "id": 139,
-          "paragraph_id": 74,
+          "id": 138,
+          "paragraph_id": 73,
           "text": "And when you are already in pieces, there is nothing a door can keep out of you."
         },
         {
-          "id": 140,
-          "paragraph_id": 74,
+          "id": 139,
+          "paragraph_id": 73,
           "text": "You simply go around it."
         },
         {
-          "id": 141,
-          "paragraph_id": 74,
+          "id": 140,
+          "paragraph_id": 73,
           "text": "You go through the walls."
+        },
+        {
+          "id": 141,
+          "paragraph_id": 73,
+          "text": "You eat whatever stands on the other side.\""
         },
         {
           "id": 142,
           "paragraph_id": 74,
-          "text": "You eat whatever stands on the other side.\""
+          "text": "The Chorus behind him hummed."
         },
         {
           "id": 143,
           "paragraph_id": 75,
-          "text": "The Chorus behind him hummed."
+          "text": "\"No door,\" THE Sealed One said softly, \"was ever sealed for me.\""
         },
         {
           "id": 144,
           "paragraph_id": 76,
-          "text": "\"No door,\" THE Sealed One said softly, \"was ever sealed for me.\""
+          "text": "He looked across the undefinition, at the Widow, at the ghost, at the blazing column of ink and time, and his gold eyes shone with something very old and very hungry."
         },
         {
           "id": 145,
           "paragraph_id": 77,
-          "text": "He looked across the undefinition, at the Widow, at the ghost, at the blazing column of ink and time, and his gold eyes shone with something very old and very hungry."
+          "text": "\"After all,\" he said,\"I have access to IT.\""
         },
         {
           "id": 146,
           "paragraph_id": 78,
-          "text": "\"After all,\" he said,\"I have access to IT.\""
-        },
-        {
-          "id": 147,
-          "paragraph_id": 79,
           "text": "HUUM!"
         }
       ],
-      "word_count": 1521
+      "word_count": 1520
     },
     {
       "chapter_index": 5833,
@@ -2948,7 +2936,6 @@
         "\"Go on, then.\" Bob waved a tentacle at him.",
         "\"I’ll be here...\"",
         "Noah stood, brushed off his cloud, and stepped out of the dream.",
-        "—",
         "Poona was waiting for him at the edge of his Domain, bouncing so hard her golden body kept leaving the grss.",
         "\"Hold on to me, Master,\" she said. \"The Lecture Hall can’t be reached by just anyone. Only a recognized Immensity of the Legacy can find the way. Even Progeny who have lived on the mountains for Ages have never seen it.\"",
         "Noah laid a hand on her small round back.",
@@ -3008,7 +2995,6 @@
         "\"We ask nothing of you,\" Moriarty said. \"Only this. Keep the hope alive across this winter.The hope that one day, we will be more than Those Who Remain.\"",
         "He looked up, at the endless rings, at every throne, at every Immense One sitting on them. \"In all our existences, we do not only want to remain.\"",
         "...!",
-        "—",
         "The board behind the lectern began to glow!",
         "Its faded gold writing brightened, line by line, and from the center of the half-written lesson, something bloomed.",
         "An orb!",
@@ -3129,965 +3115,955 @@
         {
           "id": 15,
           "paragraph_id": 12,
-          "text": "—"
+          "text": "Poona was waiting for him at the edge of his Domain, bouncing so hard her golden body kept leaving the grss."
         },
         {
           "id": 16,
           "paragraph_id": 13,
-          "text": "Poona was waiting for him at the edge of his Domain, bouncing so hard her golden body kept leaving the grss."
-        },
-        {
-          "id": 17,
-          "paragraph_id": 14,
           "text": "\"Hold on to me, Master,\" she said."
         },
         {
-          "id": 18,
-          "paragraph_id": 14,
+          "id": 17,
+          "paragraph_id": 13,
           "text": "\"The Lecture Hall can’t be reached by just anyone."
         },
         {
-          "id": 19,
-          "paragraph_id": 14,
+          "id": 18,
+          "paragraph_id": 13,
           "text": "Only a recognized Immensity of the Legacy can find the way."
+        },
+        {
+          "id": 19,
+          "paragraph_id": 13,
+          "text": "Even Progeny who have lived on the mountains for Ages have never seen it.\""
         },
         {
           "id": 20,
           "paragraph_id": 14,
-          "text": "Even Progeny who have lived on the mountains for Ages have never seen it.\""
+          "text": "Noah laid a hand on her small round back."
         },
         {
           "id": 21,
           "paragraph_id": 15,
-          "text": "Noah laid a hand on her small round back."
+          "text": "She took them through!"
         },
         {
           "id": 22,
           "paragraph_id": 16,
-          "text": "She took them through!"
+          "text": "It felt very different from stepping through a dream."
         },
         {
           "id": 23,
-          "paragraph_id": 17,
-          "text": "It felt very different from stepping through a dream."
+          "paragraph_id": 16,
+          "text": "Poona’s Dream Immensity opened, warm and smelling faintly of honey, and pulled them sideways out of the Domain and into the weavings of existence itself."
         },
         {
           "id": 24,
           "paragraph_id": 17,
-          "text": "Poona’s Dream Immensity opened, warm and smelling faintly of honey, and pulled them sideways out of the Domain and into the weavings of existence itself."
-        },
-        {
-          "id": 25,
-          "paragraph_id": 18,
           "text": "Noah felt them pass between threads hidden from him until now, strands of Lucy’s old work running through the Legacy like hidden corridors behind the walls of a great house."
         },
         {
-          "id": 26,
-          "paragraph_id": 18,
+          "id": 25,
+          "paragraph_id": 17,
           "text": "Some of the threads were older than anything he had ever touched."
+        },
+        {
+          "id": 26,
+          "paragraph_id": 17,
+          "text": "Some of them hummed when Poona passed, and let her through, as a door knows its own key."
         },
         {
           "id": 27,
           "paragraph_id": 18,
-          "text": "Some of them hummed when Poona passed, and let her through, as a door knows its own key."
+          "text": "Whatever Lucy had built, it still recognized its people."
         },
         {
           "id": 28,
           "paragraph_id": 19,
-          "text": "Whatever Lucy had built, it still recognized its people."
+          "text": "Then the threads opened, and they stepped out into light!"
         },
         {
           "id": 29,
           "paragraph_id": 20,
-          "text": "Then the threads opened, and they stepped out into light!"
+          "text": "They stood at the center of a ring!"
         },
         {
           "id": 30,
           "paragraph_id": 21,
-          "text": "They stood at the center of a ring!"
-        },
-        {
-          "id": 31,
-          "paragraph_id": 22,
           "text": "It was obsidian, veined with bright gold, laid flat beneath their feet like the floor of a stage."
         },
         {
-          "id": 32,
-          "paragraph_id": 22,
+          "id": 31,
+          "paragraph_id": 21,
           "text": "Around it ran another ring, wider, and around that another, and another, each one rising a little higher than the last, ring after ring after ring of obsidian and gold stretching out and up and away until their end lay beyond his sight."
+        },
+        {
+          "id": 32,
+          "paragraph_id": 21,
+          "text": "They simply kept going, climbing into a distance that had no ceiling."
         },
         {
           "id": 33,
           "paragraph_id": 22,
-          "text": "They simply kept going, climbing into a distance that had no ceiling."
+          "text": "An amphitheater."
         },
         {
           "id": 34,
-          "paragraph_id": 23,
-          "text": "An amphitheater."
+          "paragraph_id": 22,
+          "text": "The largest one he had ever seen, or would likely ever see."
         },
         {
           "id": 35,
           "paragraph_id": 23,
-          "text": "The largest one he had ever seen, or would likely ever see."
+          "text": "And on every ring, there were thrones!"
         },
         {
           "id": 36,
           "paragraph_id": 24,
-          "text": "And on every ring, there were thrones!"
-        },
-        {
-          "id": 37,
-          "paragraph_id": 25,
           "text": "Some were carved from stone and some grown from living wood."
         },
         {
-          "id": 38,
-          "paragraph_id": 25,
+          "id": 37,
+          "paragraph_id": 24,
           "text": "Some were made of light, or water, or bone, or things he had no name for."
+        },
+        {
+          "id": 38,
+          "paragraph_id": 24,
+          "text": "They stood on the tiers in a great curving sweep, and on them, or standing beside them, or drifting above them, were the Immense Ones of THE Legacy of THE Acharya of Immensity."
         },
         {
           "id": 39,
           "paragraph_id": 25,
-          "text": "They stood on the tiers in a great curving sweep, and on them, or standing beside them, or drifting above them, were the Immense Ones of THE Legacy of THE Acharya of Immensity."
+          "text": "More than a hundred of them!"
         },
         {
           "id": 40,
           "paragraph_id": 26,
-          "text": "More than a hundred of them!"
+          "text": "Noah’s gold eyes moved across them."
         },
         {
           "id": 41,
           "paragraph_id": 27,
-          "text": "Noah’s gold eyes moved across them."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 28,
           "text": "Most of them sat Established, their Profundity deep but readable, their bottoms glimpsed far below."
         },
         {
-          "id": 43,
-          "paragraph_id": 28,
+          "id": 42,
+          "paragraph_id": 27,
           "text": "Some sat Ancient, so deep his eyes slid off them."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 27,
+          "text": "A handful, newly risen in the last few Ages, still burned bright and loud."
         },
         {
           "id": 44,
           "paragraph_id": 28,
-          "text": "A handful, newly risen in the last few Ages, still burned bright and loud."
+          "text": "He recognized a few from the war on the Thinker’s mountain: THE Ashen Cantor with his cinders, THE Keeper of the Unbroken Vow with his chain of oaths, THE Lantern of the Last Shore with his lamp."
         },
         {
           "id": 45,
-          "paragraph_id": 29,
-          "text": "He recognized a few from the war on the Thinker’s mountain: THE Ashen Cantor with his cinders, THE Keeper of the Unbroken Vow with his chain of oaths, THE Lantern of the Last Shore with his lamp."
+          "paragraph_id": 28,
+          "text": "The rest were strangers."
         },
         {
           "id": 46,
           "paragraph_id": 29,
-          "text": "The rest were strangers."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 30,
           "text": "A woman made of still grey water, her throne a lake standing on its end."
         },
         {
-          "id": 48,
-          "paragraph_id": 30,
+          "id": 47,
+          "paragraph_id": 29,
           "text": "A tall thing of rust-red feathers, every feather a tongue of quiet flame."
         },
         {
-          "id": 49,
-          "paragraph_id": 30,
+          "id": 48,
+          "paragraph_id": 29,
           "text": "An old man whose beard was a watterfall of tiny written letters, scrolling slowly down to the floor."
+        },
+        {
+          "id": 49,
+          "paragraph_id": 29,
+          "text": "A pair of twins joined at the shoulder, one laughing, one weeping, sharing a single throne carved with a single word."
         },
         {
           "id": 50,
           "paragraph_id": 30,
-          "text": "A pair of twins joined at the shoulder, one laughing, one weeping, sharing a single throne carved with a single word."
+          "text": "Every one of them was looking at him!"
         },
         {
           "id": 51,
           "paragraph_id": 31,
-          "text": "Every one of them was looking at him!"
-        },
-        {
-          "id": 52,
-          "paragraph_id": 32,
           "text": "The pressure of it was enormous."
         },
         {
-          "id": 53,
-          "paragraph_id": 32,
+          "id": 52,
+          "paragraph_id": 31,
           "text": "More than a hundred Immensities, all turned on one man standing at the bottom of their bowl."
+        },
+        {
+          "id": 53,
+          "paragraph_id": 31,
+          "text": "Noah let it press, and stood straight under it."
         },
         {
           "id": 54,
           "paragraph_id": 32,
-          "text": "Noah let it press, and stood straight under it."
+          "text": "Then he looked at the center."
         },
         {
           "id": 55,
           "paragraph_id": 33,
-          "text": "Then he looked at the center."
+          "text": "The innermost tiers held the oldest thrones, plain and close to the floor, and one of them was taken by Sir Moriarty, his spectacles mended, his long coat finally clean of green, his tentacles resting on the arms of his chair."
         },
         {
           "id": 56,
           "paragraph_id": 34,
-          "text": "The innermost tiers held the oldest thrones, plain and close to the floor, and one of them was taken by Sir Moriarty, his spectacles mended, his long coat finally clean of green, his tentacles resting on the arms of his chair."
+          "text": "Beside him, on a throne of dark stone that seemed to be part of a mountain, knelt THE Thinker at the End of Existence, his beads clicking slowly through his great fingers."
         },
         {
           "id": 57,
           "paragraph_id": 35,
-          "text": "Beside him, on a throne of dark stone that seemed to be part of a mountain, knelt THE Thinker at the End of Existence, his beads clicking slowly through his great fingers."
+          "text": "And beside the Thinker, perched on the arm of his throne with her legs swinging, sat Ling."
         },
         {
           "id": 58,
           "paragraph_id": 36,
-          "text": "And beside the Thinker, perched on the arm of his throne with her legs swinging, sat Ling."
+          "text": "She caught Noah’s eye and grinned!"
         },
         {
           "id": 59,
           "paragraph_id": 37,
-          "text": "She caught Noah’s eye and grinned!"
-        },
-        {
-          "id": 60,
-          "paragraph_id": 38,
           "text": "At the very front of the amphitheater, facing all of it, stood a lectern."
         },
         {
-          "id": 61,
-          "paragraph_id": 38,
+          "id": 60,
+          "paragraph_id": 37,
           "text": "Plain, worn, carved of pale wood gone dark with handling."
         },
         {
-          "id": 62,
-          "paragraph_id": 38,
+          "id": 61,
+          "paragraph_id": 37,
           "text": "Behind it hung a broad dark board of obsidian, and across that board, in faded gold, ran lines of writing too old for Noah to read."
         },
         {
-          "id": 63,
-          "paragraph_id": 38,
+          "id": 62,
+          "paragraph_id": 37,
           "text": "A lesson, left half-written."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 37,
+          "text": "The last line trailed off in the middle of a word!"
         },
         {
           "id": 64,
           "paragraph_id": 38,
-          "text": "The last line trailed off in the middle of a word!"
+          "text": "The lectern stood empty."
         },
         {
           "id": 65,
           "paragraph_id": 39,
-          "text": "The lectern stood empty."
+          "text": "In front of it, set a little apart from all the others on the innermost ring, sat a single empty chair."
         },
         {
           "id": 66,
           "paragraph_id": 40,
-          "text": "In front of it, set a little apart from all the others on the innermost ring, sat a single empty chair."
+          "text": "Noah looked at that chair for a long moment."
         },
         {
           "id": 67,
           "paragraph_id": 41,
-          "text": "Noah looked at that chair for a long moment."
+          "text": "Then Moriarty rose!"
         },
         {
           "id": 68,
           "paragraph_id": 42,
-          "text": "Then Moriarty rose!"
+          "text": "He stayed beside his own throne, away from the lectern, an old octopus in a long coat, and looked down at Noah with his crimson eyes, and the whole amphitheater went quiet."
         },
         {
           "id": 69,
           "paragraph_id": 43,
-          "text": "He stayed beside his own throne, away from the lectern, an old octopus in a long coat, and looked down at Noah with his crimson eyes, and the whole amphitheater went quiet."
+          "text": "\"Do you know what we are called?\" Moriarty asked."
         },
         {
           "id": 70,
           "paragraph_id": 44,
-          "text": "\"Do you know what we are called?\" Moriarty asked."
+          "text": "His voice was mild."
         },
         {
           "id": 71,
-          "paragraph_id": 45,
-          "text": "His voice was mild."
+          "paragraph_id": 44,
+          "text": "It carried to every ring without effort."
         },
         {
           "id": 72,
           "paragraph_id": 45,
-          "text": "It carried to every ring without effort."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 46,
           "text": "\"Those Who Remain."
         },
         {
-          "id": 74,
-          "paragraph_id": 46,
+          "id": 73,
+          "paragraph_id": 45,
           "text": "Many of us do not like the name."
         },
         {
-          "id": 75,
-          "paragraph_id": 46,
+          "id": 74,
+          "paragraph_id": 45,
           "text": "Many of us would rather not think about it."
+        },
+        {
+          "id": 75,
+          "paragraph_id": 45,
+          "text": "But it is the truth, and we are scholars here, so we will start with the truth.\""
         },
         {
           "id": 76,
           "paragraph_id": 46,
-          "text": "But it is the truth, and we are scholars here, so we will start with the truth.\""
+          "text": "He looked up at the rings above him, at the hundred thrones."
         },
         {
           "id": 77,
           "paragraph_id": 47,
-          "text": "He looked up at the rings above him, at the hundred thrones."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 48,
           "text": "\"Existence is very old, Osmont."
         },
         {
-          "id": 79,
-          "paragraph_id": 48,
+          "id": 78,
+          "paragraph_id": 47,
           "text": "Older than any of us."
         },
         {
-          "id": 80,
-          "paragraph_id": 48,
+          "id": 79,
+          "paragraph_id": 47,
           "text": "It has turned over more times than any of us can count."
         },
         {
-          "id": 81,
-          "paragraph_id": 48,
+          "id": 80,
+          "paragraph_id": 47,
           "text": "Cycles upon cycles."
         },
         {
-          "id": 82,
-          "paragraph_id": 48,
+          "id": 81,
+          "paragraph_id": 47,
           "text": "Ages upon Ages."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 47,
+          "text": "And in every one of those turnings, countless beings rose, and reached, and tried to pass through the doors that would carry them further.\""
         },
         {
           "id": 83,
           "paragraph_id": 48,
-          "text": "And in every one of those turnings, countless beings rose, and reached, and tried to pass through the doors that would carry them further.\""
-        },
-        {
-          "id": 84,
-          "paragraph_id": 49,
           "text": "His tentacles shifted on the arms of his throne."
         },
         {
-          "id": 85,
-          "paragraph_id": 49,
+          "id": 84,
+          "paragraph_id": 48,
           "text": "\"Most of them failed to make it."
         },
         {
-          "id": 86,
-          "paragraph_id": 49,
+          "id": 85,
+          "paragraph_id": 48,
           "text": "They went on, or they ended, or they became something we could no longer see."
         },
         {
-          "id": 87,
-          "paragraph_id": 49,
+          "id": 86,
+          "paragraph_id": 48,
           "text": "But we did not go on."
         },
         {
-          "id": 88,
-          "paragraph_id": 49,
+          "id": 87,
+          "paragraph_id": 48,
           "text": "We did not end."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 48,
+          "text": "We stayed.\""
         },
         {
           "id": 89,
           "paragraph_id": 49,
-          "text": "We stayed.\""
+          "text": "He turned his crimson eyes back to Noah."
         },
         {
           "id": 90,
           "paragraph_id": 50,
-          "text": "He turned his crimson eyes back to Noah."
+          "text": "\"We remained."
         },
         {
           "id": 91,
-          "paragraph_id": 51,
-          "text": "\"We remained."
+          "paragraph_id": 50,
+          "text": "That is what the name means.We are the ones who were left behind.\""
         },
         {
           "id": 92,
           "paragraph_id": 51,
-          "text": "That is what the name means.We are the ones who were left behind.\""
+          "text": "Somewhere high in the rings, the weeping twin made a small sound."
         },
         {
           "id": 93,
           "paragraph_id": 52,
-          "text": "Somewhere high in the rings, the weeping twin made a small sound."
+          "text": "\"Consider how strange that is,\" Moriarty went on, and now there was something almost like wonder in his voice."
         },
         {
           "id": 94,
           "paragraph_id": 53,
-          "text": "\"Consider how strange that is,\" Moriarty went on, and now there was something almost like wonder in his voice."
-        },
-        {
-          "id": 95,
-          "paragraph_id": 54,
           "text": "\"Every particle in us...in you, every thread of your existence, was made from something that came before."
         },
         {
-          "id": 96,
-          "paragraph_id": 54,
+          "id": 95,
+          "paragraph_id": 53,
           "text": "Old weavings, broken down and built again."
         },
         {
-          "id": 97,
-          "paragraph_id": 54,
+          "id": 96,
+          "paragraph_id": 53,
           "text": "You are the ash of older authorities and Dimensionalities."
         },
         {
-          "id": 98,
-          "paragraph_id": 54,
+          "id": 97,
+          "paragraph_id": 53,
           "text": "So are we all."
         },
         {
-          "id": 99,
-          "paragraph_id": 54,
+          "id": 98,
+          "paragraph_id": 53,
           "text": "And we who remain have watched it happen."
         },
         {
-          "id": 100,
-          "paragraph_id": 54,
+          "id": 99,
+          "paragraph_id": 53,
           "text": "We have watched whole cycles of existence rise and fall and rise again."
+        },
+        {
+          "id": 100,
+          "paragraph_id": 53,
+          "text": "We have stood on the shore and watched everything we knew wash out and come back changed.\""
         },
         {
           "id": 101,
           "paragraph_id": 54,
-          "text": "We have stood on the shore and watched everything we knew wash out and come back changed.\""
+          "text": "He was quiet for a moment."
         },
         {
           "id": 102,
           "paragraph_id": 55,
-          "text": "He was quiet for a moment."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 56,
           "text": "\"We have lived a very long time."
         },
         {
-          "id": 104,
-          "paragraph_id": 56,
+          "id": 103,
+          "paragraph_id": 55,
           "text": "And we know, better than anyone, the ones who did not remain."
         },
         {
-          "id": 105,
-          "paragraph_id": 56,
+          "id": 104,
+          "paragraph_id": 55,
           "text": "We remember their names."
         },
         {
-          "id": 106,
-          "paragraph_id": 56,
+          "id": 105,
+          "paragraph_id": 55,
           "text": "Some of them were our teachers."
+        },
+        {
+          "id": 106,
+          "paragraph_id": 55,
+          "text": "Some of them were our friends.\""
         },
         {
           "id": 107,
           "paragraph_id": 56,
-          "text": "Some of them were our friends.\""
-        },
-        {
-          "id": 108,
-          "paragraph_id": 57,
           "text": "His eyes went, very briefly, to the empty chair before the lectern."
         },
         {
-          "id": 109,
-          "paragraph_id": 57,
+          "id": 108,
+          "paragraph_id": 56,
           "text": "\"Some of them simply had a quality the rest of us lacked."
+        },
+        {
+          "id": 109,
+          "paragraph_id": 56,
+          "text": "Something in them that the doors recognized, and we have never understood.\""
         },
         {
           "id": 110,
           "paragraph_id": 57,
-          "text": "Something in them that the doors recognized, and we have never understood.\""
+          "text": "He spread his tentacles."
         },
         {
           "id": 111,
           "paragraph_id": 58,
-          "text": "He spread his tentacles."
-        },
-        {
-          "id": 112,
-          "paragraph_id": 59,
           "text": "\"Every one of us here is still fighting."
         },
         {
-          "id": 113,
-          "paragraph_id": 59,
+          "id": 112,
+          "paragraph_id": 58,
           "text": "Every being in this hall is still reaching."
         },
         {
-          "id": 114,
-          "paragraph_id": 59,
+          "id": 113,
+          "paragraph_id": 58,
           "text": "Still studying."
         },
         {
-          "id": 115,
-          "paragraph_id": 59,
+          "id": 114,
+          "paragraph_id": 58,
           "text": "Still trying."
         },
         {
-          "id": 116,
-          "paragraph_id": 59,
+          "id": 115,
+          "paragraph_id": 58,
           "text": "But we know, too, that the doors are nearly impossible for us."
         },
         {
-          "id": 117,
-          "paragraph_id": 59,
+          "id": 116,
+          "paragraph_id": 58,
           "text": "We have tried."
+        },
+        {
+          "id": 117,
+          "paragraph_id": 58,
+          "text": "Ages upon Ages, we have tried, and here we sit.\""
         },
         {
           "id": 118,
           "paragraph_id": 59,
-          "text": "Ages upon Ages, we have tried, and here we sit.\""
+          "text": "He let out a slow breath."
         },
         {
           "id": 119,
           "paragraph_id": 60,
-          "text": "He let out a slow breath."
-        },
-        {
-          "id": 120,
-          "paragraph_id": 61,
           "text": "\"Lucy knew that."
         },
         {
-          "id": 121,
-          "paragraph_id": 61,
+          "id": 120,
+          "paragraph_id": 60,
           "text": "Before she left, she left us directions."
         },
         {
-          "id": 122,
-          "paragraph_id": 61,
+          "id": 121,
+          "paragraph_id": 60,
           "text": "And she left us something more than directions."
+        },
+        {
+          "id": 122,
+          "paragraph_id": 60,
+          "text": "She left us hope.\" His voice softened"
         },
         {
           "id": 123,
           "paragraph_id": 61,
-          "text": "She left us hope.\" His voice softened"
+          "text": "\"Her words were simple."
         },
         {
           "id": 124,
-          "paragraph_id": 62,
-          "text": "\"Her words were simple."
+          "paragraph_id": 61,
+          "text": "Sometimes, existence only needs the right key, to open a certain door.\""
         },
         {
           "id": 125,
           "paragraph_id": 62,
-          "text": "Sometimes, existence only needs the right key, to open a certain door.\""
+          "text": "The amphitheater was utterly silent."
         },
         {
           "id": 126,
           "paragraph_id": 63,
-          "text": "The amphitheater was utterly silent."
-        },
-        {
-          "id": 127,
-          "paragraph_id": 64,
           "text": "\"You may be that key,\" Moriarty said."
         },
         {
-          "id": 128,
-          "paragraph_id": 64,
+          "id": 127,
+          "paragraph_id": 63,
           "text": "\"You may not be."
         },
         {
-          "id": 129,
-          "paragraph_id": 64,
+          "id": 128,
+          "paragraph_id": 63,
           "text": "None of us can say."
+        },
+        {
+          "id": 129,
+          "paragraph_id": 63,
+          "text": "Not even him.\""
         },
         {
           "id": 130,
           "paragraph_id": 64,
-          "text": "Not even him.\""
-        },
-        {
-          "id": 131,
-          "paragraph_id": 65,
           "text": "He nodded toward the Thinker, who kept his eyes on his beads."
         },
         {
-          "id": 132,
-          "paragraph_id": 65,
+          "id": 131,
+          "paragraph_id": 64,
           "text": "\"But we know our own Legacy."
         },
         {
-          "id": 133,
-          "paragraph_id": 65,
+          "id": 132,
+          "paragraph_id": 64,
           "text": "We know what Lucy built, and what she asked of us."
+        },
+        {
+          "id": 133,
+          "paragraph_id": 64,
+          "text": "And so we take the gamble, whether right or wrong.\""
         },
         {
           "id": 134,
           "paragraph_id": 65,
-          "text": "And so we take the gamble, whether right or wrong.\""
+          "text": "He straightened."
         },
         {
           "id": 135,
           "paragraph_id": 66,
-          "text": "He straightened."
+          "text": "\"THE Council of Immense Ones of THE Legacy of THE Acharya of Immensity has decided.We enact you, Noah Osmont, as THE Legacy’s Son.\""
         },
         {
           "id": 136,
           "paragraph_id": 67,
-          "text": "\"THE Council of Immense Ones of THE Legacy of THE Acharya of Immensity has decided.We enact you, Noah Osmont, as THE Legacy’s Son.\""
+          "text": "A murmur ran through the rings, low and heavy!"
         },
         {
           "id": 137,
           "paragraph_id": 68,
-          "text": "A murmur ran through the rings, low and heavy!"
-        },
-        {
-          "id": 138,
-          "paragraph_id": 69,
           "text": "\"We ask nothing of you,\" Moriarty said."
         },
         {
-          "id": 139,
-          "paragraph_id": 69,
+          "id": 138,
+          "paragraph_id": 68,
           "text": "\"Only this."
+        },
+        {
+          "id": 139,
+          "paragraph_id": 68,
+          "text": "Keep the hope alive across this winter.The hope that one day, we will be more than Those Who Remain.\""
         },
         {
           "id": 140,
           "paragraph_id": 69,
-          "text": "Keep the hope alive across this winter.The hope that one day, we will be more than Those Who Remain.\""
+          "text": "He looked up, at the endless rings, at every throne, at every Immense One sitting on them."
         },
         {
           "id": 141,
-          "paragraph_id": 70,
-          "text": "He looked up, at the endless rings, at every throne, at every Immense One sitting on them."
+          "paragraph_id": 69,
+          "text": "\"In all our existences, we do not only want to remain.\""
         },
         {
           "id": 142,
           "paragraph_id": 70,
-          "text": "\"In all our existences, we do not only want to remain.\""
+          "text": "...!"
         },
         {
           "id": 143,
           "paragraph_id": 71,
-          "text": "...!"
+          "text": "The board behind the lectern began to glow!"
         },
         {
           "id": 144,
           "paragraph_id": 72,
-          "text": "—"
+          "text": "Its faded gold writing brightened, line by line, and from the center of the half-written lesson, something bloomed."
         },
         {
           "id": 145,
           "paragraph_id": 73,
-          "text": "The board behind the lectern began to glow!"
+          "text": "An orb!"
         },
         {
           "id": 146,
           "paragraph_id": 74,
-          "text": "Its faded gold writing brightened, line by line, and from the center of the half-written lesson, something bloomed."
-        },
-        {
-          "id": 147,
-          "paragraph_id": 75,
-          "text": "An orb!"
-        },
-        {
-          "id": 148,
-          "paragraph_id": 76,
           "text": "It swelled out of the obsidian board like a drop of ink gathering on the tip of a pen, slowly, the gold writing peeling off the board and drawing inward as it formed."
         },
         {
-          "id": 149,
-          "paragraph_id": 76,
+          "id": 147,
+          "paragraph_id": 74,
           "text": "It grew round and dark and perfectly smooth, obsidian clear enough to look into, and inside it, the gold writing kept moving."
         },
         {
-          "id": 150,
-          "paragraph_id": 77,
+          "id": 148,
+          "paragraph_id": 75,
           "text": "Lines of Lucy’s script turned within the orb in slow rings, ring inside ring, every word glowing as it passed, circling and circling like the tiers of the very amphitheater it had been born in."
         },
         {
-          "id": 151,
-          "paragraph_id": 77,
+          "id": 149,
+          "paragraph_id": 75,
           "text": "Faint gold veins ran across its surface and pulsed, as though something beneath them breathed."
         },
         {
-          "id": 152,
-          "paragraph_id": 78,
+          "id": 150,
+          "paragraph_id": 76,
           "text": "At its very center, cradled by all those turning rings, hung a tiny door."
         },
         {
-          "id": 153,
-          "paragraph_id": 78,
+          "id": 151,
+          "paragraph_id": 76,
           "text": "No larger than a thumbnail."
+        },
+        {
+          "id": 152,
+          "paragraph_id": 76,
+          "text": "Turning slowly in place."
+        },
+        {
+          "id": 153,
+          "paragraph_id": 77,
+          "text": "The orb came free of the board and floated down through the air of the amphitheater, past the rings, past the thrones, down toward the center of the bowl, toward Noah."
         },
         {
           "id": 154,
           "paragraph_id": 78,
-          "text": "Turning slowly in place."
+          "text": "It stopped in front of him, at the height of his heart, humming."
         },
         {
           "id": 155,
           "paragraph_id": 79,
-          "text": "The orb came free of the board and floated down through the air of the amphitheater, past the rings, past the thrones, down toward the center of the bowl, toward Noah."
-        },
-        {
-          "id": 156,
-          "paragraph_id": 80,
-          "text": "It stopped in front of him, at the height of his heart, humming."
-        },
-        {
-          "id": 157,
-          "paragraph_id": 81,
           "text": "\"Lucy left this behind,\" Moriarty said quietly, \"for the one who would inherit the distinction of THE Legacy’s Son."
         },
         {
-          "id": 158,
-          "paragraph_id": 81,
+          "id": 156,
+          "paragraph_id": 79,
           "text": "None of us have ever held it."
         },
         {
-          "id": 159,
-          "paragraph_id": 81,
+          "id": 157,
+          "paragraph_id": 79,
           "text": "None of us were meant to.\""
         },
         {
-          "id": 160,
-          "paragraph_id": 82,
+          "id": 158,
+          "paragraph_id": 80,
           "text": "His crimson eyes met Noah’s."
+        },
+        {
+          "id": 159,
+          "paragraph_id": 80,
+          "text": "\"Will you take it on?\""
+        },
+        {
+          "id": 160,
+          "paragraph_id": 81,
+          "text": "Noah looked at the orb."
         },
         {
           "id": 161,
           "paragraph_id": 82,
-          "text": "\"Will you take it on?\""
-        },
-        {
-          "id": 162,
-          "paragraph_id": 83,
-          "text": "Noah looked at the orb."
-        },
-        {
-          "id": 163,
-          "paragraph_id": 84,
           "text": "He looked past it, at the empty chair."
         },
         {
-          "id": 164,
-          "paragraph_id": 84,
+          "id": 162,
+          "paragraph_id": 82,
           "text": "At the half-written lesson."
+        },
+        {
+          "id": 163,
+          "paragraph_id": 82,
+          "text": "At a hundred Immense Ones who had sat in this bowl for longer than his whole species had existed, waiting for someone they had yet to name."
+        },
+        {
+          "id": 164,
+          "paragraph_id": 83,
+          "text": "Then he reached out, and took it!"
         },
         {
           "id": 165,
           "paragraph_id": 84,
-          "text": "At a hundred Immense Ones who had sat in this bowl for longer than his whole species had existed, waiting for someone they had yet to name."
-        },
-        {
-          "id": 166,
-          "paragraph_id": 85,
-          "text": "Then he reached out, and took it!"
-        },
-        {
-          "id": 167,
-          "paragraph_id": 86,
           "text": "The orb settled into his palm as though it had always been his!"
         },
         {
-          "id": 168,
-          "paragraph_id": 86,
+          "id": 166,
+          "paragraph_id": 84,
           "text": "Its gold veins flared bright, and the rings of Lucy’s script inside it spun faster, then all at once fell still."
+        },
+        {
+          "id": 167,
+          "paragraph_id": 84,
+          "text": "And the tiny door at its center stopped turning, and faced him."
+        },
+        {
+          "id": 168,
+          "paragraph_id": 85,
+          "text": "|Relic grasped: THE Orb of Immensity.|"
         },
         {
           "id": 169,
           "paragraph_id": 86,
-          "text": "And the tiny door at its center stopped turning, and faced him."
+          "text": "|Left by Lucy, THE Acharya of Immensity, for THE Legacy’s Son.|"
         },
         {
           "id": 170,
           "paragraph_id": 87,
-          "text": "|Relic grasped: THE Orb of Immensity.|"
+          "text": "|The Legacy’s woven Immensity recognizes its bearer as its own.|"
         },
         {
           "id": 171,
           "paragraph_id": 88,
-          "text": "|Left by Lucy, THE Acharya of Immensity, for THE Legacy’s Son.|"
+          "text": "|Where the bearer walks within THE Legacy of THE Acharya of Immensity, the Legacy will answer.|"
         },
         {
           "id": 172,
           "paragraph_id": 89,
-          "text": "|The Legacy’s woven Immensity recognizes its bearer as its own.|"
+          "text": "|The writing within the orb is Lucy’s last weavings.|"
         },
         {
           "id": 173,
           "paragraph_id": 90,
-          "text": "|Where the bearer walks within THE Legacy of THE Acharya of Immensity, the Legacy will answer.|"
+          "text": "|The door at its heart has been waiting.|"
         },
         {
           "id": 174,
           "paragraph_id": 91,
-          "text": "|The writing within the orb is Lucy’s last weavings.|"
+          "text": "...!"
         },
         {
           "id": 175,
           "paragraph_id": 92,
-          "text": "|The door at its heart has been waiting.|"
+          "text": "The tiny door at the heart of the orb swung open!"
         },
         {
           "id": 176,
           "paragraph_id": 93,
-          "text": "...!"
+          "text": "Light poured out of it, obsidian and gold, and spilled down onto the floor of the amphitheater in front of Noah, and grew."
         },
         {
           "id": 177,
-          "paragraph_id": 94,
-          "text": "The tiny door at the heart of the orb swung open!"
+          "paragraph_id": 93,
+          "text": "It rose up out of the light in a single smooth motion, taller than a man, taller than a throne, a great doorway of obsidian veined with gold, standing alone at the center of the bowl with nothing behind it but more amphitheater."
         },
         {
           "id": 178,
-          "paragraph_id": 95,
-          "text": "Light poured out of it, obsidian and gold, and spilled down onto the floor of the amphitheater in front of Noah, and grew."
+          "paragraph_id": 94,
+          "text": "Through it, Noah could see only a soft, endless brightness."
         },
         {
           "id": 179,
           "paragraph_id": 95,
-          "text": "It rose up out of the light in a single smooth motion, taller than a man, taller than a throne, a great doorway of obsidian veined with gold, standing alone at the center of the bowl with nothing behind it but more amphitheater."
+          "text": "|A doorway has formed.|"
         },
         {
           "id": 180,
           "paragraph_id": 96,
-          "text": "Through it, Noah could see only a soft, endless brightness."
+          "text": "|Beyond it lies the Domain that Lucy left behind for THE Legacy’s Son.|"
         },
         {
           "id": 181,
           "paragraph_id": 97,
-          "text": "|A doorway has formed.|"
+          "text": "|No Immense One of this Legacy has entered it.|"
         },
         {
           "id": 182,
           "paragraph_id": 98,
-          "text": "|Beyond it lies the Domain that Lucy left behind for THE Legacy’s Son.|"
+          "text": "...!"
         },
         {
           "id": 183,
           "paragraph_id": 99,
-          "text": "|No Immense One of this Legacy has entered it.|"
+          "text": "Every throne in the amphitheater stirred!"
         },
         {
           "id": 184,
           "paragraph_id": 100,
-          "text": "...!"
-        },
-        {
-          "id": 185,
-          "paragraph_id": 101,
-          "text": "Every throne in the amphitheater stirred!"
-        },
-        {
-          "id": 186,
-          "paragraph_id": 102,
           "text": "Noah stood before the doorway with the orb in his hand, and turned, and looked up at them all."
         },
         {
-          "id": 187,
-          "paragraph_id": 102,
+          "id": 185,
+          "paragraph_id": 100,
           "text": "At Moriarty, his tentacles very still."
         },
         {
-          "id": 188,
-          "paragraph_id": 102,
+          "id": 186,
+          "paragraph_id": 100,
           "text": "At the Thinker, whose beads had stopped."
         },
         {
-          "id": 189,
-          "paragraph_id": 102,
+          "id": 187,
+          "paragraph_id": 100,
           "text": "At Ling, who had stopped swinging her legs."
+        },
+        {
+          "id": 188,
+          "paragraph_id": 100,
+          "text": "At a hundred Immense Ones, all of them leaning forward on their thrones."
+        },
+        {
+          "id": 189,
+          "paragraph_id": 101,
+          "text": "\"Existence is vast,\" Noah said."
         },
         {
           "id": 190,
           "paragraph_id": 102,
-          "text": "At a hundred Immense Ones, all of them leaning forward on their thrones."
-        },
-        {
-          "id": 191,
-          "paragraph_id": 103,
-          "text": "\"Existence is vast,\" Noah said."
-        },
-        {
-          "id": 192,
-          "paragraph_id": 104,
           "text": "\"Nothing in it can be promised."
         },
         {
-          "id": 193,
-          "paragraph_id": 104,
+          "id": 191,
+          "paragraph_id": 102,
           "text": "Not by me."
         },
         {
-          "id": 194,
-          "paragraph_id": 104,
+          "id": 192,
+          "paragraph_id": 102,
           "text": "Not by any of you."
+        },
+        {
+          "id": 193,
+          "paragraph_id": 102,
+          "text": "I have seen enough of it now to know that much.\" He looked at the empty chair before the lectern.\"But I... do not plan to remain.\""
+        },
+        {
+          "id": 194,
+          "paragraph_id": 103,
+          "text": "The words went up through the rings like a stone dropped into a still pool."
         },
         {
           "id": 195,
           "paragraph_id": 104,
-          "text": "I have seen enough of it now to know that much.\" He looked at the empty chair before the lectern.\"But I... do not plan to remain.\""
-        },
-        {
-          "id": 196,
-          "paragraph_id": 105,
-          "text": "The words went up through the rings like a stone dropped into a still pool."
-        },
-        {
-          "id": 197,
-          "paragraph_id": 106,
           "text": "\"And existence is cause and effect,\" Noah said."
         },
         {
-          "id": 198,
-          "paragraph_id": 106,
+          "id": 196,
+          "paragraph_id": 104,
           "text": "\"Everything that happens to me happens because of what came before."
         },
         {
-          "id": 199,
-          "paragraph_id": 106,
+          "id": 197,
+          "paragraph_id": 104,
           "text": "Those who help me...will be helped in turn."
+        },
+        {
+          "id": 198,
+          "paragraph_id": 104,
+          "text": "Cause...and effect.If I no longer remain, then neither will you.\""
+        },
+        {
+          "id": 199,
+          "paragraph_id": 105,
+          "text": "He turned back to the doorway."
         },
         {
           "id": 200,
           "paragraph_id": 106,
-          "text": "Cause...and effect.If I no longer remain, then neither will you.\""
+          "text": "\"So I will not remain.\""
         },
         {
           "id": 201,
           "paragraph_id": 107,
-          "text": "He turned back to the doorway."
+          "text": "...!"
         },
         {
           "id": 202,
           "paragraph_id": 108,
-          "text": "\"So I will not remain.\""
+          "text": "He stepped toward the obsidian doorway with Lucy’s orb in his hand."
         },
         {
           "id": 203,
           "paragraph_id": 109,
-          "text": "...!"
+          "text": "And on every throne in Lucy’s Lecture Hall, a hundred Immense Ones held their breath, and watched, and waited."
         },
         {
           "id": 204,
           "paragraph_id": 110,
-          "text": "He stepped toward the obsidian doorway with Lucy’s orb in his hand."
-        },
-        {
-          "id": 205,
-          "paragraph_id": 111,
-          "text": "And on every throne in Lucy’s Lecture Hall, a hundred Immense Ones held their breath, and watched, and waited."
-        },
-        {
-          "id": 206,
-          "paragraph_id": 112,
           "text": "What had Lucy left behind?!"
         }
       ],
-      "word_count": 2259
+      "word_count": 2257
     },
     {
       "chapter_index": 5834,
@@ -5149,9 +5125,9 @@
         "BOOM!",
         "The prompts came, and they were short.",
         "|Obtained: an Infinitesimally Small Shard of IT.|",
-        "|Details: ?????|",
-        "|Details: ?????|",
-        "|Details: ?????|",
+        "|Details: ???|",
+        "|Details: ???|",
+        "|Details: ???|",
         "...!",
         "Noah stared at the shard in his palm.",
         "A piece of IT!",
@@ -5160,7 +5136,7 @@
         "It pulsed hard, once, all the way through, as though every part of him had just heard its own name called. The Tree in his chest flared. And his eyes, his pure gold pupil-less eyes, burned. Bright. Brighter!",
         "Blazing with something between hunger and defiance, both at once, a gold fire so fierce it lit the garden row around him.",
         "He could barely hold the shard up. His arm shook under it. His fingers trembled.",
-        "And something in him said:eat it.",
+        "And something in him said: eat it.",
         "Fucking it eat bro!",
         "It skipped every step of thought. His existence wanted it, completely and instinctively, as a starving thing wants bread. So he lifted his trembling hand to his mouth.",
         "And brought his jaws down.",
@@ -5187,7 +5163,6 @@
         "One who ruled. One who wandered. One who farmed. One who died young and one who lived forever. He lived them all. Every year of them. Every season. It felt like a very long time, and also no time at all, as a whole life feels at the end of it.",
         "All of it, every life and every year, went into the shard, and wore at it, and wore at it.",
         "And the shard, very slowly, gave.",
-        "—",
         "His body settled!",
         "The spears beneath his skin sank back. The cracks in his existence sealed, one after another, and where each one closed, something new and dense and gold remained behind. His constellations drifted back into place under his skin. The halo behind his shoulders slowed, and steadied, and when it settled, there were two rings turning there, one inside the other.",
         "Noah opened his eyes!",
@@ -5583,17 +5558,17 @@
         {
           "id": 68,
           "paragraph_id": 31,
-          "text": "|Details: ?????|"
+          "text": "|Details: ???|"
         },
         {
           "id": 69,
           "paragraph_id": 32,
-          "text": "|Details: ?????|"
+          "text": "|Details: ???|"
         },
         {
           "id": 70,
           "paragraph_id": 33,
-          "text": "|Details: ?????|"
+          "text": "|Details: ???|"
         },
         {
           "id": 71,
@@ -5678,7 +5653,7 @@
         {
           "id": 87,
           "paragraph_id": 42,
-          "text": "And something in him said:eat it."
+          "text": "And something in him said: eat it."
         },
         {
           "id": 88,
@@ -5968,416 +5943,411 @@
         {
           "id": 145,
           "paragraph_id": 69,
-          "text": "—"
+          "text": "His body settled!"
         },
         {
           "id": 146,
           "paragraph_id": 70,
-          "text": "His body settled!"
-        },
-        {
-          "id": 147,
-          "paragraph_id": 71,
           "text": "The spears beneath his skin sank back."
         },
         {
-          "id": 148,
-          "paragraph_id": 71,
+          "id": 147,
+          "paragraph_id": 70,
           "text": "The cracks in his existence sealed, one after another, and where each one closed, something new and dense and gold remained behind."
         },
         {
-          "id": 149,
-          "paragraph_id": 71,
+          "id": 148,
+          "paragraph_id": 70,
           "text": "His constellations drifted back into place under his skin."
+        },
+        {
+          "id": 149,
+          "paragraph_id": 70,
+          "text": "The halo behind his shoulders slowed, and steadied, and when it settled, there were two rings turning there, one inside the other."
         },
         {
           "id": 150,
           "paragraph_id": 71,
-          "text": "The halo behind his shoulders slowed, and steadied, and when it settled, there were two rings turning there, one inside the other."
+          "text": "Noah opened his eyes!"
         },
         {
           "id": 151,
           "paragraph_id": 72,
-          "text": "Noah opened his eyes!"
+          "text": "In the gold of them, very faint, a fleck of obsidian now drifted."
         },
         {
           "id": 152,
           "paragraph_id": 73,
-          "text": "In the gold of them, very faint, a fleck of obsidian now drifted."
+          "text": "|Devoured: an Infinitesimally Small Shard of IT.|"
         },
         {
           "id": 153,
           "paragraph_id": 74,
-          "text": "|Devoured: an Infinitesimally Small Shard of IT.|"
+          "text": "|What you devoured cannot be fully understood."
         },
         {
           "id": 154,
-          "paragraph_id": 75,
-          "text": "|What you devoured cannot be fully understood."
+          "paragraph_id": 74,
+          "text": "Your existence has taken from it only what it can hold.|"
         },
         {
           "id": 155,
           "paragraph_id": 75,
-          "text": "Your existence has taken from it only what it can hold.|"
+          "text": "|Your Tree has drunk deeply.|"
         },
         {
           "id": 156,
           "paragraph_id": 76,
-          "text": "|Your Tree has drunk deeply.|"
+          "text": "|Sap risen: 100%."
         },
         {
           "id": 157,
-          "paragraph_id": 77,
-          "text": "|Sap risen: 100%."
+          "paragraph_id": 76,
+          "text": "Your Tree has grown its First Bough.|"
         },
         {
           "id": 158,
           "paragraph_id": 77,
-          "text": "Your Tree has grown its First Bough.|"
+          "text": "|A great limb spreads from your trunk, and your existence spreads with it.|"
         },
         {
           "id": 159,
           "paragraph_id": 78,
-          "text": "|A great limb spreads from your trunk, and your existence spreads with it.|"
+          "text": "|Second Ring lit."
         },
         {
           "id": 160,
-          "paragraph_id": 79,
-          "text": "|Second Ring lit."
+          "paragraph_id": 78,
+          "text": "Ring by ring, your trunk will burn brighter, until one day it blazes from root to crown.|"
         },
         {
           "id": 161,
           "paragraph_id": 79,
-          "text": "Ring by ring, your trunk will burn brighter, until one day it blazes from root to crown.|"
+          "text": "|Sap risen toward the Second Bough: 90%.|"
         },
         {
           "id": 162,
           "paragraph_id": 80,
-          "text": "|Sap risen toward the Second Bough: 90%.|"
+          "text": "...!"
         },
         {
           "id": 163,
           "paragraph_id": 81,
-          "text": "...!"
+          "text": "|Attributes, measured anew.|"
         },
         {
           "id": 164,
           "paragraph_id": 82,
-          "text": "|Attributes, measured anew.|"
+          "text": "|VERITAS: Order I.8 to Order II.6.|"
         },
         {
           "id": 165,
           "paragraph_id": 83,
-          "text": "|VERITAS: Order I.8 to Order II.6.|"
+          "text": "|PROVENANCE: Order I.9 to Order II.7.|"
         },
         {
           "id": 166,
           "paragraph_id": 84,
-          "text": "|PROVENANCE: Order I.9 to Order II.7.|"
+          "text": "|PONDUS: Order I.8 to Order II.3.|"
         },
         {
           "id": 167,
           "paragraph_id": 85,
-          "text": "|PONDUS: Order I.8 to Order II.3.|"
+          "text": "|OSMONTIAN MOIRAI: Order I.5 to Order II.0.|"
         },
         {
           "id": 168,
           "paragraph_id": 86,
-          "text": "|OSMONTIAN MOIRAI: Order I.5 to Order II.0.|"
+          "text": "|POTENTIA: Infinite.|"
         },
         {
           "id": 169,
           "paragraph_id": 87,
-          "text": "|POTENTIA: Infinite.|"
+          "text": "|Every attribute has entered the second Order."
         },
         {
           "id": 170,
-          "paragraph_id": 88,
-          "text": "|Every attribute has entered the second Order."
+          "paragraph_id": 87,
+          "text": "Your Dream now reaches across the whole domain of a Legacy.|"
         },
         {
           "id": 171,
           "paragraph_id": 88,
-          "text": "Your Dream now reaches across the whole domain of a Legacy.|"
+          "text": "...!"
         },
         {
           "id": 172,
           "paragraph_id": 89,
-          "text": "...!"
+          "text": "|Predation: from the Shard of IT, your Tree has drawn a capability.|"
         },
         {
           "id": 173,
           "paragraph_id": 90,
-          "text": "|Predation: from the Shard of IT, your Tree has drawn a capability.|"
+          "text": "|Formed: THE Keystone Dream.|"
         },
         {
           "id": 174,
           "paragraph_id": 91,
-          "text": "|Formed: THE Keystone Dream.|"
-        },
-        {
-          "id": 175,
-          "paragraph_id": 92,
           "text": "|Every structure has a stone that holds it: a being, a power, a Domain, a seal, a curse, a Legacy."
         },
         {
-          "id": 176,
-          "paragraph_id": 92,
+          "id": 175,
+          "paragraph_id": 91,
           "text": "You see that stone."
         },
         {
-          "id": 177,
-          "paragraph_id": 92,
+          "id": 176,
+          "paragraph_id": 91,
           "text": "You may dream it loose, and let all it held come apart."
+        },
+        {
+          "id": 177,
+          "paragraph_id": 91,
+          "text": "Or you may dream it held, and let nothing break it.|"
         },
         {
           "id": 178,
           "paragraph_id": 92,
-          "text": "Or you may dream it held, and let nothing break it.|"
+          "text": "|Your reach follows your Order."
         },
         {
           "id": 179,
-          "paragraph_id": 93,
-          "text": "|Your reach follows your Order."
+          "paragraph_id": 92,
+          "text": "Keystones set deeper than your Profundity lie below your sight.|"
         },
         {
           "id": 180,
           "paragraph_id": 93,
-          "text": "Keystones set deeper than your Profundity lie below your sight.|"
+          "text": "|IT was a keystone once."
         },
         {
           "id": 181,
-          "paragraph_id": 94,
-          "text": "|IT was a keystone once."
+          "paragraph_id": 93,
+          "text": "You now carry a grain of it, and you will never look at anything the same way again.|"
         },
         {
           "id": 182,
           "paragraph_id": 94,
-          "text": "You now carry a grain of it, and you will never look at anything the same way again.|"
+          "text": "...!"
         },
         {
           "id": 183,
           "paragraph_id": 95,
-          "text": "...!"
+          "text": "|Auto-Fusion: THE Keystone Dream + THE First Unsealing: THE Door of Immensity.|"
         },
         {
           "id": 184,
           "paragraph_id": 96,
-          "text": "|Auto-Fusion: THE Keystone Dream + THE First Unsealing: THE Door of Immensity.|"
-        },
-        {
-          "id": 185,
-          "paragraph_id": 97,
           "text": "|THE First Unsealing has deepened."
         },
         {
-          "id": 186,
-          "paragraph_id": 97,
+          "id": 185,
+          "paragraph_id": 96,
           "text": "It is now THE Unsealing of Doors."
         },
         {
-          "id": 187,
-          "paragraph_id": 97,
+          "id": 186,
+          "paragraph_id": 96,
           "text": "Every door has a keystone."
+        },
+        {
+          "id": 187,
+          "paragraph_id": 96,
+          "text": "What is closed against those you lift, you may find the stone of, and open; what is sealed against yourself, you may find the stone of, and seek a way through.|"
         },
         {
           "id": 188,
           "paragraph_id": 97,
-          "text": "What is closed against those you lift, you may find the stone of, and open; what is sealed against yourself, you may find the stone of, and seek a way through.|"
+          "text": "...!"
         },
         {
           "id": 189,
           "paragraph_id": 98,
-          "text": "...!"
+          "text": "|Kin: your Tree has risen."
         },
         {
           "id": 190,
-          "paragraph_id": 99,
-          "text": "|Kin: your Tree has risen."
+          "paragraph_id": 98,
+          "text": "Those bound to it rise with it.|"
         },
         {
           "id": 191,
           "paragraph_id": 99,
-          "text": "Those bound to it rise with it.|"
+          "text": "|Ling, Poona, and Bob have deepened."
         },
         {
           "id": 192,
-          "paragraph_id": 100,
-          "text": "|Ling, Poona, and Bob have deepened."
+          "paragraph_id": 99,
+          "text": "The cocoons of your Kin brighten.|"
         },
         {
           "id": 193,
           "paragraph_id": 100,
-          "text": "The cocoons of your Kin brighten.|"
+          "text": "...!"
         },
         {
           "id": 194,
           "paragraph_id": 101,
-          "text": "...!"
+          "text": "|Your Gold Without Pupils has been refined."
         },
         {
           "id": 195,
-          "paragraph_id": 102,
-          "text": "|Your Gold Without Pupils has been refined."
+          "paragraph_id": 101,
+          "text": "You may now perceive the weavings of IT.|"
         },
         {
           "id": 196,
           "paragraph_id": 102,
-          "text": "You may now perceive the weavings of IT.|"
+          "text": "|Sensed, faintly: Shards of IT, resonating with the one you devoured.|"
         },
         {
           "id": 197,
           "paragraph_id": 103,
-          "text": "|Sensed, faintly: Shards of IT, resonating with the one you devoured.|"
+          "text": "|Several lie within THE Undersnow.|"
         },
         {
           "id": 198,
           "paragraph_id": 104,
-          "text": "|Several lie within THE Undersnow.|"
+          "text": "|Others are stretched across existence, beyond your present reach."
         },
         {
           "id": 199,
-          "paragraph_id": 105,
-          "text": "|Others are stretched across existence, beyond your present reach."
+          "paragraph_id": 104,
+          "text": "Some may rest in the hands of Legacies.|"
         },
         {
           "id": 200,
           "paragraph_id": 105,
-          "text": "Some may rest in the hands of Legacies.|"
+          "text": "...!"
         },
         {
           "id": 201,
           "paragraph_id": 106,
-          "text": "...!"
+          "text": "|This Domain lies beyond the sight of existence."
         },
         {
           "id": 202,
-          "paragraph_id": 107,
-          "text": "|This Domain lies beyond the sight of existence."
+          "paragraph_id": 106,
+          "text": "No Judgment reaches here.|"
         },
         {
           "id": 203,
           "paragraph_id": 107,
-          "text": "No Judgment reaches here.|"
+          "text": "|For now.|"
         },
         {
           "id": 204,
           "paragraph_id": 108,
-          "text": "|For now.|"
+          "text": "...!"
         },
         {
           "id": 205,
           "paragraph_id": 109,
-          "text": "...!"
+          "text": "Noah sat in the dirt between the bean rows for a long time after the prompts stopped."
         },
         {
           "id": 206,
           "paragraph_id": 110,
-          "text": "Noah sat in the dirt between the bean rows for a long time after the prompts stopped."
-        },
-        {
-          "id": 207,
-          "paragraph_id": 111,
           "text": "He could feel them."
         },
         {
-          "id": 208,
-          "paragraph_id": 111,
+          "id": 207,
+          "paragraph_id": 110,
           "text": "The Shards!"
         },
         {
-          "id": 209,
-          "paragraph_id": 111,
+          "id": 208,
+          "paragraph_id": 110,
           "text": "Faint, very faint, like the warmth of distant fires felt through a closed door."
         },
         {
-          "id": 210,
-          "paragraph_id": 111,
+          "id": 209,
+          "paragraph_id": 110,
           "text": "Several of them below, deep in THE Undersnow, down past the Basal Floor, past the rift, somewhere in the frozen dark of the Evergrave and beyond."
         },
         {
-          "id": 211,
-          "paragraph_id": 111,
+          "id": 210,
+          "paragraph_id": 110,
           "text": "Others farther."
         },
         {
-          "id": 212,
-          "paragraph_id": 111,
+          "id": 211,
+          "paragraph_id": 110,
           "text": "Much farther."
+        },
+        {
+          "id": 212,
+          "paragraph_id": 110,
+          "text": "Scattered across existence, some of them humming in places beyond his sight, some of them, he was almost sure, held tight in the grip of someone very old."
         },
         {
           "id": 213,
           "paragraph_id": 111,
-          "text": "Scattered across existence, some of them humming in places beyond his sight, some of them, he was almost sure, held tight in the grip of someone very old."
-        },
-        {
-          "id": 214,
-          "paragraph_id": 112,
           "text": "Lucy’s letter said it was beyond fixing."
         },
         {
-          "id": 215,
-          "paragraph_id": 112,
+          "id": 214,
+          "paragraph_id": 111,
           "text": "Lucy’s letter said there was no path, and no sky, and no hope for Those Who Remain."
         },
         {
-          "id": 216,
-          "paragraph_id": 112,
+          "id": 215,
+          "paragraph_id": 111,
           "text": "Lucy had been there."
+        },
+        {
+          "id": 216,
+          "paragraph_id": 111,
+          "text": "Lucy knew more than anyone alive about what had broken, and how badly."
         },
         {
           "id": 217,
           "paragraph_id": 112,
-          "text": "Lucy knew more than anyone alive about what had broken, and how badly."
+          "text": "Noah looked down at his dirty hands."
         },
         {
           "id": 218,
           "paragraph_id": 113,
-          "text": "Noah looked down at his dirty hands."
+          "text": "\"Nothing is impossible,\" he said quietly, to himself, to the farm, to the scarecrow in the wheat."
         },
         {
           "id": 219,
           "paragraph_id": 114,
-          "text": "\"Nothing is impossible,\" he said quietly, to himself, to the farm, to the scarecrow in the wheat."
+          "text": "The breeze moved through the beans."
         },
         {
           "id": 220,
           "paragraph_id": 115,
-          "text": "The breeze moved through the beans."
-        },
-        {
-          "id": 221,
-          "paragraph_id": 116,
           "text": "\"Whether the path is fully closed or not,\" Noah said, \"I will decide that."
         },
         {
-          "id": 222,
-          "paragraph_id": 116,
+          "id": 221,
+          "paragraph_id": 115,
           "text": "Not her."
         },
         {
-          "id": 223,
-          "paragraph_id": 116,
+          "id": 222,
+          "paragraph_id": 115,
           "text": "Not existence."
+        },
+        {
+          "id": 223,
+          "paragraph_id": 115,
+          "text": "Me.\""
         },
         {
           "id": 224,
           "paragraph_id": 116,
-          "text": "Me.\""
+          "text": "He picked up the hoe again, and stood, and looked out over the half-tended garden and the gold wheat and the six apple trees, and felt the faint warmth of the Shards far below, calling."
         },
         {
           "id": 225,
           "paragraph_id": 117,
-          "text": "He picked up the hoe again, and stood, and looked out over the half-tended garden and the gold wheat and the six apple trees, and felt the faint warmth of the Shards far below, calling."
+          "text": "\"IT,\" he said, \"is a good place to start.\""
         },
         {
           "id": 226,
           "paragraph_id": 118,
-          "text": "\"IT,\" he said, \"is a good place to start.\""
-        },
-        {
-          "id": 227,
-          "paragraph_id": 119,
           "text": "...!"
         }
       ],
@@ -6428,7 +6398,7 @@
         "He moved to the next Domain. Statues. The next. Statues. Dozens of Domains, hundreds of statues, all of them Immense, all of them asleep, all of them hidden beneath a Legacy whose living Immense Ones walked over their heads every day and kept every word about them to themselves.",
         "|Sensed: Existential Immense Domains beneath THE Legacy of THE Acharya of Immensity.|",
         "|Within them: Immense Ones, in the form of statues, sleeping.|",
-        "|Their nature: ?????|",
+        "|Their nature: ???|",
         "...!",
         "Noah’s breath went out of him, slowly.",
         "Who were they? Lucy’s students, who had remained and found it too much to bear? Companions of the leavers, put to sleep before the crossing? Something the Legacy had chosen to forget? Did Moriarty know? Did the Thinker?",
@@ -6455,7 +6425,6 @@
         "He waited. Silence followed: one click, faint as a pin dropped in snow, and then stillness.",
         "Perhaps it was nothing.",
         "He doubted it.",
-        "—",
         "He tested the rest quickly.",
         "THE Keystone Dream first. He looked at the old shrine’s ward, a faint skin of protection laid down over its stones by some Progeny long ago, and the ward lit in his sight like a web of frost, every strand leading inward to a single rune cut into the lintel. He dreamed it loose, and the ward came apart in silence, falling away like frost melting off glass. Then he dreamed it held, and the ward knit itself back together, good as new.",
         "Then he tried the Legacy itself, out of pure curiosity.",
@@ -6906,7 +6875,7 @@
         {
           "id": 82,
           "paragraph_id": 40,
-          "text": "|Their nature: ?????|"
+          "text": "|Their nature: ???|"
         },
         {
           "id": 83,
@@ -7186,295 +7155,290 @@
         {
           "id": 138,
           "paragraph_id": 67,
-          "text": "—"
+          "text": "He tested the rest quickly."
         },
         {
           "id": 139,
           "paragraph_id": 68,
-          "text": "He tested the rest quickly."
-        },
-        {
-          "id": 140,
-          "paragraph_id": 69,
           "text": "THE Keystone Dream first."
         },
         {
-          "id": 141,
-          "paragraph_id": 69,
+          "id": 140,
+          "paragraph_id": 68,
           "text": "He looked at the old shrine’s ward, a faint skin of protection laid down over its stones by some Progeny long ago, and the ward lit in his sight like a web of frost, every strand leading inward to a single rune cut into the lintel."
         },
         {
-          "id": 142,
-          "paragraph_id": 69,
+          "id": 141,
+          "paragraph_id": 68,
           "text": "He dreamed it loose, and the ward came apart in silence, falling away like frost melting off glass."
+        },
+        {
+          "id": 142,
+          "paragraph_id": 68,
+          "text": "Then he dreamed it held, and the ward knit itself back together, good as new."
         },
         {
           "id": 143,
           "paragraph_id": 69,
-          "text": "Then he dreamed it held, and the ward knit itself back together, good as new."
+          "text": "Then he tried the Legacy itself, out of pure curiosity."
         },
         {
           "id": 144,
           "paragraph_id": 70,
-          "text": "Then he tried the Legacy itself, out of pure curiosity."
+          "text": "He followed Lucy’s weavings inward, every river and Conduit and mountain bound together in threads so old they had hardened into something like stone."
         },
         {
           "id": 145,
-          "paragraph_id": 71,
-          "text": "He followed Lucy’s weavings inward, every river and Conduit and mountain bound together in threads so old they had hardened into something like stone."
+          "paragraph_id": 70,
+          "text": "He followed them down toward the place where they all had to meet."
         },
         {
           "id": 146,
           "paragraph_id": 71,
-          "text": "He followed them down toward the place where they all had to meet."
+          "text": "And lost them!"
         },
         {
           "id": 147,
           "paragraph_id": 72,
-          "text": "And lost them!"
-        },
-        {
-          "id": 148,
-          "paragraph_id": 73,
           "text": "They went down past his sight, into a Profundity his gold eyes were unable to follow."
         },
         {
-          "id": 149,
-          "paragraph_id": 73,
+          "id": 148,
+          "paragraph_id": 72,
           "text": "Lucy’s keystone lay below him."
         },
         {
-          "id": 150,
-          "paragraph_id": 73,
+          "id": 149,
+          "paragraph_id": 72,
           "text": "Far below."
+        },
+        {
+          "id": 150,
+          "paragraph_id": 72,
+          "text": "So did his own; when he turned THE Keystone Dream inward, it found only the endless trunk of his Tree going down past anything he could see."
         },
         {
           "id": 151,
           "paragraph_id": 73,
-          "text": "So did his own; when he turned THE Keystone Dream inward, it found only the endless trunk of his Tree going down past anything he could see."
+          "text": "Last, the edge of his reach."
         },
         {
           "id": 152,
-          "paragraph_id": 74,
-          "text": "Last, the edge of his reach."
+          "paragraph_id": 73,
+          "text": "He pushed his Dream out past the farthest mountain of the Legacy, toward the cracked sky at its border, and tried to dream a single snowflake beyond the border into a Dimension."
         },
         {
           "id": 153,
           "paragraph_id": 74,
-          "text": "He pushed his Dream out past the farthest mountain of the Legacy, toward the cracked sky at its border, and tried to dream a single snowflake beyond the border into a Dimension."
+          "text": "The dream thinned as it went, stretching like honey pulled too far, until at the Legacy’s edge it simply stopped."
         },
         {
           "id": 154,
-          "paragraph_id": 75,
-          "text": "The dream thinned as it went, stretching like honey pulled too far, until at the Legacy’s edge it simply stopped."
+          "paragraph_id": 74,
+          "text": "Inside the border, a Dimension bloomed in the air, blue-gold, and drifted down into the drifts as asnowflake was made into a Dimension.Beyond it, the snowflake stayed a snowflake."
         },
         {
           "id": 155,
           "paragraph_id": 75,
-          "text": "Inside the border, a Dimension bloomed in the air, blue-gold, and drifted down into the drifts as asnowflake was made into a Dimension.Beyond it, the snowflake stayed a snowflake."
+          "text": "Order II: a Legacy’s whole breadth, everything inside it!"
         },
         {
           "id": 156,
           "paragraph_id": 76,
-          "text": "Order II: a Legacy’s whole breadth, everything inside it!"
+          "text": "|Order II, measured.|"
         },
         {
           "id": 157,
           "paragraph_id": 77,
-          "text": "|Order II, measured.|"
+          "text": "|Your Dream covers the whole domain of a Legacy."
         },
         {
           "id": 158,
-          "paragraph_id": 78,
-          "text": "|Your Dream covers the whole domain of a Legacy."
+          "paragraph_id": 77,
+          "text": "Within it, you perceive every Dimension, every Observable Existence, every Root, and every Immensity, and none perceive your dreaming.|"
         },
         {
           "id": 159,
           "paragraph_id": 78,
-          "text": "Within it, you perceive every Dimension, every Observable Existence, every Root, and every Immensity, and none perceive your dreaming.|"
+          "text": "|Within it, you may stand anywhere as though dreaming there, and impose your power wherever you wish.|"
         },
         {
           "id": 160,
           "paragraph_id": 79,
-          "text": "|Within it, you may stand anywhere as though dreaming there, and impose your power wherever you wish.|"
+          "text": "|Within it, those who hold only Roots are yours to end, or to devour.|"
         },
         {
           "id": 161,
           "paragraph_id": 80,
-          "text": "|Within it, those who hold only Roots are yours to end, or to devour.|"
+          "text": "|Within it, a Newly Risen Immensity will sense you only when your blow has landed.|"
         },
         {
           "id": 162,
           "paragraph_id": 81,
-          "text": "|Within it, a Newly Risen Immensity will sense you only when your blow has landed.|"
+          "text": "|Established and Ancient Immensities will sense you when you act near or upon them.|"
         },
         {
           "id": 163,
           "paragraph_id": 82,
-          "text": "|Established and Ancient Immensities will sense you when you act near or upon them.|"
+          "text": "...!"
         },
         {
           "id": 164,
           "paragraph_id": 83,
-          "text": "...!"
+          "text": "|A notice, on your progress.|"
         },
         {
           "id": 165,
           "paragraph_id": 84,
-          "text": "|A notice, on your progress.|"
+          "text": "|The Sap thickens as it nears a Bough.|"
         },
         {
           "id": 166,
           "paragraph_id": 85,
-          "text": "|The Sap thickens as it nears a Bough.|"
-        },
-        {
-          "id": 167,
-          "paragraph_id": 86,
           "text": "|You rose swiftly, carried by a Shard of IT."
         },
         {
-          "id": 168,
-          "paragraph_id": 86,
+          "id": 167,
+          "paragraph_id": 85,
           "text": "That was a gift, and gifts of that kind are rare."
+        },
+        {
+          "id": 168,
+          "paragraph_id": 85,
+          "text": "From here, your Tree grows at its true pace.|"
         },
         {
           "id": 169,
           "paragraph_id": 86,
-          "text": "From here, your Tree grows at its true pace.|"
-        },
-        {
-          "id": 170,
-          "paragraph_id": 87,
           "text": "|The final stretch toward the Second Bough will demand far more than the first."
         },
         {
-          "id": 171,
-          "paragraph_id": 87,
+          "id": 170,
+          "paragraph_id": 86,
           "text": "Ordinary loot will barely stir the Sap."
+        },
+        {
+          "id": 171,
+          "paragraph_id": 86,
+          "text": "Only grand loot will move it: the corpses of the Immense, the Ergospheres of Roots, and more.|"
         },
         {
           "id": 172,
           "paragraph_id": 87,
-          "text": "Only grand loot will move it: the corpses of the Immense, the Ergospheres of Roots, and more.|"
+          "text": "|Sap risen toward the Second Bough: 90%.|"
         },
         {
           "id": 173,
           "paragraph_id": 88,
-          "text": "|Sap risen toward the Second Bough: 90%.|"
+          "text": "...!"
         },
         {
           "id": 174,
           "paragraph_id": 89,
-          "text": "...!"
+          "text": "Noah read it twice, and almost laughed out loud!"
         },
         {
           "id": 175,
           "paragraph_id": 90,
-          "text": "Noah read it twice, and almost laughed out loud!"
+          "text": "Ten percent."
         },
         {
           "id": 176,
-          "paragraph_id": 91,
-          "text": "Ten percent."
+          "paragraph_id": 90,
+          "text": "And those ten percent would cost him more than the ninety before them."
         },
         {
           "id": 177,
           "paragraph_id": 91,
-          "text": "And those ten percent would cost him more than the ninety before them."
+          "text": "Okay!"
         },
         {
           "id": 178,
           "paragraph_id": 92,
-          "text": "Okay!"
+          "text": "But he learned a great deal."
         },
         {
           "id": 179,
           "paragraph_id": 93,
-          "text": "But he learned a great deal."
-        },
-        {
-          "id": 180,
-          "paragraph_id": 94,
           "text": "A Dream that covered a whole Legacy, unseen."
         },
         {
-          "id": 181,
-          "paragraph_id": 94,
+          "id": 180,
+          "paragraph_id": 93,
           "text": "Every Root inside it his to end or eat."
         },
         {
-          "id": 182,
-          "paragraph_id": 94,
+          "id": 181,
+          "paragraph_id": 93,
           "text": "Newly Risen Immense, open to him before they knew he was there."
         },
         {
-          "id": 183,
-          "paragraph_id": 94,
+          "id": 182,
+          "paragraph_id": 93,
           "text": "THE Keystone Dream, proven."
+        },
+        {
+          "id": 183,
+          "paragraph_id": 93,
+          "text": "A secret beneath the Legacy that its own Immense Ones had kept silent about."
         },
         {
           "id": 184,
           "paragraph_id": 94,
-          "text": "A secret beneath the Legacy that its own Immense Ones had kept silent about."
+          "text": "He was stronger than he had ever been."
         },
         {
           "id": 185,
-          "paragraph_id": 95,
-          "text": "He was stronger than he had ever been."
+          "paragraph_id": 94,
+          "text": "And somewhere under the Legacy, a few hundred Immense Ones were sleeping in stone."
         },
         {
           "id": 186,
           "paragraph_id": 95,
-          "text": "And somewhere under the Legacy, a few hundred Immense Ones were sleeping in stone."
+          "text": "He turned his face toward the floor of everything."
         },
         {
           "id": 187,
           "paragraph_id": 96,
-          "text": "He turned his face toward the floor of everything."
+          "text": "Beneath the Legacy, beneath the snow, beneath the frozen dark of the Basal Floor, he could feel them now that he was quiet: several warmths, faint and far down, calling to the grain of IT in him like coals answering a spark."
         },
         {
           "id": 188,
           "paragraph_id": 97,
-          "text": "Beneath the Legacy, beneath the snow, beneath the frozen dark of the Basal Floor, he could feel them now that he was quiet: several warmths, faint and far down, calling to the grain of IT in him like coals answering a spark."
+          "text": "Shards below."
         },
         {
           "id": 189,
-          "paragraph_id": 98,
-          "text": "Shards below."
+          "paragraph_id": 97,
+          "text": "Unclaimed!"
         },
         {
           "id": 190,
           "paragraph_id": 98,
-          "text": "Unclaimed!"
+          "text": "When he went down into THE Evergrave, he would let his Dream go there too to learn."
         },
         {
           "id": 191,
           "paragraph_id": 99,
-          "text": "When he went down into THE Evergrave, he would let his Dream go there too to learn."
+          "text": "Noah lifted the Orb."
         },
         {
           "id": 192,
-          "paragraph_id": 100,
-          "text": "Noah lifted the Orb."
+          "paragraph_id": 99,
+          "text": "The tiny door at its heart turned back toward the Lecture Hall, and opened."
         },
         {
           "id": 193,
           "paragraph_id": 100,
-          "text": "The tiny door at its heart turned back toward the Lecture Hall, and opened."
+          "text": "He stepped through, and came out at the bottom of a bowl of obsidian and gold, where more than a hundred Immense Ones were still sitting exactly where he had left them, leaning forward on their thrones."
         },
         {
           "id": 194,
           "paragraph_id": 101,
-          "text": "He stepped through, and came out at the bottom of a bowl of obsidian and gold, where more than a hundred Immense Ones were still sitting exactly where he had left them, leaning forward on their thrones."
-        },
-        {
-          "id": 195,
-          "paragraph_id": 102,
           "text": "And on the innermost ring, the Thinker’s beads clicked once, slowly, as he passed."
         }
       ],
-      "word_count": 2288
+      "word_count": 2287
     },
     {
       "chapter_index": 5837,
@@ -7531,7 +7495,6 @@
         "Among The Immense Ones setting off...many would take their Progeny and those with Roots to search across Existence as Achilles would be among many who would search across Existence.",
         "The Shards of IT had been stretched out across existence for ages and had not been found. Being Immense did not matter as something not Immense could find it...so long as they were looking in the right place.",
         "Like this...an entire Legacy was slowly mobilized!",
-        "—",
         "Noah’s existence remained steadfast as he stretched himself out in multiple areas.",
         "The Basal Floor was quiet without anyone beside him!",
         "Noah crossed it alone. Ling and Poona were on their way to THE Chrysalis of THE First Sundering with the Thinker. Ruination and THE Infiniverse still slept in their cocoons. For the first time since he had come into this winter, nobody walked at his side, and nobody’s voice was in his head.Even Atlas had gone quiet!",
@@ -7557,7 +7520,6 @@
         "The little bone slid out of its place and drifted up off the spine. Every strand of the seal let go at once, falling away from the top down like snow shaken off a branch.",
         "The gate stood open!",
         "He walked through. Behind him, he dreamed the bone back into its place, and the frost closed over the ribs again.",
-        "—",
         "The first thing he saw was the sun!",
         "It hung high in a sky of deep frozen blue, round and white and perfectly bright. A dead star. It shone on everything and warmed nothing, and its light on his face felt like snowmelt.",
         "Beneath it lay the Evergrave.",
@@ -7571,7 +7533,7 @@
         "...!",
         "Noah rolled his shoulders under the weight, and smiled.",
         "Across the street, a door creaked open.",
-        "A dead thing stood in it,weaker than anything with a Root.Tall, thin, wrapped in rags stiff with frost, its face a grey shape with dark hollows where its eyes had been. It had come to the door slowly, drawn by something it had no name for.",
+        "A dead thing stood in it, weaker than anything with a Root.Tall, thin, wrapped in rags stiff with frost, its face a grey shape with dark hollows where its eyes had been. It had come to the door slowly, drawn by something it had no name for.",
         "Then it felt him!",
         "It flinched back so hard it hit the doorframe. Its hands came up in front of its face as if he were a fire roaring in its doorway. A sound came out of it, thin and cracked, a word in some language older than any he knew. Noah understood it anyway.",
         "Warm.",
@@ -8008,730 +7970,720 @@
         {
           "id": 80,
           "paragraph_id": 50,
-          "text": "—"
+          "text": "Noah’s existence remained steadfast as he stretched himself out in multiple areas."
         },
         {
           "id": 81,
           "paragraph_id": 51,
-          "text": "Noah’s existence remained steadfast as he stretched himself out in multiple areas."
+          "text": "The Basal Floor was quiet without anyone beside him!"
         },
         {
           "id": 82,
           "paragraph_id": 52,
-          "text": "The Basal Floor was quiet without anyone beside him!"
-        },
-        {
-          "id": 83,
-          "paragraph_id": 53,
           "text": "Noah crossed it alone."
         },
         {
-          "id": 84,
-          "paragraph_id": 53,
+          "id": 83,
+          "paragraph_id": 52,
           "text": "Ling and Poona were on their way to THE Chrysalis of THE First Sundering with the Thinker."
         },
         {
-          "id": 85,
-          "paragraph_id": 53,
+          "id": 84,
+          "paragraph_id": 52,
           "text": "Ruination and THE Infiniverse still slept in their cocoons."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 52,
+          "text": "For the first time since he had come into this winter, nobody walked at his side, and nobody’s voice was in his head.Even Atlas had gone quiet!"
         },
         {
           "id": 86,
           "paragraph_id": 53,
-          "text": "For the first time since he had come into this winter, nobody walked at his side, and nobody’s voice was in his head.Even Atlas had gone quiet!"
+          "text": "He found he liked it."
         },
         {
           "id": 87,
           "paragraph_id": 54,
-          "text": "He found he liked it."
-        },
-        {
-          "id": 88,
-          "paragraph_id": 55,
           "text": "As for this first region of THE Undersnow...half the floor was gone."
         },
         {
-          "id": 89,
-          "paragraph_id": 55,
+          "id": 88,
+          "paragraph_id": 54,
           "text": "The great frozen plain where the Warden had sat for Ages had broken into a thousand drifting pieces when Ling kicked him off his ring, and those pieces still turned slowly through the dark like the wreck of a sunken fleet."
         },
         {
-          "id": 90,
-          "paragraph_id": 55,
+          "id": 89,
+          "paragraph_id": 54,
           "text": "Slabs of ice the size of mountains."
         },
         {
-          "id": 91,
-          "paragraph_id": 55,
+          "id": 90,
+          "paragraph_id": 54,
           "text": "Pillars of frost with frozen challengers still locked inside them, faces pressed to the glass."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 54,
+          "text": "Torn Dimensions hanging between it all, their skies gone black."
         },
         {
           "id": 92,
           "paragraph_id": 55,
-          "text": "Torn Dimensions hanging between it all, their skies gone black."
+          "text": "He walked on the empty air between them, and the cold came up to meet him."
         },
         {
           "id": 93,
           "paragraph_id": 56,
-          "text": "He walked on the empty air between them, and the cold came up to meet him."
-        },
-        {
-          "id": 94,
-          "paragraph_id": 57,
           "text": "It was a different cold."
         },
         {
-          "id": 95,
-          "paragraph_id": 57,
+          "id": 94,
+          "paragraph_id": 56,
           "text": "Up here, it had only pressed."
         },
         {
-          "id": 96,
-          "paragraph_id": 57,
+          "id": 95,
+          "paragraph_id": 56,
           "text": "Down there, past the north, it pulled."
         },
         {
-          "id": 97,
-          "paragraph_id": 57,
+          "id": 96,
+          "paragraph_id": 56,
           "text": "It caught at every part of him and tugged, patient and steady, downward."
+        },
+        {
+          "id": 97,
+          "paragraph_id": 56,
+          "text": "The Long Night’s cold that had lived in him since the frozen underworld stirred in answer, eager, as if it knew the way home."
         },
         {
           "id": 98,
           "paragraph_id": 57,
-          "text": "The Long Night’s cold that had lived in him since the frozen underworld stirred in answer, eager, as if it knew the way home."
+          "text": "He let it pull!"
         },
         {
           "id": 99,
           "paragraph_id": 58,
-          "text": "He let it pull!"
+          "text": "The rift split the dark from top to bottom."
         },
         {
           "id": 100,
           "paragraph_id": 59,
-          "text": "The rift split the dark from top to bottom."
-        },
-        {
-          "id": 101,
-          "paragraph_id": 60,
           "text": "He stood at its edge and looked down."
         },
         {
-          "id": 102,
-          "paragraph_id": 60,
+          "id": 101,
+          "paragraph_id": 59,
           "text": "Blue ice, glitering with frost so old it had turned to glass, falling away into a blue so deep it swallowed his sight."
+        },
+        {
+          "id": 102,
+          "paragraph_id": 59,
+          "text": "Somewhere far below lay THE Evergrave of THE Unthawed Ages."
         },
         {
           "id": 103,
           "paragraph_id": 60,
-          "text": "Somewhere far below lay THE Evergrave of THE Unthawed Ages."
+          "text": "He stepped off the edge!"
         },
         {
           "id": 104,
           "paragraph_id": 61,
-          "text": "He stepped off the edge!"
-        },
-        {
-          "id": 105,
-          "paragraph_id": 62,
           "text": "The walls rushed past in great blue sheets, and things lay inside them."
         },
         {
-          "id": 106,
-          "paragraph_id": 62,
+          "id": 105,
+          "paragraph_id": 61,
           "text": "Bones first, whole skeletons curled up as if they had lain down to sleep and stayed asleep."
         },
         {
-          "id": 107,
-          "paragraph_id": 62,
+          "id": 106,
+          "paragraph_id": 61,
           "text": "Then bigger shapes."
         },
         {
-          "id": 108,
-          "paragraph_id": 62,
+          "id": 107,
+          "paragraph_id": 61,
           "text": "A hand the size of a Dimension pressed flat against the inside of the wall, fingers spread, as if something had tried to push its way out and frozen in the trying."
         },
         {
-          "id": 109,
-          "paragraph_id": 62,
+          "id": 108,
+          "paragraph_id": 61,
           "text": "An eye a mile across, wide open."
+        },
+        {
+          "id": 109,
+          "paragraph_id": 61,
+          "text": "A mouth."
         },
         {
           "id": 110,
           "paragraph_id": 62,
-          "text": "A mouth."
+          "text": "They were all looking up!"
         },
         {
           "id": 111,
           "paragraph_id": 63,
-          "text": "They were all looking up!"
-        },
-        {
-          "id": 112,
-          "paragraph_id": 64,
           "text": "Noah looked back at them as he fell, and felt, under the cold, something older."
         },
         {
-          "id": 113,
-          "paragraph_id": 64,
+          "id": 112,
+          "paragraph_id": 63,
           "text": "A pressure on the back of his neck."
+        },
+        {
+          "id": 113,
+          "paragraph_id": 63,
+          "text": "Faint, for now."
         },
         {
           "id": 114,
           "paragraph_id": 64,
-          "text": "Faint, for now."
+          "text": "He hit the bottom!"
         },
         {
           "id": 115,
           "paragraph_id": 65,
-          "text": "He hit the bottom!"
+          "text": "The gate filled the floor of the rift from wall to wall."
         },
         {
           "id": 116,
           "paragraph_id": 66,
-          "text": "The gate filled the floor of the rift from wall to wall."
-        },
-        {
-          "id": 117,
-          "paragraph_id": 67,
           "text": "It was a ribcage."
         },
         {
-          "id": 118,
-          "paragraph_id": 67,
+          "id": 117,
+          "paragraph_id": 66,
           "text": "Each rib a curving pillar of white bone thicker than a city wall, rising out of the ice and arching inward to meet its twin along a spine far overhead."
         },
         {
-          "id": 119,
-          "paragraph_id": 67,
+          "id": 118,
+          "paragraph_id": 66,
           "text": "Something enormous had died here, long before the First Sundering, and its chest had become a door."
+        },
+        {
+          "id": 119,
+          "paragraph_id": 66,
+          "text": "A skin of frost lay over the whole of it, thick and old, put there by something that wanted the living kept out."
         },
         {
           "id": 120,
           "paragraph_id": 67,
-          "text": "A skin of frost lay over the whole of it, thick and old, put there by something that wanted the living kept out."
+          "text": "Noah looked at it with THE Keystone Dream."
         },
         {
           "id": 121,
           "paragraph_id": 68,
-          "text": "Noah looked at it with THE Keystone Dream."
-        },
-        {
-          "id": 122,
-          "paragraph_id": 69,
           "text": "The seal lit up in his sight, a web of frost across every rib, so dense and tangled that for a moment he saw only more of it."
         },
         {
-          "id": 123,
-          "paragraph_id": 69,
+          "id": 122,
+          "paragraph_id": 68,
           "text": "He followed the strands inward."
+        },
+        {
+          "id": 123,
+          "paragraph_id": 68,
+          "text": "They ran up the ribs and along the spine, thousands of them, all leaning toward one point at the very top of the arch, where a single small bone glowed."
         },
         {
           "id": 124,
           "paragraph_id": 69,
-          "text": "They ran up the ribs and along the spine, thousands of them, all leaning toward one point at the very top of the arch, where a single small bone glowed."
+          "text": "That one!"
         },
         {
           "id": 125,
           "paragraph_id": 70,
-          "text": "That one!"
-        },
-        {
-          "id": 126,
-          "paragraph_id": 71,
           "text": "He reached for it with his Dream."
         },
         {
-          "id": 127,
-          "paragraph_id": 71,
+          "id": 126,
+          "paragraph_id": 70,
           "text": "It fought him, cold and stubborn, the weight of something very old refusing something young."
         },
         {
-          "id": 128,
-          "paragraph_id": 71,
+          "id": 127,
+          "paragraph_id": 70,
           "text": "He leaned in."
+        },
+        {
+          "id": 128,
+          "paragraph_id": 70,
+          "text": "The grain of IT in his chest pulsed once, deep and sure, and the fleck of obsidian in his gold eyes brightened."
         },
         {
           "id": 129,
           "paragraph_id": 71,
-          "text": "The grain of IT in his chest pulsed once, deep and sure, and the fleck of obsidian in his gold eyes brightened."
+          "text": "CRACK!"
         },
         {
           "id": 130,
           "paragraph_id": 72,
-          "text": "CRACK!"
+          "text": "The little bone slid out of its place and drifted up off the spine."
         },
         {
           "id": 131,
-          "paragraph_id": 73,
-          "text": "The little bone slid out of its place and drifted up off the spine."
+          "paragraph_id": 72,
+          "text": "Every strand of the seal let go at once, falling away from the top down like snow shaken off a branch."
         },
         {
           "id": 132,
           "paragraph_id": 73,
-          "text": "Every strand of the seal let go at once, falling away from the top down like snow shaken off a branch."
+          "text": "The gate stood open!"
         },
         {
           "id": 133,
           "paragraph_id": 74,
-          "text": "The gate stood open!"
+          "text": "He walked through."
         },
         {
           "id": 134,
-          "paragraph_id": 75,
-          "text": "He walked through."
+          "paragraph_id": 74,
+          "text": "Behind him, he dreamed the bone back into its place, and the frost closed over the ribs again."
         },
         {
           "id": 135,
           "paragraph_id": 75,
-          "text": "Behind him, he dreamed the bone back into its place, and the frost closed over the ribs again."
+          "text": "The first thing he saw was the sun!"
         },
         {
           "id": 136,
           "paragraph_id": 76,
-          "text": "—"
-        },
-        {
-          "id": 137,
-          "paragraph_id": 77,
-          "text": "The first thing he saw was the sun!"
-        },
-        {
-          "id": 138,
-          "paragraph_id": 78,
           "text": "It hung high in a sky of deep frozen blue, round and white and perfectly bright."
         },
         {
-          "id": 139,
-          "paragraph_id": 78,
+          "id": 137,
+          "paragraph_id": 76,
           "text": "A dead star."
+        },
+        {
+          "id": 138,
+          "paragraph_id": 76,
+          "text": "It shone on everything and warmed nothing, and its light on his face felt like snowmelt."
+        },
+        {
+          "id": 139,
+          "paragraph_id": 77,
+          "text": "Beneath it lay the Evergrave."
         },
         {
           "id": 140,
           "paragraph_id": 78,
-          "text": "It shone on everything and warmed nothing, and its light on his face felt like snowmelt."
-        },
-        {
-          "id": 141,
-          "paragraph_id": 79,
-          "text": "Beneath it lay the Evergrave."
-        },
-        {
-          "id": 142,
-          "paragraph_id": 80,
           "text": "A Dimension, or the bones of one."
         },
         {
-          "id": 143,
-          "paragraph_id": 80,
+          "id": 141,
+          "paragraph_id": 78,
           "text": "Light years of distance of Streets of black ice ran out from the gate in straight lines wider than rivers, so smooth they held the dead sun’s reflection."
         },
         {
-          "id": 144,
-          "paragraph_id": 80,
+          "id": 142,
+          "paragraph_id": 78,
           "text": "Towers and halls and houses lined them, built for bodies other than human, dead so long their shapes had stopped making sense."
         },
         {
-          "id": 145,
-          "paragraph_id": 80,
+          "id": 143,
+          "paragraph_id": 78,
           "text": "A few windows glowed a faint blue."
+        },
+        {
+          "id": 144,
+          "paragraph_id": 78,
+          "text": "Shapes moved slowly behind some of them, as if every step cost them something."
+        },
+        {
+          "id": 145,
+          "paragraph_id": 79,
+          "text": "And over all of it, the anger!"
         },
         {
           "id": 146,
           "paragraph_id": 80,
-          "text": "Shapes moved slowly behind some of them, as if every step cost them something."
-        },
-        {
-          "id": 147,
-          "paragraph_id": 81,
-          "text": "And over all of it, the anger!"
-        },
-        {
-          "id": 148,
-          "paragraph_id": 82,
           "text": "It came down on him the moment he passed the gate."
         },
         {
-          "id": 149,
-          "paragraph_id": 82,
+          "id": 147,
+          "paragraph_id": 80,
           "text": "Heavy, and constant, and old."
         },
         {
-          "id": 150,
-          "paragraph_id": 82,
+          "id": 148,
+          "paragraph_id": 80,
           "text": "It settled on the back of his neck like a hand and stayed there."
         },
         {
-          "id": 151,
-          "paragraph_id": 82,
+          "id": 149,
+          "paragraph_id": 80,
           "text": "The anger soaked the ice under his feet and the dead sun overhead and every stone of every frozen house."
         },
         {
-          "id": 152,
-          "paragraph_id": 82,
+          "id": 150,
+          "paragraph_id": 80,
           "text": "It had been here so long that it had stopped being a feeling and become the weather."
         },
         {
-          "id": 153,
-          "paragraph_id": 83,
+          "id": 151,
+          "paragraph_id": 81,
           "text": "And it looked at him."
+        },
+        {
+          "id": 152,
+          "paragraph_id": 81,
+          "text": "The only living thing in its home."
+        },
+        {
+          "id": 153,
+          "paragraph_id": 82,
+          "text": "|You have entered the place where existence keeps its anger.|"
         },
         {
           "id": 154,
           "paragraph_id": 83,
-          "text": "The only living thing in its home."
+          "text": "|It will press on you.|"
         },
         {
           "id": 155,
           "paragraph_id": 84,
-          "text": "|You have entered the place where existence keeps its anger.|"
+          "text": "|It will remember you.|"
         },
         {
           "id": 156,
           "paragraph_id": 85,
-          "text": "|It will press on you.|"
+          "text": "...!"
         },
         {
           "id": 157,
           "paragraph_id": 86,
-          "text": "|It will remember you.|"
+          "text": "Noah rolled his shoulders under the weight, and smiled."
         },
         {
           "id": 158,
           "paragraph_id": 87,
-          "text": "...!"
+          "text": "Across the street, a door creaked open."
         },
         {
           "id": 159,
           "paragraph_id": 88,
-          "text": "Noah rolled his shoulders under the weight, and smiled."
+          "text": "A dead thing stood in it, weaker than anything with a Root.Tall, thin, wrapped in rags stiff with frost, its face a grey shape with dark hollows where its eyes had been."
         },
         {
           "id": 160,
-          "paragraph_id": 89,
-          "text": "Across the street, a door creaked open."
+          "paragraph_id": 88,
+          "text": "It had come to the door slowly, drawn by something it had no name for."
         },
         {
           "id": 161,
-          "paragraph_id": 90,
-          "text": "A dead thing stood in it,weaker than anything with a Root.Tall, thin, wrapped in rags stiff with frost, its face a grey shape with dark hollows where its eyes had been."
+          "paragraph_id": 89,
+          "text": "Then it felt him!"
         },
         {
           "id": 162,
           "paragraph_id": 90,
-          "text": "It had come to the door slowly, drawn by something it had no name for."
-        },
-        {
-          "id": 163,
-          "paragraph_id": 91,
-          "text": "Then it felt him!"
-        },
-        {
-          "id": 164,
-          "paragraph_id": 92,
           "text": "It flinched back so hard it hit the doorframe."
         },
         {
-          "id": 165,
-          "paragraph_id": 92,
+          "id": 163,
+          "paragraph_id": 90,
           "text": "Its hands came up in front of its face as if he were a fire roaring in its doorway."
         },
         {
-          "id": 166,
-          "paragraph_id": 92,
+          "id": 164,
+          "paragraph_id": 90,
           "text": "A sound came out of it, thin and cracked, a word in some language older than any he knew."
+        },
+        {
+          "id": 165,
+          "paragraph_id": 90,
+          "text": "Noah understood it anyway."
+        },
+        {
+          "id": 166,
+          "paragraph_id": 91,
+          "text": "Warm."
         },
         {
           "id": 167,
           "paragraph_id": 92,
-          "text": "Noah understood it anyway."
+          "text": "It said the word as a man alone in the dark might say knife."
         },
         {
           "id": 168,
           "paragraph_id": 93,
-          "text": "Warm."
+          "text": "Then it was gone, the door slamming, its footsteps scraping away inside."
         },
         {
           "id": 169,
-          "paragraph_id": 94,
-          "text": "It said the word as a man alone in the dark might say knife."
+          "paragraph_id": 93,
+          "text": "Up and down the street, the blue windows went dark one after another."
         },
         {
           "id": 170,
-          "paragraph_id": 95,
-          "text": "Then it was gone, the door slamming, its footsteps scraping away inside."
+          "paragraph_id": 94,
+          "text": "Noah watched them go out."
         },
         {
           "id": 171,
           "paragraph_id": 95,
-          "text": "Up and down the street, the blue windows went dark one after another."
+          "text": "He had walked into many places in his life."
         },
         {
           "id": 172,
-          "paragraph_id": 96,
-          "text": "Noah watched them go out."
+          "paragraph_id": 95,
+          "text": "This was the first where warmth was the thing people hid from."
         },
         {
           "id": 173,
-          "paragraph_id": 97,
-          "text": "He had walked into many places in his life."
+          "paragraph_id": 96,
+          "text": "Night Lifeforms here were interesting!"
         },
         {
           "id": 174,
           "paragraph_id": 97,
-          "text": "This was the first where warmth was the thing people hid from."
+          "text": "None antagonized him so far, so he didn’t rush out to be a genocidal maniac just yet."
         },
         {
           "id": 175,
           "paragraph_id": 98,
-          "text": "Night Lifeforms here were interesting!"
+          "text": "He sat down on the black ice, crossed his legs, closed his gold eyes, and let his Dream go."
         },
         {
           "id": 176,
           "paragraph_id": 99,
-          "text": "None antagonized him so far, so he didn’t rush out to be a genocidal maniac just yet."
-        },
-        {
-          "id": 177,
-          "paragraph_id": 100,
-          "text": "He sat down on the black ice, crossed his legs, closed his gold eyes, and let his Dream go."
-        },
-        {
-          "id": 178,
-          "paragraph_id": 101,
           "text": "It went out over the Evergrave soft and wide and silent, as it had gone over the Legacy, rolling down the streets and in through the dark windows and out across the frozen land beyond."
         },
         {
-          "id": 179,
-          "paragraph_id": 101,
+          "id": 177,
+          "paragraph_id": 99,
           "text": "The Evergrave was bigger than any Legacy."
         },
         {
-          "id": 180,
-          "paragraph_id": 101,
+          "id": 178,
+          "paragraph_id": 99,
           "text": "His Dream covered only part of it before it thinned and stopped."
         },
         {
-          "id": 181,
-          "paragraph_id": 101,
+          "id": 179,
+          "paragraph_id": 99,
           "text": "Maybe a tenth."
         },
         {
-          "id": 182,
-          "paragraph_id": 102,
+          "id": 180,
+          "paragraph_id": 100,
           "text": "He felt the dead."
         },
         {
-          "id": 183,
-          "paragraph_id": 102,
+          "id": 181,
+          "paragraph_id": 100,
           "text": "Thousands upon thosuands of them, in the city light years vast, alone, kept awake in the cold."
         },
         {
-          "id": 184,
-          "paragraph_id": 102,
+          "id": 182,
+          "paragraph_id": 100,
           "text": "Every one of them went on, unaware of him passing."
         },
         {
-          "id": 185,
-          "paragraph_id": 103,
+          "id": 183,
+          "paragraph_id": 101,
           "text": "He felt them gathered in families."
         },
         {
-          "id": 186,
-          "paragraph_id": 103,
+          "id": 184,
+          "paragraph_id": 101,
           "text": "Clans and Provenance Lineages."
         },
         {
-          "id": 187,
-          "paragraph_id": 103,
+          "id": 185,
+          "paragraph_id": 101,
           "text": "Each one held a stretch of the city or the frozen land beyond it, with high walls of ice, banners of stitched skin, and a strong one at the center."
+        },
+        {
+          "id": 186,
+          "paragraph_id": 101,
+          "text": "The clan heads burned among the lesser Night Lifeforms like cold suns, deep and dangerous, every one of them Immense.Newly Risen, and even Established!"
+        },
+        {
+          "id": 187,
+          "paragraph_id": 102,
+          "text": "He felt the clans at work!"
         },
         {
           "id": 188,
           "paragraph_id": 103,
-          "text": "The clan heads burned among the lesser Night Lifeforms like cold suns, deep and dangerous, every one of them Immense.Newly Risen, and even Established!"
-        },
-        {
-          "id": 189,
-          "paragraph_id": 104,
-          "text": "He felt the clans at work!"
-        },
-        {
-          "id": 190,
-          "paragraph_id": 105,
           "text": "On a long street near the city’s edge, a column of weak dead stood chained together, and tall figures in grey robes walked the line with glass needles."
         },
         {
-          "id": 191,
-          "paragraph_id": 105,
+          "id": 189,
+          "paragraph_id": 103,
           "text": "Wherever a needle went in, something pale and gold drifted out of the dead and up into glass jars."
         },
         {
-          "id": 192,
-          "paragraph_id": 105,
+          "id": 190,
+          "paragraph_id": 103,
           "text": "The dead in that line went dimmer every time."
         },
         {
-          "id": 193,
-          "paragraph_id": 105,
+          "id": 191,
+          "paragraph_id": 103,
           "text": "Warm memories, he understood: a fire, a hand, a summer day."
         },
         {
-          "id": 194,
-          "paragraph_id": 105,
+          "id": 192,
+          "paragraph_id": 103,
           "text": "They were draining the last warmth out of the weakest dead and keeping it in jars."
         },
         {
-          "id": 195,
-          "paragraph_id": 106,
+          "id": 193,
+          "paragraph_id": 104,
           "text": "Beyond the city, he felt fields where the dimmest of all had been planted upright in the ice, row on row, and set alight."
         },
         {
-          "id": 196,
-          "paragraph_id": 106,
+          "id": 194,
+          "paragraph_id": 104,
           "text": "They burned slowly, with a pale fire that gave no heat, and their light was carried away in lanterns to light the clans’ halls."
         },
         {
-          "id": 197,
-          "paragraph_id": 107,
+          "id": 195,
+          "paragraph_id": 105,
           "text": "He felt four things that were bigger than the Provenance Lineages."
+        },
+        {
+          "id": 196,
+          "paragraph_id": 105,
+          "text": "Much bigger!"
+        },
+        {
+          "id": 197,
+          "paragraph_id": 106,
+          "text": "A king of frost on a throne of bone at the city’s heart, thin as a starved man, wearing a crown made of finger-bones; a cathedral shaped like a woman, with a choir inside her singing something that sounded like an apology; a giant drowned and frozen under a sea of black ice, screaming without a sound; and far off, at the very edge of his reach, something armored and old and utterly still, sitting before a gate."
         },
         {
           "id": 198,
           "paragraph_id": 107,
-          "text": "Much bigger!"
-        },
-        {
-          "id": 199,
-          "paragraph_id": 108,
-          "text": "A king of frost on a throne of bone at the city’s heart, thin as a starved man, wearing a crown made of finger-bones; a cathedral shaped like a woman, with a choir inside her singing something that sounded like an apology; a giant drowned and frozen under a sea of black ice, screaming without a sound; and far off, at the very edge of his reach, something armored and old and utterly still, sitting before a gate."
-        },
-        {
-          "id": 200,
-          "paragraph_id": 109,
           "text": "Established, all four."
         },
         {
-          "id": 201,
-          "paragraph_id": 109,
+          "id": 199,
+          "paragraph_id": 107,
           "text": "Their Profundity went down past anything he could see."
+        },
+        {
+          "id": 200,
+          "paragraph_id": 107,
+          "text": "Four lords over all the Night Provenance Lineages!"
+        },
+        {
+          "id": 201,
+          "paragraph_id": 108,
+          "text": "And past the armored thing, past the gate, at the very center of the Evergrave, beyond the reach of his Dream, something pulsed against the grain of IT in his chest so hard it ached."
         },
         {
           "id": 202,
           "paragraph_id": 109,
-          "text": "Four lords over all the Night Provenance Lineages!"
+          "text": "A Shard!"
         },
         {
           "id": 203,
           "paragraph_id": 110,
-          "text": "And past the armored thing, past the gate, at the very center of the Evergrave, beyond the reach of his Dream, something pulsed against the grain of IT in his chest so hard it ached."
+          "text": "Noah drew his Dream back slowly, and opened his eyes."
         },
         {
           "id": 204,
           "paragraph_id": 111,
-          "text": "A Shard!"
-        },
-        {
-          "id": 205,
-          "paragraph_id": 112,
-          "text": "Noah drew his Dream back slowly, and opened his eyes."
-        },
-        {
-          "id": 206,
-          "paragraph_id": 113,
           "text": "A city of the dead, cold and awake."
         },
         {
-          "id": 207,
-          "paragraph_id": 113,
+          "id": 205,
+          "paragraph_id": 111,
           "text": "Clans of Immense dead, feeding on the weak."
         },
         {
-          "id": 208,
-          "paragraph_id": 113,
+          "id": 206,
+          "paragraph_id": 111,
           "text": "Four lords above the clans."
         },
         {
-          "id": 209,
-          "paragraph_id": 113,
+          "id": 207,
+          "paragraph_id": 111,
           "text": "And at the center of it all, behind every one of them, a single Shard of IT."
         },
         {
-          "id": 210,
-          "paragraph_id": 114,
+          "id": 208,
+          "paragraph_id": 112,
           "text": "One Shard."
         },
         {
-          "id": 211,
-          "paragraph_id": 114,
+          "id": 209,
+          "paragraph_id": 112,
           "text": "Four Established Immense Ones."
         },
         {
-          "id": 212,
-          "paragraph_id": 114,
+          "id": 210,
+          "paragraph_id": 112,
           "text": "A great many lifeforms in the way."
+        },
+        {
+          "id": 211,
+          "paragraph_id": 112,
+          "text": "And his Sap needed feeding anyway."
+        },
+        {
+          "id": 212,
+          "paragraph_id": 113,
+          "text": "He found he was looking forward to it!"
         },
         {
           "id": 213,
           "paragraph_id": 114,
-          "text": "And his Sap needed feeding anyway."
+          "text": "Noah stood and brushed the frost off his knees."
         },
         {
           "id": 214,
           "paragraph_id": 115,
-          "text": "He found he was looking forward to it!"
-        },
-        {
-          "id": 215,
-          "paragraph_id": 116,
-          "text": "Noah stood and brushed the frost off his knees."
-        },
-        {
-          "id": 216,
-          "paragraph_id": 117,
           "text": "Far down the street, at the edge of what he could see, something howled."
         },
         {
-          "id": 217,
-          "paragraph_id": 117,
+          "id": 215,
+          "paragraph_id": 115,
           "text": "Long and high and hungry, the sound of a hunting horn blown through a throat."
         },
         {
-          "id": 218,
-          "paragraph_id": 117,
+          "id": 216,
+          "paragraph_id": 115,
           "text": "Another howl answered it."
         },
         {
-          "id": 219,
-          "paragraph_id": 117,
+          "id": 217,
+          "paragraph_id": 115,
           "text": "Then another."
         },
         {
-          "id": 220,
-          "paragraph_id": 118,
+          "id": 218,
+          "paragraph_id": 116,
           "text": "A dozen shapes came over the rooftops in a running pack, low and fast, their eyes cold points of blue."
+        },
+        {
+          "id": 219,
+          "paragraph_id": 116,
+          "text": "At their head ran something taller."
+        },
+        {
+          "id": 220,
+          "paragraph_id": 117,
+          "text": "It was sniffing!"
         },
         {
           "id": 221,
           "paragraph_id": 118,
-          "text": "At their head ran something taller."
+          "text": "And then it turned, all at once, and looked straight down the long black street at the only warm thing in the Evergrave."
         },
         {
           "id": 222,
           "paragraph_id": 119,
-          "text": "It was sniffing!"
-        },
-        {
-          "id": 223,
-          "paragraph_id": 120,
-          "text": "And then it turned, all at once, and looked straight down the long black street at the only warm thing in the Evergrave."
-        },
-        {
-          "id": 224,
-          "paragraph_id": 121,
           "text": "Towards him, and the glorious weavings of an Infinite Dream beginning to spill out of him!"
         }
       ],
-      "word_count": 2608
+      "word_count": 2607
     },
     {
       "chapter_index": 5838,

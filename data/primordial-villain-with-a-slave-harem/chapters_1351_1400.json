@@ -42,7 +42,6 @@
         "Mana shifted inside him, reconfiguring.",
         "\"How convenient.\"",
         "He could use his presence to his advantage.",
-        "...",
         "The broom shook in Sister Alene's hands.",
         "She swung again anyway.",
         "The straw struck rib and shoulder with a dull thud. The skeleton looked as if nothing had happened. Its jaw creaked open. The rusty sword dragged along the stone, scraping closer.",
@@ -379,570 +378,565 @@
         {
           "id": 52,
           "paragraph_id": 32,
-          "text": "..."
+          "text": "The broom shook in Sister Alene's hands."
         },
         {
           "id": 53,
           "paragraph_id": 33,
-          "text": "The broom shook in Sister Alene's hands."
+          "text": "She swung again anyway."
         },
         {
           "id": 54,
           "paragraph_id": 34,
-          "text": "She swung again anyway."
-        },
-        {
-          "id": 55,
-          "paragraph_id": 35,
           "text": "The straw struck rib and shoulder with a dull thud."
         },
         {
-          "id": 56,
-          "paragraph_id": 35,
+          "id": 55,
+          "paragraph_id": 34,
           "text": "The skeleton looked as if nothing had happened."
         },
         {
-          "id": 57,
-          "paragraph_id": 35,
+          "id": 56,
+          "paragraph_id": 34,
           "text": "Its jaw creaked open."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 34,
+          "text": "The rusty sword dragged along the stone, scraping closer."
         },
         {
           "id": 58,
           "paragraph_id": 35,
-          "text": "The rusty sword dragged along the stone, scraping closer."
+          "text": "\"Back!\" Alene shouted desperately."
         },
         {
           "id": 59,
-          "paragraph_id": 36,
-          "text": "\"Back!\" Alene shouted desperately."
+          "paragraph_id": 35,
+          "text": "\"Get back, damn you!\""
         },
         {
           "id": 60,
           "paragraph_id": 36,
-          "text": "\"Get back, damn you!\""
-        },
-        {
-          "id": 61,
-          "paragraph_id": 37,
           "text": "The younger nun beside her, Sister Mira, struck too."
         },
         {
-          "id": 62,
-          "paragraph_id": 37,
+          "id": 61,
+          "paragraph_id": 36,
           "text": "Her glasses slid down her nose as she jabbed with both hands."
         },
         {
-          "id": 63,
-          "paragraph_id": 37,
+          "id": 62,
+          "paragraph_id": 36,
           "text": "Freckles stood out stark against her pale skin."
         },
         {
-          "id": 64,
-          "paragraph_id": 37,
+          "id": 63,
+          "paragraph_id": 36,
           "text": "Her hit did even less."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 36,
+          "text": "The broom slid off the bone and clattered uselessly against the stair rail."
         },
         {
           "id": 65,
           "paragraph_id": 37,
-          "text": "The broom slid off the bone and clattered uselessly against the stair rail."
+          "text": "They retreated another step."
         },
         {
           "id": 66,
           "paragraph_id": 38,
-          "text": "They retreated another step."
+          "text": "Then another."
         },
         {
           "id": 67,
           "paragraph_id": 39,
-          "text": "Then another."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 40,
           "text": "The children behind them pressed together, sobbing, small hands clinging to habits and sleeves."
         },
         {
-          "id": 69,
-          "paragraph_id": 40,
+          "id": 68,
+          "paragraph_id": 39,
           "text": "Someone tripped."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 39,
+          "text": "Someone screamed."
         },
         {
           "id": 70,
           "paragraph_id": 40,
-          "text": "Someone screamed."
+          "text": "\"Mira,\" Alene whispered without looking."
         },
         {
           "id": 71,
-          "paragraph_id": 41,
-          "text": "\"Mira,\" Alene whispered without looking."
+          "paragraph_id": 40,
+          "text": "\"We're out of space.\""
         },
         {
           "id": 72,
           "paragraph_id": 41,
-          "text": "\"We're out of space.\""
-        },
-        {
-          "id": 73,
-          "paragraph_id": 42,
           "text": "Another skeleton crept up the stairs."
         },
         {
-          "id": 74,
-          "paragraph_id": 42,
+          "id": 73,
+          "paragraph_id": 41,
           "text": "Then another."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 41,
+          "text": "Five in total now, empty sockets fixed forward."
         },
         {
           "id": 75,
           "paragraph_id": 42,
-          "text": "Five in total now, empty sockets fixed forward."
+          "text": "Alene swallowed hard."
         },
         {
           "id": 76,
           "paragraph_id": 43,
-          "text": "Alene swallowed hard."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 44,
           "text": "\"We charge,\" she said, voice shaking but loud."
         },
         {
-          "id": 78,
-          "paragraph_id": 44,
+          "id": 77,
+          "paragraph_id": 43,
           "text": "\"We hit them with all we have, and we pray for a miracle to save at least the children."
+        },
+        {
+          "id": 78,
+          "paragraph_id": 43,
+          "text": "Do you hear me?\""
         },
         {
           "id": 79,
           "paragraph_id": 44,
-          "text": "Do you hear me?\""
-        },
-        {
-          "id": 80,
-          "paragraph_id": 45,
           "text": "Mira's breath hitched."
         },
         {
-          "id": 81,
-          "paragraph_id": 45,
+          "id": 80,
+          "paragraph_id": 44,
           "text": "She pushed her glasses up with the back of her wrist and nodded once."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 44,
+          "text": "Her mouth trembled, then set."
         },
         {
           "id": 82,
           "paragraph_id": 45,
-          "text": "Her mouth trembled, then set."
+          "text": "\"Y-yes, Sister."
         },
         {
           "id": 83,
-          "paragraph_id": 46,
-          "text": "\"Y-yes, Sister."
+          "paragraph_id": 45,
+          "text": "May the Goddess show mercy to the little ones.\""
         },
         {
           "id": 84,
           "paragraph_id": 46,
-          "text": "May the Goddess show mercy to the little ones.\""
+          "text": "They raised their brooms."
         },
         {
           "id": 85,
           "paragraph_id": 47,
-          "text": "They raised their brooms."
+          "text": "Mira screamed as she ran, intending to release a threatening battle cry."
         },
         {
           "id": 86,
           "paragraph_id": 48,
-          "text": "Mira screamed as she ran, intending to release a threatening battle cry."
+          "text": "It was not fierce."
         },
         {
           "id": 87,
-          "paragraph_id": 49,
-          "text": "It was not fierce."
+          "paragraph_id": 48,
+          "text": "Not at all."
         },
         {
           "id": 88,
           "paragraph_id": 49,
-          "text": "Not at all."
+          "text": "Her cry broke halfway through, high and thin, like a frightened animal forced to move."
         },
         {
           "id": 89,
-          "paragraph_id": 50,
-          "text": "Her cry broke halfway through, high and thin, like a frightened animal forced to move."
+          "paragraph_id": 49,
+          "text": "She squeezed her eyes shut and rushed forward anyway, looking more like a charging bunny than a mighty wolf."
         },
         {
           "id": 90,
           "paragraph_id": 50,
-          "text": "She squeezed her eyes shut and rushed forward anyway, looking more like a charging bunny than a mighty wolf."
+          "text": "*Thud.*"
         },
         {
           "id": 91,
           "paragraph_id": 51,
-          "text": "*Thud.*"
+          "text": "Then something landed."
         },
         {
           "id": 92,
           "paragraph_id": 52,
-          "text": "Then something landed."
+          "text": "The stone roof gave a deep, solid thump beneath their feet."
         },
         {
           "id": 93,
           "paragraph_id": 53,
-          "text": "The stone roof gave a deep, solid thump beneath their feet."
+          "text": "Mira skidded to a halt so fast she nearly fell backward."
         },
         {
           "id": 94,
-          "paragraph_id": 54,
-          "text": "Mira skidded to a halt so fast she nearly fell backward."
+          "paragraph_id": 53,
+          "text": "A tall figure stood between them and the stairs."
         },
         {
           "id": 95,
           "paragraph_id": 54,
-          "text": "A tall figure stood between them and the stairs."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 55,
           "text": "Black armor."
         },
         {
-          "id": 97,
-          "paragraph_id": 55,
+          "id": 96,
+          "paragraph_id": 54,
           "text": "Seamless."
         },
         {
-          "id": 98,
-          "paragraph_id": 55,
+          "id": 97,
+          "paragraph_id": 54,
           "text": "Heavy."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 54,
+          "text": "The air around him felt tight, as if the world itself was holding its breath."
         },
         {
           "id": 99,
           "paragraph_id": 55,
-          "text": "The air around him felt tight, as if the world itself was holding its breath."
+          "text": "He did not turn to them, looking straight at the skeletons."
         },
         {
           "id": 100,
           "paragraph_id": 56,
-          "text": "He did not turn to them, looking straight at the skeletons."
+          "text": "\"Begone.\" The command carried."
         },
         {
           "id": 101,
           "paragraph_id": 57,
-          "text": "\"Begone.\" The command carried."
+          "text": "The air screamed."
         },
         {
           "id": 102,
           "paragraph_id": 58,
-          "text": "The air screamed."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 59,
           "text": "A wall of wind formed in front of him, invisible but absolute."
         },
         {
-          "id": 104,
-          "paragraph_id": 59,
+          "id": 103,
+          "paragraph_id": 58,
           "text": "It slammed forward with a force that flattened sound itself."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 58,
+          "text": "The nuns were driven back a step with their ears ringing as if struck from the inside."
         },
         {
           "id": 105,
           "paragraph_id": 59,
-          "text": "The nuns were driven back a step with their ears ringing as if struck from the inside."
+          "text": "The skeletons never stood a chance."
         },
         {
           "id": 106,
           "paragraph_id": 60,
-          "text": "The skeletons never stood a chance."
+          "text": "Five bodies lifted off the stone roof in the same instant, flung back like scraps caught in a storm."
         },
         {
           "id": 107,
-          "paragraph_id": 61,
-          "text": "Five bodies lifted off the stone roof in the same instant, flung back like scraps caught in a storm."
+          "paragraph_id": 60,
+          "text": "They vanished over the edge of the roof and crossed the gap to the next block in a blink."
         },
         {
           "id": 108,
           "paragraph_id": 61,
-          "text": "They vanished over the edge of the roof and crossed the gap to the next block in a blink."
+          "text": "A loud impact followed."
         },
         {
           "id": 109,
           "paragraph_id": 62,
-          "text": "A loud impact followed."
+          "text": "Then another."
         },
         {
           "id": 110,
           "paragraph_id": 63,
-          "text": "Then another."
+          "text": "Then a roar as an entire building collapsed in on itself, walls folding and dropping into a cloud of dust and broken stone."
         },
         {
           "id": 111,
           "paragraph_id": 64,
-          "text": "Then a roar as an entire building collapsed in on itself, walls folding and dropping into a cloud of dust and broken stone."
+          "text": "Silence rushed back in."
         },
         {
           "id": 112,
           "paragraph_id": 65,
-          "text": "Silence rushed back in."
+          "text": "Mira stared, mouth open, broom slipping from her fingers."
         },
         {
           "id": 113,
           "paragraph_id": 66,
-          "text": "Mira stared, mouth open, broom slipping from her fingers."
+          "text": "The children behind them had gone quiet."
         },
         {
           "id": 114,
           "paragraph_id": 67,
-          "text": "The children behind them had gone quiet."
+          "text": "No one breathed."
         },
         {
           "id": 115,
           "paragraph_id": 68,
-          "text": "No one breathed."
+          "text": "For a moment, neither sister moved."
         },
         {
           "id": 116,
           "paragraph_id": 69,
-          "text": "For a moment, neither sister moved."
-        },
-        {
-          "id": 117,
-          "paragraph_id": 70,
           "text": "Sister Alene felt her heartbeat thudding so hard she thought it climbed into her throat."
         },
         {
-          "id": 118,
-          "paragraph_id": 70,
+          "id": 117,
+          "paragraph_id": 69,
           "text": "The wind had stolen her hearing."
         },
         {
-          "id": 119,
-          "paragraph_id": 70,
+          "id": 118,
+          "paragraph_id": 69,
           "text": "It came back in pieces."
         },
         {
-          "id": 120,
-          "paragraph_id": 70,
+          "id": 119,
+          "paragraph_id": 69,
           "text": "A ringing whine."
         },
         {
-          "id": 121,
-          "paragraph_id": 70,
+          "id": 120,
+          "paragraph_id": 69,
           "text": "The distant crumble of stone."
+        },
+        {
+          "id": 121,
+          "paragraph_id": 69,
+          "text": "The sound of her own breath."
         },
         {
           "id": 122,
           "paragraph_id": 70,
-          "text": "The sound of her own breath."
+          "text": "Then the children screamed."
         },
         {
           "id": 123,
           "paragraph_id": 71,
-          "text": "Then the children screamed."
+          "text": "High, loud, and overlapping."
         },
         {
           "id": 124,
           "paragraph_id": 72,
-          "text": "High, loud, and overlapping."
+          "text": "Some in terror."
         },
         {
           "id": 125,
           "paragraph_id": 73,
-          "text": "Some in terror."
+          "text": "Some in awe."
         },
         {
           "id": 126,
           "paragraph_id": 74,
-          "text": "Some in awe."
+          "text": "Most of the girls shrieked and clutched at each other, faces pale, eyes locked on the spot where the skeletons had been a heartbeat ago, replaced by the sight of a man who, to these girls, looked perhaps even more ominous than the undead themselves."
         },
         {
           "id": 127,
           "paragraph_id": 75,
-          "text": "Most of the girls shrieked and clutched at each other, faces pale, eyes locked on the spot where the skeletons had been a heartbeat ago, replaced by the sight of a man who, to these girls, looked perhaps even more ominous than the undead themselves."
+          "text": "But the boys..."
         },
         {
           "id": 128,
           "paragraph_id": 76,
-          "text": "But the boys..."
+          "text": "The boys lost their minds."
         },
         {
           "id": 129,
           "paragraph_id": 77,
-          "text": "The boys lost their minds."
+          "text": "\"A dark knight?!\" one shouted, scrambling to his feet."
         },
         {
           "id": 130,
           "paragraph_id": 78,
-          "text": "\"A dark knight?!\" one shouted, scrambling to his feet."
+          "text": "\"That was so cool!\" another yelled, hopping in place."
         },
         {
           "id": 131,
-          "paragraph_id": 79,
-          "text": "\"That was so cool!\" another yelled, hopping in place."
+          "paragraph_id": 78,
+          "text": "\"Did you see that?!\""
         },
         {
           "id": 132,
           "paragraph_id": 79,
-          "text": "\"Did you see that?!\""
+          "text": "\"What's his name?!\" a third demanded, pointing wildly."
         },
         {
           "id": 133,
-          "paragraph_id": 80,
-          "text": "\"What's his name?!\" a third demanded, pointing wildly."
+          "paragraph_id": 79,
+          "text": "\"He has to have a name!\""
         },
         {
           "id": 134,
           "paragraph_id": 80,
-          "text": "\"He has to have a name!\""
+          "text": "\"Did the King send a secret super soldier?!\" someone else cried, eyes shining."
         },
         {
           "id": 135,
           "paragraph_id": 81,
-          "text": "\"Did the King send a secret super soldier?!\" someone else cried, eyes shining."
+          "text": "One boy puffed out his chest, dropped his voice as low as he could force it, and declared, \"Begone...\" then made a loud *whoosh* sound with his mouth, flinging his arms out."
         },
         {
           "id": 136,
           "paragraph_id": 82,
-          "text": "One boy puffed out his chest, dropped his voice as low as he could force it, and declared, \"Begone...\" then made a loud *whoosh* sound with his mouth, flinging his arms out."
+          "text": "Some boys fell, pretending to be the helpless undead."
         },
         {
           "id": 137,
           "paragraph_id": 83,
-          "text": "Some boys fell, pretending to be the helpless undead."
+          "text": "The girls snapped instantly."
         },
         {
           "id": 138,
           "paragraph_id": 84,
-          "text": "The girls snapped instantly."
+          "text": "\"Shut up!\" one yelled."
         },
         {
           "id": 139,
-          "paragraph_id": 85,
-          "text": "\"Shut up!\" one yelled."
+          "paragraph_id": 84,
+          "text": "\"You're so stupid!\""
         },
         {
           "id": 140,
           "paragraph_id": 85,
-          "text": "\"You're so stupid!\""
+          "text": "\"You're stupid!\" a boy shot back."
         },
         {
           "id": 141,
           "paragraph_id": 86,
-          "text": "\"You're stupid!\" a boy shot back."
+          "text": "\"And ugly!\" another added without missing a beat."
         },
         {
           "id": 142,
           "paragraph_id": 87,
-          "text": "\"And ugly!\" another added without missing a beat."
+          "text": "\"I'm not ugly, you are!\""
         },
         {
           "id": 143,
           "paragraph_id": 88,
-          "text": "\"I'm not ugly, you are!\""
+          "text": "\"You smell like rats!\""
         },
         {
           "id": 144,
           "paragraph_id": 89,
-          "text": "\"You smell like rats!\""
+          "text": "\"You cry when it rains!\""
         },
         {
           "id": 145,
           "paragraph_id": 90,
-          "text": "\"You cry when it rains!\""
+          "text": "The rooftop erupted into bickering, insults flying faster than sense, fear already being burned away by noise and bravado."
         },
         {
           "id": 146,
           "paragraph_id": 91,
-          "text": "The rooftop erupted into bickering, insults flying faster than sense, fear already being burned away by noise and bravado."
+          "text": "While the usual orphanage drama began gaining steam, the two sisters stared at the figure in black."
         },
         {
           "id": 147,
           "paragraph_id": 92,
-          "text": "While the usual orphanage drama began gaining steam, the two sisters stared at the figure in black."
-        },
-        {
-          "id": 148,
-          "paragraph_id": 93,
           "text": "He stood still, unmoving, as if the chaos behind him did not exist."
         },
         {
-          "id": 149,
-          "paragraph_id": 93,
+          "id": 148,
+          "paragraph_id": 92,
           "text": "Up close, the armor was worse than from a distance."
         },
         {
-          "id": 150,
-          "paragraph_id": 93,
+          "id": 149,
+          "paragraph_id": 92,
           "text": "No sigils of faith."
         },
         {
-          "id": 151,
-          "paragraph_id": 93,
+          "id": 150,
+          "paragraph_id": 92,
           "text": "No royal crest."
         },
         {
-          "id": 152,
-          "paragraph_id": 93,
+          "id": 151,
+          "paragraph_id": 92,
           "text": "No visible joints or gaps."
+        },
+        {
+          "id": 152,
+          "paragraph_id": 92,
+          "text": "Not even eyes."
         },
         {
           "id": 153,
           "paragraph_id": 93,
-          "text": "Not even eyes."
+          "text": "As he turned, only two red orbs could be seen, steady and unreadable."
         },
         {
           "id": 154,
           "paragraph_id": 94,
-          "text": "As he turned, only two red orbs could be seen, steady and unreadable."
+          "text": "Alene swallowed."
         },
         {
           "id": 155,
           "paragraph_id": 95,
-          "text": "Alene swallowed."
+          "text": "\"Thank you..."
         },
         {
           "id": 156,
-          "paragraph_id": 96,
-          "text": "\"Thank you..."
+          "paragraph_id": 95,
+          "text": "May the Goddess bless your soul.\""
         },
         {
           "id": 157,
           "paragraph_id": 96,
-          "text": "May the Goddess bless your soul.\""
+          "text": "\"Who are you, brave hero?\" Mira asked, voice careful."
         },
         {
           "id": 158,
           "paragraph_id": 97,
-          "text": "\"Who are you, brave hero?\" Mira asked, voice careful."
+          "text": "The red orbs fixed on them as a tense silence stretched for seconds."
         },
         {
           "id": 159,
           "paragraph_id": 98,
-          "text": "The red orbs fixed on them as a tense silence stretched for seconds."
+          "text": "Finally, he decreed,"
         },
         {
           "id": 160,
           "paragraph_id": 99,
-          "text": "Finally, he decreed,"
+          "text": "\"I am no hero.\""
         },
         {
           "id": 161,
           "paragraph_id": 100,
-          "text": "\"I am no hero.\""
+          "text": "The pair of eyes widened in response to his declaration."
         },
         {
           "id": 162,
           "paragraph_id": 101,
-          "text": "The pair of eyes widened in response to his declaration."
+          "text": "Then, he announced,"
         },
         {
           "id": 163,
           "paragraph_id": 102,
-          "text": "Then, he announced,"
-        },
-        {
-          "id": 164,
-          "paragraph_id": 103,
           "text": "\"You two have a choice to make.\""
         }
       ],
-      "word_count": 1449
+      "word_count": 1448
     },
     {
       "chapter_index": 1352,
@@ -2063,7 +2057,7 @@
         "He sighed again. \"You're one of those kinds of women, so I guess that was a given. Can you at least get some licking action going on between the sisters, or is that a sin as well?\"",
         "\"What?!\" Mira snapped, shocked out of her spiral.",
         "\"This,\" he continued flatly, gesturing at the nun, \"is what happens when you repress your body's natural urges for something as dumb as keeping it pure for 'that' woman.\"",
-        "\"!!!!!!!\"",
+        "\"!!!\"",
         "Mira's eyes went wide. Her face drained of color, then flushed so hot it felt like her skin might steam.",
         "The tone alone froze her.",
         "It wasn't mocking. It wasn't angry.",
@@ -2377,7 +2371,7 @@
         {
           "id": 50,
           "paragraph_id": 30,
-          "text": "\"!!!!!!!\""
+          "text": "\"!!!\""
         },
         {
           "id": 51,
@@ -3694,7 +3688,6 @@
         "Just speed.",
         "And just like this, the siege of Greyhaven was concluded.",
         "Now, it was time to move on. Numerous important events awaited!",
-        "...",
         "Author: I hope today's chapters were good, but I understand if they were lacking. I wrote them in a rush, lacking time to polish. I wish you all the happiest of holidays! If you spend it with your family, then good luck tolerating the drunk uncles and the nagging aunties. And if you are the drunk uncle, then go easy on the zoomers. It's not their fault.",
         "If you spend Christmas alone, treat yourself to something nice. Your favorite dessert, milk tea, and cozy anime time sounds good, no? Or, well, you can go for the tried and true hookers and cocaine combo too, whatever floats your boat. I don't judge. Just don't spend your Primordial Villain budget on hoes and white powder. Then I will judge. Harshly."
       ],
@@ -4437,75 +4430,70 @@
         {
           "id": 147,
           "paragraph_id": 77,
-          "text": "..."
-        },
-        {
-          "id": 148,
-          "paragraph_id": 78,
           "text": "Author: I hope today's chapters were good, but I understand if they were lacking."
         },
         {
-          "id": 149,
-          "paragraph_id": 78,
+          "id": 148,
+          "paragraph_id": 77,
           "text": "I wrote them in a rush, lacking time to polish."
         },
         {
-          "id": 150,
-          "paragraph_id": 78,
+          "id": 149,
+          "paragraph_id": 77,
           "text": "I wish you all the happiest of holidays!"
         },
         {
-          "id": 151,
-          "paragraph_id": 78,
+          "id": 150,
+          "paragraph_id": 77,
           "text": "If you spend it with your family, then good luck tolerating the drunk uncles and the nagging aunties."
         },
         {
-          "id": 152,
-          "paragraph_id": 78,
+          "id": 151,
+          "paragraph_id": 77,
           "text": "And if you are the drunk uncle, then go easy on the zoomers."
+        },
+        {
+          "id": 152,
+          "paragraph_id": 77,
+          "text": "It's not their fault."
         },
         {
           "id": 153,
           "paragraph_id": 78,
-          "text": "It's not their fault."
-        },
-        {
-          "id": 154,
-          "paragraph_id": 79,
           "text": "If you spend Christmas alone, treat yourself to something nice."
         },
         {
-          "id": 155,
-          "paragraph_id": 79,
+          "id": 154,
+          "paragraph_id": 78,
           "text": "Your favorite dessert, milk tea, and cozy anime time sounds good, no?"
         },
         {
-          "id": 156,
-          "paragraph_id": 79,
+          "id": 155,
+          "paragraph_id": 78,
           "text": "Or, well, you can go for the tried and true hookers and cocaine combo too, whatever floats your boat."
         },
         {
-          "id": 157,
-          "paragraph_id": 79,
+          "id": 156,
+          "paragraph_id": 78,
           "text": "I don't judge."
         },
         {
-          "id": 158,
-          "paragraph_id": 79,
+          "id": 157,
+          "paragraph_id": 78,
           "text": "Just don't spend your Primordial Villain budget on hoes and white powder."
         },
         {
-          "id": 159,
-          "paragraph_id": 79,
+          "id": 158,
+          "paragraph_id": 78,
           "text": "Then I will judge."
         },
         {
-          "id": 160,
-          "paragraph_id": 79,
+          "id": 159,
+          "paragraph_id": 78,
           "text": "Harshly."
         }
       ],
-      "word_count": 1253
+      "word_count": 1252
     },
     {
       "chapter_index": 1356,
@@ -4554,7 +4542,6 @@
         "He exhaled through his nose, shoulders easing a fraction.",
         "\"Finally. Some peace and quiet.\"",
         "Then he turned around.",
-        "...",
         "On the other side of the gate, the air felt different.",
         "Clean.",
         "Mira stumbled half a step as her boots touched earth that was warm from the sun. Around her stretched a city untouched by siege. The building walls stood proudly. Roofs were whole. A river cut through the center in a calm line, water clear enough to see the stones beneath. Beyond the outer roads, forest rolled outward in deep green bands, dense and quiet.",
@@ -4590,7 +4577,6 @@
         "\"What?\" Mira gasped. Now that she thought about it, why was this creature calling herself his daughter, anyhow?\"",
         "But then, she heard the sound of distant crying. \"Ah. The kids are distressed. I'll go help the sisters.\" \"Good girl,\" Rosie repeated, patting Mira's head a few more times for good measure.",
         "\"...\"",
-        "...",
         "Quinlan turned toward a sound he picked up on all of a sudden.",
         "It carried through the broken streets in uneven bursts. Steel striking armor. Shouts cut short. The dull thud of bodies hitting stone. He stepped to the edge of the roof and crouched, then pushed off.",
         "He landed on the peak of a taller building a few streets away, boots settling without a sound. From there, he had a clear view of the avenue below.",
@@ -5028,635 +5014,625 @@
         {
           "id": 83,
           "paragraph_id": 42,
-          "text": "..."
+          "text": "On the other side of the gate, the air felt different."
         },
         {
           "id": 84,
           "paragraph_id": 43,
-          "text": "On the other side of the gate, the air felt different."
+          "text": "Clean."
         },
         {
           "id": 85,
           "paragraph_id": 44,
-          "text": "Clean."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 45,
           "text": "Mira stumbled half a step as her boots touched earth that was warm from the sun."
         },
         {
-          "id": 87,
-          "paragraph_id": 45,
+          "id": 86,
+          "paragraph_id": 44,
           "text": "Around her stretched a city untouched by siege."
         },
         {
-          "id": 88,
-          "paragraph_id": 45,
+          "id": 87,
+          "paragraph_id": 44,
           "text": "The building walls stood proudly."
         },
         {
-          "id": 89,
-          "paragraph_id": 45,
+          "id": 88,
+          "paragraph_id": 44,
           "text": "Roofs were whole."
         },
         {
-          "id": 90,
-          "paragraph_id": 45,
+          "id": 89,
+          "paragraph_id": 44,
           "text": "A river cut through the center in a calm line, water clear enough to see the stones beneath."
+        },
+        {
+          "id": 90,
+          "paragraph_id": 44,
+          "text": "Beyond the outer roads, forest rolled outward in deep green bands, dense and quiet."
         },
         {
           "id": 91,
           "paragraph_id": 45,
-          "text": "Beyond the outer roads, forest rolled outward in deep green bands, dense and quiet."
+          "text": "Mira saw none of it."
         },
         {
           "id": 92,
           "paragraph_id": 46,
-          "text": "Mira saw none of it."
+          "text": "She stood frozen, eyes fixed on the place where the gate had been."
         },
         {
           "id": 93,
           "paragraph_id": 47,
-          "text": "She stood frozen, eyes fixed on the place where the gate had been."
+          "text": "Gone."
         },
         {
           "id": 94,
           "paragraph_id": 48,
-          "text": "Gone."
+          "text": "Her chest felt tight."
         },
         {
           "id": 95,
-          "paragraph_id": 49,
-          "text": "Her chest felt tight."
+          "paragraph_id": 48,
+          "text": "Slowly, she lifted a hand, then let it fall."
         },
         {
           "id": 96,
           "paragraph_id": 49,
-          "text": "Slowly, she lifted a hand, then let it fall."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 50,
           "text": "\"..."
         },
         {
-          "id": 98,
-          "paragraph_id": 50,
+          "id": 97,
+          "paragraph_id": 49,
           "text": "The Primordial Villain,\" she murmured."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 49,
+          "text": "\"I was with him this whole time.\""
         },
         {
           "id": 99,
           "paragraph_id": 50,
-          "text": "\"I was with him this whole time.\""
+          "text": "While Quinlan's bounty poster was spread far and wide, and his reputation even further, that did not mean that all citizens would recognize him."
         },
         {
           "id": 100,
-          "paragraph_id": 51,
-          "text": "While Quinlan's bounty poster was spread far and wide, and his reputation even further, that did not mean that all citizens would recognize him."
+          "paragraph_id": 50,
+          "text": "Mira and the other sisters, for example, were too busy leading their own lives to study the wanted poster of a criminal from another duchy."
         },
         {
           "id": 101,
           "paragraph_id": 51,
-          "text": "Mira and the other sisters, for example, were too busy leading their own lives to study the wanted poster of a criminal from another duchy."
+          "text": "Well, the sisters who did not have sinful thoughts about him, that is."
         },
         {
           "id": 102,
           "paragraph_id": 52,
-          "text": "Well, the sisters who did not have sinful thoughts about him, that is."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 53,
           "text": "Mira's mouth pulled into a small, shaky line."
         },
         {
-          "id": 104,
-          "paragraph_id": 53,
+          "id": 103,
+          "paragraph_id": 52,
           "text": "\"That explains everything."
         },
         {
-          "id": 105,
-          "paragraph_id": 53,
+          "id": 104,
+          "paragraph_id": 52,
           "text": "The rudeness."
         },
         {
-          "id": 106,
-          "paragraph_id": 53,
+          "id": 105,
+          "paragraph_id": 52,
           "text": "The way he spoke about the Goddess."
         },
         {
-          "id": 107,
-          "paragraph_id": 53,
+          "id": 106,
+          "paragraph_id": 52,
           "text": "He really is a charlatan...\" Her voice dipped."
+        },
+        {
+          "id": 107,
+          "paragraph_id": 52,
+          "text": "\"He deceived me...\""
         },
         {
           "id": 108,
           "paragraph_id": 53,
-          "text": "\"He deceived me...\""
+          "text": "The ground beneath her feet trembled."
         },
         {
           "id": 109,
           "paragraph_id": 54,
-          "text": "The ground beneath her feet trembled."
-        },
-        {
-          "id": 110,
-          "paragraph_id": 55,
           "text": "Mira stiffened and looked down just as the stone split."
         },
         {
-          "id": 111,
-          "paragraph_id": 55,
+          "id": 110,
+          "paragraph_id": 54,
           "text": "From the break, roots pushed upward, thick and pale at first, then darkening as they grew."
+        },
+        {
+          "id": 111,
+          "paragraph_id": 54,
+          "text": "A tree rose in seconds, bark smooth and alive, leaves unfurling as if waking from sleep."
         },
         {
           "id": 112,
           "paragraph_id": 55,
-          "text": "A tree rose in seconds, bark smooth and alive, leaves unfurling as if waking from sleep."
+          "text": "A small figure stepped out from the trunk."
         },
         {
           "id": 113,
           "paragraph_id": 56,
-          "text": "A small figure stepped out from the trunk."
+          "text": "She had green skin, the color of new leaves, and hair that hung in loose curls like vines."
         },
         {
           "id": 114,
-          "paragraph_id": 57,
-          "text": "She had green skin, the color of new leaves, and hair that hung in loose curls like vines."
+          "paragraph_id": 56,
+          "text": "Bare feet rested on a root that continued to grow, lifting her higher and higher until she stood above Mira's head."
         },
         {
           "id": 115,
           "paragraph_id": 57,
-          "text": "Bare feet rested on a root that continued to grow, lifting her higher and higher until she stood above Mira's head."
+          "text": "The girl leaned down and placed a small hand on Mira's hair."
         },
         {
           "id": 116,
           "paragraph_id": 58,
-          "text": "The girl leaned down and placed a small hand on Mira's hair."
+          "text": "Pat."
         },
         {
           "id": 117,
-          "paragraph_id": 59,
+          "paragraph_id": 58,
           "text": "Pat."
         },
         {
           "id": 118,
-          "paragraph_id": 59,
+          "paragraph_id": 58,
           "text": "Pat."
         },
         {
           "id": 119,
           "paragraph_id": 59,
-          "text": "Pat."
-        },
-        {
-          "id": 120,
-          "paragraph_id": 60,
           "text": "Mira made a strangled sound."
         },
         {
-          "id": 121,
-          "paragraph_id": 60,
+          "id": 120,
+          "paragraph_id": 59,
           "text": "\"W-w-w-what?!\" She looked up, eyes wide."
         },
         {
-          "id": 122,
-          "paragraph_id": 60,
+          "id": 121,
+          "paragraph_id": 59,
           "text": "\"Who are you?!"
+        },
+        {
+          "id": 122,
+          "paragraph_id": 59,
+          "text": "Why are you- why are you petting me?!\""
         },
         {
           "id": 123,
           "paragraph_id": 60,
-          "text": "Why are you- why are you petting me?!\""
+          "text": "The girl smiled, open and bright."
         },
         {
           "id": 124,
           "paragraph_id": 61,
-          "text": "The girl smiled, open and bright."
-        },
-        {
-          "id": 125,
-          "paragraph_id": 62,
           "text": "\"Thank you for helping Father do something good,\" she said."
         },
         {
-          "id": 126,
-          "paragraph_id": 62,
+          "id": 125,
+          "paragraph_id": 61,
           "text": "Her voice was light, almost playful."
+        },
+        {
+          "id": 126,
+          "paragraph_id": 61,
+          "text": "\"I can tell he feels better because of you.\""
         },
         {
           "id": 127,
           "paragraph_id": 62,
-          "text": "\"I can tell he feels better because of you.\""
+          "text": "The patting continued."
         },
         {
           "id": 128,
-          "paragraph_id": 63,
-          "text": "The patting continued."
+          "paragraph_id": 62,
+          "text": "\"Good girl.\""
         },
         {
           "id": 129,
           "paragraph_id": 63,
-          "text": "\"Good girl.\""
+          "text": "Like father, like daughter."
         },
         {
           "id": 130,
           "paragraph_id": 64,
-          "text": "Like father, like daughter."
-        },
-        {
-          "id": 131,
-          "paragraph_id": 65,
           "text": "Mira stood there, hands half-raised, mind blank."
         },
         {
-          "id": 132,
-          "paragraph_id": 65,
+          "id": 131,
+          "paragraph_id": 64,
           "text": "She stared at the girl's face."
         },
         {
-          "id": 133,
-          "paragraph_id": 65,
+          "id": 132,
+          "paragraph_id": 64,
           "text": "There was no guile there."
         },
         {
-          "id": 134,
-          "paragraph_id": 65,
+          "id": 133,
+          "paragraph_id": 64,
           "text": "No edge."
+        },
+        {
+          "id": 134,
+          "paragraph_id": 64,
+          "text": "Just a simple happiness that pressed in on her chest harder than the words before."
         },
         {
           "id": 135,
           "paragraph_id": 65,
-          "text": "Just a simple happiness that pressed in on her chest harder than the words before."
+          "text": "Slowly, her shoulders eased."
         },
         {
           "id": 136,
           "paragraph_id": 66,
-          "text": "Slowly, her shoulders eased."
-        },
-        {
-          "id": 137,
-          "paragraph_id": 67,
           "text": "\"He is a rude man, no doubt, but..."
         },
         {
-          "id": 138,
-          "paragraph_id": 67,
+          "id": 137,
+          "paragraph_id": 66,
           "text": "He didn't need to save us,\" she said quietly."
+        },
+        {
+          "id": 138,
+          "paragraph_id": 66,
+          "text": "\"He could have left and not taken on extra risk.\""
         },
         {
           "id": 139,
           "paragraph_id": 67,
-          "text": "\"He could have left and not taken on extra risk.\""
-        },
-        {
-          "id": 140,
-          "paragraph_id": 68,
           "text": "Her gaze softened."
         },
         {
-          "id": 141,
-          "paragraph_id": 68,
+          "id": 140,
+          "paragraph_id": 67,
           "text": "\"Maybe he isn't beyond redemption."
         },
         {
-          "id": 142,
-          "paragraph_id": 68,
+          "id": 141,
+          "paragraph_id": 67,
           "text": "I'll pray for him tonight."
+        },
+        {
+          "id": 142,
+          "paragraph_id": 67,
+          "text": "Maybe the merciful Goddess will look at him in a better light if he repents.\""
         },
         {
           "id": 143,
           "paragraph_id": 68,
-          "text": "Maybe the merciful Goddess will look at him in a better light if he repents.\""
+          "text": "She looked up again."
         },
         {
           "id": 144,
-          "paragraph_id": 69,
-          "text": "She looked up again."
+          "paragraph_id": 68,
+          "text": "\"What's your name, young lady?\""
         },
         {
           "id": 145,
           "paragraph_id": 69,
-          "text": "\"What's your name, young lady?\""
+          "text": "The girl straightened, clearly pleased."
         },
         {
           "id": 146,
           "paragraph_id": 70,
-          "text": "The girl straightened, clearly pleased."
+          "text": "\"Rosie!\" she said, thrusting out a tiny hand."
         },
         {
           "id": 147,
           "paragraph_id": 71,
-          "text": "\"Rosie!\" she said, thrusting out a tiny hand."
+          "text": "Mira smiled despite herself and reached up to shake it."
         },
         {
           "id": 148,
           "paragraph_id": 72,
-          "text": "Mira smiled despite herself and reached up to shake it."
+          "text": "\"Nice to meet you, Rosie,\" she said."
         },
         {
           "id": 149,
-          "paragraph_id": 73,
-          "text": "\"Nice to meet you, Rosie,\" she said."
+          "paragraph_id": 72,
+          "text": "\"I'm Mira.\""
         },
         {
           "id": 150,
           "paragraph_id": 73,
-          "text": "\"I'm Mira.\""
-        },
-        {
-          "id": 151,
-          "paragraph_id": 74,
           "text": "\"Good."
         },
         {
-          "id": 152,
-          "paragraph_id": 74,
+          "id": 151,
+          "paragraph_id": 73,
           "text": "But, sister, you should know something."
+        },
+        {
+          "id": 152,
+          "paragraph_id": 73,
+          "text": "My father will never repent for his actions, so you should stop wasting your time on utter nonsense.\""
         },
         {
           "id": 153,
           "paragraph_id": 74,
-          "text": "My father will never repent for his actions, so you should stop wasting your time on utter nonsense.\""
+          "text": "\"What?\" Mira gasped."
         },
         {
           "id": 154,
-          "paragraph_id": 75,
-          "text": "\"What?\" Mira gasped."
+          "paragraph_id": 74,
+          "text": "Now that she thought about it, why was this creature calling herself his daughter, anyhow?\""
         },
         {
           "id": 155,
           "paragraph_id": 75,
-          "text": "Now that she thought about it, why was this creature calling herself his daughter, anyhow?\""
-        },
-        {
-          "id": 156,
-          "paragraph_id": 76,
           "text": "But then, she heard the sound of distant crying."
         },
         {
-          "id": 157,
-          "paragraph_id": 76,
+          "id": 156,
+          "paragraph_id": 75,
           "text": "\"Ah."
         },
         {
-          "id": 158,
-          "paragraph_id": 76,
+          "id": 157,
+          "paragraph_id": 75,
           "text": "The kids are distressed."
+        },
+        {
+          "id": 158,
+          "paragraph_id": 75,
+          "text": "I'll go help the sisters.\" \"Good girl,\" Rosie repeated, patting Mira's head a few more times for good measure."
         },
         {
           "id": 159,
           "paragraph_id": 76,
-          "text": "I'll go help the sisters.\" \"Good girl,\" Rosie repeated, patting Mira's head a few more times for good measure."
+          "text": "\"...\""
         },
         {
           "id": 160,
           "paragraph_id": 77,
-          "text": "\"...\""
+          "text": "Quinlan turned toward a sound he picked up on all of a sudden."
         },
         {
           "id": 161,
           "paragraph_id": 78,
-          "text": "..."
-        },
-        {
-          "id": 162,
-          "paragraph_id": 79,
-          "text": "Quinlan turned toward a sound he picked up on all of a sudden."
-        },
-        {
-          "id": 163,
-          "paragraph_id": 80,
           "text": "It carried through the broken streets in uneven bursts."
         },
         {
-          "id": 164,
-          "paragraph_id": 80,
+          "id": 162,
+          "paragraph_id": 78,
           "text": "Steel striking armor."
         },
         {
-          "id": 165,
-          "paragraph_id": 80,
+          "id": 163,
+          "paragraph_id": 78,
           "text": "Shouts cut short."
         },
         {
-          "id": 166,
-          "paragraph_id": 80,
+          "id": 164,
+          "paragraph_id": 78,
           "text": "The dull thud of bodies hitting stone."
         },
         {
-          "id": 167,
-          "paragraph_id": 80,
+          "id": 165,
+          "paragraph_id": 78,
           "text": "He stepped to the edge of the roof and crouched, then pushed off."
         },
         {
-          "id": 168,
-          "paragraph_id": 81,
+          "id": 166,
+          "paragraph_id": 79,
           "text": "He landed on the peak of a taller building a few streets away, boots settling without a sound."
+        },
+        {
+          "id": 167,
+          "paragraph_id": 79,
+          "text": "From there, he had a clear view of the avenue below."
+        },
+        {
+          "id": 168,
+          "paragraph_id": 80,
+          "text": "Black Fang moved through it like a blade through butter."
         },
         {
           "id": 169,
           "paragraph_id": 81,
-          "text": "From there, he had a clear view of the avenue below."
-        },
-        {
-          "id": 170,
-          "paragraph_id": 82,
-          "text": "Black Fang moved through it like a blade through butter."
-        },
-        {
-          "id": 171,
-          "paragraph_id": 83,
           "text": "She did not slow."
         },
         {
-          "id": 172,
-          "paragraph_id": 83,
+          "id": 170,
+          "paragraph_id": 81,
           "text": "She did not pause to reset her footing."
         },
         {
-          "id": 173,
-          "paragraph_id": 83,
+          "id": 171,
+          "paragraph_id": 81,
           "text": "Her katana traced short paths, clean and precise, each cut placed where armor failed, or joints opened."
         },
         {
-          "id": 174,
-          "paragraph_id": 83,
+          "id": 172,
+          "paragraph_id": 81,
           "text": "Soldiers tried to raise shields."
         },
         {
-          "id": 175,
-          "paragraph_id": 83,
+          "id": 173,
+          "paragraph_id": 81,
           "text": "Some managed half a turn."
         },
         {
-          "id": 176,
-          "paragraph_id": 83,
+          "id": 174,
+          "paragraph_id": 81,
           "text": "None finished it."
         },
         {
-          "id": 177,
-          "paragraph_id": 84,
+          "id": 175,
+          "paragraph_id": 82,
           "text": "She crossed the distance in blinks."
         },
         {
-          "id": 178,
-          "paragraph_id": 84,
+          "id": 176,
+          "paragraph_id": 82,
           "text": "One moment, she was at the front line."
         },
         {
-          "id": 179,
-          "paragraph_id": 84,
+          "id": 177,
+          "paragraph_id": 82,
           "text": "The next, behind it."
         },
         {
-          "id": 180,
-          "paragraph_id": 84,
+          "id": 178,
+          "paragraph_id": 82,
           "text": "Men fell before they realized she had passed them."
         },
         {
-          "id": 181,
-          "paragraph_id": 84,
+          "id": 179,
+          "paragraph_id": 82,
           "text": "The line collapsed inward on itself as bodies piled where they stood."
         },
         {
-          "id": 182,
-          "paragraph_id": 85,
+          "id": 180,
+          "paragraph_id": 83,
           "text": "Blood marked her path in wide arcs."
         },
         {
-          "id": 183,
-          "paragraph_id": 85,
+          "id": 181,
+          "paragraph_id": 83,
           "text": "It sprayed her sleeves."
         },
         {
-          "id": 184,
-          "paragraph_id": 85,
+          "id": 182,
+          "paragraph_id": 83,
           "text": "It darkened her hands."
         },
         {
-          "id": 185,
-          "paragraph_id": 85,
+          "id": 183,
+          "paragraph_id": 83,
           "text": "It streaked along her cheek and soaked into her hair."
         },
         {
-          "id": 186,
-          "paragraph_id": 85,
+          "id": 184,
+          "paragraph_id": 83,
           "text": "Her skin showed it clearly, pale beneath the red, untouched by fear or hesitation."
         },
         {
-          "id": 187,
-          "paragraph_id": 86,
+          "id": 185,
+          "paragraph_id": 84,
           "text": "There was no waste in her movement."
         },
         {
-          "id": 188,
-          "paragraph_id": 86,
+          "id": 186,
+          "paragraph_id": 84,
           "text": "No flourish meant to impress."
+        },
+        {
+          "id": 187,
+          "paragraph_id": 84,
+          "text": "Only motion that ended lives."
+        },
+        {
+          "id": 188,
+          "paragraph_id": 85,
+          "text": "A murder machine of the highest caliber."
         },
         {
           "id": 189,
           "paragraph_id": 86,
-          "text": "Only motion that ended lives."
+          "text": "Quinlan rested one arm on his knee and watched."
         },
         {
           "id": 190,
           "paragraph_id": 87,
-          "text": "A murder machine of the highest caliber."
-        },
-        {
-          "id": 191,
-          "paragraph_id": 88,
-          "text": "Quinlan rested one arm on his knee and watched."
-        },
-        {
-          "id": 192,
-          "paragraph_id": 89,
           "text": "\"Ah,\" he said quietly."
         },
         {
-          "id": 193,
-          "paragraph_id": 89,
+          "id": 191,
+          "paragraph_id": 87,
           "text": "\"She's still so mesmerizing."
         },
         {
-          "id": 194,
-          "paragraph_id": 89,
+          "id": 192,
+          "paragraph_id": 87,
           "text": "What a breathtaking woman.\""
         },
         {
-          "id": 195,
-          "paragraph_id": 90,
+          "id": 193,
+          "paragraph_id": 88,
           "text": "Black Fang vaulted over a fallen cart, blade flashing once as she passed."
         },
         {
-          "id": 196,
-          "paragraph_id": 90,
+          "id": 194,
+          "paragraph_id": 88,
           "text": "Three heads dropped together, armor clattering as the bodies followed."
         },
         {
-          "id": 197,
-          "paragraph_id": 90,
+          "id": 195,
+          "paragraph_id": 88,
           "text": "She landed, pivoted, and drove forward again without breaking pace."
         },
         {
-          "id": 198,
-          "paragraph_id": 91,
+          "id": 196,
+          "paragraph_id": 89,
           "text": "Grace and menace moved together in her."
         },
         {
-          "id": 199,
-          "paragraph_id": 91,
+          "id": 197,
+          "paragraph_id": 89,
           "text": "Each step measured."
         },
         {
-          "id": 200,
-          "paragraph_id": 91,
+          "id": 198,
+          "paragraph_id": 89,
           "text": "Each strike final."
         },
         {
-          "id": 201,
-          "paragraph_id": 92,
+          "id": 199,
+          "paragraph_id": 90,
           "text": "Quinlan's gaze followed her as she cut through another cluster, blood painting her from shoulder to waist."
+        },
+        {
+          "id": 200,
+          "paragraph_id": 90,
+          "text": "Danger suited her."
+        },
+        {
+          "id": 201,
+          "paragraph_id": 91,
+          "text": "Black Fang was a true beauty, an extremely gorgeous woman."
         },
         {
           "id": 202,
           "paragraph_id": 92,
-          "text": "Danger suited her."
+          "text": "She was also an incredible badass, a cold mass murderer."
         },
         {
           "id": 203,
           "paragraph_id": 93,
-          "text": "Black Fang was a true beauty, an extremely gorgeous woman."
-        },
-        {
-          "id": 204,
-          "paragraph_id": 94,
-          "text": "She was also an incredible badass, a cold mass murderer."
-        },
-        {
-          "id": 205,
-          "paragraph_id": 95,
           "text": "For him, that combination never failed."
         },
         {
-          "id": 206,
-          "paragraph_id": 95,
+          "id": 204,
+          "paragraph_id": 93,
           "text": "A woman who could turn a battlefield into silence while standing calm at its center."
         },
         {
-          "id": 207,
-          "paragraph_id": 95,
+          "id": 205,
+          "paragraph_id": 93,
           "text": "Beauty sharpened by lethality."
         },
         {
-          "id": 208,
-          "paragraph_id": 95,
+          "id": 206,
+          "paragraph_id": 93,
           "text": "A true femme fatale."
         }
       ],
-      "word_count": 1622
+      "word_count": 1620
     },
     {
       "chapter_index": 1357,
@@ -20681,7 +20657,6 @@
         "\"They even explained to her that they're not mad because she refuses to embrace another woman... Many of us refuse that... Eilwen simply can't shut her trap to save the life of her.\"",
         "\"True..\"",
         "The onlookers were in complete agreement.",
-        "...",
         "As the cries of the younger elf were swallowed by the hill and the grannies set about their work, Quinlan reached his destination.",
         "The wind steadied beneath him.",
         "He hovered high above the city, cloak drawn back, boots held aloft by invisible currents. Below, Elvardian forces were pushing to take the walls in disciplined waves. Inside the walls, the dead were already loose.",
@@ -21579,85 +21554,80 @@
         {
           "id": 177,
           "paragraph_id": 76,
-          "text": "..."
+          "text": "As the cries of the younger elf were swallowed by the hill and the grannies set about their work, Quinlan reached his destination."
         },
         {
           "id": 178,
           "paragraph_id": 77,
-          "text": "As the cries of the younger elf were swallowed by the hill and the grannies set about their work, Quinlan reached his destination."
+          "text": "The wind steadied beneath him."
         },
         {
           "id": 179,
           "paragraph_id": 78,
-          "text": "The wind steadied beneath him."
-        },
-        {
-          "id": 180,
-          "paragraph_id": 79,
           "text": "He hovered high above the city, cloak drawn back, boots held aloft by invisible currents."
         },
         {
-          "id": 181,
-          "paragraph_id": 79,
+          "id": 180,
+          "paragraph_id": 78,
           "text": "Below, Elvardian forces were pushing to take the walls in disciplined waves."
+        },
+        {
+          "id": 181,
+          "paragraph_id": 78,
+          "text": "Inside the walls, the dead were already loose."
         },
         {
           "id": 182,
           "paragraph_id": 79,
-          "text": "Inside the walls, the dead were already loose."
-        },
-        {
-          "id": 183,
-          "paragraph_id": 80,
           "text": "Undead shapes flooded alleys and plazas, breaking lines, dragging defenders down, forcing chaos where structure had once stood."
         },
         {
-          "id": 184,
-          "paragraph_id": 80,
+          "id": 183,
+          "paragraph_id": 79,
           "text": "Smoke climbed in uneven columns."
         },
         {
-          "id": 185,
-          "paragraph_id": 80,
+          "id": 184,
+          "paragraph_id": 79,
           "text": "Fires spread without pattern."
+        },
+        {
+          "id": 185,
+          "paragraph_id": 79,
+          "text": "The city fought on two fronts and did not yet understand it."
         },
         {
           "id": 186,
           "paragraph_id": 80,
-          "text": "The city fought on two fronts and did not yet understand it."
-        },
-        {
-          "id": 187,
-          "paragraph_id": 81,
           "text": "Quinlan's gaze moved slowly, taking it in."
         },
         {
-          "id": 188,
-          "paragraph_id": 81,
+          "id": 187,
+          "paragraph_id": 80,
           "text": "The timing."
         },
         {
-          "id": 189,
-          "paragraph_id": 81,
+          "id": 188,
+          "paragraph_id": 80,
           "text": "The pressure."
+        },
+        {
+          "id": 189,
+          "paragraph_id": 80,
+          "text": "The way fear and momentum tangled together."
         },
         {
           "id": 190,
           "paragraph_id": 81,
-          "text": "The way fear and momentum tangled together."
+          "text": "A grin cut across his face."
         },
         {
           "id": 191,
           "paragraph_id": 82,
-          "text": "A grin cut across his face."
-        },
-        {
-          "id": 192,
-          "paragraph_id": 83,
           "text": "\"What a beautiful sight.\""
         }
       ],
-      "word_count": 1436
+      "word_count": 1435
     },
     {
       "chapter_index": 1377,
@@ -21665,7 +21635,6 @@
       "url": "https://novelping.com/book/primordial-villain-with-a-slave-harem/chapter-1377-the-massacre-begins",
       "paragraphs": [
         "Author: The Last chapter has been edited slightly due to some misunderstandings/misinterpretations I saw. The elves are not all lesbians, not at all. The older elves were not trying to force Eilwen to become a lesbian either; they just suggested it, seeing her being lonely. They became angry because she was a rude brat, not because she refused. Thanks for reading, and enjoy the chapters!",
-        "...",
         "Quinlan and his group hovered high in the skies, watching.",
         "Below, the battlefield was in motion.",
         "Undead surged through the lower districts in uneven waves, pushing human defenders out of streets and courtyards that had turned slick with churned dirt and shattered stone. Their movements were ugly but relentless. They climbed over fallen bodies without breaking pace, drawing fire that would have pinned living troops in place.",
@@ -21765,710 +21734,705 @@
         {
           "id": 5,
           "paragraph_id": 1,
-          "text": "..."
+          "text": "Quinlan and his group hovered high in the skies, watching."
         },
         {
           "id": 6,
           "paragraph_id": 2,
-          "text": "Quinlan and his group hovered high in the skies, watching."
+          "text": "Below, the battlefield was in motion."
         },
         {
           "id": 7,
           "paragraph_id": 3,
-          "text": "Below, the battlefield was in motion."
-        },
-        {
-          "id": 8,
-          "paragraph_id": 4,
           "text": "Undead surged through the lower districts in uneven waves, pushing human defenders out of streets and courtyards that had turned slick with churned dirt and shattered stone."
         },
         {
-          "id": 9,
-          "paragraph_id": 4,
+          "id": 8,
+          "paragraph_id": 3,
           "text": "Their movements were ugly but relentless."
+        },
+        {
+          "id": 9,
+          "paragraph_id": 3,
+          "text": "They climbed over fallen bodies without breaking pace, drawing fire that would have pinned living troops in place."
         },
         {
           "id": 10,
           "paragraph_id": 4,
-          "text": "They climbed over fallen bodies without breaking pace, drawing fire that would have pinned living troops in place."
+          "text": "Outside the walls, the Elvardian army advanced."
         },
         {
           "id": 11,
-          "paragraph_id": 5,
-          "text": "Outside the walls, the Elvardian army advanced."
+          "paragraph_id": 4,
+          "text": "Dwarven tankers marched at the front, drawing in devastating ranged attacks that would've pulverized those that stood behind them."
         },
         {
           "id": 12,
           "paragraph_id": 5,
-          "text": "Dwarven tankers marched at the front, drawing in devastating ranged attacks that would've pulverized those that stood behind them."
+          "text": "On the walls, human defenders scrambled."
         },
         {
           "id": 13,
           "paragraph_id": 6,
-          "text": "On the walls, human defenders scrambled."
-        },
-        {
-          "id": 14,
-          "paragraph_id": 7,
           "text": "Quinlan could see it clearly from above."
         },
         {
-          "id": 15,
-          "paragraph_id": 7,
+          "id": 14,
+          "paragraph_id": 6,
           "text": "Crossbow teams rushed into position, hands shaking as they cranked mechanisms that had already overheated once today."
         },
         {
-          "id": 16,
-          "paragraph_id": 7,
+          "id": 15,
+          "paragraph_id": 6,
           "text": "Mages leaned over parapets, trying to angle spells downward now that the barrier was gone."
+        },
+        {
+          "id": 16,
+          "paragraph_id": 6,
+          "text": "Arrows and bolts rained toward the approaching ranks."
         },
         {
           "id": 17,
           "paragraph_id": 7,
-          "text": "Arrows and bolts rained toward the approaching ranks."
+          "text": "Most fell short."
         },
         {
           "id": 18,
           "paragraph_id": 8,
-          "text": "Most fell short."
+          "text": "Then the elves answered."
         },
         {
           "id": 19,
           "paragraph_id": 9,
-          "text": "Then the elves answered."
+          "text": "From behind the dwarven lines, volleys rose in brutal arcs."
         },
         {
           "id": 20,
-          "paragraph_id": 10,
-          "text": "From behind the dwarven lines, volleys rose in brutal arcs."
+          "paragraph_id": 9,
+          "text": "There were no chaotic storms, but clean lines of fire released in staggered timing, each shot placed delicately rather than being thrown and hoping for the best."
         },
         {
           "id": 21,
           "paragraph_id": 10,
-          "text": "There were no chaotic storms, but clean lines of fire released in staggered timing, each shot placed delicately rather than being thrown and hoping for the best."
-        },
-        {
-          "id": 22,
-          "paragraph_id": 11,
           "text": "Human defenders vanished from the walls in clusters."
         },
         {
-          "id": 23,
-          "paragraph_id": 11,
+          "id": 22,
+          "paragraph_id": 10,
           "text": "A figure would rise to aim, then drop out of sight before the string finished vibrating."
+        },
+        {
+          "id": 23,
+          "paragraph_id": 10,
+          "text": "Spellcasters slumped backward, hands still raised, light fading from unfinished constructs."
         },
         {
           "id": 24,
           "paragraph_id": 11,
-          "text": "Spellcasters slumped backward, hands still raised, light fading from unfinished constructs."
+          "text": "Quinlan watched it unfold and let out a slow breath."
         },
         {
           "id": 25,
           "paragraph_id": 12,
-          "text": "Quinlan watched it unfold and let out a slow breath."
+          "text": "\"I always knew elves were devastating archers, but seeing this..."
         },
         {
           "id": 26,
-          "paragraph_id": 13,
-          "text": "\"I always knew elves were devastating archers, but seeing this..."
+          "paragraph_id": 12,
+          "text": "It puts everything in a new line for me.\" He'd already seen elven archery, but never a thousand of them standing shoulder to shoulder and releasing pure death in the form of a relentless downpour of devastation."
         },
         {
           "id": 27,
           "paragraph_id": 13,
-          "text": "It puts everything in a new line for me.\" He'd already seen elven archery, but never a thousand of them standing shoulder to shoulder and releasing pure death in the form of a relentless downpour of devastation."
-        },
-        {
-          "id": 28,
-          "paragraph_id": 14,
           "text": "Sylvaris, the moon mage elf, spoke up suddenly."
         },
         {
-          "id": 29,
-          "paragraph_id": 14,
+          "id": 28,
+          "paragraph_id": 13,
           "text": "Her long hair was bound tight for war, and her robes drawn in close so they would not interfere."
+        },
+        {
+          "id": 29,
+          "paragraph_id": 13,
+          "text": "Her eyes followed the volleys as she explained,"
         },
         {
           "id": 30,
           "paragraph_id": 14,
-          "text": "Her eyes followed the volleys as she explained,"
-        },
-        {
-          "id": 31,
-          "paragraph_id": 15,
           "text": "\"Elves live long lives."
         },
         {
-          "id": 32,
-          "paragraph_id": 15,
+          "id": 31,
+          "paragraph_id": 14,
           "text": "Long enough to repeat the same motion millions of times."
         },
         {
-          "id": 33,
-          "paragraph_id": 15,
+          "id": 32,
+          "paragraph_id": 14,
           "text": "Drawing."
         },
         {
-          "id": 34,
-          "paragraph_id": 15,
+          "id": 33,
+          "paragraph_id": 14,
           "text": "Anchoring."
         },
         {
-          "id": 35,
-          "paragraph_id": 15,
+          "id": 34,
+          "paragraph_id": 14,
           "text": "Release."
         },
         {
-          "id": 36,
-          "paragraph_id": 15,
+          "id": 35,
+          "paragraph_id": 14,
           "text": "Correction."
         },
         {
-          "id": 37,
-          "paragraph_id": 15,
+          "id": 36,
+          "paragraph_id": 14,
           "text": "Again."
         },
         {
-          "id": 38,
-          "paragraph_id": 15,
+          "id": 37,
+          "paragraph_id": 14,
           "text": "Furthermore, we elves are serene, stationary people by nature."
         },
         {
-          "id": 39,
-          "paragraph_id": 15,
+          "id": 38,
+          "paragraph_id": 14,
           "text": "This allows us to practice our craft with extraordinary patience."
+        },
+        {
+          "id": 39,
+          "paragraph_id": 14,
+          "text": "Where members of other races would've grown bored and burned out of repeating the same motions, we feel at peace.\""
         },
         {
           "id": 40,
           "paragraph_id": 15,
-          "text": "Where members of other races would've grown bored and burned out of repeating the same motions, we feel at peace.\""
+          "text": "Another volley fell."
         },
         {
           "id": 41,
-          "paragraph_id": 16,
-          "text": "Another volley fell."
+          "paragraph_id": 15,
+          "text": "Another stretch of wall went quiet."
         },
         {
           "id": 42,
           "paragraph_id": 16,
-          "text": "Another stretch of wall went quiet."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 17,
           "text": "\"Most of us have a natural inclination for ranged combat,\" she continued."
         },
         {
-          "id": 44,
-          "paragraph_id": 17,
+          "id": 43,
+          "paragraph_id": 16,
           "text": "\"Balance, perception, spatial awareness."
         },
         {
-          "id": 45,
-          "paragraph_id": 17,
+          "id": 44,
+          "paragraph_id": 16,
           "text": "When you give people like that thousands of years to train, combined with extreme amounts of patience, you don't get mere archers."
+        },
+        {
+          "id": 45,
+          "paragraph_id": 16,
+          "text": "You get instruments of death.\""
         },
         {
           "id": 46,
           "paragraph_id": 17,
-          "text": "You get instruments of death.\""
+          "text": "Quinlan glanced at her."
         },
         {
           "id": 47,
           "paragraph_id": 18,
-          "text": "Quinlan glanced at her."
+          "text": "She did not look away from the battlefield."
         },
         {
           "id": 48,
           "paragraph_id": 19,
-          "text": "She did not look away from the battlefield."
-        },
-        {
-          "id": 49,
-          "paragraph_id": 20,
           "text": "\"Faster release cycles,\" Sylvaris went on."
         },
         {
-          "id": 50,
-          "paragraph_id": 20,
+          "id": 49,
+          "paragraph_id": 19,
           "text": "\"Tighter groupings."
         },
         {
-          "id": 51,
-          "paragraph_id": 20,
+          "id": 50,
+          "paragraph_id": 19,
           "text": "Better judgment of wind, distance, and movement."
         },
         {
-          "id": 52,
-          "paragraph_id": 20,
+          "id": 51,
+          "paragraph_id": 19,
           "text": "Other races compensate with numbers or power."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 19,
+          "text": "We refine.\""
         },
         {
           "id": 53,
           "paragraph_id": 20,
-          "text": "We refine.\""
-        },
-        {
-          "id": 54,
-          "paragraph_id": 21,
           "text": "A ladder reached the wall."
         },
         {
-          "id": 55,
-          "paragraph_id": 21,
+          "id": 54,
+          "paragraph_id": 20,
           "text": "Dwarven shock troops rushed up behind their shields."
+        },
+        {
+          "id": 55,
+          "paragraph_id": 20,
+          "text": "Above them, an elven volley cut down the defenders trying to push the ladder back."
         },
         {
           "id": 56,
           "paragraph_id": 21,
-          "text": "Above them, an elven volley cut down the defenders trying to push the ladder back."
+          "text": "Sylvaris finally allowed herself a small lift of her chin."
         },
         {
           "id": 57,
           "paragraph_id": 22,
-          "text": "Sylvaris finally allowed herself a small lift of her chin."
+          "text": "\"I may be a mage who can't even handle a bow without embarrassing myself, but I am proud of my people.\""
         },
         {
           "id": 58,
           "paragraph_id": 23,
-          "text": "\"I may be a mage who can't even handle a bow without embarrassing myself, but I am proud of my people.\""
-        },
-        {
-          "id": 59,
-          "paragraph_id": 24,
           "text": "\"And for a good reason,\" Quinlan nodded with a fond smile."
         },
         {
-          "id": 60,
-          "paragraph_id": 24,
+          "id": 59,
+          "paragraph_id": 23,
           "text": "He was amazed by this display as well."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 23,
+          "text": "Based on the sight, so were most of his allies."
         },
         {
           "id": 61,
           "paragraph_id": 24,
-          "text": "Based on the sight, so were most of his allies."
+          "text": "\"Now then, ladies."
         },
         {
           "id": 62,
-          "paragraph_id": 25,
-          "text": "\"Now then, ladies."
+          "paragraph_id": 24,
+          "text": "Let's get to work, shall we?\""
         },
         {
           "id": 63,
           "paragraph_id": 25,
-          "text": "Let's get to work, shall we?\""
-        },
-        {
-          "id": 64,
-          "paragraph_id": 26,
           "text": "They answered without words."
         },
         {
-          "id": 65,
-          "paragraph_id": 26,
+          "id": 64,
+          "paragraph_id": 25,
           "text": "A shift in stance."
         },
         {
-          "id": 66,
-          "paragraph_id": 26,
+          "id": 65,
+          "paragraph_id": 25,
           "text": "A tightening of grips."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 25,
+          "text": "One by one, they nodded."
         },
         {
           "id": 67,
           "paragraph_id": 26,
-          "text": "One by one, they nodded."
+          "text": "Sylvaris spoke again."
         },
         {
           "id": 68,
           "paragraph_id": 27,
-          "text": "Sylvaris spoke again."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 28,
           "text": "\"Prodigious Son."
         },
         {
-          "id": 70,
-          "paragraph_id": 28,
+          "id": 69,
+          "paragraph_id": 27,
           "text": "I have a suggestion."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 27,
+          "text": "If we repeat the same strategies too often, our enemies will adapt.\""
         },
         {
           "id": 71,
           "paragraph_id": 28,
-          "text": "If we repeat the same strategies too often, our enemies will adapt.\""
+          "text": "Quinlan turned his head toward her, and he smiled, already aware of what she had in mind."
         },
         {
           "id": 72,
           "paragraph_id": 29,
-          "text": "Quinlan turned his head toward her, and he smiled, already aware of what she had in mind."
+          "text": "\"I know,\" he replied."
         },
         {
           "id": 73,
-          "paragraph_id": 30,
-          "text": "\"I know,\" he replied."
+          "paragraph_id": 29,
+          "text": "\"Go ahead, mother-in-law.\""
         },
         {
           "id": 74,
           "paragraph_id": 30,
-          "text": "\"Go ahead, mother-in-law.\""
-        },
-        {
-          "id": 75,
-          "paragraph_id": 31,
           "text": "For the briefest moment, she blinked."
         },
         {
-          "id": 76,
-          "paragraph_id": 31,
+          "id": 75,
+          "paragraph_id": 30,
           "text": "But no protest followed."
         },
         {
-          "id": 77,
-          "paragraph_id": 31,
+          "id": 76,
+          "paragraph_id": 30,
           "text": "Seraphiel might not carry his mark in any formal sense yet, but the bond was already settled in quieter ways."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 30,
+          "text": "In their hearts, those two have been engaged for months now."
         },
         {
           "id": 78,
           "paragraph_id": 31,
-          "text": "In their hearts, those two have been engaged for months now."
+          "text": "Sylvaris raised both hands."
         },
         {
           "id": 79,
           "paragraph_id": 32,
-          "text": "Sylvaris raised both hands."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 33,
           "text": "Silver light gathered around her fingers, dense and controlled, flowing outward in clean lines rather than bursts."
         },
         {
-          "id": 81,
-          "paragraph_id": 33,
+          "id": 80,
+          "paragraph_id": 32,
           "text": "The air bent as shapes took form."
         },
         {
-          "id": 82,
-          "paragraph_id": 33,
+          "id": 81,
+          "paragraph_id": 32,
           "text": "One after another, constructs assembled themselves."
         },
         {
-          "id": 83,
-          "paragraph_id": 33,
+          "id": 82,
+          "paragraph_id": 32,
           "text": "They sported smooth frames of pale magic and wings unfolded from their backs."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 32,
+          "text": "Winged mounts, long-bodied and stable, built to carry riders rather than for speed alone."
         },
         {
           "id": 84,
           "paragraph_id": 33,
-          "text": "Winged mounts, long-bodied and stable, built to carry riders rather than for speed alone."
+          "text": "The girls moved without needing instruction."
         },
         {
           "id": 85,
           "paragraph_id": 34,
-          "text": "The girls moved without needing instruction."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 35,
           "text": "Each took a seat, balance natural, knees locking in as if they had done this countless times before."
         },
         {
-          "id": 87,
-          "paragraph_id": 35,
+          "id": 86,
+          "paragraph_id": 34,
           "text": "They had."
         },
         {
-          "id": 88,
-          "paragraph_id": 35,
+          "id": 87,
+          "paragraph_id": 34,
           "text": "This was not a new tactic."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 34,
+          "text": "It was a practiced one."
         },
         {
           "id": 89,
           "paragraph_id": 35,
-          "text": "It was a practiced one."
+          "text": "Aurora cast next."
         },
         {
           "id": 90,
           "paragraph_id": 36,
-          "text": "Aurora cast next."
+          "text": "She lifted her staff and drew a wide arc through the air."
         },
         {
           "id": 91,
-          "paragraph_id": 37,
-          "text": "She lifted her staff and drew a wide arc through the air."
+          "paragraph_id": 36,
+          "text": "Light spread outward and settled over the group, forming a layered barrier that moved with them."
         },
         {
           "id": 92,
           "paragraph_id": 37,
-          "text": "Light spread outward and settled over the group, forming a layered barrier that moved with them."
+          "text": "Flying shock troops."
         },
         {
           "id": 93,
           "paragraph_id": 38,
-          "text": "Flying shock troops."
-        },
-        {
-          "id": 94,
-          "paragraph_id": 39,
           "text": "Fast."
         },
         {
-          "id": 95,
-          "paragraph_id": 39,
+          "id": 94,
+          "paragraph_id": 38,
           "text": "Protected."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 38,
+          "text": "Able to strike, reposition, and strike again before ground forces could respond."
         },
         {
           "id": 96,
           "paragraph_id": 39,
-          "text": "Able to strike, reposition, and strike again before ground forces could respond."
+          "text": "They were incredibly deadly."
         },
         {
           "id": 97,
           "paragraph_id": 40,
-          "text": "They were incredibly deadly."
+          "text": "Sylvaris lowered her hands as the last construct stabilized."
         },
         {
           "id": 98,
           "paragraph_id": 41,
-          "text": "Sylvaris lowered her hands as the last construct stabilized."
+          "text": "\"See you later, Quin!\""
         },
         {
           "id": 99,
           "paragraph_id": 42,
-          "text": "\"See you later, Quin!\""
+          "text": "\"Have fun becoming the person you want to be!\""
         },
         {
           "id": 100,
           "paragraph_id": 43,
-          "text": "\"Have fun becoming the person you want to be!\""
+          "text": "\"Have no regrets!\""
         },
         {
           "id": 101,
           "paragraph_id": 44,
-          "text": "\"Have no regrets!\""
+          "text": "\"I love you!\""
         },
         {
           "id": 102,
           "paragraph_id": 45,
-          "text": "\"I love you!\""
+          "text": "The girls cheerily said their goodbyes, many blowing him kisses or just offering loving smiles."
         },
         {
           "id": 103,
           "paragraph_id": 46,
-          "text": "The girls cheerily said their goodbyes, many blowing him kisses or just offering loving smiles."
+          "text": "Then they leaned forward, mounts angling down, wings biting into the air."
         },
         {
           "id": 104,
-          "paragraph_id": 47,
-          "text": "Then they leaned forward, mounts angling down, wings biting into the air."
+          "paragraph_id": 46,
+          "text": "In seconds, they peeled away from Quinlan, forming silver shapes that were streaking toward the walls."
         },
         {
           "id": 105,
           "paragraph_id": 47,
-          "text": "In seconds, they peeled away from Quinlan, forming silver shapes that were streaking toward the walls."
+          "text": "Quinlan watched them go until distance swallowed their forms."
         },
         {
           "id": 106,
           "paragraph_id": 48,
-          "text": "Quinlan watched them go until distance swallowed their forms."
+          "text": "Only he remained, hovering with the Black Fang gang at his side."
         },
         {
           "id": 107,
           "paragraph_id": 49,
-          "text": "Only he remained, hovering with the Black Fang gang at his side."
+          "text": "\"Why did she not summon horsies for us?\" Vex whimpered."
         },
         {
           "id": 108,
-          "paragraph_id": 50,
-          "text": "\"Why did she not summon horsies for us?\" Vex whimpered."
+          "paragraph_id": 49,
+          "text": "\"Such a cruel auntie!\""
         },
         {
           "id": 109,
           "paragraph_id": 50,
-          "text": "\"Such a cruel auntie!\""
+          "text": "\"Because I told her not to,\" Quinlan replied with a nonchalant voice."
         },
         {
           "id": 110,
           "paragraph_id": 51,
-          "text": "\"Because I told her not to,\" Quinlan replied with a nonchalant voice."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 52,
           "text": "\"Huh?"
         },
         {
-          "id": 112,
-          "paragraph_id": 52,
+          "id": 111,
+          "paragraph_id": 51,
           "text": "Why did you do that, Hubby?\" Vex gasped."
         },
         {
-          "id": 113,
-          "paragraph_id": 52,
+          "id": 112,
+          "paragraph_id": 51,
           "text": "\"She can create four more horsies easily!"
+        },
+        {
+          "id": 113,
+          "paragraph_id": 51,
+          "text": "It wouldn't tax her too much.\""
         },
         {
           "id": 114,
           "paragraph_id": 52,
-          "text": "It wouldn't tax her too much.\""
+          "text": "\"Because horsies reduce the effectiveness of you four ancient ladies."
         },
         {
           "id": 115,
-          "paragraph_id": 53,
-          "text": "\"Because horsies reduce the effectiveness of you four ancient ladies."
+          "paragraph_id": 52,
+          "text": "My girls have been training for combat using Sylvaris's moonlit constructs, but you four have been fighting together for over a hundred years, while Black Fang, Orianna, and Raika have never ridden a horsie like that before.\""
         },
         {
           "id": 116,
           "paragraph_id": 53,
-          "text": "My girls have been training for combat using Sylvaris's moonlit constructs, but you four have been fighting together for over a hundred years, while Black Fang, Orianna, and Raika have never ridden a horsie like that before.\""
+          "text": "\"You ancient ladies.\""
         },
         {
           "id": 117,
           "paragraph_id": 54,
-          "text": "\"You ancient ladies.\""
+          "text": "That was as far as the sentence got."
         },
         {
           "id": 118,
           "paragraph_id": 55,
-          "text": "That was as far as the sentence got."
+          "text": "As far as the women were concerned, the rest of Quinlan's explanation vanished into the void."
         },
         {
           "id": 119,
-          "paragraph_id": 56,
-          "text": "As far as the women were concerned, the rest of Quinlan's explanation vanished into the void."
+          "paragraph_id": 55,
+          "text": "Or, rather, it never even existed."
         },
         {
           "id": 120,
           "paragraph_id": 56,
-          "text": "Or, rather, it never even existed."
-        },
-        {
-          "id": 121,
-          "paragraph_id": 57,
           "text": "Vex's ears twitched once."
         },
         {
-          "id": 122,
-          "paragraph_id": 57,
+          "id": 121,
+          "paragraph_id": 56,
           "text": "Orianna's expression went very still."
         },
         {
-          "id": 123,
-          "paragraph_id": 57,
+          "id": 122,
+          "paragraph_id": 56,
           "text": "And Black Fang..."
+        },
+        {
+          "id": 123,
+          "paragraph_id": 56,
+          "text": "The Venomborne Terror in her frame was seeping out."
         },
         {
           "id": 124,
           "paragraph_id": 57,
-          "text": "The Venomborne Terror in her frame was seeping out."
+          "text": "The women slowly turned their heads toward him."
         },
         {
           "id": 125,
           "paragraph_id": 58,
-          "text": "The women slowly turned their heads toward him."
+          "text": "Their eyes burned with the unified, concentrated fury of offended femininity."
         },
         {
           "id": 126,
           "paragraph_id": 59,
-          "text": "Their eyes burned with the unified, concentrated fury of offended femininity."
+          "text": "\"Ancient?\" Vex repeated softly."
         },
         {
           "id": 127,
           "paragraph_id": 60,
-          "text": "\"Ancient?\" Vex repeated softly."
-        },
-        {
-          "id": 128,
-          "paragraph_id": 61,
           "text": "Quinlan felt it immediately."
         },
         {
-          "id": 129,
-          "paragraph_id": 61,
+          "id": 128,
+          "paragraph_id": 60,
           "text": "The pressure."
         },
         {
-          "id": 130,
-          "paragraph_id": 61,
+          "id": 129,
+          "paragraph_id": 60,
           "text": "The silent, suffocating judgment."
+        },
+        {
+          "id": 130,
+          "paragraph_id": 60,
+          "text": "He cleared his throat."
         },
         {
           "id": 131,
           "paragraph_id": 61,
-          "text": "He cleared his throat."
+          "text": "\"What I meant was-\""
         },
         {
           "id": 132,
           "paragraph_id": 62,
-          "text": "\"What I meant was-\""
+          "text": "Too late."
         },
         {
           "id": 133,
           "paragraph_id": 63,
-          "text": "Too late."
+          "text": "The glares sharpened."
         },
         {
           "id": 134,
-          "paragraph_id": 64,
-          "text": "The glares sharpened."
+          "paragraph_id": 63,
+          "text": "Three of them weren't even blinking anymore."
         },
         {
           "id": 135,
           "paragraph_id": 64,
-          "text": "Three of them weren't even blinking anymore."
+          "text": "Raika, meanwhile, looked between them, then up at Quinlan, completely unbothered."
         },
         {
           "id": 136,
           "paragraph_id": 65,
-          "text": "Raika, meanwhile, looked between them, then up at Quinlan, completely unbothered."
-        },
-        {
-          "id": 137,
-          "paragraph_id": 66,
           "text": "\"Then what?"
         },
         {
-          "id": 138,
-          "paragraph_id": 66,
+          "id": 137,
+          "paragraph_id": 65,
           "text": "I hope you don't expect me to sit this one out just because I can't ride horses."
+        },
+        {
+          "id": 138,
+          "paragraph_id": 65,
+          "text": "If that's the case, you'd better let me down before I begin swinging.\""
         },
         {
           "id": 139,
           "paragraph_id": 66,
-          "text": "If that's the case, you'd better let me down before I begin swinging.\""
+          "text": "Her raven hair whipped around her face as she leaned forward, eyes bright, fists already clenching."
         },
         {
           "id": 140,
-          "paragraph_id": 67,
-          "text": "Her raven hair whipped around her face as she leaned forward, eyes bright, fists already clenching."
+          "paragraph_id": 66,
+          "text": "\"I hate watching without partaking.\""
         },
         {
           "id": 141,
           "paragraph_id": 67,
-          "text": "\"I hate watching without partaking.\""
+          "text": "Quinlan's lips curved."
         },
         {
           "id": 142,
           "paragraph_id": 68,
-          "text": "Quinlan's lips curved."
+          "text": "\"You, dearest Raika,\" he said, tone suddenly pleased, \"have hit the nail right on the head.\""
         },
         {
           "id": 143,
           "paragraph_id": 69,
-          "text": "\"You, dearest Raika,\" he said, tone suddenly pleased, \"have hit the nail right on the head.\""
-        },
-        {
-          "id": 144,
-          "paragraph_id": 70,
           "text": "She blinked."
         },
         {
-          "id": 145,
-          "paragraph_id": 70,
+          "id": 144,
+          "paragraph_id": 69,
           "text": "\"What do you-\""
         }
       ],
-      "word_count": 1261
+      "word_count": 1260
     },
     {
       "chapter_index": 1378,
@@ -24133,7 +24097,6 @@
         "They stepped forward in unison, bodies aligning without a word. The eldest took the center, feet braced, shoulders squared. The other two flanked her, half a step back, forming a shallow arc that placed their bodies squarely between Halveth and the open chamber.",
         "Arms lifted. Palms turned outward.",
         "Halveth crouched behind them, fingers digging into the back of the eldest's robe, knuckles white.",
-        "...",
         "The command of her master wrapped around Vaelith's throat.",
         "Her body moved before her thoughts finished forming. Muscles aligned. Weight settled into her heels. Arms lifted, palms open, empty, exposed. The position was wrong. Defensive without tools. Ritual without honor.",
         "Inside, something folded.",
@@ -24141,8 +24104,7 @@
         "A tear never reached her eye. It slid inward, dissolving before it could become anything he might notice.",
         "She knew.",
         "She had known the moment the sky answered that man.",
-        "She had no chance.",
-        "..."
+        "She had no chance."
       ],
       "sentences": [
         {
@@ -24968,100 +24930,90 @@
         {
           "id": 164,
           "paragraph_id": 77,
-          "text": "..."
+          "text": "The command of her master wrapped around Vaelith's throat."
         },
         {
           "id": 165,
           "paragraph_id": 78,
-          "text": "The command of her master wrapped around Vaelith's throat."
-        },
-        {
-          "id": 166,
-          "paragraph_id": 79,
           "text": "Her body moved before her thoughts finished forming."
         },
         {
-          "id": 167,
-          "paragraph_id": 79,
+          "id": 166,
+          "paragraph_id": 78,
           "text": "Muscles aligned."
         },
         {
-          "id": 168,
-          "paragraph_id": 79,
+          "id": 167,
+          "paragraph_id": 78,
           "text": "Weight settled into her heels."
         },
         {
-          "id": 169,
-          "paragraph_id": 79,
+          "id": 168,
+          "paragraph_id": 78,
           "text": "Arms lifted, palms open, empty, exposed."
         },
         {
-          "id": 170,
-          "paragraph_id": 79,
+          "id": 169,
+          "paragraph_id": 78,
           "text": "The position was wrong."
         },
         {
-          "id": 171,
-          "paragraph_id": 79,
+          "id": 170,
+          "paragraph_id": 78,
           "text": "Defensive without tools."
+        },
+        {
+          "id": 171,
+          "paragraph_id": 78,
+          "text": "Ritual without honor."
         },
         {
           "id": 172,
           "paragraph_id": 79,
-          "text": "Ritual without honor."
+          "text": "Inside, something folded."
         },
         {
           "id": 173,
           "paragraph_id": 80,
-          "text": "Inside, something folded."
-        },
-        {
-          "id": 174,
-          "paragraph_id": 81,
           "text": "Vaelith felt it the way one feels a hand closing around the throat while the lungs still work."
         },
         {
-          "id": 175,
-          "paragraph_id": 81,
+          "id": 174,
+          "paragraph_id": 80,
           "text": "Thought continued."
+        },
+        {
+          "id": 175,
+          "paragraph_id": 80,
+          "text": "Choice did not."
         },
         {
           "id": 176,
           "paragraph_id": 81,
-          "text": "Choice did not."
+          "text": "A tear never reached her eye."
         },
         {
           "id": 177,
-          "paragraph_id": 82,
-          "text": "A tear never reached her eye."
+          "paragraph_id": 81,
+          "text": "It slid inward, dissolving before it could become anything he might notice."
         },
         {
           "id": 178,
           "paragraph_id": 82,
-          "text": "It slid inward, dissolving before it could become anything he might notice."
+          "text": "She knew."
         },
         {
           "id": 179,
           "paragraph_id": 83,
-          "text": "She knew."
+          "text": "She had known the moment the sky answered that man."
         },
         {
           "id": 180,
           "paragraph_id": 84,
-          "text": "She had known the moment the sky answered that man."
-        },
-        {
-          "id": 181,
-          "paragraph_id": 85,
           "text": "She had no chance."
-        },
-        {
-          "id": 182,
-          "paragraph_id": 86,
-          "text": "..."
         }
       ],
-      "word_count": 1502
+      "word_count": 1500
     },
     {
       "chapter_index": 1381,
@@ -25120,7 +25072,6 @@
         "Her lips moved.",
         "\"Thank you...\"",
         "Then the world went dark.",
-        "...",
         "Quinlan stayed seated for a breath longer.",
         "The three elves lay where they had fallen, bodies slack, breathing shallow and even. Then he exhaled.",
         "\"As a slave master myself, I might not have the right to judge...\"",
@@ -25679,275 +25630,270 @@
         {
           "id": 105,
           "paragraph_id": 52,
-          "text": "..."
+          "text": "Quinlan stayed seated for a breath longer."
         },
         {
           "id": 106,
           "paragraph_id": 53,
-          "text": "Quinlan stayed seated for a breath longer."
+          "text": "The three elves lay where they had fallen, bodies slack, breathing shallow and even."
         },
         {
           "id": 107,
-          "paragraph_id": 54,
-          "text": "The three elves lay where they had fallen, bodies slack, breathing shallow and even."
+          "paragraph_id": 53,
+          "text": "Then he exhaled."
         },
         {
           "id": 108,
           "paragraph_id": 54,
-          "text": "Then he exhaled."
+          "text": "\"As a slave master myself, I might not have the right to judge...\""
         },
         {
           "id": 109,
           "paragraph_id": 55,
-          "text": "\"As a slave master myself, I might not have the right to judge...\""
+          "text": "His gaze shifted to Halveth's corpse."
         },
         {
           "id": 110,
           "paragraph_id": 56,
-          "text": "His gaze shifted to Halveth's corpse."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 57,
           "text": "\"But man, what a cowardly piece of shit."
         },
         {
-          "id": 112,
-          "paragraph_id": 57,
+          "id": 111,
+          "paragraph_id": 56,
           "text": "I don't even want to claim your soul."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 56,
+          "text": "It'd taint me.\""
         },
         {
           "id": 113,
           "paragraph_id": 57,
-          "text": "It'd taint me.\""
+          "text": "Then he looked up toward the sky."
         },
         {
           "id": 114,
-          "paragraph_id": 58,
-          "text": "Then he looked up toward the sky."
+          "paragraph_id": 57,
+          "text": "\"Lilyanna, you can have him.\""
         },
         {
           "id": 115,
           "paragraph_id": 58,
-          "text": "\"Lilyanna, you can have him.\""
+          "text": "Quinlan raised his hand and snapped his fingers."
         },
         {
           "id": 116,
           "paragraph_id": 59,
-          "text": "Quinlan raised his hand and snapped his fingers."
+          "text": "The stone obeyed."
         },
         {
           "id": 117,
           "paragraph_id": 60,
-          "text": "The stone obeyed."
-        },
-        {
-          "id": 118,
-          "paragraph_id": 61,
           "text": "The pillar inside Havleth's corpse thickened in a slow swell."
         },
         {
-          "id": 119,
-          "paragraph_id": 61,
+          "id": 118,
+          "paragraph_id": 60,
           "text": "Rock pressed outward, expanding."
         },
         {
-          "id": 120,
-          "paragraph_id": 61,
+          "id": 119,
+          "paragraph_id": 60,
           "text": "Flesh stretched."
         },
         {
-          "id": 121,
-          "paragraph_id": 61,
+          "id": 120,
+          "paragraph_id": 60,
           "text": "Bone bowed."
         },
         {
-          "id": 122,
-          "paragraph_id": 61,
+          "id": 121,
+          "paragraph_id": 60,
           "text": "His spine arched, then failed."
+        },
+        {
+          "id": 122,
+          "paragraph_id": 60,
+          "text": "The sound was dull and wet, more pressure than impact."
         },
         {
           "id": 123,
           "paragraph_id": 61,
-          "text": "The sound was dull and wet, more pressure than impact."
+          "text": "Quinlan turned his wrist."
         },
         {
           "id": 124,
           "paragraph_id": 62,
-          "text": "Quinlan turned his wrist."
+          "text": "Wind answered."
         },
         {
           "id": 125,
           "paragraph_id": 63,
-          "text": "Wind answered."
-        },
-        {
-          "id": 126,
-          "paragraph_id": 64,
           "text": "A clean current wrapped around the three elves, lifting them just enough that their hair stirred and their robes shifted."
         },
         {
-          "id": 127,
-          "paragraph_id": 64,
+          "id": 126,
+          "paragraph_id": 63,
           "text": "The air carried them toward him, gentle and steady, and moved through the portal he summoned just now."
         },
         {
-          "id": 128,
-          "paragraph_id": 64,
+          "id": 127,
+          "paragraph_id": 63,
           "text": "Miri Town lay on the other side, sunlit and calm."
         },
         {
-          "id": 129,
-          "paragraph_id": 64,
+          "id": 128,
+          "paragraph_id": 63,
           "text": "Jasmine stood waiting for the new arrivals."
+        },
+        {
+          "id": 129,
+          "paragraph_id": 63,
+          "text": "As the governor of his lands, she's been very busy, and even more so since he began migrating thousands of slaves of various races over."
         },
         {
           "id": 130,
           "paragraph_id": 64,
-          "text": "As the governor of his lands, she's been very busy, and even more so since he began migrating thousands of slaves of various races over."
+          "text": "But the brunette merchant girl with big ambitions was more than ready for the challenge."
         },
         {
           "id": 131,
           "paragraph_id": 65,
-          "text": "But the brunette merchant girl with big ambitions was more than ready for the challenge."
+          "text": "\"Hm?"
         },
         {
           "id": 132,
-          "paragraph_id": 66,
-          "text": "\"Hm?"
+          "paragraph_id": 65,
+          "text": "Quin is already at work, I see,\" she smiled fondly while stepping forward, reaching out to hold the paralyzed ladies as they drifted through."
         },
         {
           "id": 133,
           "paragraph_id": 66,
-          "text": "Quin is already at work, I see,\" she smiled fondly while stepping forward, reaching out to hold the paralyzed ladies as they drifted through."
+          "text": "They were gone before the stone finished its work."
         },
         {
           "id": 134,
           "paragraph_id": 67,
-          "text": "They were gone before the stone finished its work."
+          "text": "The pillar continued to expand."
         },
         {
           "id": 135,
           "paragraph_id": 68,
-          "text": "The pillar continued to expand."
-        },
-        {
-          "id": 136,
-          "paragraph_id": 69,
           "text": "Halveth's body gave way from the inside out."
         },
         {
-          "id": 137,
-          "paragraph_id": 69,
+          "id": 136,
+          "paragraph_id": 68,
           "text": "Armor split along seams never meant to bear outward force."
         },
         {
-          "id": 138,
-          "paragraph_id": 69,
+          "id": 137,
+          "paragraph_id": 68,
           "text": "What remained could not hold together."
+        },
+        {
+          "id": 138,
+          "paragraph_id": 68,
+          "text": "The stone reached its limit and stopped."
         },
         {
           "id": 139,
           "paragraph_id": 69,
-          "text": "The stone reached its limit and stopped."
+          "text": "Then everything else failed."
         },
         {
           "id": 140,
           "paragraph_id": 70,
-          "text": "Then everything else failed."
-        },
-        {
-          "id": 141,
-          "paragraph_id": 71,
           "text": "The chamber was painted in a single violent moment."
         },
         {
-          "id": 142,
-          "paragraph_id": 71,
+          "id": 141,
+          "paragraph_id": 70,
           "text": "Walls."
         },
         {
-          "id": 143,
-          "paragraph_id": 71,
+          "id": 142,
+          "paragraph_id": 70,
           "text": "Pillars."
+        },
+        {
+          "id": 143,
+          "paragraph_id": 70,
+          "text": "The ornate carpet Halveth had commissioned himself."
         },
         {
           "id": 144,
           "paragraph_id": 71,
-          "text": "The ornate carpet Halveth had commissioned himself."
+          "text": "Quinlan pushed his palm forward."
         },
         {
           "id": 145,
           "paragraph_id": 72,
-          "text": "Quinlan pushed his palm forward."
-        },
-        {
-          "id": 146,
-          "paragraph_id": 73,
           "text": "Wind slammed outward, hard and precise, forcing the spray of blood and innards away from him."
         },
         {
-          "id": 147,
-          "paragraph_id": 73,
+          "id": 146,
+          "paragraph_id": 72,
           "text": "Nothing touched his armor."
+        },
+        {
+          "id": 147,
+          "paragraph_id": 72,
+          "text": "Not a drop."
         },
         {
           "id": 148,
           "paragraph_id": 73,
-          "text": "Not a drop."
+          "text": "When the air settled, the pillar stood alone, thick and inert, its burden gone."
         },
         {
           "id": 149,
           "paragraph_id": 74,
-          "text": "When the air settled, the pillar stood alone, thick and inert, its burden gone."
+          "text": "Quinlan rose from the windowsill at last."
         },
         {
           "id": 150,
           "paragraph_id": 75,
-          "text": "Quinlan rose from the windowsill at last."
+          "text": "He glanced once more at the empty space where the elves had been, then turned and flew out of the window, looking for his next prey."
         },
         {
           "id": 151,
           "paragraph_id": 76,
-          "text": "He glanced once more at the empty space where the elves had been, then turned and flew out of the window, looking for his next prey."
+          "text": "And just like this, minutes passed."
         },
         {
           "id": 152,
-          "paragraph_id": 77,
-          "text": "And just like this, minutes passed."
+          "paragraph_id": 76,
+          "text": "The terror of the man in the skies grew with each passing moment as he obliterated whole battalions while remaining near untouchable for the human defenders."
         },
         {
           "id": 153,
           "paragraph_id": 77,
-          "text": "The terror of the man in the skies grew with each passing moment as he obliterated whole battalions while remaining near untouchable for the human defenders."
+          "text": "To resist, one needed to have the ability to conduct aerial warfare."
         },
         {
           "id": 154,
-          "paragraph_id": 78,
-          "text": "To resist, one needed to have the ability to conduct aerial warfare."
+          "paragraph_id": 77,
+          "text": "The defenders of Farnath were simply not prepared for that, especially not while they had to contend with undead hordes, blue-skinned creatures - each of whom was now akin to walking one-man armies - the gang of ladies tearing their streets and walls up, as well as the Elvardian push that had reached the walls."
         },
         {
           "id": 155,
           "paragraph_id": 78,
-          "text": "The defenders of Farnath were simply not prepared for that, especially not while they had to contend with undead hordes, blue-skinned creatures - each of whom was now akin to walking one-man armies - the gang of ladies tearing their streets and walls up, as well as the Elvardian push that had reached the walls."
+          "text": "To fight back against Quinlan, simply throwing javelins at him was no longer enough."
         },
         {
           "id": 156,
-          "paragraph_id": 79,
-          "text": "To fight back against Quinlan, simply throwing javelins at him was no longer enough."
+          "paragraph_id": 78,
+          "text": "He'd grown far too powerful for such a crude method to restrict him."
         },
         {
           "id": 157,
           "paragraph_id": 79,
-          "text": "He'd grown far too powerful for such a crude method to restrict him."
-        },
-        {
-          "id": 158,
-          "paragraph_id": 80,
           "text": "And as a result, Farnath's fate had been sealed as soon as it became the Primordial Villain's next target."
         }
       ],
-      "word_count": 1243
+      "word_count": 1242
     },
     {
       "chapter_index": 1382,
@@ -25975,7 +25921,6 @@
         "Dust filled mouths and eyes.",
         "The square fell silent.",
         "When it cleared, nothing moved. Broken weapons lay half-buried in rubble. Shields rested at angles that made no sense. What had been a unit moments ago was reduced to scattered remains pressed into the ground and walls.",
-        "...",
         "Quinlan straightened his spine while standing in the crater of his own creation. \"Thanks, Synchra,\" he muttered, always grateful for the protection of his trusted armor. She was doing incredible work. Synchra granted Quinlan plainly unfair levels of tankiness, which in turn made him able to approach combat from a different angle. Before, most of these combatants would've been strong enough to one-shot kill him if their strike connected. But that was no longer the case.",
         "Synchra's red flames rose in response to the praise she received, joyous.",
         "It felt great to be noticed for the hard work she was putting in.",
@@ -26290,645 +26235,640 @@
         {
           "id": 49,
           "paragraph_id": 21,
-          "text": "..."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 22,
           "text": "Quinlan straightened his spine while standing in the crater of his own creation."
         },
         {
-          "id": 51,
-          "paragraph_id": 22,
+          "id": 50,
+          "paragraph_id": 21,
           "text": "\"Thanks, Synchra,\" he muttered, always grateful for the protection of his trusted armor."
         },
         {
-          "id": 52,
-          "paragraph_id": 22,
+          "id": 51,
+          "paragraph_id": 21,
           "text": "She was doing incredible work."
         },
         {
-          "id": 53,
-          "paragraph_id": 22,
+          "id": 52,
+          "paragraph_id": 21,
           "text": "Synchra granted Quinlan plainly unfair levels of tankiness, which in turn made him able to approach combat from a different angle."
         },
         {
-          "id": 54,
-          "paragraph_id": 22,
+          "id": 53,
+          "paragraph_id": 21,
           "text": "Before, most of these combatants would've been strong enough to one-shot kill him if their strike connected."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 21,
+          "text": "But that was no longer the case."
         },
         {
           "id": 55,
           "paragraph_id": 22,
-          "text": "But that was no longer the case."
+          "text": "Synchra's red flames rose in response to the praise she received, joyous."
         },
         {
           "id": 56,
           "paragraph_id": 23,
-          "text": "Synchra's red flames rose in response to the praise she received, joyous."
+          "text": "It felt great to be noticed for the hard work she was putting in."
         },
         {
           "id": 57,
           "paragraph_id": 24,
-          "text": "It felt great to be noticed for the hard work she was putting in."
+          "text": "Quinlan's gaze moved once, left to right, counting shapes that twitched or dragged themselves an inch at a time."
         },
         {
           "id": 58,
-          "paragraph_id": 25,
-          "text": "Quinlan's gaze moved once, left to right, counting shapes that twitched or dragged themselves an inch at a time."
+          "paragraph_id": 24,
+          "text": "His hand lifted."
         },
         {
           "id": 59,
           "paragraph_id": 25,
-          "text": "His hand lifted."
+          "text": "Compressed water snapped into existence at his fingertips, each shot a tight cylinder that bent the air around it."
         },
         {
           "id": 60,
-          "paragraph_id": 26,
-          "text": "Compressed water snapped into existence at his fingertips, each shot a tight cylinder that bent the air around it."
+          "paragraph_id": 25,
+          "text": "He flicked his wrist."
         },
         {
           "id": 61,
           "paragraph_id": 26,
-          "text": "He flicked his wrist."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 27,
           "text": "*Thud."
         },
         {
-          "id": 63,
-          "paragraph_id": 27,
+          "id": 62,
+          "paragraph_id": 26,
           "text": "Thud."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 26,
+          "text": "Thud.*"
         },
         {
           "id": 64,
           "paragraph_id": 27,
-          "text": "Thud.*"
-        },
-        {
-          "id": 65,
-          "paragraph_id": 28,
           "text": "The bullets punched through helms and throats with clean, short sounds."
         },
         {
-          "id": 66,
-          "paragraph_id": 28,
+          "id": 65,
+          "paragraph_id": 27,
           "text": "One man tried to crawl."
         },
         {
-          "id": 67,
-          "paragraph_id": 28,
+          "id": 66,
+          "paragraph_id": 27,
           "text": "The next shot folded him flat against the stones."
         },
         {
-          "id": 68,
-          "paragraph_id": 28,
+          "id": 67,
+          "paragraph_id": 27,
           "text": "Another raised an arm."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 27,
+          "text": "Water took it off at the elbow and kept going."
         },
         {
           "id": 69,
           "paragraph_id": 28,
-          "text": "Water took it off at the elbow and kept going."
+          "text": "Quinlan tilted his head to the side, watching the futile resistance of his targets."
         },
         {
           "id": 70,
-          "paragraph_id": 29,
-          "text": "Quinlan tilted his head to the side, watching the futile resistance of his targets."
+          "paragraph_id": 28,
+          "text": "At the same time, he listened to the symphony of alert notifications, his favorite music these days, ringing in his mind."
         },
         {
           "id": 71,
           "paragraph_id": 29,
-          "text": "At the same time, he listened to the symphony of alert notifications, his favorite music these days, ringing in his mind."
+          "text": "[Ding!]"
         },
         {
           "id": 72,
           "paragraph_id": 30,
-          "text": "[Ding!]"
+          "text": "[You've reached Level 48.]"
         },
         {
           "id": 73,
           "paragraph_id": 31,
-          "text": "[You've reached Level 48.]"
+          "text": "He smiled as the last shots landed and the mass execution was completed."
         },
         {
           "id": 74,
           "paragraph_id": 32,
-          "text": "He smiled as the last shots landed and the mass execution was completed."
+          "text": "\"Amazing,\" he murmured."
         },
         {
           "id": 75,
           "paragraph_id": 33,
-          "text": "\"Amazing,\" he murmured."
-        },
-        {
-          "id": 76,
-          "paragraph_id": 34,
           "text": "He glanced at the numbers without slowing, eyes tracking the rise."
         },
         {
-          "id": 77,
-          "paragraph_id": 34,
+          "id": 76,
+          "paragraph_id": 33,
           "text": "In a single day, the gain eclipsed entire campaigns."
         },
         {
-          "id": 78,
-          "paragraph_id": 34,
+          "id": 77,
+          "paragraph_id": 33,
           "text": "Even the lionkin genocide he conducted in Lionheart with the temporary tenfold boost had not climbed this fast."
         },
         {
-          "id": 79,
-          "paragraph_id": 34,
+          "id": 78,
+          "paragraph_id": 33,
           "text": "His growing power level, bolstered defenses, and increased proficiency with his magic had changed what was possible."
         },
         {
-          "id": 80,
-          "paragraph_id": 34,
+          "id": 79,
+          "paragraph_id": 33,
           "text": "Now, unlike how it was back in Lionheart, his spells were strong enough to kill high-rank targets."
         },
         {
-          "id": 81,
-          "paragraph_id": 34,
+          "id": 80,
+          "paragraph_id": 33,
           "text": "Furthermore, he was attacking whole settlements that were full of them, using the blood, time, and money of his newfound allies to his full advantage."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 33,
+          "text": "It was Elvardia and the Covenant who spent numerous years preparing for this invasion."
         },
         {
           "id": 82,
           "paragraph_id": 34,
-          "text": "It was Elvardia and the Covenant who spent numerous years preparing for this invasion."
+          "text": "It was Elvardia and the Covenant who spent immense resources to make this invasion possible."
         },
         {
           "id": 83,
           "paragraph_id": 35,
-          "text": "It was Elvardia and the Covenant who spent immense resources to make this invasion possible."
+          "text": "It was Elvardia and the Covenant who were now bleeding in the fields."
         },
         {
           "id": 84,
           "paragraph_id": 36,
-          "text": "It was Elvardia and the Covenant who were now bleeding in the fields."
+          "text": "But it was Quinlan who was reaping the biggest benefits."
         },
         {
           "id": 85,
           "paragraph_id": 37,
-          "text": "But it was Quinlan who was reaping the biggest benefits."
+          "text": "Thanks to the hard work of his allies, level fifty was no longer a distant goal to chase."
         },
         {
           "id": 86,
-          "paragraph_id": 38,
-          "text": "Thanks to the hard work of his allies, level fifty was no longer a distant goal to chase."
+          "paragraph_id": 37,
+          "text": "It hovered close, almost close enough to touch."
         },
         {
           "id": 87,
           "paragraph_id": 38,
-          "text": "It hovered close, almost close enough to touch."
+          "text": "Quinlan rose out of the crater, lifting high into the air."
         },
         {
           "id": 88,
           "paragraph_id": 39,
-          "text": "Quinlan rose out of the crater, lifting high into the air."
+          "text": "One look was enough."
         },
         {
           "id": 89,
-          "paragraph_id": 40,
-          "text": "One look was enough."
+          "paragraph_id": 39,
+          "text": "The same pattern."
         },
         {
           "id": 90,
           "paragraph_id": 40,
-          "text": "The same pattern."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 41,
           "text": "In Greyhaven, it had been the same."
         },
         {
-          "id": 92,
-          "paragraph_id": 41,
+          "id": 91,
+          "paragraph_id": 40,
           "text": "The first crush erased the center."
         },
         {
-          "id": 93,
-          "paragraph_id": 41,
+          "id": 92,
+          "paragraph_id": 40,
           "text": "Command collapsed."
         },
         {
-          "id": 94,
-          "paragraph_id": 41,
+          "id": 93,
+          "paragraph_id": 40,
           "text": "Cohesion died."
         },
         {
-          "id": 95,
-          "paragraph_id": 41,
+          "id": 94,
+          "paragraph_id": 40,
           "text": "What remained were fragments."
         },
         {
-          "id": 96,
-          "paragraph_id": 41,
+          "id": 95,
+          "paragraph_id": 40,
           "text": "Small knots of soldiers clinging to alleys, doorways, and courtyards."
+        },
+        {
+          "id": 96,
+          "paragraph_id": 40,
+          "text": "Scattered prey instead of an army."
         },
         {
           "id": 97,
           "paragraph_id": 41,
-          "text": "Scattered prey instead of an army."
-        },
-        {
-          "id": 98,
-          "paragraph_id": 42,
           "text": "His eyes traced movement along rooftops and side streets."
         },
         {
-          "id": 99,
-          "paragraph_id": 42,
+          "id": 98,
+          "paragraph_id": 41,
           "text": "No dense clusters."
+        },
+        {
+          "id": 99,
+          "paragraph_id": 41,
+          "text": "No clean follow-ups."
         },
         {
           "id": 100,
           "paragraph_id": 42,
-          "text": "No clean follow-ups."
+          "text": "It was no longer worth Quinlan's time."
         },
         {
           "id": 101,
-          "paragraph_id": 43,
-          "text": "It was no longer worth Quinlan's time."
+          "paragraph_id": 42,
+          "text": "His more than 200 Elite Souls would do the hard work for him."
         },
         {
           "id": 102,
           "paragraph_id": 43,
-          "text": "His more than 200 Elite Souls would do the hard work for him."
+          "text": "\"Time for plan B.\""
         },
         {
           "id": 103,
           "paragraph_id": 44,
-          "text": "\"Time for plan B.\""
+          "text": "He flicked two fingers."
         },
         {
           "id": 104,
           "paragraph_id": 45,
-          "text": "He flicked two fingers."
+          "text": "Space peeled open on the roof of a tall building overlooking the square."
         },
         {
           "id": 105,
-          "paragraph_id": 46,
-          "text": "Space peeled open on the roof of a tall building overlooking the square."
+          "paragraph_id": 45,
+          "text": "The tear stabilized into a clean-edged portal, light folding inward around it."
         },
         {
           "id": 106,
           "paragraph_id": 46,
-          "text": "The tear stabilized into a clean-edged portal, light folding inward around it."
+          "text": "A nun stepped through."
         },
         {
           "id": 107,
           "paragraph_id": 47,
-          "text": "A nun stepped through."
+          "text": "She wore round glasses that caught the glow of the remnants of his explosion, and freckles dusted across her cheeks."
         },
         {
           "id": 108,
-          "paragraph_id": 48,
-          "text": "She wore round glasses that caught the glow of the remnants of his explosion, and freckles dusted across her cheeks."
+          "paragraph_id": 47,
+          "text": "Mira took two confident steps forward, hands clasped behind her back as she spoke."
         },
         {
           "id": 109,
           "paragraph_id": 48,
-          "text": "Mira took two confident steps forward, hands clasped behind her back as she spoke."
+          "text": "\"Well then,\" she said cheerfully, \"looks like it's time for me to shine again, hmm, Mister Villain?"
         },
         {
           "id": 110,
-          "paragraph_id": 49,
-          "text": "\"Well then,\" she said cheerfully, \"looks like it's time for me to shine again, hmm, Mister Villain?"
+          "paragraph_id": 48,
+          "text": "The terror of the kingdom needs the help of this humble little nun-\""
         },
         {
           "id": 111,
           "paragraph_id": 49,
-          "text": "The terror of the kingdom needs the help of this humble little nun-\""
+          "text": "Her foot met empty air."
         },
         {
           "id": 112,
           "paragraph_id": 50,
-          "text": "Her foot met empty air."
+          "text": "She blinked once."
         },
         {
           "id": 113,
           "paragraph_id": 51,
-          "text": "She blinked once."
+          "text": "Then gravity remembered her."
         },
         {
           "id": 114,
           "paragraph_id": 52,
-          "text": "Then gravity remembered her."
+          "text": "\"CATCH ME, YOU MOTHERFU-\""
         },
         {
           "id": 115,
           "paragraph_id": 53,
-          "text": "\"CATCH ME, YOU MOTHERFU-\""
+          "text": "She dropped."
         },
         {
           "id": 116,
           "paragraph_id": 54,
-          "text": "She dropped."
-        },
-        {
-          "id": 117,
-          "paragraph_id": 55,
           "text": "Arms windmilled."
         },
         {
-          "id": 118,
-          "paragraph_id": 55,
+          "id": 117,
+          "paragraph_id": 54,
           "text": "Legs kicked at nothing."
         },
         {
-          "id": 119,
-          "paragraph_id": 55,
+          "id": 118,
+          "paragraph_id": 54,
           "text": "Her body twisted, fighting an argument it could not win."
         },
         {
-          "id": 120,
-          "paragraph_id": 55,
+          "id": 119,
+          "paragraph_id": 54,
           "text": "The roof slid past above her."
+        },
+        {
+          "id": 120,
+          "paragraph_id": 54,
+          "text": "The ground rushed up, filling her vision, stone details snapping into sharp focus far too fast."
         },
         {
           "id": 121,
           "paragraph_id": 55,
-          "text": "The ground rushed up, filling her vision, stone details snapping into sharp focus far too fast."
+          "text": "Her face was an inch from impact."
         },
         {
           "id": 122,
           "paragraph_id": 56,
-          "text": "Her face was an inch from impact."
+          "text": "Wind wrapped around her torso."
         },
         {
           "id": 123,
           "paragraph_id": 57,
-          "text": "Wind wrapped around her torso."
+          "text": "The fall stopped."
         },
         {
           "id": 124,
           "paragraph_id": 58,
-          "text": "The fall stopped."
-        },
-        {
-          "id": 125,
-          "paragraph_id": 59,
           "text": "Momentum vanished as if cut clean."
         },
         {
-          "id": 126,
-          "paragraph_id": 59,
+          "id": 125,
+          "paragraph_id": 58,
           "text": "Mira was then jerked upward and slammed gently into solid arms."
+        },
+        {
+          "id": 126,
+          "paragraph_id": 58,
+          "text": "Quinlan caught her against his chest, one hand braced at her back, the other under her knees."
         },
         {
           "id": 127,
           "paragraph_id": 59,
-          "text": "Quinlan caught her against his chest, one hand braced at her back, the other under her knees."
+          "text": "She stared at him with her glasses crooked and breath coming fast."
         },
         {
           "id": 128,
           "paragraph_id": 60,
-          "text": "She stared at him with her glasses crooked and breath coming fast."
+          "text": "\"I hate you!\" she whined, gripping the front of his armor."
         },
         {
           "id": 129,
-          "paragraph_id": 61,
-          "text": "\"I hate you!\" she whined, gripping the front of his armor."
+          "paragraph_id": 60,
+          "text": "\"Stop having fun at my expense!\""
         },
         {
           "id": 130,
           "paragraph_id": 61,
-          "text": "\"Stop having fun at my expense!\""
+          "text": "\"Stop worshipping a hypocrite, and I'll consider it.\""
         },
         {
           "id": 131,
           "paragraph_id": 62,
-          "text": "\"Stop worshipping a hypocrite, and I'll consider it.\""
+          "text": "Mira's face flushed with righteous outrage."
         },
         {
           "id": 132,
           "paragraph_id": 63,
-          "text": "Mira's face flushed with righteous outrage."
-        },
-        {
-          "id": 133,
-          "paragraph_id": 64,
           "text": "She twisted in his arms just enough to draw back a fist."
         },
         {
-          "id": 134,
-          "paragraph_id": 64,
+          "id": 133,
+          "paragraph_id": 63,
           "text": "\"You shameless, heretical menace!"
         },
         {
-          "id": 135,
-          "paragraph_id": 64,
+          "id": 134,
+          "paragraph_id": 63,
           "text": "You're but a villain speaking ill of the Maker!"
         },
         {
-          "id": 136,
-          "paragraph_id": 64,
+          "id": 135,
+          "paragraph_id": 63,
           "text": "Do you have any idea how much divine retribution you're lining up for yourself?!"
+        },
+        {
+          "id": 136,
+          "paragraph_id": 63,
+          "text": "I'm shocked she didn't smite you down already!\""
         },
         {
           "id": 137,
           "paragraph_id": 64,
-          "text": "I'm shocked she didn't smite you down already!\""
-        },
-        {
-          "id": 138,
-          "paragraph_id": 65,
           "text": "Then Mira gasped."
         },
         {
-          "id": 139,
-          "paragraph_id": 65,
+          "id": 138,
+          "paragraph_id": 64,
           "text": "\"Ah!"
         },
         {
-          "id": 140,
-          "paragraph_id": 65,
+          "id": 139,
+          "paragraph_id": 64,
           "text": "Wait!"
         },
         {
-          "id": 141,
-          "paragraph_id": 65,
+          "id": 140,
+          "paragraph_id": 64,
           "text": "Maybe I'm the divine retribution she sent to get you in line!"
+        },
+        {
+          "id": 141,
+          "paragraph_id": 64,
+          "text": "Take this!\""
         },
         {
           "id": 142,
           "paragraph_id": 65,
-          "text": "Take this!\""
+          "text": "She went for a slap."
         },
         {
           "id": 143,
           "paragraph_id": 66,
-          "text": "She went for a slap."
+          "text": "*Thunk.*"
         },
         {
           "id": 144,
           "paragraph_id": 67,
-          "text": "*Thunk.*"
+          "text": "The sound was dull."
         },
         {
           "id": 145,
-          "paragraph_id": 68,
-          "text": "The sound was dull."
+          "paragraph_id": 67,
+          "text": "Solid."
         },
         {
           "id": 146,
           "paragraph_id": 68,
-          "text": "Solid."
+          "text": "A sharp jolt ran up her arm."
         },
         {
           "id": 147,
           "paragraph_id": 69,
-          "text": "A sharp jolt ran up her arm."
+          "text": "\"Ouchhhh!\""
         },
         {
           "id": 148,
           "paragraph_id": 70,
-          "text": "\"Ouchhhh!\""
+          "text": "Mira recoiled instantly, clutching her hand to her chest, hopping once in midair despite still being held."
         },
         {
           "id": 149,
-          "paragraph_id": 71,
-          "text": "Mira recoiled instantly, clutching her hand to her chest, hopping once in midair despite still being held."
+          "paragraph_id": 70,
+          "text": "Her glasses slid further down her nose."
         },
         {
           "id": 150,
           "paragraph_id": 71,
-          "text": "Her glasses slid further down her nose."
-        },
-        {
-          "id": 151,
-          "paragraph_id": 72,
           "text": "\"Ow ow ow ow!"
         },
         {
-          "id": 152,
-          "paragraph_id": 72,
+          "id": 151,
+          "paragraph_id": 71,
           "text": "You hurt me..."
+        },
+        {
+          "id": 152,
+          "paragraph_id": 71,
+          "text": "Such a brutal sadist...\" she whimpered, blinking at him rapidly with accusatory eyes while massaging her hand."
         },
         {
           "id": 153,
           "paragraph_id": 72,
-          "text": "Such a brutal sadist...\" she whimpered, blinking at him rapidly with accusatory eyes while massaging her hand."
+          "text": "\"Women...\" Quinlan shook his head with a loud sigh escaping his lips."
         },
         {
           "id": 154,
           "paragraph_id": 73,
-          "text": "\"Women...\" Quinlan shook his head with a loud sigh escaping his lips."
+          "text": "\"What?!\" \"A woman and a blind believer..."
         },
         {
           "id": 155,
-          "paragraph_id": 74,
-          "text": "\"What?!\" \"A woman and a blind believer..."
+          "paragraph_id": 73,
+          "text": "The most delusional combination possible.\""
         },
         {
           "id": 156,
           "paragraph_id": 74,
-          "text": "The most delusional combination possible.\""
+          "text": "\"I'm not delusional but aware!"
         },
         {
           "id": 157,
-          "paragraph_id": 75,
-          "text": "\"I'm not delusional but aware!"
+          "paragraph_id": 74,
+          "text": "You're the one in the wrong!\" Mira cried while massaging her poor hand."
         },
         {
           "id": 158,
           "paragraph_id": 75,
-          "text": "You're the one in the wrong!\" Mira cried while massaging her poor hand."
-        },
-        {
-          "id": 159,
-          "paragraph_id": 76,
           "text": "\"You know, I can't help but notice that the women of Thalorind, mostly you, like to call me a motherfucker."
         },
         {
-          "id": 160,
-          "paragraph_id": 76,
+          "id": 159,
+          "paragraph_id": 75,
           "text": "What gives?"
+        },
+        {
+          "id": 160,
+          "paragraph_id": 75,
+          "text": "I mean, I might've sucked on the boobies of my mothers so strong that they orgasmed a little, but-\""
         },
         {
           "id": 161,
           "paragraph_id": 76,
-          "text": "I mean, I might've sucked on the boobies of my mothers so strong that they orgasmed a little, but-\""
+          "text": "\"What's wrong with you?\" Mira deadpanned."
         },
         {
           "id": 162,
           "paragraph_id": 77,
-          "text": "\"What's wrong with you?\" Mira deadpanned."
-        },
-        {
-          "id": 163,
-          "paragraph_id": 78,
           "text": "Quinlan smirked, dismissing her whole existence."
         },
         {
-          "id": 164,
-          "paragraph_id": 78,
+          "id": 163,
+          "paragraph_id": 77,
           "text": "\"Nothing, of course."
         },
         {
-          "id": 165,
-          "paragraph_id": 78,
+          "id": 164,
+          "paragraph_id": 77,
           "text": "I'm perfectly healthy in both body and mind."
+        },
+        {
+          "id": 165,
+          "paragraph_id": 77,
+          "text": "So, Miss Delulu with the Fist of Divine Retribution, shall we get started?\""
         },
         {
           "id": 166,
           "paragraph_id": 78,
-          "text": "So, Miss Delulu with the Fist of Divine Retribution, shall we get started?\""
+          "text": "Mira puffed her cheeks with lips pressed into a thin line."
         },
         {
           "id": 167,
-          "paragraph_id": 79,
-          "text": "Mira puffed her cheeks with lips pressed into a thin line."
+          "paragraph_id": 78,
+          "text": "She glared at the smooth obsidian curve of his helmet."
         },
         {
           "id": 168,
           "paragraph_id": 79,
-          "text": "She glared at the smooth obsidian curve of his helmet."
+          "text": "\"Wipe that smug smirk off your face,\" she muttered."
         },
         {
           "id": 169,
           "paragraph_id": 80,
-          "text": "\"Wipe that smug smirk off your face,\" she muttered."
+          "text": "\"What do you mean?"
         },
         {
           "id": 170,
-          "paragraph_id": 81,
-          "text": "\"What do you mean?"
+          "paragraph_id": 80,
+          "text": "You can't see my face.\""
         },
         {
           "id": 171,
           "paragraph_id": 81,
-          "text": "You can't see my face.\""
+          "text": "\"I can tell.\""
         },
         {
           "id": 172,
           "paragraph_id": 82,
-          "text": "\"I can tell.\""
+          "text": "There was no pause."
         },
         {
           "id": 173,
-          "paragraph_id": 83,
-          "text": "There was no pause."
+          "paragraph_id": 82,
+          "text": "No protest."
         },
         {
           "id": 174,
           "paragraph_id": 83,
-          "text": "No protest."
+          "text": "\"Is that so?\""
         },
         {
           "id": 175,
           "paragraph_id": 84,
-          "text": "\"Is that so?\""
-        },
-        {
-          "id": 176,
-          "paragraph_id": 85,
           "text": "He did not deny it."
         }
       ],
-      "word_count": 1411
+      "word_count": 1410
     },
     {
       "chapter_index": 1383,
@@ -26959,7 +26899,6 @@
         "Quinlan conquered it and relocated the willing people to Miri Town.",
         "As a result of their poverty and risky lives, many women had no children. Either due to sickness, malnutrition, stress, or a myriad of other effects. Now, those same women were treating these rapidly arriving orphans as pure blessings.",
         "Just like that, one by one, the city emptied of them.",
-        "...",
         "Mira stood alone at the edge of the portal.",
         "Light spilled around her feet. The sounds of the city felt distant now, dulled and pushed aside. She did not turn to leave right away. Her hands came together at her waist. Her shoulders settled.",
         "Then she bowed.",
@@ -27210,632 +27149,632 @@
         {
           "id": 39,
           "paragraph_id": 24,
-          "text": "..."
+          "text": "Mira stood alone at the edge of the portal."
         },
         {
           "id": 40,
           "paragraph_id": 25,
-          "text": "Mira stood alone at the edge of the portal."
-        },
-        {
-          "id": 41,
-          "paragraph_id": 26,
           "text": "Light spilled around her feet."
         },
         {
-          "id": 42,
-          "paragraph_id": 26,
+          "id": 41,
+          "paragraph_id": 25,
           "text": "The sounds of the city felt distant now, dulled and pushed aside."
         },
         {
-          "id": 43,
-          "paragraph_id": 26,
+          "id": 42,
+          "paragraph_id": 25,
           "text": "She did not turn to leave right away."
         },
         {
-          "id": 44,
-          "paragraph_id": 26,
+          "id": 43,
+          "paragraph_id": 25,
           "text": "Her hands came together at her waist."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 25,
+          "text": "Her shoulders settled."
         },
         {
           "id": 45,
           "paragraph_id": 26,
-          "text": "Her shoulders settled."
+          "text": "Then she bowed."
         },
         {
           "id": 46,
           "paragraph_id": 27,
-          "text": "Then she bowed."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 28,
           "text": "It was deep."
         },
         {
-          "id": 48,
-          "paragraph_id": 28,
+          "id": 47,
+          "paragraph_id": 27,
           "text": "Proper."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 27,
+          "text": "Not rushed."
         },
         {
           "id": 49,
           "paragraph_id": 28,
-          "text": "Not rushed."
+          "text": "\"Thank you for letting me do this, Quinlan Elysiar.\""
         },
         {
           "id": 50,
           "paragraph_id": 29,
-          "text": "\"Thank you for letting me do this, Quinlan Elysiar.\""
+          "text": "Quinlan watched her for a moment."
         },
         {
           "id": 51,
-          "paragraph_id": 30,
-          "text": "Quinlan watched her for a moment."
+          "paragraph_id": 29,
+          "text": "\"You thanked me last time, too.\""
         },
         {
           "id": 52,
           "paragraph_id": 30,
-          "text": "\"You thanked me last time, too.\""
+          "text": "She straightened and looked at him."
         },
         {
           "id": 53,
-          "paragraph_id": 31,
-          "text": "She straightened and looked at him."
+          "paragraph_id": 30,
+          "text": "There was no flare, no puffed cheeks, no sharp retort waiting behind her teeth."
         },
         {
           "id": 54,
           "paragraph_id": 31,
-          "text": "There was no flare, no puffed cheeks, no sharp retort waiting behind her teeth."
+          "text": "\"And I will thank you each and every time."
         },
         {
           "id": 55,
-          "paragraph_id": 32,
-          "text": "\"And I will thank you each and every time."
+          "paragraph_id": 31,
+          "text": "Even if you do it a hundred times.\""
         },
         {
           "id": 56,
           "paragraph_id": 32,
-          "text": "Even if you do it a hundred times.\""
+          "text": "That gave him pause."
         },
         {
           "id": 57,
           "paragraph_id": 33,
-          "text": "That gave him pause."
-        },
-        {
-          "id": 58,
-          "paragraph_id": 34,
           "text": "Quinlan's gaze lingered on her longer than before."
         },
         {
-          "id": 59,
-          "paragraph_id": 34,
+          "id": 58,
+          "paragraph_id": 33,
           "text": "Then he spoke quietly."
+        },
+        {
+          "id": 59,
+          "paragraph_id": 33,
+          "text": "\"So you like it there.\""
         },
         {
           "id": 60,
           "paragraph_id": 34,
-          "text": "\"So you like it there.\""
-        },
-        {
-          "id": 61,
-          "paragraph_id": 35,
           "text": "Mira nodded."
         },
         {
-          "id": 62,
-          "paragraph_id": 35,
+          "id": 61,
+          "paragraph_id": 34,
           "text": "\"Yes."
         },
         {
-          "id": 63,
-          "paragraph_id": 35,
+          "id": 62,
+          "paragraph_id": 34,
           "text": "It's only been a few minutes, but...\" She glanced back through the portal."
         },
         {
-          "id": 64,
-          "paragraph_id": 35,
+          "id": 63,
+          "paragraph_id": 34,
           "text": "Although the nun couldn't see through with her eyes, her mind told her all she needed to know."
         },
         {
-          "id": 65,
-          "paragraph_id": 35,
+          "id": 64,
+          "paragraph_id": 34,
           "text": "Shapes moved on the other side."
         },
         {
-          "id": 66,
-          "paragraph_id": 35,
+          "id": 65,
+          "paragraph_id": 34,
           "text": "Women guiding children, who were already starting to regain their laughter despite being besieged by unholy monstrosities mere moments ago."
         },
         {
-          "id": 67,
-          "paragraph_id": 35,
+          "id": 66,
+          "paragraph_id": 34,
           "text": "\"I can feel it just from the air."
         },
         {
-          "id": 68,
-          "paragraph_id": 35,
+          "id": 67,
+          "paragraph_id": 34,
           "text": "These people are kind beings."
         },
         {
-          "id": 69,
-          "paragraph_id": 35,
+          "id": 68,
+          "paragraph_id": 34,
           "text": "And Jasmine is a woman who takes her role seriously..."
         },
         {
-          "id": 70,
-          "paragraph_id": 35,
+          "id": 69,
+          "paragraph_id": 34,
           "text": "I can tell that corrupting a governor like her will be near impossible."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 34,
+          "text": "I feel hopeful about the future of Miri Town and its residents.\""
         },
         {
           "id": 71,
           "paragraph_id": 35,
-          "text": "I feel hopeful about the future of Miri Town and its residents.\""
+          "text": "\"Good,\" Quinlan said."
         },
         {
           "id": 72,
           "paragraph_id": 36,
-          "text": "\"Good,\" Quinlan said."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 37,
           "text": "She smiled at him then."
         },
         {
-          "id": 74,
-          "paragraph_id": 37,
+          "id": 73,
+          "paragraph_id": 36,
           "text": "Small."
         },
         {
-          "id": 75,
-          "paragraph_id": 37,
+          "id": 74,
+          "paragraph_id": 36,
           "text": "Careful."
         },
         {
-          "id": 76,
-          "paragraph_id": 37,
+          "id": 75,
+          "paragraph_id": 36,
           "text": "No teeth."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 36,
+          "text": "No hiss waiting behind it."
         },
         {
           "id": 77,
           "paragraph_id": 37,
-          "text": "No hiss waiting behind it."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 38,
           "text": "\"G-good luck,\" Mira said, prompting Quinlan to raise an eyebrow."
         },
         {
-          "id": 79,
-          "paragraph_id": 38,
+          "id": 78,
+          "paragraph_id": 37,
           "text": "She knew he was a villain, here to kill human soldiers."
         },
         {
-          "id": 80,
-          "paragraph_id": 38,
+          "id": 79,
+          "paragraph_id": 37,
           "text": "Yet she, a nun, a devout follower of the Goddess, wished him good luck."
         },
         {
-          "id": 81,
-          "paragraph_id": 38,
+          "id": 80,
+          "paragraph_id": 37,
           "text": "Granted, there was nothing in the scriptures about human supremacy per se, for the Goddess loved all equally."
         },
         {
-          "id": 82,
-          "paragraph_id": 38,
+          "id": 81,
+          "paragraph_id": 37,
           "text": "But over time, most such motions were thrown aside."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 37,
+          "text": "All races believed themselves to be the chosen ones, the favorites."
         },
         {
           "id": 83,
           "paragraph_id": 38,
-          "text": "All races believed themselves to be the chosen ones, the favorites."
+          "text": "That's why her words carried immense weight."
         },
         {
           "id": 84,
           "paragraph_id": 39,
-          "text": "That's why her words carried immense weight."
+          "text": "Then she turned and stepped through the portal."
         },
         {
           "id": 85,
           "paragraph_id": 40,
-          "text": "Then she turned and stepped through the portal."
+          "text": "It closed behind her, leaving Quinlan alone in the city once more."
         },
         {
           "id": 86,
           "paragraph_id": 41,
-          "text": "It closed behind her, leaving Quinlan alone in the city once more."
+          "text": "Next came the slave quarters."
         },
         {
           "id": 87,
           "paragraph_id": 42,
-          "text": "Next came the slave quarters."
+          "text": "His girls were already there."
         },
         {
           "id": 88,
           "paragraph_id": 43,
-          "text": "His girls were already there."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 44,
           "text": "The fighting had passed through the district hard and fast."
         },
         {
-          "id": 90,
-          "paragraph_id": 44,
+          "id": 89,
+          "paragraph_id": 43,
           "text": "Doors hung open."
         },
         {
-          "id": 91,
-          "paragraph_id": 44,
+          "id": 90,
+          "paragraph_id": 43,
           "text": "Chains lay coiled on floors where keys had been forced into hands."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 43,
+          "text": "A few overseers knelt in lines with their wrists bound behind them, guarded by silent figures that did not breathe."
         },
         {
           "id": 92,
           "paragraph_id": 44,
-          "text": "A few overseers knelt in lines with their wrists bound behind them, guarded by silent figures that did not breathe."
+          "text": "The contracts were stacked on a broken table."
         },
         {
           "id": 93,
-          "paragraph_id": 45,
-          "text": "The contracts were stacked on a broken table."
+          "paragraph_id": 44,
+          "text": "All accounted for."
         },
         {
           "id": 94,
           "paragraph_id": 45,
-          "text": "All accounted for."
+          "text": "They had done exactly what he expected."
         },
         {
           "id": 95,
           "paragraph_id": 46,
-          "text": "They had done exactly what he expected."
+          "text": "Quinlan moved."
         },
         {
           "id": 96,
           "paragraph_id": 47,
-          "text": "Quinlan moved."
+          "text": "House by house."
         },
         {
           "id": 97,
-          "paragraph_id": 48,
-          "text": "House by house."
+          "paragraph_id": 47,
+          "text": "Yard by yard."
         },
         {
           "id": 98,
           "paragraph_id": 48,
-          "text": "Yard by yard."
-        },
-        {
-          "id": 99,
-          "paragraph_id": 49,
           "text": "Locks gave way."
         },
         {
-          "id": 100,
-          "paragraph_id": 49,
+          "id": 99,
+          "paragraph_id": 48,
           "text": "Sigils burned out."
         },
         {
-          "id": 101,
-          "paragraph_id": 49,
+          "id": 100,
+          "paragraph_id": 48,
           "text": "The pressure that had sat on chests for years lifted in uneven waves."
         },
         {
-          "id": 102,
-          "paragraph_id": 49,
+          "id": 101,
+          "paragraph_id": 48,
           "text": "Some slaves fell to their knees."
         },
         {
-          "id": 103,
-          "paragraph_id": 49,
+          "id": 102,
+          "paragraph_id": 48,
           "text": "Some backed away from him in silence."
+        },
+        {
+          "id": 103,
+          "paragraph_id": 48,
+          "text": "Some stared at their hands as if waiting for the pain to return."
         },
         {
           "id": 104,
           "paragraph_id": 49,
-          "text": "Some stared at their hands as if waiting for the pain to return."
+          "text": "It did not."
         },
         {
           "id": 105,
           "paragraph_id": 50,
-          "text": "It did not."
-        },
-        {
-          "id": 106,
-          "paragraph_id": 51,
           "text": "Humans."
         },
         {
-          "id": 107,
-          "paragraph_id": 51,
+          "id": 106,
+          "paragraph_id": 50,
           "text": "Elves."
         },
         {
-          "id": 108,
-          "paragraph_id": 51,
+          "id": 107,
+          "paragraph_id": 50,
           "text": "Dwarves."
+        },
+        {
+          "id": 108,
+          "paragraph_id": 50,
+          "text": "Beastkin with collars worn thin from years of rubbing against skin."
         },
         {
           "id": 109,
           "paragraph_id": 51,
-          "text": "Beastkin with collars worn thin from years of rubbing against skin."
+          "text": "Quinlan did not address them alone."
         },
         {
           "id": 110,
           "paragraph_id": 52,
-          "text": "Quinlan did not address them alone."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 53,
           "text": "Seraphiel stepped forward for the elves."
         },
         {
-          "id": 112,
-          "paragraph_id": 53,
+          "id": 111,
+          "paragraph_id": 52,
           "text": "She spoke of the Lumi Forest that wrapped around Miri Town."
         },
         {
-          "id": 113,
-          "paragraph_id": 53,
+          "id": 112,
+          "paragraph_id": 52,
           "text": "Untainted nature."
         },
         {
-          "id": 114,
-          "paragraph_id": 53,
+          "id": 113,
+          "paragraph_id": 52,
           "text": "Clean water."
         },
         {
-          "id": 115,
-          "paragraph_id": 53,
+          "id": 114,
+          "paragraph_id": 52,
           "text": "Open paths beneath wide canopies."
         },
         {
-          "id": 116,
-          "paragraph_id": 53,
+          "id": 115,
+          "paragraph_id": 52,
           "text": "At times, Sylvaris stood beside her."
         },
         {
-          "id": 117,
-          "paragraph_id": 53,
+          "id": 116,
+          "paragraph_id": 52,
           "text": "Her presence drew murmurs."
+        },
+        {
+          "id": 117,
+          "paragraph_id": 52,
+          "text": "Some captives recognized her by name or by face, and the weight of her standing carried the words even further."
         },
         {
           "id": 118,
           "paragraph_id": 53,
-          "text": "Some captives recognized her by name or by face, and the weight of her standing carried the words even further."
-        },
-        {
-          "id": 119,
-          "paragraph_id": 54,
           "text": "Felicity, sometimes accompanied by Ayame or Lucille, two dukes' daughters, addressed the humans."
         },
         {
-          "id": 120,
-          "paragraph_id": 54,
+          "id": 119,
+          "paragraph_id": 53,
           "text": "But it was the young princess who carried the show."
         },
         {
-          "id": 121,
-          "paragraph_id": 54,
+          "id": 120,
+          "paragraph_id": 53,
           "text": "She bowed first."
         },
         {
-          "id": 122,
-          "paragraph_id": 54,
+          "id": 121,
+          "paragraph_id": 53,
           "text": "She said her family had failed them."
         },
         {
-          "id": 123,
-          "paragraph_id": 54,
+          "id": 122,
+          "paragraph_id": 53,
           "text": "She did not soften it."
         },
         {
-          "id": 124,
-          "paragraph_id": 54,
+          "id": 123,
+          "paragraph_id": 53,
           "text": "She offered no orders, only a path forward."
+        },
+        {
+          "id": 124,
+          "paragraph_id": 53,
+          "text": "A city is being built far from her family's reach."
         },
         {
           "id": 125,
           "paragraph_id": 54,
-          "text": "A city is being built far from her family's reach."
-        },
-        {
-          "id": 126,
-          "paragraph_id": 55,
           "text": "Kitsara took the beastkin who lingered at the edges."
         },
         {
-          "id": 127,
-          "paragraph_id": 55,
+          "id": 126,
+          "paragraph_id": 54,
           "text": "She spoke to the sharper-eyed ones first, the quick thinkers, the ones who watched from behind others."
         },
         {
-          "id": 128,
-          "paragraph_id": 55,
+          "id": 127,
+          "paragraph_id": 54,
           "text": "Terms."
         },
         {
-          "id": 129,
-          "paragraph_id": 55,
+          "id": 128,
+          "paragraph_id": 54,
           "text": "Opportunity."
         },
         {
-          "id": 130,
-          "paragraph_id": 55,
+          "id": 129,
+          "paragraph_id": 54,
           "text": "Space to breathe and live without chains."
         },
         {
-          "id": 131,
-          "paragraph_id": 55,
+          "id": 130,
+          "paragraph_id": 54,
           "text": "When that left gaps, Blossom filled them."
         },
         {
-          "id": 132,
-          "paragraph_id": 55,
+          "id": 131,
+          "paragraph_id": 54,
           "text": "The dogkin stood close to Quinlan, back straight, tail energetic."
         },
         {
-          "id": 133,
-          "paragraph_id": 55,
+          "id": 132,
+          "paragraph_id": 54,
           "text": "She spoke plainly."
         },
         {
-          "id": 134,
-          "paragraph_id": 55,
+          "id": 133,
+          "paragraph_id": 54,
           "text": "She spoke of him."
         },
         {
-          "id": 135,
-          "paragraph_id": 55,
+          "id": 134,
+          "paragraph_id": 54,
           "text": "What he did."
         },
         {
-          "id": 136,
-          "paragraph_id": 55,
+          "id": 135,
+          "paragraph_id": 54,
           "text": "How he treated those who stood with him."
         },
         {
-          "id": 137,
-          "paragraph_id": 55,
+          "id": 136,
+          "paragraph_id": 54,
           "text": "Her steady presence said the rest."
+        },
+        {
+          "id": 137,
+          "paragraph_id": 54,
+          "text": "For those who valued simple truths, it was enough."
         },
         {
           "id": 138,
           "paragraph_id": 55,
-          "text": "For those who valued simple truths, it was enough."
+          "text": "Only the dwarves remained."
         },
         {
           "id": 139,
           "paragraph_id": 56,
-          "text": "Only the dwarves remained."
+          "text": "Quinlan stepped in himself."
         },
         {
           "id": 140,
           "paragraph_id": 57,
-          "text": "Quinlan stepped in himself."
-        },
-        {
-          "id": 141,
-          "paragraph_id": 58,
           "text": "He talked numbers."
         },
         {
-          "id": 142,
-          "paragraph_id": 58,
+          "id": 141,
+          "paragraph_id": 57,
           "text": "Metal quality."
         },
         {
-          "id": 143,
-          "paragraph_id": 58,
+          "id": 142,
+          "paragraph_id": 57,
           "text": "Booze access."
         },
         {
-          "id": 144,
-          "paragraph_id": 58,
+          "id": 143,
+          "paragraph_id": 57,
           "text": "Trade routes."
         },
         {
-          "id": 145,
-          "paragraph_id": 58,
+          "id": 144,
+          "paragraph_id": 57,
           "text": "He talked about the smithies already planned, about ore coming in steadily."
         },
         {
-          "id": 146,
-          "paragraph_id": 58,
+          "id": 145,
+          "paragraph_id": 57,
           "text": "About a drink that did not need to be watered down to stretch the supply."
+        },
+        {
+          "id": 146,
+          "paragraph_id": 57,
+          "text": "About a place where their work would not be claimed by another name."
         },
         {
           "id": 147,
           "paragraph_id": 58,
-          "text": "About a place where their work would not be claimed by another name."
+          "text": "He negotiated."
         },
         {
           "id": 148,
           "paragraph_id": 59,
-          "text": "He negotiated."
+          "text": "Some hesitated."
         },
         {
           "id": 149,
-          "paragraph_id": 60,
-          "text": "Some hesitated."
+          "paragraph_id": 59,
+          "text": "Many did not."
         },
         {
           "id": 150,
           "paragraph_id": 60,
-          "text": "Many did not."
+          "text": "Quinlan did not rush them."
         },
         {
           "id": 151,
           "paragraph_id": 61,
-          "text": "Quinlan did not rush them."
+          "text": "Then the horns sounded again."
         },
         {
           "id": 152,
           "paragraph_id": 62,
-          "text": "Then the horns sounded again."
-        },
-        {
-          "id": 153,
-          "paragraph_id": 63,
           "text": "Another city followed."
         },
         {
-          "id": 154,
-          "paragraph_id": 63,
+          "id": 153,
+          "paragraph_id": 62,
           "text": "Another siege."
+        },
+        {
+          "id": 154,
+          "paragraph_id": 62,
+          "text": "Another massacre."
         },
         {
           "id": 155,
           "paragraph_id": 63,
-          "text": "Another massacre."
+          "text": "He rose back into the air."
         },
         {
           "id": 156,
           "paragraph_id": 64,
-          "text": "He rose back into the air."
-        },
-        {
-          "id": 157,
-          "paragraph_id": 65,
           "text": "More orphanages."
         },
         {
-          "id": 158,
-          "paragraph_id": 65,
+          "id": 157,
+          "paragraph_id": 64,
           "text": "More slave districts."
         },
         {
-          "id": 159,
-          "paragraph_id": 65,
+          "id": 158,
+          "paragraph_id": 64,
           "text": "The same pattern, repeated until the next cities felt hollowed out as well."
         },
         {
-          "id": 160,
-          "paragraph_id": 65,
+          "id": 159,
+          "paragraph_id": 64,
           "text": "Each siege fed the next."
+        },
+        {
+          "id": 160,
+          "paragraph_id": 64,
+          "text": "Each assault brought him XP and a growing soul army."
         },
         {
           "id": 161,
           "paragraph_id": 65,
-          "text": "Each assault brought him XP and a growing soul army."
+          "text": "Elvardia and the Covenant bled."
         },
         {
           "id": 162,
           "paragraph_id": 66,
-          "text": "Elvardia and the Covenant bled."
+          "text": "Quinlan and his girls harvested."
         },
         {
           "id": 163,
           "paragraph_id": 67,
-          "text": "Quinlan and his girls harvested."
+          "text": "Again."
         },
         {
           "id": 164,
           "paragraph_id": 68,
-          "text": "Again."
+          "text": "And again."
         },
         {
           "id": 165,
@@ -27845,55 +27784,50 @@
         {
           "id": 166,
           "paragraph_id": 70,
-          "text": "And again."
+          "text": "Until the sound returned."
         },
         {
           "id": 167,
           "paragraph_id": 71,
-          "text": "Until the sound returned."
+          "text": "[Ding!]"
         },
         {
           "id": 168,
           "paragraph_id": 72,
-          "text": "[Ding!]"
+          "text": "[XP threshold reached."
         },
         {
           "id": 169,
-          "paragraph_id": 73,
-          "text": "[XP threshold reached."
+          "paragraph_id": 72,
+          "text": "Pass the Primordial Rank-Up Mission to proceed into the level 50s.]"
         },
         {
           "id": 170,
           "paragraph_id": 73,
-          "text": "Pass the Primordial Rank-Up Mission to proceed into the level 50s.]"
-        },
-        {
-          "id": 171,
-          "paragraph_id": 74,
           "text": "The long-awaited mission was here, ready to begin immediately."
         },
         {
-          "id": 172,
-          "paragraph_id": 74,
+          "id": 171,
+          "paragraph_id": 73,
           "text": "However, this time, it would be nothing like Quinlan could've predicted."
         },
         {
-          "id": 173,
-          "paragraph_id": 74,
+          "id": 172,
+          "paragraph_id": 73,
           "text": "No Zhenwu-like lengthy escapades into other worlds, nor Iris-like simulations lasting years."
         },
         {
-          "id": 174,
-          "paragraph_id": 74,
+          "id": 173,
+          "paragraph_id": 73,
           "text": "It would be something new."
         },
         {
-          "id": 175,
-          "paragraph_id": 74,
+          "id": 174,
+          "paragraph_id": 73,
           "text": "Something shocking."
         }
       ],
-      "word_count": 1227
+      "word_count": 1226
     },
     {
       "chapter_index": 1384,

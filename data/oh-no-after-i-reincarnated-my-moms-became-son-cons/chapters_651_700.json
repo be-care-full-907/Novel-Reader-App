@@ -8487,7 +8487,6 @@
         "Lucia shut her eyes. Nier seriously responded, I will definitely bring him back, Queen Vyvyan!",
         "Nier didnt plan to return, before locating her husband even without Vyvyans order!",
         "Troy! Troy! PleaseTroy Please wake up Troy Please Dont Dont make Mommy worry Please Wake up How is Mommy supposed to live on without you? Please. Please wake up prayed Vyvyan.",
-        "========",
         "I know you want to hear this. I drowned to my death the last time I jumped into the water to save someone drowning, and then randomly arrived here in this world afterwards. This time, I jumped into the water again to save Lucia and Nier. I passed out faster than last time. What you see in movies is all a lie. A huge wave smashed into me. It felt as though I had a huge boulder rammed into my chest, knocking the wind out of me. I felt a sharp pain at my chest. I had no idea if my ribs were broken. I felt I was going to drown again. I really wanted to hear those cries, too.",
         "I might be reincarnated after dying. Id be reincarnated and wake up in Mommy Vyvyans arms. If that happened, I had lots of things to do. Id wipe out the Earth Dragons as fast as possible, spend more time with Mera and Lucia, save Luna and Freya in humanitys lands, then return to the elven lands to protect Mera before returning to humanity to have Mommy Elizabeth to throw Alice out, all the while confessing to Nier over and over.",
         "I wanted to fix all of my mistakes. I wanted my Luna and Mera to be alive. I wanted those who died because of me to be by my side. I wanted them to stay by my side even if we couldnt be together. Oh, right, I would definitely go to the North again. Perhaps Id get to see Ling Yue proudly ordering people around. When I pass by Tanyas village, Id be able to bring the young girl back. Alternatively, I could stay in the elven lands and stay with Lucia forever. If I couldnt protect everybody, then I shall protect Lucias smile alone.",
@@ -8907,170 +8906,165 @@
         {
           "id": 82,
           "paragraph_id": 20,
-          "text": "========"
-        },
-        {
-          "id": 83,
-          "paragraph_id": 21,
           "text": "I know you want to hear this."
         },
         {
-          "id": 84,
-          "paragraph_id": 21,
+          "id": 83,
+          "paragraph_id": 20,
           "text": "I drowned to my death the last time I jumped into the water to save someone drowning, and then randomly arrived here in this world afterwards."
         },
         {
-          "id": 85,
-          "paragraph_id": 21,
+          "id": 84,
+          "paragraph_id": 20,
           "text": "This time, I jumped into the water again to save Lucia and Nier."
         },
         {
-          "id": 86,
-          "paragraph_id": 21,
+          "id": 85,
+          "paragraph_id": 20,
           "text": "I passed out faster than last time."
         },
         {
-          "id": 87,
-          "paragraph_id": 21,
+          "id": 86,
+          "paragraph_id": 20,
           "text": "What you see in movies is all a lie."
         },
         {
-          "id": 88,
-          "paragraph_id": 21,
+          "id": 87,
+          "paragraph_id": 20,
           "text": "A huge wave smashed into me."
         },
         {
-          "id": 89,
-          "paragraph_id": 21,
+          "id": 88,
+          "paragraph_id": 20,
           "text": "It felt as though I had a huge boulder rammed into my chest, knocking the wind out of me."
         },
         {
-          "id": 90,
-          "paragraph_id": 21,
+          "id": 89,
+          "paragraph_id": 20,
           "text": "I felt a sharp pain at my chest."
         },
         {
-          "id": 91,
-          "paragraph_id": 21,
+          "id": 90,
+          "paragraph_id": 20,
           "text": "I had no idea if my ribs were broken."
         },
         {
-          "id": 92,
-          "paragraph_id": 21,
+          "id": 91,
+          "paragraph_id": 20,
           "text": "I felt I was going to drown again."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 20,
+          "text": "I really wanted to hear those cries, too."
         },
         {
           "id": 93,
           "paragraph_id": 21,
-          "text": "I really wanted to hear those cries, too."
-        },
-        {
-          "id": 94,
-          "paragraph_id": 22,
           "text": "I might be reincarnated after dying."
         },
         {
-          "id": 95,
-          "paragraph_id": 22,
+          "id": 94,
+          "paragraph_id": 21,
           "text": "Id be reincarnated and wake up in Mommy Vyvyans arms."
         },
         {
-          "id": 96,
-          "paragraph_id": 22,
+          "id": 95,
+          "paragraph_id": 21,
           "text": "If that happened, I had lots of things to do."
+        },
+        {
+          "id": 96,
+          "paragraph_id": 21,
+          "text": "Id wipe out the Earth Dragons as fast as possible, spend more time with Mera and Lucia, save Luna and Freya in humanitys lands, then return to the elven lands to protect Mera before returning to humanity to have Mommy Elizabeth to throw Alice out, all the while confessing to Nier over and over."
         },
         {
           "id": 97,
           "paragraph_id": 22,
-          "text": "Id wipe out the Earth Dragons as fast as possible, spend more time with Mera and Lucia, save Luna and Freya in humanitys lands, then return to the elven lands to protect Mera before returning to humanity to have Mommy Elizabeth to throw Alice out, all the while confessing to Nier over and over."
-        },
-        {
-          "id": 98,
-          "paragraph_id": 23,
           "text": "I wanted to fix all of my mistakes."
         },
         {
-          "id": 99,
-          "paragraph_id": 23,
+          "id": 98,
+          "paragraph_id": 22,
           "text": "I wanted my Luna and Mera to be alive."
         },
         {
-          "id": 100,
-          "paragraph_id": 23,
+          "id": 99,
+          "paragraph_id": 22,
           "text": "I wanted those who died because of me to be by my side."
         },
         {
-          "id": 101,
-          "paragraph_id": 23,
+          "id": 100,
+          "paragraph_id": 22,
           "text": "I wanted them to stay by my side even if we couldnt be together."
         },
         {
-          "id": 102,
-          "paragraph_id": 23,
+          "id": 101,
+          "paragraph_id": 22,
           "text": "Oh, right, I would definitely go to the North again."
         },
         {
-          "id": 103,
-          "paragraph_id": 23,
+          "id": 102,
+          "paragraph_id": 22,
           "text": "Perhaps Id get to see Ling Yue proudly ordering people around."
         },
         {
-          "id": 104,
-          "paragraph_id": 23,
+          "id": 103,
+          "paragraph_id": 22,
           "text": "When I pass by Tanyas village, Id be able to bring the young girl back."
         },
         {
-          "id": 105,
-          "paragraph_id": 23,
+          "id": 104,
+          "paragraph_id": 22,
           "text": "Alternatively, I could stay in the elven lands and stay with Lucia forever."
+        },
+        {
+          "id": 105,
+          "paragraph_id": 22,
+          "text": "If I couldnt protect everybody, then I shall protect Lucias smile alone."
         },
         {
           "id": 106,
           "paragraph_id": 23,
-          "text": "If I couldnt protect everybody, then I shall protect Lucias smile alone."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 24,
           "text": "If I could hear those cries again, Id open my eyes."
         },
         {
-          "id": 108,
-          "paragraph_id": 24,
+          "id": 107,
+          "paragraph_id": 23,
           "text": "If I could hear them, Id definitely open my eyes."
         },
         {
-          "id": 109,
-          "paragraph_id": 24,
+          "id": 108,
+          "paragraph_id": 23,
           "text": "And, this time, Id make sure to be a better son than last time."
         },
         {
-          "id": 110,
-          "paragraph_id": 24,
+          "id": 109,
+          "paragraph_id": 23,
           "text": "Id definitely hold Mommy Vyvyan tightly without any hesitation."
         },
         {
-          "id": 111,
-          "paragraph_id": 24,
+          "id": 110,
+          "paragraph_id": 23,
           "text": "But nonetheless, I didnt hear those cries."
         },
         {
-          "id": 112,
-          "paragraph_id": 24,
+          "id": 111,
+          "paragraph_id": 23,
           "text": "All I heard was a soothing gurgling sound, similar to the sound of something being boiled."
         },
         {
-          "id": 113,
-          "paragraph_id": 24,
+          "id": 112,
+          "paragraph_id": 23,
           "text": "Next to my ears was a soft breeze."
         },
         {
-          "id": 114,
-          "paragraph_id": 24,
+          "id": 113,
+          "paragraph_id": 23,
           "text": "My nose, which was somewhat numb due to the salty sea water, was filled with a faint scent of flowers"
         }
       ],
-      "word_count": 1247
+      "word_count": 1246
     },
     {
       "chapter_index": 665,
@@ -11890,7 +11884,6 @@
         "Same with me. In other words, His Majesty is all right; hes definitely still alive despite whatever happened to him, stated Nier, sheathing her sword. His Majesty is still alive; thats good news. We just need to wait for the rescue fleet to arrive, and then search for him. My concern is how much he is suffering right now. He must be alone on some desolate island or floating on a plank somewhere, starving and freezing",
         "Stop Please dont make me imagine how pitiful he currently is, okay? I want to jump into the water to search for him as it is! exclaimed Lucia, tears welling up in her eyes.",
         "Nier bit down on her bottom lip. In a solemn tone, she said, We will definitely save His Majesty. His Majestys predicament wont last for long. We will definitely save him and bring him to our side where it is blissful!",
-        "========",
         "In reality, my predicament wasnt as tragic as they imagined. Rather, I was quite happy My two wives eventually found out I was admiring flowers under Yings care while they were on a ship that could sink at any moment, wondering if thered still be food for tomorrow and worrying about monsters attacking. They didnt talk to me for an entire day once they found out.",
         "Ying woke me up again with her voice when the sun came up. I saw a scene of Ying standing under the tree in my dreams last night. I saw her beautiful silhouette underneath cherry blossoms flying about. It was supposed to be a beautiful scene; she was supposed to be expressionless, yet I had the impression she was actually drowning in misery for the first time.",
         "Is it because of the environment or is it me who feels sad? She appeared to be her usual self. Why was she so sad that I almost shed tears for her? Is it Ying whos sad, was it me, or was it the sky littered with flower petals that was sad? I wondered to myself.",
@@ -12164,335 +12157,330 @@
         {
           "id": 50,
           "paragraph_id": 11,
-          "text": "========"
-        },
-        {
-          "id": 51,
-          "paragraph_id": 12,
           "text": "In reality, my predicament wasnt as tragic as they imagined."
         },
         {
-          "id": 52,
-          "paragraph_id": 12,
+          "id": 51,
+          "paragraph_id": 11,
           "text": "Rather, I was quite happy My two wives eventually found out I was admiring flowers under Yings care while they were on a ship that could sink at any moment, wondering if thered still be food for tomorrow and worrying about monsters attacking."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 11,
+          "text": "They didnt talk to me for an entire day once they found out."
         },
         {
           "id": 53,
           "paragraph_id": 12,
-          "text": "They didnt talk to me for an entire day once they found out."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 13,
           "text": "Ying woke me up again with her voice when the sun came up."
         },
         {
-          "id": 55,
-          "paragraph_id": 13,
+          "id": 54,
+          "paragraph_id": 12,
           "text": "I saw a scene of Ying standing under the tree in my dreams last night."
         },
         {
-          "id": 56,
-          "paragraph_id": 13,
+          "id": 55,
+          "paragraph_id": 12,
           "text": "I saw her beautiful silhouette underneath cherry blossoms flying about."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 12,
+          "text": "It was supposed to be a beautiful scene; she was supposed to be expressionless, yet I had the impression she was actually drowning in misery for the first time."
         },
         {
           "id": 57,
           "paragraph_id": 13,
-          "text": "It was supposed to be a beautiful scene; she was supposed to be expressionless, yet I had the impression she was actually drowning in misery for the first time."
-        },
-        {
-          "id": 58,
-          "paragraph_id": 14,
           "text": "Is it because of the environment or is it me who feels sad?"
         },
         {
-          "id": 59,
-          "paragraph_id": 14,
+          "id": 58,
+          "paragraph_id": 13,
           "text": "She appeared to be her usual self."
         },
         {
-          "id": 60,
-          "paragraph_id": 14,
+          "id": 59,
+          "paragraph_id": 13,
           "text": "Why was she so sad that I almost shed tears for her?"
         },
         {
-          "id": 61,
-          "paragraph_id": 14,
+          "id": 60,
+          "paragraph_id": 13,
           "text": "Is it Ying whos sad, was it me, or was it the sky littered with flower petals that was sad?"
+        },
+        {
+          "id": 61,
+          "paragraph_id": 13,
+          "text": "I wondered to myself."
         },
         {
           "id": 62,
           "paragraph_id": 14,
-          "text": "I wondered to myself."
-        },
-        {
-          "id": 63,
-          "paragraph_id": 15,
           "text": "I didnt have anything to think about when I saw the scene in my dreams."
         },
         {
-          "id": 64,
-          "paragraph_id": 15,
+          "id": 63,
+          "paragraph_id": 14,
           "text": "I just happened to dream of that scene."
         },
         {
-          "id": 65,
-          "paragraph_id": 15,
+          "id": 64,
+          "paragraph_id": 14,
           "text": "I didnt have spare energy to ponder it not that I needed to in front of such a beautiful scene."
         },
         {
-          "id": 66,
-          "paragraph_id": 15,
+          "id": 65,
+          "paragraph_id": 14,
           "text": "Eyes on Yings back, I yawned."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 14,
+          "text": "I said, Good morning."
         },
         {
           "id": 67,
           "paragraph_id": 15,
-          "text": "I said, Good morning."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 16,
           "text": "Ying turned around and bowed Good morning."
         },
         {
-          "id": 69,
-          "paragraph_id": 16,
+          "id": 68,
+          "paragraph_id": 15,
           "text": "Youre looking much better today."
         },
         {
-          "id": 70,
-          "paragraph_id": 16,
+          "id": 69,
+          "paragraph_id": 15,
           "text": "The medicine has worked as expected."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 15,
+          "text": "See if you can sit up."
         },
         {
           "id": 71,
           "paragraph_id": 16,
-          "text": "See if you can sit up."
-        },
-        {
-          "id": 72,
-          "paragraph_id": 17,
           "text": "I used the ground as support to slowly move my body."
         },
         {
-          "id": 73,
-          "paragraph_id": 17,
+          "id": 72,
+          "paragraph_id": 16,
           "text": "It felt as though all of the components of my body began to reboot."
         },
         {
-          "id": 74,
-          "paragraph_id": 17,
+          "id": 73,
+          "paragraph_id": 16,
           "text": "My joints creaked as I slowly sat up."
         },
         {
-          "id": 75,
-          "paragraph_id": 17,
+          "id": 74,
+          "paragraph_id": 16,
           "text": "My chest was still in a bit of pain, but it wasnt as intense."
         },
         {
-          "id": 76,
-          "paragraph_id": 17,
+          "id": 75,
+          "paragraph_id": 16,
           "text": "It was merely a lingering pain."
         },
         {
-          "id": 77,
-          "paragraph_id": 17,
+          "id": 76,
+          "paragraph_id": 16,
           "text": "I could slowly straighten up my back and sit up now."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 16,
+          "text": "I let out a breath of relief."
         },
         {
           "id": 78,
           "paragraph_id": 17,
-          "text": "I let out a breath of relief."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 18,
           "text": "Ying didnt look consoled even though she saw me, who was practically her patient, finally sit up."
         },
         {
-          "id": 80,
-          "paragraph_id": 18,
+          "id": 79,
+          "paragraph_id": 17,
           "text": "I hadnt seen a second expression from her in three days."
         },
         {
-          "id": 81,
-          "paragraph_id": 18,
+          "id": 80,
+          "paragraph_id": 17,
           "text": "She kept her cold expression the entire time."
         },
         {
-          "id": 82,
-          "paragraph_id": 18,
+          "id": 81,
+          "paragraph_id": 17,
           "text": "She suggested, Very good."
         },
         {
-          "id": 83,
-          "paragraph_id": 18,
+          "id": 82,
+          "paragraph_id": 17,
           "text": "Since you dont have anything you have to do today, stay here for another day."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 17,
+          "text": "That way, your body will recover better."
         },
         {
           "id": 84,
           "paragraph_id": 18,
-          "text": "That way, your body will recover better."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 19,
           "text": "I nodded: All right."
         },
         {
-          "id": 86,
-          "paragraph_id": 19,
+          "id": 85,
+          "paragraph_id": 18,
           "text": "I shall lie here in peace for today, then."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 18,
+          "text": "Ill be able to stand up tomorrow, right?"
         },
         {
           "id": 87,
           "paragraph_id": 19,
-          "text": "Ill be able to stand up tomorrow, right?"
-        },
-        {
-          "id": 88,
-          "paragraph_id": 20,
           "text": "Thats right, answered Ying."
         },
         {
-          "id": 89,
-          "paragraph_id": 20,
+          "id": 88,
+          "paragraph_id": 19,
           "text": "However, even if youre able to stand up tomorrow, that doesnt mean you can walk around however you please."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 19,
+          "text": "Obviously, you need to consume different medicines to completely recover."
         },
         {
           "id": 90,
           "paragraph_id": 20,
-          "text": "Obviously, you need to consume different medicines to completely recover."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 21,
           "text": "Im truly very thankful, Ying."
         },
         {
-          "id": 92,
-          "paragraph_id": 21,
+          "id": 91,
+          "paragraph_id": 20,
           "text": "Thank you so much for taking care of me and spending your medicine on me."
         },
         {
-          "id": 93,
-          "paragraph_id": 21,
+          "id": 92,
+          "paragraph_id": 20,
           "text": "If you want money, I can give you everything on me."
         },
         {
-          "id": 94,
-          "paragraph_id": 21,
+          "id": 93,
+          "paragraph_id": 20,
           "text": "I just want to express my gratitude."
         },
         {
-          "id": 95,
-          "paragraph_id": 21,
+          "id": 94,
+          "paragraph_id": 20,
           "text": "I dont have anything else I can give you."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 20,
+          "text": "This is my way of thanking you."
         },
         {
           "id": 96,
           "paragraph_id": 21,
-          "text": "This is my way of thanking you."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 22,
           "text": "You dont need to pay me."
         },
         {
-          "id": 98,
-          "paragraph_id": 22,
+          "id": 97,
+          "paragraph_id": 21,
           "text": "Ying shook her head."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 21,
+          "text": "She wasnt angry or annoyed; she remained calm as per usual."
         },
         {
           "id": 99,
           "paragraph_id": 22,
-          "text": "She wasnt angry or annoyed; she remained calm as per usual."
+          "text": "Oh, right My money would be useless to you I can give you gold and silver if you prefer, except Ill have to wait for rescue to arrive before I can pay you."
         },
         {
           "id": 100,
           "paragraph_id": 23,
-          "text": "Oh, right My money would be useless to you I can give you gold and silver if you prefer, except Ill have to wait for rescue to arrive before I can pay you."
-        },
-        {
-          "id": 101,
-          "paragraph_id": 24,
           "text": "I dont need those things, replied Ying, with a head shake."
         },
         {
-          "id": 102,
-          "paragraph_id": 24,
+          "id": 101,
+          "paragraph_id": 23,
           "text": "She turned around to continue sweeping the flower petals: If you really want to thank me, go into the village two days later, and help me buy some stuff."
         },
         {
-          "id": 103,
-          "paragraph_id": 24,
+          "id": 102,
+          "paragraph_id": 23,
           "text": "If you want to thank me, just go shopping for me every day after."
         },
         {
-          "id": 104,
-          "paragraph_id": 24,
+          "id": 103,
+          "paragraph_id": 23,
           "text": "I cant leave the shrine."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 23,
+          "text": "Normally, somebody will send me things every month, but I didnt have enough resources after you arrived."
         },
         {
           "id": 105,
           "paragraph_id": 24,
-          "text": "Normally, somebody will send me things every month, but I didnt have enough resources after you arrived."
+          "text": "Sure."
         },
         {
           "id": 106,
-          "paragraph_id": 25,
-          "text": "Sure."
+          "paragraph_id": 24,
+          "text": "I asked, Why cant you go to the village?"
         },
         {
           "id": 107,
           "paragraph_id": 25,
-          "text": "I asked, Why cant you go to the village?"
+          "text": "Because I need to protect this village."
         },
         {
           "id": 108,
           "paragraph_id": 26,
-          "text": "Because I need to protect this village."
+          "text": "Why cant you go, then?"
         },
         {
           "id": 109,
           "paragraph_id": 27,
-          "text": "Why cant you go, then?"
+          "text": "I told you; I need to protect this village, answered Ying, keeping her head down as she swept the ground."
         },
         {
           "id": 110,
           "paragraph_id": 28,
-          "text": "I told you; I need to protect this village, answered Ying, keeping her head down as she swept the ground."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 29,
           "text": "I figured she wouldnt give a different response no matter how I posed the question; that was her answer."
         },
         {
-          "id": 112,
-          "paragraph_id": 29,
+          "id": 111,
+          "paragraph_id": 28,
           "text": "Nevertheless, it was just a spell of confusion to me."
         },
         {
-          "id": 113,
-          "paragraph_id": 29,
+          "id": 112,
+          "paragraph_id": 28,
           "text": "Maybe it was because she had to stay in the shrine in order to protect the village below, though I wondered how reasonable that was."
         },
         {
-          "id": 114,
-          "paragraph_id": 29,
+          "id": 113,
+          "paragraph_id": 28,
           "text": "Whatever the case may be, I was glad I could recover."
         },
         {
-          "id": 115,
-          "paragraph_id": 29,
+          "id": 114,
+          "paragraph_id": 28,
           "text": "I could gradually get to know Ying better."
         }
       ],
-      "word_count": 1351
+      "word_count": 1350
     },
     {
       "chapter_index": 670,
@@ -13188,7 +13176,6 @@
         "Vyvyan remarked, You want to find someplace with nobody around to cry as Freya did? Youre not a small petite girl like her.",
         "Without turning to face Vyvyan, Elizabeth coldly responded, One more word from you, and Ill sever your limbs.",
         "Elizabeth tightly gripped her sword handle and walked off to the cabin, fast as if she was running away. Was she running away from her fate or was she simply racing her tears, afraid theyd fall to the ground before she did?",
-        "========",
         "*Gasp!*",
         "I vigorously sat up and panted for air. I stared at my palm as I panted for air. Tears fell pit pat onto my hand. I dreamt of Mommy Elizabeth. I dreamt of her back disappearing further and further away. I dreamt of her beautiful smile. I wanted to call out to her and embrace her, but I couldnt even catch the corner of her cape. I wanted to shout and run, but I couldnt budge.",
         "Did you have a nightmare?",
@@ -13756,145 +13743,140 @@
         {
           "id": 110,
           "paragraph_id": 28,
-          "text": "========"
+          "text": "*Gasp!*"
         },
         {
           "id": 111,
           "paragraph_id": 29,
-          "text": "*Gasp!*"
-        },
-        {
-          "id": 112,
-          "paragraph_id": 30,
           "text": "I vigorously sat up and panted for air."
         },
         {
-          "id": 113,
-          "paragraph_id": 30,
+          "id": 112,
+          "paragraph_id": 29,
           "text": "I stared at my palm as I panted for air."
         },
         {
-          "id": 114,
-          "paragraph_id": 30,
+          "id": 113,
+          "paragraph_id": 29,
           "text": "Tears fell pit pat onto my hand."
         },
         {
-          "id": 115,
-          "paragraph_id": 30,
+          "id": 114,
+          "paragraph_id": 29,
           "text": "I dreamt of Mommy Elizabeth."
         },
         {
-          "id": 116,
-          "paragraph_id": 30,
+          "id": 115,
+          "paragraph_id": 29,
           "text": "I dreamt of her back disappearing further and further away."
         },
         {
-          "id": 117,
-          "paragraph_id": 30,
+          "id": 116,
+          "paragraph_id": 29,
           "text": "I dreamt of her beautiful smile."
         },
         {
-          "id": 118,
-          "paragraph_id": 30,
+          "id": 117,
+          "paragraph_id": 29,
           "text": "I wanted to call out to her and embrace her, but I couldnt even catch the corner of her cape."
+        },
+        {
+          "id": 118,
+          "paragraph_id": 29,
+          "text": "I wanted to shout and run, but I couldnt budge."
         },
         {
           "id": 119,
           "paragraph_id": 30,
-          "text": "I wanted to shout and run, but I couldnt budge."
+          "text": "Did you have a nightmare?"
         },
         {
           "id": 120,
           "paragraph_id": 31,
-          "text": "Did you have a nightmare?"
+          "text": "I heard a voice from my side."
         },
         {
           "id": 121,
-          "paragraph_id": 32,
-          "text": "I heard a voice from my side."
+          "paragraph_id": 31,
+          "text": "I turned to see Yings face."
         },
         {
           "id": 122,
           "paragraph_id": 32,
-          "text": "I turned to see Yings face."
+          "text": "Nothing"
         },
         {
           "id": 123,
           "paragraph_id": 33,
-          "text": "Nothing"
-        },
-        {
-          "id": 124,
-          "paragraph_id": 34,
           "text": "I heard you tragically crying out a name, so I came to check on you."
         },
         {
-          "id": 125,
-          "paragraph_id": 34,
+          "id": 124,
+          "paragraph_id": 33,
           "text": "Im glad youre all right, said Ying."
+        },
+        {
+          "id": 125,
+          "paragraph_id": 33,
+          "text": "She stood up then asked, Is your wife named Elizabeth?"
         },
         {
           "id": 126,
           "paragraph_id": 34,
-          "text": "She stood up then asked, Is your wife named Elizabeth?"
+          "text": "No."
         },
         {
           "id": 127,
-          "paragraph_id": 35,
-          "text": "No."
+          "paragraph_id": 34,
+          "text": "Thats my mom."
         },
         {
           "id": 128,
           "paragraph_id": 35,
-          "text": "Thats my mom."
+          "text": "Oh."
         },
         {
           "id": 129,
           "paragraph_id": 36,
-          "text": "Oh."
-        },
-        {
-          "id": 130,
-          "paragraph_id": 37,
           "text": "Ying lowered her head in silence."
         },
         {
-          "id": 131,
-          "paragraph_id": 37,
+          "id": 130,
+          "paragraph_id": 36,
           "text": "I suddenly realised she didnt have parents."
+        },
+        {
+          "id": 131,
+          "paragraph_id": 36,
+          "text": "But just as I wanted to apologise, she turned softly asked, You miss home?"
         },
         {
           "id": 132,
           "paragraph_id": 37,
-          "text": "But just as I wanted to apologise, she turned softly asked, You miss home?"
+          "text": "Ah"
         },
         {
           "id": 133,
           "paragraph_id": 38,
-          "text": "Ah"
+          "text": "If you do, rest up well so that you can return sooner."
         },
         {
           "id": 134,
           "paragraph_id": 39,
-          "text": "If you do, rest up well so that you can return sooner."
-        },
-        {
-          "id": 135,
-          "paragraph_id": 40,
           "text": "Ying left without waiting for my response."
         },
         {
-          "id": 136,
-          "paragraph_id": 40,
+          "id": 135,
+          "paragraph_id": 39,
           "text": "I blankly watched her leave."
         },
         {
-          "id": 137,
-          "paragraph_id": 40,
+          "id": 136,
+          "paragraph_id": 39,
           "text": "Inside my mind, however, all I saw was Mommy Elizabeths suave, yet lonely, back"
         }
       ],
-      "word_count": 1321
+      "word_count": 1320
     },
     {
       "chapter_index": 672,
@@ -13933,7 +13915,7 @@
         "I tossed down three gold coins. He looked at the rolling gold coins with a dumbstruck look. He fearfully looked up at me. I leaned onto the counter and placed the basket on top: Please give me three gold coins worth of rice. Ying isnt protecting you because she cant leave. She can leave whenever she pleases! The reason she hasnt left is because she just happens to worry for your safety. Do you people not understand that?!",
         "She cant leave We arent feeding her, alone",
         "What did you say?",
-        "Nothing Here. Here is your rice. You can go now, right? You can go now, right?He pushed the basket to me. Although he was slightly afraid of me, he quickly swept the three gold coins into this drawer.",
+        "Nothing Here. Here is your rice. You can go now, right? You can go now, right? He pushed the basket to me. Although he was slightly afraid of me, he quickly swept the three gold coins into this drawer.",
         "I coldly snorted, and then turned to leave. I suddenly realised, What sort of life did Ying lead, before I came? Wait If theres only this much food, she definitely wouldve calculated her daily consumption Ive been here for the last few days. If she had to split the food between two people every day, the food wouldnt last for a month. We ran out of food two days ago. I couldnt move at the time; meanwhile, she couldnt leave, since she had to wait for food to be delivered That means She gave me all of her food for the last few days"
       ],
       "sentences": [
@@ -14665,45 +14647,50 @@
         {
           "id": 145,
           "paragraph_id": 32,
-          "text": "You can go now, right?He pushed the basket to me."
+          "text": "You can go now, right?"
         },
         {
           "id": 146,
           "paragraph_id": 32,
-          "text": "Although he was slightly afraid of me, he quickly swept the three gold coins into this drawer."
+          "text": "He pushed the basket to me."
         },
         {
           "id": 147,
-          "paragraph_id": 33,
-          "text": "I coldly snorted, and then turned to leave."
+          "paragraph_id": 32,
+          "text": "Although he was slightly afraid of me, he quickly swept the three gold coins into this drawer."
         },
         {
           "id": 148,
           "paragraph_id": 33,
-          "text": "I suddenly realised, What sort of life did Ying lead, before I came?"
+          "text": "I coldly snorted, and then turned to leave."
         },
         {
           "id": 149,
           "paragraph_id": 33,
-          "text": "Wait If theres only this much food, she definitely wouldve calculated her daily consumption Ive been here for the last few days."
+          "text": "I suddenly realised, What sort of life did Ying lead, before I came?"
         },
         {
           "id": 150,
           "paragraph_id": 33,
-          "text": "If she had to split the food between two people every day, the food wouldnt last for a month."
+          "text": "Wait If theres only this much food, she definitely wouldve calculated her daily consumption Ive been here for the last few days."
         },
         {
           "id": 151,
           "paragraph_id": 33,
-          "text": "We ran out of food two days ago."
+          "text": "If she had to split the food between two people every day, the food wouldnt last for a month."
         },
         {
           "id": 152,
           "paragraph_id": 33,
+          "text": "We ran out of food two days ago."
+        },
+        {
+          "id": 153,
+          "paragraph_id": 33,
           "text": "I couldnt move at the time; meanwhile, she couldnt leave, since she had to wait for food to be delivered That means She gave me all of her food for the last few days"
         }
       ],
-      "word_count": 1437
+      "word_count": 1438
     },
     {
       "chapter_index": 673,
@@ -15444,7 +15431,6 @@
         "I stood up, headed inside and shut the door. Truthfully, the wind outside was getting somewhat cold.",
         "I wondered if Ying had begun fighting the wyrm yet. I hadnt seen the wyrm or how Ying looked when she fought. But nonetheless, her emotionless face was very reassuring when I was worried.",
         "Ying wont fail, I told myself.",
-        "========",
         "Current time out on the ocean",
         "Vyvyan vigorously opened her eyes and shouted toward the sailor behind her, Slow down!!",
         "Elizabeth lingered for a moment. After the order to slow down was given, she went up to Vyvyans side. Part of their white sail had been pulled down. The ship hastily reduced its speed. The sound of the waves around them instantly calmed down a fair bit. Elizabeth looked at the side of Vyvyans face. It was the first time Vyvyan wore a very tense expression. It was as though there was something lurking in the water that could attack them at any moment.",
@@ -15862,330 +15848,325 @@
         {
           "id": 79,
           "paragraph_id": 19,
-          "text": "========"
+          "text": "Current time out on the ocean"
         },
         {
           "id": 80,
           "paragraph_id": 20,
-          "text": "Current time out on the ocean"
+          "text": "Vyvyan vigorously opened her eyes and shouted toward the sailor behind her, Slow down!!"
         },
         {
           "id": 81,
           "paragraph_id": 21,
-          "text": "Vyvyan vigorously opened her eyes and shouted toward the sailor behind her, Slow down!!"
-        },
-        {
-          "id": 82,
-          "paragraph_id": 22,
           "text": "Elizabeth lingered for a moment."
         },
         {
-          "id": 83,
-          "paragraph_id": 22,
+          "id": 82,
+          "paragraph_id": 21,
           "text": "After the order to slow down was given, she went up to Vyvyans side."
         },
         {
-          "id": 84,
-          "paragraph_id": 22,
+          "id": 83,
+          "paragraph_id": 21,
           "text": "Part of their white sail had been pulled down."
         },
         {
-          "id": 85,
-          "paragraph_id": 22,
+          "id": 84,
+          "paragraph_id": 21,
           "text": "The ship hastily reduced its speed."
         },
         {
-          "id": 86,
-          "paragraph_id": 22,
+          "id": 85,
+          "paragraph_id": 21,
           "text": "The sound of the waves around them instantly calmed down a fair bit."
         },
         {
-          "id": 87,
-          "paragraph_id": 22,
+          "id": 86,
+          "paragraph_id": 21,
           "text": "Elizabeth looked at the side of Vyvyans face."
         },
         {
-          "id": 88,
-          "paragraph_id": 22,
+          "id": 87,
+          "paragraph_id": 21,
           "text": "It was the first time Vyvyan wore a very tense expression."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 21,
+          "text": "It was as though there was something lurking in the water that could attack them at any moment."
         },
         {
           "id": 89,
           "paragraph_id": 22,
-          "text": "It was as though there was something lurking in the water that could attack them at any moment."
+          "text": "Elizabeth drew her sword and vigilantly watched her surroundings."
         },
         {
           "id": 90,
-          "paragraph_id": 23,
-          "text": "Elizabeth drew her sword and vigilantly watched her surroundings."
+          "paragraph_id": 22,
+          "text": "However, there was nothing other than the waves crashing into the side of the ship."
         },
         {
           "id": 91,
           "paragraph_id": 23,
-          "text": "However, there was nothing other than the waves crashing into the side of the ship."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 24,
           "text": "Vyvyan quietly said, Theres a fight."
         },
         {
-          "id": 93,
-          "paragraph_id": 24,
+          "id": 92,
+          "paragraph_id": 23,
           "text": "The power with my son is fighting with somebody."
         },
         {
-          "id": 94,
-          "paragraph_id": 24,
+          "id": 93,
+          "paragraph_id": 23,
           "text": "It appears that power has failed and is being pursued."
         },
         {
-          "id": 95,
-          "paragraph_id": 24,
+          "id": 94,
+          "paragraph_id": 23,
           "text": "Also, there should be a fleet close by."
         },
         {
-          "id": 96,
-          "paragraph_id": 24,
+          "id": 95,
+          "paragraph_id": 23,
           "text": "It seems its been destroyed."
+        },
+        {
+          "id": 96,
+          "paragraph_id": 23,
+          "text": "Did you send out other fleets?"
         },
         {
           "id": 97,
           "paragraph_id": 24,
-          "text": "Did you send out other fleets?"
+          "text": "No."
         },
         {
           "id": 98,
           "paragraph_id": 25,
-          "text": "No."
-        },
-        {
-          "id": 99,
-          "paragraph_id": 26,
           "text": "Thats not our people, then."
         },
         {
-          "id": 100,
-          "paragraph_id": 26,
+          "id": 99,
+          "paragraph_id": 25,
           "text": "I feel that whatever is pursuing that power might put Lucia and Nier in danger."
         },
         {
-          "id": 101,
-          "paragraph_id": 26,
+          "id": 100,
+          "paragraph_id": 25,
           "text": "The two of them seem to have been dragged into the fighting."
         },
         {
-          "id": 102,
-          "paragraph_id": 26,
+          "id": 101,
+          "paragraph_id": 25,
           "text": "Lets hurry over."
+        },
+        {
+          "id": 102,
+          "paragraph_id": 25,
+          "text": "Come to think of it I feel that Im partly to blame."
         },
         {
           "id": 103,
           "paragraph_id": 26,
-          "text": "Come to think of it I feel that Im partly to blame."
+          "text": "Confused, Elizabeth asked, Whats it got to do with you?"
         },
         {
           "id": 104,
-          "paragraph_id": 27,
-          "text": "Confused, Elizabeth asked, Whats it got to do with you?"
+          "paragraph_id": 26,
+          "text": "Havent you always been on this ship?"
         },
         {
           "id": 105,
           "paragraph_id": 27,
-          "text": "Havent you always been on this ship?"
-        },
-        {
-          "id": 106,
-          "paragraph_id": 28,
           "text": "Gaze ahead and tone serious, Vyvyan explained, The creature the individual was fighting has absorbed my mana."
         },
         {
-          "id": 107,
-          "paragraph_id": 28,
+          "id": 106,
+          "paragraph_id": 27,
           "text": "The necklace I gave my son dropped into the water, and it absorbed my mana through the necklace."
         },
         {
-          "id": 108,
-          "paragraph_id": 28,
+          "id": 107,
+          "paragraph_id": 27,
           "text": "But it has detected me, as well."
         },
         {
-          "id": 109,
-          "paragraph_id": 28,
+          "id": 108,
+          "paragraph_id": 27,
           "text": "It appears it realises how frightening my power is."
         },
         {
-          "id": 110,
-          "paragraph_id": 28,
+          "id": 109,
+          "paragraph_id": 27,
           "text": "Luckily, the individual has been saved."
         },
         {
-          "id": 111,
-          "paragraph_id": 28,
+          "id": 110,
+          "paragraph_id": 27,
           "text": "Go full speed now."
         },
         {
-          "id": 112,
-          "paragraph_id": 28,
+          "id": 111,
+          "paragraph_id": 27,
           "text": "We should be able to rescue Lucia and Nier No!"
         },
         {
-          "id": 113,
-          "paragraph_id": 28,
+          "id": 112,
+          "paragraph_id": 27,
           "text": "No!!"
         },
         {
-          "id": 114,
-          "paragraph_id": 28,
+          "id": 113,
+          "paragraph_id": 27,
           "text": "The individual has taken Lucia and Nier away."
+        },
+        {
+          "id": 114,
+          "paragraph_id": 27,
+          "text": "By the looks of it, the individual failed, because they tried to take Lucia and Nier away!!"
         },
         {
           "id": 115,
           "paragraph_id": 28,
-          "text": "By the looks of it, the individual failed, because they tried to take Lucia and Nier away!!"
-        },
-        {
-          "id": 116,
-          "paragraph_id": 29,
           "text": "As they got closer, Vyvyan could sense more."
         },
         {
-          "id": 117,
-          "paragraph_id": 29,
+          "id": 116,
+          "paragraph_id": 28,
           "text": "A moment after, she opened her eyes: Theres no need to worry now."
         },
         {
-          "id": 118,
-          "paragraph_id": 29,
+          "id": 117,
+          "paragraph_id": 28,
           "text": "Its too late."
         },
         {
-          "id": 119,
-          "paragraph_id": 29,
+          "id": 118,
+          "paragraph_id": 28,
           "text": "It seems the individual planned to fight the creature, only to find Lucia and Nier."
         },
         {
-          "id": 120,
-          "paragraph_id": 29,
+          "id": 119,
+          "paragraph_id": 28,
           "text": "That resulted in their defeat; therefore, they had to abandon the ship and retreat to safety."
         },
         {
-          "id": 121,
-          "paragraph_id": 29,
+          "id": 120,
+          "paragraph_id": 28,
           "text": "The creature detected my power during their escape and fled."
+        },
+        {
+          "id": 121,
+          "paragraph_id": 28,
+          "text": "Theres nothing left on the battlefield now."
         },
         {
           "id": 122,
           "paragraph_id": 29,
-          "text": "Theres nothing left on the battlefield now."
+          "text": "No, not nothing, said Elizabeth"
         },
         {
           "id": 123,
           "paragraph_id": 30,
-          "text": "No, not nothing, said Elizabeth"
-        },
-        {
-          "id": 124,
-          "paragraph_id": 31,
           "text": "Elizabeth aggressively swung her hand."
         },
         {
-          "id": 125,
-          "paragraph_id": 31,
+          "id": 124,
+          "paragraph_id": 30,
           "text": "She picked up a fire torch with her left hand and threw it toward the sea, revealing a sea of glowing eyes staring at the ship."
+        },
+        {
+          "id": 125,
+          "paragraph_id": 30,
+          "text": "The fleet let out shrieks of terror."
         },
         {
           "id": 126,
           "paragraph_id": 31,
-          "text": "The fleet let out shrieks of terror."
-        },
-        {
-          "id": 127,
-          "paragraph_id": 32,
           "text": "Come, soldiers."
         },
         {
-          "id": 128,
-          "paragraph_id": 32,
+          "id": 127,
+          "paragraph_id": 31,
           "text": "You may be sailors, but I believe youre also brave soldiers who can fight on the frontlines."
         },
         {
-          "id": 129,
-          "paragraph_id": 32,
+          "id": 128,
+          "paragraph_id": 31,
           "text": "Valkyries, lead the charge together with me."
+        },
+        {
+          "id": 129,
+          "paragraph_id": 31,
+          "text": "For glory and for my son, take these"
         },
         {
           "id": 130,
           "paragraph_id": 32,
-          "text": "For glory and for my son, take these"
-        },
-        {
-          "id": 131,
-          "paragraph_id": 33,
           "text": "Before Elizabeth could finish, a flame froze the sky."
         },
         {
-          "id": 132,
-          "paragraph_id": 33,
+          "id": 131,
+          "paragraph_id": 32,
           "text": "A sudden explosion went off in the air."
         },
         {
-          "id": 133,
-          "paragraph_id": 33,
+          "id": 132,
+          "paragraph_id": 32,
           "text": "Elizabeth looked at the green eyes by the ship with a stupefied look."
         },
         {
-          "id": 134,
-          "paragraph_id": 33,
+          "id": 133,
+          "paragraph_id": 32,
           "text": "The entire body of water froze."
+        },
+        {
+          "id": 134,
+          "paragraph_id": 32,
+          "text": "A barrage of ice picks pierced the creatures below."
         },
         {
           "id": 135,
           "paragraph_id": 33,
-          "text": "A barrage of ice picks pierced the creatures below."
-        },
-        {
-          "id": 136,
-          "paragraph_id": 34,
           "text": "Vyvyan was airborne."
         },
         {
-          "id": 137,
-          "paragraph_id": 34,
+          "id": 136,
+          "paragraph_id": 33,
           "text": "With a wave of her hand, aerolites fell from the sky, smashing everything below to dust."
         },
         {
-          "id": 138,
-          "paragraph_id": 34,
+          "id": 137,
+          "paragraph_id": 33,
           "text": "Next, she gradually returned to the ground."
         },
         {
-          "id": 139,
-          "paragraph_id": 34,
+          "id": 138,
+          "paragraph_id": 33,
           "text": "The sea began to flow again as though nothing happened."
+        },
+        {
+          "id": 139,
+          "paragraph_id": 33,
+          "text": "She said, Sorry, I felt that your ship might sink if so many of them attacked."
         },
         {
           "id": 140,
           "paragraph_id": 34,
-          "text": "She said, Sorry, I felt that your ship might sink if so many of them attacked."
+          "text": "Vyvyan patted Elizabeths shoulder."
         },
         {
           "id": 141,
-          "paragraph_id": 35,
-          "text": "Vyvyan patted Elizabeths shoulder."
+          "paragraph_id": 34,
+          "text": "Elizabeth fired, Busybody."
         },
         {
           "id": 142,
           "paragraph_id": 35,
-          "text": "Elizabeth fired, Busybody."
-        },
-        {
-          "id": 143,
-          "paragraph_id": 36,
           "text": "Youre welcome."
         }
       ],
-      "word_count": 1483
+      "word_count": 1482
     },
     {
       "chapter_index": 675,
@@ -18050,7 +18031,6 @@
         "I knocked on the door. I heard footsteps from inside. Nier poked her head out wearing a surprised look. I said, Nier, come here for a second. Lets discuss what we need to do tonight.",
         "Nier nodded. After a short pause, she gave a simple response: All right.",
         "Truthfully, only Lucia was needed. Lucia was better at the task I had in mind compared to Nier. In saying that, I needed somebody to protect us.",
-        "========",
         "Current time out on the water.",
         "Vyvyan examined the ruins before her. There were bits of timber floating on the surface of the water. Not all of the decimated ship sunk yet. The ships looked as though they were torn apart from the bottom, but the strangest thing was that there wasnt a single corpse.",
         "The sailors salvaged part of a flag. The flag represented the fleet found. Elizabeth took the flag and frowned: This is the flag of the Travest Kingdom. This is their fleet. I know their Regent. Shes a lady who refuses to allow women to participate in politics, yet a female regent runs the kingdom. To be honest, Im a little jealous of their regents hair.",
@@ -18517,180 +18497,175 @@
         {
           "id": 90,
           "paragraph_id": 23,
-          "text": "========"
+          "text": "Current time out on the water."
         },
         {
           "id": 91,
           "paragraph_id": 24,
-          "text": "Current time out on the water."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 25,
           "text": "Vyvyan examined the ruins before her."
         },
         {
-          "id": 93,
-          "paragraph_id": 25,
+          "id": 92,
+          "paragraph_id": 24,
           "text": "There were bits of timber floating on the surface of the water."
         },
         {
-          "id": 94,
-          "paragraph_id": 25,
+          "id": 93,
+          "paragraph_id": 24,
           "text": "Not all of the decimated ship sunk yet."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 24,
+          "text": "The ships looked as though they were torn apart from the bottom, but the strangest thing was that there wasnt a single corpse."
         },
         {
           "id": 95,
           "paragraph_id": 25,
-          "text": "The ships looked as though they were torn apart from the bottom, but the strangest thing was that there wasnt a single corpse."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 26,
           "text": "The sailors salvaged part of a flag."
         },
         {
-          "id": 97,
-          "paragraph_id": 26,
+          "id": 96,
+          "paragraph_id": 25,
           "text": "The flag represented the fleet found."
         },
         {
-          "id": 98,
-          "paragraph_id": 26,
+          "id": 97,
+          "paragraph_id": 25,
           "text": "Elizabeth took the flag and frowned: This is the flag of the Travest Kingdom."
         },
         {
-          "id": 99,
-          "paragraph_id": 26,
+          "id": 98,
+          "paragraph_id": 25,
           "text": "This is their fleet."
         },
         {
-          "id": 100,
-          "paragraph_id": 26,
+          "id": 99,
+          "paragraph_id": 25,
           "text": "I know their Regent."
         },
         {
-          "id": 101,
-          "paragraph_id": 26,
+          "id": 100,
+          "paragraph_id": 25,
           "text": "Shes a lady who refuses to allow women to participate in politics, yet a female regent runs the kingdom."
+        },
+        {
+          "id": 101,
+          "paragraph_id": 25,
+          "text": "To be honest, Im a little jealous of their regents hair."
         },
         {
           "id": 102,
           "paragraph_id": 26,
-          "text": "To be honest, Im a little jealous of their regents hair."
+          "text": "What did they come here for?"
         },
         {
           "id": 103,
           "paragraph_id": 27,
-          "text": "What did they come here for?"
-        },
-        {
-          "id": 104,
-          "paragraph_id": 28,
           "text": "Elizabeth shook her head: I dont know; nevertheless, our sailors discovered an island nearby."
         },
         {
-          "id": 105,
-          "paragraph_id": 28,
+          "id": 104,
+          "paragraph_id": 27,
           "text": "If something happened to my son and his crew, theyll definitely be on the island."
+        },
+        {
+          "id": 105,
+          "paragraph_id": 27,
+          "text": "Lets pick them up and leave."
         },
         {
           "id": 106,
           "paragraph_id": 28,
-          "text": "Lets pick them up and leave."
+          "text": "Theres something in the sea."
         },
         {
           "id": 107,
           "paragraph_id": 29,
-          "text": "Theres something in the sea."
-        },
-        {
-          "id": 108,
-          "paragraph_id": 30,
           "text": "Vyvyan didnt pay any attention to what Elizabeth was saying."
         },
         {
-          "id": 109,
-          "paragraph_id": 30,
+          "id": 108,
+          "paragraph_id": 29,
           "text": "Vyvyan leaned on the rails and looked at the glowing scales in the water below."
         },
         {
-          "id": 110,
-          "paragraph_id": 30,
+          "id": 109,
+          "paragraph_id": 29,
           "text": "Her blues eyes seemingly fused with the ocean."
         },
         {
-          "id": 111,
-          "paragraph_id": 30,
+          "id": 110,
+          "paragraph_id": 29,
           "text": "She frowned."
         },
         {
-          "id": 112,
-          "paragraph_id": 30,
+          "id": 111,
+          "paragraph_id": 29,
           "text": "Vyvyan had never been tense before."
         },
         {
-          "id": 113,
-          "paragraph_id": 30,
+          "id": 112,
+          "paragraph_id": 29,
           "text": "Elizabeth was aware how haughty Vyvyan was."
+        },
+        {
+          "id": 113,
+          "paragraph_id": 29,
+          "text": "She, therefore, reasoned that, if Vyvyan was tense, whatever was in the water was sure to be terrifying."
         },
         {
           "id": 114,
           "paragraph_id": 30,
-          "text": "She, therefore, reasoned that, if Vyvyan was tense, whatever was in the water was sure to be terrifying."
+          "text": "Thats why I said that we need to pick up my son, his crew, and then hurry up and leave!!"
         },
         {
           "id": 115,
           "paragraph_id": 31,
-          "text": "Thats why I said that we need to pick up my son, his crew, and then hurry up and leave!!"
-        },
-        {
-          "id": 116,
-          "paragraph_id": 32,
           "text": "Vyvyan rolled her eyes: You think my son, whos so kind and sense of justice is so strong, will bear to just leave?"
         },
         {
-          "id": 117,
-          "paragraph_id": 32,
+          "id": 116,
+          "paragraph_id": 31,
           "text": "I bet we wont be able to leave unless we slay this thing in the water."
+        },
+        {
+          "id": 117,
+          "paragraph_id": 31,
+          "text": "In any case, its fine to go there now, so lets go."
         },
         {
           "id": 118,
           "paragraph_id": 32,
-          "text": "In any case, its fine to go there now, so lets go."
+          "text": "Mm."
         },
         {
           "id": 119,
-          "paragraph_id": 33,
-          "text": "Mm."
+          "paragraph_id": 32,
+          "text": "Elizabeth nodded."
         },
         {
           "id": 120,
           "paragraph_id": 33,
-          "text": "Elizabeth nodded."
-        },
-        {
-          "id": 121,
-          "paragraph_id": 34,
           "text": "The water reflected the unease in Elizabeths eyes."
         },
         {
-          "id": 122,
-          "paragraph_id": 34,
+          "id": 121,
+          "paragraph_id": 33,
           "text": "She spun around to loudly give her orders."
         },
         {
-          "id": 123,
-          "paragraph_id": 34,
+          "id": 122,
+          "paragraph_id": 33,
           "text": "The fleet changed directions."
         },
         {
-          "id": 124,
-          "paragraph_id": 34,
+          "id": 123,
+          "paragraph_id": 33,
           "text": "They erected the white sail and awe-inspiring flag of Rosvenor Empire before they set forth toward their destination."
         }
       ],
-      "word_count": 1283
+      "word_count": 1282
     },
     {
       "chapter_index": 678,
@@ -21485,7 +21460,6 @@
         "Doesnt that mean my son is in danger?!",
         "Lets hurry up there. Nier isnt among the corpses, which means my son is safe. Otherwise, Nier wouldve suicided here.",
         "Despite saying that, Elizabeth went up the stepsquickly. The two of them literally sprinted up the steps. They crossed the flowing blood and bodies lying all over the place to reach the red shrine at the top of the slope.",
-        "========",
         "Go and check Ying first. Go and check Ying first!",
         "I hung my arm down and desperately pointed to Ying, who was pinned to the ground and struggling to try and break free. Ying was completely incapable of breaking free, though.",
         "Just how much force did Nier thrust into her with? I silently questioned.",
@@ -21839,340 +21813,335 @@
         {
           "id": 66,
           "paragraph_id": 16,
-          "text": "========"
+          "text": "Go and check Ying first."
         },
         {
           "id": 67,
-          "paragraph_id": 17,
-          "text": "Go and check Ying first."
+          "paragraph_id": 16,
+          "text": "Go and check Ying first!"
         },
         {
           "id": 68,
           "paragraph_id": 17,
-          "text": "Go and check Ying first!"
+          "text": "I hung my arm down and desperately pointed to Ying, who was pinned to the ground and struggling to try and break free."
         },
         {
           "id": 69,
-          "paragraph_id": 18,
-          "text": "I hung my arm down and desperately pointed to Ying, who was pinned to the ground and struggling to try and break free."
+          "paragraph_id": 17,
+          "text": "Ying was completely incapable of breaking free, though."
         },
         {
           "id": 70,
           "paragraph_id": 18,
-          "text": "Ying was completely incapable of breaking free, though."
+          "text": "Just how much force did Nier thrust into her with?"
         },
         {
           "id": 71,
-          "paragraph_id": 19,
-          "text": "Just how much force did Nier thrust into her with?"
+          "paragraph_id": 18,
+          "text": "I silently questioned."
         },
         {
           "id": 72,
           "paragraph_id": 19,
-          "text": "I silently questioned."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 20,
           "text": "I did say Nier was a demon once she lost control."
         },
         {
-          "id": 74,
-          "paragraph_id": 20,
+          "id": 73,
+          "paragraph_id": 19,
           "text": "She mightve been docile my arms when she was by my side; nonetheless, that never reduced her strong bloody aura by any means."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 19,
+          "text": "She tightly hugged my left arm and sobbed as though she was afraid that Id vanish in an instant."
         },
         {
           "id": 75,
           "paragraph_id": 20,
-          "text": "She tightly hugged my left arm and sobbed as though she was afraid that Id vanish in an instant."
-        },
-        {
-          "id": 76,
-          "paragraph_id": 21,
           "text": "Lucia, afraid, stood to one side."
         },
         {
-          "id": 77,
-          "paragraph_id": 21,
+          "id": 76,
+          "paragraph_id": 20,
           "text": "She looked as if she wanted to come close but didnt dare to."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 20,
+          "text": "I told her that it was fine, and I wasnt angry, but she wanted to cry as she beat herself up."
         },
         {
           "id": 78,
           "paragraph_id": 21,
-          "text": "I told her that it was fine, and I wasnt angry, but she wanted to cry as she beat herself up."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 22,
           "text": "Nier tightened her grip on my arm."
         },
         {
-          "id": 80,
-          "paragraph_id": 22,
+          "id": 79,
+          "paragraph_id": 21,
           "text": "She fumed, Why do you still want to help her?!"
         },
         {
-          "id": 81,
-          "paragraph_id": 22,
+          "id": 80,
+          "paragraph_id": 21,
           "text": "Look at your wound."
         },
         {
-          "id": 82,
-          "paragraph_id": 22,
+          "id": 81,
+          "paragraph_id": 21,
           "text": "Those peasants went way overboard."
         },
         {
-          "id": 83,
-          "paragraph_id": 22,
+          "id": 82,
+          "paragraph_id": 21,
           "text": "She shouldve known what sort of people those scums were, yet she insisted on helping them!"
+        },
+        {
+          "id": 83,
+          "paragraph_id": 21,
+          "text": "She hurt you, so why do you want to help her?!!"
         },
         {
           "id": 84,
           "paragraph_id": 22,
-          "text": "She hurt you, so why do you want to help her?!!"
-        },
-        {
-          "id": 85,
-          "paragraph_id": 23,
           "text": "I answered, It wasnt Yings fault."
         },
         {
-          "id": 86,
-          "paragraph_id": 23,
+          "id": 85,
+          "paragraph_id": 22,
           "text": "Ying just didnt want to hurt them."
         },
         {
-          "id": 87,
-          "paragraph_id": 23,
+          "id": 86,
+          "paragraph_id": 22,
           "text": "Plus, my wound isnt very serious."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 22,
+          "text": "Youre overreacting a little, Nier"
         },
         {
           "id": 88,
           "paragraph_id": 23,
-          "text": "Youre overreacting a little, Nier"
-        },
-        {
-          "id": 89,
-          "paragraph_id": 24,
           "text": "How am I overreacting?!!"
         },
         {
-          "id": 90,
-          "paragraph_id": 24,
+          "id": 89,
+          "paragraph_id": 23,
           "text": "Nier cut me off before I could finish."
         },
         {
-          "id": 91,
-          "paragraph_id": 24,
+          "id": 90,
+          "paragraph_id": 23,
           "text": "They hurt my Prince."
         },
         {
-          "id": 92,
-          "paragraph_id": 24,
+          "id": 91,
+          "paragraph_id": 23,
           "text": "They hurt my husband."
         },
         {
-          "id": 93,
-          "paragraph_id": 24,
+          "id": 92,
+          "paragraph_id": 23,
           "text": "You think that they wont shoot a second arrow if you forgive them?"
         },
         {
-          "id": 94,
-          "paragraph_id": 24,
+          "id": 93,
+          "paragraph_id": 23,
           "text": "Dear, if they could shoot one arrow, theres bound to be a second."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 23,
+          "text": "I have to ensure nobody can fire a second arrow."
         },
         {
           "id": 95,
           "paragraph_id": 24,
-          "text": "I have to ensure nobody can fire a second arrow."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 25,
           "text": "Tears indicating she felt wrong appeared in Niers eyes."
         },
         {
-          "id": 97,
-          "paragraph_id": 25,
+          "id": 96,
+          "paragraph_id": 24,
           "text": "I smiled and kissed her on her lips."
         },
         {
-          "id": 98,
-          "paragraph_id": 25,
+          "id": 97,
+          "paragraph_id": 24,
           "text": "She responded grumpily, and then touched my face."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 24,
+          "text": "I returned the favour: Thank you, Nier."
         },
         {
           "id": 99,
           "paragraph_id": 25,
-          "text": "I returned the favour: Thank you, Nier."
+          "text": "Mm."
         },
         {
           "id": 100,
           "paragraph_id": 26,
-          "text": "Mm."
-        },
-        {
-          "id": 101,
-          "paragraph_id": 27,
           "text": "Nier still couldnt act coquettish."
         },
         {
-          "id": 102,
-          "paragraph_id": 27,
+          "id": 101,
+          "paragraph_id": 26,
           "text": "She clung to my arm and the corner of her mouth crept up into a smile."
         },
         {
-          "id": 103,
-          "paragraph_id": 27,
+          "id": 102,
+          "paragraph_id": 26,
           "text": "I didnt actually feel as though Nier committed an immoral act when she killed the villagers."
         },
         {
-          "id": 104,
-          "paragraph_id": 27,
+          "id": 103,
+          "paragraph_id": 26,
           "text": "I merely thought we wouldnt be able to continue interacting with Ying if Nier killed them."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 26,
+          "text": "Ying wanted to protect them, yet we went and killed them after she rescued us."
         },
         {
           "id": 105,
           "paragraph_id": 27,
-          "text": "Ying wanted to protect them, yet we went and killed them after she rescued us."
-        },
-        {
-          "id": 106,
-          "paragraph_id": 28,
           "text": "We killed the people Ying was willing to sacrifice her sister to protect."
         },
         {
-          "id": 107,
-          "paragraph_id": 28,
+          "id": 106,
+          "paragraph_id": 27,
           "text": "Further, we instigated all of it."
         },
         {
-          "id": 108,
-          "paragraph_id": 28,
+          "id": 107,
+          "paragraph_id": 27,
           "text": "I originally wanted to help Ying break free of her restraints, but looking back on it, it seemed I destroyed her entire world."
         },
         {
-          "id": 109,
-          "paragraph_id": 28,
+          "id": 108,
+          "paragraph_id": 27,
           "text": "But nevertheless, they werent educated and reasonable."
         },
         {
-          "id": 110,
-          "paragraph_id": 28,
+          "id": 109,
+          "paragraph_id": 27,
           "text": "I take that back."
         },
         {
-          "id": 111,
-          "paragraph_id": 28,
+          "id": 110,
+          "paragraph_id": 27,
           "text": "They were utterly unreasonable."
+        },
+        {
+          "id": 111,
+          "paragraph_id": 27,
+          "text": "I, personally, thought their deaths were for the betterment of everyone, for I wouldnt be able to protect Xia if they were alive."
         },
         {
           "id": 112,
           "paragraph_id": 28,
-          "text": "I, personally, thought their deaths were for the betterment of everyone, for I wouldnt be able to protect Xia if they were alive."
-        },
-        {
-          "id": 113,
-          "paragraph_id": 29,
           "text": "Luckily, Xia would never find out what happened."
         },
         {
-          "id": 114,
-          "paragraph_id": 29,
+          "id": 113,
+          "paragraph_id": 28,
           "text": "She didnt know that the entire village died in front of her, because of her."
         },
         {
-          "id": 115,
-          "paragraph_id": 29,
+          "id": 114,
+          "paragraph_id": 28,
           "text": "Well, that wasnt entirely correct, as they didnt because of Xia, but because they were stupid."
+        },
+        {
+          "id": 115,
+          "paragraph_id": 28,
+          "text": "Thats all."
         },
         {
           "id": 116,
           "paragraph_id": 29,
-          "text": "Thats all."
+          "text": "Lucia stood next to Ying."
         },
         {
           "id": 117,
-          "paragraph_id": 30,
-          "text": "Lucia stood next to Ying."
+          "paragraph_id": 29,
+          "text": "She looked at the sword in Ying and panted: Your Highness, I cant pull it out."
         },
         {
           "id": 118,
           "paragraph_id": 30,
-          "text": "She looked at the sword in Ying and panted: Your Highness, I cant pull it out."
+          "text": "How about I give you a hand?"
         },
         {
           "id": 119,
           "paragraph_id": 31,
-          "text": "How about I give you a hand?"
-        },
-        {
-          "id": 120,
-          "paragraph_id": 32,
           "text": "Just as I was about to tell Nier to give Lucia a hand, I heard a relaxed voice from behind."
         },
         {
-          "id": 121,
-          "paragraph_id": 32,
+          "id": 120,
+          "paragraph_id": 31,
           "text": "She desperately withheld her laughter."
         },
         {
-          "id": 122,
-          "paragraph_id": 32,
+          "id": 121,
+          "paragraph_id": 31,
           "text": "I was a grown man."
+        },
+        {
+          "id": 122,
+          "paragraph_id": 31,
+          "text": "I was sitting on the ground and, before I could turn around, I was picked up between two arms as if I was a cat"
         },
         {
           "id": 123,
           "paragraph_id": 32,
-          "text": "I was sitting on the ground and, before I could turn around, I was picked up between two arms as if I was a cat"
-        },
-        {
-          "id": 124,
-          "paragraph_id": 33,
           "text": "Son Son Im so glad youre all right Im so glad youre all right!!"
         },
         {
+          "id": 124,
+          "paragraph_id": 32,
+          "text": "Son!"
+        },
+        {
           "id": 125,
-          "paragraph_id": 33,
+          "paragraph_id": 32,
           "text": "Son!"
         },
         {
           "id": 126,
           "paragraph_id": 33,
-          "text": "Son!"
-        },
-        {
-          "id": 127,
-          "paragraph_id": 34,
           "text": "I protested in my mind: Let me down!"
         },
         {
-          "id": 128,
-          "paragraph_id": 34,
+          "id": 127,
+          "paragraph_id": 33,
           "text": "Let me down!"
         },
         {
-          "id": 129,
-          "paragraph_id": 34,
+          "id": 128,
+          "paragraph_id": 33,
           "text": "Im not a cat!"
         },
         {
-          "id": 130,
-          "paragraph_id": 34,
+          "id": 129,
+          "paragraph_id": 33,
           "text": "I dont want to be held this way!"
         },
         {
-          "id": 131,
-          "paragraph_id": 34,
+          "id": 130,
+          "paragraph_id": 33,
           "text": "Its too embarrassing!"
         },
         {
-          "id": 132,
-          "paragraph_id": 34,
+          "id": 131,
+          "paragraph_id": 33,
           "text": "Its too embarrassing!!"
         }
       ],
-      "word_count": 1268
+      "word_count": 1267
     },
     {
       "chapter_index": 683,
@@ -24425,7 +24394,7 @@
         "Nier hugged me: Dont go thinking well agree to you bringing Ying back just because of this. Your Majesty, we will never agree to it.",
         "Really?",
         "After hearing me, Nier rolled over and mounted me. She clasped my face and sternly said, How exactly do you see her? Your Majesty, I dont want to hear you lie. If you want to make Ying your lover or your mistress, its not as though Lucia and I cant accept th-",
-        "I cant accept it!!exclaimed Lucia.",
+        "I cant accept it!! exclaimed Lucia.",
         "Youre already too late. Do you remember Ling Yue, the fox? After cutting off Lucia, Nier continued, My Prince, be honest with me. Please tell me why you want to bring Ying so badly.",
         "I gave an honest response: Sympathy. Shes the same as I was in the past. I want to give her an opportunity. I want to let her know this world is still a beautiful place, which is also a way of being accountable to myself."
       ],
@@ -24998,7 +24967,7 @@
         {
           "id": 113,
           "paragraph_id": 27,
-          "text": "I cant accept it!!exclaimed Lucia."
+          "text": "I cant accept it!! exclaimed Lucia."
         },
         {
           "id": 114,
@@ -25041,7 +25010,7 @@
           "text": "I want to let her know this world is still a beautiful place, which is also a way of being accountable to myself."
         }
       ],
-      "word_count": 1284
+      "word_count": 1285
     },
     {
       "chapter_index": 687,
@@ -27667,7 +27636,6 @@
         "Lucia roared back, You shut up!! Isnt our job to protect His Highness?! With us and Her Highness here, how could His Highness get hurt?!",
         "Nier took in a deep breath: What about us, then?! Im nowtrulyafraid of death. I now understand why only homeless orphans were recruited as Valkyries. Its because life isnt worth mentioning when you dont have any feelings for anything. I could die for His Majesty when we fell in love. That was my duty as a bodyguard. Now, thought, a frightening feeling strangles me whenever I think of the future. Im afraid to die. Im afraid my Daisy How is she going to live on after I die?",
         "Lucia was silent this time",
-        "========",
         "Lets do that, then. Xia and I will advance first. Queen Vyvyan shall take charge of restricting the wyrm within a specific area. Empress Elizabeth, please have the fleet surround it in order to attract its attention.",
         "Mm, if you fail, Ill use my mana dissolving potion, and try to kill it using normal means.",
         "The mana dissolving potion wasnt actually difficult to create. I just never made potions before in this world. Consequently, my eyes stung when I simmered the herbs. Mera used to create potions and perfumes the same way. She put up with the strange smelling pot inside of her house that housed only her alone. I was grateful Mera left behind her book.",
@@ -28012,300 +27980,295 @@
         {
           "id": 65,
           "paragraph_id": 13,
-          "text": "========"
-        },
-        {
-          "id": 66,
-          "paragraph_id": 14,
           "text": "Lets do that, then."
         },
         {
-          "id": 67,
-          "paragraph_id": 14,
+          "id": 66,
+          "paragraph_id": 13,
           "text": "Xia and I will advance first."
         },
         {
-          "id": 68,
-          "paragraph_id": 14,
+          "id": 67,
+          "paragraph_id": 13,
           "text": "Queen Vyvyan shall take charge of restricting the wyrm within a specific area."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 13,
+          "text": "Empress Elizabeth, please have the fleet surround it in order to attract its attention."
         },
         {
           "id": 69,
           "paragraph_id": 14,
-          "text": "Empress Elizabeth, please have the fleet surround it in order to attract its attention."
+          "text": "Mm, if you fail, Ill use my mana dissolving potion, and try to kill it using normal means."
         },
         {
           "id": 70,
           "paragraph_id": 15,
-          "text": "Mm, if you fail, Ill use my mana dissolving potion, and try to kill it using normal means."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 16,
           "text": "The mana dissolving potion wasnt actually difficult to create."
         },
         {
-          "id": 72,
-          "paragraph_id": 16,
+          "id": 71,
+          "paragraph_id": 15,
           "text": "I just never made potions before in this world."
         },
         {
-          "id": 73,
-          "paragraph_id": 16,
+          "id": 72,
+          "paragraph_id": 15,
           "text": "Consequently, my eyes stung when I simmered the herbs."
         },
         {
-          "id": 74,
-          "paragraph_id": 16,
+          "id": 73,
+          "paragraph_id": 15,
           "text": "Mera used to create potions and perfumes the same way."
         },
         {
-          "id": 75,
-          "paragraph_id": 16,
+          "id": 74,
+          "paragraph_id": 15,
           "text": "She put up with the strange smelling pot inside of her house that housed only her alone."
+        },
+        {
+          "id": 75,
+          "paragraph_id": 15,
+          "text": "I was grateful Mera left behind her book."
         },
         {
           "id": 76,
           "paragraph_id": 16,
-          "text": "I was grateful Mera left behind her book."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 17,
           "text": "After using the mana dissolving potion to remove the wyrms outer shell, we intended to subdue using cannons and blades."
         },
         {
-          "id": 78,
-          "paragraph_id": 17,
+          "id": 77,
+          "paragraph_id": 16,
           "text": "However, I didnt think wed need to resort to that."
         },
         {
-          "id": 79,
-          "paragraph_id": 17,
+          "id": 78,
+          "paragraph_id": 16,
           "text": "After all, I was confident in Ying and Xias abilities."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 16,
+          "text": "Ying can stand equally against it with a normal sword, so she shouldnt have a problem, since she had Xia this time."
         },
         {
           "id": 80,
           "paragraph_id": 17,
-          "text": "Ying can stand equally against it with a normal sword, so she shouldnt have a problem, since she had Xia this time."
+          "text": "Ying nodded, and then stood up: I shall go and prepare, then."
         },
         {
           "id": 81,
           "paragraph_id": 18,
-          "text": "Ying nodded, and then stood up: I shall go and prepare, then."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 19,
           "text": "Mm."
         },
         {
-          "id": 83,
-          "paragraph_id": 19,
+          "id": 82,
+          "paragraph_id": 18,
           "text": "Vyvyan smiled, and then watched Ying leave and shut the door."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 18,
+          "text": "She then looked to me: Son, dont go this time."
         },
         {
           "id": 84,
           "paragraph_id": 19,
-          "text": "She then looked to me: Son, dont go this time."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 20,
           "text": "Why?"
         },
         {
-          "id": 86,
-          "paragraph_id": 20,
+          "id": 85,
+          "paragraph_id": 19,
           "text": "I want to go!"
         },
         {
-          "id": 87,
-          "paragraph_id": 20,
+          "id": 86,
+          "paragraph_id": 19,
           "text": "I must go, not only are you and M-, Her Majesty going, but my wives are going to."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 19,
+          "text": "How can I stay in the rear and watch?!"
         },
         {
           "id": 88,
           "paragraph_id": 20,
-          "text": "How can I stay in the rear and watch?!"
-        },
-        {
-          "id": 89,
-          "paragraph_id": 21,
           "text": "Vyvyan smiled: Son, what are we going to do if you get in danger?"
         },
         {
-          "id": 90,
-          "paragraph_id": 21,
+          "id": 89,
+          "paragraph_id": 20,
           "text": "Were not fighting on land but water this time."
         },
         {
-          "id": 91,
-          "paragraph_id": 21,
+          "id": 90,
+          "paragraph_id": 20,
           "text": "And, were in an area we dont manage, no less."
         },
         {
-          "id": 92,
-          "paragraph_id": 21,
+          "id": 91,
+          "paragraph_id": 20,
           "text": "We dont even have a map."
         },
         {
-          "id": 93,
-          "paragraph_id": 21,
+          "id": 92,
+          "paragraph_id": 20,
           "text": "What are you going to do if something happens?"
         },
         {
-          "id": 94,
-          "paragraph_id": 21,
+          "id": 93,
+          "paragraph_id": 20,
           "text": "Do you think youll be lucky enough to escape death again?"
+        },
+        {
+          "id": 94,
+          "paragraph_id": 20,
+          "text": "Additionally, if were distracted with trying to protect you, how will we focus on taking down the wyrm?"
         },
         {
           "id": 95,
           "paragraph_id": 21,
-          "text": "Additionally, if were distracted with trying to protect you, how will we focus on taking down the wyrm?"
+          "text": "I wont be a burden!"
         },
         {
           "id": 96,
-          "paragraph_id": 22,
-          "text": "I wont be a burden!"
+          "paragraph_id": 21,
+          "text": "I definitely wont attempt something beyond what Im capable of!"
         },
         {
           "id": 97,
           "paragraph_id": 22,
-          "text": "I definitely wont attempt something beyond what Im capable of!"
-        },
-        {
-          "id": 98,
-          "paragraph_id": 23,
           "text": "You say that every time, but tell me one time you didnt run full pelt into danger?"
         },
         {
-          "id": 99,
-          "paragraph_id": 23,
+          "id": 98,
+          "paragraph_id": 22,
           "text": "Son, youre no longer who you were in the past."
         },
         {
-          "id": 100,
-          "paragraph_id": 23,
+          "id": 99,
+          "paragraph_id": 22,
           "text": "In the past, you could do as you fancied, but you now have wives and children."
+        },
+        {
+          "id": 100,
+          "paragraph_id": 22,
+          "text": "If something happens to you, what do you want to become of your wives and child?"
         },
         {
           "id": 101,
           "paragraph_id": 23,
-          "text": "If something happens to you, what do you want to become of your wives and child?"
+          "text": "What about my wives, then?"
         },
         {
           "id": 102,
-          "paragraph_id": 24,
-          "text": "What about my wives, then?"
+          "paragraph_id": 23,
+          "text": "What if they die?"
         },
         {
           "id": 103,
           "paragraph_id": 24,
-          "text": "What if they die?"
-        },
-        {
-          "id": 104,
-          "paragraph_id": 25,
           "text": "Vyvyan replied in a serious tone: Thats why Elizabeth and I dont really want you all to go."
         },
         {
-          "id": 105,
-          "paragraph_id": 25,
+          "id": 104,
+          "paragraph_id": 24,
           "text": "More precisely, we were against you killing the wyrm in the first place."
         },
         {
-          "id": 106,
-          "paragraph_id": 25,
+          "id": 105,
+          "paragraph_id": 24,
           "text": "However, were entertaining you, since its your request."
         },
         {
-          "id": 107,
-          "paragraph_id": 25,
+          "id": 106,
+          "paragraph_id": 24,
           "text": "As your mom, though, I must tell you: your father, my brother, could be considered an excellent King and a qualified brother, but not a qualified father."
         },
         {
-          "id": 108,
-          "paragraph_id": 25,
+          "id": 107,
+          "paragraph_id": 24,
           "text": "Thats why you cant copy him."
         },
         {
-          "id": 109,
-          "paragraph_id": 25,
+          "id": 108,
+          "paragraph_id": 24,
           "text": "Son, you must bear in mind that youre now the father of three kids."
+        },
+        {
+          "id": 109,
+          "paragraph_id": 24,
+          "text": "If you must risk your life, you should prioritise your family, not Ying, who youve only met for a few days."
         },
         {
           "id": 110,
           "paragraph_id": 25,
-          "text": "If you must risk your life, you should prioritise your family, not Ying, who youve only met for a few days."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 26,
           "text": "Mm I looked at Vyvyan and went to speak several times."
         },
         {
-          "id": 112,
-          "paragraph_id": 26,
+          "id": 111,
+          "paragraph_id": 25,
           "text": "I really wanted to say something, but the words wouldnt come to me, as Vyvyan was right."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 25,
+          "text": "In the end, I argued, Ying saved my life, though"
         },
         {
           "id": 113,
           "paragraph_id": 26,
-          "text": "In the end, I argued, Ying saved my life, though"
-        },
-        {
-          "id": 114,
-          "paragraph_id": 27,
           "text": "Vyvyan took in a big breath: What does that have to do with you killing the wyrm?"
         },
         {
-          "id": 115,
-          "paragraph_id": 27,
+          "id": 114,
+          "paragraph_id": 26,
           "text": "You, by all means, could take Ying and leave."
         },
         {
-          "id": 116,
-          "paragraph_id": 27,
+          "id": 115,
+          "paragraph_id": 26,
           "text": "Theres no need for you to take this risk."
         },
         {
-          "id": 117,
-          "paragraph_id": 27,
+          "id": 116,
+          "paragraph_id": 26,
           "text": "In short, Im your mommy, Son; hence, if you want to kill the wyrm, Mommy will definitely help you."
         },
         {
-          "id": 118,
-          "paragraph_id": 27,
+          "id": 117,
+          "paragraph_id": 26,
           "text": "However, I hope you think hard about it."
         },
         {
-          "id": 119,
-          "paragraph_id": 27,
+          "id": 118,
+          "paragraph_id": 26,
           "text": "Weve only formulated a plan."
         },
         {
-          "id": 120,
-          "paragraph_id": 27,
+          "id": 119,
+          "paragraph_id": 26,
           "text": "We have nothing to lose if we dont kill it."
         },
         {
-          "id": 121,
-          "paragraph_id": 27,
+          "id": 120,
+          "paragraph_id": 26,
           "text": "Think hard about what you should risk your life for."
         },
         {
-          "id": 122,
-          "paragraph_id": 27,
+          "id": 121,
+          "paragraph_id": 26,
           "text": "You couldve done it for us in the past, then for your wives, but what about this time?"
         },
         {
-          "id": 123,
-          "paragraph_id": 27,
+          "id": 122,
+          "paragraph_id": 26,
           "text": "What are you risking your life for this time?"
         }
       ],
-      "word_count": 1347
+      "word_count": 1346
     },
     {
       "chapter_index": 692,

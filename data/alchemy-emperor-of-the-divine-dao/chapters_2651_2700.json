@@ -2907,7 +2907,6 @@
         "“The evolution has begun, so there is actually no need for me to stay on guard here.",
         "“Just in case, I had better pursue!”",
         "He took a step, and entered the black doorway of light as well. Xiu! His figure vanished immediately as well.",
-        "***",
         "Boom! A powerful pulling sensation assailed Ling Han, bringing him great pain. This indeed was a spatial passageway that could allow him to leave the Celestial King Graveyard, but that was designed for Pseudo-Heavenly Venerates. For Ling Han to traverse this passage at present naturally caused him great suffering.",
         "Energy mercilessly sliced towards him. Even if he was channeling the Indestructible Heaven’s Scroll, it was still useless. He would be wounded at the slightest movement, and if he did not channel it, his injuries would become even heavier.",
         "Even Ling Han could not continue enduring. With a flash, he entered into the Celestial Guest Residence.",
@@ -3425,205 +3424,200 @@
         {
           "id": 99,
           "paragraph_id": 42,
-          "text": "***"
-        },
-        {
-          "id": 100,
-          "paragraph_id": 43,
           "text": "Boom!"
         },
         {
-          "id": 101,
-          "paragraph_id": 43,
+          "id": 100,
+          "paragraph_id": 42,
           "text": "A powerful pulling sensation assailed Ling Han, bringing him great pain."
         },
         {
-          "id": 102,
-          "paragraph_id": 43,
+          "id": 101,
+          "paragraph_id": 42,
           "text": "This indeed was a spatial passageway that could allow him to leave the Celestial King Graveyard, but that was designed for Pseudo-Heavenly Venerates."
+        },
+        {
+          "id": 102,
+          "paragraph_id": 42,
+          "text": "For Ling Han to traverse this passage at present naturally caused him great suffering."
         },
         {
           "id": 103,
           "paragraph_id": 43,
-          "text": "For Ling Han to traverse this passage at present naturally caused him great suffering."
-        },
-        {
-          "id": 104,
-          "paragraph_id": 44,
           "text": "Energy mercilessly sliced towards him."
         },
         {
-          "id": 105,
-          "paragraph_id": 44,
+          "id": 104,
+          "paragraph_id": 43,
           "text": "Even if he was channeling the Indestructible Heaven’s Scroll, it was still useless."
+        },
+        {
+          "id": 105,
+          "paragraph_id": 43,
+          "text": "He would be wounded at the slightest movement, and if he did not channel it, his injuries would become even heavier."
         },
         {
           "id": 106,
           "paragraph_id": 44,
-          "text": "He would be wounded at the slightest movement, and if he did not channel it, his injuries would become even heavier."
+          "text": "Even Ling Han could not continue enduring."
         },
         {
           "id": 107,
-          "paragraph_id": 45,
-          "text": "Even Ling Han could not continue enduring."
+          "paragraph_id": 44,
+          "text": "With a flash, he entered into the Celestial Guest Residence."
         },
         {
           "id": 108,
           "paragraph_id": 45,
-          "text": "With a flash, he entered into the Celestial Guest Residence."
+          "text": "Crack!"
         },
         {
           "id": 109,
           "paragraph_id": 46,
-          "text": "Crack!"
+          "text": "The flow of energy swept past, and furious flames were immediately ignited on the surface of the Celestial Guest Residence."
         },
         {
           "id": 110,
-          "paragraph_id": 47,
-          "text": "The flow of energy swept past, and furious flames were immediately ignited on the surface of the Celestial Guest Residence."
+          "paragraph_id": 46,
+          "text": "Seals lit up, and then dimmed rapidly again."
         },
         {
           "id": 111,
           "paragraph_id": 47,
-          "text": "Seals lit up, and then dimmed rapidly again."
+          "text": "Thankfully, this was Divine Metal, after all, and could resist the energy flow."
         },
         {
           "id": 112,
           "paragraph_id": 48,
-          "text": "Thankfully, this was Divine Metal, after all, and could resist the energy flow."
-        },
-        {
-          "id": 113,
-          "paragraph_id": 49,
           "text": "It wasn’t clear how much time had passed."
         },
         {
-          "id": 114,
-          "paragraph_id": 49,
+          "id": 113,
+          "paragraph_id": 48,
           "text": "Peng!"
+        },
+        {
+          "id": 114,
+          "paragraph_id": 48,
+          "text": "The Celestial Guest Residence was shot out, and streaked through the air before landing in a grassy meadow."
         },
         {
           "id": 115,
           "paragraph_id": 49,
-          "text": "The Celestial Guest Residence was shot out, and streaked through the air before landing in a grassy meadow."
-        },
-        {
-          "id": 116,
-          "paragraph_id": 50,
           "text": "Ling Han’s figure appeared."
         },
         {
-          "id": 117,
-          "paragraph_id": 50,
+          "id": 116,
+          "paragraph_id": 49,
           "text": "His eyes swept over the surroundings."
+        },
+        {
+          "id": 117,
+          "paragraph_id": 49,
+          "text": "This was a plain, covered by green meadows."
         },
         {
           "id": 118,
           "paragraph_id": 50,
-          "text": "This was a plain, covered by green meadows."
-        },
-        {
-          "id": 119,
-          "paragraph_id": 51,
           "text": "‘I have left,’ Ling Han immediately thought."
         },
         {
-          "id": 120,
-          "paragraph_id": 51,
+          "id": 119,
+          "paragraph_id": 50,
           "text": "This was definitely not the Celestial King Graveyard."
+        },
+        {
+          "id": 120,
+          "paragraph_id": 50,
+          "text": "The vibe here was completely different."
         },
         {
           "id": 121,
           "paragraph_id": 51,
-          "text": "The vibe here was completely different."
+          "text": "Ling Han leaped up, and immediately raced off."
         },
         {
           "id": 122,
-          "paragraph_id": 52,
-          "text": "Ling Han leaped up, and immediately raced off."
+          "paragraph_id": 51,
+          "text": "Who knew when Desolate Moon would come out."
         },
         {
           "id": 123,
           "paragraph_id": 52,
-          "text": "Who knew when Desolate Moon would come out."
+          "text": "He’d take a look to see where he was, and how far he was now from the martial academy."
         },
         {
           "id": 124,
           "paragraph_id": 53,
-          "text": "He’d take a look to see where he was, and how far he was now from the martial academy."
+          "text": "His speed now was shocking, and with long-lasting stamina, it was more suitable for long-distance travel, making him capable of powerful bursts of speed."
         },
         {
           "id": 125,
-          "paragraph_id": 54,
-          "text": "His speed now was shocking, and with long-lasting stamina, it was more suitable for long-distance travel, making him capable of powerful bursts of speed."
+          "paragraph_id": 53,
+          "text": "This was practically perfect."
         },
         {
           "id": 126,
           "paragraph_id": 54,
-          "text": "This was practically perfect."
-        },
-        {
-          "id": 127,
-          "paragraph_id": 55,
           "text": "“No wonder Heavenly Venerates are so strong."
         },
         {
-          "id": 128,
-          "paragraph_id": 55,
+          "id": 127,
+          "paragraph_id": 54,
           "text": "That is because what they are using is their own power, which is unlike Celestial Kings, who need to undergo a process of drawing on the power of Regulations,” Ling Han murmured as he kept running."
         },
         {
-          "id": 129,
-          "paragraph_id": 55,
+          "id": 128,
+          "paragraph_id": 54,
           "text": "At this time, he did not dare to absorb any Void Particle Energy."
+        },
+        {
+          "id": 129,
+          "paragraph_id": 54,
+          "text": "If his body exploded, who knew how many years he would need to recover."
         },
         {
           "id": 130,
           "paragraph_id": 55,
-          "text": "If his body exploded, who knew how many years he would need to recover."
+          "text": "“I will enter into seclusion after I return, and boost my Body Art to the pinnacle of the Seventh Heaven before I come out again.”"
         },
         {
           "id": 131,
           "paragraph_id": 56,
-          "text": "“I will enter into seclusion after I return, and boost my Body Art to the pinnacle of the Seventh Heaven before I come out again.”"
+          "text": "Mountains and rivers were continuously left behind as Ling Han ran past them."
         },
         {
           "id": 132,
-          "paragraph_id": 57,
-          "text": "Mountains and rivers were continuously left behind as Ling Han ran past them."
+          "paragraph_id": 56,
+          "text": "After half a day of running, he finally discovered a large city, and directly exuded a great aura as he descended."
         },
         {
           "id": 133,
           "paragraph_id": 57,
-          "text": "After half a day of running, he finally discovered a large city, and directly exuded a great aura as he descended."
+          "text": "The strongest in this city was only a Fifth Heaven Celestial King Tier."
         },
         {
           "id": 134,
-          "paragraph_id": 58,
-          "text": "The strongest in this city was only a Fifth Heaven Celestial King Tier."
+          "paragraph_id": 57,
+          "text": "When they saw the seven ribbons of iridescent light wrapped around Ling Han, they hurriedly rushed forward and addressed him as senior very respectfully."
         },
         {
           "id": 135,
           "paragraph_id": 58,
-          "text": "When they saw the seven ribbons of iridescent light wrapped around Ling Han, they hurriedly rushed forward and addressed him as senior very respectfully."
-        },
-        {
-          "id": 136,
-          "paragraph_id": 59,
           "text": "“What city is this?"
         },
         {
-          "id": 137,
-          "paragraph_id": 59,
+          "id": 136,
+          "paragraph_id": 58,
           "text": "And how far is this city from the World’s Paramount Martial Academy?” Ling Han asked."
         },
         {
-          "id": 138,
-          "paragraph_id": 59,
+          "id": 137,
+          "paragraph_id": 58,
           "text": "The reason why he had directly revealed his proof of identity as a Seventh Heaven Celestial King was so that he could save some time."
         }
       ],
-      "word_count": 1620
+      "word_count": 1619
     },
     {
       "chapter_index": 2656,
@@ -3652,7 +3646,6 @@
         "In the matter of a few breaths, every living creature in the city was captured by the black light and turned into stone or wood. The city that had just been extremely lively moments ago had instantly become a dead city.",
         "“Hahahaha!” Desolate Moon laughed loudly. Peng! He soared into the skies, and continued his pursuit of Ling Han. Xiu, xiu, xiu! He absorbed all the black light back into his body, but all the living beings in the city also turned into dust at the same time.",
         "“Lord Hysteria’s plans definitely cannot be stopped because of you!”",
-        "***",
         "Ling Han only knew that Desolate Moon would definitely pursue him, but he did not know that Desolate Moon would also create massive bloodshed in the process.",
         "Ling Han’s stamina was abundant, and he did not stop at all, heading directly for the World’s Paramount Martial Academy. When one had reached the height that he had, who would stop him along the way? To say nothing of the fact that his battle prowess far surpassed his cultivation level, merely his status as a Seventh Heaven Celestial King was enough to allow him to do anything he liked.",
         "But it should be known that Ling Han was also a person who had a halo that attracted trouble!",
@@ -3928,410 +3921,405 @@
         {
           "id": 46,
           "paragraph_id": 22,
-          "text": "***"
+          "text": "Ling Han only knew that Desolate Moon would definitely pursue him, but he did not know that Desolate Moon would also create massive bloodshed in the process."
         },
         {
           "id": 47,
           "paragraph_id": 23,
-          "text": "Ling Han only knew that Desolate Moon would definitely pursue him, but he did not know that Desolate Moon would also create massive bloodshed in the process."
-        },
-        {
-          "id": 48,
-          "paragraph_id": 24,
           "text": "Ling Han’s stamina was abundant, and he did not stop at all, heading directly for the World’s Paramount Martial Academy."
         },
         {
-          "id": 49,
-          "paragraph_id": 24,
+          "id": 48,
+          "paragraph_id": 23,
           "text": "When one had reached the height that he had, who would stop him along the way?"
+        },
+        {
+          "id": 49,
+          "paragraph_id": 23,
+          "text": "To say nothing of the fact that his battle prowess far surpassed his cultivation level, merely his status as a Seventh Heaven Celestial King was enough to allow him to do anything he liked."
         },
         {
           "id": 50,
           "paragraph_id": 24,
-          "text": "To say nothing of the fact that his battle prowess far surpassed his cultivation level, merely his status as a Seventh Heaven Celestial King was enough to allow him to do anything he liked."
+          "text": "But it should be known that Ling Han was also a person who had a halo that attracted trouble!"
         },
         {
           "id": 51,
           "paragraph_id": 25,
-          "text": "But it should be known that Ling Han was also a person who had a halo that attracted trouble!"
+          "text": "He had not encountered any trouble throughout a few years on the journey, but on one particular day, he crashed head-first into a battle."
         },
         {
           "id": 52,
           "paragraph_id": 26,
-          "text": "He had not encountered any trouble throughout a few years on the journey, but on one particular day, he crashed head-first into a battle."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 27,
           "text": "Ling Han was really innocent."
         },
         {
-          "id": 54,
-          "paragraph_id": 27,
+          "id": 53,
+          "paragraph_id": 26,
           "text": "He had been running too quickly, and to save himself time, he would definitely be forging ahead on a straight course."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 26,
+          "text": "He had not thought that he would actually rush into a chaotic battle which involved quite a few parties."
         },
         {
           "id": 55,
           "paragraph_id": 27,
-          "text": "He had not thought that he would actually rush into a chaotic battle which involved quite a few parties."
-        },
-        {
-          "id": 56,
-          "paragraph_id": 28,
           "text": "He did not consider stopping, but rather just forged forcefully ahead."
         },
         {
-          "id": 57,
-          "paragraph_id": 28,
+          "id": 56,
+          "paragraph_id": 27,
           "text": "In any case, with his tough physique, he could even take on the attack of a Ninth Heaven Celestial King head-on after channeling the Indestructible Heaven’s Scroll."
         },
         {
-          "id": 58,
-          "paragraph_id": 28,
+          "id": 57,
+          "paragraph_id": 27,
           "text": "Naturally, he would have no further reservations."
+        },
+        {
+          "id": 58,
+          "paragraph_id": 27,
+          "text": "He only needed to rush forwards in a single stroke."
         },
         {
           "id": 59,
           "paragraph_id": 28,
-          "text": "He only needed to rush forwards in a single stroke."
+          "text": "“How dare you!!”"
         },
         {
           "id": 60,
           "paragraph_id": 29,
-          "text": "“How dare you!!”"
+          "text": "“How greedy!!”"
         },
         {
           "id": 61,
           "paragraph_id": 30,
-          "text": "“How greedy!!”"
+          "text": "He had not thought that this charge would actually anger everyone, and they all attacked him."
         },
         {
           "id": 62,
           "paragraph_id": 31,
-          "text": "He had not thought that this charge would actually anger everyone, and they all attacked him."
+          "text": "There were Seventh Heaven Celestial Kings and even Eighth Heaven Celestial Kings among these people."
         },
         {
           "id": 63,
-          "paragraph_id": 32,
-          "text": "There were Seventh Heaven Celestial Kings and even Eighth Heaven Celestial Kings among these people."
+          "paragraph_id": 31,
+          "text": "Otherwise, they would not have dared to so aggressively attack a Seventh Heaven Celestial King."
         },
         {
           "id": 64,
           "paragraph_id": 32,
-          "text": "Otherwise, they would not have dared to so aggressively attack a Seventh Heaven Celestial King."
+          "text": "Ling Han ignored them completely, just forging onwards while he was being attacked."
         },
         {
           "id": 65,
-          "paragraph_id": 33,
-          "text": "Ling Han ignored them completely, just forging onwards while he was being attacked."
+          "paragraph_id": 32,
+          "text": "Yet it caused these people to attack him even more madly."
         },
         {
           "id": 66,
           "paragraph_id": 33,
-          "text": "Yet it caused these people to attack him even more madly."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 34,
           "text": "Golden light flickered all over his body."
         },
         {
-          "id": 68,
-          "paragraph_id": 34,
+          "id": 67,
+          "paragraph_id": 33,
           "text": "Peng, he rushed out of the crowd while completely ignoring all attacks."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 33,
+          "text": "Mist was wafting ahead of him, with a plume of purple-red clouds that were as dazzling as flames."
         },
         {
           "id": 69,
           "paragraph_id": 34,
-          "text": "Mist was wafting ahead of him, with a plume of purple-red clouds that were as dazzling as flames."
+          "text": "So there was a Celestial medicine here!"
         },
         {
           "id": 70,
           "paragraph_id": 35,
-          "text": "So there was a Celestial medicine here!"
-        },
-        {
-          "id": 71,
-          "paragraph_id": 36,
           "text": "Ling Han finally understood."
         },
         {
-          "id": 72,
-          "paragraph_id": 36,
+          "id": 71,
+          "paragraph_id": 35,
           "text": "These people were fighting over the Celestial medicine, and the ownership of this Celestial medicine had not yet been determined."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 35,
+          "text": "They had just been fighting intensely, and had not expected that Ling Han would barge in and interfere, directly rushing into their midst."
         },
         {
           "id": 73,
           "paragraph_id": 36,
-          "text": "They had just been fighting intensely, and had not expected that Ling Han would barge in and interfere, directly rushing into their midst."
+          "text": "“Don’t even think about it!” Everyone grabbed out at Ling Han."
         },
         {
           "id": 74,
           "paragraph_id": 37,
-          "text": "“Don’t even think about it!” Everyone grabbed out at Ling Han."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 38,
           "text": "Ling Han laughed."
         },
         {
-          "id": 76,
-          "paragraph_id": 38,
+          "id": 75,
+          "paragraph_id": 37,
           "text": "Since he had seen it, there was no reason that he should miss out on it."
         },
         {
-          "id": 77,
-          "paragraph_id": 38,
+          "id": 76,
+          "paragraph_id": 37,
           "text": "This Celestial King was indeed a Celestial-King-Tier Great Herb, and its age was shocking."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 37,
+          "text": "It would give him considerable help as well."
         },
         {
           "id": 78,
           "paragraph_id": 38,
-          "text": "It would give him considerable help as well."
+          "text": "He moved, grabbing out at the Celestial medicine."
         },
         {
           "id": 79,
           "paragraph_id": 39,
-          "text": "He moved, grabbing out at the Celestial medicine."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 40,
           "text": "Peng, peng, peng!"
         },
         {
-          "id": 81,
-          "paragraph_id": 40,
+          "id": 80,
+          "paragraph_id": 39,
           "text": "All the attacks flew towards him, and they were all absorbed by the Indestructible Heaven’s Scroll."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 39,
+          "text": "But when Ling Han laid down his palm, he gave a light exclamation of surprise because he actually pressed his hand down on nothing."
         },
         {
           "id": 82,
           "paragraph_id": 40,
-          "text": "But when Ling Han laid down his palm, he gave a light exclamation of surprise because he actually pressed his hand down on nothing."
+          "text": "The Celestial medicine had grown legs and run?"
         },
         {
           "id": 83,
           "paragraph_id": 41,
-          "text": "The Celestial medicine had grown legs and run?"
+          "text": "Ling Han withdrew his hand, yet saw that the Celestial medicine was still where it had been."
         },
         {
           "id": 84,
           "paragraph_id": 42,
-          "text": "Ling Han withdrew his hand, yet saw that the Celestial medicine was still where it had been."
+          "text": "This was just a deception!"
         },
         {
           "id": 85,
           "paragraph_id": 43,
-          "text": "This was just a deception!"
+          "text": "The real Celestial medicine was not here, or even on this plane at all."
         },
         {
           "id": 86,
-          "paragraph_id": 44,
-          "text": "The real Celestial medicine was not here, or even on this plane at all."
+          "paragraph_id": 43,
+          "text": "Its image was just a reflection, and it was not clear where it really was at all."
         },
         {
           "id": 87,
           "paragraph_id": 44,
-          "text": "Its image was just a reflection, and it was not clear where it really was at all."
+          "text": "If Ling Han was given enough time, he would definitely be able to find the whereabouts of this Celestial medicine, but he was now in a rush to get back to the martial academy, so he naturally could only give up the matter with great reluctance."
         },
         {
           "id": 88,
           "paragraph_id": 45,
-          "text": "If Ling Han was given enough time, he would definitely be able to find the whereabouts of this Celestial medicine, but he was now in a rush to get back to the martial academy, so he naturally could only give up the matter with great reluctance."
+          "text": "He shook his head, and was about to leave when he suddenly frowned."
         },
         {
           "id": 89,
           "paragraph_id": 46,
-          "text": "He shook his head, and was about to leave when he suddenly frowned."
-        },
-        {
-          "id": 90,
-          "paragraph_id": 47,
           "text": "“You have really been hard to find.” Desolate Moon’s voice rang out."
         },
         {
-          "id": 91,
-          "paragraph_id": 47,
+          "id": 90,
+          "paragraph_id": 46,
           "text": "Black Qi that filled the skies descended like railings that surrounded Ling Han."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 46,
+          "text": "Because this cage was too massive, those people from before had also been closed in."
         },
         {
           "id": 92,
           "paragraph_id": 47,
-          "text": "Because this cage was too massive, those people from before had also been closed in."
+          "text": "“Who are you?”"
         },
         {
           "id": 93,
           "paragraph_id": 48,
-          "text": "“Who are you?”"
+          "text": "“Why have you imprisoned us?”"
         },
         {
           "id": 94,
           "paragraph_id": 49,
-          "text": "“Why have you imprisoned us?”"
+          "text": "“Don’t bring trouble onto yourself!”"
         },
         {
           "id": 95,
           "paragraph_id": 50,
-          "text": "“Don’t bring trouble onto yourself!”"
+          "text": "These people were all calling out, each of them furious."
         },
         {
           "id": 96,
           "paragraph_id": 51,
-          "text": "These people were all calling out, each of them furious."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 52,
           "text": "“So noisy!” Desolate Moon humphed coldly, and the black Qi suddenly stormed."
         },
         {
-          "id": 98,
-          "paragraph_id": 52,
+          "id": 97,
+          "paragraph_id": 51,
           "text": "Shua, shua, shua!"
         },
         {
-          "id": 99,
-          "paragraph_id": 52,
+          "id": 98,
+          "paragraph_id": 51,
           "text": "These people were all blasted by the black Qi, and were immediately turned stone-like."
+        },
+        {
+          "id": 99,
+          "paragraph_id": 51,
+          "text": "Then, they shattered with a resounding boom, turning into dust."
         },
         {
           "id": 100,
           "paragraph_id": 52,
-          "text": "Then, they shattered with a resounding boom, turning into dust."
+          "text": "He was a supreme monarch star at peak stage Ninth Heaven!"
         },
         {
           "id": 101,
           "paragraph_id": 53,
-          "text": "He was a supreme monarch star at peak stage Ninth Heaven!"
+          "text": "Ling Han turned around, and faced Desolate Moon directly."
         },
         {
           "id": 102,
-          "paragraph_id": 54,
-          "text": "Ling Han turned around, and faced Desolate Moon directly."
+          "paragraph_id": 53,
+          "text": "Though he did not want to clash with Desolate Moon right now, who asked him to have encountered trouble, and it was just this momentary delay that allowed Desolate Moon to catch up to him."
         },
         {
           "id": 103,
           "paragraph_id": 54,
-          "text": "Though he did not want to clash with Desolate Moon right now, who asked him to have encountered trouble, and it was just this momentary delay that allowed Desolate Moon to catch up to him."
+          "text": "“I still don’t know your name yet,” Desolate Moon stated calmly."
         },
         {
           "id": 104,
-          "paragraph_id": 55,
-          "text": "“I still don’t know your name yet,” Desolate Moon stated calmly."
+          "paragraph_id": 54,
+          "text": "“To have me personally deal with you, you are now worthy to have your name remembered by me.”"
         },
         {
           "id": 105,
           "paragraph_id": 55,
-          "text": "“To have me personally deal with you, you are now worthy to have your name remembered by me.”"
-        },
-        {
-          "id": 106,
-          "paragraph_id": 56,
           "text": "Ling Han shook his head."
         },
         {
-          "id": 107,
-          "paragraph_id": 56,
+          "id": 106,
+          "paragraph_id": 55,
           "text": "“I am not concerned about the praises of a lackey, but since you asked, then remember this."
+        },
+        {
+          "id": 107,
+          "paragraph_id": 55,
+          "text": "My name is Ling Han!”"
         },
         {
           "id": 108,
           "paragraph_id": 56,
-          "text": "My name is Ling Han!”"
-        },
-        {
-          "id": 109,
-          "paragraph_id": 57,
           "text": "“It is unfortunate."
         },
         {
-          "id": 110,
-          "paragraph_id": 57,
+          "id": 109,
+          "paragraph_id": 56,
           "text": "You have lost your chance to take another step further."
         },
         {
-          "id": 111,
-          "paragraph_id": 57,
+          "id": 110,
+          "paragraph_id": 56,
           "text": "Otherwise, your future prospects would be boundless!” Desolate Moon shook his head."
+        },
+        {
+          "id": 111,
+          "paragraph_id": 56,
+          "text": "By now, Ling Han was already trapped, and everything was over."
         },
         {
           "id": 112,
           "paragraph_id": 57,
-          "text": "By now, Ling Han was already trapped, and everything was over."
-        },
-        {
-          "id": 113,
-          "paragraph_id": 58,
           "text": "“Glib talk, but ultimately, it is only the delusional words of a maniac.” Ling Han drew the Divine Demon Sword."
         },
         {
-          "id": 114,
-          "paragraph_id": 58,
+          "id": 113,
+          "paragraph_id": 57,
           "text": "Xiu!"
         },
         {
-          "id": 115,
-          "paragraph_id": 58,
+          "id": 114,
+          "paragraph_id": 57,
           "text": "His figure flashed, yet he had no wish to clash forcefully with Desolate Moon at all."
+        },
+        {
+          "id": 115,
+          "paragraph_id": 57,
+          "text": "Instead, he waved his sword in a slash at the prison that the black Qi had formed."
         },
         {
           "id": 116,
           "paragraph_id": 58,
-          "text": "Instead, he waved his sword in a slash at the prison that the black Qi had formed."
+          "text": "What was the most important now was to return to the martial academy and report the circumstances."
         },
         {
           "id": 117,
-          "paragraph_id": 59,
-          "text": "What was the most important now was to return to the martial academy and report the circumstances."
+          "paragraph_id": 58,
+          "text": "Everything else could be set aside for later."
         },
         {
           "id": 118,
           "paragraph_id": 59,
-          "text": "Everything else could be set aside for later."
-        },
-        {
-          "id": 119,
-          "paragraph_id": 60,
           "text": "How sharp was the Divine Demon Sword?"
         },
         {
-          "id": 120,
-          "paragraph_id": 60,
+          "id": 119,
+          "paragraph_id": 59,
           "text": "It had surpassed the level of a Celestial Tool, and even if a Ninth Heaven Celestial King was directly hit, his fate would only be being sliced in half."
+        },
+        {
+          "id": 120,
+          "paragraph_id": 59,
+          "text": "Thus, as the sword descended, the black Qi was immediately severed."
         },
         {
           "id": 121,
           "paragraph_id": 60,
-          "text": "Thus, as the sword descended, the black Qi was immediately severed."
+          "text": "Ling Han charged out, shooting out madly at an extraordinary speed."
         },
         {
           "id": 122,
           "paragraph_id": 61,
-          "text": "Ling Han charged out, shooting out madly at an extraordinary speed."
-        },
-        {
-          "id": 123,
-          "paragraph_id": 62,
           "text": "Desolate Moon was surprised."
         },
         {
-          "id": 124,
-          "paragraph_id": 62,
+          "id": 123,
+          "paragraph_id": 61,
           "text": "While he immediately set forth to pursue, he turned his eyes on the Divine Demon Sword."
         },
         {
-          "id": 125,
-          "paragraph_id": 62,
+          "id": 124,
+          "paragraph_id": 61,
           "text": "A look of dawning realization flashed across his face."
         },
         {
-          "id": 126,
-          "paragraph_id": 62,
+          "id": 125,
+          "paragraph_id": 61,
           "text": "That was Devouring Metal."
         }
       ],
-      "word_count": 1627
+      "word_count": 1626
     },
     {
       "chapter_index": 2657,
@@ -4919,7 +4907,6 @@
         "But just now, he finally saw Ling Han.",
         "“Who is this Ling Han?” someone asked.",
         "“Now that’s a long story.” Yan Xianlu laughed.",
-        "***",
         "Ling Han, the black donkey, and the large black dog appeared on top of a mountain. The black donkey asked impatiently, “Brat, did the sky collapse, or has the ground submerged?”",
         "Ling Han recounted what had happened in the Ancient Tomb, and the black donkey’s face had a shocked expression.",
         "“Oh my goodness, this is really a big deal!” The black donkey was alarmed. “I can’t handle this matter! I will look for Zhou Heng immediately to let him handle this. Otherwise, even if one or two manage to break out, it will cause huge trouble.",
@@ -5071,440 +5058,435 @@
         {
           "id": 20,
           "paragraph_id": 14,
-          "text": "***"
+          "text": "Ling Han, the black donkey, and the large black dog appeared on top of a mountain."
         },
         {
           "id": 21,
-          "paragraph_id": 15,
-          "text": "Ling Han, the black donkey, and the large black dog appeared on top of a mountain."
+          "paragraph_id": 14,
+          "text": "The black donkey asked impatiently, “Brat, did the sky collapse, or has the ground submerged?”"
         },
         {
           "id": 22,
           "paragraph_id": 15,
-          "text": "The black donkey asked impatiently, “Brat, did the sky collapse, or has the ground submerged?”"
+          "text": "Ling Han recounted what had happened in the Ancient Tomb, and the black donkey’s face had a shocked expression."
         },
         {
           "id": 23,
           "paragraph_id": 16,
-          "text": "Ling Han recounted what had happened in the Ancient Tomb, and the black donkey’s face had a shocked expression."
-        },
-        {
-          "id": 24,
-          "paragraph_id": 17,
           "text": "“Oh my goodness, this is really a big deal!” The black donkey was alarmed."
         },
         {
-          "id": 25,
-          "paragraph_id": 17,
+          "id": 24,
+          "paragraph_id": 16,
           "text": "“I can’t handle this matter!"
         },
         {
-          "id": 26,
-          "paragraph_id": 17,
+          "id": 25,
+          "paragraph_id": 16,
           "text": "I will look for Zhou Heng immediately to let him handle this."
+        },
+        {
+          "id": 26,
+          "paragraph_id": 16,
+          "text": "Otherwise, even if one or two manage to break out, it will cause huge trouble."
         },
         {
           "id": 27,
           "paragraph_id": 17,
-          "text": "Otherwise, even if one or two manage to break out, it will cause huge trouble."
+          "text": "“Moreover, originally the establishment of the Celestial King Graveyard was in consideration of the various Heavenly Venerates."
         },
         {
           "id": 28,
-          "paragraph_id": 18,
-          "text": "“Moreover, originally the establishment of the Celestial King Graveyard was in consideration of the various Heavenly Venerates."
+          "paragraph_id": 17,
+          "text": "Now if all the Celestial Kings in there are to be killed, there will definitely be opposition coming from many Heavenly Venerates—it would be difficult to settle this matter satisfactorily."
         },
         {
           "id": 29,
           "paragraph_id": 18,
-          "text": "Now if all the Celestial Kings in there are to be killed, there will definitely be opposition coming from many Heavenly Venerates—it would be difficult to settle this matter satisfactorily."
+          "text": "“Damn, how could that bastard, Hysteria, pull off such a dirty trick?”"
         },
         {
           "id": 30,
           "paragraph_id": 19,
-          "text": "“Damn, how could that bastard, Hysteria, pull off such a dirty trick?”"
+          "text": "The black donkey jumped around, looking extremely irritated."
         },
         {
           "id": 31,
           "paragraph_id": 20,
-          "text": "The black donkey jumped around, looking extremely irritated."
-        },
-        {
-          "id": 32,
-          "paragraph_id": 21,
           "text": "Killing a group of Ninth Heaven Celestial Kings wouldn’t be difficult."
         },
         {
-          "id": 33,
-          "paragraph_id": 21,
+          "id": 32,
+          "paragraph_id": 20,
           "text": "The difficulty was that many Ninth Heaven Celestial Kings came from powerful backgrounds."
         },
         {
-          "id": 34,
-          "paragraph_id": 21,
+          "id": 33,
+          "paragraph_id": 20,
           "text": "Furthermore, now was the time to stand united in the fight against Hysteria."
+        },
+        {
+          "id": 34,
+          "paragraph_id": 20,
+          "text": "If this event caused discord among the people, then it would affect the entire situation."
         },
         {
           "id": 35,
           "paragraph_id": 21,
-          "text": "If this event caused discord among the people, then it would affect the entire situation."
+          "text": "“Never mind, I will go deliver the news first.” The black donkey tore a rip into space, and immediately left."
         },
         {
           "id": 36,
           "paragraph_id": 22,
-          "text": "“Never mind, I will go deliver the news first.” The black donkey tore a rip into space, and immediately left."
+          "text": "Ling Han and the large black dog looked at each other."
         },
         {
           "id": 37,
-          "paragraph_id": 23,
-          "text": "Ling Han and the large black dog looked at each other."
+          "paragraph_id": 22,
+          "text": "Although they hadn’t seen each other for almost 100,000,000 years, both hadn’t changed at all."
         },
         {
           "id": 38,
           "paragraph_id": 23,
-          "text": "Although they hadn’t seen each other for almost 100,000,000 years, both hadn’t changed at all."
+          "text": "“Damned dog, how is the Divine Metal coming along?” Ling Han asked."
         },
         {
           "id": 39,
           "paragraph_id": 24,
-          "text": "“Damned dog, how is the Divine Metal coming along?” Ling Han asked."
-        },
-        {
-          "id": 40,
-          "paragraph_id": 25,
           "text": "They still had another task, which was to suppress Heavenborn and substitute his soul with that of the Karmic Life Heavenly Venerable."
         },
         {
-          "id": 41,
-          "paragraph_id": 25,
+          "id": 40,
+          "paragraph_id": 24,
           "text": "However, the physique of Heavenborn was comparable to Divine Metal."
+        },
+        {
+          "id": 41,
+          "paragraph_id": 24,
+          "text": "In order to be able to strike him, the Divine Demon Sword had to be upgraded to the level of a Heavenly Venerate Tool before it could be a threat to Heavenborn."
         },
         {
           "id": 42,
           "paragraph_id": 25,
-          "text": "In order to be able to strike him, the Divine Demon Sword had to be upgraded to the level of a Heavenly Venerate Tool before it could be a threat to Heavenborn."
+          "text": "“Che, do you think the Divine Metal can just be found anywhere?” the large black dog said irritably, but still took out seven pieces of Divine Metal."
         },
         {
           "id": 43,
           "paragraph_id": 26,
-          "text": "“Che, do you think the Divine Metal can just be found anywhere?” the large black dog said irritably, but still took out seven pieces of Divine Metal."
+          "text": "Ling Han was astounded."
         },
         {
           "id": 44,
-          "paragraph_id": 27,
-          "text": "Ling Han was astounded."
+          "paragraph_id": 26,
+          "text": "“Where did you swindle all that from?”"
         },
         {
           "id": 45,
           "paragraph_id": 27,
-          "text": "“Where did you swindle all that from?”"
+          "text": "Having gotten seven pieces of Divine Metal in just 100,000,000 years, even if it was done in the Flaming Frost Realm, wasn’t an easy feat."
         },
         {
           "id": 46,
           "paragraph_id": 28,
-          "text": "Having gotten seven pieces of Divine Metal in just 100,000,000 years, even if it was done in the Flaming Frost Realm, wasn’t an easy feat."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 29,
           "text": "“Shoo, shoo, shoo."
         },
         {
-          "id": 48,
-          "paragraph_id": 29,
+          "id": 47,
+          "paragraph_id": 28,
           "text": "Can’t you talk properly?” The large black dog waved a paw."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 28,
+          "text": "“Quickly, let’s see if you can upgrade the Divine Demon Sword with these?”"
         },
         {
           "id": 49,
           "paragraph_id": 29,
-          "text": "“Quickly, let’s see if you can upgrade the Divine Demon Sword with these?”"
+          "text": "Ling Han nodded."
         },
         {
           "id": 50,
-          "paragraph_id": 30,
-          "text": "Ling Han nodded."
+          "paragraph_id": 29,
+          "text": "He took out the Divine Demon Sword, and it began to devour the Divine Metal."
         },
         {
           "id": 51,
           "paragraph_id": 30,
-          "text": "He took out the Divine Demon Sword, and it began to devour the Divine Metal."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 31,
           "text": "Divine Metal was tough and durable."
         },
         {
-          "id": 53,
-          "paragraph_id": 31,
+          "id": 52,
+          "paragraph_id": 30,
           "text": "Any Ninth Heaven Celestial King could forge and cut it, but it could never be destroyed."
+        },
+        {
+          "id": 53,
+          "paragraph_id": 30,
+          "text": "However, when faced with Devouring Metal, the Divine Metal would become extremely fragile, with all its essence being quickly extracted and turning to dust."
         },
         {
           "id": 54,
           "paragraph_id": 31,
-          "text": "However, when faced with Devouring Metal, the Divine Metal would become extremely fragile, with all its essence being quickly extracted and turning to dust."
+          "text": "Ling Han waved the Divine Demon Sword, and carefully examined it before saying, “It’s still lacking."
         },
         {
           "id": 55,
-          "paragraph_id": 32,
-          "text": "Ling Han waved the Divine Demon Sword, and carefully examined it before saying, “It’s still lacking."
+          "paragraph_id": 31,
+          "text": "I gather it still needs about three, five or 10 pieces of Divine Metal.”"
         },
         {
           "id": 56,
           "paragraph_id": 32,
-          "text": "I gather it still needs about three, five or 10 pieces of Divine Metal.”"
+          "text": "“F*ck!” The large black dog bared his teeth."
         },
         {
           "id": 57,
-          "paragraph_id": 33,
-          "text": "“F*ck!” The large black dog bared his teeth."
+          "paragraph_id": 32,
+          "text": "“Why do you still need so much, do you want me to die?”"
         },
         {
           "id": 58,
           "paragraph_id": 33,
-          "text": "“Why do you still need so much, do you want me to die?”"
+          "text": "Ling Han just smiled and stared intently at the large black dog."
         },
         {
           "id": 59,
           "paragraph_id": 34,
-          "text": "Ling Han just smiled and stared intently at the large black dog."
-        },
-        {
-          "id": 60,
-          "paragraph_id": 35,
           "text": "“Alright."
         },
         {
-          "id": 61,
-          "paragraph_id": 35,
+          "id": 60,
+          "paragraph_id": 34,
           "text": "I’ll just go and get some more, okay?” The large black dog turned and left."
         },
         {
-          "id": 62,
-          "paragraph_id": 35,
+          "id": 61,
+          "paragraph_id": 34,
           "text": "Actually, he was even more looking forward to the resurrection of the Karmic Life Heavenly Venerable than Ling Han himself."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 34,
+          "text": "After all, Ling Han had never met the Karmic Life Heavenly Venerable, but the large black dog had been cultivating by the side of the Karmic Life Heavenly Venerable, and their relationship ran extremely deep."
         },
         {
           "id": 63,
           "paragraph_id": 35,
-          "text": "After all, Ling Han had never met the Karmic Life Heavenly Venerable, but the large black dog had been cultivating by the side of the Karmic Life Heavenly Venerable, and their relationship ran extremely deep."
+          "text": "Ling Han returned to his quarters."
         },
         {
           "id": 64,
-          "paragraph_id": 36,
-          "text": "Ling Han returned to his quarters."
+          "paragraph_id": 35,
+          "text": "After so many years, he had accumulated countless cultivation resources."
         },
         {
           "id": 65,
           "paragraph_id": 36,
-          "text": "After so many years, he had accumulated countless cultivation resources."
+          "text": "The Empress and Bewitching Maiden Rou also came out of Celestial Guest Residence, and handed over all their cultivation resources to Ling Han for him to deal with them accordingly."
         },
         {
           "id": 66,
           "paragraph_id": 37,
-          "text": "The Empress and Bewitching Maiden Rou also came out of Celestial Guest Residence, and handed over all their cultivation resources to Ling Han for him to deal with them accordingly."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 38,
           "text": "Ling Han planned to concoct alchemical pills."
         },
         {
-          "id": 68,
-          "paragraph_id": 38,
+          "id": 67,
+          "paragraph_id": 37,
           "text": "Relying solely on the amount supplied by the martial academy, the cultivation resources which he could obtain were still limited."
         },
         {
-          "id": 69,
-          "paragraph_id": 38,
+          "id": 68,
+          "paragraph_id": 37,
           "text": "After all, he wanted to upgrade the Indestructible Celestial King Physique, which required an inordinate amount of resources."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 37,
+          "text": "If he were to depend on the supply from the martial academy, then it might take him one epoch before he could attain this goal."
         },
         {
           "id": 70,
           "paragraph_id": 38,
-          "text": "If he were to depend on the supply from the martial academy, then it might take him one epoch before he could attain this goal."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 39,
           "text": "He was recuperating from his injuries while cultivating and concocting the pills at the same time."
         },
         {
-          "id": 72,
-          "paragraph_id": 39,
+          "id": 71,
+          "paragraph_id": 38,
           "text": "As for the events of Ancient Tomb, he no longer needed to worry about it."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 38,
+          "text": "If even Zhou Heng couldn’t handle this matter, then what could Ling Han, a Seventh Heaven Celestial King, do about it?"
         },
         {
           "id": 73,
           "paragraph_id": 39,
-          "text": "If even Zhou Heng couldn’t handle this matter, then what could Ling Han, a Seventh Heaven Celestial King, do about it?"
+          "text": "Several years later, his severed finger regenerated without the slightest lingering aftereffect."
         },
         {
           "id": 74,
           "paragraph_id": 40,
-          "text": "Several years later, his severed finger regenerated without the slightest lingering aftereffect."
+          "text": "And a few years later, there was news that the Celestial King Graveyard had been destroyed, and only a few people managed to come out alive."
         },
         {
           "id": 75,
           "paragraph_id": 41,
-          "text": "And a few years later, there was news that the Celestial King Graveyard had been destroyed, and only a few people managed to come out alive."
+          "text": "This was indeed very shocking."
         },
         {
           "id": 76,
-          "paragraph_id": 42,
-          "text": "This was indeed very shocking."
+          "paragraph_id": 41,
+          "text": "It attracted the attention of countless people, and infuriated many major forces."
         },
         {
           "id": 77,
           "paragraph_id": 42,
-          "text": "It attracted the attention of countless people, and infuriated many major forces."
+          "text": "It was actually due to the Ascending Dragon Pill that many Celestial Kings, such as the Azure Ghost Celestial King, had been sent into the Celestial King Graveyard."
         },
         {
           "id": 78,
-          "paragraph_id": 43,
-          "text": "It was actually due to the Ascending Dragon Pill that many Celestial Kings, such as the Azure Ghost Celestial King, had been sent into the Celestial King Graveyard."
+          "paragraph_id": 42,
+          "text": "However, now that these people had died here, naturally there wouldn’t be any more Ascending Dragon Pills."
         },
         {
           "id": 79,
           "paragraph_id": 43,
-          "text": "However, now that these people had died here, naturally there wouldn’t be any more Ascending Dragon Pills."
+          "text": "While the major forces were infuriated by this news, they were also investigating the truth of the matter."
         },
         {
           "id": 80,
           "paragraph_id": 44,
-          "text": "While the major forces were infuriated by this news, they were also investigating the truth of the matter."
+          "text": "When Ling Han got to know about it, he was sure that certain forces would put the blame on him as it was his report which led to the destruction of the Celestial King Graveyard."
         },
         {
           "id": 81,
           "paragraph_id": 45,
-          "text": "When Ling Han got to know about it, he was sure that certain forces would put the blame on him as it was his report which led to the destruction of the Celestial King Graveyard."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 46,
           "text": "Of course, this had nothing to do with Ling Han."
         },
         {
-          "id": 83,
-          "paragraph_id": 46,
+          "id": 82,
+          "paragraph_id": 45,
           "text": "If it weren’t for him bringing back news on the emergence of so many Pseudo-Heavenly Venerates, there would be no telling of the extent of damage that would have resulted—this was actually a great merit."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 45,
+          "text": "However, those major forces would not think like this, for they only knew that their own interests had been jeopardized, and the direct cause of it was Ling Han."
         },
         {
           "id": 84,
           "paragraph_id": 46,
-          "text": "However, those major forces would not think like this, for they only knew that their own interests had been jeopardized, and the direct cause of it was Ling Han."
+          "text": "“If they want to blame me, so be it."
         },
         {
           "id": 85,
-          "paragraph_id": 47,
-          "text": "“If they want to blame me, so be it."
+          "paragraph_id": 46,
+          "text": "If I attain Great Accomplishment in my cultivation level, whom shall I fear?"
         },
         {
           "id": 86,
           "paragraph_id": 47,
-          "text": "If I attain Great Accomplishment in my cultivation level, whom shall I fear?"
+          "text": "“Whoever dares to come and cause trouble, I’ll kill them immediately."
         },
         {
           "id": 87,
-          "paragraph_id": 48,
-          "text": "“Whoever dares to come and cause trouble, I’ll kill them immediately."
+          "paragraph_id": 47,
+          "text": "They dared to do such a deranged thing, each of them deserved to be killed!”"
         },
         {
           "id": 88,
           "paragraph_id": 48,
-          "text": "They dared to do such a deranged thing, each of them deserved to be killed!”"
+          "text": "Ling Han swiftly put this matter aside, and concentrated on his cultivation and concocting alchemical pills."
         },
         {
           "id": 89,
           "paragraph_id": 49,
-          "text": "Ling Han swiftly put this matter aside, and concentrated on his cultivation and concocting alchemical pills."
-        },
-        {
-          "id": 90,
-          "paragraph_id": 50,
           "text": "It took him 1,000 years to absorb a single Void Particle, which he subsequently used to refine his body in order to achieve advancement in his Body Art, while his physical body had to undergo a complete destruction first."
         },
         {
-          "id": 91,
-          "paragraph_id": 50,
+          "id": 90,
+          "paragraph_id": 49,
           "text": "This way of improving one’s strength was extremely arduous but incomparably effective."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 49,
+          "text": "Under such rigorous tempering, he actually succeeded in the complete cultivation of the seventh level of Indestructible Celestial King Physique."
         },
         {
           "id": 92,
           "paragraph_id": 50,
-          "text": "Under such rigorous tempering, he actually succeeded in the complete cultivation of the seventh level of Indestructible Celestial King Physique."
+          "text": "Ling Han made persistent efforts, and his strength steadily improved."
         },
         {
           "id": 93,
-          "paragraph_id": 51,
-          "text": "Ling Han made persistent efforts, and his strength steadily improved."
+          "paragraph_id": 50,
+          "text": "On the other hand, he also concocted plenty of alchemical pills, and planned to find an opportunity to trade them for some natural treasures."
         },
         {
           "id": 94,
           "paragraph_id": 51,
-          "text": "On the other hand, he also concocted plenty of alchemical pills, and planned to find an opportunity to trade them for some natural treasures."
+          "text": "30,000 years later, he came out of seclusion."
         },
         {
           "id": 95,
           "paragraph_id": 52,
-          "text": "30,000 years later, he came out of seclusion."
+          "text": "As soon as he came out, the Rain Emperor, Yan Xianlu, and Yi came over one after another, and talked to him about the old times."
         },
         {
           "id": 96,
-          "paragraph_id": 53,
-          "text": "As soon as he came out, the Rain Emperor, Yan Xianlu, and Yi came over one after another, and talked to him about the old times."
+          "paragraph_id": 52,
+          "text": "Thinking back, they had not seen each other for almost 100,000,000 years."
         },
         {
           "id": 97,
           "paragraph_id": 53,
-          "text": "Thinking back, they had not seen each other for almost 100,000,000 years."
+          "text": "The Rain Emperor’s cultivation speed was still as fast as before, with him having already reached the height of the Fifth Heaven, while Yan Xianlu and Yi were slightly worse off, having only reached the level of Third Heaven."
         },
         {
           "id": 98,
-          "paragraph_id": 54,
-          "text": "The Rain Emperor’s cultivation speed was still as fast as before, with him having already reached the height of the Fifth Heaven, while Yan Xianlu and Yi were slightly worse off, having only reached the level of Third Heaven."
+          "paragraph_id": 53,
+          "text": "This couldn’t be compared to Ling Han, but no matter which realm he was placed in, his speed was considered to be amazing."
         },
         {
           "id": 99,
           "paragraph_id": 54,
-          "text": "This couldn’t be compared to Ling Han, but no matter which realm he was placed in, his speed was considered to be amazing."
+          "text": "“Ling Han, my master has a message for you, so quickly come out on your knees and listen to it!” A voice suddenly rang out."
         },
         {
           "id": 100,
           "paragraph_id": 55,
-          "text": "“Ling Han, my master has a message for you, so quickly come out on your knees and listen to it!” A voice suddenly rang out."
+          "text": "“Who is so arrogant?” Yan Xianlu immediately stood up."
         },
         {
           "id": 101,
           "paragraph_id": 56,
-          "text": "“Who is so arrogant?” Yan Xianlu immediately stood up."
+          "text": "Yi’s eyes flashed, and he said, “That seems to be Heavenborn’s lackey, Zhu Hongxuan.”"
         },
         {
           "id": 102,
           "paragraph_id": 57,
-          "text": "Yi’s eyes flashed, and he said, “That seems to be Heavenborn’s lackey, Zhu Hongxuan.”"
+          "text": "Heavenborn!"
         },
         {
           "id": 103,
           "paragraph_id": 58,
-          "text": "Heavenborn!"
+          "text": "Ling Han’s and the Rain Emperor’s eyes lit up, revealing a raging fighting spirit."
         },
         {
           "id": 104,
           "paragraph_id": 59,
-          "text": "Ling Han’s and the Rain Emperor’s eyes lit up, revealing a raging fighting spirit."
-        },
-        {
-          "id": 105,
-          "paragraph_id": 60,
           "text": "“I’m going to send him away.” Yi stood up as well and walked towards the door."
         },
         {
-          "id": 106,
-          "paragraph_id": 60,
+          "id": 105,
+          "paragraph_id": 59,
           "text": "Heavenborn just sent a mere subordinate, so they couldn’t let Ling Han face him, or wouldn’t that be demeaning him?"
         }
       ],
-      "word_count": 1608
+      "word_count": 1607
     },
     {
       "chapter_index": 2659,
@@ -10295,7 +10277,6 @@
         "“Hahaha!” Wang Qianyang laughed loudly. He stroked his granddaughter’s head, and suddenly said, “Yue Yue, you aren’t very little any longer, and now you have broken through to the Celestial King Tier, so it should be about time that you consider the matter of marriage, right?”",
         "Wang Jiayue instantly became shy, stomped her foot, and exclaimed, “I have no wish to marry. I want to stay with Grandfather!”",
         "“Silly girl, who wouldn’t marry when they grew up?”",
-        "***",
         "Ling Han returned to his own abode, and recounted the events of today to the women, which also made the latter shake their heads repeatedly. This husband was really not the type to let their hearts rest easy. Wherever he went, he would be causing trouble.",
         "The very next morning, as expected, the Wang Clan sent an important character to deliver the ingredients for alchemy.",
         "It was Wang Yangming.",
@@ -10521,465 +10502,460 @@
         {
           "id": 33,
           "paragraph_id": 18,
-          "text": "***"
-        },
-        {
-          "id": 34,
-          "paragraph_id": 19,
           "text": "Ling Han returned to his own abode, and recounted the events of today to the women, which also made the latter shake their heads repeatedly."
         },
         {
-          "id": 35,
-          "paragraph_id": 19,
+          "id": 34,
+          "paragraph_id": 18,
           "text": "This husband was really not the type to let their hearts rest easy."
+        },
+        {
+          "id": 35,
+          "paragraph_id": 18,
+          "text": "Wherever he went, he would be causing trouble."
         },
         {
           "id": 36,
           "paragraph_id": 19,
-          "text": "Wherever he went, he would be causing trouble."
+          "text": "The very next morning, as expected, the Wang Clan sent an important character to deliver the ingredients for alchemy."
         },
         {
           "id": 37,
           "paragraph_id": 20,
-          "text": "The very next morning, as expected, the Wang Clan sent an important character to deliver the ingredients for alchemy."
+          "text": "It was Wang Yangming."
         },
         {
           "id": 38,
           "paragraph_id": 21,
-          "text": "It was Wang Yangming."
+          "text": "These ingredients were too valuable."
         },
         {
           "id": 39,
-          "paragraph_id": 22,
-          "text": "These ingredients were too valuable."
+          "paragraph_id": 21,
+          "text": "What was to be done if there was a robbery on their way here?"
         },
         {
           "id": 40,
           "paragraph_id": 22,
-          "text": "What was to be done if there was a robbery on their way here?"
+          "text": "With a Ninth Heaven Celestial King’s protection on the way, even if he encountered someone that he could not match, he could still easily and happily escape."
         },
         {
           "id": 41,
           "paragraph_id": 23,
-          "text": "With a Ninth Heaven Celestial King’s protection on the way, even if he encountered someone that he could not match, he could still easily and happily escape."
+          "text": "Wang Yangming clearly did not like Ling Han very much."
         },
         {
           "id": 42,
-          "paragraph_id": 24,
-          "text": "Wang Yangming clearly did not like Ling Han very much."
+          "paragraph_id": 23,
+          "text": "After arriving here, he tossed a Spatial God Tool over to Ling Han and left quickly, as if looking at Ling Han any longer would upset him."
         },
         {
           "id": 43,
           "paragraph_id": 24,
-          "text": "After arriving here, he tossed a Spatial God Tool over to Ling Han and left quickly, as if looking at Ling Han any longer would upset him."
+          "text": "Ling Han naturally would not be concerned."
         },
         {
           "id": 44,
-          "paragraph_id": 25,
-          "text": "Ling Han naturally would not be concerned."
+          "paragraph_id": 24,
+          "text": "Wang Yangming did not like him, and he, too, did not like Wang Yangming very much, either."
         },
         {
           "id": 45,
           "paragraph_id": 25,
-          "text": "Wang Yangming did not like him, and he, too, did not like Wang Yangming very much, either."
+          "text": "For the sake of Divine Metal, Ling Han began pill concoction."
         },
         {
           "id": 46,
           "paragraph_id": 26,
-          "text": "For the sake of Divine Metal, Ling Han began pill concoction."
+          "text": "He examined the ingredients that the Wang Clan had delivered first, and couldn’t help but feel rueful."
         },
         {
           "id": 47,
-          "paragraph_id": 27,
-          "text": "He examined the ingredients that the Wang Clan had delivered first, and couldn’t help but feel rueful."
+          "paragraph_id": 26,
+          "text": "They were indeed a noble clan; they were very wealthy."
         },
         {
           "id": 48,
           "paragraph_id": 27,
-          "text": "They were indeed a noble clan; they were very wealthy."
+          "text": "These ingredients were enough to concoct seven cauldrons’ worth of Celestial-King-Tier pills, and according to Wang Yangming, this was only a negligible amount."
         },
         {
           "id": 49,
           "paragraph_id": 28,
-          "text": "These ingredients were enough to concoct seven cauldrons’ worth of Celestial-King-Tier pills, and according to Wang Yangming, this was only a negligible amount."
+          "text": "A force whose existence was measured in epochs truly had extraordinary wealth."
         },
         {
           "id": 50,
           "paragraph_id": 29,
-          "text": "A force whose existence was measured in epochs truly had extraordinary wealth."
+          "text": "Ling Han channeled his physique, and time accelerated."
         },
         {
           "id": 51,
-          "paragraph_id": 30,
-          "text": "Ling Han channeled his physique, and time accelerated."
+          "paragraph_id": 29,
+          "text": "In only a few hours, he concocted his first cauldron of alchemical pills."
         },
         {
           "id": 52,
           "paragraph_id": 30,
-          "text": "In only a few hours, he concocted his first cauldron of alchemical pills."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 31,
           "text": "“Perfect and flawless.” Ling Han smiled."
         },
         {
-          "id": 54,
-          "paragraph_id": 31,
+          "id": 53,
+          "paragraph_id": 30,
           "text": "As his cultivation level progressed, it was also an easy matter for him to concoct Celestial-King-Tier pills."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 30,
+          "text": "Not only could he ensure his pill completion rate, the grade of the completed pills would either be High Grade or Peak Grade."
         },
         {
           "id": 55,
           "paragraph_id": 31,
-          "text": "Not only could he ensure his pill completion rate, the grade of the completed pills would either be High Grade or Peak Grade."
+          "text": "He continued, and he concocted all seven cauldrons’ worth of alchemical pills in a single day."
         },
         {
           "id": 56,
           "paragraph_id": 32,
-          "text": "He continued, and he concocted all seven cauldrons’ worth of alchemical pills in a single day."
+          "text": "Then, he notified Wang Yangming to come and collect the alchemical pills."
         },
         {
           "id": 57,
           "paragraph_id": 33,
-          "text": "Then, he notified Wang Yangming to come and collect the alchemical pills."
+          "text": "Not too long after, Wang Yangming arrived, but his expression was slightly dark."
         },
         {
           "id": 58,
           "paragraph_id": 34,
-          "text": "Not too long after, Wang Yangming arrived, but his expression was slightly dark."
+          "text": "“Why have you asked me to come?” he demanded impatiently."
         },
         {
           "id": 59,
           "paragraph_id": 35,
-          "text": "“Why have you asked me to come?” he demanded impatiently."
+          "text": "“The alchemical pills are completed."
         },
         {
           "id": 60,
-          "paragraph_id": 36,
-          "text": "“The alchemical pills are completed."
+          "paragraph_id": 35,
+          "text": "You can take them now.” Ling Han tossed over that same Spatial God Tool."
         },
         {
           "id": 61,
           "paragraph_id": 36,
-          "text": "You can take them now.” Ling Han tossed over that same Spatial God Tool."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 37,
           "text": "Wang Yangming scoffed."
         },
         {
-          "id": 63,
-          "paragraph_id": 37,
+          "id": 62,
+          "paragraph_id": 36,
           "text": "What kind of joke was this?"
         },
         {
-          "id": 64,
-          "paragraph_id": 37,
+          "id": 63,
+          "paragraph_id": 36,
           "text": "Only a single day had passed, and Ling Han had concocted all the alchemical pills?"
+        },
+        {
+          "id": 64,
+          "paragraph_id": 36,
+          "text": "Did he think that Wang Yangming only knew to ingest alchemical pills, and had absolutely zero knowledge of alchemy?"
         },
         {
           "id": 65,
           "paragraph_id": 37,
-          "text": "Did he think that Wang Yangming only knew to ingest alchemical pills, and had absolutely zero knowledge of alchemy?"
+          "text": "“Brat, one should be down-to-earth— yi!”"
         },
         {
           "id": 66,
           "paragraph_id": 38,
-          "text": "“Brat, one should be down-to-earth— yi!”"
+          "text": "He was just about to teach Ling Han the proper way to behave, but when his divine sense extended into the Spatial God Tool, he immediately released a shocked exclamation because there were indeed seven bottles of alchemical pills inside."
         },
         {
           "id": 67,
           "paragraph_id": 39,
-          "text": "He was just about to teach Ling Han the proper way to behave, but when his divine sense extended into the Spatial God Tool, he immediately released a shocked exclamation because there were indeed seven bottles of alchemical pills inside."
+          "text": "‘This can’t be real, right?’"
         },
         {
           "id": 68,
           "paragraph_id": 40,
-          "text": "‘This can’t be real, right?’"
+          "text": "Wang Yangming hurriedly took out a bottle of alchemical pills, and after removing the cork, his expression was instantly moved."
         },
         {
           "id": 69,
           "paragraph_id": 41,
-          "text": "Wang Yangming hurriedly took out a bottle of alchemical pills, and after removing the cork, his expression was instantly moved."
+          "text": "They were real alchemical pills!"
         },
         {
           "id": 70,
           "paragraph_id": 42,
-          "text": "They were real alchemical pills!"
+          "text": "He switched to another bottle."
         },
         {
           "id": 71,
-          "paragraph_id": 43,
-          "text": "He switched to another bottle."
+          "paragraph_id": 42,
+          "text": "This was real as well; all seven of them were."
         },
         {
           "id": 72,
           "paragraph_id": 43,
-          "text": "This was real as well; all seven of them were."
+          "text": "Concocting seven cauldrons of Celestial-King-Tier alchemical pills in a single day was amazing."
         },
         {
           "id": 73,
           "paragraph_id": 44,
-          "text": "Concocting seven cauldrons of Celestial-King-Tier alchemical pills in a single day was amazing."
+          "text": "‘Hang on!’"
         },
         {
           "id": 74,
           "paragraph_id": 45,
-          "text": "‘Hang on!’"
-        },
-        {
-          "id": 75,
-          "paragraph_id": 46,
           "text": "Wang Yangming looked stunned."
         },
         {
-          "id": 76,
-          "paragraph_id": 46,
+          "id": 75,
+          "paragraph_id": 45,
           "text": "Making those seven cauldrons of alchemical pills was indeed theoretically possible, but wasn’t it very normal for the cauldron to explode in the process of pill concoction?"
         },
         {
-          "id": 77,
-          "paragraph_id": 46,
+          "id": 76,
+          "paragraph_id": 45,
           "text": "Especially in the case of Celestial-King-Tier pills."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 45,
+          "text": "The concoction process was naturally even more difficult, and the cauldron exploding was an extremely common occurrence."
         },
         {
           "id": 78,
           "paragraph_id": 46,
-          "text": "The concoction process was naturally even more difficult, and the cauldron exploding was an extremely common occurrence."
+          "text": "To successively concoct seven cauldrons, while the good luck for all seven cauldrons was off the charts, with not one exploding..."
         },
         {
           "id": 79,
-          "paragraph_id": 47,
-          "text": "To successively concoct seven cauldrons, while the good luck for all seven cauldrons was off the charts, with not one exploding..."
+          "paragraph_id": 46,
+          "text": "Was there any such coincidence?"
         },
         {
           "id": 80,
           "paragraph_id": 47,
-          "text": "Was there any such coincidence?"
+          "text": "Wang Yangming took a deep breath, and then nodded."
         },
         {
           "id": 81,
-          "paragraph_id": 48,
-          "text": "Wang Yangming took a deep breath, and then nodded."
+          "paragraph_id": 47,
+          "text": "“Young friend Ling, I have underestimated you previously!” He bowed slightly towards Ling Han as courtesy."
         },
         {
           "id": 82,
           "paragraph_id": 48,
-          "text": "“Young friend Ling, I have underestimated you previously!” He bowed slightly towards Ling Han as courtesy."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 49,
           "text": "Ling Han couldn’t help but greatly change his opinion of this man."
         },
         {
-          "id": 84,
-          "paragraph_id": 49,
+          "id": 83,
+          "paragraph_id": 48,
           "text": "As expected of one who was born in a noble clan."
+        },
+        {
+          "id": 84,
+          "paragraph_id": 48,
+          "text": "Though it was inevitable that he would have some arrogance, he was able to go with the flow, and his manner was extraordinary as well."
         },
         {
           "id": 85,
           "paragraph_id": 49,
-          "text": "Though it was inevitable that he would have some arrogance, he was able to go with the flow, and his manner was extraordinary as well."
+          "text": "“It’s fine.” Ling Han nodded."
         },
         {
           "id": 86,
           "paragraph_id": 50,
-          "text": "“It’s fine.” Ling Han nodded."
+          "text": "“I will immediately meet with the clan leader."
         },
         {
           "id": 87,
-          "paragraph_id": 51,
-          "text": "“I will immediately meet with the clan leader."
+          "paragraph_id": 50,
+          "text": "Hehe, I hope we will develop a stronger relationship in the future,” Wang Yangming said, smiling."
         },
         {
           "id": 88,
           "paragraph_id": 51,
-          "text": "Hehe, I hope we will develop a stronger relationship in the future,” Wang Yangming said, smiling."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 52,
           "text": "Ling Han bared his teeth in a grin."
         },
         {
-          "id": 90,
-          "paragraph_id": 52,
+          "id": 89,
+          "paragraph_id": 51,
           "text": "This old geezer had really changed his attitude too much and too fast, which made it hard for Ling Han to adjust to it all of a sudden."
+        },
+        {
+          "id": 90,
+          "paragraph_id": 51,
+          "text": "He kept feeling that this old geezer had some kind of ulterior motive."
         },
         {
           "id": 91,
           "paragraph_id": 52,
-          "text": "He kept feeling that this old geezer had some kind of ulterior motive."
+          "text": "Wang Yangming left, and very soon returned."
         },
         {
           "id": 92,
-          "paragraph_id": 53,
-          "text": "Wang Yangming left, and very soon returned."
+          "paragraph_id": 52,
+          "text": "This time, he brought a great amount of ingredients, enough to concoct 20 cauldrons’ worth of Celestial-King-Tier pills."
         },
         {
           "id": 93,
           "paragraph_id": 53,
-          "text": "This time, he brought a great amount of ingredients, enough to concoct 20 cauldrons’ worth of Celestial-King-Tier pills."
+          "text": "Ling Han continued his pill concoction, and he notified Wang Yangming to come again only three days later."
         },
         {
           "id": 94,
           "paragraph_id": 54,
-          "text": "Ling Han continued his pill concoction, and he notified Wang Yangming to come again only three days later."
+          "text": "Though Wang Yangming had long since prepared himself, he still got a great shock."
         },
         {
           "id": 95,
           "paragraph_id": 55,
-          "text": "Though Wang Yangming had long since prepared himself, he still got a great shock."
+          "text": "20 cauldrons, not one pill less."
         },
         {
           "id": 96,
-          "paragraph_id": 56,
-          "text": "20 cauldrons, not one pill less."
+          "paragraph_id": 55,
+          "text": "This had reached the greatest value theoretically possible."
         },
         {
           "id": 97,
           "paragraph_id": 56,
-          "text": "This had reached the greatest value theoretically possible."
+          "text": "Wang Yangming was amazed, and left once more with the alchemical pills."
         },
         {
           "id": 98,
           "paragraph_id": 57,
-          "text": "Wang Yangming was amazed, and left once more with the alchemical pills."
+          "text": "A day later, Wang Qianyang came personally... along with Wang Jiayue."
         },
         {
           "id": 99,
-          "paragraph_id": 58,
-          "text": "A day later, Wang Qianyang came personally... along with Wang Jiayue."
+          "paragraph_id": 57,
+          "text": "She had already passed through the Nine Deaths Formation, and had become an official disciple of the martial academy."
         },
         {
           "id": 100,
           "paragraph_id": 58,
-          "text": "She had already passed through the Nine Deaths Formation, and had become an official disciple of the martial academy."
+          "text": "“Young friend, though I have already had very high expectations of you, to think that still was an underestimation.” Wang Qianyang sighed ruefully."
         },
         {
           "id": 101,
           "paragraph_id": 59,
-          "text": "“Young friend, though I have already had very high expectations of you, to think that still was an underestimation.” Wang Qianyang sighed ruefully."
-        },
-        {
-          "id": 102,
-          "paragraph_id": 60,
           "text": "He thought back to his conversation with Ling Han several days ago."
         },
         {
-          "id": 103,
-          "paragraph_id": 60,
+          "id": 102,
+          "paragraph_id": 59,
           "text": "When the latter had lightly said that he could concoct any kind of alchemical pill, Wang Qianyang had not taken it seriously."
+        },
+        {
+          "id": 103,
+          "paragraph_id": 59,
+          "text": "He thought that it was inevitable that Ling Han would exaggerate, having achieved such accomplishments at such a young age, and had not imagined that not only had Ling Han just told the truth as it had been, he had basically been modest."
         },
         {
           "id": 104,
           "paragraph_id": 60,
-          "text": "He thought that it was inevitable that Ling Han would exaggerate, having achieved such accomplishments at such a young age, and had not imagined that not only had Ling Han just told the truth as it had been, he had basically been modest."
+          "text": "Meanwhile, Wang Jiayue’s beautiful eyes were bright as she looked at Ling Han in surprise."
         },
         {
           "id": 105,
-          "paragraph_id": 61,
-          "text": "Meanwhile, Wang Jiayue’s beautiful eyes were bright as she looked at Ling Han in surprise."
+          "paragraph_id": 60,
+          "text": "She also found out about Ling Han’s various feats in the last few days, and finally knew how amazing this guy was."
         },
         {
           "id": 106,
           "paragraph_id": 61,
-          "text": "She also found out about Ling Han’s various feats in the last few days, and finally knew how amazing this guy was."
+          "text": "In comparison, Ma Yuhai was practically trash."
         },
         {
           "id": 107,
           "paragraph_id": 62,
-          "text": "In comparison, Ma Yuhai was practically trash."
+          "text": "“Young friend, there are three pieces of Divine Metal here.” Wang Qianyang handed over a Spatial Celestial Tool."
         },
         {
           "id": 108,
           "paragraph_id": 63,
-          "text": "“Young friend, there are three pieces of Divine Metal here.” Wang Qianyang handed over a Spatial Celestial Tool."
+          "text": "Ling Han naturally would not be reserved; he stretched out his hand and took it."
         },
         {
           "id": 109,
-          "paragraph_id": 64,
-          "text": "Ling Han naturally would not be reserved; he stretched out his hand and took it."
+          "paragraph_id": 63,
+          "text": "With a sweep of his divine sense, he immediately grinned."
         },
         {
           "id": 110,
           "paragraph_id": 64,
-          "text": "With a sweep of his divine sense, he immediately grinned."
+          "text": "As expected of the Wang Clan, they were truly wealthy."
         },
         {
           "id": 111,
-          "paragraph_id": 65,
-          "text": "As expected of the Wang Clan, they were truly wealthy."
+          "paragraph_id": 64,
+          "text": "Even for something as valuable as Divine Metal, they could give out three pieces in a single stroke."
         },
         {
           "id": 112,
           "paragraph_id": 65,
-          "text": "Even for something as valuable as Divine Metal, they could give out three pieces in a single stroke."
+          "text": "“You’ve given too much.” Ling Han was pleased, but still spoke frankly."
         },
         {
           "id": 113,
           "paragraph_id": 66,
-          "text": "“You’ve given too much.” Ling Han was pleased, but still spoke frankly."
+          "text": "Though he had concocted close to 30 cauldrons’ worth of alchemical pills, with the prerequisite of taking 50% of the profits, one piece of Divine Metal was enough for his fee."
         },
         {
           "id": 114,
           "paragraph_id": 67,
-          "text": "Though he had concocted close to 30 cauldrons’ worth of alchemical pills, with the prerequisite of taking 50% of the profits, one piece of Divine Metal was enough for his fee."
+          "text": "Wang Qianyang laughed loudly."
         },
         {
           "id": 115,
-          "paragraph_id": 68,
-          "text": "Wang Qianyang laughed loudly."
+          "paragraph_id": 67,
+          "text": "“The remaining two pieces will be an advance payment then.”"
         },
         {
           "id": 116,
           "paragraph_id": 68,
-          "text": "“The remaining two pieces will be an advance payment then.”"
+          "text": "There was something as good as this?"
         },
         {
           "id": 117,
           "paragraph_id": 69,
-          "text": "There was something as good as this?"
+          "text": "Ling Han smiled."
         },
         {
           "id": 118,
-          "paragraph_id": 70,
-          "text": "Ling Han smiled."
+          "paragraph_id": 69,
+          "text": "“Does Clan Leader Wang have some other business?”"
         },
         {
           "id": 119,
           "paragraph_id": 70,
-          "text": "“Does Clan Leader Wang have some other business?”"
-        },
-        {
-          "id": 120,
-          "paragraph_id": 71,
           "text": "Wang Qianyang was pleased."
         },
         {
-          "id": 121,
-          "paragraph_id": 71,
+          "id": 120,
+          "paragraph_id": 70,
           "text": "This brat really knew how to read between the lines."
+        },
+        {
+          "id": 121,
+          "paragraph_id": 70,
+          "text": "“My Yue Yue has reached an appropriate age, and wishes to seek an ideal husband—”"
         },
         {
           "id": 122,
           "paragraph_id": 71,
-          "text": "“My Yue Yue has reached an appropriate age, and wishes to seek an ideal husband—”"
+          "text": "He had not even finished his words when Ling Han interrupted, and said, “I have a brother who has astonishing natural talent in cultivation, and has not yet married at present.”"
         },
         {
           "id": 123,
           "paragraph_id": 72,
-          "text": "He had not even finished his words when Ling Han interrupted, and said, “I have a brother who has astonishing natural talent in cultivation, and has not yet married at present.”"
-        },
-        {
-          "id": 124,
-          "paragraph_id": 73,
           "text": "Wang Qianyang’s face instantly turned dark."
         }
       ],
-      "word_count": 1650
+      "word_count": 1649
     },
     {
       "chapter_index": 2667,
@@ -11024,7 +11000,6 @@
         "“Ling Han!”",
         "“Tell me his detailed information.”",
         "“Alright.”",
-        "***",
         "Ling Han focused on concocting alchemical pills. He could concoct a number of cauldrons in a single day, and he was sure that even with the wealth of the Wang Clan, they would soon be completely drained by his alchemical pills. Of course, the Wang Clan would definitely only be pleased by this. Only when resources could be converted into alchemical pills that could be used would their true value be displayed.",
         "However, his calm days did not last for very long.",
         "Yi suddenly paid him a visit.",
@@ -11406,195 +11381,190 @@
         {
           "id": 71,
           "paragraph_id": 38,
-          "text": "***"
-        },
-        {
-          "id": 72,
-          "paragraph_id": 39,
           "text": "Ling Han focused on concocting alchemical pills."
         },
         {
-          "id": 73,
-          "paragraph_id": 39,
+          "id": 72,
+          "paragraph_id": 38,
           "text": "He could concoct a number of cauldrons in a single day, and he was sure that even with the wealth of the Wang Clan, they would soon be completely drained by his alchemical pills."
         },
         {
-          "id": 74,
-          "paragraph_id": 39,
+          "id": 73,
+          "paragraph_id": 38,
           "text": "Of course, the Wang Clan would definitely only be pleased by this."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 38,
+          "text": "Only when resources could be converted into alchemical pills that could be used would their true value be displayed."
         },
         {
           "id": 75,
           "paragraph_id": 39,
-          "text": "Only when resources could be converted into alchemical pills that could be used would their true value be displayed."
+          "text": "However, his calm days did not last for very long."
         },
         {
           "id": 76,
           "paragraph_id": 40,
-          "text": "However, his calm days did not last for very long."
+          "text": "Yi suddenly paid him a visit."
         },
         {
           "id": 77,
           "paragraph_id": 41,
-          "text": "Yi suddenly paid him a visit."
+          "text": "“What is it?” Ling Han still took some time out to meet him."
         },
         {
           "id": 78,
           "paragraph_id": 42,
-          "text": "“What is it?” Ling Han still took some time out to meet him."
+          "text": "“Ma Yuhai made a public announcement, demanding that you refuse the request for alliance through marriage from the Wang Clan, or he would make you suffer,” Yi said."
         },
         {
           "id": 79,
           "paragraph_id": 43,
-          "text": "“Ma Yuhai made a public announcement, demanding that you refuse the request for alliance through marriage from the Wang Clan, or he would make you suffer,” Yi said."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 44,
           "text": "Ling Han was surprised."
         },
         {
-          "id": 81,
-          "paragraph_id": 44,
+          "id": 80,
+          "paragraph_id": 43,
           "text": "This Ma Yuhai really hadn’t learned enough from his lesson?"
+        },
+        {
+          "id": 81,
+          "paragraph_id": 43,
+          "text": "He had been beaten so terribly, yet now was actually jumping around so energetically again?"
         },
         {
           "id": 82,
           "paragraph_id": 44,
-          "text": "He had been beaten so terribly, yet now was actually jumping around so energetically again?"
+          "text": "Where had his confidence come from?"
         },
         {
           "id": 83,
           "paragraph_id": 45,
-          "text": "Where had his confidence come from?"
-        },
-        {
-          "id": 84,
-          "paragraph_id": 46,
           "text": "“No need to give him any regard.” Ling Han shook his head."
         },
         {
-          "id": 85,
-          "paragraph_id": 46,
+          "id": 84,
+          "paragraph_id": 45,
           "text": "Still, he had already refused the suggestion from the Wang Clan for an alliance through marriage in the first place."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 45,
+          "text": "If the Wang Clan spread out the news, wouldn’t others think that he was afraid now?"
         },
         {
           "id": 86,
           "paragraph_id": 46,
-          "text": "If the Wang Clan spread out the news, wouldn’t others think that he was afraid now?"
+          "text": "But if he was to agree to the marriage from the Wang Clan to disprove this point, wouldn’t it be even more of a joke?"
         },
         {
           "id": 87,
           "paragraph_id": 47,
-          "text": "But if he was to agree to the marriage from the Wang Clan to disprove this point, wouldn’t it be even more of a joke?"
+          "text": "When there was no response from Ling Han, Ma Yuhai sent out another invitation to Ling Han a few days later, inviting him to visit his own abode so they could settle this matter once and for all."
         },
         {
           "id": 88,
           "paragraph_id": 48,
-          "text": "When there was no response from Ling Han, Ma Yuhai sent out another invitation to Ling Han a few days later, inviting him to visit his own abode so they could settle this matter once and for all."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 49,
           "text": "Ling Han couldn’t help but scoff."
         },
         {
-          "id": 90,
-          "paragraph_id": 49,
+          "id": 89,
+          "paragraph_id": 48,
           "text": "Who did this guy think he was?"
+        },
+        {
+          "id": 90,
+          "paragraph_id": 48,
+          "text": "He demanded Ling Han’s presence, so Ling Han had to oblige?"
         },
         {
           "id": 91,
           "paragraph_id": 49,
-          "text": "He demanded Ling Han’s presence, so Ling Han had to oblige?"
+          "text": "He ignored this person again."
         },
         {
           "id": 92,
-          "paragraph_id": 50,
-          "text": "He ignored this person again."
+          "paragraph_id": 49,
+          "text": "He had to concoct alchemical pills every day; he was very busy."
         },
         {
           "id": 93,
           "paragraph_id": 50,
-          "text": "He had to concoct alchemical pills every day; he was very busy."
+          "text": "However, the events that took place in the next few days angered Ling Han completely."
         },
         {
           "id": 94,
           "paragraph_id": 51,
-          "text": "However, the events that took place in the next few days angered Ling Han completely."
+          "text": "Yi, Yan Xianlu, and the others, as long as they had come from the Celestial Realm, were all challenged, but they were defeated and beaten beyond recognition."
         },
         {
           "id": 95,
           "paragraph_id": 52,
-          "text": "Yi, Yan Xianlu, and the others, as long as they had come from the Celestial Realm, were all challenged, but they were defeated and beaten beyond recognition."
+          "text": "...In the martial academy, as long as the gap of cultivation levels did not surpass two cultivation levels, one could attack even without obtaining the consent of the other party beforehand."
         },
         {
           "id": 96,
           "paragraph_id": 53,
-          "text": "...In the martial academy, as long as the gap of cultivation levels did not surpass two cultivation levels, one could attack even without obtaining the consent of the other party beforehand."
+          "text": "Needless to say, this had to be linked with Ma Yuhai."
         },
         {
           "id": 97,
-          "paragraph_id": 54,
-          "text": "Needless to say, this had to be linked with Ma Yuhai."
+          "paragraph_id": 53,
+          "text": "Otherwise, it was really too much of a coincidence."
         },
         {
           "id": 98,
           "paragraph_id": 54,
-          "text": "Otherwise, it was really too much of a coincidence."
+          "text": "And just right at this time, Ma Yuhai sent another invitation to Ling Han, asking him to meet him on Great Fiery Mountain three days later."
         },
         {
           "id": 99,
-          "paragraph_id": 55,
-          "text": "And just right at this time, Ma Yuhai sent another invitation to Ling Han, asking him to meet him on Great Fiery Mountain three days later."
+          "paragraph_id": 54,
+          "text": "If Ling Han refused, then the challenges for the cultivators from the Celestial Realm would continue."
         },
         {
           "id": 100,
           "paragraph_id": 55,
-          "text": "If Ling Han refused, then the challenges for the cultivators from the Celestial Realm would continue."
+          "text": "“Husband, Ma Yuhai is clearly no match for you, yet repeatedly provokes you."
         },
         {
           "id": 101,
-          "paragraph_id": 56,
-          "text": "“Husband, Ma Yuhai is clearly no match for you, yet repeatedly provokes you."
+          "paragraph_id": 55,
+          "text": "He must be planning something!” Zhu Xuan’er said."
         },
         {
           "id": 102,
           "paragraph_id": 56,
-          "text": "He must be planning something!” Zhu Xuan’er said."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 57,
           "text": "Ling Han nodded."
         },
         {
-          "id": 104,
-          "paragraph_id": 57,
+          "id": 103,
+          "paragraph_id": 56,
           "text": "“He should have predicted that I would ignore him from the very start, so the invitation to his abode was only a bluff."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 56,
+          "text": "Everything after that was just paving the way for Great Fiery Mountain.”"
         },
         {
           "id": 105,
           "paragraph_id": 57,
-          "text": "Everything after that was just paving the way for Great Fiery Mountain.”"
+          "text": "“On the way there... it is possible that there would be ultimate elites sniping you?” Bewitching Maiden Rou asked."
         },
         {
           "id": 106,
           "paragraph_id": 58,
-          "text": "“On the way there... it is possible that there would be ultimate elites sniping you?” Bewitching Maiden Rou asked."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 59,
           "text": "Ling Han stretched out a fist and rapped the table, saying, “There are only two Heavenly Venerates in the martial academy at present, and neither of them have any relation with Ma Yuhai."
         },
         {
-          "id": 108,
-          "paragraph_id": 59,
+          "id": 107,
+          "paragraph_id": 58,
           "text": "In that case, who at the Celestial King Tier would be able to kill me?”"
         }
       ],
-      "word_count": 1700
+      "word_count": 1699
     },
     {
       "chapter_index": 2668,
@@ -14251,7 +14221,6 @@
         "“However, it has still advanced my cultivation level to the late stage of the Seventh Heaven, so it is quite good.",
         "“If I could have another three or four such pills, I should be able to reach the peak stage. I would then be able to break through to the Eighth Heaven.”",
         "Ling Han couldn’t help but sigh.",
-        "***",
         "Recently, time was really crawling for Ma Yuhai. He felt uneasy every single day.",
         "He feared that his plot had been exposed, and that he would completely fall from grace.",
         "He went to check on Qin Shuang, but the latter had already vanished.",
@@ -14650,240 +14619,235 @@
         {
           "id": 74,
           "paragraph_id": 41,
-          "text": "***"
+          "text": "Recently, time was really crawling for Ma Yuhai."
         },
         {
           "id": 75,
-          "paragraph_id": 42,
-          "text": "Recently, time was really crawling for Ma Yuhai."
+          "paragraph_id": 41,
+          "text": "He felt uneasy every single day."
         },
         {
           "id": 76,
           "paragraph_id": 42,
-          "text": "He felt uneasy every single day."
+          "text": "He feared that his plot had been exposed, and that he would completely fall from grace."
         },
         {
           "id": 77,
           "paragraph_id": 43,
-          "text": "He feared that his plot had been exposed, and that he would completely fall from grace."
+          "text": "He went to check on Qin Shuang, but the latter had already vanished."
         },
         {
           "id": 78,
           "paragraph_id": 44,
-          "text": "He went to check on Qin Shuang, but the latter had already vanished."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 45,
           "text": "If Qin Shuang was dead, Ma Yuhai would be fine."
         },
         {
-          "id": 80,
-          "paragraph_id": 45,
+          "id": 79,
+          "paragraph_id": 44,
           "text": "As long as he denied everything, the martial academy could not possibly sentence him for a crime with just Ling Han’s side of the story."
         },
         {
-          "id": 81,
-          "paragraph_id": 45,
+          "id": 80,
+          "paragraph_id": 44,
           "text": "Furthermore, Ma Yuhai was a son of a Pseudo-Heavenly Venerate."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 44,
+          "text": "Without absolute proof, who would dare pluck out his spirit and search for the truth?"
         },
         {
           "id": 82,
           "paragraph_id": 45,
-          "text": "Without absolute proof, who would dare pluck out his spirit and search for the truth?"
+          "text": "But if Qin Shuang was captured, that would be terrible."
         },
         {
           "id": 83,
           "paragraph_id": 46,
-          "text": "But if Qin Shuang was captured, that would be terrible."
+          "text": "One month, half a year, three years..."
         },
         {
           "id": 84,
-          "paragraph_id": 47,
-          "text": "One month, half a year, three years..."
+          "paragraph_id": 46,
+          "text": "Time passed very quickly, and no one appeared from the authorities of the martial academy to question Ma Yuhai about the matter of Ling Han being ambushed, so he finally relaxed his heavy heart gradually."
         },
         {
           "id": 85,
           "paragraph_id": 47,
-          "text": "Time passed very quickly, and no one appeared from the authorities of the martial academy to question Ma Yuhai about the matter of Ling Han being ambushed, so he finally relaxed his heavy heart gradually."
+          "text": "From the look of things, Qin Shuang really had died."
         },
         {
           "id": 86,
           "paragraph_id": 48,
-          "text": "From the look of things, Qin Shuang really had died."
+          "text": "Four years later, ground-breaking news came out."
         },
         {
           "id": 87,
-          "paragraph_id": 49,
-          "text": "Four years later, ground-breaking news came out."
+          "paragraph_id": 48,
+          "text": "He Yufeng had exited seclusion."
         },
         {
           "id": 88,
           "paragraph_id": 49,
-          "text": "He Yufeng had exited seclusion."
+          "text": "Who was He Yufeng?"
         },
         {
           "id": 89,
           "paragraph_id": 50,
-          "text": "Who was He Yufeng?"
-        },
-        {
-          "id": 90,
-          "paragraph_id": 51,
           "text": "He was from an even higher grade than A’mu, Du Shiyi, and Can Yue."
         },
         {
-          "id": 91,
-          "paragraph_id": 51,
+          "id": 90,
+          "paragraph_id": 50,
           "text": "He was a supreme prodigy of the term before last."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 50,
+          "text": "Furthermore, he had another prestigious identity: his father was a Fourth Tier Heavenly Venerate by the name of He Rong, holding the title Bloody Mist."
         },
         {
           "id": 92,
           "paragraph_id": 51,
-          "text": "Furthermore, he had another prestigious identity: his father was a Fourth Tier Heavenly Venerate by the name of He Rong, holding the title Bloody Mist."
-        },
-        {
-          "id": 93,
-          "paragraph_id": 52,
           "text": "He Yufeng was the type to keep a very low profile, constantly staying in a state of seclusion."
         },
         {
-          "id": 94,
-          "paragraph_id": 52,
+          "id": 93,
+          "paragraph_id": 51,
           "text": "There were pitifully few people that knew of him, but that was definitely no reason to deny that he was strong."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 51,
+          "text": "In his batch, he was one of the top elites, and could practically be invincible."
         },
         {
           "id": 95,
           "paragraph_id": 52,
-          "text": "In his batch, he was one of the top elites, and could practically be invincible."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 53,
           "text": "If that had been all, then it wouldn’t have been anything notable that he had exited seclusion."
         },
         {
-          "id": 97,
-          "paragraph_id": 53,
+          "id": 96,
+          "paragraph_id": 52,
           "text": "It would not have caused such great commotion."
+        },
+        {
+          "id": 97,
+          "paragraph_id": 52,
+          "text": "More importantly, he had taken the step that all Celestial Kings dreamt of, and become a Pseudo-Heavenly Venerate!"
         },
         {
           "id": 98,
           "paragraph_id": 53,
-          "text": "More importantly, he had taken the step that all Celestial Kings dreamt of, and become a Pseudo-Heavenly Venerate!"
+          "text": "This was too shocking, and caused an uproar in the whole martial academy."
         },
         {
           "id": 99,
           "paragraph_id": 54,
-          "text": "This was too shocking, and caused an uproar in the whole martial academy."
+          "text": "Those as strong as A’mu, Du Shiyi, and the other big shots had already reached the peak stage of the Ninth Heaven about 10 billion years ago, but 10 billion years had passed, and they were still stuck where they had started."
         },
         {
           "id": 100,
-          "paragraph_id": 55,
-          "text": "Those as strong as A’mu, Du Shiyi, and the other big shots had already reached the peak stage of the Ninth Heaven about 10 billion years ago, but 10 billion years had passed, and they were still stuck where they had started."
+          "paragraph_id": 54,
+          "text": "Why was this?"
         },
         {
           "id": 101,
           "paragraph_id": 55,
-          "text": "Why was this?"
-        },
-        {
-          "id": 102,
-          "paragraph_id": 56,
           "text": "Was their talent inadequate?"
         },
         {
-          "id": 103,
-          "paragraph_id": 56,
+          "id": 102,
+          "paragraph_id": 55,
           "text": "Did they not work hard enough?"
+        },
+        {
+          "id": 103,
+          "paragraph_id": 55,
+          "text": "Did they not have enough luck?"
         },
         {
           "id": 104,
           "paragraph_id": 56,
-          "text": "Did they not have enough luck?"
+          "text": "Wrong."
         },
         {
           "id": 105,
-          "paragraph_id": 57,
-          "text": "Wrong."
+          "paragraph_id": 56,
+          "text": "They were equipped with all the conditions for breaking through to the Heavenly Venerable Tier, yet were still not able to cross over to this new threshold."
         },
         {
           "id": 106,
           "paragraph_id": 57,
-          "text": "They were equipped with all the conditions for breaking through to the Heavenly Venerable Tier, yet were still not able to cross over to this new threshold."
+          "text": "To become a Heavenly Venerate, a very extensive time of appreciation of the heaven and earth was required."
         },
         {
           "id": 107,
-          "paragraph_id": 58,
-          "text": "To become a Heavenly Venerate, a very extensive time of appreciation of the heaven and earth was required."
+          "paragraph_id": 57,
+          "text": "Who would be as lucky as Ling Han, having been able to become the overlord of a realm?"
         },
         {
           "id": 108,
           "paragraph_id": 58,
-          "text": "Who would be as lucky as Ling Han, having been able to become the overlord of a realm?"
+          "text": "He Yufeng had advanced to the Pseudo-Heavenly Venerable Tier, and this was absolutely authentic."
         },
         {
           "id": 109,
-          "paragraph_id": 59,
-          "text": "He Yufeng had advanced to the Pseudo-Heavenly Venerable Tier, and this was absolutely authentic."
+          "paragraph_id": 58,
+          "text": "In his batch of disciples, he was also the only one who had reached the Pseudo-Heavenly Venerable Tier so far."
         },
         {
           "id": 110,
           "paragraph_id": 59,
-          "text": "In his batch of disciples, he was also the only one who had reached the Pseudo-Heavenly Venerable Tier so far."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 60,
           "text": "This definitely was related to He Rong’s help."
         },
         {
-          "id": 112,
-          "paragraph_id": 60,
+          "id": 111,
+          "paragraph_id": 59,
           "text": "He had prepared countless cultivation resources for his son, and they were all the highest grade of treasures."
         },
         {
-          "id": 113,
-          "paragraph_id": 60,
+          "id": 112,
+          "paragraph_id": 59,
           "text": "However, it was still undeniable that He Yufeng had the necessary ability."
+        },
+        {
+          "id": 113,
+          "paragraph_id": 59,
+          "text": "This was the Pseudo-Heavenly Venerable Tier, and all the people who had attained this level in history had been people at the peak of their generation."
         },
         {
           "id": 114,
           "paragraph_id": 60,
-          "text": "This was the Pseudo-Heavenly Venerable Tier, and all the people who had attained this level in history had been people at the peak of their generation."
+          "text": "Previously, Ling Han had defeated Heavenborn, and was very well-known for it, but as the news of He Yufeng breaking through to the Pseudo-Heavenly Venerable Tier spread out, this news naturally overshadowed Ling Han’s feat completely."
         },
         {
           "id": 115,
           "paragraph_id": 61,
-          "text": "Previously, Ling Han had defeated Heavenborn, and was very well-known for it, but as the news of He Yufeng breaking through to the Pseudo-Heavenly Venerable Tier spread out, this news naturally overshadowed Ling Han’s feat completely."
+          "text": "No matter how strong a Celestial King was, compared with a Heavenly Venerate, they were all trash."
         },
         {
           "id": 116,
           "paragraph_id": 62,
-          "text": "No matter how strong a Celestial King was, compared with a Heavenly Venerate, they were all trash."
+          "text": "When Ma Yuhai heard about this, he instantly leaped sky-high."
         },
         {
           "id": 117,
-          "paragraph_id": 63,
-          "text": "When Ma Yuhai heard about this, he instantly leaped sky-high."
+          "paragraph_id": 62,
+          "text": "He was too excited."
         },
         {
           "id": 118,
           "paragraph_id": 63,
-          "text": "He was too excited."
-        },
-        {
-          "id": 119,
-          "paragraph_id": 64,
           "text": "He hurriedly begged for an audience with He Yufeng."
         },
         {
-          "id": 120,
-          "paragraph_id": 64,
+          "id": 119,
+          "paragraph_id": 63,
           "text": "The latter’s subordinate had died by Ling Han’s hand, so He Yufeng should be extremely furious."
         }
       ],
-      "word_count": 1693
+      "word_count": 1692
     },
     {
       "chapter_index": 2673,
@@ -14913,7 +14877,6 @@
         "“Scram!” He Yufeng said in annoyance.",
         "Ma Yuhai turned around and left at once as nothing good would happen to him if he was to anger a Pseudo-Heavenly Venerate. He had seen some top-tier prodigies who, taking for granted that they had some natural talent and some background, showed even the slightest disrespect in the presence of his father, and were crushed to smithereens as a result.",
         "Heavenly Venerate was indeed an existence that surpassed Regulations. Even a Pseudo-Heavenly Venerate was also seated in a high and lofty height, with divine might that could not be violated.",
-        "***",
         "Again, the Wang Clan had sent over a large quantity of resources, which included quite a number of natural treasures. Ling Han cast a sweeping glance at them, and couldn’t help but show a satisfied smile.",
         "In this way, his cultivation of Indestructible Celestial King Physique should be able to reach the ninth level.",
         "For this, he cultivated in seclusion, and he succeeded after three months.",
@@ -15126,270 +15089,265 @@
         {
           "id": 35,
           "paragraph_id": 23,
-          "text": "***"
+          "text": "Again, the Wang Clan had sent over a large quantity of resources, which included quite a number of natural treasures."
         },
         {
           "id": 36,
-          "paragraph_id": 24,
-          "text": "Again, the Wang Clan had sent over a large quantity of resources, which included quite a number of natural treasures."
+          "paragraph_id": 23,
+          "text": "Ling Han cast a sweeping glance at them, and couldn’t help but show a satisfied smile."
         },
         {
           "id": 37,
           "paragraph_id": 24,
-          "text": "Ling Han cast a sweeping glance at them, and couldn’t help but show a satisfied smile."
+          "text": "In this way, his cultivation of Indestructible Celestial King Physique should be able to reach the ninth level."
         },
         {
           "id": 38,
           "paragraph_id": 25,
-          "text": "In this way, his cultivation of Indestructible Celestial King Physique should be able to reach the ninth level."
+          "text": "For this, he cultivated in seclusion, and he succeeded after three months."
         },
         {
           "id": 39,
           "paragraph_id": 26,
-          "text": "For this, he cultivated in seclusion, and he succeeded after three months."
-        },
-        {
-          "id": 40,
-          "paragraph_id": 27,
           "text": "“It’s finally accomplished, the completed state of Indestructible Celestial King Physique!” Ling Han laughed heartily."
         },
         {
-          "id": 41,
-          "paragraph_id": 27,
+          "id": 40,
+          "paragraph_id": 26,
           "text": "How strong would his defense be now?"
         },
         {
-          "id": 42,
-          "paragraph_id": 27,
+          "id": 41,
+          "paragraph_id": 26,
           "text": "Even if a Ninth Heaven Celestial King bombarded him with all his might, his body would not be hurt."
+        },
+        {
+          "id": 42,
+          "paragraph_id": 26,
+          "text": "Even if he was hit by a Celestial Tool, or a monarch star or supreme monarch star at the peak stage of the Ninth Heaven struck him, they would only cause minor injuries to his body."
         },
         {
           "id": 43,
           "paragraph_id": 27,
-          "text": "Even if he was hit by a Celestial Tool, or a monarch star or supreme monarch star at the peak stage of the Ninth Heaven struck him, they would only cause minor injuries to his body."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 28,
           "text": "“Unfortunately, it’s still a little far from reaching the Indestructible Divine Metal Physique."
         },
         {
-          "id": 45,
-          "paragraph_id": 28,
+          "id": 44,
+          "paragraph_id": 27,
           "text": "Even if I was to concoct alchemical pills like before, I reckon that it will take about 10,000 years to gather enough resources."
         },
         {
-          "id": 46,
-          "paragraph_id": 28,
+          "id": 45,
+          "paragraph_id": 27,
           "text": "However, the Celestial medicines accumulated by the Wang Clan over an epoch have already been completely used to concoct alchemical pills."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 27,
+          "text": "Even if they were to procure more from various corners, how would they be able to keep up with my speed of concocting alchemical pills?"
         },
         {
           "id": 47,
           "paragraph_id": 28,
-          "text": "Even if they were to procure more from various corners, how would they be able to keep up with my speed of concocting alchemical pills?"
+          "text": "“It seems that if I want to achieve the Indestructible Divine Metal Physique, it will only happen at least after 100,000,000 years.”"
         },
         {
           "id": 48,
           "paragraph_id": 29,
-          "text": "“It seems that if I want to achieve the Indestructible Divine Metal Physique, it will only happen at least after 100,000,000 years.”"
+          "text": "Ling Han came out of seclusion and just sat down when he saw Zhu Xuan’er coming over with an invitation card while saying, “Husband, you have got something else to work on.”"
         },
         {
           "id": 49,
           "paragraph_id": 30,
-          "text": "Ling Han came out of seclusion and just sat down when he saw Zhu Xuan’er coming over with an invitation card while saying, “Husband, you have got something else to work on.”"
+          "text": "“What is it?” Ling Han asked casually."
         },
         {
           "id": 50,
           "paragraph_id": 31,
-          "text": "“What is it?” Ling Han asked casually."
+          "text": "“He Yufeng’s banquet.” Zhu Xuan’er raised the invitation card in her hand."
         },
         {
           "id": 51,
           "paragraph_id": 32,
-          "text": "“He Yufeng’s banquet.” Zhu Xuan’er raised the invitation card in her hand."
+          "text": "“Who is He Yufeng?"
         },
         {
           "id": 52,
-          "paragraph_id": 33,
-          "text": "“Who is He Yufeng?"
+          "paragraph_id": 32,
+          "text": "I don’t know him.” Ling Han shook his head."
         },
         {
           "id": 53,
           "paragraph_id": 33,
-          "text": "I don’t know him.” Ling Han shook his head."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 34,
           "text": "“Husband, he isn’t just anybody, but one who has recently broken through to reach the Pseudo-Heavenly Venerable Tier,” Zhu Xuan’er said with a straight face."
         },
         {
-          "id": 55,
-          "paragraph_id": 34,
+          "id": 54,
+          "paragraph_id": 33,
           "text": "“Furthermore, He Yufeng’s father is a Fourth Tier Heavenly Venerate!"
         },
         {
-          "id": 56,
-          "paragraph_id": 34,
+          "id": 55,
+          "paragraph_id": 33,
           "text": "You have no idea now how many people in the martial academy take pride in receiving He Yufeng’s invitation."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 33,
+          "text": "However, the number of invitations issued is extremely limited, and only the real prodigies and descendants of Heavenly Venerates would qualify.”"
         },
         {
           "id": 57,
           "paragraph_id": 34,
-          "text": "However, the number of invitations issued is extremely limited, and only the real prodigies and descendants of Heavenly Venerates would qualify.”"
+          "text": "Ling Han thought about it, and suddenly realized."
         },
         {
           "id": 58,
-          "paragraph_id": 35,
-          "text": "Ling Han thought about it, and suddenly realized."
+          "paragraph_id": 34,
+          "text": "“So it is this He Yufeng.”"
         },
         {
           "id": 59,
           "paragraph_id": 35,
-          "text": "“So it is this He Yufeng.”"
+          "text": "“Husband knows him?” Zhu Xuan’er asked curiously."
         },
         {
           "id": 60,
           "paragraph_id": 36,
-          "text": "“Husband knows him?” Zhu Xuan’er asked curiously."
+          "text": "Ling Han shook his head."
         },
         {
           "id": 61,
-          "paragraph_id": 37,
-          "text": "Ling Han shook his head."
+          "paragraph_id": 36,
+          "text": "“I don’t know him, but I killed one of his men.”"
         },
         {
           "id": 62,
           "paragraph_id": 37,
-          "text": "“I don’t know him, but I killed one of his men.”"
+          "text": "Zhu Xuan’er only rolled her eyes."
         },
         {
           "id": 63,
-          "paragraph_id": 38,
-          "text": "Zhu Xuan’er only rolled her eyes."
+          "paragraph_id": 37,
+          "text": "He hadn’t yet met with this person, but already there was enmity; this was an ability that only her husband would possess, right?"
         },
         {
           "id": 64,
           "paragraph_id": 38,
-          "text": "He hadn’t yet met with this person, but already there was enmity; this was an ability that only her husband would possess, right?"
+          "text": "“Then it’s better that you do not attend this banquet,” she said."
         },
         {
           "id": 65,
           "paragraph_id": 39,
-          "text": "“Then it’s better that you do not attend this banquet,” she said."
+          "text": "Ling Han shook his head."
         },
         {
           "id": 66,
-          "paragraph_id": 40,
-          "text": "Ling Han shook his head."
+          "paragraph_id": 39,
+          "text": "“Since they have invited me, why should I not attend?”"
         },
         {
           "id": 67,
           "paragraph_id": 40,
-          "text": "“Since they have invited me, why should I not attend?”"
+          "text": "“But—” Zhu Xuan’er wanted to say more, but when she saw Ling Han’s expression of indifference with a trace of determination, she knew that it would be futile to further dissuade him."
         },
         {
           "id": 68,
-          "paragraph_id": 41,
-          "text": "“But—” Zhu Xuan’er wanted to say more, but when she saw Ling Han’s expression of indifference with a trace of determination, she knew that it would be futile to further dissuade him."
+          "paragraph_id": 40,
+          "text": "However, this was the martial academy, after all, so even He Yufeng wouldn’t dare to do anything, right?"
         },
         {
           "id": 69,
           "paragraph_id": 41,
-          "text": "However, this was the martial academy, after all, so even He Yufeng wouldn’t dare to do anything, right?"
+          "text": "He Yufeng’s banquet was scheduled to take place seven days later."
         },
         {
           "id": 70,
           "paragraph_id": 42,
-          "text": "He Yufeng’s banquet was scheduled to take place seven days later."
+          "text": "This date was more than half a year since he had officially become a Pseudo-Heavenly Venerate."
         },
         {
           "id": 71,
-          "paragraph_id": 43,
-          "text": "This date was more than half a year since he had officially become a Pseudo-Heavenly Venerate."
+          "paragraph_id": 42,
+          "text": "Why did he delay to hold the banquet so late?"
         },
         {
           "id": 72,
           "paragraph_id": 43,
-          "text": "Why did he delay to hold the banquet so late?"
+          "text": "That was because the achievement of becoming a Pseudo-Heavenly Venerate would be a major event, and even within a transcendent dimension like the Flaming Frost Realm, it was normal to only have one or two appear in a single epoch."
         },
         {
           "id": 73,
-          "paragraph_id": 44,
-          "text": "That was because the achievement of becoming a Pseudo-Heavenly Venerate would be a major event, and even within a transcendent dimension like the Flaming Frost Realm, it was normal to only have one or two appear in a single epoch."
+          "paragraph_id": 43,
+          "text": "Given that currently prodigies from all over had gathered, and the prodigies of practically the entire Genesis World were gathered here, the frequency of Pseudo-Heavenly Venerates popping up became much higher, so much so that more than 100 could be produced within an epoch."
         },
         {
           "id": 74,
           "paragraph_id": 44,
-          "text": "Given that currently prodigies from all over had gathered, and the prodigies of practically the entire Genesis World were gathered here, the frequency of Pseudo-Heavenly Venerates popping up became much higher, so much so that more than 100 could be produced within an epoch."
+          "text": "On average, that would be one in every 100 billion years, which was still a pitifully small number."
         },
         {
           "id": 75,
           "paragraph_id": 45,
-          "text": "On average, that would be one in every 100 billion years, which was still a pitifully small number."
+          "text": "Of course, for such a grand event, powerful figures from all sides would be invited."
         },
         {
           "id": 76,
           "paragraph_id": 46,
-          "text": "Of course, for such a grand event, powerful figures from all sides would be invited."
+          "text": "However, as most of the Heavenly Venerates were fighting against Hysteria at the Realm Battlefield, and a Pseudo-Heavenly Venerate was still not Heavenly Venerate in their eyes, and not worthy enough to be on an equal footing with them, they naturally would not humble themselves to attend."
         },
         {
           "id": 77,
           "paragraph_id": 47,
-          "text": "However, as most of the Heavenly Venerates were fighting against Hysteria at the Realm Battlefield, and a Pseudo-Heavenly Venerate was still not Heavenly Venerate in their eyes, and not worthy enough to be on an equal footing with them, they naturally would not humble themselves to attend."
+          "text": "Even so, He Yufeng’s abode was still filled with as many Ninth Heaven Celestial King as clouds, and if they were not Ninth Heaven Celestial Kings, then they had to have a background of the Heavenly Venerate level, otherwise they would not be qualified to even appear here at all."
         },
         {
           "id": 78,
           "paragraph_id": 48,
-          "text": "Even so, He Yufeng’s abode was still filled with as many Ninth Heaven Celestial King as clouds, and if they were not Ninth Heaven Celestial Kings, then they had to have a background of the Heavenly Venerate level, otherwise they would not be qualified to even appear here at all."
+          "text": "Ling Han asked around, and only the large black dog had received the invitation among his group of acquaintances."
         },
         {
           "id": 79,
           "paragraph_id": 49,
-          "text": "Ling Han asked around, and only the large black dog had received the invitation among his group of acquaintances."
+          "text": "He went together with the large black dog, and came to the mountain where He Yufeng’s abode was located."
         },
         {
           "id": 80,
           "paragraph_id": 50,
-          "text": "He went together with the large black dog, and came to the mountain where He Yufeng’s abode was located."
+          "text": "“Invitation.” The person standing guard at the foot of the mountain was actually a Ninth Heaven Celestial King."
         },
         {
           "id": 81,
-          "paragraph_id": 51,
-          "text": "“Invitation.” The person standing guard at the foot of the mountain was actually a Ninth Heaven Celestial King."
+          "paragraph_id": 50,
+          "text": "After examining the invitation for one person and one dog, he smiled at them, and allowed the two to go up the mountain."
         },
         {
           "id": 82,
           "paragraph_id": 51,
-          "text": "After examining the invitation for one person and one dog, he smiled at them, and allowed the two to go up the mountain."
+          "text": "“Brat, look, everyone else has carriages to travel around, while the two of us are traveling on foot.” The large black dog couldn’t help but complain to Ling Han as he watched all the carriages speed by."
         },
         {
           "id": 83,
-          "paragraph_id": 52,
-          "text": "“Brat, look, everyone else has carriages to travel around, while the two of us are traveling on foot.” The large black dog couldn’t help but complain to Ling Han as he watched all the carriages speed by."
+          "paragraph_id": 51,
+          "text": "“Grandpa Dog is, after all, a Ninth Heaven Celestial King, at the pinnacle of the Celestial Path, and can’t be seen in such a pathetic state.”"
         },
         {
           "id": 84,
           "paragraph_id": 52,
-          "text": "“Grandpa Dog is, after all, a Ninth Heaven Celestial King, at the pinnacle of the Celestial Path, and can’t be seen in such a pathetic state.”"
+          "text": "“Do you mean to say that we ought to go back and get a carriage to come here again?”"
         },
         {
           "id": 85,
           "paragraph_id": 53,
-          "text": "“Do you mean to say that we ought to go back and get a carriage to come here again?”"
+          "text": "“No need to go through all that trouble, you can simply get down on all fours and serve as a mount for me,” the large black dog said very shamelessly."
         },
         {
           "id": 86,
           "paragraph_id": 54,
-          "text": "“No need to go through all that trouble, you can simply get down on all fours and serve as a mount for me,” the large black dog said very shamelessly."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 55,
           "text": "“...Get lost!”"
         }
       ],
-      "word_count": 1626
+      "word_count": 1625
     },
     {
       "chapter_index": 2674,
@@ -29522,7 +29480,6 @@
         "He was a Pseudo-Heavenly Venerate, and had boundless might. With his overwhelming power, any kind of formation would be destroyed.",
         "However, though the fog rippled like the waves of a sea with this attack, it did not disperse.",
         "“Yi!” Yun Haoyang finally showed a hint of seriousness.",
-        "***",
         "On the other side, Ling Han soon walked out of the fog by following the large black dog’s instructions, and soon saw the large black dog and Wally standing in front of him.",
         "“Let’s go. This formation would not be able to hold a Pseudo-Heavenly Venerate down for long,” the large black dog called out, looking extremely anxious.",
         "Ling Han nodded, and they left immediately.",
@@ -29899,330 +29856,325 @@
         {
           "id": 68,
           "paragraph_id": 41,
-          "text": "***"
+          "text": "On the other side, Ling Han soon walked out of the fog by following the large black dog’s instructions, and soon saw the large black dog and Wally standing in front of him."
         },
         {
           "id": 69,
           "paragraph_id": 42,
-          "text": "On the other side, Ling Han soon walked out of the fog by following the large black dog’s instructions, and soon saw the large black dog and Wally standing in front of him."
+          "text": "“Let’s go."
         },
         {
           "id": 70,
-          "paragraph_id": 43,
-          "text": "“Let’s go."
+          "paragraph_id": 42,
+          "text": "This formation would not be able to hold a Pseudo-Heavenly Venerate down for long,” the large black dog called out, looking extremely anxious."
         },
         {
           "id": 71,
           "paragraph_id": 43,
-          "text": "This formation would not be able to hold a Pseudo-Heavenly Venerate down for long,” the large black dog called out, looking extremely anxious."
+          "text": "Ling Han nodded, and they left immediately."
         },
         {
           "id": 72,
           "paragraph_id": 44,
-          "text": "Ling Han nodded, and they left immediately."
+          "text": "As expected, a loud boom was heard just a while later."
         },
         {
           "id": 73,
-          "paragraph_id": 45,
-          "text": "As expected, a loud boom was heard just a while later."
+          "paragraph_id": 44,
+          "text": "A frightening wave of force surged out."
         },
         {
           "id": 74,
           "paragraph_id": 45,
-          "text": "A frightening wave of force surged out."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 46,
           "text": "Yun Haoyang already escaped, but he had also lost track of Ling Han."
         },
         {
-          "id": 76,
-          "paragraph_id": 46,
+          "id": 75,
+          "paragraph_id": 45,
           "text": "He couldn’t help but roar furiously, his voice rumbling out like thunder, turning into a boundless ocean of flames."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 45,
+          "text": "This was his fury taking solid form."
         },
         {
           "id": 77,
           "paragraph_id": 46,
-          "text": "This was his fury taking solid form."
+          "text": "“Brat, how about it?"
         },
         {
           "id": 78,
-          "paragraph_id": 47,
-          "text": "“Brat, how about it?"
+          "paragraph_id": 46,
+          "text": "Don’t you still need Grandpa Dog to save you?” The large black dog grinned proudly."
         },
         {
           "id": 79,
           "paragraph_id": 47,
-          "text": "Don’t you still need Grandpa Dog to save you?” The large black dog grinned proudly."
+          "text": "Ling Han smiled, and said, “It was Wally who set up the formation, right?”"
         },
         {
           "id": 80,
           "paragraph_id": 48,
-          "text": "Ling Han smiled, and said, “It was Wally who set up the formation, right?”"
+          "text": "Wally nodded."
         },
         {
           "id": 81,
-          "paragraph_id": 49,
-          "text": "Wally nodded."
+          "paragraph_id": 48,
+          "text": "He was the most honest."
         },
         {
           "id": 82,
           "paragraph_id": 49,
-          "text": "He was the most honest."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 50,
           "text": "The large black dog humphed."
         },
         {
-          "id": 84,
-          "paragraph_id": 50,
+          "id": 83,
+          "paragraph_id": 49,
           "text": "“That was also because Grandpa Dog asked him to find a formation, and Grandpa Dog was the one who personally set it up."
         },
         {
-          "id": 85,
-          "paragraph_id": 50,
+          "id": 84,
+          "paragraph_id": 49,
           "text": "Otherwise, you would still be hunted by now, brat."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 49,
+          "text": "What idle time would you have to argue with Grandpa Dog now?”"
         },
         {
           "id": 86,
           "paragraph_id": 50,
-          "text": "What idle time would you have to argue with Grandpa Dog now?”"
-        },
-        {
-          "id": 87,
-          "paragraph_id": 51,
           "text": "Ling Han laughed loudly."
         },
         {
-          "id": 88,
-          "paragraph_id": 51,
+          "id": 87,
+          "paragraph_id": 50,
           "text": "He coughed up a great many bits of his internal organs with each laugh, yet he was completely unconcerned."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 50,
+          "text": "“Then, thank you.”"
         },
         {
           "id": 89,
           "paragraph_id": 51,
-          "text": "“Then, thank you.”"
-        },
-        {
-          "id": 90,
-          "paragraph_id": 52,
           "text": "“Of course."
         },
         {
-          "id": 91,
-          "paragraph_id": 52,
+          "id": 90,
+          "paragraph_id": 51,
           "text": "You are under Grandpa Dog’s protection.” The large black dog claimed all the credit without any reservations."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 51,
+          "text": "He paused, and then asked Ling Han, “Brat, you’re not going to die, right?”"
         },
         {
           "id": 92,
           "paragraph_id": 52,
-          "text": "He paused, and then asked Ling Han, “Brat, you’re not going to die, right?”"
+          "text": "“I’m not going to die, but I need a very long time to recover.” Ling Han nodded."
         },
         {
           "id": 93,
-          "paragraph_id": 53,
-          "text": "“I’m not going to die, but I need a very long time to recover.” Ling Han nodded."
+          "paragraph_id": 52,
+          "text": "“However, when I recover, it will be the day that the Yun Clan have to bow their heads!”"
         },
         {
           "id": 94,
           "paragraph_id": 53,
-          "text": "“However, when I recover, it will be the day that the Yun Clan have to bow their heads!”"
+          "text": "“Brat, are you certain you can break through to the Ninth Heaven?” The large black dog was also very pleased."
         },
         {
           "id": 95,
           "paragraph_id": 54,
-          "text": "“Brat, are you certain you can break through to the Ninth Heaven?” The large black dog was also very pleased."
+          "text": "“Mm-hm!”"
         },
         {
           "id": 96,
           "paragraph_id": 55,
-          "text": "“Mm-hm!”"
-        },
-        {
-          "id": 97,
-          "paragraph_id": 56,
           "text": "They sought out a place to heal their injuries."
         },
         {
-          "id": 98,
-          "paragraph_id": 56,
+          "id": 97,
+          "paragraph_id": 55,
           "text": "Yun Haoyang would definitely not give up, and would look everywhere for Ling Han to get rid of a future problem like him."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 55,
+          "text": "Thus, they ran very far, and the farther they went, the higher the difficulty level for Yun Haoyang to find them would naturally be."
         },
         {
           "id": 99,
           "paragraph_id": 56,
-          "text": "Thus, they ran very far, and the farther they went, the higher the difficulty level for Yun Haoyang to find them would naturally be."
+          "text": "A month later, they finally stopped, and entered into the depths of an ocean."
         },
         {
           "id": 100,
           "paragraph_id": 57,
-          "text": "A month later, they finally stopped, and entered into the depths of an ocean."
+          "text": "Ling Han began to heal his injuries."
         },
         {
           "id": 101,
           "paragraph_id": 58,
-          "text": "Ling Han began to heal his injuries."
-        },
-        {
-          "id": 102,
-          "paragraph_id": 59,
           "text": "He recovered very slowly."
         },
         {
-          "id": 103,
-          "paragraph_id": 59,
+          "id": 102,
+          "paragraph_id": 58,
           "text": "This time, it was injuries that had been inflicted from powerful attacks of a Pseudo-Heavenly Venerate."
         },
         {
-          "id": 104,
-          "paragraph_id": 59,
+          "id": 103,
+          "paragraph_id": 58,
           "text": "Furthermore, he had also missed the first instance to recover, causing his injuries to worsen considerably."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 58,
+          "text": "Moreover, if it were not for the fact that he had been exposed to Void Particle Energy a long time ago, and had developed a certain level of related understanding and resistance, he would probably have been killed with a single arrow."
         },
         {
           "id": 105,
           "paragraph_id": 59,
-          "text": "Moreover, if it were not for the fact that he had been exposed to Void Particle Energy a long time ago, and had developed a certain level of related understanding and resistance, he would probably have been killed with a single arrow."
+          "text": "Ling Han slowly removed the foreign martial intent from within his body."
         },
         {
           "id": 106,
-          "paragraph_id": 60,
-          "text": "Ling Han slowly removed the foreign martial intent from within his body."
+          "paragraph_id": 59,
+          "text": "This was a great test, but at the same time, it was also an opportunity, allowing him to feel the power of a Heavenly Venerate from an endlessly close distance."
         },
         {
           "id": 107,
           "paragraph_id": 60,
-          "text": "This was a great test, but at the same time, it was also an opportunity, allowing him to feel the power of a Heavenly Venerate from an endlessly close distance."
-        },
-        {
-          "id": 108,
-          "paragraph_id": 61,
           "text": "Time passed by quietly."
         },
         {
-          "id": 109,
-          "paragraph_id": 61,
+          "id": 108,
+          "paragraph_id": 60,
           "text": "10 years, 100, 1,000..."
         },
         {
-          "id": 110,
-          "paragraph_id": 61,
+          "id": 109,
+          "paragraph_id": 60,
           "text": "In the blink of an eye, 210,000 years had passed."
         },
         {
-          "id": 111,
-          "paragraph_id": 61,
+          "id": 110,
+          "paragraph_id": 60,
           "text": "Ling Han had finally removed the foreign martial intent bit by bit."
         },
         {
-          "id": 112,
-          "paragraph_id": 61,
+          "id": 111,
+          "paragraph_id": 60,
           "text": "With a battle cry, he surged from the seabed right into the skies, and his aura completely unfurled."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 60,
+          "text": "Instantly, winds and clouds raged, and thunder boomed loudly."
         },
         {
           "id": 113,
           "paragraph_id": 61,
-          "text": "Instantly, winds and clouds raged, and thunder boomed loudly."
+          "text": "The heavenly tribulation was coming."
         },
         {
           "id": 114,
           "paragraph_id": 62,
-          "text": "The heavenly tribulation was coming."
+          "text": "A Ninth Heaven great tribulation!"
         },
         {
           "id": 115,
           "paragraph_id": 63,
-          "text": "A Ninth Heaven great tribulation!"
-        },
-        {
-          "id": 116,
-          "paragraph_id": 64,
           "text": "Ling Han laughed."
         },
         {
-          "id": 117,
-          "paragraph_id": 64,
+          "id": 116,
+          "paragraph_id": 63,
           "text": "So what if it was a Ninth-Heaven tribulation?"
+        },
+        {
+          "id": 117,
+          "paragraph_id": 63,
+          "text": "He was completely unafraid."
         },
         {
           "id": 118,
           "paragraph_id": 64,
-          "text": "He was completely unafraid."
+          "text": "‘Come at me!’"
         },
         {
           "id": 119,
           "paragraph_id": 65,
-          "text": "‘Come at me!’"
+          "text": "Clang!"
         },
         {
           "id": 120,
-          "paragraph_id": 66,
-          "text": "Clang!"
+          "paragraph_id": 65,
+          "text": "The tribulation descended, and began to strike madly and explosively at him."
         },
         {
           "id": 121,
           "paragraph_id": 66,
-          "text": "The tribulation descended, and began to strike madly and explosively at him."
-        },
-        {
-          "id": 122,
-          "paragraph_id": 67,
           "text": "Unfortunately, the power of a heavenly tribulation was limited."
         },
         {
-          "id": 123,
-          "paragraph_id": 67,
+          "id": 122,
+          "paragraph_id": 66,
           "text": "It was only slightly stronger than the Eighth-Heaven tribulation that Ling Han had previously undergone."
+        },
+        {
+          "id": 123,
+          "paragraph_id": 66,
+          "text": "It was already no longer enough to threaten Ling Han."
         },
         {
           "id": 124,
           "paragraph_id": 67,
-          "text": "It was already no longer enough to threaten Ling Han."
+          "text": "The heavenly tribulation boomed wildly, and countless bursts of lightning exploded on Ling Han’s body, yet they were ultimately unable to penetrate the defense of his body."
         },
         {
           "id": 125,
           "paragraph_id": 68,
-          "text": "The heavenly tribulation boomed wildly, and countless bursts of lightning exploded on Ling Han’s body, yet they were ultimately unable to penetrate the defense of his body."
+          "text": "A day later, the heavenly tribulation withdrew helplessly."
         },
         {
           "id": 126,
           "paragraph_id": 69,
-          "text": "A day later, the heavenly tribulation withdrew helplessly."
+          "text": "The dark clouds that filled the skies dispersed."
         },
         {
           "id": 127,
-          "paragraph_id": 70,
-          "text": "The dark clouds that filled the skies dispersed."
+          "paragraph_id": 69,
+          "text": "Nine ribbons of iridescent light flashed around Ling Han, signifying that he had finally set foot on the pinnacle of the Celestial Path."
         },
         {
           "id": 128,
           "paragraph_id": 70,
-          "text": "Nine ribbons of iridescent light flashed around Ling Han, signifying that he had finally set foot on the pinnacle of the Celestial Path."
-        },
-        {
-          "id": 129,
-          "paragraph_id": 71,
           "text": "Ling Han did not charge back to the Yun Clan at the first opportunity."
         },
         {
-          "id": 130,
-          "paragraph_id": 71,
+          "id": 129,
+          "paragraph_id": 70,
           "text": "He had only just broken through to the Ninth Heaven, but there had not been much of a boost to his battle prowess."
+        },
+        {
+          "id": 130,
+          "paragraph_id": 70,
+          "text": "That was because the upper limits on his Body Art had just been lifted, but he had not begun to improve it yet."
         },
         {
           "id": 131,
           "paragraph_id": 71,
-          "text": "That was because the upper limits on his Body Art had just been lifted, but he had not begun to improve it yet."
-        },
-        {
-          "id": 132,
-          "paragraph_id": 72,
           "text": "He descended back to the bottom of the sea, and extracted Void Particle Energy to temper his body."
         }
       ],
-      "word_count": 1681
+      "word_count": 1680
     },
     {
       "chapter_index": 2697,

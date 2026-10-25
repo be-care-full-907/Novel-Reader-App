@@ -52,7 +52,6 @@
         "Riona replied.",
         "\"Cold indeed.\"",
         "Nux shook his head as he walked away.",
-        "...",
         "\"Vyriana.\"",
         "Nux greeted with a big smile on his face.",
         "\"You are quite shameless,\" Vyriana commented.",
@@ -356,250 +355,245 @@
         {
           "id": 52,
           "paragraph_id": 42,
-          "text": "..."
+          "text": "\"Vyriana.\""
         },
         {
           "id": 53,
           "paragraph_id": 43,
-          "text": "\"Vyriana.\""
+          "text": "Nux greeted with a big smile on his face."
         },
         {
           "id": 54,
           "paragraph_id": 44,
-          "text": "Nux greeted with a big smile on his face."
+          "text": "\"You are quite shameless,\" Vyriana commented."
         },
         {
           "id": 55,
           "paragraph_id": 45,
-          "text": "\"You are quite shameless,\" Vyriana commented."
+          "text": "\"I am just a man who is following his instincts,\" Nux replied, knowing what Vyriana was talking about."
         },
         {
           "id": 56,
           "paragraph_id": 46,
-          "text": "\"I am just a man who is following his instincts,\" Nux replied, knowing what Vyriana was talking about."
+          "text": "\"I'd say you are just a man who has no self-control.\""
         },
         {
           "id": 57,
           "paragraph_id": 47,
-          "text": "\"I'd say you are just a man who has no self-control.\""
+          "text": "\"I am quite greedy, I agree."
         },
         {
           "id": 58,
-          "paragraph_id": 48,
-          "text": "\"I am quite greedy, I agree."
+          "paragraph_id": 47,
+          "text": "How else do you think I got the galls to set my eyes on you?\""
         },
         {
           "id": 59,
           "paragraph_id": 48,
-          "text": "How else do you think I got the galls to set my eyes on you?\""
+          "text": "\"Don't even try.\""
         },
         {
           "id": 60,
           "paragraph_id": 49,
-          "text": "\"Don't even try.\""
+          "text": "\"I have been trying for decades now, Vyriana.\""
         },
         {
           "id": 61,
           "paragraph_id": 50,
-          "text": "\"I have been trying for decades now, Vyriana.\""
+          "text": "\"And you still failed.\""
         },
         {
           "id": 62,
           "paragraph_id": 51,
-          "text": "\"And you still failed.\""
+          "text": "\"I'd say I am making some progress.\""
         },
         {
           "id": 63,
           "paragraph_id": 52,
-          "text": "\"I'd say I am making some progress.\""
+          "text": "\"You are delusional.\" Vyriana snorted."
         },
         {
           "id": 64,
           "paragraph_id": 53,
-          "text": "\"You are delusional.\" Vyriana snorted."
+          "text": "Nux, however, just smiled playfully as he walked and sat right next to her."
         },
         {
           "id": 65,
-          "paragraph_id": 54,
-          "text": "Nux, however, just smiled playfully as he walked and sat right next to her."
+          "paragraph_id": 53,
+          "text": "Vyriana didn't mind, she then glanced at him and the other women and spoke,"
         },
         {
           "id": 66,
           "paragraph_id": 54,
-          "text": "Vyriana didn't mind, she then glanced at him and the other women and spoke,"
+          "text": "\"Alright, I know you have many questions, I don't want to keep you in the dark but they told me not to share too much information either, so ask what questions you have,"
         },
         {
           "id": 67,
           "paragraph_id": 55,
-          "text": "\"Alright, I know you have many questions, I don't want to keep you in the dark but they told me not to share too much information either, so ask what questions you have,"
+          "text": "If I can, I will answer them.\""
         },
         {
           "id": 68,
           "paragraph_id": 56,
-          "text": "If I can, I will answer them.\""
+          "text": "She didn't wish to play any games, especially with Nux and his wives, who were people she trusted."
         },
         {
           "id": 69,
           "paragraph_id": 57,
-          "text": "She didn't wish to play any games, especially with Nux and his wives, who were people she trusted."
+          "text": "\"I only have one question.\""
         },
         {
           "id": 70,
           "paragraph_id": 58,
-          "text": "\"I only have one question.\""
+          "text": "Nux spoke."
         },
         {
           "id": 71,
           "paragraph_id": 59,
-          "text": "Nux spoke."
-        },
-        {
-          "id": 72,
-          "paragraph_id": 60,
           "text": "\"Why is the Order not doing anything?"
         },
         {
-          "id": 73,
-          "paragraph_id": 60,
+          "id": 72,
+          "paragraph_id": 59,
           "text": "The situation may be complicated, but I doubt the Order would not have the power required to solve everything and keep everything in check again."
+        },
+        {
+          "id": 73,
+          "paragraph_id": 59,
+          "text": "Heck, even those 20 Cultivators you defeated, they alone will be enough to set everything like it was before, no?\""
         },
         {
           "id": 74,
           "paragraph_id": 60,
-          "text": "Heck, even those 20 Cultivators you defeated, they alone will be enough to set everything like it was before, no?\""
-        },
-        {
-          "id": 75,
-          "paragraph_id": 61,
           "text": "\"I will not deny that."
         },
         {
-          "id": 76,
-          "paragraph_id": 61,
+          "id": 75,
+          "paragraph_id": 60,
           "text": "The current issue of the Order losing its influence, it can be fixed quite easily."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 60,
+          "text": "Rather, its solution is so simple that we simply do not care enough to act.\""
         },
         {
           "id": 77,
           "paragraph_id": 61,
-          "text": "Rather, its solution is so simple that we simply do not care enough to act.\""
+          "text": "\"...\" Nux frowned in confusion."
         },
         {
           "id": 78,
           "paragraph_id": 62,
-          "text": "\"...\" Nux frowned in confusion."
+          "text": "\"We have a bigger target.\""
         },
         {
           "id": 79,
           "paragraph_id": 63,
-          "text": "\"We have a bigger target.\""
+          "text": "\"The Black Order.\""
         },
         {
           "id": 80,
           "paragraph_id": 64,
-          "text": "\"The Black Order.\""
+          "text": "Nux commented."
         },
         {
           "id": 81,
           "paragraph_id": 65,
-          "text": "Nux commented."
+          "text": "\"That is correct.\" Vyriana nodded."
         },
         {
           "id": 82,
           "paragraph_id": 66,
-          "text": "\"That is correct.\" Vyriana nodded."
+          "text": "\"Half of the current Top Clans represent the Black Order while the other half is made from the Order's forces."
         },
         {
           "id": 83,
-          "paragraph_id": 67,
-          "text": "\"Half of the current Top Clans represent the Black Order while the other half is made from the Order's forces."
+          "paragraph_id": 66,
+          "text": "Of course, these so-called Top Clans are nothing but doll houses in overall view of things."
         },
         {
           "id": 84,
           "paragraph_id": 67,
-          "text": "Of course, these so-called Top Clans are nothing but doll houses in overall view of things."
+          "text": "The Black Order is actually much stronger than what it is showing."
         },
         {
           "id": 85,
-          "paragraph_id": 68,
-          "text": "The Black Order is actually much stronger than what it is showing."
+          "paragraph_id": 67,
+          "text": "It has been hiding in Yrniel for thousands of years, making it hard for us to catch them but they are finally making a move now and we plan to use this chance to get rid of them once and for all."
         },
         {
           "id": 86,
           "paragraph_id": 68,
-          "text": "It has been hiding in Yrniel for thousands of years, making it hard for us to catch them but they are finally making a move now and we plan to use this chance to get rid of them once and for all."
+          "text": "The Order has decided to pull back all its main force and once the Black Order makes a mistake, we will go for an all-out attack.\""
         },
         {
           "id": 87,
           "paragraph_id": 69,
-          "text": "The Order has decided to pull back all its main force and once the Black Order makes a mistake, we will go for an all-out attack.\""
+          "text": "\"And what happens to the people in Yrniel while the Order is trying to annihilate the Black Order?"
         },
         {
           "id": 88,
-          "paragraph_id": 70,
-          "text": "\"And what happens to the people in Yrniel while the Order is trying to annihilate the Black Order?"
+          "paragraph_id": 69,
+          "text": "What about the people who died because of all the chaos that has spread all over Yrniel?\""
         },
         {
           "id": 89,
           "paragraph_id": 70,
-          "text": "What about the people who died because of all the chaos that has spread all over Yrniel?\""
+          "text": "Evane questioned."
         },
         {
           "id": 90,
           "paragraph_id": 71,
-          "text": "Evane questioned."
+          "text": "She was a woman with an extremely pure heart, she didn't like the current dull situation of Yrniel and wanted to do something about it."
         },
         {
           "id": 91,
           "paragraph_id": 72,
-          "text": "She was a woman with an extremely pure heart, she didn't like the current dull situation of Yrniel and wanted to do something about it."
+          "text": "Vyriana glanced at the Skyfall Queen for a while, then, she just shrugged,"
         },
         {
           "id": 92,
           "paragraph_id": 73,
-          "text": "Vyriana glanced at the Skyfall Queen for a while, then, she just shrugged,"
+          "text": "\"They died because they were weak.\""
         },
         {
           "id": 93,
           "paragraph_id": 74,
-          "text": "\"They died because they were weak.\""
+          "text": "Evane's expression changed."
         },
         {
           "id": 94,
           "paragraph_id": 75,
-          "text": "Evane's expression changed."
+          "text": "\"This is no fantasy world, Evane."
         },
         {
           "id": 95,
-          "paragraph_id": 76,
-          "text": "\"This is no fantasy world, Evane."
+          "paragraph_id": 75,
+          "text": "Death is a common occurrence, we protected the people of Yrniel for years, hoping they would grow stronger without having to worry about anything, but that has made them weaker instead."
         },
         {
           "id": 96,
           "paragraph_id": 76,
-          "text": "Death is a common occurrence, we protected the people of Yrniel for years, hoping they would grow stronger without having to worry about anything, but that has made them weaker instead."
+          "text": "I, for one, wanted this to happen for a long time now."
         },
         {
           "id": 97,
           "paragraph_id": 77,
-          "text": "I, for one, wanted this to happen for a long time now."
+          "text": "Adversity forges strong individuals."
         },
         {
           "id": 98,
           "paragraph_id": 78,
-          "text": "Adversity forges strong individuals."
+          "text": "And the strong is what we need."
         },
         {
           "id": 99,
           "paragraph_id": 79,
-          "text": "And the strong is what we need."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 80,
           "text": "As for the weak... they can only kneel and beg for their lives.\""
         }
       ],
-      "word_count": 1017
+      "word_count": 1016
     },
     {
       "chapter_index": 1152,
@@ -4230,7 +4224,7 @@
         "Winning this battle was important and Vandal was their best shot.",
         "Their best shot, however...",
         "*Slash* *Slash*",
-        "\"AaaaAAaGgGgGGghhHHhhHH!!!!\"",
+        "\"AaaaAAaGgGgGGghhHHhhHH!!!\"",
         "Vandal screamed in agony as Astaria quickly slashed both his arms. Then, she ruthlessly kicked him away, making him fall quicker than his arms that were cut off.",
         "\"Surrender, my next target is the head.\"",
         "Astaria spoke in a cold voice and Vandal, whose skin was pale with absolute horror, quickly gave in with no resistance at all,",
@@ -4519,7 +4513,7 @@
         {
           "id": 54,
           "paragraph_id": 39,
-          "text": "\"AaaaAAaGgGgGGghhHHhhHH!!!!\""
+          "text": "\"AaaaAAaGgGgGGghhHHhhHH!!!\""
         },
         {
           "id": 55,
@@ -4693,7 +4687,6 @@
         "It was a different thing that even though they hadn't said anything, the entire world heard their wordless message.",
         "ExceedoGenesis was back.",
         "And this time, it was not just a one-man show either. They had returned and had become much stronger than before.",
-        "...",
         "\"Heh, cowards.\" Amaya laughed out loud. However, Riona, who was sitting beside her daughter, could tell that Amaya was not the least bit amused.",
         "How could she be?",
         "This was the Fifteenth Clan who had rejected their Challenge.",
@@ -5245,125 +5238,120 @@
         {
           "id": 106,
           "paragraph_id": 84,
-          "text": "..."
+          "text": "\"Heh, cowards.\" Amaya laughed out loud."
         },
         {
           "id": 107,
-          "paragraph_id": 85,
-          "text": "\"Heh, cowards.\" Amaya laughed out loud."
+          "paragraph_id": 84,
+          "text": "However, Riona, who was sitting beside her daughter, could tell that Amaya was not the least bit amused."
         },
         {
           "id": 108,
           "paragraph_id": 85,
-          "text": "However, Riona, who was sitting beside her daughter, could tell that Amaya was not the least bit amused."
+          "text": "How could she be?"
         },
         {
           "id": 109,
           "paragraph_id": 86,
-          "text": "How could she be?"
+          "text": "This was the Fifteenth Clan who had rejected their Challenge."
         },
         {
           "id": 110,
           "paragraph_id": 87,
-          "text": "This was the Fifteenth Clan who had rejected their Challenge."
+          "text": "\"Should we not have shown all our strength...?"
         },
         {
           "id": 111,
-          "paragraph_id": 88,
-          "text": "\"Should we not have shown all our strength...?"
+          "paragraph_id": 87,
+          "text": "I thought we were holding back...\""
         },
         {
           "id": 112,
           "paragraph_id": 88,
-          "text": "I thought we were holding back...\""
+          "text": "\"That was you people holding back...?\" Riona was shocked."
         },
         {
           "id": 113,
-          "paragraph_id": 89,
-          "text": "\"That was you people holding back...?\" Riona was shocked."
+          "paragraph_id": 88,
+          "text": "She felt like her daughter's common sense had been affected after staying with that monster for too long."
         },
         {
           "id": 114,
           "paragraph_id": 89,
-          "text": "She felt like her daughter's common sense had been affected after staying with that monster for too long."
+          "text": "\"Well, the opponents weren't exactly strong, so we didn't have to go all out in the battle."
         },
         {
           "id": 115,
-          "paragraph_id": 90,
-          "text": "\"Well, the opponents weren't exactly strong, so we didn't have to go all out in the battle."
+          "paragraph_id": 89,
+          "text": "I thought they would accept our challenge thinking we only won because we were lucky.\" Amaya replied."
         },
         {
           "id": 116,
           "paragraph_id": 90,
-          "text": "I thought they would accept our challenge thinking we only won because we were lucky.\" Amaya replied."
+          "text": "\"...you people should have sent Nux,\" Riona spoke."
         },
         {
           "id": 117,
           "paragraph_id": 91,
-          "text": "\"...you people should have sent Nux,\" Riona spoke."
+          "text": "\"The fact that the face of our Clan didn't even show up in our previous battle and we still dominated the battlefield, it has intimidated other clans."
         },
         {
           "id": 118,
-          "paragraph_id": 92,
-          "text": "\"The fact that the face of our Clan didn't even show up in our previous battle and we still dominated the battlefield, it has intimidated other clans."
+          "paragraph_id": 91,
+          "text": "They would want others to accept our challenge, study you people in more detail before taking the risk themselves.\" Riona spoke and Amaya had no choice but to agree to her words."
         },
         {
           "id": 119,
           "paragraph_id": 92,
-          "text": "They would want others to accept our challenge, study you people in more detail before taking the risk themselves.\" Riona spoke and Amaya had no choice but to agree to her words."
+          "text": "\"Then what should we do now?\" She questioned."
         },
         {
           "id": 120,
           "paragraph_id": 93,
-          "text": "\"Then what should we do now?\" She questioned."
+          "text": "However, before Riona could answer, Amaya stood up and a playful smile appeared on her face."
         },
         {
           "id": 121,
           "paragraph_id": 94,
-          "text": "However, before Riona could answer, Amaya stood up and a playful smile appeared on her face."
+          "text": "\"The fish has taken the bait.\" She commented."
         },
         {
           "id": 122,
           "paragraph_id": 95,
-          "text": "\"The fish has taken the bait.\" She commented."
+          "text": "'Haha~ you are right."
         },
         {
           "id": 123,
-          "paragraph_id": 96,
-          "text": "'Haha~ you are right."
+          "paragraph_id": 95,
+          "text": "I will go have some fun.' Nux laughed."
         },
         {
           "id": 124,
           "paragraph_id": 96,
-          "text": "I will go have some fun.' Nux laughed."
+          "text": "'...be careful."
         },
         {
           "id": 125,
           "paragraph_id": 97,
-          "text": "'...be careful."
+          "text": "The Black Order is dangerous.' Amaya spoke with a worried look on her face."
         },
         {
           "id": 126,
-          "paragraph_id": 98,
-          "text": "The Black Order is dangerous.' Amaya spoke with a worried look on her face."
+          "paragraph_id": 97,
+          "text": "The Black Order was the unknown force, caution was neccessary, especially when even the Order itself was going to such lengths to deal with it."
         },
         {
           "id": 127,
           "paragraph_id": 98,
-          "text": "The Black Order was the unknown force, caution was neccessary, especially when even the Order itself was going to such lengths to deal with it."
+          "text": "'Leave it to me.'"
         },
         {
           "id": 128,
           "paragraph_id": 99,
-          "text": "'Leave it to me.'"
-        },
-        {
-          "id": 129,
-          "paragraph_id": 100,
           "text": "Nux, however, was confident."
         }
       ],
-      "word_count": 1617
+      "word_count": 1616
     },
     {
       "chapter_index": 1160,
@@ -5417,7 +5405,6 @@
         "Then, opening his eyes again, his Golden eyes shined brightly, he finally moved away from the bed, wore his closed and,",
         "\"I'll be back.\"",
         "Saying those words, he disappeared.",
-        "...",
         "\"So you are the one who was defeated by Nux Leander.\"",
         "An unknown figure wearing a Black Robe that seemed similar to the one the people from the Ancestral Order wore spoke in a hoarse voice. It was clear that the person was changing his voice on purpose, Darrain however, didn't care about that. Or in other words, he was not in a condition to care about those things.",
         "He could feel the unreasonably strong aura that the person in front of him released and if that didn't help, then the fact that all his Clan members passed out the moment this man appeared should have been enough to tell what sort of existence he was facing.",
@@ -5729,320 +5716,315 @@
         {
           "id": 52,
           "paragraph_id": 47,
-          "text": "..."
+          "text": "\"So you are the one who was defeated by Nux Leander.\""
         },
         {
           "id": 53,
           "paragraph_id": 48,
-          "text": "\"So you are the one who was defeated by Nux Leander.\""
-        },
-        {
-          "id": 54,
-          "paragraph_id": 49,
           "text": "An unknown figure wearing a Black Robe that seemed similar to the one the people from the Ancestral Order wore spoke in a hoarse voice."
         },
         {
-          "id": 55,
-          "paragraph_id": 49,
+          "id": 54,
+          "paragraph_id": 48,
           "text": "It was clear that the person was changing his voice on purpose, Darrain however, didn't care about that."
+        },
+        {
+          "id": 55,
+          "paragraph_id": 48,
+          "text": "Or in other words, he was not in a condition to care about those things."
         },
         {
           "id": 56,
           "paragraph_id": 49,
-          "text": "Or in other words, he was not in a condition to care about those things."
+          "text": "He could feel the unreasonably strong aura that the person in front of him released and if that didn't help, then the fact that all his Clan members passed out the moment this man appeared should have been enough to tell what sort of existence he was facing."
         },
         {
           "id": 57,
           "paragraph_id": 50,
-          "text": "He could feel the unreasonably strong aura that the person in front of him released and if that didn't help, then the fact that all his Clan members passed out the moment this man appeared should have been enough to tell what sort of existence he was facing."
+          "text": "'Lord Nux...'"
         },
         {
           "id": 58,
           "paragraph_id": 51,
-          "text": "'Lord Nux...'"
+          "text": "He called out again."
         },
         {
           "id": 59,
           "paragraph_id": 52,
-          "text": "He called out again."
+          "text": "He didn't know whether Nux was strong enough to face this person or not and honestly, he didn't care, he was ordered to call him when someone visited him, that was what he did, what happens after that, it didn't matter to him."
         },
         {
           "id": 60,
           "paragraph_id": 53,
-          "text": "He didn't know whether Nux was strong enough to face this person or not and honestly, he didn't care, he was ordered to call him when someone visited him, that was what he did, what happens after that, it didn't matter to him."
+          "text": "Honestly, deep in his mind, Darrain wanted this person to kill Nux, however, let alone speak, he couldn't even think of such a possibility since he knew that the moment he did, that horrifying pain would return."
         },
         {
           "id": 61,
           "paragraph_id": 54,
-          "text": "Honestly, deep in his mind, Darrain wanted this person to kill Nux, however, let alone speak, he couldn't even think of such a possibility since he knew that the moment he did, that horrifying pain would return."
+          "text": "That pain was also the reason why Darrain, deep inwardly in his thoughts, wanted Nux to die, at the very least, he would then regain his freedom."
         },
         {
           "id": 62,
           "paragraph_id": 55,
-          "text": "That pain was also the reason why Darrain, deep inwardly in his thoughts, wanted Nux to die, at the very least, he would then regain his freedom."
+          "text": "'Stall for time."
         },
         {
           "id": 63,
-          "paragraph_id": 56,
-          "text": "'Stall for time."
+          "paragraph_id": 55,
+          "text": "I am coming.'"
         },
         {
           "id": 64,
           "paragraph_id": 56,
-          "text": "I am coming.'"
+          "text": "For now, however, Darain had no choice but to follow the orders given to him."
         },
         {
           "id": 65,
           "paragraph_id": 57,
-          "text": "For now, however, Darain had no choice but to follow the orders given to him."
+          "text": "\"Who are you, what are you doing here and what do you want from me?\" Darrain questioned as he glanced at the person standing in front of him."
         },
         {
           "id": 66,
           "paragraph_id": 58,
-          "text": "\"Who are you, what are you doing here and what do you want from me?\" Darrain questioned as he glanced at the person standing in front of him."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 59,
           "text": "\"Oh?\" The person in the Black Cloak seemed surprised."
         },
         {
-          "id": 68,
-          "paragraph_id": 59,
+          "id": 67,
+          "paragraph_id": 58,
           "text": "\"I didn't think you had the guts to ask so many questions in one breath."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 58,
+          "text": "I was half expecting you to cower in fear and stutter continuously for at least the first few minutes of our conversation."
         },
         {
           "id": 69,
           "paragraph_id": 59,
-          "text": "I was half expecting you to cower in fear and stutter continuously for at least the first few minutes of our conversation."
+          "text": "I am surprised to see you acting this bravely, it is almost as if you have someone coming to protect you and you are stalling for time.\""
         },
         {
           "id": 70,
           "paragraph_id": 60,
-          "text": "I am surprised to see you acting this bravely, it is almost as if you have someone coming to protect you and you are stalling for time.\""
+          "text": "The person spoke and Darrain's expressions changed."
         },
         {
           "id": 71,
           "paragraph_id": 61,
-          "text": "The person spoke and Darrain's expressions changed."
+          "text": "This mistake alone was enough to give it all away, \"So that's the case...\" the cloaked being realized."
         },
         {
           "id": 72,
           "paragraph_id": 62,
-          "text": "This mistake alone was enough to give it all away, \"So that's the case...\" the cloaked being realized."
+          "text": "\"How did you contact your allies?"
         },
         {
           "id": 73,
-          "paragraph_id": 63,
-          "text": "\"How did you contact your allies?"
+          "paragraph_id": 62,
+          "text": "I made sure you don't get the chance to do so.\" He spoke."
         },
         {
           "id": 74,
           "paragraph_id": 63,
-          "text": "I made sure you don't get the chance to do so.\" He spoke."
+          "text": "\"...\" Darrain, however, had no answer."
         },
         {
           "id": 75,
           "paragraph_id": 64,
-          "text": "\"...\" Darrain, however, had no answer."
+          "text": "How was he supposed to answer such a question?"
         },
         {
           "id": 76,
-          "paragraph_id": 65,
-          "text": "How was he supposed to answer such a question?"
+          "paragraph_id": 64,
+          "text": "Should he tell about how he was enslaved by his opponent and now has to do whatever he was ordered to do?"
         },
         {
           "id": 77,
           "paragraph_id": 65,
-          "text": "Should he tell about how he was enslaved by his opponent and now has to do whatever he was ordered to do?"
+          "text": "How embarrassing would that be?"
         },
         {
           "id": 78,
           "paragraph_id": 66,
-          "text": "How embarrassing would that be?"
+          "text": "Not that Darrain had the chance to think about things like that."
         },
         {
           "id": 79,
           "paragraph_id": 67,
-          "text": "Not that Darrain had the chance to think about things like that."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 68,
           "text": "\"So, who did you call?"
         },
         {
-          "id": 81,
-          "paragraph_id": 68,
+          "id": 80,
+          "paragraph_id": 67,
           "text": "Are they strong?"
         },
         {
-          "id": 82,
-          "paragraph_id": 68,
+          "id": 81,
+          "paragraph_id": 67,
           "text": "Are you sure they can protect you?"
         },
         {
-          "id": 83,
-          "paragraph_id": 68,
+          "id": 82,
+          "paragraph_id": 67,
           "text": "Should I start moving?"
+        },
+        {
+          "id": 83,
+          "paragraph_id": 67,
+          "text": "I only need you so I can take you away but honestly, that would defeat the purpose of visiting you like this."
         },
         {
           "id": 84,
           "paragraph_id": 68,
-          "text": "I only need you so I can take you away but honestly, that would defeat the purpose of visiting you like this."
+          "text": "This is complicated...\""
         },
         {
           "id": 85,
           "paragraph_id": 69,
-          "text": "This is complicated...\""
+          "text": "The being sighed."
         },
         {
           "id": 86,
-          "paragraph_id": 70,
-          "text": "The being sighed."
+          "paragraph_id": 69,
+          "text": "\"We would be having a peaceful conversation if you hadn't done what you did..."
         },
         {
           "id": 87,
           "paragraph_id": 70,
-          "text": "\"We would be having a peaceful conversation if you hadn't done what you did..."
+          "text": "I actually want to kill you, but I am also curious about how you contacted your allies, a technique that can escape my senses, now that seems like something they would be interested in."
         },
         {
           "id": 88,
-          "paragraph_id": 71,
-          "text": "I actually want to kill you, but I am also curious about how you contacted your allies, a technique that can escape my senses, now that seems like something they would be interested in."
+          "paragraph_id": 70,
+          "text": "I think I am allowed to make creative adjustments to the plan in this case, no?\""
         },
         {
           "id": 89,
           "paragraph_id": 71,
-          "text": "I think I am allowed to make creative adjustments to the plan in this case, no?\""
+          "text": "The being spoke and the more he did, the more Darrain paled in fear, he did not like where all of this was going."
         },
         {
           "id": 90,
-          "paragraph_id": 72,
-          "text": "The being spoke and the more he did, the more Darrain paled in fear, he did not like where all of this was going."
+          "paragraph_id": 71,
+          "text": "He felt like a prey who was being eyed by a prime hunter."
         },
         {
           "id": 91,
           "paragraph_id": 72,
-          "text": "He felt like a prey who was being eyed by a prime hunter."
+          "text": "'L-Lord Nux...' he called out again."
         },
         {
           "id": 92,
           "paragraph_id": 73,
-          "text": "'L-Lord Nux...' he called out again."
+          "text": "This time, however, he received the response he was waiting for."
         },
         {
           "id": 93,
           "paragraph_id": 74,
-          "text": "This time, however, he received the response he was waiting for."
+          "text": "'Yes yes, I am here, now don't piss me off.'"
         },
         {
           "id": 94,
           "paragraph_id": 75,
-          "text": "'Yes yes, I am here, now don't piss me off.'"
+          "text": "Nux spoke with an annoyed look on his face as he glanced at the two people standing in front of him."
         },
         {
           "id": 95,
-          "paragraph_id": 76,
-          "text": "Nux spoke with an annoyed look on his face as he glanced at the two people standing in front of him."
+          "paragraph_id": 75,
+          "text": "Yes, he was already inside the Bloodmoon's Base, looking at the two people conversing 'secretly' without a care in the world."
         },
         {
           "id": 96,
           "paragraph_id": 76,
-          "text": "Yes, he was already inside the Bloodmoon's Base, looking at the two people conversing 'secretly' without a care in the world."
+          "text": "\"I think I need to put in a little work this time.\""
         },
         {
           "id": 97,
           "paragraph_id": 77,
-          "text": "\"I think I need to put in a little work this time.\""
+          "text": "He spoke, then suddenly, his Golden eyes turned purple, and,"
         },
         {
           "id": 98,
           "paragraph_id": 78,
-          "text": "He spoke, then suddenly, his Golden eyes turned purple, and,"
+          "text": "*Whoosh*"
         },
         {
           "id": 99,
           "paragraph_id": 79,
-          "text": "*Whoosh*"
+          "text": "Another being who looked exactly like him appeared in front of him and it wasn't the end of it,"
         },
         {
           "id": 100,
           "paragraph_id": 80,
-          "text": "Another being who looked exactly like him appeared in front of him and it wasn't the end of it,"
+          "text": "*Whoosh* *Whoosh* *Whoosh*"
         },
         {
           "id": 101,
           "paragraph_id": 81,
-          "text": "*Whoosh* *Whoosh* *Whoosh*"
+          "text": "More and more Clones started appearing in front of him, all of them were in his human form, then without waiting any further, Nux took out an Artifact."
         },
         {
           "id": 102,
           "paragraph_id": 82,
-          "text": "More and more Clones started appearing in front of him, all of them were in his human form, then without waiting any further, Nux took out an Artifact."
+          "text": "Arcane Missile."
         },
         {
           "id": 103,
           "paragraph_id": 83,
-          "text": "Arcane Missile."
+          "text": "The Artifact that the Feline Cat City used to defeat Prima Skythron of the Skythorn Falcon City."
         },
         {
           "id": 104,
-          "paragraph_id": 84,
-          "text": "The Artifact that the Feline Cat City used to defeat Prima Skythron of the Skythorn Falcon City."
+          "paragraph_id": 83,
+          "text": "That time, they used 15 of these Artifacts to attack Prima and his men,"
         },
         {
           "id": 105,
           "paragraph_id": 84,
-          "text": "That time, they used 15 of these Artifacts to attack Prima and his men,"
+          "text": "And Rune gave 5 of those missiles to Nux."
         },
         {
           "id": 106,
           "paragraph_id": 85,
-          "text": "And Rune gave 5 of those missiles to Nux."
+          "text": "It was now time to use them."
         },
         {
           "id": 107,
           "paragraph_id": 86,
-          "text": "It was now time to use them."
+          "text": "Nux gave 5 of those Arcane Missiles to his Clones, just like him, his clones couldn't be sensed by others either, after all, they were him, just 50% less strong."
         },
         {
           "id": 108,
           "paragraph_id": 87,
-          "text": "Nux gave 5 of those Arcane Missiles to his Clones, just like him, his clones couldn't be sensed by others either, after all, they were him, just 50% less strong."
+          "text": "\"Shoot together.\""
         },
         {
           "id": 109,
           "paragraph_id": 88,
-          "text": "\"Shoot together.\""
+          "text": "Nux ordered, his 5 Clones then spread out and surrounded Darrain and the unknown figure,"
         },
         {
           "id": 110,
           "paragraph_id": 89,
-          "text": "Nux ordered, his 5 Clones then spread out and surrounded Darrain and the unknown figure,"
+          "text": "\"Now.\""
         },
         {
           "id": 111,
           "paragraph_id": 90,
-          "text": "\"Now.\""
+          "text": "Nux ordered and,"
         },
         {
           "id": 112,
           "paragraph_id": 91,
-          "text": "Nux ordered and,"
+          "text": "*BOOOOOOOM*"
         },
         {
           "id": 113,
           "paragraph_id": 92,
-          "text": "*BOOOOOOOM*"
-        },
-        {
-          "id": 114,
-          "paragraph_id": 93,
           "text": "Everything exploded."
         }
       ],
-      "word_count": 1538
+      "word_count": 1537
     },
     {
       "chapter_index": 1161,
@@ -6108,7 +6090,7 @@
         "[Occupation: Member of the Fallen Clan]",
         "[LVL: 153]",
         "[Battle Power- 2,800,867]",
-        "[Potential – 10,000,000]",
+        "[Potential - 10,000,000]",
         "The upgraded [Eye of Discerning] was enough to give Nux whatever answer he sought.",
         "\"A Complete Saint huh... you are slightly weaker than me if we compare only Battle Power, but again, I know that Battle Power is a terrible way to predict the result of a battle.",
         "I can destroy you with my eyes closed.",
@@ -6554,7 +6536,7 @@
         {
           "id": 80,
           "paragraph_id": 59,
-          "text": "[Potential – 10,000,000]"
+          "text": "[Potential - 10,000,000]"
         },
         {
           "id": 81,
@@ -6851,7 +6833,6 @@
         "\"Haaahh...\" Relieving a sigh of relief, Nux fell to the ground.",
         "He needed momentary rest.",
         "Thinking about that, Nux closed his eyes, however, when this 'momentarily' rest turned into a long slumber, he couldn't tell.",
-        "...",
         "\"You are awake.\"",
         "Nux heard a soft voice as he slowly opened his eyes. His eyes then fell on a beautiful black-haired woman whose face appeared to be right above him. It didn't take him long to realize that he was resting in her comfortable lap.",
         "\"Lane...\" He muttered in a soft voice.",
@@ -7158,270 +7139,265 @@
         {
           "id": 52,
           "paragraph_id": 42,
-          "text": "..."
+          "text": "\"You are awake.\""
         },
         {
           "id": 53,
           "paragraph_id": 43,
-          "text": "\"You are awake.\""
-        },
-        {
-          "id": 54,
-          "paragraph_id": 44,
           "text": "Nux heard a soft voice as he slowly opened his eyes."
         },
         {
-          "id": 55,
-          "paragraph_id": 44,
+          "id": 54,
+          "paragraph_id": 43,
           "text": "His eyes then fell on a beautiful black-haired woman whose face appeared to be right above him."
+        },
+        {
+          "id": 55,
+          "paragraph_id": 43,
+          "text": "It didn't take him long to realize that he was resting in her comfortable lap."
         },
         {
           "id": 56,
           "paragraph_id": 44,
-          "text": "It didn't take him long to realize that he was resting in her comfortable lap."
+          "text": "\"Lane...\" He muttered in a soft voice."
         },
         {
           "id": 57,
           "paragraph_id": 45,
-          "text": "\"Lane...\" He muttered in a soft voice."
+          "text": "\"You should take proper care of yourself."
         },
         {
           "id": 58,
-          "paragraph_id": 46,
-          "text": "\"You should take proper care of yourself."
+          "paragraph_id": 45,
+          "text": "I was worried.\" Lane spoke in her usually gentle voice."
         },
         {
           "id": 59,
           "paragraph_id": 46,
-          "text": "I was worried.\" Lane spoke in her usually gentle voice."
+          "text": "\"You are here to do that for me, aren't you?\" Nux smiled lightly."
         },
         {
           "id": 60,
           "paragraph_id": 47,
-          "text": "\"You are here to do that for me, aren't you?\" Nux smiled lightly."
+          "text": "\"That doesn't mean you shouldn't look after yourself,\" Lane spoke as she cupped Nux's cheeks and started gently massaging them."
         },
         {
           "id": 61,
           "paragraph_id": 48,
-          "text": "\"That doesn't mean you shouldn't look after yourself,\" Lane spoke as she cupped Nux's cheeks and started gently massaging them."
+          "text": "Nux closed his eyes as he enjoyed the care."
         },
         {
           "id": 62,
-          "paragraph_id": 49,
-          "text": "Nux closed his eyes as he enjoyed the care."
+          "paragraph_id": 48,
+          "text": "\"How long has it been?\" He suddenly questioned."
         },
         {
           "id": 63,
           "paragraph_id": 49,
-          "text": "\"How long has it been?\" He suddenly questioned."
+          "text": "\"You have been asleep for an entire day.\" Evane stepped in as she answered."
         },
         {
           "id": 64,
           "paragraph_id": 50,
-          "text": "\"You have been asleep for an entire day.\" Evane stepped in as she answered."
+          "text": "Behind him, other women walked in as well and Nux was quickly surrounded."
         },
         {
           "id": 65,
           "paragraph_id": 51,
-          "text": "Behind him, other women walked in as well and Nux was quickly surrounded."
+          "text": "\"A whole day...?\""
         },
         {
           "id": 66,
           "paragraph_id": 52,
-          "text": "\"A whole day...?\""
+          "text": "Nux was surprised."
         },
         {
           "id": 67,
           "paragraph_id": 53,
-          "text": "Nux was surprised."
+          "text": "He knew his Mental Power was exhausted and that he needed time to recover enough of it to function properly, but an entire day...?"
         },
         {
           "id": 68,
           "paragraph_id": 54,
-          "text": "He knew his Mental Power was exhausted and that he needed time to recover enough of it to function properly, but an entire day...?"
+          "text": "Wasn't that a little too much?"
         },
         {
           "id": 69,
           "paragraph_id": 55,
-          "text": "Wasn't that a little too much?"
+          "text": "He was usually fine within a few minutes."
         },
         {
           "id": 70,
           "paragraph_id": 56,
-          "text": "He was usually fine within a few minutes."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 57,
           "text": "'Was this the Side effect of abusing my Bloodlines...?' He wondered inwardly."
         },
         {
-          "id": 72,
-          "paragraph_id": 57,
+          "id": 71,
+          "paragraph_id": 56,
           "text": "He could tell that he still hadn't recovered all his Mental Energy."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 56,
+          "text": "Heck, he barely had 10% of his total amount."
         },
         {
           "id": 73,
           "paragraph_id": 57,
-          "text": "Heck, he barely had 10% of his total amount."
+          "text": "Right now, he was extremely susceptible to Charm, Illusions, or other abilities related to Mental Power and honestly, he had no clue how long would it take for him to recover."
         },
         {
           "id": 74,
           "paragraph_id": 58,
-          "text": "Right now, he was extremely susceptible to Charm, Illusions, or other abilities related to Mental Power and honestly, he had no clue how long would it take for him to recover."
+          "text": "\"Wait...\" Suddenly, Nux's expression changed as he recalled something that he had completely forgotten."
         },
         {
           "id": 75,
           "paragraph_id": 59,
-          "text": "\"Wait...\" Suddenly, Nux's expression changed as he recalled something that he had completely forgotten."
+          "text": "\"A day has passed...\" He muttered."
         },
         {
           "id": 76,
           "paragraph_id": 60,
-          "text": "\"A day has passed...\" He muttered."
+          "text": "\"That is correct.\" Amaya nodded, confused as to why Nux was suddenly acting like that."
         },
         {
           "id": 77,
           "paragraph_id": 61,
-          "text": "\"That is correct.\" Amaya nodded, confused as to why Nux was suddenly acting like that."
+          "text": "\"Then it must mean 5 days must have passed inside the [Core].\""
         },
         {
           "id": 78,
           "paragraph_id": 62,
-          "text": "\"Then it must mean 5 days must have passed inside the [Core].\""
+          "text": "Nux spoke."
         },
         {
           "id": 79,
           "paragraph_id": 63,
-          "text": "Nux spoke."
+          "text": "\"Yes, that shou-\" Amaya nodded again, however, this time, Nux quickly opened the Portal and Directly stepped in."
         },
         {
           "id": 80,
           "paragraph_id": 64,
-          "text": "\"Yes, that shou-\" Amaya nodded again, however, this time, Nux quickly opened the Portal and Directly stepped in."
+          "text": "Then, his eyes fell on a woman, who was lying on the floor, a strong odor came from her body and Nux could see liquid, covered with Blood around her body."
         },
         {
           "id": 81,
-          "paragraph_id": 65,
-          "text": "Then, his eyes fell on a woman, who was lying on the floor, a strong odor came from her body and Nux could see liquid, covered with Blood around her body."
+          "paragraph_id": 64,
+          "text": "The woman's entire body was trembling, her previous anger and arrogance that could be seen in her Green eyes, were nowhere to be seen."
         },
         {
           "id": 82,
           "paragraph_id": 65,
-          "text": "The woman's entire body was trembling, her previous anger and arrogance that could be seen in her Green eyes, were nowhere to be seen."
+          "text": "When the woman's eyes fell on Nux, they brightened up, she was missing half of her left arm and both her legs were charred black, completely unusable, however, she still dragged her cripple body towards Nux, then rubbed her forehead on his shoes as he reached near him."
         },
         {
           "id": 83,
           "paragraph_id": 66,
-          "text": "When the woman's eyes fell on Nux, they brightened up, she was missing half of her left arm and both her legs were charred black, completely unusable, however, she still dragged her cripple body towards Nux, then rubbed her forehead on his shoes as he reached near him."
+          "text": "\"S-S-Stop t-this...\""
         },
         {
           "id": 84,
           "paragraph_id": 67,
-          "text": "\"S-S-Stop t-this...\""
+          "text": "Those were the only words she could muster."
         },
         {
           "id": 85,
-          "paragraph_id": 68,
-          "text": "Those were the only words she could muster."
+          "paragraph_id": 67,
+          "text": "She didn't have any energy left in her body, her eyes looked soulless."
         },
         {
           "id": 86,
           "paragraph_id": 68,
-          "text": "She didn't have any energy left in her body, her eyes looked soulless."
+          "text": "She could only show her message through her actions, which she did by continuously rubbing her forehead on Nux's foot, even going as far as licking it."
         },
         {
           "id": 87,
-          "paragraph_id": 69,
-          "text": "She could only show her message through her actions, which she did by continuously rubbing her forehead on Nux's foot, even going as far as licking it."
+          "paragraph_id": 68,
+          "text": "Morwen didn't look like a respected Complete Saint at all."
         },
         {
           "id": 88,
           "paragraph_id": 69,
-          "text": "Morwen didn't look like a respected Complete Saint at all."
+          "text": "The women standing behind Nux frowned,"
         },
         {
           "id": 89,
           "paragraph_id": 70,
-          "text": "The women standing behind Nux frowned,"
+          "text": "\"Who is she?\" Evane questioned, not liking the situation at all."
         },
         {
           "id": 90,
           "paragraph_id": 71,
-          "text": "\"Who is she?\" Evane questioned, not liking the situation at all."
+          "text": "\"Yes, who is she?\" Amaya questioned, not liking the situation either, her reasoning, however, was completely different than Evane's."
         },
         {
           "id": 91,
           "paragraph_id": 72,
-          "text": "\"Yes, who is she?\" Amaya questioned, not liking the situation either, her reasoning, however, was completely different than Evane's."
+          "text": "\"That looks kinky.\" Aisha, on the other hand, was thinking about a completely different thing."
         },
         {
           "id": 92,
           "paragraph_id": 73,
-          "text": "\"That looks kinky.\" Aisha, on the other hand, was thinking about a completely different thing."
+          "text": "\"I was about to say that...\" Edda nodded."
         },
         {
           "id": 93,
           "paragraph_id": 74,
-          "text": "\"I was about to say that...\" Edda nodded."
+          "text": "Aisha glanced at the tanned woman, the tanned woman looked back, and suddenly, the two nodded at each other."
         },
         {
           "id": 94,
           "paragraph_id": 75,
-          "text": "Aisha glanced at the tanned woman, the tanned woman looked back, and suddenly, the two nodded at each other."
+          "text": "A new friendship was formed."
         },
         {
           "id": 95,
           "paragraph_id": 76,
-          "text": "A new friendship was formed."
+          "text": "The two perverts weren't thinking about the woman dragging herself on the ground at all, one had seen such a situation enough times in the past to care about it, the other's mind was simply filled with too many other things to even bother with something like that."
         },
         {
           "id": 96,
           "paragraph_id": 77,
-          "text": "The two perverts weren't thinking about the woman dragging herself on the ground at all, one had seen such a situation enough times in the past to care about it, the other's mind was simply filled with too many other things to even bother with something like that."
+          "text": "\"Nux...\" Evane, on the other hand, didn't sit still and held Nux's shirt from behind."
         },
         {
           "id": 97,
           "paragraph_id": 78,
-          "text": "\"Nux...\" Evane, on the other hand, didn't sit still and held Nux's shirt from behind."
+          "text": "Knowing what she wanted her to do, Nux waved his hand, the pain Morwen was feeling subsided, and,"
         },
         {
           "id": 98,
           "paragraph_id": 79,
-          "text": "Knowing what she wanted her to do, Nux waved his hand, the pain Morwen was feeling subsided, and,"
-        },
-        {
-          "id": 99,
-          "paragraph_id": 80,
           "text": "\"Haah..."
         },
         {
-          "id": 100,
-          "paragraph_id": 80,
+          "id": 99,
+          "paragraph_id": 79,
           "text": "Haah..."
+        },
+        {
+          "id": 100,
+          "paragraph_id": 79,
+          "text": "Thank you...\""
         },
         {
           "id": 101,
           "paragraph_id": 80,
-          "text": "Thank you...\""
+          "text": "She spoke, showing her gratitude by resting her forehead on Nux's foot again, and before Nux could order her to move away, he realized that she had passed out."
         },
         {
           "id": 102,
           "paragraph_id": 81,
-          "text": "She spoke, showing her gratitude by resting her forehead on Nux's foot again, and before Nux could order her to move away, he realized that she had passed out."
+          "text": "A Complete Saint Stage Cultivator, a Cultivator who can create a strong impact in current Yrniel, even making the Divine Stage Cultivators tread carefully in front of them, lying on his feet like this..."
         },
         {
           "id": 103,
           "paragraph_id": 82,
-          "text": "A Complete Saint Stage Cultivator, a Cultivator who can create a strong impact in current Yrniel, even making the Divine Stage Cultivators tread carefully in front of them, lying on his feet like this..."
-        },
-        {
-          "id": 104,
-          "paragraph_id": 83,
           "text": "Once again, Nux was reminded of how horrifying the Slave Seal could be."
         }
       ],
-      "word_count": 1523
+      "word_count": 1522
     },
     {
       "chapter_index": 1163,
@@ -10346,7 +10322,7 @@
     },
     {
       "chapter_index": 1168,
-      "title": "Chapter 1168 Why didnât I think of thatâ¦?",
+      "title": "Chapter 1168 Why didnât I think of thatâ¦?",
       "url": "https://novelping.com/book/supreme-harem-god-system/chapter-1168-why-didnat-i-think-of-thata",
       "paragraphs": [
         "1168 Why didn't I think of that...?",
@@ -11019,7 +10995,6 @@
         "Who even cares?",
         "If it is something your heart desires,",
         "I'd say go for it.\"",
-        "***",
         "Second Chapter of the day.",
         "Sorry for the past few days, it was a busy month.",
         "I had to take 9 exams in the last 7 days. There was even an exam on Sunday. Yes, my university is shit, I know.",
@@ -11754,65 +11729,60 @@
         {
           "id": 144,
           "paragraph_id": 113,
-          "text": "***"
+          "text": "Second Chapter of the day."
         },
         {
           "id": 145,
           "paragraph_id": 114,
-          "text": "Second Chapter of the day."
+          "text": "Sorry for the past few days, it was a busy month."
         },
         {
           "id": 146,
           "paragraph_id": 115,
-          "text": "Sorry for the past few days, it was a busy month."
-        },
-        {
-          "id": 147,
-          "paragraph_id": 116,
           "text": "I had to take 9 exams in the last 7 days."
         },
         {
-          "id": 148,
-          "paragraph_id": 116,
+          "id": 147,
+          "paragraph_id": 115,
           "text": "There was even an exam on Sunday."
+        },
+        {
+          "id": 148,
+          "paragraph_id": 115,
+          "text": "Yes, my university is shit, I know."
         },
         {
           "id": 149,
           "paragraph_id": 116,
-          "text": "Yes, my university is shit, I know."
+          "text": "Anyway, I still have exams left, 2 exams in the next 2 days, but I think we will be coming back to 2 chapters a day from now on."
         },
         {
           "id": 150,
           "paragraph_id": 117,
-          "text": "Anyway, I still have exams left, 2 exams in the next 2 days, but I think we will be coming back to 2 chapters a day from now on."
+          "text": "As for the 20-chapter mass release I promised, I will have more free time after 23 Nov, since my next exam would be on 2 Dec, so by the end of Nov month, expect the mass release."
         },
         {
           "id": 151,
           "paragraph_id": 118,
-          "text": "As for the 20-chapter mass release I promised, I will have more free time after 23 Nov, since my next exam would be on 2 Dec, so by the end of Nov month, expect the mass release."
+          "text": "Most probably around 28-29 Nov."
         },
         {
           "id": 152,
           "paragraph_id": 119,
-          "text": "Most probably around 28-29 Nov."
+          "text": "Thank you for reading, and have a good day."
         },
         {
           "id": 153,
           "paragraph_id": 120,
-          "text": "Thank you for reading, and have a good day."
+          "text": "SleepDeprivedSloth"
         },
         {
           "id": 154,
           "paragraph_id": 121,
-          "text": "SleepDeprivedSloth"
-        },
-        {
-          "id": 155,
-          "paragraph_id": 122,
           "text": "Creator's Thought"
         }
       ],
-      "word_count": 1635
+      "word_count": 1634
     },
     {
       "chapter_index": 1170,
@@ -12343,7 +12313,7 @@
     },
     {
       "chapter_index": 1171,
-      "title": "Chapter 1171 How did thisâ¦",
+      "title": "Chapter 1171 How did thisâ¦",
       "url": "https://novelping.com/book/supreme-harem-god-system/chapter-1171-how-did-thisa",
       "paragraphs": [
         "1171 How did this...",
@@ -13351,8 +13321,7 @@
         "Another servant rushed into the hall with a shocked expression on his face.",
         "\"What is it?\" Ignatia questioned as she narrowed her eyes, not liking the servant's attitude.",
         "\"I-It's the ExceedoGenesis,",
-        "They released an official statement!\"",
-        "."
+        "They released an official statement!\""
       ],
       "sentences": [
         {
@@ -13719,14 +13688,9 @@
           "id": 72,
           "paragraph_id": 53,
           "text": "They released an official statement!\""
-        },
-        {
-          "id": 73,
-          "paragraph_id": 54,
-          "text": "."
         }
       ],
-      "word_count": 1047
+      "word_count": 1046
     },
     {
       "chapter_index": 1174,
@@ -14143,7 +14107,6 @@
         "From now on,",
         "It was either the ExceedoGenesis,",
         "Or the Dragon Continent.",
-        "***",
         "Yes yes, 2 more coming in... uh...",
         "a few hours.",
         "SleepDeprivedSloth",
@@ -14478,30 +14441,25 @@
         {
           "id": 65,
           "paragraph_id": 47,
-          "text": "***"
+          "text": "Yes yes, 2 more coming in... uh..."
         },
         {
           "id": 66,
           "paragraph_id": 48,
-          "text": "Yes yes, 2 more coming in... uh..."
+          "text": "a few hours."
         },
         {
           "id": 67,
           "paragraph_id": 49,
-          "text": "a few hours."
+          "text": "SleepDeprivedSloth"
         },
         {
           "id": 68,
           "paragraph_id": 50,
-          "text": "SleepDeprivedSloth"
-        },
-        {
-          "id": 69,
-          "paragraph_id": 51,
           "text": "Creator's Thought"
         }
       ],
-      "word_count": 1023
+      "word_count": 1022
     },
     {
       "chapter_index": 1176,
@@ -14967,7 +14925,6 @@
         "You can try your luck with the other two emperors, however, as I mentioned before, their answer will be the same.\"",
         "Aurelian spoke. Nux, who was still in a daze nodded as he then turned around.",
         "He realized that he needed to think of something else.",
-        "...",
         "On the other side, while Nux was busy talking with the Human Empress, his wives were visited by someone else, someone they desperately wanted to see.",
         "\"Master.\"",
         "Astaria greeted.",
@@ -14978,7 +14935,6 @@
         "\"And who said it matters? I just know one thing, since you have war, be prepared, for a war.",
         "Of course, I am sure I don't need to mention this, but in case you people have even the slightest doubt in your minds, let me make this clear.",
         "Don't ask for my help, I am only here to enjoy the show.\"",
-        "***",
         "Why was Boba's prediction correct...",
         "Why are my Sloth genes so strong...",
         "I promise I'll upload 2 more chapters today... in a few hours... >\"< SleepDeprivedSloth",
@@ -15293,95 +15249,85 @@
         {
           "id": 61,
           "paragraph_id": 49,
-          "text": "..."
+          "text": "On the other side, while Nux was busy talking with the Human Empress, his wives were visited by someone else, someone they desperately wanted to see."
         },
         {
           "id": 62,
           "paragraph_id": 50,
-          "text": "On the other side, while Nux was busy talking with the Human Empress, his wives were visited by someone else, someone they desperately wanted to see."
+          "text": "\"Master.\""
         },
         {
           "id": 63,
           "paragraph_id": 51,
-          "text": "\"Master.\""
+          "text": "Astaria greeted."
         },
         {
           "id": 64,
           "paragraph_id": 52,
-          "text": "Astaria greeted."
+          "text": "\"Something quite interesting happened while I was away huh?"
         },
         {
           "id": 65,
           "paragraph_id": 53,
-          "text": "\"Something quite interesting happened while I was away huh?"
+          "text": "You guys never fail to amuse me.\""
         },
         {
           "id": 66,
           "paragraph_id": 54,
-          "text": "You guys never fail to amuse me.\""
+          "text": "Vyriana replied with a big smile on her face."
         },
         {
           "id": 67,
           "paragraph_id": 55,
-          "text": "Vyriana replied with a big smile on her face."
+          "text": "\"It was not our fault this time."
         },
         {
           "id": 68,
-          "paragraph_id": 56,
-          "text": "\"It was not our fault this time."
+          "paragraph_id": 55,
+          "text": "They were the ones who tried to capture Skyla.\" Astaria tried to defend, Vyriana, however, just laughed out loud."
         },
         {
           "id": 69,
           "paragraph_id": 56,
-          "text": "They were the ones who tried to capture Skyla.\" Astaria tried to defend, Vyriana, however, just laughed out loud."
+          "text": "\"And who said it matters?"
         },
         {
           "id": 70,
-          "paragraph_id": 57,
-          "text": "\"And who said it matters?"
+          "paragraph_id": 56,
+          "text": "I just know one thing, since you have war, be prepared, for a war."
         },
         {
           "id": 71,
           "paragraph_id": 57,
-          "text": "I just know one thing, since you have war, be prepared, for a war."
+          "text": "Of course, I am sure I don't need to mention this, but in case you people have even the slightest doubt in your minds, let me make this clear."
         },
         {
           "id": 72,
           "paragraph_id": 58,
-          "text": "Of course, I am sure I don't need to mention this, but in case you people have even the slightest doubt in your minds, let me make this clear."
+          "text": "Don't ask for my help, I am only here to enjoy the show.\""
         },
         {
           "id": 73,
           "paragraph_id": 59,
-          "text": "Don't ask for my help, I am only here to enjoy the show.\""
+          "text": "Why was Boba's prediction correct..."
         },
         {
           "id": 74,
           "paragraph_id": 60,
-          "text": "***"
+          "text": "Why are my Sloth genes so strong..."
         },
         {
           "id": 75,
           "paragraph_id": 61,
-          "text": "Why was Boba's prediction correct..."
+          "text": "I promise I'll upload 2 more chapters today... in a few hours... >\"< SleepDeprivedSloth"
         },
         {
           "id": 76,
           "paragraph_id": 62,
-          "text": "Why are my Sloth genes so strong..."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 63,
-          "text": "I promise I'll upload 2 more chapters today... in a few hours... >\"< SleepDeprivedSloth"
-        },
-        {
-          "id": 78,
-          "paragraph_id": 64,
           "text": "Creator's Thought"
         }
       ],
-      "word_count": 1116
+      "word_count": 1114
     },
     {
       "chapter_index": 1178,
@@ -17456,7 +17402,6 @@
         "Alaric laughed out loud the moment Nux left.",
         "\"This won't be easy,\" Orpheus commented.",
         "\"No one said it would be.\" Alaric shrugged and the room turned silent again.",
-        "...",
         "\"Lady Vyriana.\"",
         "As she walked out of the Portal, Ambrosia bowed her head and greeted.",
         "\"It has been a while.\" Vyriana nodded.",
@@ -17786,285 +17731,280 @@
         {
           "id": 56,
           "paragraph_id": 46,
-          "text": "..."
+          "text": "\"Lady Vyriana.\""
         },
         {
           "id": 57,
           "paragraph_id": 47,
-          "text": "\"Lady Vyriana.\""
+          "text": "As she walked out of the Portal, Ambrosia bowed her head and greeted."
         },
         {
           "id": 58,
           "paragraph_id": 48,
-          "text": "As she walked out of the Portal, Ambrosia bowed her head and greeted."
+          "text": "\"It has been a while.\" Vyriana nodded."
         },
         {
           "id": 59,
           "paragraph_id": 49,
-          "text": "\"It has been a while.\" Vyriana nodded."
+          "text": "Unlike others, she had no qualms about looking right into Ambrosia's eyes, after all, no matter how strong Ambrosia's Charm was, affecting Vyriana with it was... well, impossible."
         },
         {
           "id": 60,
           "paragraph_id": 50,
-          "text": "Unlike others, she had no qualms about looking right into Ambrosia's eyes, after all, no matter how strong Ambrosia's Charm was, affecting Vyriana with it was... well, impossible."
+          "text": "\"Mother.\" Melia greeted her mother."
         },
         {
           "id": 61,
           "paragraph_id": 51,
-          "text": "\"Mother.\" Melia greeted her mother."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 52,
           "text": "\"Melia!"
         },
         {
-          "id": 63,
-          "paragraph_id": 52,
+          "id": 62,
+          "paragraph_id": 51,
           "text": "It has been a while!\" Ambrosia quickly hugged her daughter."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 51,
+          "text": "Melia didn't bother resisting either and allowed her mother to do whatever she wanted."
         },
         {
           "id": 64,
           "paragraph_id": 52,
-          "text": "Melia didn't bother resisting either and allowed her mother to do whatever she wanted."
+          "text": "Once she was satisfied messing her daughter's hair and kissing her forehead, Ambrosia turned towards Amaya and,"
         },
         {
           "id": 65,
           "paragraph_id": 53,
-          "text": "Once she was satisfied messing her daughter's hair and kissing her forehead, Ambrosia turned towards Amaya and,"
+          "text": "\"Have you come up with any pla-\""
         },
         {
           "id": 66,
           "paragraph_id": 54,
-          "text": "\"Have you come up with any pla-\""
+          "text": "However, before she could complete,"
         },
         {
           "id": 67,
           "paragraph_id": 55,
-          "text": "However, before she could complete,"
+          "text": "\"Nux, you need to see this.\""
         },
         {
           "id": 68,
           "paragraph_id": 56,
-          "text": "\"Nux, you need to see this.\""
+          "text": "Riona walked into the room and ignoring everyone, she walked towards Nux and passed a paper to him."
         },
         {
           "id": 69,
           "paragraph_id": 57,
-          "text": "Riona walked into the room and ignoring everyone, she walked towards Nux and passed a paper to him."
+          "text": "\"What is it?\" Nux frowned."
         },
         {
           "id": 70,
           "paragraph_id": 58,
-          "text": "\"What is it?\" Nux frowned."
+          "text": "\"Soren Thorn made a public statement.\""
         },
         {
           "id": 71,
           "paragraph_id": 59,
-          "text": "\"Soren Thorn made a public statement.\""
+          "text": "Riona spoke as she glanced at Amaya."
         },
         {
           "id": 72,
           "paragraph_id": 60,
-          "text": "Riona spoke as she glanced at Amaya."
+          "text": "Amaya narrowed her eyes as she noticed her mother's off behavior, but before questioning that, another question appeared in her mind,"
         },
         {
           "id": 73,
           "paragraph_id": 61,
-          "text": "Amaya narrowed her eyes as she noticed her mother's off behavior, but before questioning that, another question appeared in her mind,"
+          "text": "\"Who is he?\""
         },
         {
           "id": 74,
           "paragraph_id": 62,
-          "text": "\"Who is he?\""
+          "text": "\"He is a Complete Saint and a Leader of Ashenhelm Clan, one of the strongest 'new clans' that appeared 150 years ago.\""
         },
         {
           "id": 75,
           "paragraph_id": 63,
-          "text": "\"He is a Complete Saint and a Leader of Ashenhelm Clan, one of the strongest 'new clans' that appeared 150 years ago.\""
+          "text": "\"Why do we need to bother with his statement?\" Melia frowned as well."
         },
         {
           "id": 76,
           "paragraph_id": 64,
-          "text": "\"Why do we need to bother with his statement?\" Melia frowned as well."
+          "text": "\"Apparently, he challenged us when we were all inside [Core], since we didn't reply, the challenge was automatically rejected, and now..."
         },
         {
           "id": 77,
           "paragraph_id": 65,
-          "text": "\"Apparently, he challenged us when we were all inside [Core], since we didn't reply, the challenge was automatically rejected, and now..."
+          "text": "He released a statement regarding it.\""
         },
         {
           "id": 78,
           "paragraph_id": 66,
-          "text": "He released a statement regarding it.\""
+          "text": "Riona then glanced at Amaya and,"
         },
         {
           "id": 79,
           "paragraph_id": 67,
-          "text": "Riona then glanced at Amaya and,"
+          "text": "\"A statement that you might not like.\""
         },
         {
           "id": 80,
           "paragraph_id": 68,
-          "text": "\"A statement that you might not like.\""
+          "text": "Amaya narrowed her eyes but before she could question, \"Do you have the challenge scroll that he sent?\""
         },
         {
           "id": 81,
           "paragraph_id": 69,
-          "text": "Amaya narrowed her eyes but before she could question, \"Do you have the challenge scroll that he sent?\""
+          "text": "Nux, who just read the statement questioned with a dark look on his face."
         },
         {
           "id": 82,
           "paragraph_id": 70,
-          "text": "Nux, who just read the statement questioned with a dark look on his face."
+          "text": "\"Nux, you need to calm down, this is clearly a trap.\""
         },
         {
           "id": 83,
           "paragraph_id": 71,
-          "text": "\"Nux, you need to calm down, this is clearly a trap.\""
+          "text": "Riona spoke."
         },
         {
           "id": 84,
           "paragraph_id": 72,
-          "text": "Riona spoke."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 73,
           "text": "\"That's not what I am asking, Riona."
         },
         {
-          "id": 86,
-          "paragraph_id": 73,
+          "id": 85,
+          "paragraph_id": 72,
           "text": "I asked if you have the Challenge scroll or not."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 72,
+          "text": "I am sure you have it, no?\""
         },
         {
           "id": 87,
           "paragraph_id": 73,
-          "text": "I am sure you have it, no?\""
+          "text": "\"I do and there is no other copy."
         },
         {
           "id": 88,
           "paragraph_id": 74,
-          "text": "\"I do and there is no other copy."
+          "text": "So if you want it,"
         },
         {
           "id": 89,
           "paragraph_id": 75,
-          "text": "So if you want it,"
+          "text": "You need to calm down.\""
         },
         {
           "id": 90,
           "paragraph_id": 76,
-          "text": "You need to calm down.\""
+          "text": "Riona spoke in an imposing voice."
         },
         {
           "id": 91,
           "paragraph_id": 77,
-          "text": "Riona spoke in an imposing voice."
+          "text": "\"I am calm, Riona.\""
         },
         {
           "id": 92,
           "paragraph_id": 78,
-          "text": "\"I am calm, Riona.\""
+          "text": "\"You don't look calm.\""
         },
         {
           "id": 93,
           "paragraph_id": 79,
-          "text": "\"You don't look calm.\""
+          "text": "Riona replied."
         },
         {
           "id": 94,
-          "paragraph_id": 80,
-          "text": "Riona replied."
+          "paragraph_id": 79,
+          "text": "Nux's mouth twitched, he however, held back, took a deep breath and,"
         },
         {
           "id": 95,
           "paragraph_id": 80,
-          "text": "Nux's mouth twitched, he however, held back, took a deep breath and,"
-        },
-        {
-          "id": 96,
-          "paragraph_id": 81,
           "text": "\"Trust me, Riona."
         },
         {
-          "id": 97,
-          "paragraph_id": 81,
+          "id": 96,
+          "paragraph_id": 80,
           "text": "I am calm."
+        },
+        {
+          "id": 97,
+          "paragraph_id": 80,
+          "text": "I know this is a Trap."
         },
         {
           "id": 98,
           "paragraph_id": 81,
-          "text": "I know this is a Trap."
+          "text": "But that bastard said something he shouldn't have."
         },
         {
           "id": 99,
           "paragraph_id": 82,
-          "text": "But that bastard said something he shouldn't have."
+          "text": "Please give me the Challenge Scroll.\""
         },
         {
           "id": 100,
           "paragraph_id": 83,
-          "text": "Please give me the Challenge Scroll.\""
+          "text": "\"...\""
         },
         {
           "id": 101,
           "paragraph_id": 84,
-          "text": "\"...\""
+          "text": "Riona didn't say anything."
         },
         {
           "id": 102,
-          "paragraph_id": 85,
-          "text": "Riona didn't say anything."
+          "paragraph_id": 84,
+          "text": "She was still wondering if it was a good decision or not."
         },
         {
           "id": 103,
           "paragraph_id": 85,
-          "text": "She was still wondering if it was a good decision or not."
+          "text": "Nux, however, wasn't planning to give her a choice."
         },
         {
           "id": 104,
           "paragraph_id": 86,
-          "text": "Nux, however, wasn't planning to give her a choice."
+          "text": "\"I order you to give me the Scroll, Riona.\""
         },
         {
           "id": 105,
           "paragraph_id": 87,
-          "text": "\"I order you to give me the Scroll, Riona.\""
-        },
-        {
-          "id": 106,
-          "paragraph_id": 88,
           "text": "Activating the Slave Seal that was only implanted onto Riona so that she could talk to her daughter, Nux ordered."
         },
         {
-          "id": 107,
-          "paragraph_id": 88,
+          "id": 106,
+          "paragraph_id": 87,
           "text": "Riona's eyes widened as she realized that her body was moving on its own."
+        },
+        {
+          "id": 107,
+          "paragraph_id": 87,
+          "text": "She took out the scroll from her ring and passed it to Nux."
         },
         {
           "id": 108,
           "paragraph_id": 88,
-          "text": "She took out the scroll from her ring and passed it to Nux."
+          "text": "\"Nux!"
         },
         {
           "id": 109,
-          "paragraph_id": 89,
-          "text": "\"Nux!"
+          "paragraph_id": 88,
+          "text": "What are you doing!?\""
         },
         {
           "id": 110,
           "paragraph_id": 89,
-          "text": "What are you doing!?\""
-        },
-        {
-          "id": 111,
-          "paragraph_id": 90,
           "text": "Amaya shouted."
         }
       ],
-      "word_count": 1048
+      "word_count": 1047
     },
     {
       "chapter_index": 1183,
@@ -18114,7 +18054,6 @@
         "In the end, Astaria just sighed and opened the Portal.",
         "\"Alright, let's discuss this further inside the [Core], this place is not safe anymore.\"",
         "Saying those words, everyone in the room walked into the [Core] and the Portal closed.",
-        "...",
         "A frown appeared on Soren's face as he glanced at the scroll lying in front of him.",
         "\"You did not expect this, did you?\"",
         "Soren's eyes widened in fright as he heard a voice, he quickly stood up and noticed Arcturus walking towards him.",
@@ -18389,240 +18328,235 @@
         {
           "id": 45,
           "paragraph_id": 43,
-          "text": "..."
+          "text": "A frown appeared on Soren's face as he glanced at the scroll lying in front of him."
         },
         {
           "id": 46,
           "paragraph_id": 44,
-          "text": "A frown appeared on Soren's face as he glanced at the scroll lying in front of him."
+          "text": "\"You did not expect this, did you?\""
         },
         {
           "id": 47,
           "paragraph_id": 45,
-          "text": "\"You did not expect this, did you?\""
+          "text": "Soren's eyes widened in fright as he heard a voice, he quickly stood up and noticed Arcturus walking towards him."
         },
         {
           "id": 48,
           "paragraph_id": 46,
-          "text": "Soren's eyes widened in fright as he heard a voice, he quickly stood up and noticed Arcturus walking towards him."
+          "text": "\"L-Lord Arcturus!\""
         },
         {
           "id": 49,
           "paragraph_id": 47,
-          "text": "\"L-Lord Arcturus!\""
+          "text": "He greeted as he quickly stood up from his chair."
         },
         {
           "id": 50,
           "paragraph_id": 48,
-          "text": "He greeted as he quickly stood up from his chair."
+          "text": "Ragnar, who was inside the room did the same as well."
         },
         {
           "id": 51,
           "paragraph_id": 49,
-          "text": "Ragnar, who was inside the room did the same as well."
+          "text": "\"I heard he accepted your challenge.\""
         },
         {
           "id": 52,
           "paragraph_id": 50,
-          "text": "\"I heard he accepted your challenge.\""
+          "text": "Arcturus spoke with a small smile on his face."
         },
         {
           "id": 53,
-          "paragraph_id": 51,
-          "text": "Arcturus spoke with a small smile on his face."
+          "paragraph_id": 50,
+          "text": "His eyes were on the scroll kept on Soren's table."
         },
         {
           "id": 54,
           "paragraph_id": 51,
-          "text": "His eyes were on the scroll kept on Soren's table."
+          "text": "Knowing that he couldn't hide it from Arcturus, Soren nodded,"
         },
         {
           "id": 55,
           "paragraph_id": 52,
-          "text": "Knowing that he couldn't hide it from Arcturus, Soren nodded,"
+          "text": "\"I-I am quite surprised about that as w-well, Lord Arcturus."
         },
         {
           "id": 56,
-          "paragraph_id": 53,
-          "text": "\"I-I am quite surprised about that as w-well, Lord Arcturus."
+          "paragraph_id": 52,
+          "text": "I didn't think he would actually accept the challenge.\""
         },
         {
           "id": 57,
           "paragraph_id": 53,
-          "text": "I didn't think he would actually accept the challenge.\""
+          "text": "\"Well your public statement was quite poisonous, it was almost as if you were venting your anger on that poor man."
         },
         {
           "id": 58,
           "paragraph_id": 54,
-          "text": "\"Well your public statement was quite poisonous, it was almost as if you were venting your anger on that poor man."
+          "text": "Maybe that agitated him more than you thought it would?\""
         },
         {
           "id": 59,
           "paragraph_id": 55,
-          "text": "Maybe that agitated him more than you thought it would?\""
+          "text": "Arcturus chuckled."
         },
         {
           "id": 60,
           "paragraph_id": 56,
-          "text": "Arcturus chuckled."
+          "text": "\"R-Right, that c-could be the case.\""
         },
         {
           "id": 61,
           "paragraph_id": 57,
-          "text": "\"R-Right, that c-could be the case.\""
+          "text": "Soren laughed dryly as well."
         },
         {
           "id": 62,
           "paragraph_id": 58,
-          "text": "Soren laughed dryly as well."
+          "text": "He could tell."
         },
         {
           "id": 63,
           "paragraph_id": 59,
-          "text": "He could tell."
+          "text": "Even though Arcturus was actually laughing and chuckling as if he was in a joyful mood, Soren could tell that something was wrong."
         },
         {
           "id": 64,
           "paragraph_id": 60,
-          "text": "Even though Arcturus was actually laughing and chuckling as if he was in a joyful mood, Soren could tell that something was wrong."
+          "text": "Arcturus seemed pissed and to not become an outlet for his anger again, he quickly spoke up,"
         },
         {
           "id": 65,
           "paragraph_id": 61,
-          "text": "Arcturus seemed pissed and to not become an outlet for his anger again, he quickly spoke up,"
+          "text": "\"B-But isn't that a good thing for us, Lord Arcturus?"
         },
         {
           "id": 66,
           "paragraph_id": 62,
-          "text": "\"B-But isn't that a good thing for us, Lord Arcturus?"
+          "text": "His control over his emotions is worse than we predicted, but due to that, it would save us quite a lot of hassle, wouldn't it?"
         },
         {
           "id": 67,
           "paragraph_id": 63,
-          "text": "His control over his emotions is worse than we predicted, but due to that, it would save us quite a lot of hassle, wouldn't it?"
+          "text": "Now we have no reason to play in such a roundabout manner, we can directly capture Nux Leander the moment he appears in front of us, we can capture him and get the information we want out of him.\""
         },
         {
           "id": 68,
           "paragraph_id": 64,
-          "text": "Now we have no reason to play in such a roundabout manner, we can directly capture Nux Leander the moment he appears in front of us, we can capture him and get the information we want out of him.\""
+          "text": "\"He is not a fool, he must have a plan.\""
         },
         {
           "id": 69,
           "paragraph_id": 65,
-          "text": "\"He is not a fool, he must have a plan.\""
+          "text": "Suddenly, Ragnar spoke up."
         },
         {
           "id": 70,
           "paragraph_id": 66,
-          "text": "Suddenly, Ragnar spoke up."
+          "text": "Both Arcturus and Soren turned towards him and Ragnar continued,"
         },
         {
           "id": 71,
           "paragraph_id": 67,
-          "text": "Both Arcturus and Soren turned towards him and Ragnar continued,"
+          "text": "\"He must have gotten support from somewhere."
         },
         {
           "id": 72,
           "paragraph_id": 68,
-          "text": "\"He must have gotten support from somewhere."
+          "text": "A support that is strong enough to give him enough guts to appear in front of Lord Arcturus and I cannot think of it being anyone other than the Vampires.\""
         },
         {
           "id": 73,
           "paragraph_id": 69,
-          "text": "A support that is strong enough to give him enough guts to appear in front of Lord Arcturus and I cannot think of it being anyone other than the Vampires.\""
+          "text": "Ragnar then glanced at Arcturus and,"
         },
         {
           "id": 74,
           "paragraph_id": 70,
-          "text": "Ragnar then glanced at Arcturus and,"
+          "text": "\"Lord Arcturus, this might lead to a clash between the Dragons and the Vampires, we need to be prepared.\""
         },
         {
           "id": 75,
           "paragraph_id": 71,
-          "text": "\"Lord Arcturus, this might lead to a clash between the Dragons and the Vampires, we need to be prepared.\""
+          "text": "\"...\""
         },
         {
           "id": 76,
           "paragraph_id": 72,
-          "text": "\"...\""
+          "text": "Silence fell over the room as he said those words."
         },
         {
           "id": 77,
           "paragraph_id": 73,
-          "text": "Silence fell over the room as he said those words."
+          "text": "But then,"
         },
         {
           "id": 78,
           "paragraph_id": 74,
-          "text": "But then,"
+          "text": "\"Alaric wouldn't do it.\""
         },
         {
           "id": 79,
           "paragraph_id": 75,
-          "text": "\"Alaric wouldn't do it.\""
+          "text": "Arcturus spoke up."
         },
         {
           "id": 80,
           "paragraph_id": 76,
-          "text": "Arcturus spoke up."
+          "text": "Ragnar frowned in confusion and Arcturus continued,"
         },
         {
           "id": 81,
           "paragraph_id": 77,
-          "text": "Ragnar frowned in confusion and Arcturus continued,"
+          "text": "\"A war between the Dragons and Vampires, Alaric would never go this far, not even for his own niece."
         },
         {
           "id": 82,
           "paragraph_id": 78,
-          "text": "\"A war between the Dragons and Vampires, Alaric would never go this far, not even for his own niece."
+          "text": "If Nux has actually received support from the Vampires then..."
         },
         {
           "id": 83,
           "paragraph_id": 79,
-          "text": "If Nux has actually received support from the Vampires then..."
+          "text": "It's possible that Alaric hasn't fully grasped the extent of the seriousness with which I am approaching this matter."
         },
         {
           "id": 84,
           "paragraph_id": 80,
-          "text": "It's possible that Alaric hasn't fully grasped the extent of the seriousness with which I am approaching this matter."
+          "text": "Maybe it is time I show it to him.\""
         },
         {
           "id": 85,
           "paragraph_id": 81,
-          "text": "Maybe it is time I show it to him.\""
+          "text": "A cold look appeared on Arcturus's face."
         },
         {
           "id": 86,
           "paragraph_id": 82,
-          "text": "A cold look appeared on Arcturus's face."
+          "text": "He was looking forward to the day of the Challenge."
         },
         {
           "id": 87,
           "paragraph_id": 83,
-          "text": "He was looking forward to the day of the Challenge."
+          "text": "***I seem to curse myself whenever I talk about Extra Chapter."
         },
         {
           "id": 88,
           "paragraph_id": 84,
-          "text": "***I seem to curse myself whenever I talk about Extra Chapter."
+          "text": "Frm now on, I'll simply upload without saying anything."
         },
         {
           "id": 89,
           "paragraph_id": 85,
-          "text": "Frm now on, I'll simply upload without saying anything."
+          "text": "Tsk tsk."
         },
         {
           "id": 90,
           "paragraph_id": 86,
-          "text": "Tsk tsk."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 87,
           "text": "Author note"
         }
       ],
-      "word_count": 1095
+      "word_count": 1094
     },
     {
       "chapter_index": 1184,
@@ -19145,7 +19079,6 @@
         "\"Huh? Who said I ran away?\"",
         "A voice was heard.",
         "It was Nux Leander.",
-        "***",
         "I currently have 6 more Extra Chapters with me and I am writing more.",
         "it is 9:30 pm right now and by 2 am, I will release all the chapters I would be able to write so that you guys would have like 18 hours to read them before the month ends.",
         "I aimed for 20, but honestly, its too hard currently. Exams fked me over.",
@@ -19498,50 +19431,45 @@
         {
           "id": 68,
           "paragraph_id": 51,
-          "text": "***"
+          "text": "I currently have 6 more Extra Chapters with me and I am writing more."
         },
         {
           "id": 69,
           "paragraph_id": 52,
-          "text": "I currently have 6 more Extra Chapters with me and I am writing more."
+          "text": "it is 9:30 pm right now and by 2 am, I will release all the chapters I would be able to write so that you guys would have like 18 hours to read them before the month ends."
         },
         {
           "id": 70,
           "paragraph_id": 53,
-          "text": "it is 9:30 pm right now and by 2 am, I will release all the chapters I would be able to write so that you guys would have like 18 hours to read them before the month ends."
+          "text": "I aimed for 20, but honestly, its too hard currently."
         },
         {
           "id": 71,
-          "paragraph_id": 54,
-          "text": "I aimed for 20, but honestly, its too hard currently."
+          "paragraph_id": 53,
+          "text": "Exams fked me over."
         },
         {
           "id": 72,
           "paragraph_id": 54,
-          "text": "Exams fked me over."
+          "text": "But I promise that whatever number i mass release, I will release the remaining number within the next 2 weeks."
         },
         {
           "id": 73,
           "paragraph_id": 55,
-          "text": "But I promise that whatever number i mass release, I will release the remaining number within the next 2 weeks."
+          "text": "X_X X_X"
         },
         {
           "id": 74,
           "paragraph_id": 56,
-          "text": "X_X X_X"
+          "text": "SleepDeprivedSloth"
         },
         {
           "id": 75,
           "paragraph_id": 57,
-          "text": "SleepDeprivedSloth"
-        },
-        {
-          "id": 76,
-          "paragraph_id": 58,
           "text": "Creator's Thought"
         }
       ],
-      "word_count": 1145
+      "word_count": 1144
     },
     {
       "chapter_index": 1186,
@@ -20118,7 +20046,7 @@
     },
     {
       "chapter_index": 1187,
-      "title": "Chapter 1187 That bitchâ¦",
+      "title": "Chapter 1187 That bitchâ¦",
       "url": "https://novelping.com/book/supreme-harem-god-system/chapter-1187-that-bitcha",
       "paragraphs": [
         "1187 That bitch...",
@@ -20168,7 +20096,6 @@
         "The announcer, who was now the only one left on the stage didn't know how to react. She didn't know how to proceed or end the 'event', she was confused and in the end, the best solution she could come up with was... To turn around and run away.",
         "As for the audience?",
         "They needed to figure things out on their own, realize that everything was over, and leave.",
-        "...",
         "Soren stood in front of his Clan building, and together with him, stood 3 other mages, all of them had grim looks on their faces. Their eyes were all fixed on the horrifying site in front of them.",
         "It was Blood all over the face, the entire building was painted red.",
         "Dead bodies lay all over the place, the same was true for the severed limbs, the Saints could even see the bodyless heads that had terrified expressions on their faces. One could tell what sort of fear these people must have felt while they were being massacred.",
@@ -20448,125 +20375,120 @@
         {
           "id": 51,
           "paragraph_id": 47,
-          "text": "..."
+          "text": "Soren stood in front of his Clan building, and together with him, stood 3 other mages, all of them had grim looks on their faces."
         },
         {
           "id": 52,
-          "paragraph_id": 48,
-          "text": "Soren stood in front of his Clan building, and together with him, stood 3 other mages, all of them had grim looks on their faces."
+          "paragraph_id": 47,
+          "text": "Their eyes were all fixed on the horrifying site in front of them."
         },
         {
           "id": 53,
           "paragraph_id": 48,
-          "text": "Their eyes were all fixed on the horrifying site in front of them."
+          "text": "It was Blood all over the face, the entire building was painted red."
         },
         {
           "id": 54,
           "paragraph_id": 49,
-          "text": "It was Blood all over the face, the entire building was painted red."
+          "text": "Dead bodies lay all over the place, the same was true for the severed limbs, the Saints could even see the bodyless heads that had terrified expressions on their faces."
         },
         {
           "id": 55,
-          "paragraph_id": 50,
-          "text": "Dead bodies lay all over the place, the same was true for the severed limbs, the Saints could even see the bodyless heads that had terrified expressions on their faces."
+          "paragraph_id": 49,
+          "text": "One could tell what sort of fear these people must have felt while they were being massacred."
         },
         {
           "id": 56,
           "paragraph_id": 50,
-          "text": "One could tell what sort of fear these people must have felt while they were being massacred."
+          "text": "It was not a sight even people with strong stomachs could digest."
         },
         {
           "id": 57,
           "paragraph_id": 51,
-          "text": "It was not a sight even people with strong stomachs could digest."
+          "text": "And Soren, who was seeing this the very first time closed his eyes, not even wanting to imagine the nightmarish scene that played out here."
         },
         {
           "id": 58,
           "paragraph_id": 52,
-          "text": "And Soren, who was seeing this the very first time closed his eyes, not even wanting to imagine the nightmarish scene that played out here."
+          "text": "It had been three hours since the 'challenge' ended and Soren, who was now given some time to think about everything that he had been through,"
         },
         {
           "id": 59,
           "paragraph_id": 53,
-          "text": "It had been three hours since the 'challenge' ended and Soren, who was now given some time to think about everything that he had been through,"
+          "text": "Came up with one single question,"
         },
         {
           "id": 60,
           "paragraph_id": 54,
-          "text": "Came up with one single question,"
+          "text": "\"Why did the three of you not do anything?\""
         },
         {
           "id": 61,
           "paragraph_id": 55,
-          "text": "\"Why did the three of you not do anything?\""
+          "text": "In an emotionless tone, he questioned as he glanced at the three Saints standing beside him."
         },
         {
           "id": 62,
           "paragraph_id": 56,
-          "text": "In an emotionless tone, he questioned as he glanced at the three Saints standing beside him."
+          "text": "The people- or the person who did all this... wasn't someone strong enough to kill Saints, if he was, these 3 people wouldn't be alive."
         },
         {
           "id": 63,
-          "paragraph_id": 57,
-          "text": "The people- or the person who did all this... wasn't someone strong enough to kill Saints, if he was, these 3 people wouldn't be alive."
+          "paragraph_id": 56,
+          "text": "At the very least, as Complete Saints, these people had what it took to fight the culprit and keep him busy till he arrived together with the Dragon Lord."
         },
         {
           "id": 64,
           "paragraph_id": 57,
-          "text": "At the very least, as Complete Saints, these people had what it took to fight the culprit and keep him busy till he arrived together with the Dragon Lord."
+          "text": "Then why..."
         },
         {
           "id": 65,
           "paragraph_id": 58,
-          "text": "Then why..."
+          "text": "\"We couldn't even tell when this happened,\" Ragnar replied."
         },
         {
           "id": 66,
           "paragraph_id": 59,
-          "text": "\"We couldn't even tell when this happened,\" Ragnar replied."
+          "text": "\"What...?\""
         },
         {
           "id": 67,
           "paragraph_id": 60,
-          "text": "\"What...?\""
+          "text": "\"For us, everything was perfectly normal till we saw a huge crack in the sky and suddenly, our entire world collapsed, and when we started looking around..."
         },
         {
           "id": 68,
-          "paragraph_id": 61,
-          "text": "\"For us, everything was perfectly normal till we saw a huge crack in the sky and suddenly, our entire world collapsed, and when we started looking around..."
+          "paragraph_id": 60,
+          "text": "Everyone was dead.\""
         },
         {
           "id": 69,
           "paragraph_id": 61,
-          "text": "Everyone was dead.\""
+          "text": "Ragnar explained."
         },
         {
           "id": 70,
           "paragraph_id": 62,
-          "text": "Ragnar explained."
+          "text": "\"So you were...\""
         },
         {
           "id": 71,
           "paragraph_id": 63,
-          "text": "\"So you were...\""
+          "text": "\"Yes, we were put under an illusion.\""
         },
         {
           "id": 72,
           "paragraph_id": 64,
-          "text": "\"Yes, we were put under an illusion.\""
+          "text": "Ragnar nodded and within an instant, Soren realized who the culprit was,"
         },
         {
           "id": 73,
           "paragraph_id": 65,
-          "text": "Ragnar nodded and within an instant, Soren realized who the culprit was,"
-        },
-        {
-          "id": 74,
-          "paragraph_id": 66,
           "text": "'That bitch...'"
         }
       ],
-      "word_count": 1084
+      "word_count": 1083
     },
     {
       "chapter_index": 1188,

@@ -2628,9 +2628,9 @@
         "...!",
         "|Existence Writing - Delivery Methods|",
         "|An Inscriptio may be delivered through three distinct methodologies:|",
-        "|Inscriptio Praesentia (Inscription of Presence):The written sentence is directed at a target within your immediate vicinity. The Inscriptio strikes with elevated effect that exceeds a normal Embodiment or Apophasis by a factor determined by the complexity and precision of the sentence composed. A well-crafted Inscriptio Praesentia can devastate targets that would resist verbal declarations of equivalent authority.|",
-        "|Inscriptio Nominata (Named Inscription):The written sentence includes the distinction or true name of the target within its composition. Upon completion, the Inscriptio does not strike locally but instead traverses across the flow of THE First Tongue throughout Observable Existence, seeking its named target regardless of distance or barriers. The sentence will find them. The sentence will deliver its payload. No location is safe from a properly constructed Inscriptio Nominata.|",
-        "|Inscriptio Dormiens (Sleeping Inscription):The written sentence is composed and completed but held in a state of suspension rather than immediate release. The Inscriptio remains dormant within your existence or can be placed upon objects, locations, or even other beings, awaiting the moment you choose to awaken it. When activated by your will, the Inscriptio exerts its effects as if freshly completed, regardless of how much time has passed since its composition. You may maintain multiple Inscriptiones Dormientes simultaneously, limited only by your capacity to remember their existence and locations.|",
+        "|Inscriptio Praesentia (Inscription of Presence): The written sentence is directed at a target within your immediate vicinity. The Inscriptio strikes with elevated effect that exceeds a normal Embodiment or Apophasis by a factor determined by the complexity and precision of the sentence composed. A well-crafted Inscriptio Praesentia can devastate targets that would resist verbal declarations of equivalent authority.|",
+        "|Inscriptio Nominata (Named Inscription): The written sentence includes the distinction or true name of the target within its composition. Upon completion, the Inscriptio does not strike locally but instead traverses across the flow of THE First Tongue throughout Observable Existence, seeking its named target regardless of distance or barriers. The sentence will find them. The sentence will deliver its payload. No location is safe from a properly constructed Inscriptio Nominata.|",
+        "|Inscriptio Dormiens (Sleeping Inscription): The written sentence is composed and completed but held in a state of suspension rather than immediate release. The Inscriptio remains dormant within your existence or can be placed upon objects, locations, or even other beings, awaiting the moment you choose to awaken it. When activated by your will, the Inscriptio exerts its effects as if freshly completed, regardless of how much time has passed since its composition. You may maintain multiple Inscriptiones Dormientes simultaneously, limited only by your capacity to remember their existence and locations.|",
         "...!",
         "Noah’s eyes widened.",
         "Oh.",
@@ -3090,7 +3090,7 @@
         {
           "id": 90,
           "paragraph_id": 59,
-          "text": "|Inscriptio Praesentia (Inscription of Presence):The written sentence is directed at a target within your immediate vicinity."
+          "text": "|Inscriptio Praesentia (Inscription of Presence): The written sentence is directed at a target within your immediate vicinity."
         },
         {
           "id": 91,
@@ -3105,7 +3105,7 @@
         {
           "id": 93,
           "paragraph_id": 60,
-          "text": "|Inscriptio Nominata (Named Inscription):The written sentence includes the distinction or true name of the target within its composition."
+          "text": "|Inscriptio Nominata (Named Inscription): The written sentence includes the distinction or true name of the target within its composition."
         },
         {
           "id": 94,
@@ -3130,7 +3130,7 @@
         {
           "id": 98,
           "paragraph_id": 61,
-          "text": "|Inscriptio Dormiens (Sleeping Inscription):The written sentence is composed and completed but held in a state of suspension rather than immediate release."
+          "text": "|Inscriptio Dormiens (Sleeping Inscription): The written sentence is composed and completed but held in a state of suspension rather than immediate release."
         },
         {
           "id": 99,
@@ -3168,7 +3168,7 @@
           "text": "Fuck."
         }
       ],
-      "word_count": 1440
+      "word_count": 1443
     },
     {
       "chapter_index": 4885,
@@ -3192,7 +3192,6 @@
         "Inscriptiones that could hunt named targets across all of Observable Existence.",
         "Inscriptiones that could sleep until he chose to wake them.",
         "There was a lot!",
-        "---",
         "In Observable Existence, there were many important moments across history.",
         "The day THE Creature was born was an auspicious one, with those truly knowledgeable still going back and forth between his origin being in Alfheimr or THE Prima Indifferentia. Some had debated this question for eons without resolution, and they would likely debate it for eons more.",
         "The first conversation to occur between a peasant and THE Primordial Paradox was also an important one, as from that conversation, many weavings of existence and reality as one knew it bloomed. The peasant had asked a simple question about the nature of contradiction, and THE Primordial Paradox had answered.",
@@ -3343,260 +3342,255 @@
         {
           "id": 23,
           "paragraph_id": 17,
-          "text": "---"
+          "text": "In Observable Existence, there were many important moments across history."
         },
         {
           "id": 24,
           "paragraph_id": 18,
-          "text": "In Observable Existence, there were many important moments across history."
+          "text": "The day THE Creature was born was an auspicious one, with those truly knowledgeable still going back and forth between his origin being in Alfheimr or THE Prima Indifferentia."
         },
         {
           "id": 25,
-          "paragraph_id": 19,
-          "text": "The day THE Creature was born was an auspicious one, with those truly knowledgeable still going back and forth between his origin being in Alfheimr or THE Prima Indifferentia."
+          "paragraph_id": 18,
+          "text": "Some had debated this question for eons without resolution, and they would likely debate it for eons more."
         },
         {
           "id": 26,
           "paragraph_id": 19,
-          "text": "Some had debated this question for eons without resolution, and they would likely debate it for eons more."
+          "text": "The first conversation to occur between a peasant and THE Primordial Paradox was also an important one, as from that conversation, many weavings of existence and reality as one knew it bloomed."
         },
         {
           "id": 27,
-          "paragraph_id": 20,
-          "text": "The first conversation to occur between a peasant and THE Primordial Paradox was also an important one, as from that conversation, many weavings of existence and reality as one knew it bloomed."
+          "paragraph_id": 19,
+          "text": "The peasant had asked a simple question about the nature of contradiction, and THE Primordial Paradox had answered."
         },
         {
           "id": 28,
           "paragraph_id": 20,
-          "text": "The peasant had asked a simple question about the nature of contradiction, and THE Primordial Paradox had answered."
+          "text": "One could argue which events throughout history were the most important, with others among the Glossarians even mentioning the day THE Tongue Whisperer walked into THE Agora of Primordial Judgment and was inferred the title of a Polemarch being something truly worthy of note."
         },
         {
           "id": 29,
-          "paragraph_id": 21,
-          "text": "One could argue which events throughout history were the most important, with others among the Glossarians even mentioning the day THE Tongue Whisperer walked into THE Agora of Primordial Judgment and was inferred the title of a Polemarch being something truly worthy of note."
+          "paragraph_id": 20,
+          "text": "His entrance allowed word to spread far and wide, increasing the influx of those entering THE Agora of Primordial Judgment as this would change just how many strong entities rose within it."
         },
         {
           "id": 30,
           "paragraph_id": 21,
-          "text": "His entrance allowed word to spread far and wide, increasing the influx of those entering THE Agora of Primordial Judgment as this would change just how many strong entities rose within it."
+          "text": "Many such arguments could be made."
         },
         {
           "id": 31,
           "paragraph_id": 22,
-          "text": "Many such arguments could be made."
+          "text": "But unbeknownst to many, at this moment in time, another critical event was taking place that was arguably one of the most important events in recent history."
         },
         {
           "id": 32,
           "paragraph_id": 23,
-          "text": "But unbeknownst to many, at this moment in time, another critical event was taking place that was arguably one of the most important events in recent history."
+          "text": "And there was no one to observe it."
         },
         {
           "id": 33,
           "paragraph_id": 24,
-          "text": "And there was no one to observe it."
-        },
-        {
-          "id": 34,
-          "paragraph_id": 25,
           "text": "It was the entrance of THE Genesis Monarch into a distinction nobody else had in Observable Existence."
         },
         {
-          "id": 35,
-          "paragraph_id": 25,
+          "id": 34,
+          "paragraph_id": 24,
           "text": "Unique to him."
+        },
+        {
+          "id": 35,
+          "paragraph_id": 24,
+          "text": "The Native Speaker of THE First Tongue."
         },
         {
           "id": 36,
           "paragraph_id": 25,
-          "text": "The Native Speaker of THE First Tongue."
+          "text": "The moment he achieved this designation, Noah stayed still for a few seconds as he continued integrating the Depth of THE Hollow Echo."
         },
         {
           "id": 37,
-          "paragraph_id": 26,
-          "text": "The moment he achieved this designation, Noah stayed still for a few seconds as he continued integrating the Depth of THE Hollow Echo."
+          "paragraph_id": 25,
+          "text": "His expression was contemplative, his blue-gold existence burning with the weight of infinite potential, his crown of Phonemes hovering above his head with authority."
         },
         {
           "id": 38,
           "paragraph_id": 26,
-          "text": "His expression was contemplative, his blue-gold existence burning with the weight of infinite potential, his crown of Phonemes hovering above his head with authority."
-        },
-        {
-          "id": 39,
-          "paragraph_id": 27,
           "text": "One could wonder just what grand thoughts were going on in his mind at this moment."
         },
         {
-          "id": 40,
-          "paragraph_id": 27,
+          "id": 39,
+          "paragraph_id": 26,
           "text": "What profound contemplations occupied the first Native Speaker of THE First Tongue in eons?"
+        },
+        {
+          "id": 40,
+          "paragraph_id": 26,
+          "text": "What world-shaking decisions was he weighing as he stood at this unprecedented threshold?"
         },
         {
           "id": 41,
           "paragraph_id": 27,
-          "text": "What world-shaking decisions was he weighing as he stood at this unprecedented threshold?"
+          "text": "After a while, Noah moved."
         },
         {
           "id": 42,
           "paragraph_id": 28,
-          "text": "After a while, Noah moved."
+          "text": "In the weavings of The Interstices, he waved his hands with deliberate purpose."
         },
         {
           "id": 43,
-          "paragraph_id": 29,
-          "text": "In the weavings of The Interstices, he waved his hands with deliberate purpose."
+          "paragraph_id": 28,
+          "text": "Blue-gold Absolute Seals erupted from his existence in streams that wove together with architectural precision, forming shapes that solidified into something permanent."
         },
         {
           "id": 44,
           "paragraph_id": 29,
-          "text": "Blue-gold Absolute Seals erupted from his existence in streams that wove together with architectural precision, forming shapes that solidified into something permanent."
+          "text": "A throne."
         },
         {
           "id": 45,
           "paragraph_id": 30,
-          "text": "A throne."
+          "text": "And a desk."
         },
         {
           "id": 46,
           "paragraph_id": 31,
-          "text": "And a desk."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 32,
           "text": "In the area where an Absolute had just fallen, where the fragments of THE Hollow Echo’s Manifestation still drifted through the space between spaces, Noah conjured furniture fit for a monarch conducting important affairs."
         },
         {
-          "id": 48,
-          "paragraph_id": 32,
+          "id": 47,
+          "paragraph_id": 31,
           "text": "The throne was grand without being ostentatious, formed from Seals of Infinity that burned with quiet authority."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 31,
+          "text": "The desk before it was regal and practical, a surface upon which momentous work could be accomplished."
         },
         {
           "id": 49,
           "paragraph_id": 32,
-          "text": "The desk before it was regal and practical, a surface upon which momentous work could be accomplished."
+          "text": "He sat down as if he was ready to begin the most important work of his existence."
         },
         {
           "id": 50,
           "paragraph_id": 33,
-          "text": "He sat down as if he was ready to begin the most important work of his existence."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 34,
           "text": "From his body, golden pages unfolded and lined themselves up on the table before him with the precision of soldiers forming ranks."
         },
         {
-          "id": 52,
-          "paragraph_id": 34,
+          "id": 51,
+          "paragraph_id": 33,
           "text": "They lay flat against the surface, waiting to receive whatever wisdom or declaration their master chose to inscribe upon them."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 33,
+          "text": "In his hands, a pen appeared, formed from concentrated linguistic authority that burned blue-gold at its tip."
         },
         {
           "id": 53,
           "paragraph_id": 34,
-          "text": "In his hands, a pen appeared, formed from concentrated linguistic authority that burned blue-gold at its tip."
+          "text": "And with an extremely serious expression that befitted the gravity of what he was about to do, Noah began to write his first Inscription!"
         },
         {
           "id": 54,
           "paragraph_id": 35,
-          "text": "And with an extremely serious expression that befitted the gravity of what he was about to do, Noah began to write his first Inscription!"
+          "text": "An Inscriptio Nominata."
         },
         {
           "id": 55,
           "paragraph_id": 36,
-          "text": "An Inscriptio Nominata."
+          "text": "A Named Inscription."
         },
         {
           "id": 56,
           "paragraph_id": 37,
-          "text": "A Named Inscription."
+          "text": "At the tip of his pen, 27 Phonemes swirled like an endless galaxy, each one contributing its authority to the words that began to form upon the golden page."
         },
         {
           "id": 57,
-          "paragraph_id": 38,
-          "text": "At the tip of his pen, 27 Phonemes swirled like an endless galaxy, each one contributing its authority to the words that began to form upon the golden page."
+          "paragraph_id": 37,
+          "text": "The Phonemes danced and wove and compressed themselves into written form, transitioning from verbal possibility to permanent declaration with each stroke of Noah’s hand."
         },
         {
           "id": 58,
           "paragraph_id": 38,
-          "text": "The Phonemes danced and wove and compressed themselves into written form, transitioning from verbal possibility to permanent declaration with each stroke of Noah’s hand."
+          "text": "The Inscription itself was simple in nature, something that would carry devastating effect upon its target."
         },
         {
           "id": 59,
           "paragraph_id": 39,
-          "text": "The Inscription itself was simple in nature, something that would carry devastating effect upon its target."
-        },
-        {
-          "id": 60,
-          "paragraph_id": 40,
           "text": "But as he wrote, his Immensity began to glow into the words."
         },
         {
-          "id": 61,
-          "paragraph_id": 40,
+          "id": 60,
+          "paragraph_id": 39,
           "text": "His foundation weight pressed into each Phoneme."
         },
         {
-          "id": 62,
-          "paragraph_id": 40,
+          "id": 61,
+          "paragraph_id": 39,
           "text": "The authority of the Derivative Civilization of Infinite Hunger bled into the ink, adding the quality of endless consumption to what he was creating."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 39,
+          "text": "The Derivative Civilization of Undifferentiated Fate followed, its connection to destiny ensuring that the Inscription would find its target regardless of circumstance, and it would undifferentiate."
         },
         {
           "id": 63,
           "paragraph_id": 40,
-          "text": "The Derivative Civilization of Undifferentiated Fate followed, its connection to destiny ensuring that the Inscription would find its target regardless of circumstance, and it would undifferentiate."
+          "text": "And then, surpassing even what these authorities could provide, the light of an Apophasis began to cover what Noah was writing."
         },
         {
           "id": 64,
           "paragraph_id": 41,
-          "text": "And then, surpassing even what these authorities could provide, the light of an Apophasis began to cover what Noah was writing."
+          "text": "Not an Embodiment declaring what was."
         },
         {
           "id": 65,
           "paragraph_id": 42,
-          "text": "Not an Embodiment declaring what was."
+          "text": "An Apophasis declaring what was not."
         },
         {
           "id": 66,
           "paragraph_id": 43,
-          "text": "An Apophasis declaring what was not."
+          "text": "He wrote with determination and focus that made the surrounding Interstices tremble, the words taking shape upon the golden page with weight that pressed against reality itself."
         },
         {
           "id": 67,
           "paragraph_id": 44,
-          "text": "He wrote with determination and focus that made the surrounding Interstices tremble, the words taking shape upon the golden page with weight that pressed against reality itself."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 45,
           "text": "\"The foundation of the one named herein is not capable of standing firm."
         },
         {
-          "id": 69,
-          "paragraph_id": 45,
+          "id": 68,
+          "paragraph_id": 44,
           "text": "Their Depths are not free from the sensation of burning across every fiber of their existence."
         },
         {
-          "id": 70,
-          "paragraph_id": 45,
+          "id": 69,
+          "paragraph_id": 44,
           "text": "Their weight is not permitted to remain stable, but must instead tear itself apart piece by piece until nothing remains but the agony of dissolution."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 44,
+          "text": "This truth applies so long as the foundation of the target does not exceed the foundation of the one who writes these words.\""
         },
         {
           "id": 71,
           "paragraph_id": 45,
-          "text": "This truth applies so long as the foundation of the target does not exceed the foundation of the one who writes these words.\""
+          "text": "...!"
         },
         {
           "id": 72,
           "paragraph_id": 46,
-          "text": "...!"
-        },
-        {
-          "id": 73,
-          "paragraph_id": 47,
           "text": "Terrifying words began to be written as one had to wonder...who would make THE Genesis Monarch focus so intently to write such words!?"
         }
       ],
-      "word_count": 1083
+      "word_count": 1082
     },
     {
       "chapter_index": 4886,
@@ -4117,7 +4111,7 @@
         "She looked up at the sky where the page had descended from, her mind racing through possibilities.",
         "\"Who could possibly...\"",
         "She was just about to ask the obvious question when her eyes stopped and she went silent.",
-        "\"Haha,No way... right?\"",
+        "\"Haha, No way... right?\"",
         "She had one person in mind. One being who had recently ascended to heights that shouldn’t have been possible. One entity who had a very specific grudge against THE Living Elemental that stemmed from a burning curse laid during their previous confrontation.",
         "The moment she thought of it, Elemental also thought of it.",
         "His body trembled even more violently, horrid pain tearing across his very existence as the Apophasis continued its relentless work. He could feel his foundation beginning to deteriorate, could feel the weight of his Depths slowly being torn apart by an authority that seemed to ignore everything he threw against it.",
@@ -4658,7 +4652,7 @@
         {
           "id": 106,
           "paragraph_id": 74,
-          "text": "\"Haha,No way... right?\""
+          "text": "\"Haha, No way... right?\""
         },
         {
           "id": 107,
@@ -4706,7 +4700,7 @@
           "text": "It was too quick!"
         }
       ],
-      "word_count": 1601
+      "word_count": 1602
     },
     {
       "chapter_index": 4888,
@@ -5747,7 +5741,6 @@
         "The Infiniverse was growing alongside him, becoming a territory that matched the scope of his ambitions.",
         "But that was a matter for later consideration.",
         "Right now, he had a pink dolphin to interrogate.",
-        "---",
         "And Noah was truly a busy man.",
         "While one body wrote Inscriptions in The Interstices and another extracted knowledge from THE Mnemonic Leviathan in his Infiniverse, a third body stood in an entirely different location.",
         "THE Agora of Primordial Judgment.",
@@ -6032,115 +6025,110 @@
         {
           "id": 52,
           "paragraph_id": 38,
-          "text": "---"
+          "text": "And Noah was truly a busy man."
         },
         {
           "id": 53,
           "paragraph_id": 39,
-          "text": "And Noah was truly a busy man."
+          "text": "While one body wrote Inscriptions in The Interstices and another extracted knowledge from THE Mnemonic Leviathan in his Infiniverse, a third body stood in an entirely different location."
         },
         {
           "id": 54,
           "paragraph_id": 40,
-          "text": "While one body wrote Inscriptions in The Interstices and another extracted knowledge from THE Mnemonic Leviathan in his Infiniverse, a third body stood in an entirely different location."
+          "text": "THE Agora of Primordial Judgment."
         },
         {
           "id": 55,
           "paragraph_id": 41,
-          "text": "THE Agora of Primordial Judgment."
+          "text": "THE Mouseion of Fated Artifacts."
         },
         {
           "id": 56,
           "paragraph_id": 42,
-          "text": "THE Mouseion of Fated Artifacts."
+          "text": "He stood on an endlessly stretching golden river that flowed through spaces that shouldn’t have been able to contain rivers, the stellar expanse above holding treasures that had been deposited across eons by beings seeking to contribute to the Mouseion’s collection."
         },
         {
           "id": 57,
-          "paragraph_id": 43,
-          "text": "He stood on an endlessly stretching golden river that flowed through spaces that shouldn’t have been able to contain rivers, the stellar expanse above holding treasures that had been deposited across eons by beings seeking to contribute to the Mouseion’s collection."
+          "paragraph_id": 42,
+          "text": "The system of fate and worthiness that governed this place pressed against his existence with weight that would have been overwhelming before his transformation."
         },
         {
           "id": 58,
           "paragraph_id": 43,
-          "text": "The system of fate and worthiness that governed this place pressed against his existence with weight that would have been overwhelming before his transformation."
+          "text": "Now, it merely felt like acknowledgment."
         },
         {
           "id": 59,
           "paragraph_id": 44,
-          "text": "Now, it merely felt like acknowledgment."
+          "text": "He was ready to retrieve his fated item."
         },
         {
           "id": 60,
           "paragraph_id": 45,
-          "text": "He was ready to retrieve his fated item."
+          "text": "The item that he himself had placed here eons ago during his temporal traversal with THE Primordial Paradox."
         },
         {
           "id": 61,
           "paragraph_id": 46,
-          "text": "The item that he himself had placed here eons ago during his temporal traversal with THE Primordial Paradox."
+          "text": "The Antinomia Prismatica."
         },
         {
           "id": 62,
           "paragraph_id": 47,
-          "text": "The Antinomia Prismatica."
+          "text": "Behind him, Glossikos watched with calm curiosity that befitted the leader of THE Agora of Primordial Judgment."
         },
         {
           "id": 63,
-          "paragraph_id": 48,
-          "text": "Behind him, Glossikos watched with calm curiosity that befitted the leader of THE Agora of Primordial Judgment."
+          "paragraph_id": 47,
+          "text": "Her luminous features held interest that she didn’t bother to conceal, wondering what someone like THE Youngest would draw from the Mouseion’s endless vaults."
         },
         {
           "id": 64,
           "paragraph_id": 48,
-          "text": "Her luminous features held interest that she didn’t bother to conceal, wondering what someone like THE Youngest would draw from the Mouseion’s endless vaults."
+          "text": "What treasure could possibly be fated for a being like him?"
         },
         {
           "id": 65,
           "paragraph_id": 49,
-          "text": "What treasure could possibly be fated for a being like him?"
+          "text": "Lumivara poked her head out from behind Glossikos."
         },
         {
           "id": 66,
           "paragraph_id": 50,
-          "text": "Lumivara poked her head out from behind Glossikos."
+          "text": "Neither of them knew what was about to happen."
         },
         {
           "id": 67,
           "paragraph_id": 51,
-          "text": "Neither of them knew what was about to happen."
+          "text": "Neither of them realized that they were witnessing the completion of a temporal loop that had been set in motion eons ago and was only now reaching its fruition."
         },
         {
           "id": 68,
           "paragraph_id": 52,
-          "text": "Neither of them realized that they were witnessing the completion of a temporal loop that had been set in motion eons ago and was only now reaching its fruition."
+          "text": "Noah looked up at the stellar expanse above, feeling the golden strings of fate extending outward from his existence toward something that called to him from the Mouseion’s depths."
         },
         {
           "id": 69,
           "paragraph_id": 53,
-          "text": "Noah looked up at the stellar expanse above, feeling the golden strings of fate extending outward from his existence toward something that called to him from the Mouseion’s depths."
+          "text": "The Antinomia Prismatica."
         },
         {
           "id": 70,
           "paragraph_id": 54,
-          "text": "The Antinomia Prismatica."
+          "text": "The key to THE Primordial Paradox’s return."
         },
         {
           "id": 71,
           "paragraph_id": 55,
-          "text": "The key to THE Primordial Paradox’s return."
+          "text": "He reached upward."
         },
         {
           "id": 72,
           "paragraph_id": 56,
-          "text": "He reached upward."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 57,
           "text": "And the Mouseion responded!"
         }
       ],
-      "word_count": 1066
+      "word_count": 1065
     },
     {
       "chapter_index": 4891,
@@ -7240,7 +7228,6 @@
         "That was the nature of his war.",
         "That was why, despite everything, THE Living Paradox was smiling as he initiated an escalation that would force all players to show their true hands.",
         "The peasant who had become one of THE Four was making his move!",
-        "---",
         "In THE Mouseion of Fated Artifacts.",
         "An expression of power was being shown here that reminded Noah of one thing he sometimes forgot.",
         "Because of his nature, he moved through stages of power rapidly. He overcame many beings and held more power than them at their stage. He devoured Absolutes and claimed their foundations. He grew in days what others grew in eons.",
@@ -7506,185 +7493,180 @@
         {
           "id": 47,
           "paragraph_id": 39,
-          "text": "---"
+          "text": "In THE Mouseion of Fated Artifacts."
         },
         {
           "id": 48,
           "paragraph_id": 40,
-          "text": "In THE Mouseion of Fated Artifacts."
+          "text": "An expression of power was being shown here that reminded Noah of one thing he sometimes forgot."
         },
         {
           "id": 49,
           "paragraph_id": 41,
-          "text": "An expression of power was being shown here that reminded Noah of one thing he sometimes forgot."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 42,
           "text": "Because of his nature, he moved through stages of power rapidly."
         },
         {
-          "id": 51,
-          "paragraph_id": 42,
+          "id": 50,
+          "paragraph_id": 41,
           "text": "He overcame many beings and held more power than them at their stage."
         },
         {
-          "id": 52,
-          "paragraph_id": 42,
+          "id": 51,
+          "paragraph_id": 41,
           "text": "He devoured Absolutes and claimed their foundations."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 41,
+          "text": "He grew in days what others grew in eons."
         },
         {
           "id": 53,
           "paragraph_id": 42,
-          "text": "He grew in days what others grew in eons."
+          "text": "But he wasn’t the only unique thing in Existence."
         },
         {
           "id": 54,
           "paragraph_id": 43,
-          "text": "But he wasn’t the only unique thing in Existence."
+          "text": "There were others."
         },
         {
           "id": 55,
           "paragraph_id": 44,
-          "text": "There were others."
+          "text": "And others, even if he was arrogant enough to consider himself someone with grander potential than them, were still grand in their own right."
         },
         {
           "id": 56,
-          "paragraph_id": 45,
-          "text": "And others, even if he was arrogant enough to consider himself someone with grander potential than them, were still grand in their own right."
+          "paragraph_id": 44,
+          "text": "If they had eons to cultivate and grow and refine their foundations, what they could accomplish was terrifying."
         },
         {
           "id": 57,
           "paragraph_id": 45,
-          "text": "If they had eons to cultivate and grow and refine their foundations, what they could accomplish was terrifying."
+          "text": "THE Primordial Paradox was terrifying."
         },
         {
           "id": 58,
           "paragraph_id": 46,
-          "text": "THE Primordial Paradox was terrifying."
+          "text": "An example was how Noah himself, after having killed and devoured multiple Absolutes, was only now matching and slightly exceeding the foundation of THE Primordial Paradox and THE Creature at Fundamental Depth."
         },
         {
           "id": 59,
-          "paragraph_id": 47,
-          "text": "An example was how Noah himself, after having killed and devoured multiple Absolutes, was only now matching and slightly exceeding the foundation of THE Primordial Paradox and THE Creature at Fundamental Depth."
+          "paragraph_id": 46,
+          "text": "And these beings had spent a ridiculous amount of effort on this Depth, as their foundations exceeded many other Absolutes by significant margins."
         },
         {
           "id": 60,
           "paragraph_id": 47,
-          "text": "And these beings had spent a ridiculous amount of effort on this Depth, as their foundations exceeded many other Absolutes by significant margins."
+          "text": "But they had millions and billions of years to then forge their Absolute Depth."
         },
         {
           "id": 61,
           "paragraph_id": 48,
-          "text": "But they had millions and billions of years to then forge their Absolute Depth."
+          "text": "That was their stepping-off point to THE Second Scale of Existence."
         },
         {
           "id": 62,
           "paragraph_id": 49,
-          "text": "That was their stepping-off point to THE Second Scale of Existence."
+          "text": "These beings were powerful in ways that Noah was only beginning to understand."
         },
         {
           "id": 63,
           "paragraph_id": 50,
-          "text": "These beings were powerful in ways that Noah was only beginning to understand."
+          "text": "So much so that right now, in THE Mouseion of Fated Artifacts, THE Antinomia Prismatica unfolded and unfurled like a paradoxical lotus blooming in reverse and forward simultaneously."
         },
         {
           "id": 64,
-          "paragraph_id": 51,
-          "text": "So much so that right now, in THE Mouseion of Fated Artifacts, THE Antinomia Prismatica unfolded and unfurled like a paradoxical lotus blooming in reverse and forward simultaneously."
+          "paragraph_id": 50,
+          "text": "Its blue-gold surface peeled away in layers that contradicted each other, revealing and concealing at the same time, until what lay within could finally emerge."
         },
         {
           "id": 65,
           "paragraph_id": 51,
-          "text": "Its blue-gold surface peeled away in layers that contradicted each other, revealing and concealing at the same time, until what lay within could finally emerge."
+          "text": "From it, THE Primordial Paradox emerged."
         },
         {
           "id": 66,
           "paragraph_id": 52,
-          "text": "From it, THE Primordial Paradox emerged."
+          "text": "He came forth from immense concentrated weavings that looked like mixtures of Embodiments and Apophasis mixing within each other in a terrifying manner."
         },
         {
           "id": 67,
-          "paragraph_id": 53,
-          "text": "He came forth from immense concentrated weavings that looked like mixtures of Embodiments and Apophasis mixing within each other in a terrifying manner."
+          "paragraph_id": 52,
+          "text": "Declarations of what was and declarations of what was not twisted around his form like serpents devouring their own tails, paradoxical authority so dense that reality itself seemed to struggle with whether he was actually present or merely the possibility of presence."
         },
         {
           "id": 68,
           "paragraph_id": 53,
-          "text": "Declarations of what was and declarations of what was not twisted around his form like serpents devouring their own tails, paradoxical authority so dense that reality itself seemed to struggle with whether he was actually present or merely the possibility of presence."
+          "text": "As his humanoid form became apparent, one could notice a few things."
         },
         {
           "id": 69,
           "paragraph_id": 54,
-          "text": "As his humanoid form became apparent, one could notice a few things."
+          "text": "One was the fact that behind Noah, Glossikos had fallen on her ass and now wore an ashen expression as if she was bearing a weight far too heavy for even her foundations to support."
         },
         {
           "id": 70,
           "paragraph_id": 55,
-          "text": "One was the fact that behind Noah, Glossikos had fallen on her ass and now wore an ashen expression as if she was bearing a weight far too heavy for even her foundations to support."
+          "text": "She was an Absolute, one of the Strategoi of THE Agora of Primordial Judgment."
         },
         {
           "id": 71,
           "paragraph_id": 56,
-          "text": "She was an Absolute, one of the Strategoi of THE Agora of Primordial Judgment."
+          "text": "And yet she was having a hard time with the aura of THE Primordial Paradox."
         },
         {
           "id": 72,
           "paragraph_id": 57,
-          "text": "And yet she was having a hard time with the aura of THE Primordial Paradox."
+          "text": "Her hands pressed against the golden river beneath her as she struggled to simply remain conscious, her luminous features pale with effort!"
         },
         {
           "id": 73,
           "paragraph_id": 58,
-          "text": "Her hands pressed against the golden river beneath her as she struggled to simply remain conscious, her luminous features pale with effort!"
+          "text": "And Lumivara, the little fox in humanoid form, sadly lost consciousness entirely."
         },
         {
           "id": 74,
-          "paragraph_id": 59,
-          "text": "And Lumivara, the little fox in humanoid form, sadly lost consciousness entirely."
+          "paragraph_id": 58,
+          "text": "Her body landed on the golden river with a soft sound that seemed impossibly loud in the oppressive silence that THE Primordial Paradox’s emergence had created."
         },
         {
           "id": 75,
           "paragraph_id": 59,
-          "text": "Her body landed on the golden river with a soft sound that seemed impossibly loud in the oppressive silence that THE Primordial Paradox’s emergence had created."
+          "text": "And Noah?"
         },
         {
           "id": 76,
           "paragraph_id": 60,
-          "text": "And Noah?"
+          "text": "Noah was able to get a glimpse and understand the power of THE Primordial Paradox when he wasn’t hiding and keeping his might concealed."
         },
         {
           "id": 77,
           "paragraph_id": 61,
-          "text": "Noah was able to get a glimpse and understand the power of THE Primordial Paradox when he wasn’t hiding and keeping his might concealed."
+          "text": "He felt stifled and expectant in equal measure."
         },
         {
           "id": 78,
           "paragraph_id": 62,
-          "text": "He felt stifled and expectant in equal measure."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 63,
           "text": "Stifled because ridiculously, he had to activate a defensive Inscriptio Dormiens just to make sure his status as an Absolute Immovable Object wasn’t violated."
         },
         {
-          "id": 80,
-          "paragraph_id": 63,
+          "id": 79,
+          "paragraph_id": 62,
           "text": "The aura being released before him almost blew away this body of his, almost scattered his existence across THE Mouseion like leaves before a hurricane."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 62,
+          "text": "The Sleeping Inscription he had prepared flared to life around him, its Embodiment declaring protection based on the difference between his foundation and the one attacking him."
         },
         {
           "id": 81,
           "paragraph_id": 63,
-          "text": "The Sleeping Inscription he had prepared flared to life around him, its Embodiment declaring protection based on the difference between his foundation and the one attacking him."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 64,
           "text": "And even with that protection, he felt the pressure!"
         }
       ],
-      "word_count": 1206
+      "word_count": 1205
     },
     {
       "chapter_index": 4894,
@@ -10124,7 +10106,6 @@
         "\"My advice to you is simple in its statement and impossible in its execution. Stay true to yourself, regardless of what happens. Never lose what makes you... you. Your identity is the only anchor that remains constant when everything else shifts and changes and transforms around you. Abandon that anchor, and you will drift across existence without direction, becoming whatever the currents wish you to become rather than what you chose to become.\"",
         "\"As long as you hold onto that truth, as long as you remember who you are when existence tries to convince you to be something else, then existence is yours. Not because you conquered it, but because you remained unconquered by it. That is the paradox of strength. It is not found in domination but in persistence. It is not found in power...but in principle.\"",
         "...!",
-        "---",
         "At this moment.",
         "It was not a memory, as existence was unfolding in real time. In a terrifying unfolding of events within THE Stoa of Dogmata, THE Primordial Paradox looked at THE Secretive Eon as he spoke calmly.",
         "\"Eon, are you in there?\"",
@@ -10147,7 +10128,6 @@
         "She could wait.",
         "She had always been good at waiting.",
         "And even while she waited, many parts of her moved.",
-        "---",
         "Noah returned to THE Shores of Kleos inside THE Agora of Primordial Judgment with THE Primordial Paradox beside him, his expression still holding the frown that had formed during their encounter with THE Entity.",
         "First he needed to let THE Primordial Chaos know not to send any bombardment of attacks toward THE Secretive Eon, as they could very well be absorbed and simply turned against them.",
         "And when he thought about this monstrous entity themselves, about the implications of what they had witnessed and what it meant for any future confrontation... he turned to THE Primordial Paradox.",
@@ -10356,555 +10336,545 @@
         {
           "id": 35,
           "paragraph_id": 11,
-          "text": "---"
+          "text": "At this moment."
         },
         {
           "id": 36,
           "paragraph_id": 12,
-          "text": "At this moment."
+          "text": "It was not a memory, as existence was unfolding in real time."
         },
         {
           "id": 37,
-          "paragraph_id": 13,
-          "text": "It was not a memory, as existence was unfolding in real time."
+          "paragraph_id": 12,
+          "text": "In a terrifying unfolding of events within THE Stoa of Dogmata, THE Primordial Paradox looked at THE Secretive Eon as he spoke calmly."
         },
         {
           "id": 38,
           "paragraph_id": 13,
-          "text": "In a terrifying unfolding of events within THE Stoa of Dogmata, THE Primordial Paradox looked at THE Secretive Eon as he spoke calmly."
+          "text": "\"Eon, are you in there?\""
         },
         {
           "id": 39,
           "paragraph_id": 14,
-          "text": "\"Eon, are you in there?\""
+          "text": "His voice held weight that pressed against the converted Embodiments and Apophasis surrounding them, against THE Entity that wore the face of someone he had once counseled."
         },
         {
           "id": 40,
           "paragraph_id": 15,
-          "text": "His voice held weight that pressed against the converted Embodiments and Apophasis surrounding them, against THE Entity that wore the face of someone he had once counseled."
+          "text": "\"I always told you to stay true to yourself, no matter what happened."
         },
         {
           "id": 41,
-          "paragraph_id": 16,
-          "text": "\"I always told you to stay true to yourself, no matter what happened."
+          "paragraph_id": 15,
+          "text": "So how did you allow this to happen?\""
         },
         {
           "id": 42,
           "paragraph_id": 16,
-          "text": "So how did you allow this to happen?\""
+          "text": "His questions were booming and heavy, echoing across the space with authority that demanded response from whatever remnant of the original Eon might still exist beneath the infection."
         },
         {
           "id": 43,
           "paragraph_id": 17,
-          "text": "His questions were booming and heavy, echoing across the space with authority that demanded response from whatever remnant of the original Eon might still exist beneath the infection."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 18,
           "text": "A moment later, it almost seemed like the gaze of THE Secretive Eon flickered."
         },
         {
-          "id": 45,
-          "paragraph_id": 18,
+          "id": 44,
+          "paragraph_id": 17,
           "text": "It almost seemed like something stirred beneath the surface of those eyes that had been speaking with THE Entity’s voice."
+        },
+        {
+          "id": 45,
+          "paragraph_id": 17,
+          "text": "As if whatever was buried underneath had been trying to come up to the surface, trying to reach toward the being who had once given her advice that she had clearly not followed!"
         },
         {
           "id": 46,
           "paragraph_id": 18,
-          "text": "As if whatever was buried underneath had been trying to come up to the surface, trying to reach toward the being who had once given her advice that she had clearly not followed!"
+          "text": "But it faded away just as quickly."
         },
         {
           "id": 47,
           "paragraph_id": 19,
-          "text": "But it faded away just as quickly."
+          "text": "The flicker of recognition, of individuality, of the Eon that had existed before THE Entity consumed her identity... it vanished back into the depths of collective consciousness that now ruled her form."
         },
         {
           "id": 48,
           "paragraph_id": 20,
-          "text": "The flicker of recognition, of individuality, of the Eon that had existed before THE Entity consumed her identity... it vanished back into the depths of collective consciousness that now ruled her form."
+          "text": "THE Primordial Paradox looked at the scene and shook his head with disappointment."
         },
         {
           "id": 49,
-          "paragraph_id": 21,
-          "text": "THE Primordial Paradox looked at the scene and shook his head with disappointment."
+          "paragraph_id": 20,
+          "text": "He sighed with the weariness of someone who had watched countless beings fail to heed wisdom that could have saved them."
         },
         {
           "id": 50,
           "paragraph_id": 21,
-          "text": "He sighed with the weariness of someone who had watched countless beings fail to heed wisdom that could have saved them."
+          "text": "\"I came to test things out and see the extent of how far you’ve grown."
         },
         {
           "id": 51,
-          "paragraph_id": 22,
-          "text": "\"I came to test things out and see the extent of how far you’ve grown."
+          "paragraph_id": 21,
+          "text": "You cannot possibly stop me from leaving, as we...were paradoxically here and never here.\""
         },
         {
           "id": 52,
           "paragraph_id": 22,
-          "text": "You cannot possibly stop me from leaving, as we...were paradoxically here and never here.\""
+          "text": "...!"
         },
         {
           "id": 53,
           "paragraph_id": 23,
-          "text": "...!"
+          "text": "The eyes of THE Secretive Eon became somber as understanding dawned across her features."
         },
         {
           "id": 54,
-          "paragraph_id": 24,
-          "text": "The eyes of THE Secretive Eon became somber as understanding dawned across her features."
+          "paragraph_id": 23,
+          "text": "She raised her hand, authority gathering around her fingers as she prepared to do something, to prevent their departure, to trap them within THE Stoa of Dogmata where her converted constructs could eventually wear down even their defenses."
         },
         {
           "id": 55,
           "paragraph_id": 24,
-          "text": "She raised her hand, authority gathering around her fingers as she prepared to do something, to prevent their departure, to trap them within THE Stoa of Dogmata where her converted constructs could eventually wear down even their defenses."
+          "text": "But before she could do anything..."
         },
         {
           "id": 56,
           "paragraph_id": 25,
-          "text": "But before she could do anything..."
+          "text": "WAP!"
         },
         {
           "id": 57,
           "paragraph_id": 26,
-          "text": "WAP!"
-        },
-        {
-          "id": 58,
-          "paragraph_id": 27,
           "text": "The figures of Noah and THE Primordial Paradox disappeared as if truly they may have never been there to begin with."
         },
         {
-          "id": 59,
-          "paragraph_id": 27,
+          "id": 58,
+          "paragraph_id": 26,
           "text": "Paradoxically!"
+        },
+        {
+          "id": 59,
+          "paragraph_id": 26,
+          "text": "Their presence and absence existed simultaneously, and THE Entity could not trap what had never definitively arrived."
         },
         {
           "id": 60,
           "paragraph_id": 27,
-          "text": "Their presence and absence existed simultaneously, and THE Entity could not trap what had never definitively arrived."
+          "text": "Even the terrifying sea of Paradox that she had commandeered tried to fade away alongside its creator’s departure, but this one she had already gained control of."
         },
         {
           "id": 61,
-          "paragraph_id": 28,
-          "text": "Even the terrifying sea of Paradox that she had commandeered tried to fade away alongside its creator’s departure, but this one she had already gained control of."
+          "paragraph_id": 27,
+          "text": "After a brief moment of flickering between existence and non-existence, it stayed, becoming a permanent addition to her arsenal rather than a temporary manifestation."
         },
         {
           "id": 62,
           "paragraph_id": 28,
-          "text": "After a brief moment of flickering between existence and non-existence, it stayed, becoming a permanent addition to her arsenal rather than a temporary manifestation."
+          "text": "And while surrounded by glory and Immensity that had just grown through THE Primordial Paradox’s inadvertent contribution, THE Secretive Eon turned her head slowly."
         },
         {
           "id": 63,
           "paragraph_id": 29,
-          "text": "And while surrounded by glory and Immensity that had just grown through THE Primordial Paradox’s inadvertent contribution, THE Secretive Eon turned her head slowly."
+          "text": "She looked toward the direction of THE Agora of Primordial Judgment with eyes that held patience accumulated across eons."
         },
         {
           "id": 64,
           "paragraph_id": 30,
-          "text": "She looked toward the direction of THE Agora of Primordial Judgment with eyes that held patience accumulated across eons."
+          "text": "She could wait."
         },
         {
           "id": 65,
           "paragraph_id": 31,
-          "text": "She could wait."
+          "text": "She had always been good at waiting."
         },
         {
           "id": 66,
           "paragraph_id": 32,
-          "text": "She had always been good at waiting."
+          "text": "And even while she waited, many parts of her moved."
         },
         {
           "id": 67,
           "paragraph_id": 33,
-          "text": "And even while she waited, many parts of her moved."
+          "text": "Noah returned to THE Shores of Kleos inside THE Agora of Primordial Judgment with THE Primordial Paradox beside him, his expression still holding the frown that had formed during their encounter with THE Entity."
         },
         {
           "id": 68,
           "paragraph_id": 34,
-          "text": "---"
+          "text": "First he needed to let THE Primordial Chaos know not to send any bombardment of attacks toward THE Secretive Eon, as they could very well be absorbed and simply turned against them."
         },
         {
           "id": 69,
           "paragraph_id": 35,
-          "text": "Noah returned to THE Shores of Kleos inside THE Agora of Primordial Judgment with THE Primordial Paradox beside him, his expression still holding the frown that had formed during their encounter with THE Entity."
+          "text": "And when he thought about this monstrous entity themselves, about the implications of what they had witnessed and what it meant for any future confrontation... he turned to THE Primordial Paradox."
         },
         {
           "id": 70,
           "paragraph_id": 36,
-          "text": "First he needed to let THE Primordial Chaos know not to send any bombardment of attacks toward THE Secretive Eon, as they could very well be absorbed and simply turned against them."
+          "text": "\"Tell me there is some form of solution that you had after being partly taken over by that thing all those eons ago.\""
         },
         {
           "id": 71,
           "paragraph_id": 37,
-          "text": "And when he thought about this monstrous entity themselves, about the implications of what they had witnessed and what it meant for any future confrontation... he turned to THE Primordial Paradox."
-        },
-        {
-          "id": 72,
-          "paragraph_id": 38,
-          "text": "\"Tell me there is some form of solution that you had after being partly taken over by that thing all those eons ago.\""
-        },
-        {
-          "id": 73,
-          "paragraph_id": 39,
           "text": "THE Primordial Paradox turned to him as it seemed like he was thinking of something else, distant thoughts occupying his mind before Noah’s words broke his concentration."
         },
         {
-          "id": 74,
-          "paragraph_id": 39,
+          "id": 72,
+          "paragraph_id": 37,
           "text": "He looked at Noah and nodded calmly as he began to speak."
         },
         {
-          "id": 75,
-          "paragraph_id": 40,
+          "id": 73,
+          "paragraph_id": 38,
           "text": "\"The solution actually lies with my disciple."
         },
         {
-          "id": 76,
-          "paragraph_id": 40,
+          "id": 74,
+          "paragraph_id": 38,
           "text": "After all, Erwin knows the exact origins of THE Entity."
         },
         {
-          "id": 77,
-          "paragraph_id": 40,
+          "id": 75,
+          "paragraph_id": 38,
           "text": "He knows how he utilized it to achieve his ends."
         },
         {
-          "id": 78,
-          "paragraph_id": 40,
+          "id": 76,
+          "paragraph_id": 38,
           "text": "He knows how he took over my Claim with it and yet kept it at bay when it should have consumed him as thoroughly as it consumed Eon."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 38,
+          "text": "And he knows why it has emerged now, after all these eons of remaining dormant.\""
+        },
+        {
+          "id": 78,
+          "paragraph_id": 39,
+          "text": "He paused."
         },
         {
           "id": 79,
           "paragraph_id": 40,
-          "text": "And he knows why it has emerged now, after all these eons of remaining dormant.\""
-        },
-        {
-          "id": 80,
-          "paragraph_id": 41,
-          "text": "He paused."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 42,
           "text": "\"The first answer to taking care of THE Entity lies within THE Living Paradox."
         },
         {
-          "id": 82,
-          "paragraph_id": 42,
+          "id": 80,
+          "paragraph_id": 40,
           "text": "We extract that knowledge from him, willingly or otherwise, and we gain understanding that no one else in Observable Existence currently possesses."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 40,
+          "text": "Easy, yes?\""
+        },
+        {
+          "id": 82,
+          "paragraph_id": 41,
+          "text": "His smile was thin and knowing."
         },
         {
           "id": 83,
           "paragraph_id": 42,
-          "text": "Easy, yes?\""
+          "text": "\"Of course, extracting anything from my disciple will require subduing him first."
         },
         {
           "id": 84,
-          "paragraph_id": 43,
-          "text": "His smile was thin and knowing."
+          "paragraph_id": 42,
+          "text": "So while this remains the most direct path to understanding our enemy, it is not a path we can walk immediately.\""
         },
         {
           "id": 85,
-          "paragraph_id": 44,
-          "text": "\"Of course, extracting anything from my disciple will require subduing him first."
+          "paragraph_id": 43,
+          "text": "...!"
         },
         {
           "id": 86,
           "paragraph_id": 44,
-          "text": "So while this remains the most direct path to understanding our enemy, it is not a path we can walk immediately.\""
+          "text": "THE Primordial Paradox continued, his voice shifting to something more contemplative."
         },
         {
           "id": 87,
           "paragraph_id": 45,
-          "text": "...!"
-        },
-        {
-          "id": 88,
-          "paragraph_id": 46,
-          "text": "THE Primordial Paradox continued, his voice shifting to something more contemplative."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 47,
           "text": "\"The nature of the problem we face here is a unique one."
         },
         {
-          "id": 90,
-          "paragraph_id": 47,
+          "id": 88,
+          "paragraph_id": 45,
           "text": "Collapsing THE Entity does not work."
         },
         {
-          "id": 91,
-          "paragraph_id": 47,
+          "id": 89,
+          "paragraph_id": 45,
           "text": "I learned this the hard way."
         },
         {
-          "id": 92,
-          "paragraph_id": 47,
+          "id": 90,
+          "paragraph_id": 45,
           "text": "Undifferentiating THE Entity may not work either, as undifferentiation is already its fundamental nature."
         },
         {
-          "id": 93,
-          "paragraph_id": 47,
+          "id": 91,
+          "paragraph_id": 45,
           "text": "It exists as a force of existential homogenization, and returning it to proto-state may simply be returning it to its preferred form of being."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 45,
+          "text": "Conventional methodologies fail because this is not a conventional threat.\""
+        },
+        {
+          "id": 93,
+          "paragraph_id": 46,
+          "text": "He began to pace slowly."
         },
         {
           "id": 94,
           "paragraph_id": 47,
-          "text": "Conventional methodologies fail because this is not a conventional threat.\""
-        },
-        {
-          "id": 95,
-          "paragraph_id": 48,
-          "text": "He began to pace slowly."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 49,
           "text": "\"This brings us to the second possible answer against THE Entity."
         },
         {
-          "id": 97,
-          "paragraph_id": 49,
+          "id": 95,
+          "paragraph_id": 47,
           "text": "I have spent considerable time contemplating unconventional solutions, turning the problem over in my mind across eons of imprisonment within THE Antinomia Prismatica."
+        },
+        {
+          "id": 96,
+          "paragraph_id": 47,
+          "text": "And the one that has won... is THE Existential Severance.\""
+        },
+        {
+          "id": 97,
+          "paragraph_id": 48,
+          "text": "His voice grew heavier."
         },
         {
           "id": 98,
           "paragraph_id": 49,
-          "text": "And the one that has won... is THE Existential Severance.\""
-        },
-        {
-          "id": 99,
-          "paragraph_id": 50,
-          "text": "His voice grew heavier."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 51,
           "text": "\"The principle is elegant in its cruelty."
         },
         {
-          "id": 101,
-          "paragraph_id": 51,
+          "id": 99,
+          "paragraph_id": 49,
           "text": "Destruction removes a being from existence."
         },
         {
-          "id": 102,
-          "paragraph_id": 51,
+          "id": 100,
+          "paragraph_id": 49,
           "text": "Undifferentiation returns a being to formlessness."
         },
         {
-          "id": 103,
-          "paragraph_id": 51,
+          "id": 101,
+          "paragraph_id": 49,
           "text": "But THE Existential Severance does neither."
         },
         {
-          "id": 104,
-          "paragraph_id": 51,
+          "id": 102,
+          "paragraph_id": 49,
           "text": "It allows the being to remain exactly as they are, conscious and aware and present."
         },
         {
-          "id": 105,
-          "paragraph_id": 51,
+          "id": 103,
+          "paragraph_id": 49,
           "text": "What it removes is everything else."
         },
         {
-          "id": 106,
-          "paragraph_id": 51,
+          "id": 104,
+          "paragraph_id": 49,
           "text": "Their Definition and Undefinition."
         },
         {
-          "id": 107,
-          "paragraph_id": 51,
+          "id": 105,
+          "paragraph_id": 49,
           "text": "Their Existence as a significant entity."
         },
         {
-          "id": 108,
-          "paragraph_id": 51,
+          "id": 106,
+          "paragraph_id": 49,
           "text": "Their Depth."
         },
         {
-          "id": 109,
-          "paragraph_id": 51,
+          "id": 107,
+          "paragraph_id": 49,
           "text": "Their achievements."
         },
         {
-          "id": 110,
-          "paragraph_id": 51,
+          "id": 108,
+          "paragraph_id": 49,
           "text": "Their accomplishments."
         },
         {
-          "id": 111,
-          "paragraph_id": 51,
+          "id": 109,
+          "paragraph_id": 49,
           "text": "Every single thing they have ever done that distinguished them from absolute insignificance.\""
         },
         {
-          "id": 112,
-          "paragraph_id": 52,
+          "id": 110,
+          "paragraph_id": 50,
           "text": "\"Existence itself forgets that they ever mattered."
         },
         {
-          "id": 113,
-          "paragraph_id": 52,
+          "id": 111,
+          "paragraph_id": 50,
           "text": "The record of their significance is erased so completely that reality no longer acknowledges they were ever anything but nothing."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 50,
+          "text": "Everything in Observable Existence would even forget about them, or whether they even existed at all.\""
+        },
+        {
+          "id": 113,
+          "paragraph_id": 51,
+          "text": "His eyes met Noah’s."
         },
         {
           "id": 114,
           "paragraph_id": 52,
-          "text": "Everything in Observable Existence would even forget about them, or whether they even existed at all.\""
-        },
-        {
-          "id": 115,
-          "paragraph_id": 53,
-          "text": "His eyes met Noah’s."
-        },
-        {
-          "id": 116,
-          "paragraph_id": 54,
           "text": "\"The being persists, you understand."
         },
         {
-          "id": 117,
-          "paragraph_id": 54,
+          "id": 115,
+          "paragraph_id": 52,
           "text": "They continue to exist."
         },
         {
-          "id": 118,
-          "paragraph_id": 54,
+          "id": 116,
+          "paragraph_id": 52,
           "text": "They continue to think."
         },
         {
-          "id": 119,
-          "paragraph_id": 54,
+          "id": 117,
+          "paragraph_id": 52,
           "text": "They continue to have awareness of themselves and their surroundings."
         },
         {
-          "id": 120,
-          "paragraph_id": 54,
+          "id": 118,
+          "paragraph_id": 52,
           "text": "But they possess no authority whatsoever."
         },
         {
-          "id": 121,
-          "paragraph_id": 54,
+          "id": 119,
+          "paragraph_id": 52,
           "text": "No Definition or Undefinition."
         },
         {
-          "id": 122,
-          "paragraph_id": 54,
+          "id": 120,
+          "paragraph_id": 52,
           "text": "No Civilization."
         },
         {
-          "id": 123,
-          "paragraph_id": 54,
+          "id": 121,
+          "paragraph_id": 52,
           "text": "No foundation."
         },
         {
-          "id": 124,
-          "paragraph_id": 54,
+          "id": 122,
+          "paragraph_id": 52,
           "text": "No weight."
         },
         {
-          "id": 125,
-          "paragraph_id": 54,
+          "id": 123,
+          "paragraph_id": 52,
           "text": "They become entities of pure presence without any capacity to affect anything around them."
         },
         {
-          "id": 126,
-          "paragraph_id": 54,
+          "id": 124,
+          "paragraph_id": 52,
           "text": "Less than the weakest mortal, because even the weakest mortal has potential for growth."
         },
         {
-          "id": 127,
-          "paragraph_id": 54,
+          "id": 125,
+          "paragraph_id": 52,
           "text": "Those who have been subjected to THE Existential Severance have had their potential erased alongside everything else.\""
         },
         {
-          "id": 128,
-          "paragraph_id": 55,
+          "id": 126,
+          "paragraph_id": 53,
           "text": "\"And everything that the target possessed, everything they accomplished, everything they represented and built across their entire existence... it does not simply disappear."
         },
         {
-          "id": 129,
-          "paragraph_id": 55,
+          "id": 127,
+          "paragraph_id": 53,
           "text": "It transfers."
         },
         {
-          "id": 130,
-          "paragraph_id": 55,
+          "id": 128,
+          "paragraph_id": 53,
           "text": "It flows to the one who performed THE Existential Severance upon them."
         },
         {
-          "id": 131,
-          "paragraph_id": 55,
+          "id": 129,
+          "paragraph_id": 53,
           "text": "Their eons of accumulation become fuel for another’s advancement."
         },
         {
-          "id": 132,
-          "paragraph_id": 55,
+          "id": 130,
+          "paragraph_id": 53,
           "text": "Their foundations become stones in another’s edifice."
+        },
+        {
+          "id": 131,
+          "paragraph_id": 53,
+          "text": "Their authority becomes another’s authority.\""
+        },
+        {
+          "id": 132,
+          "paragraph_id": 54,
+          "text": "He spread his hands."
         },
         {
           "id": 133,
           "paragraph_id": 55,
-          "text": "Their authority becomes another’s authority.\""
-        },
-        {
-          "id": 134,
-          "paragraph_id": 56,
-          "text": "He spread his hands."
-        },
-        {
-          "id": 135,
-          "paragraph_id": 57,
           "text": "\"The only thing negative about this is that this capability requires proximity to THE Second Scale of Existence, or attaining that Scale yourself."
         },
         {
-          "id": 136,
-          "paragraph_id": 57,
+          "id": 134,
+          "paragraph_id": 55,
           "text": "Among those currently in Observable Existence... hmm, maybe THE Creature may be able to do it.\""
         },
         {
-          "id": 137,
-          "paragraph_id": 58,
+          "id": 135,
+          "paragraph_id": 56,
           "text": "The words were ridiculous in their implications, presenting a solution that was simultaneously perfect and currently impossible to execute."
+        },
+        {
+          "id": 136,
+          "paragraph_id": 56,
+          "text": "Noah opened his mouth to respond, to ask more questions about this capability and what it would take to develop it, but before he could reply..."
+        },
+        {
+          "id": 137,
+          "paragraph_id": 57,
+          "text": "\"Sir... sirs!\""
         },
         {
           "id": 138,
           "paragraph_id": 58,
-          "text": "Noah opened his mouth to respond, to ask more questions about this capability and what it would take to develop it, but before he could reply..."
-        },
-        {
-          "id": 139,
-          "paragraph_id": 59,
-          "text": "\"Sir... sirs!\""
-        },
-        {
-          "id": 140,
-          "paragraph_id": 60,
           "text": "The figure of Paradoxos appeared in the distance, his massive dual-faced form rushing toward them."
         },
         {
-          "id": 141,
-          "paragraph_id": 60,
+          "id": 139,
+          "paragraph_id": 58,
           "text": "His gaze seemed ashen as he came to float meters away from them, his earlier submission to THE Primordial Paradox seemingly forgotten in the face of whatever had driven him to seek them out."
         },
         {
-          "id": 142,
-          "paragraph_id": 61,
+          "id": 140,
+          "paragraph_id": 59,
           "text": "\"Something is happening to the Crack of Observable Existence."
         },
         {
-          "id": 143,
-          "paragraph_id": 61,
+          "id": 141,
+          "paragraph_id": 59,
           "text": "Something is happening with THE Prima Indifferentia!\""
         },
         {
-          "id": 144,
-          "paragraph_id": 62,
+          "id": 142,
+          "paragraph_id": 60,
           "text": "...!"
         }
       ],
-      "word_count": 1863
+      "word_count": 1861
     },
     {
       "chapter_index": 4899,
@@ -10914,7 +10884,6 @@
         "Something was happening to the Crack of Observable Existence in THE Agora of Primordial Judgment. Something was happening to THE Prima Indifferentia.",
         "This alone by itself was astounding enough as it made Noah and THE Primordial Paradox frown before they moved with Paradoxos. The three of them traversed THE Agora with speed that made the space between locations meaningless, racing toward the region where THE Acropolis held the ancient fracture that connected Observable Existence to what lay beyond it.",
         "It was a change, and like any changes, sometimes they occurred across existence without warning or explanation. But changes involving THE Prima Indifferentia were never minor, and changes involving Cracks of Observable Existence were never safe.",
-        "---",
         "In THE Wastes of THE Fallout, another body of Noah was with THE Fisherman, Ains, and his very good dog, Skoll, as he had been discussing a few things with THE Great Usurper.",
         "Eckert had a very complex expression as if he had developed a unique skill for himself and another person now seemed to be using the same skill and utilizing it so much more complexly and better than he was. He looked like a man in his prime, similar to Noah, even though the memories and ages of countless things whose existences he had usurped flowed within his eyes. The weight of accumulated identities pressed against his features as he processed everything Noah had shared about THE Entity and its potential origins.",
         "But eventually, after learning all he could from Noah regarding THE Entity and its capabilities, he said something that surprised Noah.",
@@ -10940,7 +10909,6 @@
         "Noah moved right away.",
         "His hand erupted with a light of Infinities and undifferentiation that proceeded to wrap around THE Great Usurper with protective force that rejected the proto-matter’s assault. Vibrant Absolute Seals released from him as they also wrapped around Ains and Skoll, creating bubbles of defined existence that the flooding undifferentiation couldn’t penetrate!",
         "Change...was happening in many places.",
-        "---",
         "Across THE Wastes in an entirely different direction, there was the silent and small miniaturized Infiniverse itself, which now housed a complete Primordial Realm within its structure. Muspelheim burned at the heart of Noah’s domain, its crimson-blue stellar fires fueling growth that exceeded what any territories could achieve.",
         "At the very center of this grand home of THE Genesis Monarch, a humanoid manifestation of THE Infiniverse was floating in a terrifying region of utmost Immensity and glory.",
         "This region held extremely concentrated and pure Civilizational Authority that would have crushed any being who entered without Noah’s explicit blessing. Boundless seas of Infinite Seals of Absolute Tongue permeated all around, mixing with each other in configurations that produced multicolored light spanning every spectrum that existence could perceive. The Seals of Fire wove through Seals of Darkness, which intertwined with Seals of Chaos, which merged with Seals of Unity, creating patterns of authority so dense that space itself bent around them.",
@@ -10961,7 +10929,6 @@
         "The terrifying scenes that threatened to spill out across all of THE Infiniverse instantly became contained, caught by barriers that she manifested with speed born of glory and determination.",
         "And then, with control that exceeded what the attacker had anticipated, she began funneling the corrupted proto-matter into the singularity she had been building this whole time. If they wanted to send her undifferentiation, she would take it. She would add it to her project. She would turn their attack into fuel for her master’s advancement.",
         "Change was blooming here as well.",
-        "---",
         "In Alfheimr, above a certain mountain where THE Creature resided, a crack tore through the twilight with violence that made the Primordial Realm itself tremble.",
         "In Helheim, fractures bloomed across the frozen landscapes like wounds that bled proto-matter rather than blood.",
         "In Vanaheimr, the realm of nature and growth, cracks formed among the ancient forests with corruption that began dissolving trees that had existed since THE Infinite Unfurling.",
@@ -11003,465 +10970,450 @@
         {
           "id": 6,
           "paragraph_id": 3,
-          "text": "---"
+          "text": "In THE Wastes of THE Fallout, another body of Noah was with THE Fisherman, Ains, and his very good dog, Skoll, as he had been discussing a few things with THE Great Usurper."
         },
         {
           "id": 7,
           "paragraph_id": 4,
-          "text": "In THE Wastes of THE Fallout, another body of Noah was with THE Fisherman, Ains, and his very good dog, Skoll, as he had been discussing a few things with THE Great Usurper."
-        },
-        {
-          "id": 8,
-          "paragraph_id": 5,
           "text": "Eckert had a very complex expression as if he had developed a unique skill for himself and another person now seemed to be using the same skill and utilizing it so much more complexly and better than he was."
         },
         {
-          "id": 9,
-          "paragraph_id": 5,
+          "id": 8,
+          "paragraph_id": 4,
           "text": "He looked like a man in his prime, similar to Noah, even though the memories and ages of countless things whose existences he had usurped flowed within his eyes."
+        },
+        {
+          "id": 9,
+          "paragraph_id": 4,
+          "text": "The weight of accumulated identities pressed against his features as he processed everything Noah had shared about THE Entity and its potential origins."
         },
         {
           "id": 10,
           "paragraph_id": 5,
-          "text": "The weight of accumulated identities pressed against his features as he processed everything Noah had shared about THE Entity and its potential origins."
+          "text": "But eventually, after learning all he could from Noah regarding THE Entity and its capabilities, he said something that surprised Noah."
         },
         {
           "id": 11,
           "paragraph_id": 6,
-          "text": "But eventually, after learning all he could from Noah regarding THE Entity and its capabilities, he said something that surprised Noah."
+          "text": "He leaned forward with eyes that held the cunning of someone who had survived by understanding how predators thought."
         },
         {
           "id": 12,
           "paragraph_id": 7,
-          "text": "He leaned forward with eyes that held the cunning of someone who had survived by understanding how predators thought."
-        },
-        {
-          "id": 13,
-          "paragraph_id": 8,
           "text": "\"My greatest fear has always been that I would one day attempt to usurp the mind of something utterly terrifying that I did not understand."
         },
         {
-          "id": 14,
-          "paragraph_id": 8,
+          "id": 13,
+          "paragraph_id": 7,
           "text": "Something that, upon feeling my connection establish itself, would choose to self-destruct rather than be taken."
         },
         {
-          "id": 15,
-          "paragraph_id": 8,
+          "id": 14,
+          "paragraph_id": 7,
           "text": "Something capable enough to recognize what was happening and destroy both itself and me through the very link I had created to consume it."
         },
         {
-          "id": 16,
-          "paragraph_id": 8,
+          "id": 15,
+          "paragraph_id": 7,
           "text": "The connection that allows me to devour works in both directions, you see."
+        },
+        {
+          "id": 16,
+          "paragraph_id": 7,
+          "text": "What I reach toward can reach back toward me.\""
         },
         {
           "id": 17,
           "paragraph_id": 8,
-          "text": "What I reach toward can reach back toward me.\""
+          "text": "His smile was thin and knowing."
         },
         {
           "id": 18,
           "paragraph_id": 9,
-          "text": "His smile was thin and knowing."
-        },
-        {
-          "id": 19,
-          "paragraph_id": 10,
           "text": "\"If you trust yourself enough, if your Infinities are truly as protective as you believe them to be, then a potential solution presents itself."
         },
         {
-          "id": 20,
-          "paragraph_id": 10,
+          "id": 19,
+          "paragraph_id": 9,
           "text": "Allow yourself to be infected by THE Entity."
         },
         {
-          "id": 21,
-          "paragraph_id": 10,
+          "id": 20,
+          "paragraph_id": 9,
           "text": "Establish that connection deliberately rather than accidentally."
         },
         {
-          "id": 22,
-          "paragraph_id": 10,
+          "id": 21,
+          "paragraph_id": 9,
           "text": "And then, once the link exists, destroy it from within."
         },
         {
-          "id": 23,
-          "paragraph_id": 10,
+          "id": 22,
+          "paragraph_id": 9,
           "text": "Your Infinite nature should prevent the infection from actually taking hold, but the connection would still exist."
         },
         {
-          "id": 24,
-          "paragraph_id": 10,
+          "id": 23,
+          "paragraph_id": 9,
           "text": "You would be inside it while it failed to get inside you."
         },
         {
-          "id": 25,
-          "paragraph_id": 10,
+          "id": 24,
+          "paragraph_id": 9,
           "text": "From that position, what could you not accomplish?"
         },
         {
-          "id": 26,
-          "paragraph_id": 10,
+          "id": 25,
+          "paragraph_id": 9,
           "text": "What vulnerabilities could you not identify?"
+        },
+        {
+          "id": 26,
+          "paragraph_id": 9,
+          "text": "What weaknesses could you not exploit?\""
         },
         {
           "id": 27,
           "paragraph_id": 10,
-          "text": "What weaknesses could you not exploit?\""
+          "text": "He spread his hands."
         },
         {
           "id": 28,
           "paragraph_id": 11,
-          "text": "He spread his hands."
-        },
-        {
-          "id": 29,
-          "paragraph_id": 12,
           "text": "\"This is merely a thought from someone who has spent his existence understanding how connections between minds can be manipulated."
         },
         {
-          "id": 30,
-          "paragraph_id": 12,
+          "id": 29,
+          "paragraph_id": 11,
           "text": "THE Entity believes its infection is a one-way process, but no process is truly one-way."
         },
         {
-          "id": 31,
-          "paragraph_id": 12,
+          "id": 30,
+          "paragraph_id": 11,
           "text": "Every link carries traffic in both directions, even if one direction carries more than the other."
         },
         {
-          "id": 32,
-          "paragraph_id": 12,
+          "id": 31,
+          "paragraph_id": 11,
           "text": "If you can establish a connection without being consumed by it, you gain access to everything THE Entity is while it gains access to nothing that you are."
+        },
+        {
+          "id": 32,
+          "paragraph_id": 11,
+          "text": "The hunter becomes the hunted without ever realizing the reversal has occurred.\""
         },
         {
           "id": 33,
           "paragraph_id": 12,
-          "text": "The hunter becomes the hunted without ever realizing the reversal has occurred.\""
+          "text": "...!"
         },
         {
           "id": 34,
           "paragraph_id": 13,
-          "text": "...!"
+          "text": "This was a proposed solution given by THE Great Usurper, and Noah couldn’t help but frown at the audacity of it."
         },
         {
           "id": 35,
-          "paragraph_id": 14,
-          "text": "This was a proposed solution given by THE Great Usurper, and Noah couldn’t help but frown at the audacity of it."
+          "paragraph_id": 13,
+          "text": "Deliberately allowing THE Entity to infect him was...well, it was something!"
         },
         {
           "id": 36,
           "paragraph_id": 14,
-          "text": "Deliberately allowing THE Entity to infect him was...well, it was something!"
+          "text": "And yet the logic was sound in its own twisted way."
         },
         {
           "id": 37,
           "paragraph_id": 15,
-          "text": "And yet the logic was sound in its own twisted way."
+          "text": "But at this time..."
         },
         {
           "id": 38,
           "paragraph_id": 16,
-          "text": "But at this time..."
+          "text": "\"Woof!\""
         },
         {
           "id": 39,
           "paragraph_id": 17,
-          "text": "\"Woof!\""
+          "text": "Skoll’s tail began to wag as he looked around with ears perked and eyes alert, as if there was something he sensed that nobody else could perceive."
         },
         {
           "id": 40,
           "paragraph_id": 18,
-          "text": "Skoll’s tail began to wag as he looked around with ears perked and eyes alert, as if there was something he sensed that nobody else could perceive."
+          "text": "In the next moment..."
         },
         {
           "id": 41,
           "paragraph_id": 19,
-          "text": "In the next moment..."
+          "text": "BOOM!"
         },
         {
           "id": 42,
           "paragraph_id": 20,
-          "text": "BOOM!"
+          "text": "It felt like existence split in half!"
         },
         {
           "id": 43,
           "paragraph_id": 21,
-          "text": "It felt like existence split in half!"
+          "text": "THE Great Usurper’s face became ashen as he felt something happening in the distant region where his existence had come from, where he had already covered his idle existence over the landscapes of THE Wastes where the Axiom he had fused into remained."
         },
         {
           "id": 44,
           "paragraph_id": 22,
-          "text": "THE Great Usurper’s face became ashen as he felt something happening in the distant region where his existence had come from, where he had already covered his idle existence over the landscapes of THE Wastes where the Axiom he had fused into remained."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 23,
           "text": "In that distant region, a terrifying crack formed in the fabric of reality itself."
         },
         {
-          "id": 46,
-          "paragraph_id": 23,
+          "id": 45,
+          "paragraph_id": 22,
           "text": "The fracture tore through space like a wound that refused to close, its edges burning with light that belonged to no part of Observable Existence."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 22,
+          "text": "And from within that crack, roiling and billowing seas of proto-matter began to churn with violence that exceeded anything THE Wastes had witnessed before!"
         },
         {
           "id": 47,
           "paragraph_id": 23,
-          "text": "And from within that crack, roiling and billowing seas of proto-matter began to churn with violence that exceeded anything THE Wastes had witnessed before!"
+          "text": "The proto-matter spilled out across THE Wastes like an ocean breaching a dam, undifferentiated potential flooding into differentiated reality with force that began dissolving everything it touched."
         },
         {
           "id": 48,
-          "paragraph_id": 24,
-          "text": "The proto-matter spilled out across THE Wastes like an ocean breaching a dam, undifferentiated potential flooding into differentiated reality with force that began dissolving everything it touched."
+          "paragraph_id": 23,
+          "text": "THE Great Usurper’s territories, the landscapes he had claimed and converted into extensions of his existence, started coming apart at the seams."
         },
         {
           "id": 49,
           "paragraph_id": 24,
-          "text": "THE Great Usurper’s territories, the landscapes he had claimed and converted into extensions of his existence, started coming apart at the seams."
+          "text": "Instantly, THE Great Usurper’s body began to dissolve as the proto-matter reached across his connections and started pulling him back toward the source of his power."
         },
         {
           "id": 50,
-          "paragraph_id": 25,
-          "text": "Instantly, THE Great Usurper’s body began to dissolve as the proto-matter reached across his connections and started pulling him back toward the source of his power."
+          "paragraph_id": 24,
+          "text": "He gasped with shock, his form flickering between stability and dissolution!"
         },
         {
           "id": 51,
           "paragraph_id": 25,
-          "text": "He gasped with shock, his form flickering between stability and dissolution!"
+          "text": "Noah moved right away."
         },
         {
           "id": 52,
           "paragraph_id": 26,
-          "text": "Noah moved right away."
+          "text": "His hand erupted with a light of Infinities and undifferentiation that proceeded to wrap around THE Great Usurper with protective force that rejected the proto-matter’s assault."
         },
         {
           "id": 53,
-          "paragraph_id": 27,
-          "text": "His hand erupted with a light of Infinities and undifferentiation that proceeded to wrap around THE Great Usurper with protective force that rejected the proto-matter’s assault."
+          "paragraph_id": 26,
+          "text": "Vibrant Absolute Seals released from him as they also wrapped around Ains and Skoll, creating bubbles of defined existence that the flooding undifferentiation couldn’t penetrate!"
         },
         {
           "id": 54,
           "paragraph_id": 27,
-          "text": "Vibrant Absolute Seals released from him as they also wrapped around Ains and Skoll, creating bubbles of defined existence that the flooding undifferentiation couldn’t penetrate!"
+          "text": "Change...was happening in many places."
         },
         {
           "id": 55,
           "paragraph_id": 28,
-          "text": "Change...was happening in many places."
+          "text": "Across THE Wastes in an entirely different direction, there was the silent and small miniaturized Infiniverse itself, which now housed a complete Primordial Realm within its structure."
         },
         {
           "id": 56,
-          "paragraph_id": 29,
-          "text": "---"
+          "paragraph_id": 28,
+          "text": "Muspelheim burned at the heart of Noah’s domain, its crimson-blue stellar fires fueling growth that exceeded what any territories could achieve."
         },
         {
           "id": 57,
-          "paragraph_id": 30,
-          "text": "Across THE Wastes in an entirely different direction, there was the silent and small miniaturized Infiniverse itself, which now housed a complete Primordial Realm within its structure."
+          "paragraph_id": 29,
+          "text": "At the very center of this grand home of THE Genesis Monarch, a humanoid manifestation of THE Infiniverse was floating in a terrifying region of utmost Immensity and glory."
         },
         {
           "id": 58,
           "paragraph_id": 30,
-          "text": "Muspelheim burned at the heart of Noah’s domain, its crimson-blue stellar fires fueling growth that exceeded what any territories could achieve."
-        },
-        {
-          "id": 59,
-          "paragraph_id": 31,
-          "text": "At the very center of this grand home of THE Genesis Monarch, a humanoid manifestation of THE Infiniverse was floating in a terrifying region of utmost Immensity and glory."
-        },
-        {
-          "id": 60,
-          "paragraph_id": 32,
           "text": "This region held extremely concentrated and pure Civilizational Authority that would have crushed any being who entered without Noah’s explicit blessing."
         },
         {
-          "id": 61,
-          "paragraph_id": 32,
+          "id": 59,
+          "paragraph_id": 30,
           "text": "Boundless seas of Infinite Seals of Absolute Tongue permeated all around, mixing with each other in configurations that produced multicolored light spanning every spectrum that existence could perceive."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 30,
+          "text": "The Seals of Fire wove through Seals of Darkness, which intertwined with Seals of Chaos, which merged with Seals of Unity, creating patterns of authority so dense that space itself bent around them."
+        },
+        {
+          "id": 61,
+          "paragraph_id": 31,
+          "text": "The only other being in existence who enjoyed the allure of Noah’s Infinities was THE Infiniverse herself."
         },
         {
           "id": 62,
           "paragraph_id": 32,
-          "text": "The Seals of Fire wove through Seals of Darkness, which intertwined with Seals of Chaos, which merged with Seals of Unity, creating patterns of authority so dense that space itself bent around them."
-        },
-        {
-          "id": 63,
-          "paragraph_id": 33,
-          "text": "The only other being in existence who enjoyed the allure of Noah’s Infinities was THE Infiniverse herself."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 34,
           "text": "This arguably made her one of the most important beings in Observable Existence, even if she forever planned to remain in the shadow of her master."
         },
         {
-          "id": 65,
-          "paragraph_id": 34,
+          "id": 63,
+          "paragraph_id": 32,
           "text": "Because without her master, she was nothing."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 32,
+          "text": "She would still be that floating landmass in the Beast World, a territory without purpose, a domain without direction."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 33,
+          "text": "But with him, she was becoming something unprecedented."
         },
         {
           "id": 66,
           "paragraph_id": 34,
-          "text": "She would still be that floating landmass in the Beast World, a territory without purpose, a domain without direction."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 35,
-          "text": "But with him, she was becoming something unprecedented."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 36,
           "text": "In this domain of extremely concentrated weavings of existence, in the hands of THE Infiniverse, there was a budding singularity that blazed with the light of proto-matter and undifferentiation."
         },
         {
-          "id": 69,
-          "paragraph_id": 36,
+          "id": 67,
+          "paragraph_id": 34,
           "text": "She was currently filling it with the lights of Noah’s Infinities, variations of THE First Tongue permeating all around it as she carefully shaped something that had never been attempted before."
         },
         {
-          "id": 70,
-          "paragraph_id": 37,
+          "id": 68,
+          "paragraph_id": 35,
           "text": "She wanted to form something significant for her master."
         },
         {
-          "id": 71,
-          "paragraph_id": 37,
+          "id": 69,
+          "paragraph_id": 35,
           "text": "Something similar to THE Prima Indifferentia but born from his authority rather than the ancient chaos that predated Observable Existence."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 35,
+          "text": "And as many people as there were who truly did not understand the terrifying true potential and capability that she held, she alone was enough to understand what she was capable of."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 36,
+          "text": "Her immediate goal was something simple for her, something that she termedOperation Infinite Observable Existence."
         },
         {
           "id": 72,
           "paragraph_id": 37,
-          "text": "And as many people as there were who truly did not understand the terrifying true potential and capability that she held, she alone was enough to understand what she was capable of."
+          "text": "And she was not referring to the Observable Existence that everyone knew when she planned this operation."
         },
         {
           "id": 73,
           "paragraph_id": 38,
-          "text": "Her immediate goal was something simple for her, something that she termedOperation Infinite Observable Existence."
+          "text": "So she was proceeding carefully, layer by layer, Seal by Seal, when in the next moment..."
         },
         {
           "id": 74,
           "paragraph_id": 39,
-          "text": "And she was not referring to the Observable Existence that everyone knew when she planned this operation."
+          "text": "BOOM!"
         },
         {
           "id": 75,
           "paragraph_id": 40,
-          "text": "So she was proceeding carefully, layer by layer, Seal by Seal, when in the next moment..."
-        },
-        {
-          "id": 76,
-          "paragraph_id": 41,
-          "text": "BOOM!"
-        },
-        {
-          "id": 77,
-          "paragraph_id": 42,
           "text": "Near the singularity filled with proto-matter, a terrifying crack bloomed as if reality was being torn as if it were a page!"
         },
         {
-          "id": 78,
-          "paragraph_id": 42,
+          "id": 76,
+          "paragraph_id": 40,
           "text": "The fracture expanded with speed that exceeded what should have been possible within the protected confines of THE Infiniverse, its edges burning with corruption."
         },
         {
-          "id": 79,
-          "paragraph_id": 43,
+          "id": 77,
+          "paragraph_id": 41,
           "text": "From this expanding crack, unstable seas of proto-matter filled with a sense of corruption flooded out with force that threatened to overwhelm everything she had been building."
         },
         {
-          "id": 80,
-          "paragraph_id": 43,
+          "id": 78,
+          "paragraph_id": 41,
           "text": "This wasn’t the pure proto-matter of THE Prima Indifferentia."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 41,
+          "text": "This was something tainted, something that carried the signature of THE Fallout within its undifferentiated depths!"
+        },
+        {
+          "id": 80,
+          "paragraph_id": 42,
+          "text": "THE Infiniverse frowned and bellowed out!"
         },
         {
           "id": 81,
           "paragraph_id": 43,
-          "text": "This was something tainted, something that carried the signature of THE Fallout within its undifferentiated depths!"
+          "text": "\"YAAA!\""
         },
         {
           "id": 82,
           "paragraph_id": 44,
-          "text": "THE Infiniverse frowned and bellowed out!"
+          "text": "Her shout was filled with majesty and undeniability shockingly holding the weight of an Embodiment, the full weight of her existence as the domain of THE Genesis Monarch pressing against the invasion with authority that refused to be overwhelmed!"
         },
         {
           "id": 83,
           "paragraph_id": 45,
-          "text": "\"YAAA!\""
+          "text": "The terrifying scenes that threatened to spill out across all of THE Infiniverse instantly became contained, caught by barriers that she manifested with speed born of glory and determination."
         },
         {
           "id": 84,
           "paragraph_id": 46,
-          "text": "Her shout was filled with majesty and undeniability shockingly holding the weight of an Embodiment, the full weight of her existence as the domain of THE Genesis Monarch pressing against the invasion with authority that refused to be overwhelmed!"
-        },
-        {
-          "id": 85,
-          "paragraph_id": 47,
-          "text": "The terrifying scenes that threatened to spill out across all of THE Infiniverse instantly became contained, caught by barriers that she manifested with speed born of glory and determination."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 48,
           "text": "And then, with control that exceeded what the attacker had anticipated, she began funneling the corrupted proto-matter into the singularity she had been building this whole time."
         },
         {
-          "id": 87,
-          "paragraph_id": 48,
+          "id": 85,
+          "paragraph_id": 46,
           "text": "If they wanted to send her undifferentiation, she would take it."
         },
         {
-          "id": 88,
-          "paragraph_id": 48,
+          "id": 86,
+          "paragraph_id": 46,
           "text": "She would add it to her project."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 46,
+          "text": "She would turn their attack into fuel for her master’s advancement."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 47,
+          "text": "Change was blooming here as well."
         },
         {
           "id": 89,
           "paragraph_id": 48,
-          "text": "She would turn their attack into fuel for her master’s advancement."
+          "text": "In Alfheimr, above a certain mountain where THE Creature resided, a crack tore through the twilight with violence that made the Primordial Realm itself tremble."
         },
         {
           "id": 90,
           "paragraph_id": 49,
-          "text": "Change was blooming here as well."
+          "text": "In Helheim, fractures bloomed across the frozen landscapes like wounds that bled proto-matter rather than blood."
         },
         {
           "id": 91,
           "paragraph_id": 50,
-          "text": "---"
+          "text": "In Vanaheimr, the realm of nature and growth, cracks formed among the ancient forests with corruption that began dissolving trees that had existed since THE Infinite Unfurling."
         },
         {
           "id": 92,
           "paragraph_id": 51,
-          "text": "In Alfheimr, above a certain mountain where THE Creature resided, a crack tore through the twilight with violence that made the Primordial Realm itself tremble."
+          "text": "In the space where Muspelheim used to be, before THE Infiniverse absorbed it entirely, reality simply shattered as proto-matter flooded the void with purpose that transcended natural disaster."
         },
         {
           "id": 93,
           "paragraph_id": 52,
-          "text": "In Helheim, fractures bloomed across the frozen landscapes like wounds that bled proto-matter rather than blood."
+          "text": "In many Primordial Realms hidden from Observable Existence, in THE Wandering Territories that drifted between defined spaces, in corrupted Folds that had already been touched by THE Fallout... in every single crevice of Observable Existence, change bloomed."
         },
         {
           "id": 94,
           "paragraph_id": 53,
-          "text": "In Vanaheimr, the realm of nature and growth, cracks formed among the ancient forests with corruption that began dissolving trees that had existed since THE Infinite Unfurling."
-        },
-        {
-          "id": 95,
-          "paragraph_id": 54,
-          "text": "In the space where Muspelheim used to be, before THE Infiniverse absorbed it entirely, reality simply shattered as proto-matter flooded the void with purpose that transcended natural disaster."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 55,
-          "text": "In many Primordial Realms hidden from Observable Existence, in THE Wandering Territories that drifted between defined spaces, in corrupted Folds that had already been touched by THE Fallout... in every single crevice of Observable Existence, change bloomed."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 56,
           "text": "The next phase had begun!"
         }
       ],
-      "word_count": 1687
+      "word_count": 1684
     },
     {
       "chapter_index": 4900,
@@ -11798,7 +11750,6 @@
         "His own Cause!",
         "Though it wouldn’t be the same as THE First Cause, so was THE Living Paradox attempting a Second Cause? Was that what this terrifying change was? An attempt to reshape Observable Existence itself through flooding it with corrupted proto-matter?",
         "If THE Living Paradox succeeded in whatever his final grand design was...it truly was not clear who would be the victor in this eon long war!",
-        "---",
         "At the center of THE Infiniverse, in a realm of concentrated authority that no being but her master could survive, THE Infiniverse worked alone.",
         "Multicolored light suffused everything around her as boundless seas of Infinite Seals of Absolute Tongue swirled and merged and created patterns of power that defied comprehension.",
         "And before her, the crack in reality continued to spew corrupted proto-matter with force that would have overwhelmed any other territory in Observable Existence.",
@@ -12117,210 +12068,205 @@
         {
           "id": 57,
           "paragraph_id": 23,
-          "text": "---"
+          "text": "At the center of THE Infiniverse, in a realm of concentrated authority that no being but her master could survive, THE Infiniverse worked alone."
         },
         {
           "id": 58,
           "paragraph_id": 24,
-          "text": "At the center of THE Infiniverse, in a realm of concentrated authority that no being but her master could survive, THE Infiniverse worked alone."
+          "text": "Multicolored light suffused everything around her as boundless seas of Infinite Seals of Absolute Tongue swirled and merged and created patterns of power that defied comprehension."
         },
         {
           "id": 59,
           "paragraph_id": 25,
-          "text": "Multicolored light suffused everything around her as boundless seas of Infinite Seals of Absolute Tongue swirled and merged and created patterns of power that defied comprehension."
+          "text": "And before her, the crack in reality continued to spew corrupted proto-matter with force that would have overwhelmed any other territory in Observable Existence."
         },
         {
           "id": 60,
           "paragraph_id": 26,
-          "text": "And before her, the crack in reality continued to spew corrupted proto-matter with force that would have overwhelmed any other territory in Observable Existence."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 27,
           "text": "She funneled it into the singularity she had been building, her will pressing against the corruption with authority that refused to acknowledge its threat."
         },
         {
-          "id": 62,
-          "paragraph_id": 27,
+          "id": 61,
+          "paragraph_id": 26,
           "text": "The budding domain at the center of her working consumed the proto-matter greedily, growing denser and more defined with each passing moment."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 26,
+          "text": "What THE Living Paradox had intended as an attack was becoming fuel for her creation."
         },
         {
           "id": 63,
           "paragraph_id": 27,
-          "text": "What THE Living Paradox had intended as an attack was becoming fuel for her creation."
+          "text": "But as she worked, as she directed the endless flood into her forming domain, the words of THE Mnemonic Leviathan echoed through her consciousness."
         },
         {
           "id": 64,
           "paragraph_id": 28,
-          "text": "But as she worked, as she directed the endless flood into her forming domain, the words of THE Mnemonic Leviathan echoed through her consciousness."
+          "text": "\"Ongatala descended into the waters of nothing.\""
         },
         {
           "id": 65,
           "paragraph_id": 29,
-          "text": "\"Ongatala descended into the waters of nothing.\""
+          "text": "She repeated the phrase silently as she continued her work, her hands guiding corrupted proto-matter into channels that led to the singularity."
         },
         {
           "id": 66,
           "paragraph_id": 30,
-          "text": "She repeated the phrase silently as she continued her work, her hands guiding corrupted proto-matter into channels that led to the singularity."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 31,
           "text": "\"Within those waters of nothing, Ongatala scattered soil."
         },
         {
-          "id": 68,
-          "paragraph_id": 31,
+          "id": 67,
+          "paragraph_id": 30,
           "text": "From Ongatala’s own existence."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 30,
+          "text": "From foundations that Ongatala sacrificed in order to create something greater than self-preservation...\""
         },
         {
           "id": 69,
           "paragraph_id": 31,
-          "text": "From foundations that Ongatala sacrificed in order to create something greater than self-preservation...\""
+          "text": "Her movements slowed as the words resonated through her being with weight that demanded attention."
         },
         {
           "id": 70,
           "paragraph_id": 32,
-          "text": "Her movements slowed as the words resonated through her being with weight that demanded attention."
+          "text": "\"Each grain of scattered soil was a piece of Ongatala’s being, distributed across the nothing with intention that demanded reality acknowledge what was being given.\""
         },
         {
           "id": 71,
           "paragraph_id": 33,
-          "text": "\"Each grain of scattered soil was a piece of Ongatala’s being, distributed across the nothing with intention that demanded reality acknowledge what was being given.\""
+          "text": "...!"
         },
         {
           "id": 72,
           "paragraph_id": 34,
-          "text": "...!"
+          "text": "THE Infiniverse stopped."
         },
         {
           "id": 73,
           "paragraph_id": 35,
-          "text": "THE Infiniverse stopped."
-        },
-        {
-          "id": 74,
-          "paragraph_id": 36,
           "text": "Her eyes, which burned with the Infinities of her master, began to shine even brighter as understanding bloomed within her consciousness."
         },
         {
-          "id": 75,
-          "paragraph_id": 36,
+          "id": 74,
+          "paragraph_id": 35,
           "text": "THE Mnemonic Leviathan had said that her weavings reminded her of Ongatala."
+        },
+        {
+          "id": 75,
+          "paragraph_id": 35,
+          "text": "That she was walking a path that echoed across the Scales of Existence."
         },
         {
           "id": 76,
           "paragraph_id": 36,
-          "text": "That she was walking a path that echoed across the Scales of Existence."
+          "text": "But she had not been walking that path fully."
         },
         {
           "id": 77,
           "paragraph_id": 37,
-          "text": "But she had not been walking that path fully."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 38,
           "text": "She had been containing."
         },
         {
-          "id": 79,
-          "paragraph_id": 38,
+          "id": 78,
+          "paragraph_id": 37,
           "text": "She had been directing."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 37,
+          "text": "She had been building a domain within herself, yes, but she had been doing so defensively and reactively."
         },
         {
           "id": 80,
           "paragraph_id": 38,
-          "text": "She had been building a domain within herself, yes, but she had been doing so defensively and reactively."
+          "text": "Ongatala had not merely received the waters of nothing."
         },
         {
           "id": 81,
           "paragraph_id": 39,
-          "text": "Ongatala had not merely received the waters of nothing."
+          "text": "Ongatala had descended into them willingly."
         },
         {
           "id": 82,
           "paragraph_id": 40,
-          "text": "Ongatala had descended into them willingly."
+          "text": "Ongatala had scattered soil with purpose."
         },
         {
           "id": 83,
           "paragraph_id": 41,
-          "text": "Ongatala had scattered soil with purpose."
+          "text": "THE Infiniverse looked at the crack of Observable Existence that had formed within her core, that wound in reality through which corrupted proto-matter continued to surge."
         },
         {
           "id": 84,
-          "paragraph_id": 42,
-          "text": "THE Infiniverse looked at the crack of Observable Existence that had formed within her core, that wound in reality through which corrupted proto-matter continued to surge."
+          "paragraph_id": 41,
+          "text": "It was a violation of her territory, an intrusion that she had been working to minimize and contain."
         },
         {
           "id": 85,
           "paragraph_id": 42,
-          "text": "It was a violation of her territory, an intrusion that she had been working to minimize and contain."
+          "text": "But what if she didn’t minimize it?"
         },
         {
           "id": 86,
           "paragraph_id": 43,
-          "text": "But what if she didn’t minimize it?"
+          "text": "What if she didn’t contain it?"
         },
         {
           "id": 87,
           "paragraph_id": 44,
-          "text": "What if she didn’t contain it?"
+          "text": "What if she made it...bigger?"
         },
         {
           "id": 88,
           "paragraph_id": 45,
-          "text": "What if she made it...bigger?"
-        },
-        {
-          "id": 89,
-          "paragraph_id": 46,
           "text": "Her eyes blazed with light that painted her multicolored realm in shades of blue-gold brilliance as the epiphany crystallized into decision."
         },
         {
-          "id": 90,
-          "paragraph_id": 46,
+          "id": 89,
+          "paragraph_id": 45,
           "text": "She was THE Infiniverse."
         },
         {
-          "id": 91,
-          "paragraph_id": 46,
+          "id": 90,
+          "paragraph_id": 45,
           "text": "She was the domain of THE Genesis Monarch himself."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 45,
+          "text": "She contained a Primordial Realm within her structure alongside Wheel of Existence, Folds, and so much more."
         },
         {
           "id": 92,
           "paragraph_id": 46,
-          "text": "She contained a Primordial Realm within her structure alongside Wheel of Existence, Folds, and so much more."
+          "text": "And her foundations grew alongside her master’s Infinite nature without theoretical ceiling."
         },
         {
           "id": 93,
           "paragraph_id": 47,
-          "text": "And her foundations grew alongside her master’s Infinite nature without theoretical ceiling."
+          "text": "She was not prey to be overwhelmed by corrupted proto-matter."
         },
         {
           "id": 94,
           "paragraph_id": 48,
-          "text": "She was not prey to be overwhelmed by corrupted proto-matter."
+          "text": "She was grand, and she...would scatter her soil across the waters of nothing."
         },
         {
           "id": 95,
           "paragraph_id": 49,
-          "text": "She was grand, and she...would scatter her soil across the waters of nothing."
+          "text": "...!"
         },
         {
           "id": 96,
           "paragraph_id": 50,
-          "text": "...!"
-        },
-        {
-          "id": 97,
-          "paragraph_id": 51,
           "text": "Her figure pulsed with determination."
         }
       ],
-      "word_count": 1207
+      "word_count": 1206
     },
     {
       "chapter_index": 4902,
@@ -12354,7 +12300,6 @@
         "Everywhere the proto-matter spread, Infinite Seals would spread alongside it. Everywhere the undifferentiation touched, the blue-gold light of THE Genesis Monarch would touch as well.",
         "If THE Living Paradox wanted to reshape Observable Existence through flooding it with proto-matter, then THE Infiniverse would ensure that what emerged from that reshaping...they would have a large piece of the pie.",
         "She continued to scatter her soil, continued to release Infinite Seals into the surging seas, continued to transform corruption into conquest with unfathomable immensity!",
-        "---",
         "Far from the wonders and actions of THE Infiniverse.",
         "In THE Agora of Primordial Judgment, Noah and THE Primordial Paradox arrived before the expanded Crack of Observable Existence with speed that made distance meaningless.",
         "What they witnessed was chaos unlike anything THE Agora had experienced in its entire history.",
@@ -12564,195 +12509,190 @@
         {
           "id": 36,
           "paragraph_id": 27,
-          "text": "---"
+          "text": "Far from the wonders and actions of THE Infiniverse."
         },
         {
           "id": 37,
           "paragraph_id": 28,
-          "text": "Far from the wonders and actions of THE Infiniverse."
+          "text": "In THE Agora of Primordial Judgment, Noah and THE Primordial Paradox arrived before the expanded Crack of Observable Existence with speed that made distance meaningless."
         },
         {
           "id": 38,
           "paragraph_id": 29,
-          "text": "In THE Agora of Primordial Judgment, Noah and THE Primordial Paradox arrived before the expanded Crack of Observable Existence with speed that made distance meaningless."
+          "text": "What they witnessed was chaos unlike anything THE Agora had experienced in its entire history."
         },
         {
           "id": 39,
           "paragraph_id": 30,
-          "text": "What they witnessed was chaos unlike anything THE Agora had experienced in its entire history."
+          "text": "The Crack that had existed peacefully at the heart of THE Acropolis for eons had been torn wider, its edges burning with light that belonged to no part of Observable Existence."
         },
         {
           "id": 40,
-          "paragraph_id": 31,
-          "text": "The Crack that had existed peacefully at the heart of THE Acropolis for eons had been torn wider, its edges burning with light that belonged to no part of Observable Existence."
+          "paragraph_id": 30,
+          "text": "Through that expanded fracture, corrupted proto-matter flooded outward in endless waves that threatened to dissolve everything they touched."
         },
         {
           "id": 41,
           "paragraph_id": 31,
-          "text": "Through that expanded fracture, corrupted proto-matter flooded outward in endless waves that threatened to dissolve everything they touched."
+          "text": "The undifferentiation carried the signature of THE Fallout within its depths, a corruption that went beyond mere formlessness into something actively hostile."
         },
         {
           "id": 42,
           "paragraph_id": 32,
-          "text": "The undifferentiation carried the signature of THE Fallout within its depths, a corruption that went beyond mere formlessness into something actively hostile."
+          "text": "And standing against this tide were the other Strategoi of THE Agora."
         },
         {
           "id": 43,
           "paragraph_id": 33,
-          "text": "And standing against this tide were the other Strategoi of THE Agora."
+          "text": "Glossikos held her position closest to the Crack, her luminous dryad form radiating authority as she attempted to impose definition upon the undifferentiated flood."
         },
         {
           "id": 44,
-          "paragraph_id": 34,
-          "text": "Glossikos held her position closest to the Crack, her luminous dryad form radiating authority as she attempted to impose definition upon the undifferentiated flood."
+          "paragraph_id": 33,
+          "text": "Her voice rang out with Embodiments that declared what the proto-matter was not, trying to negate its spread through sheer linguistic authority."
         },
         {
           "id": 45,
           "paragraph_id": 34,
-          "text": "Her voice rang out with Embodiments that declared what the proto-matter was not, trying to negate its spread through sheer linguistic authority."
-        },
-        {
-          "id": 46,
-          "paragraph_id": 35,
           "text": "Ontikos stood beside her with the calm weight of Existence itself pressing outward from his form."
         },
         {
-          "id": 47,
-          "paragraph_id": 35,
+          "id": 46,
+          "paragraph_id": 34,
           "text": "His methodology was different, attempting to convince the proto-matter that it already existed as something defined rather than something formless."
+        },
+        {
+          "id": 47,
+          "paragraph_id": 34,
+          "text": "The approach should have worked against normal undifferentiation."
         },
         {
           "id": 48,
           "paragraph_id": 35,
-          "text": "The approach should have worked against normal undifferentiation."
+          "text": "It wasn’t working."
         },
         {
           "id": 49,
           "paragraph_id": 36,
-          "text": "It wasn’t working."
+          "text": "Khaotikos flanked their fellow Strategoi, their own authorities adding to the combined effort."
         },
         {
           "id": 50,
           "paragraph_id": 37,
-          "text": "Khaotikos flanked their fellow Strategoi, their own authorities adding to the combined effort."
+          "text": "As soos as Paradoxos arrived back, Paradox wove contradictions into the flood, trying to make the proto-matter uncertain about whether it was differentiated or not."
         },
         {
           "id": 51,
           "paragraph_id": 38,
-          "text": "As soos as Paradoxos arrived back, Paradox wove contradictions into the flood, trying to make the proto-matter uncertain about whether it was differentiated or not."
+          "text": "Chaos attempted to destabilize the corruption’s unified flow, to break it into fragments that could be dealt with individually."
         },
         {
           "id": 52,
           "paragraph_id": 39,
-          "text": "Chaos attempted to destabilize the corruption’s unified flow, to break it into fragments that could be dealt with individually."
+          "text": "None of it was enough!"
         },
         {
           "id": 53,
           "paragraph_id": 40,
-          "text": "None of it was enough!"
+          "text": "The Crack continued to expand despite their efforts, and the proto-matter continued to surge with force that slowly pushed the four Absolutes backward."
         },
         {
           "id": 54,
-          "paragraph_id": 41,
-          "text": "The Crack continued to expand despite their efforts, and the proto-matter continued to surge with force that slowly pushed the four Absolutes backward."
+          "paragraph_id": 40,
+          "text": "They were losing ground inch by inch, and if this continued, THE Agora itself would be covered!"
         },
         {
           "id": 55,
           "paragraph_id": 41,
-          "text": "They were losing ground inch by inch, and if this continued, THE Agora itself would be covered!"
+          "text": "Noah’s eyes pulsed with Immensity soon after as if he sensed something that the others couldn’t perceive."
         },
         {
           "id": 56,
           "paragraph_id": 42,
-          "text": "Noah’s eyes pulsed with Immensity soon after as if he sensed something that the others couldn’t perceive."
+          "text": "’Fucking...’"
         },
         {
           "id": 57,
           "paragraph_id": 43,
-          "text": "’Fucking...’"
+          "text": "His eyes shone sharply as if he couldn’t believe what he felt!"
         },
         {
           "id": 58,
           "paragraph_id": 44,
-          "text": "His eyes shone sharply as if he couldn’t believe what he felt!"
-        },
-        {
-          "id": 59,
-          "paragraph_id": 45,
           "text": "Something was coming through the Crack."
         },
         {
-          "id": 60,
-          "paragraph_id": 45,
+          "id": 59,
+          "paragraph_id": 44,
           "text": "Something was using the corruption as cover for its approach."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 44,
+          "text": "Something was about to strike!"
         },
         {
           "id": 61,
           "paragraph_id": 45,
-          "text": "Something was about to strike!"
+          "text": "A page containing a defensive Inscription instantly appeared before the dryad body of Glossikos, the golden sheet burning with blue-gold light as it materialized from Noah’s reserves of Inscriptiones Dormientes."
         },
         {
           "id": 62,
-          "paragraph_id": 46,
-          "text": "A page containing a defensive Inscription instantly appeared before the dryad body of Glossikos, the golden sheet burning with blue-gold light as it materialized from Noah’s reserves of Inscriptiones Dormientes."
+          "paragraph_id": 45,
+          "text": "The Sleeping Inscription awakened at his command, its Apophasis blazing to life with authority that declared protection through negation."
         },
         {
           "id": 63,
           "paragraph_id": 46,
-          "text": "The Sleeping Inscription awakened at his command, its Apophasis blazing to life with authority that declared protection through negation."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 47,
           "text": "|The one shielded by this Inscription is not capable of being consumed."
         },
         {
-          "id": 65,
-          "paragraph_id": 47,
+          "id": 64,
+          "paragraph_id": 46,
           "text": "Their existence is not susceptible to what seeks to devour."
         },
         {
-          "id": 66,
-          "paragraph_id": 47,
+          "id": 65,
+          "paragraph_id": 46,
           "text": "Their definition is not something that can be unmade by forces of undifferentiation."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 46,
+          "text": "This truth persists so long as the foundation of the attacker does not exceed the foundation of the one who wrote these words.|"
         },
         {
           "id": 67,
           "paragraph_id": 47,
-          "text": "This truth persists so long as the foundation of the attacker does not exceed the foundation of the one who wrote these words.|"
+          "text": "HUUM!"
         },
         {
           "id": 68,
           "paragraph_id": 48,
-          "text": "HUUM!"
+          "text": "The Apophasis shone with brilliant blue-gold light just as jaws of undifferentiation closed in on Glossikos from within the proto-matter flood!"
         },
         {
           "id": 69,
           "paragraph_id": 49,
-          "text": "The Apophasis shone with brilliant blue-gold light just as jaws of undifferentiation closed in on Glossikos from within the proto-matter flood!"
-        },
-        {
-          "id": 70,
-          "paragraph_id": 50,
           "text": "Massive."
         },
         {
-          "id": 71,
-          "paragraph_id": 50,
+          "id": 70,
+          "paragraph_id": 49,
           "text": "Hungry."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 49,
+          "text": "Invisible until the moment of attack!"
         },
         {
           "id": 72,
           "paragraph_id": 50,
-          "text": "Invisible until the moment of attack!"
-        },
-        {
-          "id": 73,
-          "paragraph_id": 51,
           "text": "The jaws would have devoured her with the light of undifferentiation, would have consumed an Absolute Strategos as casually as a beast consuming prey!"
         }
       ],
-      "word_count": 1129
+      "word_count": 1128
     },
     {
       "chapter_index": 4903,
@@ -12805,7 +12745,6 @@
         "This.",
         "THE Undivided One!",
         "Their gazes fully turned towards it as it radiated shocking waves of brutality and immensity.",
-        "---",
         "Far from THE Agora of Primordial Judgment.",
         "In Alfheimr, THE Creature remained calm.",
         "Endless seas of corrupted undifferentiation had spilled out from a blooming crack above his mountain, the proto-matter flooding across the radiant twilight with force that began dissolving the ancient landscapes of his Primordial Realm. Trees that had existed since before THE Infinite Unfurling came apart at the seams. Mountains that had witnessed the birth of civilizations crumbled into formless potential.",
@@ -13156,120 +13095,115 @@
         {
           "id": 67,
           "paragraph_id": 46,
-          "text": "---"
+          "text": "Far from THE Agora of Primordial Judgment."
         },
         {
           "id": 68,
           "paragraph_id": 47,
-          "text": "Far from THE Agora of Primordial Judgment."
+          "text": "In Alfheimr, THE Creature remained calm."
         },
         {
           "id": 69,
           "paragraph_id": 48,
-          "text": "In Alfheimr, THE Creature remained calm."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 49,
           "text": "Endless seas of corrupted undifferentiation had spilled out from a blooming crack above his mountain, the proto-matter flooding across the radiant twilight with force that began dissolving the ancient landscapes of his Primordial Realm."
         },
         {
-          "id": 71,
-          "paragraph_id": 49,
+          "id": 70,
+          "paragraph_id": 48,
           "text": "Trees that had existed since before THE Infinite Unfurling came apart at the seams."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 48,
+          "text": "Mountains that had witnessed the birth of civilizations crumbled into formless potential."
         },
         {
           "id": 72,
           "paragraph_id": 49,
-          "text": "Mountains that had witnessed the birth of civilizations crumbled into formless potential."
+          "text": "And from within that corruption, terrifying auras had bloomed."
         },
         {
           "id": 73,
           "paragraph_id": 50,
-          "text": "And from within that corruption, terrifying auras had bloomed."
+          "text": "Three figures had emerged from the crack with hunger that pressed against reality itself."
         },
         {
           "id": 74,
           "paragraph_id": 51,
-          "text": "Three figures had emerged from the crack with hunger that pressed against reality itself."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 52,
           "text": "The first was an Undivided One whose body resembled a great winged lion with the face of something that had never been mortal."
         },
         {
-          "id": 76,
-          "paragraph_id": 52,
+          "id": 75,
+          "paragraph_id": 51,
           "text": "Its mane was made of writhing serpents that hissed with individual malice, and its wings stretched wide enough to cast shadows across entire territories."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 51,
+          "text": "Where its paws touched, existence forgot what solidity meant.This one descended toward the lower slopes where THE Living Emotive and THE Living Elemental currently stood."
         },
         {
           "id": 77,
           "paragraph_id": 52,
-          "text": "Where its paws touched, existence forgot what solidity meant.This one descended toward the lower slopes where THE Living Emotive and THE Living Elemental currently stood."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 53,
           "text": "The second was another Undivided One, this one taking the form of a massive serpent-dragon whose scales shifted between states of matter with each breath."
         },
         {
-          "id": 79,
-          "paragraph_id": 53,
+          "id": 78,
+          "paragraph_id": 52,
           "text": "Its body coiled through the corrupted proto-matter as if swimming through water, and from its back rose seven heads that each bore different expressions of hunger."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 52,
+          "text": "Eyes of molten gold fixed upon THE Creature’s temple with desire."
         },
         {
           "id": 80,
           "paragraph_id": 53,
-          "text": "Eyes of molten gold fixed upon THE Creature’s temple with desire."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 54,
           "text": "The third was a Formless Terror, and unlike THE Undivided Ones, it had no stable shape whatsoever."
         },
         {
-          "id": 82,
-          "paragraph_id": 54,
+          "id": 81,
+          "paragraph_id": 53,
           "text": "It was a churning mass of potential that occasionally resolved into hints of forms before collapsing back into chaos."
         },
         {
-          "id": 83,
-          "paragraph_id": 54,
+          "id": 82,
+          "paragraph_id": 53,
           "text": "Claws appeared and vanished."
         },
         {
-          "id": 84,
-          "paragraph_id": 54,
+          "id": 83,
+          "paragraph_id": 53,
           "text": "Jaws manifested and dissolved."
+        },
+        {
+          "id": 84,
+          "paragraph_id": 53,
+          "text": "It was hunger without direction, destruction without purpose, and it drifted toward THE Creature alongside the serpent-dragon with the inevitability of a tide coming in."
         },
         {
           "id": 85,
           "paragraph_id": 54,
-          "text": "It was hunger without direction, destruction without purpose, and it drifted toward THE Creature alongside the serpent-dragon with the inevitability of a tide coming in."
+          "text": "THE Creature observed all of this from his temple with eyes that held multicolored flames burning within their depths."
         },
         {
           "id": 86,
           "paragraph_id": 55,
-          "text": "THE Creature observed all of this from his temple with eyes that held multicolored flames burning within their depths."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 56,
           "text": "Below his mountain, THE Living Elemental was struggling."
         },
         {
-          "id": 88,
-          "paragraph_id": 56,
+          "id": 87,
+          "paragraph_id": 55,
           "text": "The curse that Noah had written upon him continued its relentless work, burning across his Depths and deteriorating his foundations with every passing moment."
         },
         {
-          "id": 89,
-          "paragraph_id": 56,
+          "id": 88,
+          "paragraph_id": 55,
           "text": "He could barely stand, let alone defend himself against the winged lion that descended toward him with killing intent!"
         }
       ],
-      "word_count": 1174
+      "word_count": 1173
     },
     {
       "chapter_index": 4904,
@@ -18513,7 +18447,6 @@
         "This was correct.",
         "Hardship was the name of the game. And hardship that was provided without genuine risk was not hardship at all.",
         "He looked over all these details one final time, cataloguing the treasures and their locations and the dangers that surrounded them. And then, in the next moment, he closed his eyes and waved his hand with authority that reached across the entirety of THE Infiniverse.",
-        "---",
         "Far from THE Yggdrheim, in another region of THE Infiniverse entirely, inside Noah’s Early Veiled Shore where his closest companions resided their main bodies, a different scene was unfolding.",
         "A handsome young man with blue-gold hair that marked him unmistakably as Noah’s progeny stood beside a cooking fire, carefully preparing a Marine Lifeform that he had caught earlier on. His features held the same sharp handsomeness that his father possessed, but softened by youth and an easy smile that Noah rarely displayed.",
         "Henry Osmont, the only son of THE Genesis Monarch!",
@@ -18526,7 +18459,6 @@
         "Liora blinked in astonishment as she watched the man she cared for vanish without warning or explanation. She sensed the grand aura of the father of her man lingering in the air, that overwhelming authority that marked THE Genesis Monarch as something beyond what ordinary beings like her could comprehend.",
         "She did nothing.",
         "She simply stood there wondering what THE Genesis Monarch was doing now, trusting that whatever it was, it served a purpose that she could not perceive.",
-        "---",
         "In THE Yggdrheim.",
         "Henry materialized beside his father with disorientation. His eyes blinked rapidly as he tried to understand where he was, why he had been brought here, what his father intended by pulling him away from his peaceful afternoon without so much as a word of warning.",
         "But the moment he arrived, all questions fled from his mind.",
@@ -18859,150 +18791,140 @@
         {
           "id": 64,
           "paragraph_id": 33,
-          "text": "---"
+          "text": "Far from THE Yggdrheim, in another region of THE Infiniverse entirely, inside Noah’s Early Veiled Shore where his closest companions resided their main bodies, a different scene was unfolding."
         },
         {
           "id": 65,
           "paragraph_id": 34,
-          "text": "Far from THE Yggdrheim, in another region of THE Infiniverse entirely, inside Noah’s Early Veiled Shore where his closest companions resided their main bodies, a different scene was unfolding."
+          "text": "A handsome young man with blue-gold hair that marked him unmistakably as Noah’s progeny stood beside a cooking fire, carefully preparing a Marine Lifeform that he had caught earlier on."
         },
         {
           "id": 66,
-          "paragraph_id": 35,
-          "text": "A handsome young man with blue-gold hair that marked him unmistakably as Noah’s progeny stood beside a cooking fire, carefully preparing a Marine Lifeform that he had caught earlier on."
+          "paragraph_id": 34,
+          "text": "His features held the same sharp handsomeness that his father possessed, but softened by youth and an easy smile that Noah rarely displayed."
         },
         {
           "id": 67,
           "paragraph_id": 35,
-          "text": "His features held the same sharp handsomeness that his father possessed, but softened by youth and an easy smile that Noah rarely displayed."
+          "text": "Henry Osmont, the only son of THE Genesis Monarch!"
         },
         {
           "id": 68,
           "paragraph_id": 36,
-          "text": "Henry Osmont, the only son of THE Genesis Monarch!"
+          "text": "Beside him stood Liora, the daughter of Little Bobby."
         },
         {
           "id": 69,
-          "paragraph_id": 37,
-          "text": "Beside him stood Liora, the daughter of Little Bobby."
+          "paragraph_id": 36,
+          "text": "The two of them talked happily as Henry turned the cooking creature over the flames, their conversation filled with the casual intimacy of those who had grown comfortable in each other’s presence."
         },
         {
           "id": 70,
           "paragraph_id": 37,
-          "text": "The two of them talked happily as Henry turned the cooking creature over the flames, their conversation filled with the casual intimacy of those who had grown comfortable in each other’s presence."
+          "text": "Their laughter filled the air of the Early Veiled Shore with warmth of peace, of safety, of existence untouched by the chaos currently flooding across Observable Existence."
         },
         {
           "id": 71,
           "paragraph_id": 38,
-          "text": "Their laughter filled the air of the Early Veiled Shore with warmth of peace, of safety, of existence untouched by the chaos currently flooding across Observable Existence."
+          "text": "After all, they had everything provided for!"
         },
         {
           "id": 72,
           "paragraph_id": 39,
-          "text": "After all, they had everything provided for!"
+          "text": "And then, all of a sudden, an illusory hand formed above them."
         },
         {
           "id": 73,
           "paragraph_id": 40,
-          "text": "And then, all of a sudden, an illusory hand formed above them."
+          "text": "Henry looked up with confusion that transformed into recognition as he sensed the grand aura radiating from that hand."
         },
         {
           "id": 74,
-          "paragraph_id": 41,
-          "text": "Henry looked up with confusion that transformed into recognition as he sensed the grand aura radiating from that hand."
+          "paragraph_id": 40,
+          "text": "He opened his mouth to say something, to ask what was happening, but before any words could emerge..."
         },
         {
           "id": 75,
           "paragraph_id": 41,
-          "text": "He opened his mouth to say something, to ask what was happening, but before any words could emerge..."
+          "text": "The hand plucked him from where he stood and caused him to disappear entirely!"
         },
         {
           "id": 76,
           "paragraph_id": 42,
-          "text": "The hand plucked him from where he stood and caused him to disappear entirely!"
+          "text": "Liora blinked in astonishment as she watched the man she cared for vanish without warning or explanation."
         },
         {
           "id": 77,
-          "paragraph_id": 43,
-          "text": "Liora blinked in astonishment as she watched the man she cared for vanish without warning or explanation."
+          "paragraph_id": 42,
+          "text": "She sensed the grand aura of the father of her man lingering in the air, that overwhelming authority that marked THE Genesis Monarch as something beyond what ordinary beings like her could comprehend."
         },
         {
           "id": 78,
           "paragraph_id": 43,
-          "text": "She sensed the grand aura of the father of her man lingering in the air, that overwhelming authority that marked THE Genesis Monarch as something beyond what ordinary beings like her could comprehend."
+          "text": "She did nothing."
         },
         {
           "id": 79,
           "paragraph_id": 44,
-          "text": "She did nothing."
+          "text": "She simply stood there wondering what THE Genesis Monarch was doing now, trusting that whatever it was, it served a purpose that she could not perceive."
         },
         {
           "id": 80,
           "paragraph_id": 45,
-          "text": "She simply stood there wondering what THE Genesis Monarch was doing now, trusting that whatever it was, it served a purpose that she could not perceive."
+          "text": "In THE Yggdrheim."
         },
         {
           "id": 81,
           "paragraph_id": 46,
-          "text": "---"
+          "text": "Henry materialized beside his father with disorientation."
         },
         {
           "id": 82,
-          "paragraph_id": 47,
-          "text": "In THE Yggdrheim."
+          "paragraph_id": 46,
+          "text": "His eyes blinked rapidly as he tried to understand where he was, why he had been brought here, what his father intended by pulling him away from his peaceful afternoon without so much as a word of warning."
         },
         {
           "id": 83,
-          "paragraph_id": 48,
-          "text": "Henry materialized beside his father with disorientation."
+          "paragraph_id": 47,
+          "text": "But the moment he arrived, all questions fled from his mind."
         },
         {
           "id": 84,
           "paragraph_id": 48,
-          "text": "His eyes blinked rapidly as he tried to understand where he was, why he had been brought here, what his father intended by pulling him away from his peaceful afternoon without so much as a word of warning."
+          "text": "His existence began to unravel."
         },
         {
           "id": 85,
           "paragraph_id": 49,
-          "text": "But the moment he arrived, all questions fled from his mind."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 50,
-          "text": "His existence began to unravel."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 51,
           "text": "The infinite undifferentiation of THE Yggdrheim pressed against him from every direction simultaneously, seeking to dissolve his form back into the proto-matter from which all things had emerged."
         },
         {
-          "id": 88,
-          "paragraph_id": 51,
+          "id": 86,
+          "paragraph_id": 49,
           "text": "He felt his foundations wavering."
         },
         {
-          "id": 89,
-          "paragraph_id": 51,
+          "id": 87,
+          "paragraph_id": 49,
           "text": "He felt his Civilization destabilizing."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 49,
+          "text": "He felt the very fabric of his being coming apart at the seams as the realm worked to return him to undifferentiated potential!"
+        },
+        {
+          "id": 89,
+          "paragraph_id": 50,
+          "text": "Henry gasped with shock!"
         },
         {
           "id": 90,
           "paragraph_id": 51,
-          "text": "He felt the very fabric of his being coming apart at the seams as the realm worked to return him to undifferentiated potential!"
-        },
-        {
-          "id": 91,
-          "paragraph_id": 52,
-          "text": "Henry gasped with shock!"
-        },
-        {
-          "id": 92,
-          "paragraph_id": 53,
           "text": "His entire existence was being undifferentiated!"
         }
       ],
-      "word_count": 1351
+      "word_count": 1349
     },
     {
       "chapter_index": 4915,
@@ -19036,7 +18958,6 @@
         "This could not be happening!",
         "His own father was watching him dissolve and offering nothing but words about adversity!",
         "But even as the shock flooded through him, even as the pain of undifferentiation tore at every fiber of his being, somewhere deep within Henry’s foundations, something began to stir!",
-        "---",
         "Far from a terrifying trial.",
         "In THE Prima Indifferentia.",
         "Across regions of endless corrupted paradoxical proto-matter filled with a blue-gold light of Infinities, chaos reigned supreme. The flooding corruption that THE Living Paradox had initiated merged with the Infinite Seals that THE Infiniverse had scattered, creating storms of authority that tore through the primordial expanse with violence that exceeded anything this ancient space had witnessed since THE First Cause itself.",
@@ -19256,210 +19177,205 @@
         {
           "id": 38,
           "paragraph_id": 27,
-          "text": "---"
+          "text": "Far from a terrifying trial."
         },
         {
           "id": 39,
           "paragraph_id": 28,
-          "text": "Far from a terrifying trial."
+          "text": "In THE Prima Indifferentia."
         },
         {
           "id": 40,
           "paragraph_id": 29,
-          "text": "In THE Prima Indifferentia."
+          "text": "Across regions of endless corrupted paradoxical proto-matter filled with a blue-gold light of Infinities, chaos reigned supreme."
         },
         {
           "id": 41,
-          "paragraph_id": 30,
-          "text": "Across regions of endless corrupted paradoxical proto-matter filled with a blue-gold light of Infinities, chaos reigned supreme."
+          "paragraph_id": 29,
+          "text": "The flooding corruption that THE Living Paradox had initiated merged with the Infinite Seals that THE Infiniverse had scattered, creating storms of authority that tore through the primordial expanse with violence that exceeded anything this ancient space had witnessed since THE First Cause itself."
         },
         {
           "id": 42,
           "paragraph_id": 30,
-          "text": "The flooding corruption that THE Living Paradox had initiated merged with the Infinite Seals that THE Infiniverse had scattered, creating storms of authority that tore through the primordial expanse with violence that exceeded anything this ancient space had witnessed since THE First Cause itself."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 31,
           "text": "Undivided Ones burned with the light from the corruption or became granderby it."
         },
         {
-          "id": 44,
-          "paragraph_id": 31,
+          "id": 43,
+          "paragraph_id": 30,
           "text": "Formless Terrors churned with increased instability as the paradoxical nature of the proto-matter confused their already confused existences, making them even more terrifying."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 30,
+          "text": "Other Lifeforms with their own names....prospered."
         },
         {
           "id": 45,
           "paragraph_id": 31,
-          "text": "Other Lifeforms with their own names....prospered."
+          "text": "And through this chaos, new lifeforms may yet emerge."
         },
         {
           "id": 46,
           "paragraph_id": 32,
-          "text": "And through this chaos, new lifeforms may yet emerge."
+          "text": "THE Prima Indifferentia, that realm of undifferentiation that had existed since before Observable Existence fully took shape, was being transformed by forces that had no right to transform it."
         },
         {
           "id": 47,
           "paragraph_id": 33,
-          "text": "THE Prima Indifferentia, that realm of undifferentiation that had existed since before Observable Existence fully took shape, was being transformed by forces that had no right to transform it."
+          "text": "And yet."
         },
         {
           "id": 48,
           "paragraph_id": 34,
-          "text": "And yet."
+          "text": "There was a region within this place that was unfathomably calm."
         },
         {
           "id": 49,
           "paragraph_id": 35,
-          "text": "There was a region within this place that was unfathomably calm."
+          "text": "No particles of proto-matter entered a circular region that existed like an eye of peace within the hurricane of chaos."
         },
         {
           "id": 50,
-          "paragraph_id": 36,
-          "text": "No particles of proto-matter entered a circular region that existed like an eye of peace within the hurricane of chaos."
+          "paragraph_id": 35,
+          "text": "The storms raged around it, the corruption swirled past it, but nothing crossed the boundary that separated this place from everything else."
         },
         {
           "id": 51,
           "paragraph_id": 36,
-          "text": "The storms raged around it, the corruption swirled past it, but nothing crossed the boundary that separated this place from everything else."
+          "text": "At the very center of this calm region stood a white tree."
         },
         {
           "id": 52,
           "paragraph_id": 37,
-          "text": "At the very center of this calm region stood a white tree."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 38,
           "text": "Its bark gleamed with light that held no color yet contained all colors simultaneously."
         },
         {
-          "id": 54,
-          "paragraph_id": 38,
+          "id": 53,
+          "paragraph_id": 37,
           "text": "Its branches stretched upward and outward in patterns that seemed to follow rules of geometry that had not yet been differentiated from pure mathematical potential."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 37,
+          "text": "Its roots disappeared into ground that was not ground."
         },
         {
           "id": 55,
           "paragraph_id": 38,
-          "text": "Its roots disappeared into ground that was not ground."
+          "text": "A calm and radiant circular white barrier emanated from that tree, pressing outward with authority that made the corruption and Infinities alike seem like children’s toys by comparison."
         },
         {
           "id": 56,
-          "paragraph_id": 39,
-          "text": "A calm and radiant circular white barrier emanated from that tree, pressing outward with authority that made the corruption and Infinities alike seem like children’s toys by comparison."
+          "paragraph_id": 38,
+          "text": "Without its permission, absolutely no foreign Civilizational Authority or the authority of differentiation or undifferentiation would make its way there."
         },
         {
           "id": 57,
           "paragraph_id": 39,
-          "text": "Without its permission, absolutely no foreign Civilizational Authority or the authority of differentiation or undifferentiation would make its way there."
+          "text": "The barrier did not fight against intrusion."
         },
         {
           "id": 58,
-          "paragraph_id": 40,
-          "text": "The barrier did not fight against intrusion."
+          "paragraph_id": 39,
+          "text": "It simply declared that intrusion was not possible, and reality accepted that declaration without question."
         },
         {
           "id": 59,
           "paragraph_id": 40,
-          "text": "It simply declared that intrusion was not possible, and reality accepted that declaration without question."
-        },
-        {
-          "id": 60,
-          "paragraph_id": 41,
           "text": "The size of this tree seemed to be a meter long and a mile long and one light year long at the same time."
         },
         {
-          "id": 61,
-          "paragraph_id": 41,
+          "id": 60,
+          "paragraph_id": 40,
           "text": "Its dimensions continued to vary with each observation, never settling on a single measurement because measurement itself was a form of differentiation that the tree had not fully accepted."
         },
         {
-          "id": 62,
-          "paragraph_id": 41,
+          "id": 61,
+          "paragraph_id": 40,
           "text": "It was small."
         },
         {
-          "id": 63,
-          "paragraph_id": 41,
+          "id": 62,
+          "paragraph_id": 40,
           "text": "It was vast."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 40,
+          "text": "It was both and neither simultaneously."
         },
         {
           "id": 64,
           "paragraph_id": 41,
-          "text": "It was both and neither simultaneously."
+          "text": "And near it sat a Primordial Architect."
         },
         {
           "id": 65,
           "paragraph_id": 42,
-          "text": "And near it sat a Primordial Architect."
+          "text": "The being’s form defied easy description, for it existed at the intersection of differentiation and undifferentiation that had birthed all Primordial Architects during THE First Cause."
         },
         {
           "id": 66,
           "paragraph_id": 43,
-          "text": "The being’s form defied easy description, for it existed at the intersection of differentiation and undifferentiation that had birthed all Primordial Architects during THE First Cause."
+          "text": "Its body was humanoid in the loosest sense, possessing what might have been called a head and torso and limbs, but each component was composed of crystallized potential rather than solid matter."
         },
         {
           "id": 67,
           "paragraph_id": 44,
-          "text": "Its body was humanoid in the loosest sense, possessing what might have been called a head and torso and limbs, but each component was composed of crystallized potential rather than solid matter."
+          "text": "Its face held features that were both present and absent."
         },
         {
           "id": 68,
-          "paragraph_id": 45,
-          "text": "Its face held features that were both present and absent."
+          "paragraph_id": 44,
+          "text": "Eyes that burned with light older than Observable Existence gazed outward with an otherworldly and extraordinary attitude that transcended mortal concepts of attention."
         },
         {
           "id": 69,
           "paragraph_id": 45,
-          "text": "Eyes that burned with light older than Observable Existence gazed outward with an otherworldly and extraordinary attitude that transcended mortal concepts of attention."
+          "text": "There was gentleness in those eyes, yes, but also cunning that had been accumulated across eons of observation and manipulation."
         },
         {
           "id": 70,
           "paragraph_id": 46,
-          "text": "There was gentleness in those eyes, yes, but also cunning that had been accumulated across eons of observation and manipulation."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 47,
           "text": "It barely paid a glance at the raging storms of corrupted paradoxical proto-matter and Infinite Seals in the surroundings."
         },
         {
-          "id": 72,
-          "paragraph_id": 47,
+          "id": 71,
+          "paragraph_id": 46,
           "text": "Such chaos was beneath its concern."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 46,
+          "text": "Such transformation was merely the latest iteration of changes that it had witnessed countless times across cycles that predated memory itself."
         },
         {
           "id": 73,
           "paragraph_id": 47,
-          "text": "Such transformation was merely the latest iteration of changes that it had witnessed countless times across cycles that predated memory itself."
+          "text": "In front of the sitting Primordial Architect, there was a simple looking square board."
         },
         {
           "id": 74,
           "paragraph_id": 48,
-          "text": "In front of the sitting Primordial Architect, there was a simple looking square board."
+          "text": "But terrifyingly, on this board were the auras of entities that would have made lesser Absolutes like that ugly, bent, and twisted fucker THE Living Elemental flee in terror."
         },
         {
           "id": 75,
           "paragraph_id": 49,
-          "text": "But terrifyingly, on this board were the auras of entities that would have made lesser Absolutes like that ugly, bent, and twisted fucker THE Living Elemental flee in terror."
+          "text": "Formless Terrors and Undivided Ones, beings that had existed since before THE Infinite Unfurling, were present on the board’s surface."
         },
         {
           "id": 76,
-          "paragraph_id": 50,
-          "text": "Formless Terrors and Undivided Ones, beings that had existed since before THE Infinite Unfurling, were present on the board’s surface."
+          "paragraph_id": 49,
+          "text": "But they seemed miniaturized and frozen, reduced to the size of game pieces despite their true forms being vast enough to consume Primordial Realms."
         },
         {
           "id": 77,
           "paragraph_id": 50,
-          "text": "But they seemed miniaturized and frozen, reduced to the size of game pieces despite their true forms being vast enough to consume Primordial Realms."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 51,
           "text": "They were... mere pieces!"
         }
       ],
-      "word_count": 1057
+      "word_count": 1056
     },
     {
       "chapter_index": 4916,
@@ -20035,7 +19951,6 @@
         "The wrapped Primordial Architect moved toward a Crack with purpose that its insane eyes belied, its bound form drifting through THE Prima Indifferentia with speed that exceeded what something so massive should have been capable of.",
         "It disappeared into the fracture.",
         "And wherever it emerged, things would change.",
-        "---",
         "In yet another region of the primordial chaos, something else was stirring.",
         "It was adorned in armor unlike anything that existed in Observable Existence, ancient and archaic platinum plates that covered every inch of its colossal frame with craftsmanship that predated the concept of craftsmanship itself.",
         "The armor seemed to have been forged from proto-matter that had been convinced to become metal, each plate holding the weight of undifferentiation that had been given form through will alone.",
@@ -20277,325 +20192,320 @@
         {
           "id": 39,
           "paragraph_id": 23,
-          "text": "---"
+          "text": "In yet another region of the primordial chaos, something else was stirring."
         },
         {
           "id": 40,
           "paragraph_id": 24,
-          "text": "In yet another region of the primordial chaos, something else was stirring."
+          "text": "It was adorned in armor unlike anything that existed in Observable Existence, ancient and archaic platinum plates that covered every inch of its colossal frame with craftsmanship that predated the concept of craftsmanship itself."
         },
         {
           "id": 41,
           "paragraph_id": 25,
-          "text": "It was adorned in armor unlike anything that existed in Observable Existence, ancient and archaic platinum plates that covered every inch of its colossal frame with craftsmanship that predated the concept of craftsmanship itself."
+          "text": "The armor seemed to have been forged from proto-matter that had been convinced to become metal, each plate holding the weight of undifferentiation that had been given form through will alone."
         },
         {
           "id": 42,
           "paragraph_id": 26,
-          "text": "The armor seemed to have been forged from proto-matter that had been convinced to become metal, each plate holding the weight of undifferentiation that had been given form through will alone."
+          "text": "In its hand was a hammer."
         },
         {
           "id": 43,
           "paragraph_id": 27,
-          "text": "In its hand was a hammer."
+          "text": "The weapon was massive even compared to the already colossal form that wielded it, its head composed of condensed metallic proto-matter that had been compressed until it achieved density that exceeded what normal matter could sustain."
         },
         {
           "id": 44,
-          "paragraph_id": 28,
-          "text": "The weapon was massive even compared to the already colossal form that wielded it, its head composed of condensed metallic proto-matter that had been compressed until it achieved density that exceeded what normal matter could sustain."
+          "paragraph_id": 27,
+          "text": "The hammer’s surface shifted constantly, metallic proto-matter churning within its structure as if eager to be unleashed against whatever target its wielder chose."
         },
         {
           "id": 45,
           "paragraph_id": 28,
-          "text": "The hammer’s surface shifted constantly, metallic proto-matter churning within its structure as if eager to be unleashed against whatever target its wielder chose."
+          "text": "And it was unclear if there was actually a body within the armor at all."
         },
         {
           "id": 46,
           "paragraph_id": 29,
-          "text": "And it was unclear if there was actually a body within the armor at all."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 30,
           "text": "The gaps between plates revealed nothing but darkness."
         },
         {
-          "id": 48,
-          "paragraph_id": 30,
+          "id": 47,
+          "paragraph_id": 29,
           "text": "The helmet’s visor showed no eyes, no features, no indication of a being wearing the armor rather than the armor itself being the entity."
         },
         {
-          "id": 49,
-          "paragraph_id": 30,
+          "id": 48,
+          "paragraph_id": 29,
           "text": "Perhaps there had been a Primordial Architect within once."
         },
         {
-          "id": 50,
-          "paragraph_id": 30,
+          "id": 49,
+          "paragraph_id": 29,
           "text": "Perhaps the armor had consumed its wearer eons ago."
+        },
+        {
+          "id": 50,
+          "paragraph_id": 29,
+          "text": "Perhaps there had never been anything but the armor itself."
         },
         {
           "id": 51,
           "paragraph_id": 30,
-          "text": "Perhaps there had never been anything but the armor itself."
+          "text": "The corrupted paradoxical proto-matter and Infinite Seals surged around this armored entity, and the platinum plates drank deeply of both substances."
         },
         {
           "id": 52,
-          "paragraph_id": 31,
-          "text": "The corrupted paradoxical proto-matter and Infinite Seals surged around this armored entity, and the platinum plates drank deeply of both substances."
+          "paragraph_id": 30,
+          "text": "The armor glowed with absorbed power that made its already immense presence grow even more terrifying."
         },
         {
           "id": 53,
           "paragraph_id": 31,
-          "text": "The armor glowed with absorbed power that made its already immense presence grow even more terrifying."
+          "text": "And then the armored Primordial Architect moved."
         },
         {
           "id": 54,
           "paragraph_id": 32,
-          "text": "And then the armored Primordial Architect moved."
+          "text": "It did not drift through a Crack like the others."
         },
         {
           "id": 55,
-          "paragraph_id": 33,
-          "text": "It did not drift through a Crack like the others."
+          "paragraph_id": 32,
+          "text": "It stepped through, its massive form compressing and expanding as it traversed the fracture between THE Prima Indifferentia and Observable Existence with purpose that held no hesitation."
         },
         {
           "id": 56,
           "paragraph_id": 33,
-          "text": "It stepped through, its massive form compressing and expanding as it traversed the fracture between THE Prima Indifferentia and Observable Existence with purpose that held no hesitation."
+          "text": "It emerged in THE Wastes of THE Fallout."
         },
         {
           "id": 57,
           "paragraph_id": 34,
-          "text": "It emerged in THE Wastes of THE Fallout."
+          "text": "And... it happened to be near a shelter of THE Loom."
         },
         {
           "id": 58,
           "paragraph_id": 35,
-          "text": "And... it happened to be near a shelter of THE Loom."
+          "text": "The shelter was a massive hedron structure that rose from THE Wastes like a monument."
         },
         {
           "id": 59,
-          "paragraph_id": 36,
-          "text": "The shelter was a massive hedron structure that rose from THE Wastes like a monument."
+          "paragraph_id": 35,
+          "text": "Its faces gleamed with light that held the signature of THE Fallout’s corruption."
         },
         {
           "id": 60,
           "paragraph_id": 36,
-          "text": "Its faces gleamed with light that held the signature of THE Fallout’s corruption."
+          "text": "But more terrifying than its structure were its walls."
         },
         {
           "id": 61,
           "paragraph_id": 37,
-          "text": "But more terrifying than its structure were its walls."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 38,
           "text": "Countless tentacle-like Inevitabilities had been fused into the hedron’s surface, their forms writhing with pain that they could not escape."
         },
         {
-          "id": 63,
-          "paragraph_id": 38,
+          "id": 62,
+          "paragraph_id": 37,
           "text": "They had been captured and incorporated into the shelter itself, their authority used to reinforce the structure while their consciousness remained aware enough to suffer."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 37,
+          "text": "Their screams were silent but their agony was visible in every twist and contortion of their bonded forms."
         },
         {
           "id": 64,
           "paragraph_id": 38,
-          "text": "Their screams were silent but their agony was visible in every twist and contortion of their bonded forms."
+          "text": "Inside the shelter were many Early Creatures and Living Existences and some Fold Dwellers."
         },
         {
           "id": 65,
           "paragraph_id": 39,
-          "text": "Inside the shelter were many Early Creatures and Living Existences and some Fold Dwellers."
+          "text": "They existed within the hedron’s protection, safe from the chaos currently flooding across Observable Existence, confident that the shelter’s defenses."
         },
         {
           "id": 66,
           "paragraph_id": 40,
-          "text": "They existed within the hedron’s protection, safe from the chaos currently flooding across Observable Existence, confident that the shelter’s defenses."
+          "text": "This shelter actually comprised most of the Living Concepts."
         },
         {
           "id": 67,
           "paragraph_id": 41,
-          "text": "This shelter actually comprised most of the Living Concepts."
+          "text": "Because THE Living Concept was here."
         },
         {
           "id": 68,
           "paragraph_id": 42,
-          "text": "Because THE Living Concept was here."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 43,
           "text": "Not the Half-Step Absolute body that Noah had collapsed in Muspelheim during his journey to claim that Primordial Realm."
         },
         {
-          "id": 70,
-          "paragraph_id": 43,
+          "id": 69,
+          "paragraph_id": 42,
           "text": "That had been merely an extension, a fragment of the true existence that THE Living Concept possessed."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 42,
+          "text": "His genuine full form lay protected in the confines of THE Loom, surrounded by followers and defenses that should have made him untouchable."
         },
         {
           "id": 71,
           "paragraph_id": 43,
-          "text": "His genuine full form lay protected in the confines of THE Loom, surrounded by followers and defenses that should have made him untouchable."
+          "text": "And yet at this moment..."
         },
         {
           "id": 72,
           "paragraph_id": 44,
-          "text": "And yet at this moment..."
+          "text": "The armored Primordial Architect that had emerged from THE Prima Indifferentia gazed upon the shelter with visor that revealed nothing of its thoughts or intentions."
         },
         {
           "id": 73,
-          "paragraph_id": 45,
-          "text": "The armored Primordial Architect that had emerged from THE Prima Indifferentia gazed upon the shelter with visor that revealed nothing of its thoughts or intentions."
+          "paragraph_id": 44,
+          "text": "It stood before the hedron structure with stillness that lasted for a single heartbeat."
         },
         {
           "id": 74,
           "paragraph_id": 45,
-          "text": "It stood before the hedron structure with stillness that lasted for a single heartbeat."
+          "text": "And then it swung its hammer."
         },
         {
           "id": 75,
           "paragraph_id": 46,
-          "text": "And then it swung its hammer."
+          "text": "The massive weapon moved faster than many Absolutes could perceive, its head of condensed metallic proto-matter blurring through the space between the armored entity and the shelter with speed that defied the weight it should have possessed."
         },
         {
           "id": 76,
           "paragraph_id": 47,
-          "text": "The massive weapon moved faster than many Absolutes could perceive, its head of condensed metallic proto-matter blurring through the space between the armored entity and the shelter with speed that defied the weight it should have possessed."
+          "text": "The hammer struck the shelter of THE Loom."
         },
         {
           "id": 77,
           "paragraph_id": 48,
-          "text": "The hammer struck the shelter of THE Loom."
+          "text": "BOOM!"
         },
         {
           "id": 78,
           "paragraph_id": 49,
-          "text": "BOOM!"
+          "text": "The hedron structure that had been reinforced by countless Inevitabilities, that had protected so many converted beings, that had housed THE Living Concept’s genuine full form, instantly shattered!"
         },
         {
           "id": 79,
           "paragraph_id": 50,
-          "text": "The hedron structure that had been reinforced by countless Inevitabilities, that had protected so many converted beings, that had housed THE Living Concept’s genuine full form, instantly shattered!"
-        },
-        {
-          "id": 80,
-          "paragraph_id": 51,
           "text": "The impact didn’t crack the shelter or damage it or force it to slowly collapse."
         },
         {
-          "id": 81,
-          "paragraph_id": 51,
+          "id": 80,
+          "paragraph_id": 50,
           "text": "It simply destroyed it entirely, causing the hedron to splinter into a storm of fragments that exploded outward in every direction."
         },
         {
-          "id": 82,
-          "paragraph_id": 51,
+          "id": 81,
+          "paragraph_id": 50,
           "text": "The fused Inevitabilities screamed silently as they were torn apart alongside the walls they had been bonded to."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 50,
+          "text": "The Early Creatures and Living Existences and Fold Dwellers within had no time to flee or defend themselves or even comprehend what was happening."
         },
         {
           "id": 83,
           "paragraph_id": 51,
-          "text": "The Early Creatures and Living Existences and Fold Dwellers within had no time to flee or defend themselves or even comprehend what was happening."
+          "text": "And then the fragments stopped scattering."
         },
         {
           "id": 84,
           "paragraph_id": 52,
-          "text": "And then the fragments stopped scattering."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 53,
           "text": "They were pulled toward the hammer as if gravity had decided to serve the weapon’s purposes, each piece of the shattered shelter flowing into the condensed metallic proto-matter with absorption that left nothing behind."
         },
         {
-          "id": 86,
-          "paragraph_id": 53,
+          "id": 85,
+          "paragraph_id": 52,
           "text": "The Inevitabilities."
         },
         {
-          "id": 87,
-          "paragraph_id": 53,
+          "id": 86,
+          "paragraph_id": 52,
           "text": "The converted beings."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 52,
+          "text": "The structure itself."
         },
         {
           "id": 88,
           "paragraph_id": 53,
-          "text": "The structure itself."
+          "text": "THE Living Concept."
         },
         {
           "id": 89,
           "paragraph_id": 54,
-          "text": "THE Living Concept."
+          "text": "All of it was entirely absorbed as the hammer glowed gold-red after consuming everything that the shelter had contained."
         },
         {
           "id": 90,
-          "paragraph_id": 55,
-          "text": "All of it was entirely absorbed as the hammer glowed gold-red after consuming everything that the shelter had contained."
+          "paragraph_id": 54,
+          "text": "THE Living Concepts was collapsed as if he did not matter."
         },
         {
           "id": 91,
           "paragraph_id": 55,
-          "text": "THE Living Concepts was collapsed as if he did not matter."
+          "text": "Because to this armored Primordial Architect, he did not matter."
         },
         {
           "id": 92,
           "paragraph_id": 56,
-          "text": "Because to this armored Primordial Architect, he did not matter."
+          "text": "None of them mattered."
         },
         {
           "id": 93,
           "paragraph_id": 57,
-          "text": "None of them mattered."
+          "text": "What mattered were the sources of this Paradox and Infinity."
         },
         {
           "id": 94,
-          "paragraph_id": 58,
-          "text": "What mattered were the sources of this Paradox and Infinity."
+          "paragraph_id": 57,
+          "text": "Where...were they?"
         },
         {
           "id": 95,
           "paragraph_id": 58,
-          "text": "Where...were they?"
+          "text": "...!"
         },
         {
           "id": 96,
           "paragraph_id": 59,
-          "text": "...!"
+          "text": "After that, the armored Primordial Architect gazed around THE Wastes of THE Fallout with visor that revealed nothing of its assessment."
         },
         {
           "id": 97,
-          "paragraph_id": 60,
-          "text": "After that, the armored Primordial Architect gazed around THE Wastes of THE Fallout with visor that revealed nothing of its assessment."
+          "paragraph_id": 59,
+          "text": "It observed the corruption and the Infinities that permeated this region as it continued to absorb."
         },
         {
           "id": 98,
           "paragraph_id": 60,
-          "text": "It observed the corruption and the Infinities that permeated this region as it continued to absorb."
+          "text": "And then it began to move calmly and slowly."
         },
         {
           "id": 99,
           "paragraph_id": 61,
-          "text": "And then it began to move calmly and slowly."
+          "text": "Each step covered distances that should have required spatial traversal."
         },
         {
           "id": 100,
           "paragraph_id": 62,
-          "text": "Each step covered distances that should have required spatial traversal."
+          "text": "Change had come."
         },
         {
           "id": 101,
           "paragraph_id": 63,
-          "text": "Change had come."
-        },
-        {
-          "id": 102,
-          "paragraph_id": 64,
           "text": "And the change would be brutal as nobody was safe!"
         }
       ],
-      "word_count": 1506
+      "word_count": 1505
     },
     {
       "chapter_index": 4918,
@@ -22140,9 +22050,9 @@
         "|Unprecedented Integration Achieved|",
         "|As THE Native Speaker of THE First Tongue, you have successfully integrated numerical expression into your unique variation of linguistic authority. This integration does not alter THE First Tongue itself but creates a personal methodology exclusive to your weavings that allows mathematical operations to augment your existing capabilities. This new dimension of expression has been designated to be...THE Numerical Sovereignty.|",
         "|THE Numerical Sovereignty operates through the following core principles:|",
-        "|Principle One:All expressions of THE First Tongue now carry inherent numerical values based on their complexity, authority investment, and foundational weight. These values can be perceived, manipulated, and amplified through mathematical operations that you apply during composition or activation.|",
-        "|Principle Two:Mathematical operations applied to your weavings do not consume additional authority proportional to their effect.Instead, they restructure how your existing authority expresses itself, creating amplification without equivalent expenditure. This is possible because numbers describe relationships rather than create substance.|",
-        "|Principle Three:THE Numerical Sovereignty augments your existing capabilities rather than replacing them.Embodiments remain Embodiments. Inscriptions remain Inscriptions. Archai remain Archai. But all of them can now be modified through numerical operations that multiply their effects in ways that would otherwise require exponentially greater authority investment.|",
+        "|Principle One: All expressions of THE First Tongue now carry inherent numerical values based on their complexity, authority investment, and foundational weight. These values can be perceived, manipulated, and amplified through mathematical operations that you apply during composition or activation.|",
+        "|Principle Two: Mathematical operations applied to your weavings do not consume additional authority proportional to their effect.Instead, they restructure how your existing authority expresses itself, creating amplification without equivalent expenditure. This is possible because numbers describe relationships rather than create substance.|",
+        "|Principle Three: THE Numerical Sovereignty augments your existing capabilities rather than replacing them.Embodiments remain Embodiments. Inscriptions remain Inscriptions. Archai remain Archai. But all of them can now be modified through numerical operations that multiply their effects in ways that would otherwise require exponentially greater authority investment.|",
         "...!",
         "Noah read over these foundational principles with eyes that burned brighter by the moment.",
         "His own mind led the way, directing Harvests and Infinite Potential to flow across his existence as he maintained this glorious state of epiphany, his mind designing more and more things!",
@@ -22225,7 +22135,7 @@
         {
           "id": 9,
           "paragraph_id": 7,
-          "text": "|Principle One:All expressions of THE First Tongue now carry inherent numerical values based on their complexity, authority investment, and foundational weight."
+          "text": "|Principle One: All expressions of THE First Tongue now carry inherent numerical values based on their complexity, authority investment, and foundational weight."
         },
         {
           "id": 10,
@@ -22235,7 +22145,7 @@
         {
           "id": 11,
           "paragraph_id": 8,
-          "text": "|Principle Two:Mathematical operations applied to your weavings do not consume additional authority proportional to their effect.Instead, they restructure how your existing authority expresses itself, creating amplification without equivalent expenditure."
+          "text": "|Principle Two: Mathematical operations applied to your weavings do not consume additional authority proportional to their effect.Instead, they restructure how your existing authority expresses itself, creating amplification without equivalent expenditure."
         },
         {
           "id": 12,
@@ -22245,7 +22155,7 @@
         {
           "id": 13,
           "paragraph_id": 9,
-          "text": "|Principle Three:THE Numerical Sovereignty augments your existing capabilities rather than replacing them.Embodiments remain Embodiments."
+          "text": "|Principle Three: THE Numerical Sovereignty augments your existing capabilities rather than replacing them.Embodiments remain Embodiments."
         },
         {
           "id": 14,
@@ -22558,7 +22468,7 @@
           "text": "...!"
         }
       ],
-      "word_count": 1111
+      "word_count": 1114
     },
     {
       "chapter_index": 4922,
@@ -22596,7 +22506,7 @@
         "Prompts bloomed before his eyes.",
         "|Multiplicative Amplification Applied|",
         "|Your Inscriptio Dormiens has been amplified by a Multiplicative Factor of 10. This amplification has manifested in two ways: the power of the Inscription has been multiplied tenfold, and the Inscription itself has been replicated into 10 identical copies.|",
-        "|Practical Assessment at Current Level:Each of these 10 Inscriptions now carries offensive potential that would devastate weakened Absolutes like that pathetic, kneeling wretch THE Living Elemental with a single activation. One hit, one kill.His deteriorating foundations would not survive even one strike enhanced by this amplified authority. Against standard Absolutes of equivalent or lesser foundation, these Inscriptions would cause severe foundational damage that could lead to collapse within sustained engagement.Against beings like Bazuman or THE Undivided Ones, these Inscriptions would now be capable of causing genuine wounds rather than superficial scratches.|",
+        "|Practical Assessment at Current Level: Each of these 10 Inscriptions now carries offensive potential that would devastate weakened Absolutes like that pathetic, kneeling wretch THE Living Elemental with a single activation. One hit, one kill.His deteriorating foundations would not survive even one strike enhanced by this amplified authority. Against standard Absolutes of equivalent or lesser foundation, these Inscriptions would cause severe foundational damage that could lead to collapse within sustained engagement.Against beings like Bazuman or THE Undivided Ones, these Inscriptions would now be capable of causing genuine wounds rather than superficial scratches.|",
         "|You now possess 10 Multiplicatively Amplified Inscriptiones Dormientes (Offensive)|",
         "...!",
         "Noah looked at the ten burning pages that now hovered before him, arranged in a loose circle like attendants awaiting command. The light they cast painted his features in shades of blue and gold, alternating as the Inscriptions pulsed with their newfound potency!",
@@ -22895,7 +22805,7 @@
         {
           "id": 56,
           "paragraph_id": 31,
-          "text": "|Practical Assessment at Current Level:Each of these 10 Inscriptions now carries offensive potential that would devastate weakened Absolutes like that pathetic, kneeling wretch THE Living Elemental with a single activation."
+          "text": "|Practical Assessment at Current Level: Each of these 10 Inscriptions now carries offensive potential that would devastate weakened Absolutes like that pathetic, kneeling wretch THE Living Elemental with a single activation."
         },
         {
           "id": 57,
@@ -23023,7 +22933,7 @@
           "text": "The ten Inscriptions transformed in ways that exceeded anything the Multiplicative Amplification had produced!"
         }
       ],
-      "word_count": 1321
+      "word_count": 1322
     },
     {
       "chapter_index": 4923,
@@ -23069,7 +22979,7 @@
         "As with the offensive Inscription, the single page divided and replicated, becoming ten identical defensive Inscriptions that burned with amplified protective authority!",
         "|Multiplicative Amplification Applied|",
         "|Your defensive Inscriptio Dormiens has been amplified by a Multiplicative Factor of 10, manifesting as both power increase and replication into 10 identical copies.|",
-        "|Practical Assessment at Current Level:Each of these 10 Inscriptions now provides protection that would render attacks from standard Absolutes negligible. That miserable, foundation-crumbling embarrassment THE Living Elemental’s strikes, even if he could muster them through his curse, would fail to register as threats. Attacks from beings of equivalent foundation would be significantly blunted. Even assaults from powerful entities like Bazuman would be substantially reduced, transforming potentially lethal strikes into manageable damage.|",
+        "|Practical Assessment at Current Level: Each of these 10 Inscriptions now provides protection that would render attacks from standard Absolutes negligible. That miserable, foundation-crumbling embarrassment THE Living Elemental’s strikes, even if he could muster them through his curse, would fail to register as threats. Attacks from beings of equivalent foundation would be significantly blunted. Even assaults from powerful entities like Bazuman would be substantially reduced, transforming potentially lethal strikes into manageable damage.|",
         "|You now possess 10 Multiplicatively Amplified Inscriptiones Dormientes (Defensive)|",
         "...!",
         "Noah nodded once, sharply, and continued without pause. His focus had narrowed to a point, all other concerns falling away like shed clothing. There was only this. Only the next step!",
@@ -23419,7 +23329,7 @@
         {
           "id": 65,
           "paragraph_id": 39,
-          "text": "|Practical Assessment at Current Level:Each of these 10 Inscriptions now provides protection that would render attacks from standard Absolutes negligible."
+          "text": "|Practical Assessment at Current Level: Each of these 10 Inscriptions now provides protection that would render attacks from standard Absolutes negligible."
         },
         {
           "id": 66,
@@ -23607,7 +23517,7 @@
           "text": "...!"
         }
       ],
-      "word_count": 1510
+      "word_count": 1511
     },
     {
       "chapter_index": 4924,
@@ -26000,7 +25910,7 @@
         "The sensation was like standing in a river that wanted to sweep him away, but his feet remained planted on bedrock that couldn’t be moved!",
         "Absolute Immovable Object!",
         "Where the undifferentiation touched his light, it didn’t find purchase. His nature regenerated faster than it could be unmade, his definition reasserting itself with every nanosecond that passed!",
-        "He felt the pressure,yes. But he wasn’t undifferentiated.",
+        "He felt the pressure, yes. But he wasn’t undifferentiated.",
         "He remained exactly what he was.",
         "Beside him, THE Primordial Paradox was surrounded by obsidian-gold light that formed a bubble of absolute protection around his form. The paradoxical authority that comprised his existence simply declared that undifferentiation couldn’t affect him, and reality accepted that declaration without question. Not a single mote of crimson light penetrated his barrier. He stood as an island of perfect calm within the sea of dissolution.",
         "But the four Strategoi behind them...",
@@ -26111,7 +26021,7 @@
         {
           "id": 12,
           "paragraph_id": 10,
-          "text": "He felt the pressure,yes."
+          "text": "He felt the pressure, yes."
         },
         {
           "id": 13,
@@ -26439,7 +26349,7 @@
           "text": "...!"
         }
       ],
-      "word_count": 1184
+      "word_count": 1185
     },
     {
       "chapter_index": 4929,

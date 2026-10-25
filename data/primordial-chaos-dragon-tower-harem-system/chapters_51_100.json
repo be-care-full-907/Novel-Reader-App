@@ -2902,24 +2902,19 @@
         "The runes were glowing faintly around it. It felt like an illusion. Even looking at them made him feel nostalgic. It felt like he had experienced it before, yet he didn’t know from where or when.",
         "[The master has awakened his sword body, meaning you can now be called a master Swordsman. However, you have to earn that by practicing the 10,002 sword moves and mastering all 10,002]",
         "\"Interesting,\" Kent said, pondering on something. A few seconds later, he said, \"Tower, show me the description of my sword body.\"",
-        "***",
         "[Class: Swordsman]",
         "[Trait: Sword Aura | Sword Intent | Sword Body]",
         "[Aspects: Draconic Strength | Chaos Energy Infusion | Draconic Skin]",
         "[Legacy: Chaos Blade (Locked)]",
-        "***",
         "[Sword Body: Chaos Draconic Divine Sword Body (Level 1: Fledging)]",
         "-- The Chaos Draconic Divine Sword Body is a legendary sword cultivation physique that merges the destructive power of chaos, the primal strength of dragons, and the divine mastery of swordsmanship.",
-        "***",
         "[Traits: 2/2]",
         ">Sword Aura (Enhanced): It enhances sword techniques with a subtle, constant energy flow. This makes attacks more precise and powerful.",
         "> Sword Intent (Enhanced): A mental state that focuses the cultivator’s willpower, mastery, and presence, turning the sword into a weapon of spiritual destruction.",
-        "***",
         "[Aspects: 3/3]",
         "> Draconic Strength: When using the sword, your body will gain the strength of a dragon, giving you a tenfold boost in your strength attribute.",
         "> Chaos Energy Infusion: Though not fully awakened, when using the sword, your sword aura will inherit the strength of chaos energy, amplifying it by a hundred times.",
         ">Draconic Skin: Your skin has now hardened, and all attacks will be nullified by 80% while you are using the sword.",
-        "***",
         "\"Wow, this is just too much to take in,\" Kent sighed, reading the descriptions. It looked too good to be true; however, looking at the runes on his body, he could tell it was real.",
         "Plus, he could even feel the strength coursing through him, even without holding a sword.",
         "\"Tower, why are the runes dimming now?\" Kent asked immediately as he noticed the runes flickering out.",
@@ -3172,305 +3167,280 @@
         {
           "id": 45,
           "paragraph_id": 23,
-          "text": "***"
+          "text": "[Class: Swordsman]"
         },
         {
           "id": 46,
           "paragraph_id": 24,
-          "text": "[Class: Swordsman]"
+          "text": "[Trait: Sword Aura | Sword Intent | Sword Body]"
         },
         {
           "id": 47,
           "paragraph_id": 25,
-          "text": "[Trait: Sword Aura | Sword Intent | Sword Body]"
+          "text": "[Aspects: Draconic Strength | Chaos Energy Infusion | Draconic Skin]"
         },
         {
           "id": 48,
           "paragraph_id": 26,
-          "text": "[Aspects: Draconic Strength | Chaos Energy Infusion | Draconic Skin]"
+          "text": "[Legacy: Chaos Blade (Locked)]"
         },
         {
           "id": 49,
           "paragraph_id": 27,
-          "text": "[Legacy: Chaos Blade (Locked)]"
+          "text": "[Sword Body: Chaos Draconic Divine Sword Body (Level 1: Fledging)]"
         },
         {
           "id": 50,
           "paragraph_id": 28,
-          "text": "***"
+          "text": "-- The Chaos Draconic Divine Sword Body is a legendary sword cultivation physique that merges the destructive power of chaos, the primal strength of dragons, and the divine mastery of swordsmanship."
         },
         {
           "id": 51,
           "paragraph_id": 29,
-          "text": "[Sword Body: Chaos Draconic Divine Sword Body (Level 1: Fledging)]"
+          "text": "[Traits: 2/2]"
         },
         {
           "id": 52,
           "paragraph_id": 30,
-          "text": "-- The Chaos Draconic Divine Sword Body is a legendary sword cultivation physique that merges the destructive power of chaos, the primal strength of dragons, and the divine mastery of swordsmanship."
+          "text": ">Sword Aura (Enhanced): It enhances sword techniques with a subtle, constant energy flow."
         },
         {
           "id": 53,
-          "paragraph_id": 31,
-          "text": "***"
+          "paragraph_id": 30,
+          "text": "This makes attacks more precise and powerful."
         },
         {
           "id": 54,
-          "paragraph_id": 32,
-          "text": "[Traits: 2/2]"
+          "paragraph_id": 31,
+          "text": "> Sword Intent (Enhanced): A mental state that focuses the cultivator’s willpower, mastery, and presence, turning the sword into a weapon of spiritual destruction."
         },
         {
           "id": 55,
-          "paragraph_id": 33,
-          "text": ">Sword Aura (Enhanced): It enhances sword techniques with a subtle, constant energy flow."
+          "paragraph_id": 32,
+          "text": "[Aspects: 3/3]"
         },
         {
           "id": 56,
           "paragraph_id": 33,
-          "text": "This makes attacks more precise and powerful."
+          "text": "> Draconic Strength: When using the sword, your body will gain the strength of a dragon, giving you a tenfold boost in your strength attribute."
         },
         {
           "id": 57,
           "paragraph_id": 34,
-          "text": "> Sword Intent (Enhanced): A mental state that focuses the cultivator’s willpower, mastery, and presence, turning the sword into a weapon of spiritual destruction."
+          "text": "> Chaos Energy Infusion: Though not fully awakened, when using the sword, your sword aura will inherit the strength of chaos energy, amplifying it by a hundred times."
         },
         {
           "id": 58,
           "paragraph_id": 35,
-          "text": "***"
+          "text": ">Draconic Skin: Your skin has now hardened, and all attacks will be nullified by 80% while you are using the sword."
         },
         {
           "id": 59,
           "paragraph_id": 36,
-          "text": "[Aspects: 3/3]"
-        },
-        {
-          "id": 60,
-          "paragraph_id": 37,
-          "text": "> Draconic Strength: When using the sword, your body will gain the strength of a dragon, giving you a tenfold boost in your strength attribute."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 38,
-          "text": "> Chaos Energy Infusion: Though not fully awakened, when using the sword, your sword aura will inherit the strength of chaos energy, amplifying it by a hundred times."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 39,
-          "text": ">Draconic Skin: Your skin has now hardened, and all attacks will be nullified by 80% while you are using the sword."
-        },
-        {
-          "id": 63,
-          "paragraph_id": 40,
-          "text": "***"
-        },
-        {
-          "id": 64,
-          "paragraph_id": 41,
           "text": "\"Wow, this is just too much to take in,\" Kent sighed, reading the descriptions."
         },
         {
-          "id": 65,
-          "paragraph_id": 41,
+          "id": 60,
+          "paragraph_id": 36,
           "text": "It looked too good to be true; however, looking at the runes on his body, he could tell it was real."
         },
         {
-          "id": 66,
-          "paragraph_id": 42,
+          "id": 61,
+          "paragraph_id": 37,
           "text": "Plus, he could even feel the strength coursing through him, even without holding a sword."
         },
         {
-          "id": 67,
-          "paragraph_id": 43,
+          "id": 62,
+          "paragraph_id": 38,
           "text": "\"Tower, why are the runes dimming now?\" Kent asked immediately as he noticed the runes flickering out."
         },
         {
-          "id": 68,
-          "paragraph_id": 44,
+          "id": 63,
+          "paragraph_id": 39,
           "text": "[Your sword body has finished merging with your bloodline."
         },
         {
-          "id": 69,
-          "paragraph_id": 44,
+          "id": 64,
+          "paragraph_id": 39,
           "text": "As you cultivate, your sword body will continue to grow."
         },
         {
-          "id": 70,
-          "paragraph_id": 44,
+          "id": 65,
+          "paragraph_id": 39,
           "text": "However, the Master is advised to look for more treasures with sword-type energy within them to absorb.]"
         },
         {
-          "id": 71,
-          "paragraph_id": 45,
+          "id": 66,
+          "paragraph_id": 40,
           "text": "\"What about the legacy?"
         },
         {
-          "id": 72,
-          "paragraph_id": 45,
+          "id": 67,
+          "paragraph_id": 40,
           "text": "What is it, and why is it locked?\""
         },
         {
-          "id": 73,
-          "paragraph_id": 46,
+          "id": 68,
+          "paragraph_id": 41,
           "text": "[The legacy is a sword you will inherit when the Sword Tower fully awakens."
         },
         {
-          "id": 74,
-          "paragraph_id": 46,
+          "id": 69,
+          "paragraph_id": 41,
           "text": "It’s a sword that will better suit your sword body.]"
         },
         {
-          "id": 75,
-          "paragraph_id": 47,
+          "id": 70,
+          "paragraph_id": 42,
           "text": "\"I see."
         },
         {
-          "id": 76,
-          "paragraph_id": 47,
+          "id": 71,
+          "paragraph_id": 42,
           "text": "Then I have to look for more of these treasures and see how far they can take me,\" Kent said before standing up."
         },
         {
-          "id": 77,
-          "paragraph_id": 47,
+          "id": 72,
+          "paragraph_id": 42,
           "text": "The aura stone had been sucked dry, and he could only wish he had more of it."
         },
         {
-          "id": 78,
-          "paragraph_id": 48,
+          "id": 73,
+          "paragraph_id": 43,
           "text": "\"I guess I can start practicing the Sword Mind now.\" Kent quickly picked up his sword and went to an open space right behind the small mansion he was staying in with his master."
         },
         {
-          "id": 79,
-          "paragraph_id": 49,
+          "id": 74,
+          "paragraph_id": 44,
           "text": "\"Tower, how do I go forward with this new upgrade?\" Kent asked."
         },
         {
-          "id": 80,
-          "paragraph_id": 50,
+          "id": 75,
+          "paragraph_id": 45,
           "text": "[The Master just needs to focus on the technique, and he will know what to do.]"
         },
         {
-          "id": 81,
-          "paragraph_id": 51,
+          "id": 76,
+          "paragraph_id": 46,
           "text": "Kent opened and closed his eyes, then began focusing on the Sword Mind technique."
         },
         {
-          "id": 82,
-          "paragraph_id": 51,
+          "id": 77,
+          "paragraph_id": 46,
           "text": "Immediately, images began flashing before his eyes."
         },
         {
-          "id": 83,
-          "paragraph_id": 52,
+          "id": 78,
+          "paragraph_id": 47,
           "text": "Images of different sword moves flickered before him for thirty minutes before they stopped."
         },
         {
-          "id": 84,
-          "paragraph_id": 52,
+          "id": 79,
+          "paragraph_id": 47,
           "text": "When they did, Kent felt his mind filled with 10,002 sword moves—all foreign to him."
         },
         {
-          "id": 85,
-          "paragraph_id": 53,
+          "id": 80,
+          "paragraph_id": 48,
           "text": "\"I guess that’s what I was looking for,\" he muttered."
         },
         {
-          "id": 86,
-          "paragraph_id": 53,
+          "id": 81,
+          "paragraph_id": 48,
           "text": "With a sigh, he drew the sword and placed the sheath down."
         },
         {
-          "id": 87,
-          "paragraph_id": 54,
+          "id": 82,
+          "paragraph_id": 49,
           "text": "He then focused his attention on the 10,002 moves and began practicing."
         },
         {
-          "id": 88,
-          "paragraph_id": 54,
+          "id": 83,
+          "paragraph_id": 49,
           "text": "He moved in sync with the techniques imprinted in his mind, each motion flowing seamlessly from the next."
         },
         {
-          "id": 89,
-          "paragraph_id": 55,
+          "id": 84,
+          "paragraph_id": 50,
           "text": "His mind was immediately absorbed in the movements."
         },
         {
-          "id": 90,
-          "paragraph_id": 55,
+          "id": 85,
+          "paragraph_id": 50,
           "text": "The sword in his hand began glowing faintly with sword qi, and his sword intent gradually spread, encompassing the area around him."
         },
         {
-          "id": 91,
-          "paragraph_id": 56,
+          "id": 86,
+          "paragraph_id": 51,
           "text": "The process just clicked the moment he started the movement and soon, he was deep into it."
         },
         {
-          "id": 92,
-          "paragraph_id": 56,
+          "id": 87,
+          "paragraph_id": 51,
           "text": "Ten Hours passed within the blink of an eye yet Kent wasn’t showing any signs of coming out of the weird state he was in."
         },
         {
-          "id": 93,
-          "paragraph_id": 57,
+          "id": 88,
+          "paragraph_id": 52,
           "text": "Twenty hours passed, and he was still at it."
         },
         {
-          "id": 94,
-          "paragraph_id": 57,
+          "id": 89,
+          "paragraph_id": 52,
           "text": "By this point, his sword qi had grown much more pronounced, radiating visibly around him."
         },
         {
-          "id": 95,
-          "paragraph_id": 57,
+          "id": 90,
+          "paragraph_id": 52,
           "text": "His sword intent, too, had intensified significantly as he continued honing his techniques."
         },
         {
-          "id": 96,
-          "paragraph_id": 58,
+          "id": 91,
+          "paragraph_id": 53,
           "text": "While this might seem extraordinary to many, the truth was that Kent had only mastered 402 moves so far despite the 20 hours of continuous practice."
         },
         {
-          "id": 97,
-          "paragraph_id": 59,
+          "id": 92,
+          "paragraph_id": 54,
           "text": "But results, however, were starting to show."
         },
         {
-          "id": 98,
-          "paragraph_id": 59,
+          "id": 93,
+          "paragraph_id": 54,
           "text": "Although he had just started, the signs were showing."
         },
         {
-          "id": 99,
-          "paragraph_id": 59,
+          "id": 94,
+          "paragraph_id": 54,
           "text": "Of course, that was just the initial stages of the path he chose to walk."
         },
         {
-          "id": 100,
-          "paragraph_id": 59,
+          "id": 95,
+          "paragraph_id": 54,
           "text": "His inheritance came with a sword path, the Genesis path, and Kent had just started walking that path."
         },
         {
-          "id": 101,
-          "paragraph_id": 60,
+          "id": 96,
+          "paragraph_id": 55,
           "text": "Of course, he wouldn’t realize this until he completed all 10,002 sword moves."
         },
         {
-          "id": 102,
-          "paragraph_id": 60,
+          "id": 97,
+          "paragraph_id": 55,
           "text": "Yet, even at this early stage, he had unknowingly started showing the signs."
         },
         {
-          "id": 103,
-          "paragraph_id": 61,
+          "id": 98,
+          "paragraph_id": 56,
           "text": "According to the Tower, although his current status was that of a sword master, he would only earn the title of a true sword master after mastering every one of those 10,002 moves."
         },
         {
-          "id": 104,
-          "paragraph_id": 62,
+          "id": 99,
+          "paragraph_id": 57,
           "text": "And thus, Kent’s journey as a true swordsman had just begun."
         }
       ],
-      "word_count": 1298
+      "word_count": 1293
     },
     {
       "chapter_index": 57,
@@ -9340,7 +9310,6 @@
         "<I see,> Kent thought.",
         "\"That is a guardian stone,\" Janice said aloud. \"Fusing with it will connect you to Li Hua. There isn’t much time left, so please do it before I cease to exist entirely,\" she pleaded, her voice faint and strained.",
         "Kent nodded, channeling his energy into the stone. As he did, a series of messages began to appear before him.",
-        "***",
         "[You have fused with a Guardian Stone. +100 added to your spiritual strength permanently.]",
         "[Requirement met... Guardian Tower has been unlocked. You must become a Root Grandmaster to awaken it fully.]",
         "[You have added the human named Li Hua to your Guardian Tower.]",
@@ -9781,105 +9750,100 @@
         {
           "id": 84,
           "paragraph_id": 40,
-          "text": "***"
+          "text": "[You have fused with a Guardian Stone. +100 added to your spiritual strength permanently.]"
         },
         {
           "id": 85,
           "paragraph_id": 41,
-          "text": "[You have fused with a Guardian Stone. +100 added to your spiritual strength permanently.]"
-        },
-        {
-          "id": 86,
-          "paragraph_id": 42,
           "text": "[Requirement met..."
         },
         {
-          "id": 87,
-          "paragraph_id": 42,
+          "id": 86,
+          "paragraph_id": 41,
           "text": "Guardian Tower has been unlocked."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 41,
+          "text": "You must become a Root Grandmaster to awaken it fully.]"
         },
         {
           "id": 88,
           "paragraph_id": 42,
-          "text": "You must become a Root Grandmaster to awaken it fully.]"
+          "text": "[You have added the human named Li Hua to your Guardian Tower.]"
         },
         {
           "id": 89,
           "paragraph_id": 43,
-          "text": "[You have added the human named Li Hua to your Guardian Tower.]"
+          "text": "[Because this is your first time becoming a Guardian, the skill named [Guardians Protect] has been unlocked.]"
         },
         {
           "id": 90,
           "paragraph_id": 44,
-          "text": "[Because this is your first time becoming a Guardian, the skill named [Guardians Protect] has been unlocked.]"
+          "text": "[Guardians Protect]"
         },
         {
           "id": 91,
           "paragraph_id": 45,
-          "text": "[Guardians Protect]"
+          "text": "Grade: Divine"
         },
         {
           "id": 92,
           "paragraph_id": 46,
-          "text": "Grade: Divine"
+          "text": "Rank: SSS"
         },
         {
           "id": 93,
           "paragraph_id": 47,
-          "text": "Rank: SSS"
+          "text": "-- You can sense those under your protection from 2 miles away."
         },
         {
           "id": 94,
-          "paragraph_id": 48,
-          "text": "-- You can sense those under your protection from 2 miles away."
+          "paragraph_id": 47,
+          "text": "This will continue to increase as your soul grows."
         },
         {
           "id": 95,
           "paragraph_id": 48,
-          "text": "This will continue to increase as your soul grows."
+          "text": "-- Whenever someone under your protection is harmed, you will get a 500% boost to all your attributes for 10 minutes."
         },
         {
           "id": 96,
           "paragraph_id": 49,
-          "text": "-- Whenever someone under your protection is harmed, you will get a 500% boost to all your attributes for 10 minutes."
+          "text": "> Side Effect: Extreme anger and bloodlust."
         },
         {
           "id": 97,
           "paragraph_id": 50,
-          "text": "> Side Effect: Extreme anger and bloodlust."
+          "text": "-- All those under your protection will inherit a part of your strength when in a life-and-death situation."
         },
         {
           "id": 98,
           "paragraph_id": 51,
-          "text": "-- All those under your protection will inherit a part of your strength when in a life-and-death situation."
+          "text": "> Note: You will not get weakened in any way."
         },
         {
           "id": 99,
           "paragraph_id": 52,
-          "text": "> Note: You will not get weakened in any way."
+          "text": "-- You will gain a part of the spiritual qi from those under your protection while they are cultivating."
         },
         {
           "id": 100,
           "paragraph_id": 53,
-          "text": "-- You will gain a part of the spiritual qi from those under your protection while they are cultivating."
+          "text": "-- Once every day, you can use the skill [Guardians Fury] to protect those linked to you."
         },
         {
           "id": 101,
-          "paragraph_id": 54,
-          "text": "-- Once every day, you can use the skill [Guardians Fury] to protect those linked to you."
+          "paragraph_id": 53,
+          "text": "This skill will give you a 2,000% boost in all your attributes."
         },
         {
           "id": 102,
           "paragraph_id": 54,
-          "text": "This skill will give you a 2,000% boost in all your attributes."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 55,
           "text": "’Damn.’"
         }
       ],
-      "word_count": 1272
+      "word_count": 1271
     },
     {
       "chapter_index": 69,
@@ -10511,7 +10475,6 @@
         "Naturally, this is what people call fate. But their fate is already sealed. Soon, the kingdom would know what Chaos feels like when a Guardian is provoked.",
         "Dave Ashland left to carry out his woman’s order like an errand boy. A few minutes later, more guards were sent to the prison, where they planned to ambush Kent.",
         "It was also the prison where Li Hua and someone else that fate seemed to be toying with were being held.",
-        "***",
         "Hours later, Kent, who had just left the small shed in the woods, began making his way in the direction Janice had tracked the attackers.",
         "He was in the forest, but all the beasts he sensed were weak, so they didn’t even notice him. Of course, a few tried to play hero, but those unfortunate ones died before they even realized what was happening.",
         "It took Kent a couple of hours, but soon, he came upon a clearing where a battle seemed to have occurred. Judging by the beast carcasses scattered on the ground, it was clear the fight had been between humans and monsters.",
@@ -10942,50 +10905,45 @@
         {
           "id": 84,
           "paragraph_id": 43,
-          "text": "***"
+          "text": "Hours later, Kent, who had just left the small shed in the woods, began making his way in the direction Janice had tracked the attackers."
         },
         {
           "id": 85,
           "paragraph_id": 44,
-          "text": "Hours later, Kent, who had just left the small shed in the woods, began making his way in the direction Janice had tracked the attackers."
+          "text": "He was in the forest, but all the beasts he sensed were weak, so they didn’t even notice him."
         },
         {
           "id": 86,
-          "paragraph_id": 45,
-          "text": "He was in the forest, but all the beasts he sensed were weak, so they didn’t even notice him."
+          "paragraph_id": 44,
+          "text": "Of course, a few tried to play hero, but those unfortunate ones died before they even realized what was happening."
         },
         {
           "id": 87,
           "paragraph_id": 45,
-          "text": "Of course, a few tried to play hero, but those unfortunate ones died before they even realized what was happening."
+          "text": "It took Kent a couple of hours, but soon, he came upon a clearing where a battle seemed to have occurred."
         },
         {
           "id": 88,
-          "paragraph_id": 46,
-          "text": "It took Kent a couple of hours, but soon, he came upon a clearing where a battle seemed to have occurred."
+          "paragraph_id": 45,
+          "text": "Judging by the beast carcasses scattered on the ground, it was clear the fight had been between humans and monsters."
         },
         {
           "id": 89,
           "paragraph_id": 46,
-          "text": "Judging by the beast carcasses scattered on the ground, it was clear the fight had been between humans and monsters."
+          "text": "Kent paused only briefly to track where they had gone."
         },
         {
           "id": 90,
-          "paragraph_id": 47,
-          "text": "Kent paused only briefly to track where they had gone."
+          "paragraph_id": 46,
+          "text": "It took him just a moment to find their trail."
         },
         {
           "id": 91,
           "paragraph_id": 47,
-          "text": "It took him just a moment to find their trail."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 48,
           "text": "Thirty minutes later, the soul-tracking seal picked up on the target..."
         }
       ],
-      "word_count": 1229
+      "word_count": 1228
     },
     {
       "chapter_index": 71,
@@ -11023,7 +10981,6 @@
         "There is also a mage capable of casting powerful debuff spells.",
         "The master might be out of his league here. But that is what makes it fun...]",
         "Kent raised an eyebrow and was about to retort when a new set of messages appeared. Of course, he wasn’t surprised by the sudden messages.",
-        "***",
         "[You have received a mega quest. This is your first time receiving this quest, so the rewards will be doubled.]",
         "[Quest Name: Guardian’s Protect]",
         "[Quest Description: A ward under your protection’s life is threatened. As a guardian, you are required to protect your ward with your life. Show your might.]",
@@ -11060,7 +11017,6 @@
         "[Effects:]",
         "-- With a simple glance, you can learn hidden details about people, beasts, items, and much more.",
         "-- This skill has also enhanced your awareness. Your ability to read body language has reached a new height.",
-        "***",
         "\"This is good enough,\" Kent muttered.",
         "He then extended calling for his weapon. Somewhere inside his room inside the Alderford Mansion, the sword sheath on his bed vanished and appeared in his hand.",
         "[How is the Master going to approach this?] the Tower asked.",
@@ -11306,370 +11262,360 @@
         {
           "id": 46,
           "paragraph_id": 31,
-          "text": "***"
+          "text": "[You have received a mega quest."
         },
         {
           "id": 47,
-          "paragraph_id": 32,
-          "text": "[You have received a mega quest."
+          "paragraph_id": 31,
+          "text": "This is your first time receiving this quest, so the rewards will be doubled.]"
         },
         {
           "id": 48,
           "paragraph_id": 32,
-          "text": "This is your first time receiving this quest, so the rewards will be doubled.]"
+          "text": "[Quest Name: Guardian’s Protect]"
         },
         {
           "id": 49,
           "paragraph_id": 33,
-          "text": "[Quest Name: Guardian’s Protect]"
-        },
-        {
-          "id": 50,
-          "paragraph_id": 34,
           "text": "[Quest Description: A ward under your protection’s life is threatened."
         },
         {
-          "id": 51,
-          "paragraph_id": 34,
+          "id": 50,
+          "paragraph_id": 33,
           "text": "As a guardian, you are required to protect your ward with your life."
+        },
+        {
+          "id": 51,
+          "paragraph_id": 33,
+          "text": "Show your might.]"
         },
         {
           "id": 52,
           "paragraph_id": 34,
-          "text": "Show your might.]"
+          "text": "[Rewards: 4 Skill Upgrade Passes | The Rat’s Lair Medallion | A Hidden Reward]"
         },
         {
           "id": 53,
           "paragraph_id": 35,
-          "text": "[Rewards: 4 Skill Upgrade Passes | The Rat’s Lair Medallion | A Hidden Reward]"
+          "text": "\"Looks like I have to bring my A-game here,\" Kent smiled."
         },
         {
           "id": 54,
-          "paragraph_id": 36,
-          "text": "\"Looks like I have to bring my A-game here,\" Kent smiled."
+          "paragraph_id": 35,
+          "text": "From the moment he appeared in this world, he had been longing for a good fight."
         },
         {
           "id": 55,
           "paragraph_id": 36,
-          "text": "From the moment he appeared in this world, he had been longing for a good fight."
-        },
-        {
-          "id": 56,
-          "paragraph_id": 37,
           "text": "The last time he fought, it was one-sided because the targets were too weak."
         },
         {
-          "id": 57,
-          "paragraph_id": 37,
+          "id": 56,
+          "paragraph_id": 36,
           "text": "But not this time."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 36,
+          "text": "The opponents were much more powerful."
         },
         {
           "id": 58,
           "paragraph_id": 37,
-          "text": "The opponents were much more powerful."
+          "text": "\"A level 5 Root Master against a Peak Saint, huh?"
         },
         {
           "id": 59,
-          "paragraph_id": 38,
-          "text": "\"A level 5 Root Master against a Peak Saint, huh?"
+          "paragraph_id": 37,
+          "text": "I wish Master was here to witness this,\" Kent muttered."
         },
         {
           "id": 60,
           "paragraph_id": 38,
-          "text": "I wish Master was here to witness this,\" Kent muttered."
+          "text": "[I can record it for the Master if you want.]"
         },
         {
           "id": 61,
           "paragraph_id": 39,
-          "text": "[I can record it for the Master if you want.]"
+          "text": "\"Do that, buddy."
         },
         {
           "id": 62,
-          "paragraph_id": 40,
-          "text": "\"Do that, buddy."
+          "paragraph_id": 39,
+          "text": "Although she will believe me if I tell her, she would be very pleased to witness it, even if it’s just a video.\" Kent smiled."
         },
         {
           "id": 63,
           "paragraph_id": 40,
-          "text": "Although she will believe me if I tell her, she would be very pleased to witness it, even if it’s just a video.\" Kent smiled."
+          "text": "If only he knew the decision to record the upcoming battle would become a key to knowing a lot about himself."
         },
         {
           "id": 64,
           "paragraph_id": 41,
-          "text": "If only he knew the decision to record the upcoming battle would become a key to knowing a lot about himself."
-        },
-        {
-          "id": 65,
-          "paragraph_id": 42,
           "text": "Before starting, he quickly assessed his points to see how he could improve his strength."
         },
         {
-          "id": 66,
-          "paragraph_id": 42,
+          "id": 65,
+          "paragraph_id": 41,
           "text": "A single him against 170 was already an overkill."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 41,
+          "text": "The least he could do was level the playing field."
         },
         {
           "id": 67,
           "paragraph_id": 42,
-          "text": "The least he could do was level the playing field."
+          "text": "[Tower Points: 760,000]"
         },
         {
           "id": 68,
           "paragraph_id": 43,
-          "text": "[Tower Points: 760,000]"
+          "text": "[Attribute Points: 310]"
         },
         {
           "id": 69,
           "paragraph_id": 44,
-          "text": "[Attribute Points: 310]"
+          "text": "[Skill Upgrade Points: 8100]"
         },
         {
           "id": 70,
           "paragraph_id": 45,
-          "text": "[Skill Upgrade Points: 8100]"
+          "text": "’Hmm, killing the spirit beast paid off some Skill Upgrade Points.’"
         },
         {
           "id": 71,
           "paragraph_id": 46,
-          "text": "’Hmm, killing the spirit beast paid off some Skill Upgrade Points.’"
+          "text": "\"Tower, add 100 points to strength and agility, then 50 to stamina and spiritual strength, and the last 10 to mental strength.\""
         },
         {
           "id": 72,
           "paragraph_id": 47,
-          "text": "\"Tower, add 100 points to strength and agility, then 50 to stamina and spiritual strength, and the last 10 to mental strength.\""
+          "text": "[Points added.]"
         },
         {
           "id": 73,
           "paragraph_id": 48,
-          "text": "[Points added.]"
+          "text": "Kent felt a rush of energy pass through him, confirming the points had been distributed."
         },
         {
           "id": 74,
           "paragraph_id": 49,
-          "text": "Kent felt a rush of energy pass through him, confirming the points had been distributed."
+          "text": "\"I also have 8,100 points."
         },
         {
           "id": 75,
-          "paragraph_id": 50,
-          "text": "\"I also have 8,100 points."
+          "paragraph_id": 49,
+          "text": "How should I spend them, Tower?\" Kent asked."
         },
         {
           "id": 76,
           "paragraph_id": 50,
-          "text": "How should I spend them, Tower?\" Kent asked."
+          "text": "[Since the master already has some powerful sword techniques, the Elemental Manipulation skill can be weeded out for now."
         },
         {
           "id": 77,
-          "paragraph_id": 51,
-          "text": "[Since the master already has some powerful sword techniques, the Elemental Manipulation skill can be weeded out for now."
+          "paragraph_id": 50,
+          "text": "The Teleport skill is also strong enough, and even if it weren’t, there aren’t enough points to upgrade its grade or rank."
         },
         {
           "id": 78,
           "paragraph_id": 51,
-          "text": "The Teleport skill is also strong enough, and even if it weren’t, there aren’t enough points to upgrade its grade or rank."
+          "text": "The 36 String Weaving Strike is also strong enough, but since we don’t have enough points for it, we can reserve that for later."
         },
         {
           "id": 79,
-          "paragraph_id": 52,
-          "text": "The 36 String Weaving Strike is also strong enough, but since we don’t have enough points for it, we can reserve that for later."
+          "paragraph_id": 51,
+          "text": "After the battle, you can handle that."
         },
         {
           "id": 80,
           "paragraph_id": 52,
-          "text": "After the battle, you can handle that."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 53,
           "text": "Now, the only skill you have that doesn’t have much use just yet is the Appraiser’s Eye."
         },
         {
-          "id": 82,
-          "paragraph_id": 53,
+          "id": 81,
+          "paragraph_id": 52,
           "text": "For now, that skill is only a Rare-grade skill at the SS rank."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 52,
+          "text": "It isn’t much, but it can be more."
         },
         {
           "id": 83,
           "paragraph_id": 53,
-          "text": "It isn’t much, but it can be more."
+          "text": "But that would depend on whether the master wants to upgrade it or not."
         },
         {
           "id": 84,
-          "paragraph_id": 54,
-          "text": "But that would depend on whether the master wants to upgrade it or not."
+          "paragraph_id": 53,
+          "text": "That said, the skill has great potential yet to be discovered.]"
         },
         {
           "id": 85,
           "paragraph_id": 54,
-          "text": "That said, the skill has great potential yet to be discovered.]"
-        },
-        {
-          "id": 86,
-          "paragraph_id": 55,
           "text": "\"The Appraiser’s Eye, huh?"
         },
         {
-          "id": 87,
-          "paragraph_id": 55,
+          "id": 86,
+          "paragraph_id": 54,
           "text": "Why not."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 54,
+          "text": "Tower, let’s upgrade that,\" Kent said."
         },
         {
           "id": 88,
           "paragraph_id": 55,
-          "text": "Tower, let’s upgrade that,\" Kent said."
+          "text": "[The master has two options, each of which will cost 5,000 points:"
         },
         {
           "id": 89,
           "paragraph_id": 56,
-          "text": "[The master has two options, each of which will cost 5,000 points:"
+          "text": "The first is to upgrade the skill’s grade from Rare to Earth grade, advancing the skill to the next level."
         },
         {
           "id": 90,
           "paragraph_id": 57,
-          "text": "The first is to upgrade the skill’s grade from Rare to Earth grade, advancing the skill to the next level."
+          "text": "The second is to raise the rank from SS to SSS, strengthening and improving the already existing effects.]"
         },
         {
           "id": 91,
           "paragraph_id": 58,
-          "text": "The second is to raise the rank from SS to SSS, strengthening and improving the already existing effects.]"
+          "text": "\"Go for the grade,\" Kent ordered."
         },
         {
           "id": 92,
           "paragraph_id": 59,
-          "text": "\"Go for the grade,\" Kent ordered."
-        },
-        {
-          "id": 93,
-          "paragraph_id": 60,
           "text": "[Command received."
         },
         {
-          "id": 94,
-          "paragraph_id": 60,
+          "id": 93,
+          "paragraph_id": 59,
           "text": "Upgrading skill..."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 59,
+          "text": "Appraiser’s Eye skill successfully upgraded from Rare Grade to Earth Grade.]"
         },
         {
           "id": 95,
           "paragraph_id": 60,
-          "text": "Appraiser’s Eye skill successfully upgraded from Rare Grade to Earth Grade.]"
-        },
-        {
-          "id": 96,
-          "paragraph_id": 61,
           "text": "[You have upgraded your skill from Rare to Earth Grade."
         },
         {
-          "id": 97,
-          "paragraph_id": 61,
+          "id": 96,
+          "paragraph_id": 60,
           "text": "The Appraiser’s Eye skill has undergone great improvements."
+        },
+        {
+          "id": 97,
+          "paragraph_id": 60,
+          "text": "The skill has also undergone a name change.]"
         },
         {
           "id": 98,
           "paragraph_id": 61,
-          "text": "The skill has also undergone a name change.]"
+          "text": "[Skill Name: Appraiser’s Eye (Max)]"
         },
         {
           "id": 99,
           "paragraph_id": 62,
-          "text": "[Skill Name: Appraiser’s Eye (Max)]"
+          "text": "[Grade: Earth]"
         },
         {
           "id": 100,
           "paragraph_id": 63,
-          "text": "[Grade: Earth]"
+          "text": "[Rank: SS]"
         },
         {
           "id": 101,
           "paragraph_id": 64,
-          "text": "[Rank: SS]"
+          "text": "[Effects:]"
         },
         {
           "id": 102,
           "paragraph_id": 65,
-          "text": "[Effects:]"
+          "text": "-- With a simple glance, you can learn hidden details about people, beasts, items, and much more."
         },
         {
           "id": 103,
           "paragraph_id": 66,
-          "text": "-- With a simple glance, you can learn hidden details about people, beasts, items, and much more."
+          "text": "-- This skill has also enhanced your awareness."
         },
         {
           "id": 104,
-          "paragraph_id": 67,
-          "text": "-- This skill has also enhanced your awareness."
+          "paragraph_id": 66,
+          "text": "Your ability to read body language has reached a new height."
         },
         {
           "id": 105,
           "paragraph_id": 67,
-          "text": "Your ability to read body language has reached a new height."
+          "text": "\"This is good enough,\" Kent muttered."
         },
         {
           "id": 106,
           "paragraph_id": 68,
-          "text": "***"
+          "text": "He then extended calling for his weapon."
         },
         {
           "id": 107,
-          "paragraph_id": 69,
-          "text": "\"This is good enough,\" Kent muttered."
+          "paragraph_id": 68,
+          "text": "Somewhere inside his room inside the Alderford Mansion, the sword sheath on his bed vanished and appeared in his hand."
         },
         {
           "id": 108,
-          "paragraph_id": 70,
-          "text": "He then extended calling for his weapon."
+          "paragraph_id": 69,
+          "text": "[How is the Master going to approach this?] the Tower asked."
         },
         {
           "id": 109,
           "paragraph_id": 70,
-          "text": "Somewhere inside his room inside the Alderford Mansion, the sword sheath on his bed vanished and appeared in his hand."
+          "text": "\"I will be walking to their doorstep like I own the place,\" Kent said with a smile."
         },
         {
           "id": 110,
-          "paragraph_id": 71,
-          "text": "[How is the Master going to approach this?] the Tower asked."
+          "paragraph_id": 70,
+          "text": "Naturally, he was feeling pretty confident now."
         },
         {
           "id": 111,
-          "paragraph_id": 72,
-          "text": "\"I will be walking to their doorstep like I own the place,\" Kent said with a smile."
+          "paragraph_id": 71,
+          "text": "[Good answer, Master,] the Tower responded, and then a new quest appeared."
         },
         {
           "id": 112,
           "paragraph_id": 72,
-          "text": "Naturally, he was feeling pretty confident now."
+          "text": "[You have received a side quest.]"
         },
         {
           "id": 113,
           "paragraph_id": 73,
-          "text": "[Good answer, Master,] the Tower responded, and then a new quest appeared."
+          "text": "[Quest Name: Guardian’s Arrogance]"
         },
         {
           "id": 114,
           "paragraph_id": 74,
-          "text": "[You have received a side quest.]"
+          "text": "[Quest Description: Even though your ward is in trouble, walk with your shoulders high and show them what a Guardian is made of.]"
         },
         {
           "id": 115,
           "paragraph_id": 75,
-          "text": "[Quest Name: Guardian’s Arrogance]"
+          "text": "[Reward: Kingdom Building Enchanted Book]"
         },
         {
           "id": 116,
           "paragraph_id": 76,
-          "text": "[Quest Description: Even though your ward is in trouble, walk with your shoulders high and show them what a Guardian is made of.]"
-        },
-        {
-          "id": 117,
-          "paragraph_id": 77,
-          "text": "[Reward: Kingdom Building Enchanted Book]"
-        },
-        {
-          "id": 118,
-          "paragraph_id": 78,
           "text": "\"Well then, here I come,\" Kent smiled and began walking toward the prison."
         }
       ],
-      "word_count": 1210
+      "word_count": 1208
     },
     {
       "chapter_index": 72,
@@ -13490,7 +13436,6 @@
         "\"I see. At least everything will be made known in 7 days,\" Kent sighed.",
         "He stood up and went to retrieve his sword. However, the moment he stood up, he saw a red bead radiating intense soul energy a few steps behind him.",
         "Kent quickly moved and picked it up. His Appraiser’s Eye then scanned it.",
-        "***",
         "[Extreme Soul Bead (Forbidden Pill)]",
         "[Grade: Tier 7]",
         "[Soul Essence: 502,001/502,004]",
@@ -13498,7 +13443,6 @@
         "-- But although the bead is forbidden, it contains the purest form of soul energy.",
         "-- Absorbing this bead will enhance one’s soul in many ways. It also nurtures the soul and makes it very rich in concentration.",
         "-- It is said that if a soul cultivator absorbs a soul bead, their chances of forming a soul body are very high. It also improves the spirit root to a certain degree.",
-        "***",
         "\"Looks like good stuff,\" Kent muttered as he quickly placed the bead in his space ring and went to retrieve his sword.",
         "He gazed at the scared expression on Lady Sandra’s face and smirked.",
         "\"Serves you right. Wanting to make me your slave... How bold!\" Subconsciously, Kent leaked a very powerful aura that shouldn’t belong to a Level 5 Root Master.",
@@ -13933,95 +13877,85 @@
         {
           "id": 85,
           "paragraph_id": 52,
-          "text": "***"
+          "text": "[Extreme Soul Bead (Forbidden Pill)]"
         },
         {
           "id": 86,
           "paragraph_id": 53,
-          "text": "[Extreme Soul Bead (Forbidden Pill)]"
+          "text": "[Grade: Tier 7]"
         },
         {
           "id": 87,
           "paragraph_id": 54,
-          "text": "[Grade: Tier 7]"
+          "text": "[Soul Essence: 502,001/502,004]"
         },
         {
           "id": 88,
           "paragraph_id": 55,
-          "text": "[Soul Essence: 502,001/502,004]"
+          "text": "-- This bead has been condensed from a human’s soul and life force."
         },
         {
           "id": 89,
-          "paragraph_id": 56,
-          "text": "-- This bead has been condensed from a human’s soul and life force."
+          "paragraph_id": 55,
+          "text": "It has also been amplified using forbidden dark magic, making it 3000 times more potent."
         },
         {
           "id": 90,
           "paragraph_id": 56,
-          "text": "It has also been amplified using forbidden dark magic, making it 3000 times more potent."
+          "text": "-- But although the bead is forbidden, it contains the purest form of soul energy."
         },
         {
           "id": 91,
           "paragraph_id": 57,
-          "text": "-- But although the bead is forbidden, it contains the purest form of soul energy."
+          "text": "-- Absorbing this bead will enhance one’s soul in many ways."
         },
         {
           "id": 92,
-          "paragraph_id": 58,
-          "text": "-- Absorbing this bead will enhance one’s soul in many ways."
+          "paragraph_id": 57,
+          "text": "It also nurtures the soul and makes it very rich in concentration."
         },
         {
           "id": 93,
           "paragraph_id": 58,
-          "text": "It also nurtures the soul and makes it very rich in concentration."
+          "text": "-- It is said that if a soul cultivator absorbs a soul bead, their chances of forming a soul body are very high."
         },
         {
           "id": 94,
-          "paragraph_id": 59,
-          "text": "-- It is said that if a soul cultivator absorbs a soul bead, their chances of forming a soul body are very high."
+          "paragraph_id": 58,
+          "text": "It also improves the spirit root to a certain degree."
         },
         {
           "id": 95,
           "paragraph_id": 59,
-          "text": "It also improves the spirit root to a certain degree."
+          "text": "\"Looks like good stuff,\" Kent muttered as he quickly placed the bead in his space ring and went to retrieve his sword."
         },
         {
           "id": 96,
           "paragraph_id": 60,
-          "text": "***"
+          "text": "He gazed at the scared expression on Lady Sandra’s face and smirked."
         },
         {
           "id": 97,
           "paragraph_id": 61,
-          "text": "\"Looks like good stuff,\" Kent muttered as he quickly placed the bead in his space ring and went to retrieve his sword."
-        },
-        {
-          "id": 98,
-          "paragraph_id": 62,
-          "text": "He gazed at the scared expression on Lady Sandra’s face and smirked."
-        },
-        {
-          "id": 99,
-          "paragraph_id": 63,
           "text": "\"Serves you right."
         },
         {
-          "id": 100,
-          "paragraph_id": 63,
+          "id": 98,
+          "paragraph_id": 61,
           "text": "Wanting to make me your slave..."
         },
         {
-          "id": 101,
-          "paragraph_id": 63,
+          "id": 99,
+          "paragraph_id": 61,
           "text": "How bold!\" Subconsciously, Kent leaked a very powerful aura that shouldn’t belong to a Level 5 Root Master."
         },
         {
-          "id": 102,
-          "paragraph_id": 64,
+          "id": 100,
+          "paragraph_id": 62,
           "text": "He entered the cave where Li Hua had just woken up and held a lost expression on her cute little face."
         }
       ],
-      "word_count": 1269
+      "word_count": 1267
     },
     {
       "chapter_index": 76,
@@ -15061,13 +14995,11 @@
         "-- You will inherit a part of their soul strength as their trust in you grows.",
         "-- You will earn a part of their spiritual Qi as they cultivate.",
         "[Note: All other benefits will be added when you awaken the tower fully]",
-        "***",
         "[You have added the first person to your servant tower. Name: Jacob Ashland. Trust Level: 12%]",
         "[Your first servant has inherited a True name: Krex-Nithal (Locked)]",
         "[First Servant: Jacob Ashland]",
         "[Cultivation: Level 9 Root Master]",
         "[True Name: Krex-Nithal]",
-        "**",
         "< True Name: Krex-Nithal >",
         "+ The Undying Cockroach +",
         "-- In the Age of Ash, long before the rise of kingdoms, a humble insect survived the wrath of the Sunstorm, a divine calamity that scorched the land and extinguished all life it touched.",
@@ -15077,7 +15009,6 @@
         "-- Those who wield it inherit the cockroach’s resilience, marking them as one who treads the line between life and death. They won’t die easily.",
         "-- The Forgotten Codex records that Krex-Nithal was gifted to the first mortal hero who slew a chaos wyrm, surviving countless battles and becoming a legend, but his story ended mysteriously.",
         "-- His body was never found, and it’s said the name now drifts in the void, seeking a worthy bearer.",
-        "***",
         "<Tower, what is a ’True Name,’ and how does it make a difference?> Kent asked.",
         "A True Name was something he was not familiar with. It looked good at a glance, but he felt he shouldn’t have known about it.",
         "[A True Name is what binds one’s essence and being. A True Name is their life, and once it is proclaimed, one can take control over the person or beast. True Names are the person’s free will, in a way.",
@@ -15099,7 +15030,6 @@
         "-- Enhanced Potential: Unlocks the servant’s latent abilities, exponentially boosting their growth and combat prowess.",
         "-- Fate Link: The master can share senses, energy, and life force with the servant.",
         "[Note: This skill taps into the Trust level of the master and the servant. The higher the trust level, the more powerful the effect of the skill]",
-        "***",
         "’Tsk, from where I stand, this bastard has all the benefits. I only hope he becomes useful in the future.’ Kent chuckled inwardly but didn’t hate the turn of events.",
         "First, he had earned a boost to his already robust soul strength. Now, he knew that regardless of the tower he awakened, he would gain a part of their soul strength, which, in a way, delighted him.",
         "Second, he would gain some of his Spiritual Qi as he cultivated. One can say the tower is spoiling him rotten, But he knew better.",
@@ -15361,350 +15291,330 @@
         {
           "id": 50,
           "paragraph_id": 28,
-          "text": "***"
-        },
-        {
-          "id": 51,
-          "paragraph_id": 29,
           "text": "[You have added the first person to your servant tower."
         },
         {
-          "id": 52,
-          "paragraph_id": 29,
+          "id": 51,
+          "paragraph_id": 28,
           "text": "Name: Jacob Ashland."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 28,
+          "text": "Trust Level: 12%]"
         },
         {
           "id": 53,
           "paragraph_id": 29,
-          "text": "Trust Level: 12%]"
+          "text": "[Your first servant has inherited a True name: Krex-Nithal (Locked)]"
         },
         {
           "id": 54,
           "paragraph_id": 30,
-          "text": "[Your first servant has inherited a True name: Krex-Nithal (Locked)]"
+          "text": "[First Servant: Jacob Ashland]"
         },
         {
           "id": 55,
           "paragraph_id": 31,
-          "text": "[First Servant: Jacob Ashland]"
+          "text": "[Cultivation: Level 9 Root Master]"
         },
         {
           "id": 56,
           "paragraph_id": 32,
-          "text": "[Cultivation: Level 9 Root Master]"
+          "text": "[True Name: Krex-Nithal]"
         },
         {
           "id": 57,
           "paragraph_id": 33,
-          "text": "[True Name: Krex-Nithal]"
+          "text": "< True Name: Krex-Nithal >"
         },
         {
           "id": 58,
           "paragraph_id": 34,
-          "text": "**"
+          "text": "+ The Undying Cockroach +"
         },
         {
           "id": 59,
           "paragraph_id": 35,
-          "text": "< True Name: Krex-Nithal >"
+          "text": "-- In the Age of Ash, long before the rise of kingdoms, a humble insect survived the wrath of the Sunstorm, a divine calamity that scorched the land and extinguished all life it touched."
         },
         {
           "id": 60,
           "paragraph_id": 36,
-          "text": "+ The Undying Cockroach +"
+          "text": "-- Legends speak of a cockroach that refused to die, crawling through fire, poison, and crushing darkness."
         },
         {
           "id": 61,
           "paragraph_id": 37,
-          "text": "-- In the Age of Ash, long before the rise of kingdoms, a humble insect survived the wrath of the Sunstorm, a divine calamity that scorched the land and extinguished all life it touched."
+          "text": "-- Curious about its defiance, the gods bound its essence into a True name—Krex-Nithal."
         },
         {
           "id": 62,
           "paragraph_id": 38,
-          "text": "-- Legends speak of a cockroach that refused to die, crawling through fire, poison, and crushing darkness."
+          "text": "-- This name granted eternal resilience, embodying the insect’s undying spirit, and was whispered through the ages, coveted by warriors and immortals alike."
         },
         {
           "id": 63,
           "paragraph_id": 39,
-          "text": "-- Curious about its defiance, the gods bound its essence into a True name—Krex-Nithal."
+          "text": "-- Those who wield it inherit the cockroach’s resilience, marking them as one who treads the line between life and death."
         },
         {
           "id": 64,
-          "paragraph_id": 40,
-          "text": "-- This name granted eternal resilience, embodying the insect’s undying spirit, and was whispered through the ages, coveted by warriors and immortals alike."
+          "paragraph_id": 39,
+          "text": "They won’t die easily."
         },
         {
           "id": 65,
-          "paragraph_id": 41,
-          "text": "-- Those who wield it inherit the cockroach’s resilience, marking them as one who treads the line between life and death."
+          "paragraph_id": 40,
+          "text": "-- The Forgotten Codex records that Krex-Nithal was gifted to the first mortal hero who slew a chaos wyrm, surviving countless battles and becoming a legend, but his story ended mysteriously."
         },
         {
           "id": 66,
           "paragraph_id": 41,
-          "text": "They won’t die easily."
+          "text": "-- His body was never found, and it’s said the name now drifts in the void, seeking a worthy bearer."
         },
         {
           "id": 67,
           "paragraph_id": 42,
-          "text": "-- The Forgotten Codex records that Krex-Nithal was gifted to the first mortal hero who slew a chaos wyrm, surviving countless battles and becoming a legend, but his story ended mysteriously."
+          "text": "<Tower, what is a ’True Name,’ and how does it make a difference?> Kent asked."
         },
         {
           "id": 68,
           "paragraph_id": 43,
-          "text": "-- His body was never found, and it’s said the name now drifts in the void, seeking a worthy bearer."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 44,
-          "text": "***"
-        },
-        {
-          "id": 70,
-          "paragraph_id": 45,
-          "text": "<Tower, what is a ’True Name,’ and how does it make a difference?> Kent asked."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 46,
           "text": "A True Name was something he was not familiar with."
         },
         {
-          "id": 72,
-          "paragraph_id": 46,
+          "id": 69,
+          "paragraph_id": 43,
           "text": "It looked good at a glance, but he felt he shouldn’t have known about it."
         },
         {
-          "id": 73,
-          "paragraph_id": 47,
+          "id": 70,
+          "paragraph_id": 44,
           "text": "[A True Name is what binds one’s essence and being."
         },
         {
-          "id": 74,
-          "paragraph_id": 47,
+          "id": 71,
+          "paragraph_id": 44,
           "text": "A True Name is their life, and once it is proclaimed, one can take control over the person or beast."
         },
         {
-          "id": 75,
-          "paragraph_id": 47,
+          "id": 72,
+          "paragraph_id": 44,
           "text": "True Names are the person’s free will, in a way."
         },
         {
-          "id": 76,
-          "paragraph_id": 48,
+          "id": 73,
+          "paragraph_id": 45,
           "text": "However, a True Name is also a person’s strength."
         },
         {
-          "id": 77,
-          "paragraph_id": 48,
+          "id": 74,
+          "paragraph_id": 45,
           "text": "Those with True Names are destined to grow and soar to the skies."
         },
         {
-          "id": 78,
-          "paragraph_id": 48,
+          "id": 75,
+          "paragraph_id": 45,
           "text": "True Names bestow special traits and aspects upon them."
         },
         {
-          "id": 79,
-          "paragraph_id": 49,
+          "id": 76,
+          "paragraph_id": 46,
           "text": "In your first servant’s case, he had invoked the True Name of the undying legendary cockroach."
         },
         {
-          "id": 80,
-          "paragraph_id": 50,
+          "id": 77,
+          "paragraph_id": 47,
           "text": "Of course, in your hands, it’s a blessing to them."
         },
         {
-          "id": 81,
-          "paragraph_id": 50,
+          "id": 78,
+          "paragraph_id": 47,
           "text": "You will know more when you fully awaken the tower."
         },
         {
-          "id": 82,
-          "paragraph_id": 50,
+          "id": 79,
+          "paragraph_id": 47,
           "text": "But to ease your emotions, knowing his True Name won’t make you his slave master."
         },
         {
-          "id": 83,
-          "paragraph_id": 51,
+          "id": 80,
+          "paragraph_id": 48,
           "text": "Of course, you will have control over him, but in a good way."
         },
         {
-          "id": 84,
-          "paragraph_id": 52,
+          "id": 81,
+          "paragraph_id": 49,
           "text": "The tower holds mysteries that will take you millennia to not even unravel the surface."
         },
         {
-          "id": 85,
-          "paragraph_id": 52,
+          "id": 82,
+          "paragraph_id": 49,
           "text": "So, for now, relax and let the various towers awaken before you make any decision on whether to invoke the name or not."
         },
         {
-          "id": 86,
-          "paragraph_id": 53,
+          "id": 83,
+          "paragraph_id": 50,
           "text": "But you don’t have to worry, considering it’s locked."
         },
         {
-          "id": 87,
-          "paragraph_id": 53,
+          "id": 84,
+          "paragraph_id": 50,
           "text": "To unlock it, he would have to reach an 80% Trust level.]"
         },
         {
-          "id": 88,
-          "paragraph_id": 54,
+          "id": 85,
+          "paragraph_id": 51,
           "text": "<I see."
         },
         {
-          "id": 89,
-          "paragraph_id": 54,
+          "id": 86,
+          "paragraph_id": 51,
           "text": "Thanks, Tower.>"
         },
         {
-          "id": 90,
-          "paragraph_id": 55,
+          "id": 87,
+          "paragraph_id": 52,
           "text": "Kent calmed down a bit."
         },
         {
-          "id": 91,
-          "paragraph_id": 55,
+          "id": 88,
+          "paragraph_id": 52,
           "text": "He hated slavery, and knowing this, he felt like he was about to strip Jacob of his free will."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 52,
+          "text": "But for now, he could only wait and learn more later."
+        },
+        {
+          "id": 90,
+          "paragraph_id": 53,
+          "text": "Kent went on with the rest of the messages."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 54,
+          "text": "[You have unlocked a new skill; Fateful Servant]"
         },
         {
           "id": 92,
           "paragraph_id": 55,
-          "text": "But for now, he could only wait and learn more later."
+          "text": "[Skill Name: Fateful Servant]"
         },
         {
           "id": 93,
           "paragraph_id": 56,
-          "text": "Kent went on with the rest of the messages."
+          "text": "[Grade: Divine]"
         },
         {
           "id": 94,
           "paragraph_id": 57,
-          "text": "[You have unlocked a new skill; Fateful Servant]"
+          "text": "[Rank: SSS]"
         },
         {
           "id": 95,
           "paragraph_id": 58,
-          "text": "[Skill Name: Fateful Servant]"
+          "text": "[Effects: Passive]"
         },
         {
           "id": 96,
           "paragraph_id": 59,
-          "text": "[Grade: Divine]"
+          "text": "-- Undying Will: Grants the servant immortality as long as their master lives."
         },
         {
           "id": 97,
-          "paragraph_id": 60,
-          "text": "[Rank: SSS]"
+          "paragraph_id": 59,
+          "text": "To a certain extent, they can die when under a powerful attack."
         },
         {
           "id": 98,
-          "paragraph_id": 61,
-          "text": "[Effects: Passive]"
+          "paragraph_id": 60,
+          "text": "-- Enhanced Potential: Unlocks the servant’s latent abilities, exponentially boosting their growth and combat prowess."
         },
         {
           "id": 99,
-          "paragraph_id": 62,
-          "text": "-- Undying Will: Grants the servant immortality as long as their master lives."
+          "paragraph_id": 61,
+          "text": "-- Fate Link: The master can share senses, energy, and life force with the servant."
         },
         {
           "id": 100,
           "paragraph_id": 62,
-          "text": "To a certain extent, they can die when under a powerful attack."
-        },
-        {
-          "id": 101,
-          "paragraph_id": 63,
-          "text": "-- Enhanced Potential: Unlocks the servant’s latent abilities, exponentially boosting their growth and combat prowess."
-        },
-        {
-          "id": 102,
-          "paragraph_id": 64,
-          "text": "-- Fate Link: The master can share senses, energy, and life force with the servant."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 65,
           "text": "[Note: This skill taps into the Trust level of the master and the servant."
         },
         {
-          "id": 104,
-          "paragraph_id": 65,
+          "id": 101,
+          "paragraph_id": 62,
           "text": "The higher the trust level, the more powerful the effect of the skill]"
         },
         {
-          "id": 105,
-          "paragraph_id": 66,
-          "text": "***"
-        },
-        {
-          "id": 106,
-          "paragraph_id": 67,
+          "id": 102,
+          "paragraph_id": 63,
           "text": "’Tsk, from where I stand, this bastard has all the benefits."
         },
         {
-          "id": 107,
-          "paragraph_id": 67,
+          "id": 103,
+          "paragraph_id": 63,
           "text": "I only hope he becomes useful in the future.’ Kent chuckled inwardly but didn’t hate the turn of events."
         },
         {
-          "id": 108,
-          "paragraph_id": 68,
+          "id": 104,
+          "paragraph_id": 64,
           "text": "First, he had earned a boost to his already robust soul strength."
         },
         {
-          "id": 109,
-          "paragraph_id": 68,
+          "id": 105,
+          "paragraph_id": 64,
           "text": "Now, he knew that regardless of the tower he awakened, he would gain a part of their soul strength, which, in a way, delighted him."
         },
         {
-          "id": 110,
-          "paragraph_id": 69,
+          "id": 106,
+          "paragraph_id": 65,
           "text": "Second, he would gain some of his Spiritual Qi as he cultivated."
         },
         {
-          "id": 111,
-          "paragraph_id": 69,
+          "id": 107,
+          "paragraph_id": 65,
           "text": "One can say the tower is spoiling him rotten, But he knew better."
         },
         {
-          "id": 112,
-          "paragraph_id": 70,
+          "id": 108,
+          "paragraph_id": 66,
           "text": "He now had Unity, Lilian, and Jacob as his Spiritual Qi banks."
         },
         {
-          "id": 113,
-          "paragraph_id": 70,
+          "id": 109,
+          "paragraph_id": 66,
           "text": "Since Li Hua had yet to reach the cultivation age, she couldn’t contribute."
         },
         {
-          "id": 114,
-          "paragraph_id": 71,
+          "id": 110,
+          "paragraph_id": 67,
           "text": "But that was also fine."
         },
         {
-          "id": 115,
-          "paragraph_id": 71,
+          "id": 111,
+          "paragraph_id": 67,
           "text": "Kent could already see a future where he wouldn’t have to think about cultivating."
         },
         {
-          "id": 116,
-          "paragraph_id": 71,
+          "id": 112,
+          "paragraph_id": 67,
           "text": "All he would be doing was sleeping with women and growing strong."
         },
         {
-          "id": 117,
-          "paragraph_id": 72,
+          "id": 113,
+          "paragraph_id": 68,
           "text": "Well, he was a dual cultivator, so in a way, he was cultivating even through sex."
         },
         {
-          "id": 118,
-          "paragraph_id": 72,
+          "id": 114,
+          "paragraph_id": 68,
           "text": "But he will also receive spiritual qi from those connected to him."
         }
       ],
-      "word_count": 1276
+      "word_count": 1272
     },
     {
       "chapter_index": 79,
@@ -17261,14 +17171,12 @@
         "Physical Stamina: 505",
         "Spiritual Strenght: 765",
         "Mental Strength: 655",
-        "***",
         "\"It looks like the Soul Cultivation is contributing to my spiritual strength,\" Kent smiled, watching the status page.",
         "So far, his stats had been boosted much higher, and although he didn’t know exactly how much he had grown, just feeling his soul strength, he could tell he had become much stronger.",
         "\"Tower, let’s continue with the Soul Cultivation subclass.\"",
         "[Class Name: Soul Cultivator (Spirit Master)]",
         "[Soul Essense: 2004]",
         "[Level: Tier 2]",
-        "***",
         "\"This is good, then. Too bad I didn’t get any new skills besides [Soul Absorb],\" Kent sighed.",
         "So far, aside from having a powerful soul and the ability to absorb soul essence and memories, he didn’t have much use for the Soul Cultivation class.",
         "[The master can buy Soul Cultivator skills and techniques from the Tower Store once it awakens.] The tower always had a fix. Kent could only nod to that.",
@@ -17485,375 +17393,365 @@
         {
           "id": 35,
           "paragraph_id": 22,
-          "text": "***"
+          "text": "\"It looks like the Soul Cultivation is contributing to my spiritual strength,\" Kent smiled, watching the status page."
         },
         {
           "id": 36,
           "paragraph_id": 23,
-          "text": "\"It looks like the Soul Cultivation is contributing to my spiritual strength,\" Kent smiled, watching the status page."
+          "text": "So far, his stats had been boosted much higher, and although he didn’t know exactly how much he had grown, just feeling his soul strength, he could tell he had become much stronger."
         },
         {
           "id": 37,
           "paragraph_id": 24,
-          "text": "So far, his stats had been boosted much higher, and although he didn’t know exactly how much he had grown, just feeling his soul strength, he could tell he had become much stronger."
+          "text": "\"Tower, let’s continue with the Soul Cultivation subclass.\""
         },
         {
           "id": 38,
           "paragraph_id": 25,
-          "text": "\"Tower, let’s continue with the Soul Cultivation subclass.\""
+          "text": "[Class Name: Soul Cultivator (Spirit Master)]"
         },
         {
           "id": 39,
           "paragraph_id": 26,
-          "text": "[Class Name: Soul Cultivator (Spirit Master)]"
+          "text": "[Soul Essense: 2004]"
         },
         {
           "id": 40,
           "paragraph_id": 27,
-          "text": "[Soul Essense: 2004]"
+          "text": "[Level: Tier 2]"
         },
         {
           "id": 41,
           "paragraph_id": 28,
-          "text": "[Level: Tier 2]"
+          "text": "\"This is good, then."
         },
         {
           "id": 42,
-          "paragraph_id": 29,
-          "text": "***"
+          "paragraph_id": 28,
+          "text": "Too bad I didn’t get any new skills besides [Soul Absorb],\" Kent sighed."
         },
         {
           "id": 43,
-          "paragraph_id": 30,
-          "text": "\"This is good, then."
+          "paragraph_id": 29,
+          "text": "So far, aside from having a powerful soul and the ability to absorb soul essence and memories, he didn’t have much use for the Soul Cultivation class."
         },
         {
           "id": 44,
           "paragraph_id": 30,
-          "text": "Too bad I didn’t get any new skills besides [Soul Absorb],\" Kent sighed."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 31,
-          "text": "So far, aside from having a powerful soul and the ability to absorb soul essence and memories, he didn’t have much use for the Soul Cultivation class."
-        },
-        {
-          "id": 46,
-          "paragraph_id": 32,
           "text": "[The master can buy Soul Cultivator skills and techniques from the Tower Store once it awakens.] The tower always had a fix."
         },
         {
-          "id": 47,
-          "paragraph_id": 32,
+          "id": 45,
+          "paragraph_id": 30,
           "text": "Kent could only nod to that."
         },
         {
-          "id": 48,
-          "paragraph_id": 33,
+          "id": 46,
+          "paragraph_id": 31,
           "text": "\"I guess I will focus on strengthening my soul so I can handle those techniques once I get them."
         },
         {
-          "id": 49,
-          "paragraph_id": 33,
+          "id": 47,
+          "paragraph_id": 31,
           "text": "That said, what next..."
         },
         {
-          "id": 50,
-          "paragraph_id": 33,
+          "id": 48,
+          "paragraph_id": 31,
           "text": "Let’s focus on the quests for now."
         },
         {
-          "id": 51,
-          "paragraph_id": 33,
+          "id": 49,
+          "paragraph_id": 31,
           "text": "The Guardian and Servant Tower can be handled later.\""
         },
         {
-          "id": 52,
-          "paragraph_id": 34,
+          "id": 50,
+          "paragraph_id": 32,
           "text": "[You have successfully completed a quest."
         },
         {
-          "id": 53,
-          "paragraph_id": 34,
+          "id": 51,
+          "paragraph_id": 32,
           "text": "Quest Name: Bounce that Ass]"
         },
         {
-          "id": 54,
-          "paragraph_id": 35,
+          "id": 52,
+          "paragraph_id": 33,
           "text": "[Rewards: Diary of the Celestial Alchemist Vol."
         },
         {
-          "id": 55,
-          "paragraph_id": 35,
+          "id": 53,
+          "paragraph_id": 33,
           "text": "1]"
         },
         {
-          "id": 56,
-          "paragraph_id": 36,
+          "id": 54,
+          "paragraph_id": 34,
           "text": "\"Wait, what?"
         },
         {
-          "id": 57,
-          "paragraph_id": 36,
+          "id": 55,
+          "paragraph_id": 34,
           "text": "Tower, is this what I think it is?\" Kent held a smile on his face."
         },
         {
-          "id": 58,
-          "paragraph_id": 36,
+          "id": 56,
+          "paragraph_id": 34,
           "text": "If this was what he was thinking, then he was about to become very happy."
         },
         {
-          "id": 59,
-          "paragraph_id": 37,
+          "id": 57,
+          "paragraph_id": 35,
           "text": "[Yes, Master, this is exactly what you are thinking."
         },
         {
-          "id": 60,
-          "paragraph_id": 37,
+          "id": 58,
+          "paragraph_id": 35,
           "text": "The diary is an account of the Celestial Alchemist, the same alchemist you are learning from.]"
         },
         {
-          "id": 61,
-          "paragraph_id": 38,
+          "id": 59,
+          "paragraph_id": 36,
           "text": "\"Damn, could my day get any better than this?\" Kent smiled and retrieved the diary."
         },
         {
-          "id": 62,
-          "paragraph_id": 38,
+          "id": 60,
+          "paragraph_id": 36,
           "text": "It was a book like the small diaries back on Earth, just as he had expected."
         },
         {
-          "id": 63,
-          "paragraph_id": 38,
+          "id": 61,
+          "paragraph_id": 36,
           "text": "But this one was much more mystical in a way."
         },
         {
-          "id": 64,
-          "paragraph_id": 39,
+          "id": 62,
+          "paragraph_id": 37,
           "text": "Just holding it gave Kent a sense of déjà vu."
         },
         {
-          "id": 65,
-          "paragraph_id": 39,
+          "id": 63,
+          "paragraph_id": 37,
           "text": "It felt so real to him in ways he didn’t understand."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 37,
+          "text": "However, he was more than happy to be holding it."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 38,
+          "text": "He touched it against his forehead in an attempt to learn it quickly, but it didn’t disperse."
         },
         {
           "id": 66,
           "paragraph_id": 39,
-          "text": "However, he was more than happy to be holding it."
+          "text": "\"Huh?\""
         },
         {
           "id": 67,
           "paragraph_id": 40,
-          "text": "He touched it against his forehead in an attempt to learn it quickly, but it didn’t disperse."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 41,
-          "text": "\"Huh?\""
-        },
-        {
-          "id": 69,
-          "paragraph_id": 42,
           "text": "[The master cannot use the same old way to learn this."
         },
         {
-          "id": 70,
-          "paragraph_id": 42,
+          "id": 68,
+          "paragraph_id": 40,
           "text": "This book is the account of the Celestial Alchemist."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 40,
+          "text": "The master must read it like a good old book should be read.]"
+        },
+        {
+          "id": 70,
+          "paragraph_id": 41,
+          "text": "\"I see.\" Kent wasn’t disappointed."
         },
         {
           "id": 71,
           "paragraph_id": 42,
-          "text": "The master must read it like a good old book should be read.]"
-        },
-        {
-          "id": 72,
-          "paragraph_id": 43,
-          "text": "\"I see.\" Kent wasn’t disappointed."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 44,
           "text": "It had been a year since he had read like a normal person, so he could only start now."
         },
         {
-          "id": 74,
-          "paragraph_id": 44,
+          "id": 72,
+          "paragraph_id": 42,
           "text": "Of course, this diary was just around 70 pages, so he wouldn’t even need a week to finish it."
         },
         {
-          "id": 75,
-          "paragraph_id": 45,
+          "id": 73,
+          "paragraph_id": 43,
           "text": "\"Let me put this on hold for now."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 43,
+          "text": "I suppose it contains additional knowledge on alchemy, and I cannot speed-read it like I used to.\""
+        },
+        {
+          "id": 75,
+          "paragraph_id": 44,
+          "text": "Back on Earth, after he was killed, the police unearthed hundreds of books from his house, earning him the title God of Readers."
         },
         {
           "id": 76,
           "paragraph_id": 45,
-          "text": "I suppose it contains additional knowledge on alchemy, and I cannot speed-read it like I used to.\""
+          "text": "He had read hundreds of books, so after checking his online accounts and the reviews he had left, many authors were in tears."
         },
         {
           "id": 77,
           "paragraph_id": 46,
-          "text": "Back on Earth, after he was killed, the police unearthed hundreds of books from his house, earning him the title God of Readers."
+          "text": "Many had been searching for the reader named ’Xytor’ for years, never realizing their good old movie director was him."
         },
         {
           "id": 78,
-          "paragraph_id": 47,
-          "text": "He had read hundreds of books, so after checking his online accounts and the reviews he had left, many authors were in tears."
+          "paragraph_id": 46,
+          "text": "He made sure to correct them where they were wrong and encouraged them not to give up on their books."
         },
         {
           "id": 79,
-          "paragraph_id": 48,
-          "text": "Many had been searching for the reader named ’Xytor’ for years, never realizing their good old movie director was him."
+          "paragraph_id": 47,
+          "text": "It had been an emotional moment for many authors back on Earth."
         },
         {
           "id": 80,
           "paragraph_id": 48,
-          "text": "He made sure to correct them where they were wrong and encouraged them not to give up on their books."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 49,
-          "text": "It had been an emotional moment for many authors back on Earth."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 50,
           "text": "\"Next quest, Tower,\" Kent said with a smile."
         },
         {
-          "id": 83,
-          "paragraph_id": 50,
+          "id": 81,
+          "paragraph_id": 48,
           "text": "For some reason, he couldn’t wait to delve into the diary."
         },
         {
-          "id": 84,
-          "paragraph_id": 51,
+          "id": 82,
+          "paragraph_id": 49,
           "text": "[You have successfully completed a quest."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 49,
+          "text": "Quest Name: Guardian’s Arrogance]"
+        },
+        {
+          "id": 84,
+          "paragraph_id": 50,
+          "text": "[Rewards: Kingdom Building Enchanted Book]"
         },
         {
           "id": 85,
           "paragraph_id": 51,
-          "text": "Quest Name: Guardian’s Arrogance]"
-        },
-        {
-          "id": 86,
-          "paragraph_id": 52,
-          "text": "[Rewards: Kingdom Building Enchanted Book]"
-        },
-        {
-          "id": 87,
-          "paragraph_id": 53,
           "text": "\"Another book."
         },
         {
-          "id": 88,
-          "paragraph_id": 53,
+          "id": 86,
+          "paragraph_id": 51,
           "text": "I wonder what this does.\" Kent retrieved the book, which was a little bigger than the diary."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 51,
+          "text": "It was about the size of an A4 sheet and contained only one page."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 52,
+          "text": "\"Tower!\""
         },
         {
           "id": 89,
           "paragraph_id": 53,
-          "text": "It was about the size of an A4 sheet and contained only one page."
+          "text": "[Name: Kingdom Building Enchanted Book]"
         },
         {
           "id": 90,
           "paragraph_id": 54,
-          "text": "\"Tower!\""
+          "text": "[Grade: Spiritual Grade]"
         },
         {
           "id": 91,
           "paragraph_id": 55,
-          "text": "[Name: Kingdom Building Enchanted Book]"
+          "text": "[Type: Enchanted]"
         },
         {
           "id": 92,
           "paragraph_id": 56,
-          "text": "[Grade: Spiritual Grade]"
-        },
-        {
-          "id": 93,
-          "paragraph_id": 57,
-          "text": "[Type: Enchanted]"
-        },
-        {
-          "id": 94,
-          "paragraph_id": 58,
           "text": "-- Long ago, the god of travelers sought to travel to a distant world."
         },
         {
-          "id": 95,
-          "paragraph_id": 58,
+          "id": 93,
+          "paragraph_id": 56,
           "text": "However, he knew nothing of this world, and from what he knew, you can’t ask for direction when you get there."
         },
         {
-          "id": 96,
-          "paragraph_id": 58,
+          "id": 94,
+          "paragraph_id": 56,
           "text": "Once you step in, you are on your own."
         },
         {
-          "id": 97,
-          "paragraph_id": 59,
+          "id": 95,
+          "paragraph_id": 57,
           "text": "-- Nobody travels there."
         },
         {
-          "id": 98,
-          "paragraph_id": 59,
+          "id": 96,
+          "paragraph_id": 57,
           "text": "But the god of travelers wanted to go."
         },
         {
-          "id": 99,
-          "paragraph_id": 59,
+          "id": 97,
+          "paragraph_id": 57,
           "text": "So he sought out an enchantress, who he asked for a way to know everything about this world."
         },
         {
-          "id": 100,
-          "paragraph_id": 60,
+          "id": 98,
+          "paragraph_id": 58,
           "text": "-- The enchantress created the [Kingdom Building Enchanted Book] and gave it to him."
         },
         {
-          "id": 101,
-          "paragraph_id": 60,
+          "id": 99,
+          "paragraph_id": 58,
           "text": "This book will tell him everything he needs to know about this strange world."
+        },
+        {
+          "id": 100,
+          "paragraph_id": 58,
+          "text": "In return, she asked for an unknown favor."
+        },
+        {
+          "id": 101,
+          "paragraph_id": 59,
+          "text": "-- The God of Travelers readily accepted this unknown favor that was only made known when he bound with the book."
         },
         {
           "id": 102,
           "paragraph_id": 60,
-          "text": "In return, she asked for an unknown favor."
+          "text": "-- Till this day, the god of travelers never returned from his journey, and the enchantress never got the favor she asked for."
         },
         {
           "id": 103,
           "paragraph_id": 61,
-          "text": "-- The God of Travelers readily accepted this unknown favor that was only made known when he bound with the book."
+          "text": "-- Nobody knew what this favor was and what happened to the god of travelers."
         },
         {
           "id": 104,
-          "paragraph_id": 62,
-          "text": "-- Till this day, the god of travelers never returned from his journey, and the enchantress never got the favor she asked for."
+          "paragraph_id": 61,
+          "text": "But one thing is certain: whoever dares to bind with this book will inherit this favor."
         },
         {
           "id": 105,
-          "paragraph_id": 63,
-          "text": "-- Nobody knew what this favor was and what happened to the god of travelers."
+          "paragraph_id": 62,
+          "text": "-- The enchantress has willed it."
         },
         {
           "id": 106,
           "paragraph_id": 63,
-          "text": "But one thing is certain: whoever dares to bind with this book will inherit this favor."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 64,
-          "text": "-- The enchantress has willed it."
-        },
-        {
-          "id": 108,
-          "paragraph_id": 65,
           "text": "[Does the master wish to form a soul contract with this book]"
         }
       ],
-      "word_count": 1219
+      "word_count": 1217
     },
     {
       "chapter_index": 83,
@@ -17895,7 +17793,6 @@
         "-- Your eyesight and awareness have been enhanced. You can now see through formations and enchantments.",
         "-- To a certain extent, you can charm people and Spirit beasts.",
         "-- You can see the true names of people and beasts that share destiny with you.",
-        "***",
         "\"Well, I guess since I am here, it meant I wouldn’t be starting the favor quest just yet.\" Kent smiles and then focuses on the rest of the messages.",
         "[You have received the Attention of the Enchantress. Because you have bonded with the Enchanted book of Aether, the Enchantress has noticed you.]",
         "[The Enchantress has deemed you worthy to carry out her unique Favor (Quest)]",
@@ -18199,225 +18096,220 @@
         {
           "id": 54,
           "paragraph_id": 35,
-          "text": "***"
+          "text": "\"Well, I guess since I am here, it meant I wouldn’t be starting the favor quest just yet.\" Kent smiles and then focuses on the rest of the messages."
         },
         {
           "id": 55,
           "paragraph_id": 36,
-          "text": "\"Well, I guess since I am here, it meant I wouldn’t be starting the favor quest just yet.\" Kent smiles and then focuses on the rest of the messages."
+          "text": "[You have received the Attention of the Enchantress."
         },
         {
           "id": 56,
-          "paragraph_id": 37,
-          "text": "[You have received the Attention of the Enchantress."
+          "paragraph_id": 36,
+          "text": "Because you have bonded with the Enchanted book of Aether, the Enchantress has noticed you.]"
         },
         {
           "id": 57,
           "paragraph_id": 37,
-          "text": "Because you have bonded with the Enchanted book of Aether, the Enchantress has noticed you.]"
+          "text": "[The Enchantress has deemed you worthy to carry out her unique Favor (Quest)]"
         },
         {
           "id": 58,
           "paragraph_id": 38,
-          "text": "[The Enchantress has deemed you worthy to carry out her unique Favor (Quest)]"
+          "text": "[The Enchantress Favour]"
         },
         {
           "id": 59,
           "paragraph_id": 39,
-          "text": "[The Enchantress Favour]"
+          "text": "[Type: Quest (Prologue)]"
         },
         {
           "id": 60,
           "paragraph_id": 40,
-          "text": "[Type: Quest (Prologue)]"
+          "text": "[Nature: Chain Quest (You must trigger the chain quest by completing the prologue quest)]"
         },
         {
           "id": 61,
           "paragraph_id": 41,
-          "text": "[Nature: Chain Quest (You must trigger the chain quest by completing the prologue quest)]"
+          "text": "[Quest: Enchantress Favour]"
         },
         {
           "id": 62,
           "paragraph_id": 42,
-          "text": "[Quest: Enchantress Favour]"
-        },
-        {
-          "id": 63,
-          "paragraph_id": 43,
           "text": "-- Long ago, the Enchantress of Xggrial was attacked by a foe, and her heart was stolen."
         },
         {
-          "id": 64,
-          "paragraph_id": 43,
+          "id": 63,
+          "paragraph_id": 42,
           "text": "It was said this heart contains the Key of the Celestial Hidden Library."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 42,
+          "text": "A library that is said to contain the knowledge of everything there is and is to come."
         },
         {
           "id": 65,
           "paragraph_id": 43,
-          "text": "A library that is said to contain the knowledge of everything there is and is to come."
+          "text": "-- But perhaps knowing her heart would be stolen, she placed a curse on it, making it unusable to anyone."
         },
         {
           "id": 66,
-          "paragraph_id": 44,
-          "text": "-- But perhaps knowing her heart would be stolen, she placed a curse on it, making it unusable to anyone."
+          "paragraph_id": 43,
+          "text": "The curse that binds the heart also prevents her from leaving her temple, and no one can venture into her temple."
         },
         {
           "id": 67,
           "paragraph_id": 44,
-          "text": "The curse that binds the heart also prevents her from leaving her temple, and no one can venture into her temple."
+          "text": "-- But many years ago, a god who specialized in travels managed to enter her temple and ask for a favor; in return, she also asked for a favor."
         },
         {
           "id": 68,
           "paragraph_id": 45,
-          "text": "-- But many years ago, a god who specialized in travels managed to enter her temple and ask for a favor; in return, she also asked for a favor."
+          "text": "-- But alas, the god of travelers couldn’t accomplish his mission...Or maybe he did."
         },
         {
           "id": 69,
           "paragraph_id": 46,
-          "text": "-- But alas, the god of travelers couldn’t accomplish his mission...Or maybe he did."
+          "text": "[You have received the Enchantress Favour and now have permission to enter her temple and receive her quest.]"
         },
         {
           "id": 70,
           "paragraph_id": 47,
-          "text": "[You have received the Enchantress Favour and now have permission to enter her temple and receive her quest.]"
+          "text": "[Because you are not qualified to begin the quest, the enchantress has granted you access to the Infinity Enchanted Quest Pool."
         },
         {
           "id": 71,
-          "paragraph_id": 48,
-          "text": "[Because you are not qualified to begin the quest, the enchantress has granted you access to the Infinity Enchanted Quest Pool."
+          "paragraph_id": 47,
+          "text": "You can now receive random quests and gain rewards from the enchantress."
         },
         {
           "id": 72,
           "paragraph_id": 48,
-          "text": "You can now receive random quests and gain rewards from the enchantress."
+          "text": "Rewards that will help you grow faster.]"
         },
         {
           "id": 73,
           "paragraph_id": 49,
-          "text": "Rewards that will help you grow faster.]"
+          "text": "[Enchanted Quest Pool]"
         },
         {
           "id": 74,
           "paragraph_id": 50,
-          "text": "[Enchanted Quest Pool]"
+          "text": "-- You can now receive quests whenever you want."
         },
         {
           "id": 75,
-          "paragraph_id": 51,
-          "text": "-- You can now receive quests whenever you want."
+          "paragraph_id": 50,
+          "text": "Note that this quest will be based on your location and measured based on your cultivation talent, profession, and potential."
         },
         {
           "id": 76,
           "paragraph_id": 51,
-          "text": "Note that this quest will be based on your location and measured based on your cultivation talent, profession, and potential."
+          "text": "[Do you want to receive a Quest]"
         },
         {
           "id": 77,
           "paragraph_id": 52,
-          "text": "[Do you want to receive a Quest]"
+          "text": "\"Tower, I think we have hit a jackpot,\" Kent smiled, reading the messages."
         },
         {
           "id": 78,
           "paragraph_id": 53,
-          "text": "\"Tower, I think we have hit a jackpot,\" Kent smiled, reading the messages."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 54,
           "text": "A Mega chain quest and a Quest pool."
         },
         {
-          "id": 80,
-          "paragraph_id": 54,
+          "id": 79,
+          "paragraph_id": 53,
           "text": "That is indeed something worthy of having."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 53,
+          "text": "He can now receive random quests, which, in this case, would reward him with things he can rely on to grow stronger."
         },
         {
           "id": 81,
           "paragraph_id": 54,
-          "text": "He can now receive random quests, which, in this case, would reward him with things he can rely on to grow stronger."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 55,
           "text": "[The master has indeed been blessed by the goddess of luck."
         },
         {
-          "id": 83,
-          "paragraph_id": 55,
+          "id": 82,
+          "paragraph_id": 54,
           "text": "That said, there is a message attached to the quest pool."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 54,
+          "text": "The master might want to check that first.]"
         },
         {
           "id": 84,
           "paragraph_id": 55,
-          "text": "The master might want to check that first.]"
+          "text": "Kent focused his attention on the message."
         },
         {
           "id": 85,
-          "paragraph_id": 56,
-          "text": "Kent focused his attention on the message."
+          "paragraph_id": 55,
+          "text": "It was from the enchantress."
         },
         {
           "id": 86,
           "paragraph_id": 56,
-          "text": "It was from the enchantress."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 57,
           "text": "[Message from the Enchantress: Thank you for accepting my favor."
         },
         {
-          "id": 88,
-          "paragraph_id": 57,
+          "id": 87,
+          "paragraph_id": 56,
           "text": "Because of this, I will grant you three wishes."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 56,
+          "text": "Just name them, and I will make them happen.]"
         },
         {
           "id": 89,
           "paragraph_id": 57,
-          "text": "Just name them, and I will make them happen.]"
+          "text": "A small smile appeared on his lips, which if the Enchantress were to see, her stolen heart would have skipped a bit."
         },
         {
           "id": 90,
           "paragraph_id": 58,
-          "text": "A small smile appeared on his lips, which if the Enchantress were to see, her stolen heart would have skipped a bit."
+          "text": "Kent had always been fascinated by one thing: the three wishes of a Genie."
         },
         {
           "id": 91,
-          "paragraph_id": 59,
-          "text": "Kent had always been fascinated by one thing: the three wishes of a Genie."
+          "paragraph_id": 58,
+          "text": "He had always wanted to break those three wishes."
         },
         {
           "id": 92,
           "paragraph_id": 59,
-          "text": "He had always wanted to break those three wishes."
+          "text": "Of course, the rules prohibit one from wishing for three more wishes."
         },
         {
           "id": 93,
-          "paragraph_id": 60,
-          "text": "Of course, the rules prohibit one from wishing for three more wishes."
+          "paragraph_id": 59,
+          "text": "But Kent, who had been thinking about this for years, knew everything rested in the sentences."
         },
         {
           "id": 94,
           "paragraph_id": 60,
-          "text": "But Kent, who had been thinking about this for years, knew everything rested in the sentences."
+          "text": "That is why, after today, the enchantress who had never taken an interest in anything would finally take an interest in Kent."
         },
         {
           "id": 95,
           "paragraph_id": 61,
-          "text": "That is why, after today, the enchantress who had never taken an interest in anything would finally take an interest in Kent."
+          "text": "Kent formed his sentence and ensured everything was arranged perfectly before saying his first wish."
         },
         {
           "id": 96,
           "paragraph_id": 62,
-          "text": "Kent formed his sentence and ensured everything was arranged perfectly before saying his first wish."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 63,
           "text": "\"For my first wish...\""
         }
       ],
-      "word_count": 1268
+      "word_count": 1267
     },
     {
       "chapter_index": 84,
@@ -18446,7 +18338,6 @@
         "Limitations:",
         "- Each use allows for one round trip or up to 24 hours at the destination before forcibly returning the user to their original location.",
         "- You cannot return anything from your return trip if you go to realms higher than yours.",
-        "---",
         "2. Cosmic Talisman of Passage",
         "-- An ancient talisman etched with celestial runes. The talisman forms a temporary \"spirit tether,\" allowing the user to phase to their desired destination.",
         "Activation Requirements:",
@@ -18459,7 +18350,6 @@
         "- The talisman only works within the same dimensional plane unless triple the activation cost is paid.",
         "- You will be forcefully returned back after 48 hours.",
         "- You cannot return anything from your return trip if you go to realms higher than yours.",
-        "---",
         "3. Starbound Compass",
         "-- A mystical compass with a needle made of stardust, pointing unerringly toward the desired destination when activated. The compass projects a portal for travel.",
         "Activation Requirements:",
@@ -18489,15 +18379,14 @@
         "\"I need to get my affairs in order so I can go visit my goddess. Ha, with 72 hours on my hands, I’m going to make her cry tears of pleasure,\" Kent said with a sly smile.",
         "[Master, this compass is much more complex than we think. It will require some time to study it, but I believe the portal part of it is just the tip of the iceberg.]",
         "\"Let me appraise it.\" Kent activated his enchanted eye, appraising the compass.",
-        "***",
         "[Item Name: Starbound Compass]",
         "[Grade: Supreme]",
         "-- The lost compass of the ancient travelers of Gxxyla.",
         "-- It is said that the ancient travelers of Gxxyla were beings who traversed the entire universe and beyond.",
         "-- But many years ago, rumors arose that their guide, who had led them through the cosmos, had gone missing after a terrible battle with the creatures of the unknown, the Hylians.",
-        "-- For many years, the compass has wandered the cosmos, seeking a worthy ????????????",
-        "-- ????????????????",
-        "-- ????????????????",
+        "-- For many years, the compass has wandered the cosmos, seeking a worthy ???",
+        "-- ???",
+        "-- ???",
         "\"Ouch,\" Kent cried in pain.",
         "A head-splitting and soul-shattering ache surged through his head and soul as he read the details of the appraisal. Beads of sweat formed on his forehead.",
         "[The master still doesn’t have enough soul and mental strength to appraise a supreme item.]",
@@ -18659,395 +18548,380 @@
         {
           "id": 30,
           "paragraph_id": 22,
-          "text": "---"
+          "text": "2."
         },
         {
           "id": 31,
-          "paragraph_id": 23,
-          "text": "2."
+          "paragraph_id": 22,
+          "text": "Cosmic Talisman of Passage"
         },
         {
           "id": 32,
           "paragraph_id": 23,
-          "text": "Cosmic Talisman of Passage"
+          "text": "-- An ancient talisman etched with celestial runes."
         },
         {
           "id": 33,
-          "paragraph_id": 24,
-          "text": "-- An ancient talisman etched with celestial runes."
+          "paragraph_id": 23,
+          "text": "The talisman forms a temporary \"spirit tether,\" allowing the user to phase to their desired destination."
         },
         {
           "id": 34,
           "paragraph_id": 24,
-          "text": "The talisman forms a temporary \"spirit tether,\" allowing the user to phase to their desired destination."
+          "text": "Activation Requirements:"
         },
         {
           "id": 35,
           "paragraph_id": 25,
-          "text": "Activation Requirements:"
+          "text": "- Spirit Stones: 900,000,000 (Max)"
         },
         {
           "id": 36,
           "paragraph_id": 26,
-          "text": "- Spirit Stones: 900,000,000 (Max)"
+          "text": "- Soul Essence: 70,000 (Max)"
         },
         {
           "id": 37,
           "paragraph_id": 27,
-          "text": "- Soul Essence: 70,000 (Max)"
+          "text": "Cooldown Time:"
         },
         {
           "id": 38,
           "paragraph_id": 28,
-          "text": "Cooldown Time:"
+          "text": "- Once requirements are met, the orb needs 48 hours to activate."
         },
         {
           "id": 39,
           "paragraph_id": 29,
-          "text": "- Once requirements are met, the orb needs 48 hours to activate."
+          "text": "- Once used, the orb goes into a 60-day cooldown."
         },
         {
           "id": 40,
           "paragraph_id": 30,
-          "text": "- Once used, the orb goes into a 60-day cooldown."
+          "text": "Limitations:"
         },
         {
           "id": 41,
           "paragraph_id": 31,
-          "text": "Limitations:"
+          "text": "- The talisman only works within the same dimensional plane unless triple the activation cost is paid."
         },
         {
           "id": 42,
           "paragraph_id": 32,
-          "text": "- The talisman only works within the same dimensional plane unless triple the activation cost is paid."
+          "text": "- You will be forcefully returned back after 48 hours."
         },
         {
           "id": 43,
           "paragraph_id": 33,
-          "text": "- You will be forcefully returned back after 48 hours."
+          "text": "- You cannot return anything from your return trip if you go to realms higher than yours."
         },
         {
           "id": 44,
           "paragraph_id": 34,
-          "text": "- You cannot return anything from your return trip if you go to realms higher than yours."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 35,
-          "text": "---"
-        },
-        {
-          "id": 46,
-          "paragraph_id": 36,
           "text": "3."
         },
         {
-          "id": 47,
-          "paragraph_id": 36,
+          "id": 45,
+          "paragraph_id": 34,
           "text": "Starbound Compass"
         },
         {
-          "id": 48,
-          "paragraph_id": 37,
+          "id": 46,
+          "paragraph_id": 35,
           "text": "-- A mystical compass with a needle made of stardust, pointing unerringly toward the desired destination when activated."
+        },
+        {
+          "id": 47,
+          "paragraph_id": 35,
+          "text": "The compass projects a portal for travel."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 36,
+          "text": "Activation Requirements:"
         },
         {
           "id": 49,
           "paragraph_id": 37,
-          "text": "The compass projects a portal for travel."
+          "text": "- Spirit Stones: 10,000,000,000 (Max)"
         },
         {
           "id": 50,
           "paragraph_id": 38,
-          "text": "Activation Requirements:"
+          "text": "- Soul Essence: 100,000 (Max)"
         },
         {
           "id": 51,
           "paragraph_id": 39,
-          "text": "- Spirit Stones: 10,000,000,000 (Max)"
+          "text": "Cooldown Time:"
         },
         {
           "id": 52,
           "paragraph_id": 40,
-          "text": "- Soul Essence: 100,000 (Max)"
+          "text": "- Once requirements are met, the orb needs 96 hours to activate."
         },
         {
           "id": 53,
           "paragraph_id": 41,
-          "text": "Cooldown Time:"
+          "text": "- Once used, the orb goes into a 60-day cooldown."
         },
         {
           "id": 54,
           "paragraph_id": 42,
-          "text": "- Once requirements are met, the orb needs 96 hours to activate."
+          "text": "Limitations:"
         },
         {
           "id": 55,
           "paragraph_id": 43,
-          "text": "- Once used, the orb goes into a 60-day cooldown."
+          "text": "- You will be forcefully returned after 72 hours."
         },
         {
           "id": 56,
           "paragraph_id": 44,
-          "text": "Limitations:"
+          "text": "- The portal can be closed using the portal, but if the user doesn’t return within 72 hours, they will be forcefully pulled back."
         },
         {
           "id": 57,
           "paragraph_id": 45,
-          "text": "- You will be forcefully returned after 72 hours."
+          "text": "- The user can return any item provided they can be stored in their soul."
         },
         {
           "id": 58,
-          "paragraph_id": 46,
-          "text": "- The portal can be closed using the portal, but if the user doesn’t return within 72 hours, they will be forcefully pulled back."
+          "paragraph_id": 45,
+          "text": "Space rings are not allowed."
         },
         {
           "id": 59,
-          "paragraph_id": 47,
-          "text": "- The user can return any item provided they can be stored in their soul."
+          "paragraph_id": 46,
+          "text": "[Note: Before using any of the three items, you must know where you want to go.]"
         },
         {
           "id": 60,
           "paragraph_id": 47,
-          "text": "Space rings are not allowed."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 48,
-          "text": "[Note: Before using any of the three items, you must know where you want to go.]"
-        },
-        {
-          "id": 62,
-          "paragraph_id": 49,
           "text": "\"All these options are good."
         },
         {
-          "id": 63,
-          "paragraph_id": 49,
+          "id": 61,
+          "paragraph_id": 47,
           "text": "Tower, which one should I choose?\" Kent asked."
         },
         {
-          "id": 64,
-          "paragraph_id": 49,
+          "id": 62,
+          "paragraph_id": 47,
           "text": "All three options were good and could allow him to visit Vexthra, but there were limitations."
         },
         {
-          "id": 65,
-          "paragraph_id": 50,
+          "id": 63,
+          "paragraph_id": 48,
           "text": "[The master can choose any of the three options, but I prefer the third option."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 48,
+          "text": "The reason is simple: the third option allows the master to bring back any item of choice."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 49,
+          "text": "Of course, storing something inside your soul while you haven’t awakened your soul sea is impossible."
         },
         {
           "id": 66,
           "paragraph_id": 50,
-          "text": "The reason is simple: the third option allows the master to bring back any item of choice."
+          "text": "But the master has Tower storage, something that is akin to soul storage."
         },
         {
           "id": 67,
-          "paragraph_id": 51,
-          "text": "Of course, storing something inside your soul while you haven’t awakened your soul sea is impossible."
+          "paragraph_id": 50,
+          "text": "This means you can bring back any item of your choice."
         },
         {
           "id": 68,
-          "paragraph_id": 52,
-          "text": "But the master has Tower storage, something that is akin to soul storage."
+          "paragraph_id": 51,
+          "text": "Of course, the cost is huge, but the master has the soul bead, which can power the compass five times."
         },
         {
           "id": 69,
           "paragraph_id": 52,
-          "text": "This means you can bring back any item of your choice."
+          "text": "Once I am awakened, we can tweak it to add more time."
         },
         {
           "id": 70,
-          "paragraph_id": 53,
-          "text": "Of course, the cost is huge, but the master has the soul bead, which can power the compass five times."
+          "paragraph_id": 52,
+          "text": "But comparing the price to the chance for the master to see the Goddess, I would advise the master to pick the third option.]"
         },
         {
           "id": 71,
-          "paragraph_id": 54,
-          "text": "Once I am awakened, we can tweak it to add more time."
+          "paragraph_id": 53,
+          "text": "\"Then I choose the third option,\" Kent said with a smile."
         },
         {
           "id": 72,
           "paragraph_id": 54,
-          "text": "But comparing the price to the chance for the master to see the Goddess, I would advise the master to pick the third option.]"
-        },
-        {
-          "id": 73,
-          "paragraph_id": 55,
-          "text": "\"Then I choose the third option,\" Kent said with a smile."
-        },
-        {
-          "id": 74,
-          "paragraph_id": 56,
           "text": "Immediately after he gave the order, a small compass appeared in his hands."
         },
         {
-          "id": 75,
-          "paragraph_id": 56,
+          "id": 73,
+          "paragraph_id": 54,
           "text": "As soon as he touched it, he could feel the power brewing within it."
         },
         {
-          "id": 76,
-          "paragraph_id": 57,
+          "id": 74,
+          "paragraph_id": 55,
           "text": "[Message from the Enchantress: You have used one of your three wishes."
         },
         {
-          "id": 77,
-          "paragraph_id": 57,
+          "id": 75,
+          "paragraph_id": 55,
           "text": "If you ever want to make a wish, just tap into the connection that has formed between us and say your wish."
         },
         {
-          "id": 78,
-          "paragraph_id": 58,
+          "id": 76,
+          "paragraph_id": 56,
           "text": "Also, you have to visit the world of Xggrial once you ascend to the High realm to receive your quest."
         },
         {
-          "id": 79,
-          "paragraph_id": 58,
+          "id": 77,
+          "paragraph_id": 56,
           "text": "Good luck, and may the goddess of quests and adventures bless your journey.]"
         },
         {
-          "id": 80,
-          "paragraph_id": 59,
+          "id": 78,
+          "paragraph_id": 57,
           "text": "\"Good to know I have to rise to a high world first before the quest begins,\" Kent said with a smile."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 57,
+          "text": "This is indeed great."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 58,
+          "text": "He only wanted a book to learn about the kingdom, but in the end, he received skills, three wishes, and a way to travel the Universe."
         },
         {
           "id": 81,
           "paragraph_id": 59,
-          "text": "This is indeed great."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 60,
-          "text": "He only wanted a book to learn about the kingdom, but in the end, he received skills, three wishes, and a way to travel the Universe."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 61,
           "text": "Additionally, he now had access to the Quest Pool, where, with just a thought, he could receive a random quest."
         },
         {
-          "id": 84,
-          "paragraph_id": 61,
+          "id": 82,
+          "paragraph_id": 59,
           "text": "Now, that was something that could make him stronger much faster."
         },
         {
-          "id": 85,
-          "paragraph_id": 62,
+          "id": 83,
+          "paragraph_id": 60,
           "text": "\"I need to get my affairs in order so I can go visit my goddess."
         },
         {
-          "id": 86,
-          "paragraph_id": 62,
+          "id": 84,
+          "paragraph_id": 60,
           "text": "Ha, with 72 hours on my hands, I’m going to make her cry tears of pleasure,\" Kent said with a sly smile."
         },
         {
-          "id": 87,
-          "paragraph_id": 63,
+          "id": 85,
+          "paragraph_id": 61,
           "text": "[Master, this compass is much more complex than we think."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 61,
+          "text": "It will require some time to study it, but I believe the portal part of it is just the tip of the iceberg.]"
+        },
+        {
+          "id": 87,
+          "paragraph_id": 62,
+          "text": "\"Let me appraise it.\" Kent activated his enchanted eye, appraising the compass."
         },
         {
           "id": 88,
           "paragraph_id": 63,
-          "text": "It will require some time to study it, but I believe the portal part of it is just the tip of the iceberg.]"
+          "text": "[Item Name: Starbound Compass]"
         },
         {
           "id": 89,
           "paragraph_id": 64,
-          "text": "\"Let me appraise it.\" Kent activated his enchanted eye, appraising the compass."
+          "text": "[Grade: Supreme]"
         },
         {
           "id": 90,
           "paragraph_id": 65,
-          "text": "***"
+          "text": "-- The lost compass of the ancient travelers of Gxxyla."
         },
         {
           "id": 91,
           "paragraph_id": 66,
-          "text": "[Item Name: Starbound Compass]"
+          "text": "-- It is said that the ancient travelers of Gxxyla were beings who traversed the entire universe and beyond."
         },
         {
           "id": 92,
           "paragraph_id": 67,
-          "text": "[Grade: Supreme]"
+          "text": "-- But many years ago, rumors arose that their guide, who had led them through the cosmos, had gone missing after a terrible battle with the creatures of the unknown, the Hylians."
         },
         {
           "id": 93,
           "paragraph_id": 68,
-          "text": "-- The lost compass of the ancient travelers of Gxxyla."
+          "text": "-- For many years, the compass has wandered the cosmos, seeking a worthy ???"
         },
         {
           "id": 94,
           "paragraph_id": 69,
-          "text": "-- It is said that the ancient travelers of Gxxyla were beings who traversed the entire universe and beyond."
+          "text": "-- ???"
         },
         {
           "id": 95,
           "paragraph_id": 70,
-          "text": "-- But many years ago, rumors arose that their guide, who had led them through the cosmos, had gone missing after a terrible battle with the creatures of the unknown, the Hylians."
+          "text": "-- ???"
         },
         {
           "id": 96,
           "paragraph_id": 71,
-          "text": "-- For many years, the compass has wandered the cosmos, seeking a worthy ????????????"
+          "text": "\"Ouch,\" Kent cried in pain."
         },
         {
           "id": 97,
           "paragraph_id": 72,
-          "text": "-- ????????????????"
-        },
-        {
-          "id": 98,
-          "paragraph_id": 73,
-          "text": "-- ????????????????"
-        },
-        {
-          "id": 99,
-          "paragraph_id": 74,
-          "text": "\"Ouch,\" Kent cried in pain."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 75,
           "text": "A head-splitting and soul-shattering ache surged through his head and soul as he read the details of the appraisal."
         },
         {
-          "id": 101,
-          "paragraph_id": 75,
+          "id": 98,
+          "paragraph_id": 72,
           "text": "Beads of sweat formed on his forehead."
         },
         {
-          "id": 102,
-          "paragraph_id": 76,
+          "id": 99,
+          "paragraph_id": 73,
           "text": "[The master still doesn’t have enough soul and mental strength to appraise a supreme item.]"
         },
         {
-          "id": 103,
-          "paragraph_id": 77,
+          "id": 100,
+          "paragraph_id": 74,
           "text": "\"I see."
         },
         {
-          "id": 104,
-          "paragraph_id": 77,
+          "id": 101,
+          "paragraph_id": 74,
           "text": "I guess I’ll hold back the appraisal for now."
         },
         {
-          "id": 105,
-          "paragraph_id": 77,
+          "id": 102,
+          "paragraph_id": 74,
           "text": "Once I become strong enough, I’ll try again.\" Kent placed the compass back in the Tower storage so it could continue analyzing it."
         },
         {
-          "id": 106,
-          "paragraph_id": 78,
+          "id": 103,
+          "paragraph_id": 75,
           "text": "He could tell the item was not something simple from the small portion he had managed to read."
         },
         {
-          "id": 107,
-          "paragraph_id": 79,
+          "id": 104,
+          "paragraph_id": 76,
           "text": "\"Tower, let’s continue with the rest.\""
         }
       ],
-      "word_count": 1259
+      "word_count": 1256
     },
     {
       "chapter_index": 85,
@@ -22290,7 +22164,6 @@
         "The Lord who was left in the room removed his mask, revealing the face of a handsome middle-aged man. He sat there for a few minutes without saying much.",
         "\"Ashland and Alderford, how unfortunate you chose to enter my grip. Since that is the case, I must make sure you learn from your mistakes.\"",
         "Soon, he, too, was gone from the room. The Church is angry, and blood will spill soon.",
-        "***",
         "Fisher’s Haven is a fishing city responsible for all the sea spirit beast meat that one would drool over. All businesses there are linked to the sea, and that’s what most thrive on.",
         "This city is the closest to Caprath City and is the easiest route to leave Althea’s Kingdom. It has large ships that can take you anywhere on the human continent and beyond.",
         "Currently, two cloaked figures were moving under the cover of night, heading toward this city. It didn’t take a genius to see they were sneaking around.",
@@ -22578,185 +22451,180 @@
         {
           "id": 53,
           "paragraph_id": 27,
-          "text": "***"
+          "text": "Fisher’s Haven is a fishing city responsible for all the sea spirit beast meat that one would drool over."
         },
         {
           "id": 54,
-          "paragraph_id": 28,
-          "text": "Fisher’s Haven is a fishing city responsible for all the sea spirit beast meat that one would drool over."
+          "paragraph_id": 27,
+          "text": "All businesses there are linked to the sea, and that’s what most thrive on."
         },
         {
           "id": 55,
           "paragraph_id": 28,
-          "text": "All businesses there are linked to the sea, and that’s what most thrive on."
+          "text": "This city is the closest to Caprath City and is the easiest route to leave Althea’s Kingdom."
         },
         {
           "id": 56,
-          "paragraph_id": 29,
-          "text": "This city is the closest to Caprath City and is the easiest route to leave Althea’s Kingdom."
+          "paragraph_id": 28,
+          "text": "It has large ships that can take you anywhere on the human continent and beyond."
         },
         {
           "id": 57,
           "paragraph_id": 29,
-          "text": "It has large ships that can take you anywhere on the human continent and beyond."
+          "text": "Currently, two cloaked figures were moving under the cover of night, heading toward this city."
         },
         {
           "id": 58,
-          "paragraph_id": 30,
-          "text": "Currently, two cloaked figures were moving under the cover of night, heading toward this city."
+          "paragraph_id": 29,
+          "text": "It didn’t take a genius to see they were sneaking around."
         },
         {
           "id": 59,
           "paragraph_id": 30,
-          "text": "It didn’t take a genius to see they were sneaking around."
+          "text": "They stopped at the border separating Caprath City and Fisher’s Haven a few hours later."
         },
         {
           "id": 60,
           "paragraph_id": 31,
-          "text": "They stopped at the border separating Caprath City and Fisher’s Haven a few hours later."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 32,
           "text": "\"This is as far as I can take you."
         },
         {
-          "id": 62,
-          "paragraph_id": 32,
+          "id": 61,
+          "paragraph_id": 31,
           "text": "Take this pouch; it contains 30,000 spirit stones and some things you might need to leave the kingdom."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 31,
+          "text": "Once things settle down, I will come find you,\" one of the cloaked figures said calmly."
         },
         {
           "id": 63,
           "paragraph_id": 32,
-          "text": "Once things settle down, I will come find you,\" one of the cloaked figures said calmly."
+          "text": "The other cloaked figure removed her hood, revealing a beautiful face."
         },
         {
           "id": 64,
           "paragraph_id": 33,
-          "text": "The other cloaked figure removed her hood, revealing a beautiful face."
+          "text": "\"Thank you, John."
         },
         {
           "id": 65,
-          "paragraph_id": 34,
-          "text": "\"Thank you, John."
+          "paragraph_id": 33,
+          "text": "I promise I will pay you back,\" the lady said."
         },
         {
           "id": 66,
           "paragraph_id": 34,
-          "text": "I promise I will pay you back,\" the lady said."
+          "text": "If Kent were around, he would recognize her as Lady Olive, the spy he caught."
         },
         {
           "id": 67,
-          "paragraph_id": 35,
-          "text": "If Kent were around, he would recognize her as Lady Olive, the spy he caught."
+          "paragraph_id": 34,
+          "text": "She moved closer and planted a kiss on the other cloaked figure’s lips."
         },
         {
           "id": 68,
           "paragraph_id": 35,
-          "text": "She moved closer and planted a kiss on the other cloaked figure’s lips."
+          "text": "She was the spy the Ashland Noble Family sent to infiltrate the Alderford Merchant Family."
         },
         {
           "id": 69,
           "paragraph_id": 36,
-          "text": "She was the spy the Ashland Noble Family sent to infiltrate the Alderford Merchant Family."
+          "text": "The other cloaked figure was John Alderford, the head of the Alderford Merchant Family."
         },
         {
           "id": 70,
-          "paragraph_id": 37,
-          "text": "The other cloaked figure was John Alderford, the head of the Alderford Merchant Family."
+          "paragraph_id": 36,
+          "text": "The one who was supposed to interrogate and dispose of her."
         },
         {
           "id": 71,
           "paragraph_id": 37,
-          "text": "The one who was supposed to interrogate and dispose of her."
-        },
-        {
-          "id": 72,
-          "paragraph_id": 38,
           "text": "\"You don’t have to."
         },
         {
-          "id": 73,
-          "paragraph_id": 38,
+          "id": 72,
+          "paragraph_id": 37,
           "text": "This is all because of that brat."
         },
         {
-          "id": 74,
-          "paragraph_id": 38,
+          "id": 73,
+          "paragraph_id": 37,
           "text": "If he had left right after his job was done, none of this would have happened."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 37,
+          "text": "But don’t worry, I’ll make sure there’s no next time.\""
         },
         {
           "id": 75,
           "paragraph_id": 38,
-          "text": "But don’t worry, I’ll make sure there’s no next time.\""
+          "text": "The two kissed for a few more minutes before Lady Olive crossed the border."
         },
         {
           "id": 76,
-          "paragraph_id": 39,
-          "text": "The two kissed for a few more minutes before Lady Olive crossed the border."
+          "paragraph_id": 38,
+          "text": "John stayed behind for a while, his expression heavy with sadness, before returning to his family—the same family he had betrayed by setting a very dangerous person free."
         },
         {
           "id": 77,
           "paragraph_id": 39,
-          "text": "John stayed behind for a while, his expression heavy with sadness, before returning to his family—the same family he had betrayed by setting a very dangerous person free."
+          "text": "Lady Olive traveled many miles into Fisher’s Haven before stopping."
         },
         {
           "id": 78,
-          "paragraph_id": 40,
-          "text": "Lady Olive traveled many miles into Fisher’s Haven before stopping."
+          "paragraph_id": 39,
+          "text": "She turned back to face Caprath City."
         },
         {
           "id": 79,
           "paragraph_id": 40,
-          "text": "She turned back to face Caprath City."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 41,
           "text": "\"Oh, John, you should have listened to the brat and your bitch Cynthia by killing me."
         },
         {
-          "id": 81,
-          "paragraph_id": 41,
+          "id": 80,
+          "paragraph_id": 40,
           "text": "While I know you love me, I can’t say the same."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 40,
+          "text": "Ah well, this was a mission, and I succeeded.\""
         },
         {
           "id": 82,
           "paragraph_id": 41,
-          "text": "Ah well, this was a mission, and I succeeded.\""
+          "text": "Lady Olive retrieved two medallions from thin air and muttered an incantation."
         },
         {
           "id": 83,
-          "paragraph_id": 42,
-          "text": "Lady Olive retrieved two medallions from thin air and muttered an incantation."
+          "paragraph_id": 41,
+          "text": "Moments later, the medallions burst into a cascade of shimmering light and vanished into the void."
         },
         {
           "id": 84,
           "paragraph_id": 42,
-          "text": "Moments later, the medallions burst into a cascade of shimmering light and vanished into the void."
+          "text": "\"My work here is done,\" she said, her voice cold and final."
         },
         {
           "id": 85,
-          "paragraph_id": 43,
-          "text": "\"My work here is done,\" she said, her voice cold and final."
+          "paragraph_id": 42,
+          "text": "With that, she transformed into a dark crow and soared into the night, leaving behind one chilling prophecy:"
         },
         {
           "id": 86,
           "paragraph_id": 43,
-          "text": "With that, she transformed into a dark crow and soared into the night, leaving behind one chilling prophecy:"
-        },
-        {
-          "id": 87,
-          "paragraph_id": 44,
           "text": "\"When twilight embraces the moon, the heavens shall rend asunder, and they will descend."
         },
         {
-          "id": 88,
-          "paragraph_id": 44,
+          "id": 87,
+          "paragraph_id": 43,
           "text": "Their vengeance will scorch the world, their fury shall drown the skies, and the frail worms who scorned the stars will tremble as the mighty fall.\""
         }
       ],
-      "word_count": 1228
+      "word_count": 1227
     },
     {
       "chapter_index": 92,
@@ -22785,7 +22653,6 @@
         "Thirty minutes later, they arrived in front of a tall tower that seemed to have seven levels, crowned with a colossal green gate. One glance was enough to tell you it was the Green Gate Bazaar.",
         "\"Young Master, we are here,\" Uncle Drew said, stopping in front of the Bazaar building.",
         "Kent and the ladies alighted. When his eyes landed on the green gate, he appraised it with his new and improved Enchanted Eyes.",
-        "***",
         "[Green Gate Bazaar]",
         "-- The Green Gate Bazaar is one of the main hubs for buying and selling rare goods and services. Inside the bazaar are various stores belonging to some of the finest businesses in the kingdom.",
         "-- It has seven floors, each increasing the grade of items available for purchase. The first three floors offer Earth-grade items, the fourth to sixth floors feature Heaven-grade treasures, and the final floor holds Legendary-grade items.",
@@ -23003,245 +22870,240 @@
         {
           "id": 37,
           "paragraph_id": 22,
-          "text": "***"
+          "text": "[Green Gate Bazaar]"
         },
         {
           "id": 38,
           "paragraph_id": 23,
-          "text": "[Green Gate Bazaar]"
+          "text": "-- The Green Gate Bazaar is one of the main hubs for buying and selling rare goods and services."
         },
         {
           "id": 39,
-          "paragraph_id": 24,
-          "text": "-- The Green Gate Bazaar is one of the main hubs for buying and selling rare goods and services."
+          "paragraph_id": 23,
+          "text": "Inside the bazaar are various stores belonging to some of the finest businesses in the kingdom."
         },
         {
           "id": 40,
           "paragraph_id": 24,
-          "text": "Inside the bazaar are various stores belonging to some of the finest businesses in the kingdom."
+          "text": "-- It has seven floors, each increasing the grade of items available for purchase."
         },
         {
           "id": 41,
-          "paragraph_id": 25,
-          "text": "-- It has seven floors, each increasing the grade of items available for purchase."
+          "paragraph_id": 24,
+          "text": "The first three floors offer Earth-grade items, the fourth to sixth floors feature Heaven-grade treasures, and the final floor holds Legendary-grade items."
         },
         {
           "id": 42,
           "paragraph_id": 25,
-          "text": "The first three floors offer Earth-grade items, the fourth to sixth floors feature Heaven-grade treasures, and the final floor holds Legendary-grade items."
+          "text": "-- Only Spirit Stones can be used here, and anyone caught cheating will be banned for 100 years or, in some cases, permanently."
         },
         {
           "id": 43,
           "paragraph_id": 26,
-          "text": "-- Only Spirit Stones can be used here, and anyone caught cheating will be banned for 100 years or, in some cases, permanently."
+          "text": "-- All items purchased are non-refundable."
         },
         {
           "id": 44,
           "paragraph_id": 27,
-          "text": "-- All items purchased are non-refundable."
+          "text": "-- You don’t need qualifications to enter any floor."
         },
         {
           "id": 45,
-          "paragraph_id": 28,
-          "text": "-- You don’t need qualifications to enter any floor."
+          "paragraph_id": 27,
+          "text": "All you have to do is pay the appropriate amount, and you will be teleported inside."
         },
         {
           "id": 46,
           "paragraph_id": 28,
-          "text": "All you have to do is pay the appropriate amount, and you will be teleported inside."
+          "text": "\"This place looks better than I had hoped,\" Kent muttered, already eyeing the top floor."
         },
         {
           "id": 47,
           "paragraph_id": 29,
-          "text": "\"This place looks better than I had hoped,\" Kent muttered, already eyeing the top floor."
+          "text": "\"Can we really buy from here?"
         },
         {
           "id": 48,
-          "paragraph_id": 30,
-          "text": "\"Can we really buy from here?"
+          "paragraph_id": 29,
+          "text": "I heard things here are very expensive,\" Lilian said, frowning as she gazed at the towering structure."
         },
         {
           "id": 49,
           "paragraph_id": 30,
-          "text": "I heard things here are very expensive,\" Lilian said, frowning as she gazed at the towering structure."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 31,
           "text": "\"Don’t worry about that."
         },
         {
-          "id": 51,
-          "paragraph_id": 31,
+          "id": 50,
+          "paragraph_id": 30,
           "text": "You should focus on the skills and techniques you’ll need."
+        },
+        {
+          "id": 51,
+          "paragraph_id": 30,
+          "text": "As for the money, leave that to me.\" Kent turned and looked at the ladies accompanying him."
         },
         {
           "id": 52,
           "paragraph_id": 31,
-          "text": "As for the money, leave that to me.\" Kent turned and looked at the ladies accompanying him."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 32,
           "text": "\"All of you should only worry about what to buy."
         },
         {
-          "id": 54,
-          "paragraph_id": 32,
+          "id": 53,
+          "paragraph_id": 31,
           "text": "I’ll pay, even if it costs a million Spirit Stones,\" he smirked."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 31,
+          "text": "\"Even though I dislike bragging, I am very rich.\""
         },
         {
           "id": 55,
           "paragraph_id": 32,
-          "text": "\"Even though I dislike bragging, I am very rich.\""
+          "text": "As if to prove his point to the ladies, who were giving him skeptical looks, Kent retrieved 50,000 Spirit Stones and handed them to Uncle Drew."
         },
         {
           "id": 56,
           "paragraph_id": 33,
-          "text": "As if to prove his point to the ladies, who were giving him skeptical looks, Kent retrieved 50,000 Spirit Stones and handed them to Uncle Drew."
+          "text": "\"You can go look around and buy whatever you want.\" Uncle Drew accepted the stones with a pleased smile."
         },
         {
           "id": 57,
           "paragraph_id": 34,
-          "text": "\"You can go look around and buy whatever you want.\" Uncle Drew accepted the stones with a pleased smile."
+          "text": "\"Let’s go.\" Before the ladies could protest, Kent beckoned them to follow him inside."
         },
         {
           "id": 58,
-          "paragraph_id": 35,
-          "text": "\"Let’s go.\" Before the ladies could protest, Kent beckoned them to follow him inside."
+          "paragraph_id": 34,
+          "text": "Li Hua glanced at Uncle Drew, eyeing the Spirit Stones in his hand for a few seconds before turning away."
         },
         {
           "id": 59,
           "paragraph_id": 35,
-          "text": "Li Hua glanced at Uncle Drew, eyeing the Spirit Stones in his hand for a few seconds before turning away."
-        },
-        {
-          "id": 60,
-          "paragraph_id": 36,
           "text": "Her attention shifted from the group of ladies to Kent."
         },
         {
-          "id": 61,
-          "paragraph_id": 36,
+          "id": 60,
+          "paragraph_id": 35,
           "text": "Soon, she resolved that she would secure a place as his treasurer."
+        },
+        {
+          "id": 61,
+          "paragraph_id": 35,
+          "text": "After all, anyone who could casually hand over that many Spirit Stones to a mere carriage driver must possess extraordinary wealth."
         },
         {
           "id": 62,
           "paragraph_id": 36,
-          "text": "After all, anyone who could casually hand over that many Spirit Stones to a mere carriage driver must possess extraordinary wealth."
+          "text": "’Grandma, look, I just found a rich brother."
         },
         {
           "id": 63,
-          "paragraph_id": 37,
-          "text": "’Grandma, look, I just found a rich brother."
+          "paragraph_id": 36,
+          "text": "You can rest well now,’ Li Hua said inwardly as she held onto Saintess Selene’s hand."
         },
         {
           "id": 64,
           "paragraph_id": 37,
-          "text": "You can rest well now,’ Li Hua said inwardly as she held onto Saintess Selene’s hand."
+          "text": "\"Welcome to the Green Gate Bazaar,\" a guard at the entrance announced as Kent’s group arrived before the grand gates."
         },
         {
           "id": 65,
           "paragraph_id": 38,
-          "text": "\"Welcome to the Green Gate Bazaar,\" a guard at the entrance announced as Kent’s group arrived before the grand gates."
+          "text": "\"Please, we would like to go to the last floor,\" Kent said confidently."
         },
         {
           "id": 66,
           "paragraph_id": 39,
-          "text": "\"Please, we would like to go to the last floor,\" Kent said confidently."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 40,
           "text": "Unity, Lilian, and Saintess Selene gave him skeptical looks."
         },
         {
-          "id": 68,
-          "paragraph_id": 40,
+          "id": 67,
+          "paragraph_id": 39,
           "text": "While Saintess Selene may hold a high rank, her authority meant nothing here."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 39,
+          "text": "The bazaar was strictly for business, and everyone had to pay."
         },
         {
           "id": 69,
           "paragraph_id": 40,
-          "text": "The bazaar was strictly for business, and everyone had to pay."
+          "text": "The guard gave Kent an appraising look as if trying to determine whether he was serious or simply wasting his time."
         },
         {
           "id": 70,
-          "paragraph_id": 41,
-          "text": "The guard gave Kent an appraising look as if trying to determine whether he was serious or simply wasting his time."
+          "paragraph_id": 40,
+          "text": "After a few moments, he decided to state the cost."
         },
         {
           "id": 71,
           "paragraph_id": 41,
-          "text": "After a few moments, he decided to state the cost."
+          "text": "\"That will be 250,000 Spirit Stones."
         },
         {
           "id": 72,
-          "paragraph_id": 42,
-          "text": "\"That will be 250,000 Spirit Stones."
+          "paragraph_id": 41,
+          "text": "Each of you is required to pay 50,000,\" the guard said."
         },
         {
           "id": 73,
           "paragraph_id": 42,
-          "text": "Each of you is required to pay 50,000,\" the guard said."
+          "text": "\"Here you go,\" Kent said, handing over a pouch filled with Spirit Stones, leaving the guard dumbfounded."
         },
         {
           "id": 74,
-          "paragraph_id": 43,
-          "text": "\"Here you go,\" Kent said, handing over a pouch filled with Spirit Stones, leaving the guard dumbfounded."
+          "paragraph_id": 42,
+          "text": "Normally, only the wealthy and influential dared to enter the top floor, and even then, it was rare for more than one person to pay such an exorbitant fee."
         },
         {
           "id": 75,
           "paragraph_id": 43,
-          "text": "Normally, only the wealthy and influential dared to enter the top floor, and even then, it was rare for more than one person to pay such an exorbitant fee."
+          "text": "But Kent had just paid for five people without so much as batting an eye."
         },
         {
           "id": 76,
-          "paragraph_id": 44,
-          "text": "But Kent had just paid for five people without so much as batting an eye."
+          "paragraph_id": 43,
+          "text": "If that wasn’t shocking enough, the casual manner in which he did it certainly was."
         },
         {
           "id": 77,
           "paragraph_id": 44,
-          "text": "If that wasn’t shocking enough, the casual manner in which he did it certainly was."
+          "text": "While the three ladies wore expressions of astonishment, Li Hua moved closer to Kent and tugged at his sleeve."
         },
         {
           "id": 78,
           "paragraph_id": 45,
-          "text": "While the three ladies wore expressions of astonishment, Li Hua moved closer to Kent and tugged at his sleeve."
+          "text": "\"Big brother, after we return, I have some business ideas I’d like to discuss with you,\" Li Hua said, her voice sweet and innocent."
         },
         {
           "id": 79,
           "paragraph_id": 46,
-          "text": "\"Big brother, after we return, I have some business ideas I’d like to discuss with you,\" Li Hua said, her voice sweet and innocent."
+          "text": "Kent nodded, and Li Hua smiled, shaking her head inwardly."
         },
         {
           "id": 80,
           "paragraph_id": 47,
-          "text": "Kent nodded, and Li Hua smiled, shaking her head inwardly."
+          "text": "\"We’ve paid."
         },
         {
           "id": 81,
-          "paragraph_id": 48,
-          "text": "\"We’ve paid."
+          "paragraph_id": 47,
+          "text": "Can we go now?\" Kent snapped his fingers, jolting the guard from his stupor."
         },
         {
           "id": 82,
           "paragraph_id": 48,
-          "text": "Can we go now?\" Kent snapped his fingers, jolting the guard from his stupor."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 49,
           "text": "The guard nodded quickly and placed a card on a small platform."
         },
         {
-          "id": 84,
-          "paragraph_id": 49,
+          "id": 83,
+          "paragraph_id": 48,
           "text": "A spell circle appeared beneath the group, and within moments, they vanished, reappearing on the seventh floor where the finest treasures awaited."
         }
       ],
-      "word_count": 1270
+      "word_count": 1269
     },
     {
       "chapter_index": 93,
@@ -24350,7 +24212,6 @@
         "She couldn’t believe it. But the person in question was dangling a pouch filled with a million spirit stones before Master Kai.",
         "\"To tell you the truth, I am actually after legendary-grade skills, so if you have any, bring them out. However, you can hand over the one in your hands first.\"",
         "He tossed the stones to him and received the skill book. He quickly appraised it.",
-        "***",
         "[Skill Name: Soul Shock]",
         "[Grade: Heaven]",
         "[Rank: SSS]",
@@ -24656,170 +24517,165 @@
         {
           "id": 56,
           "paragraph_id": 35,
-          "text": "***"
+          "text": "[Skill Name: Soul Shock]"
         },
         {
           "id": 57,
           "paragraph_id": 36,
-          "text": "[Skill Name: Soul Shock]"
+          "text": "[Grade: Heaven]"
         },
         {
           "id": 58,
           "paragraph_id": 37,
-          "text": "[Grade: Heaven]"
+          "text": "[Rank: SSS]"
         },
         {
           "id": 59,
           "paragraph_id": 38,
-          "text": "[Rank: SSS]"
+          "text": "[Effect:]"
         },
         {
           "id": 60,
           "paragraph_id": 39,
-          "text": "[Effect:]"
+          "text": "-- Releases a devastating wave of soul energy capable of stunning and crippling enemies."
         },
         {
           "id": 61,
           "paragraph_id": 40,
-          "text": "-- Releases a devastating wave of soul energy capable of stunning and crippling enemies."
+          "text": "-- Causes excruciating pain and shatters weaker souls entirely."
         },
         {
           "id": 62,
           "paragraph_id": 41,
-          "text": "-- Causes excruciating pain and shatters weaker souls entirely."
+          "text": "-- Targets multiple enemies within a 500-meter range."
         },
         {
           "id": 63,
           "paragraph_id": 42,
-          "text": "-- Targets multiple enemies within a 500-meter range."
+          "text": "-- Enemies with strong souls will suffer reduced effects but lose combat focus."
         },
         {
           "id": 64,
           "paragraph_id": 43,
-          "text": "-- Enemies with strong souls will suffer reduced effects but lose combat focus."
-        },
-        {
-          "id": 65,
-          "paragraph_id": 44,
           "text": "’Good one."
         },
         {
-          "id": 66,
-          "paragraph_id": 44,
+          "id": 65,
+          "paragraph_id": 43,
           "text": "No wonder poor Nash wanted it."
         },
         {
-          "id": 67,
-          "paragraph_id": 44,
+          "id": 66,
+          "paragraph_id": 43,
           "text": "I guess I didn’t want a million for it."
+        },
+        {
+          "id": 67,
+          "paragraph_id": 43,
+          "text": "Once I upgrade it to the Legendary grade, it will become even more devastating.’"
         },
         {
           "id": 68,
           "paragraph_id": 44,
-          "text": "Once I upgrade it to the Legendary grade, it will become even more devastating.’"
+          "text": "Kent tossed the skill into the Tower storage, where it would be safe for the time being."
         },
         {
           "id": 69,
-          "paragraph_id": 45,
-          "text": "Kent tossed the skill into the Tower storage, where it would be safe for the time being."
+          "paragraph_id": 44,
+          "text": "Sir Kai, who had just received the million spirit stones, became ecstatic and ran to bring the Legendary-grade skills in his possession for Kent."
         },
         {
           "id": 70,
           "paragraph_id": 45,
-          "text": "Sir Kai, who had just received the million spirit stones, became ecstatic and ran to bring the Legendary-grade skills in his possession for Kent."
+          "text": "In the meantime, the Saintess dragged Kent to the side and whispered."
         },
         {
           "id": 71,
           "paragraph_id": 46,
-          "text": "In the meantime, the Saintess dragged Kent to the side and whispered."
+          "text": "\"What are you doing?\" Saintess Selene asked."
         },
         {
           "id": 72,
           "paragraph_id": 47,
-          "text": "\"What are you doing?\" Saintess Selene asked."
+          "text": "\"Nothing."
         },
         {
           "id": 73,
-          "paragraph_id": 48,
-          "text": "\"Nothing."
+          "paragraph_id": 47,
+          "text": "I just thought, why not take three beauties to town and spoil them?\" Kent smiled."
         },
         {
           "id": 74,
           "paragraph_id": 48,
-          "text": "I just thought, why not take three beauties to town and spoil them?\" Kent smiled."
+          "text": "\"Tell me what you are really doing,\" she asked again."
         },
         {
           "id": 75,
           "paragraph_id": 49,
-          "text": "\"Tell me what you are really doing,\" she asked again."
-        },
-        {
-          "id": 76,
-          "paragraph_id": 50,
           "text": "\"Nothing, as I said."
         },
         {
-          "id": 77,
-          "paragraph_id": 50,
+          "id": 76,
+          "paragraph_id": 49,
           "text": "But if you insist, then I can just say I’m being generous so I can get close to you."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 49,
+          "text": "Do you think I have a shot?\" Kent asked, stepping closer to her."
         },
         {
           "id": 78,
           "paragraph_id": 50,
-          "text": "Do you think I have a shot?\" Kent asked, stepping closer to her."
+          "text": "Lilian and Unity watched out of the corner of their eyes as they giggled inwardly."
         },
         {
           "id": 79,
-          "paragraph_id": 51,
-          "text": "Lilian and Unity watched out of the corner of their eyes as they giggled inwardly."
+          "paragraph_id": 50,
+          "text": "They had already started reporting everything to Vexthra, who was giving them instructions on how to proceed."
         },
         {
           "id": 80,
           "paragraph_id": 51,
-          "text": "They had already started reporting everything to Vexthra, who was giving them instructions on how to proceed."
+          "text": "Saintess Selene took a step back and firmed herself, determined not to lose her grip and fall under Kent’s charm."
         },
         {
           "id": 81,
           "paragraph_id": 52,
-          "text": "Saintess Selene took a step back and firmed herself, determined not to lose her grip and fall under Kent’s charm."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 53,
           "text": "Kent smiled and stepped back."
         },
         {
-          "id": 83,
-          "paragraph_id": 53,
+          "id": 82,
+          "paragraph_id": 52,
           "text": "\"You might want to use this chance to get all the skills you want."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 52,
+          "text": "In the future, I’ll depend on you to save me when I get into trouble.\" With that, Kent moved back to give her breathing space."
         },
         {
           "id": 84,
           "paragraph_id": 53,
-          "text": "In the future, I’ll depend on you to save me when I get into trouble.\" With that, Kent moved back to give her breathing space."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 54,
           "text": "A few minutes later, Sir Kai came out with eight Legendary-grade skills for Kent and his ladies to select from."
         },
         {
-          "id": 86,
-          "paragraph_id": 54,
+          "id": 85,
+          "paragraph_id": 53,
           "text": "He spent 120 million there for four more skills."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 53,
+          "text": "Two went to Lilian, one to Unity, and the other to Saintess Selene."
         },
         {
           "id": 87,
           "paragraph_id": 54,
-          "text": "Two went to Lilian, one to Unity, and the other to Saintess Selene."
-        },
-        {
-          "id": 88,
-          "paragraph_id": 55,
           "text": "They then went to the weapons store to buy a bow for Unity."
         }
       ],
-      "word_count": 1253
+      "word_count": 1252
     },
     {
       "chapter_index": 96,
@@ -24879,7 +24735,6 @@
         "Who knows? His life might just depend on it.",
         "He kept humming a happy tune as he explored the herb stores, gathering herbs and resources for body tempering and alchemy.",
         "Finally, he could start tempering his body as he and Vexthra had discussed. He would have to start now if he wanted to have a shot at becoming immortal one day.",
-        "---",
         "[Name: Void Piercing Demon Arrow]",
         "[Grade: Spiritual (Damaged)]",
         "[Type: Weapon]",
@@ -25326,40 +25181,35 @@
         {
           "id": 87,
           "paragraph_id": 53,
-          "text": "---"
+          "text": "[Name: Void Piercing Demon Arrow]"
         },
         {
           "id": 88,
           "paragraph_id": 54,
-          "text": "[Name: Void Piercing Demon Arrow]"
+          "text": "[Grade: Spiritual (Damaged)]"
         },
         {
           "id": 89,
           "paragraph_id": 55,
-          "text": "[Grade: Spiritual (Damaged)]"
+          "text": "[Type: Weapon]"
         },
         {
           "id": 90,
           "paragraph_id": 56,
-          "text": "[Type: Weapon]"
+          "text": "-- The Forbidden Arrow of the Great General Rumil."
         },
         {
           "id": 91,
           "paragraph_id": 57,
-          "text": "-- The Forbidden Arrow of the Great General Rumil."
+          "text": "-- An arrow said to capture the souls of ten thousand demons and the soul of the Ancient 8-headed Hydra Serpent."
         },
         {
           "id": 92,
           "paragraph_id": 58,
-          "text": "-- An arrow said to capture the souls of ten thousand demons and the soul of the Ancient 8-headed Hydra Serpent."
-        },
-        {
-          "id": 93,
-          "paragraph_id": 59,
           "text": "-- An arrow capable of slaying a god."
         }
       ],
-      "word_count": 1263
+      "word_count": 1262
     },
     {
       "chapter_index": 97,

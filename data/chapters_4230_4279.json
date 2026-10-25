@@ -2254,7 +2254,6 @@
         "His internal laughter was a cold, sharp, and utterly joyous thing!",
         "The Architect's Rebuke. He hadn't just built a fortress; he had set the most glorious, wonderful trap!",
         "He had weaponized his own defense, turning any potential aggression into a direct source of his own growth. He settled back onto the golden sands in the Radiant Shore, a king waiting for his enemies to unwittingly bring him tribute!",
-        "—",
         "In the chaotic region of Collapse, a group of Prime and Honored Living Laws, their forms shimmering with the silver-white light of their authority, were meticulously scanning the area.",
         "Their task was to understand the impossible: how an entire Fold had simply... vanished.",
         "As they worked, they felt it. A shift in the fabric of Collapse. A new, ordered, and unbelievably powerful authority asserting itself. They turned, and their collective consciousnesses reeled!",
@@ -2614,45 +2613,40 @@
         {
           "id": 70,
           "paragraph_id": 50,
-          "text": "—"
+          "text": "In the chaotic region of Collapse, a group of Prime and Honored Living Laws, their forms shimmering with the silver-white light of their authority, were meticulously scanning the area."
         },
         {
           "id": 71,
           "paragraph_id": 51,
-          "text": "In the chaotic region of Collapse, a group of Prime and Honored Living Laws, their forms shimmering with the silver-white light of their authority, were meticulously scanning the area."
+          "text": "Their task was to understand the impossible: how an entire Fold had simply... vanished."
         },
         {
           "id": 72,
           "paragraph_id": 52,
-          "text": "Their task was to understand the impossible: how an entire Fold had simply... vanished."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 53,
           "text": "As they worked, they felt it."
         },
         {
-          "id": 74,
-          "paragraph_id": 53,
+          "id": 73,
+          "paragraph_id": 52,
           "text": "A shift in the fabric of Collapse."
         },
         {
-          "id": 75,
-          "paragraph_id": 53,
+          "id": 74,
+          "paragraph_id": 52,
           "text": "A new, ordered, and unbelievably powerful authority asserting itself."
+        },
+        {
+          "id": 75,
+          "paragraph_id": 52,
+          "text": "They turned, and their collective consciousnesses reeled!"
         },
         {
           "id": 76,
           "paragraph_id": 53,
-          "text": "They turned, and their collective consciousnesses reeled!"
-        },
-        {
-          "id": 77,
-          "paragraph_id": 54,
           "text": "There, where moments before there had been only a swirling, chaotic void, now stood a structure so vast it defied comprehension!"
         }
       ],
-      "word_count": 1023
+      "word_count": 1022
     },
     {
       "chapter_index": 4235,
@@ -2661,7 +2655,6 @@
       "paragraphs": [
         "A fortress of blue and gold light, covering a space that was easily half the size of the Fold they had been searching for. It was a thing of impossible beauty and terrifying power, a declaration of dominion in a realm that should have had none.",
         "They were alarmed. They were shocked. They were, above all, utterly bewildered. The lead Honored Living Law, his form trembling with the shock of the discovery, instantly sent a message, a desperate, frantic cry for guidance, to those above him, to the very heart of the Transcendent Law Folds!",
-        "—",
         "In a corner of the Heart of Law, there was a place of profound, cathedral-like silence.",
         "It was a realm carved from the very concept of absolute law, a sanctuary where the chaotic whims of existence were not permitted entry.",
         "Vast pillars of pristine white marble, each one veined with intricate lines of shimmering gold, rose to support a ceiling that was not a ceiling at all, but a luminous, featureless expanse of pure, structured light.",
@@ -2732,355 +2725,350 @@
         {
           "id": 6,
           "paragraph_id": 2,
-          "text": "—"
+          "text": "In a corner of the Heart of Law, there was a place of profound, cathedral-like silence."
         },
         {
           "id": 7,
           "paragraph_id": 3,
-          "text": "In a corner of the Heart of Law, there was a place of profound, cathedral-like silence."
+          "text": "It was a realm carved from the very concept of absolute law, a sanctuary where the chaotic whims of existence were not permitted entry."
         },
         {
           "id": 8,
           "paragraph_id": 4,
-          "text": "It was a realm carved from the very concept of absolute law, a sanctuary where the chaotic whims of existence were not permitted entry."
+          "text": "Vast pillars of pristine white marble, each one veined with intricate lines of shimmering gold, rose to support a ceiling that was not a ceiling at all, but a luminous, featureless expanse of pure, structured light."
         },
         {
           "id": 9,
           "paragraph_id": 5,
-          "text": "Vast pillars of pristine white marble, each one veined with intricate lines of shimmering gold, rose to support a ceiling that was not a ceiling at all, but a luminous, featureless expanse of pure, structured light."
+          "text": "Unlike the stark, functional design of the Juridical Sanctum, this was no prison; it was a temple, a testament to the beauty and majesty of Law itself!"
         },
         {
           "id": 10,
           "paragraph_id": 6,
-          "text": "Unlike the stark, functional design of the Juridical Sanctum, this was no prison; it was a temple, a testament to the beauty and majesty of Law itself!"
+          "text": "In a central chamber so vast it could have contained a small Folds, a constellation of massive, marbled white thrones was arranged in a grand, circular conclave."
         },
         {
           "id": 11,
           "paragraph_id": 7,
-          "text": "In a central chamber so vast it could have contained a small Folds, a constellation of massive, marbled white thrones was arranged in a grand, circular conclave."
+          "text": "Some were filled with the silent, imposing figures of the Dukes of Law, their forms radiating an authority that was as constant and as unyielding as gravity."
         },
         {
           "id": 12,
           "paragraph_id": 8,
-          "text": "Some were filled with the silent, imposing figures of the Dukes of Law, their forms radiating an authority that was as constant and as unyielding as gravity."
+          "text": "Others sat empty, silent monuments to beings who were elsewhere, engaged in the endless work of maintaining the structural integrity of reality."
         },
         {
           "id": 13,
           "paragraph_id": 9,
-          "text": "Others sat empty, silent monuments to beings who were elsewhere, engaged in the endless work of maintaining the structural integrity of reality."
+          "text": "At the center of this gathering, floating in the still, heavy air, was Royal Law Tristesse."
         },
         {
           "id": 14,
           "paragraph_id": 10,
-          "text": "At the center of this gathering, floating in the still, heavy air, was Royal Law Tristesse."
+          "text": "Her dark hair was a stark, beautiful contrast to the brilliant white of her robes, and her expression was one of cool, professional confidence."
         },
         {
           "id": 15,
           "paragraph_id": 11,
-          "text": "Her dark hair was a stark, beautiful contrast to the brilliant white of her robes, and her expression was one of cool, professional confidence."
+          "text": "She had just concluded her report on the mission to the Desiccated Sleeping Shore, her voice echoing with a final, resonant note in the profound quiet."
         },
         {
           "id": 16,
           "paragraph_id": 12,
-          "text": "She had just concluded her report on the mission to the Desiccated Sleeping Shore, her voice echoing with a final, resonant note in the profound quiet."
+          "text": "For a long moment, there was only silence as the assembled Dukes contemplated her words."
         },
         {
           "id": 17,
           "paragraph_id": 13,
-          "text": "For a long moment, there was only silence as the assembled Dukes contemplated her words."
+          "text": "Then, a voice, deep and resonant as a striking gavel, emerged from one of the thrones."
         },
         {
           "id": 18,
           "paragraph_id": 14,
-          "text": "Then, a voice, deep and resonant as a striking gavel, emerged from one of the thrones."
+          "text": "It was Duke Justinius, a being whose form was so perfectly symmetrical it was almost painful to look at."
         },
         {
           "id": 19,
           "paragraph_id": 15,
-          "text": "It was Duke Justinius, a being whose form was so perfectly symmetrical it was almost painful to look at."
-        },
-        {
-          "id": 20,
-          "paragraph_id": 16,
           "text": "\"You have done well to confirm the path, Tristesse,\" he began, his tone a perfect balance of praise and scrutiny."
         },
         {
-          "id": 21,
-          "paragraph_id": 16,
+          "id": 20,
+          "paragraph_id": 15,
           "text": "\"But you say you let the holders of the Enneagram, the very keys to this endeavor, go on alone?"
+        },
+        {
+          "id": 21,
+          "paragraph_id": 15,
+          "text": "Unaccounted for?\""
         },
         {
           "id": 22,
           "paragraph_id": 16,
-          "text": "Unaccounted for?\""
-        },
-        {
-          "id": 23,
-          "paragraph_id": 17,
           "text": "The question was a sharp, pointed blade in the calm of the chamber."
         },
         {
-          "id": 24,
-          "paragraph_id": 17,
+          "id": 23,
+          "paragraph_id": 16,
           "text": "Tristesse's smile, however, did not waver."
+        },
+        {
+          "id": 24,
+          "paragraph_id": 16,
+          "text": "It was a bright, confident expression, the look of a being who had already calculated every possible variable."
         },
         {
           "id": 25,
           "paragraph_id": 17,
-          "text": "It was a bright, confident expression, the look of a being who had already calculated every possible variable."
-        },
-        {
-          "id": 26,
-          "paragraph_id": 18,
           "text": "\"Alexander Asmodeus is unaccounted for, it is true,\" she conceded, her voice a smooth, melodic current."
         },
         {
-          "id": 27,
-          "paragraph_id": 18,
+          "id": 26,
+          "paragraph_id": 17,
           "text": "\"He is unique, an anomaly whose path is his own."
         },
         {
-          "id": 28,
-          "paragraph_id": 18,
+          "id": 27,
+          "paragraph_id": 17,
           "text": "But Seraphina..."
+        },
+        {
+          "id": 28,
+          "paragraph_id": 17,
+          "text": "Seraphina is ours.\""
         },
         {
           "id": 29,
           "paragraph_id": 18,
-          "text": "Seraphina is ours.\""
-        },
-        {
-          "id": 30,
-          "paragraph_id": 19,
           "text": "She paused, letting the weight of her words settle."
         },
         {
-          "id": 31,
-          "paragraph_id": 19,
+          "id": 30,
+          "paragraph_id": 18,
           "text": "\"She has been raised with us."
         },
         {
-          "id": 32,
-          "paragraph_id": 19,
+          "id": 31,
+          "paragraph_id": 18,
           "text": "Her allegiances are with our laws, with our ways."
         },
         {
-          "id": 33,
-          "paragraph_id": 19,
+          "id": 32,
+          "paragraph_id": 18,
           "text": "The moment I send her a message, a single, coded pulse of my authority, she will tell us exactly where they are and what they have found."
+        },
+        {
+          "id": 33,
+          "paragraph_id": 18,
+          "text": "She is our anchor in his chaotic current.\""
         },
         {
           "id": 34,
           "paragraph_id": 19,
-          "text": "She is our anchor in his chaotic current.\""
+          "text": "The Dukes seemed to accept this, their collective auras humming with a grudging approval."
         },
         {
           "id": 35,
           "paragraph_id": 20,
-          "text": "The Dukes seemed to accept this, their collective auras humming with a grudging approval."
-        },
-        {
-          "id": 36,
-          "paragraph_id": 21,
           "text": "Another Duke, a woman whose form seemed to be woven from threads of pure, silver light, spoke."
         },
         {
-          "id": 37,
-          "paragraph_id": 21,
+          "id": 36,
+          "paragraph_id": 20,
           "text": "\"And what of the events in the Transcendent Origin Folds?"
         },
         {
-          "id": 38,
-          "paragraph_id": 21,
+          "id": 37,
+          "paragraph_id": 20,
           "text": "What we saw in Concordia was...contradictory and alarming."
         },
         {
-          "id": 39,
-          "paragraph_id": 21,
+          "id": 38,
+          "paragraph_id": 20,
           "text": "They being named Osmont, or was it Osmontian?"
+        },
+        {
+          "id": 39,
+          "paragraph_id": 20,
+          "text": "The one who wielded the authority of The Dead and displayed power far beyond his supposed station.\""
         },
         {
           "id": 40,
           "paragraph_id": 21,
-          "text": "The one who wielded the authority of The Dead and displayed power far beyond his supposed station.\""
-        },
-        {
-          "id": 41,
-          "paragraph_id": 22,
           "text": "The name Osmont struck Tristesse with the force of a physical blow."
         },
         {
-          "id": 42,
-          "paragraph_id": 22,
+          "id": 41,
+          "paragraph_id": 21,
           "text": "Her mind, a flawless engine of logic and calculation, raced."
         },
         {
-          "id": 43,
-          "paragraph_id": 22,
+          "id": 42,
+          "paragraph_id": 21,
           "text": "Osmont."
         },
         {
-          "id": 44,
-          "paragraph_id": 22,
+          "id": 43,
+          "paragraph_id": 21,
           "text": "Alexander Asmodeus."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 21,
+          "text": "Both from the same insignificant, backwater minor Fold, the Nullvein Gravewake Folds."
         },
         {
           "id": 45,
           "paragraph_id": 22,
-          "text": "Both from the same insignificant, backwater minor Fold, the Nullvein Gravewake Folds."
-        },
-        {
-          "id": 46,
-          "paragraph_id": 23,
           "text": "How?"
         },
         {
-          "id": 47,
-          "paragraph_id": 23,
+          "id": 46,
+          "paragraph_id": 22,
           "text": "How could one forgotten corner of existence produce two such reality-bending anomalies?"
+        },
+        {
+          "id": 47,
+          "paragraph_id": 22,
+          "text": "Her perfect composure cracked, just for an instant, a flicker of genuine shock in her otherwise serene eyes."
         },
         {
           "id": 48,
           "paragraph_id": 23,
-          "text": "Her perfect composure cracked, just for an instant, a flicker of genuine shock in her otherwise serene eyes."
+          "text": "What had she missed?"
         },
         {
           "id": 49,
           "paragraph_id": 24,
-          "text": "What had she missed?"
+          "text": "But before she could voice this sudden, unsettling connection, before she could even begin to process the implications, the very fabric of the chamber rippled."
         },
         {
           "id": 50,
           "paragraph_id": 25,
-          "text": "But before she could voice this sudden, unsettling connection, before she could even begin to process the implications, the very fabric of the chamber rippled."
+          "text": "A new figure appeared, not with a grand entrance, but with the quiet, efficient finality of a verdict being delivered."
         },
         {
           "id": 51,
           "paragraph_id": 26,
-          "text": "A new figure appeared, not with a grand entrance, but with the quiet, efficient finality of a verdict being delivered."
+          "text": "Another Royal Living Law, her face a mask of urgent gravity, materialized in a flash of structured, silver-white light."
         },
         {
           "id": 52,
-          "paragraph_id": 27,
-          "text": "Another Royal Living Law, her face a mask of urgent gravity, materialized in a flash of structured, silver-white light."
+          "paragraph_id": 26,
+          "text": "She floated near Tristesse, her gaze sweeping over the assembled Dukes."
         },
         {
           "id": 53,
           "paragraph_id": 27,
-          "text": "She floated near Tristesse, her gaze sweeping over the assembled Dukes."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 28,
           "text": "\"A report is coming in from the investigative team in the region of Collapse where the Minor Fold, the Nullvein Gravewake Folds once resided,\" she announced, her voice crisp and clear."
         },
         {
-          "id": 55,
-          "paragraph_id": 28,
+          "id": 54,
+          "paragraph_id": 27,
           "text": "\"The Fold is still gone."
+        },
+        {
+          "id": 55,
+          "paragraph_id": 27,
+          "text": "But in its place... a new structure has risen.\""
         },
         {
           "id": 56,
           "paragraph_id": 28,
-          "text": "But in its place... a new structure has risen.\""
+          "text": "HUUM!"
         },
         {
           "id": 57,
           "paragraph_id": 29,
-          "text": "HUUM!"
+          "text": "A low murmur, a sound of collective, controlled surprise, rippled through the conclave."
         },
         {
           "id": 58,
           "paragraph_id": 30,
-          "text": "A low murmur, a sound of collective, controlled surprise, rippled through the conclave."
+          "text": "\"A structure of that magnitude, appearing in our regions without our knowledge?"
         },
         {
           "id": 59,
-          "paragraph_id": 31,
-          "text": "\"A structure of that magnitude, appearing in our regions without our knowledge?"
+          "paragraph_id": 30,
+          "text": "Unacceptable,\" Duke Justinius declared, his voice a low growl of displeasure."
         },
         {
           "id": 60,
           "paragraph_id": 31,
-          "text": "Unacceptable,\" Duke Justinius declared, his voice a low growl of displeasure."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 32,
           "text": "The newly arrived Royal Law continued, her voice painting a picture of impossible architecture."
         },
         {
-          "id": 62,
-          "paragraph_id": 32,
+          "id": 61,
+          "paragraph_id": 31,
           "text": "\"Our observers describe it as a fortress of sorts, a bastion of blue and gold light that radiates an immense, ordered power, yet its design corresponds to no known authority."
         },
         {
-          "id": 63,
-          "paragraph_id": 32,
+          "id": 62,
+          "paragraph_id": 31,
           "text": "Maybe a Principle."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 31,
+          "text": "It is vast, covering nearly half the area of the original Fold, and seems to be... growing.\""
         },
         {
           "id": 64,
           "paragraph_id": 32,
-          "text": "It is vast, covering nearly half the area of the original Fold, and seems to be... growing.\""
+          "text": "...!"
         },
         {
           "id": 65,
           "paragraph_id": 33,
-          "text": "...!"
-        },
-        {
-          "id": 66,
-          "paragraph_id": 34,
           "text": "The Dukes exchanged glances, their minds racing through the strategic implications."
         },
         {
-          "id": 67,
-          "paragraph_id": 34,
+          "id": 66,
+          "paragraph_id": 33,
           "text": "Tristesse's thoughts, however, were a maelstrom."
         },
         {
-          "id": 68,
-          "paragraph_id": 34,
+          "id": 67,
+          "paragraph_id": 33,
           "text": "The Nullvein Gravewake Folds."
         },
         {
-          "id": 69,
-          "paragraph_id": 34,
+          "id": 68,
+          "paragraph_id": 33,
           "text": "The origin of both Alexander and Osmont."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 33,
+          "text": "And now, an impossible, unknown fortress appears where it once was!"
         },
         {
           "id": 70,
           "paragraph_id": 34,
-          "text": "And now, an impossible, unknown fortress appears where it once was!"
+          "text": "\"This cannot be left to lower-level observers,\" a Duke whose throne was carved from a single, flawless diamond declared."
         },
         {
           "id": 71,
-          "paragraph_id": 35,
-          "text": "\"This cannot be left to lower-level observers,\" a Duke whose throne was carved from a single, flawless diamond declared."
+          "paragraph_id": 34,
+          "text": "\"We will go ourselves.\""
         },
         {
           "id": 72,
           "paragraph_id": 35,
-          "text": "\"We will go ourselves.\""
+          "text": "A few others nodded in agreement, their forms beginning to shimmer with the light of impending travel."
         },
         {
           "id": 73,
           "paragraph_id": 36,
-          "text": "A few others nodded in agreement, their forms beginning to shimmer with the light of impending travel."
-        },
-        {
-          "id": 74,
-          "paragraph_id": 37,
           "text": "Tristesse's interest, once a cool, professional curiosity, was now a burning, all-consuming fire."
         },
         {
-          "id": 75,
-          "paragraph_id": 37,
+          "id": 74,
+          "paragraph_id": 36,
           "text": "\"I will go too.\" she declared, her voice ringing with a new, intense purpose!"
         }
       ],
-      "word_count": 1033
+      "word_count": 1032
     },
     {
       "chapter_index": 4236,
@@ -6741,7 +6729,6 @@
         "All for the sake of Civilization.",
         "All for the sake of Civilization.",
         "All for the sake of Civilization.",
-        "—",
         "<THE Loom, Unknown Location>",
         "The room was a sanctuary of quiet, stellar brilliance.",
         "The walls were not carved from stone or metal, but forged from a white, sparkling wood that hummed with a life of its own, a material that had been common in the Earliest Folds but was now a forgotten myth.",
@@ -7051,230 +7038,225 @@
         {
           "id": 54,
           "paragraph_id": 54,
-          "text": "—"
+          "text": "<THE Loom, Unknown Location>"
         },
         {
           "id": 55,
           "paragraph_id": 55,
-          "text": "<THE Loom, Unknown Location>"
+          "text": "The room was a sanctuary of quiet, stellar brilliance."
         },
         {
           "id": 56,
           "paragraph_id": 56,
-          "text": "The room was a sanctuary of quiet, stellar brilliance."
+          "text": "The walls were not carved from stone or metal, but forged from a white, sparkling wood that hummed with a life of its own, a material that had been common in the Earliest Folds but was now a forgotten myth."
         },
         {
           "id": 57,
           "paragraph_id": 57,
-          "text": "The walls were not carved from stone or metal, but forged from a white, sparkling wood that hummed with a life of its own, a material that had been common in the Earliest Folds but was now a forgotten myth."
+          "text": "The air was still, clean, and saturated with a power so pure and so dense that breathing was a form of cultivation!"
         },
         {
           "id": 58,
           "paragraph_id": 58,
-          "text": "The air was still, clean, and saturated with a power so pure and so dense that breathing was a form of cultivation!"
+          "text": "Breathing here alone would have the same effects as devouring Sacred Herbs."
         },
         {
           "id": 59,
           "paragraph_id": 59,
-          "text": "Breathing here alone would have the same effects as devouring Sacred Herbs."
+          "text": "The only object in the vast, empty space was a single crimson mat, its fabric woven from threads of solidified authority."
         },
         {
           "id": 60,
           "paragraph_id": 60,
-          "text": "The only object in the vast, empty space was a single crimson mat, its fabric woven from threads of solidified authority."
+          "text": "It was an Early Tool, and it radiated a unique, gentle warmth, a passive aura that increased the complexity and purity of any being who rested upon it by millions every second- up until a certain threshold anyways!"
         },
         {
           "id": 61,
           "paragraph_id": 61,
-          "text": "It was an Early Tool, and it radiated a unique, gentle warmth, a passive aura that increased the complexity and purity of any being who rested upon it by millions every second- up until a certain threshold anyways!"
+          "text": "Upon this mat, a figure stretched with a languid, feline grace."
         },
         {
           "id": 62,
           "paragraph_id": 62,
-          "text": "Upon this mat, a figure stretched with a languid, feline grace."
+          "text": "It was a woman...an Early Creature, her form a perfect testament to a forgotten age of primordial power!"
         },
         {
           "id": 63,
           "paragraph_id": 63,
-          "text": "It was a woman...an Early Creature, her form a perfect testament to a forgotten age of primordial power!"
+          "text": "Her hair was a cascade of vibrant, fiery red, each strand a filament of captured starlight that seemed to move with its own will."
         },
         {
           "id": 64,
           "paragraph_id": 64,
-          "text": "Her hair was a cascade of vibrant, fiery red, each strand a filament of captured starlight that seemed to move with its own will."
+          "text": "She yawned, a delicate, soundless gesture, and as she did, her power pulsed, a wave of complexity and purity so immense it made the very fabric of the room ripple."
         },
         {
           "id": 65,
-          "paragraph_id": 65,
-          "text": "She yawned, a delicate, soundless gesture, and as she did, her power pulsed, a wave of complexity and purity so immense it made the very fabric of the room ripple."
+          "paragraph_id": 64,
+          "text": "It was a power that overwhelmingly exceeded 2000 Quadrillion, a number so vast it had lost all meaning, becoming simply a statement of absolute, undeniable might."
         },
         {
           "id": 66,
           "paragraph_id": 65,
-          "text": "It was a power that overwhelmingly exceeded 2000 Quadrillion, a number so vast it had lost all meaning, becoming simply a statement of absolute, undeniable might."
+          "text": "And mighty she was!"
         },
         {
           "id": 67,
           "paragraph_id": 66,
-          "text": "And mighty she was!"
+          "text": "She rose, and the simple crimson robe she wore shimmered."
         },
         {
           "id": 68,
-          "paragraph_id": 67,
-          "text": "She rose, and the simple crimson robe she wore shimmered."
+          "paragraph_id": 66,
+          "text": "On the left breast, the marking of a single, golden flame burned with a gentle, contained fire."
         },
         {
           "id": 69,
           "paragraph_id": 67,
-          "text": "On the left breast, the marking of a single, golden flame burned with a gentle, contained fire."
+          "text": "She walked out of the room, her bare feet silent on the polished, white-wood floors."
         },
         {
           "id": 70,
           "paragraph_id": 68,
-          "text": "She walked out of the room, her bare feet silent on the polished, white-wood floors."
+          "text": "She entered a hall that seemed to stretch into infinity, forged from the same living material, its pristine white walls lined with intricate, crimson-gold etchings that depicted the birth of folds and the forging of concepts."
         },
         {
           "id": 71,
           "paragraph_id": 69,
-          "text": "She entered a hall that seemed to stretch into infinity, forged from the same living material, its pristine white walls lined with intricate, crimson-gold etchings that depicted the birth of folds and the forging of concepts."
+          "text": "The moment she emerged, a being of living, swirling frost glided past."
         },
         {
           "id": 72,
           "paragraph_id": 70,
-          "text": "The moment she emerged, a being of living, swirling frost glided past."
+          "text": "It was a Living Elemental, its form a beautiful, terrible blizzard contained in a vaguely humanoid shape."
         },
         {
           "id": 73,
           "paragraph_id": 71,
-          "text": "It was a Living Elemental, its form a beautiful, terrible blizzard contained in a vaguely humanoid shape."
+          "text": "It smiled, a gesture that caused the air around it to sparkle with ice crystals."
         },
         {
           "id": 74,
-          "paragraph_id": 72,
-          "text": "It smiled, a gesture that caused the air around it to sparkle with ice crystals."
+          "paragraph_id": 71,
+          "text": "\"Esteemed Valkyrie,\" its voice was the sound of a winter wind whispering through ancient trees."
         },
         {
           "id": 75,
           "paragraph_id": 72,
-          "text": "\"Esteemed Valkyrie,\" its voice was the sound of a winter wind whispering through ancient trees."
-        },
-        {
-          "id": 76,
-          "paragraph_id": 73,
           "text": "\"We are holding an Elemental Crucible today."
         },
         {
-          "id": 77,
-          "paragraph_id": 73,
+          "id": 76,
+          "paragraph_id": 72,
           "text": "A small tournament, a test of skill."
         },
         {
-          "id": 78,
-          "paragraph_id": 73,
+          "id": 77,
+          "paragraph_id": 72,
           "text": "Only Early Creatures and Elementals below 500 Quadrillion are permitted to participate."
+        },
+        {
+          "id": 78,
+          "paragraph_id": 72,
+          "text": "Will you be coming?\""
         },
         {
           "id": 79,
           "paragraph_id": 73,
-          "text": "Will you be coming?\""
+          "text": "Valkyrie shook her head, a gentle, warm smile on her lips."
         },
         {
           "id": 80,
-          "paragraph_id": 74,
-          "text": "Valkyrie shook her head, a gentle, warm smile on her lips."
+          "paragraph_id": 73,
+          "text": "The Living Elemental before her emanated waves of power at a staggering 150 Quadrillion, yet in this place, it was considered a participant for a junior tournament!"
         },
         {
           "id": 81,
           "paragraph_id": 74,
-          "text": "The Living Elemental before her emanated waves of power at a staggering 150 Quadrillion, yet in this place, it was considered a participant for a junior tournament!"
+          "text": "\"No,\" she said, her voice a soft, melodic hum."
         },
         {
           "id": 82,
-          "paragraph_id": 75,
-          "text": "\"No,\" she said, her voice a soft, melodic hum."
+          "paragraph_id": 74,
+          "text": "\"You all enjoy yourselves.\""
         },
         {
           "id": 83,
           "paragraph_id": 75,
-          "text": "\"You all enjoy yourselves.\""
+          "text": "She continued her path down the grand hall, her presence a silent, respected authority."
         },
         {
           "id": 84,
           "paragraph_id": 76,
-          "text": "She continued her path down the grand hall, her presence a silent, respected authority."
+          "text": "She passed other Early Creatures, their forms ranging from the perfectly humanoid to the beautifully abstract."
         },
         {
           "id": 85,
           "paragraph_id": 77,
-          "text": "She passed other Early Creatures, their forms ranging from the perfectly humanoid to the beautifully abstract."
+          "text": "She passed other Living Elementals...a being of living, shifting earth whose very presence had the gravity of a Folds; another of pure, sentient fire whose warmth was a comforting balm."
         },
         {
           "id": 86,
           "paragraph_id": 78,
-          "text": "She passed other Living Elementals...a being of living, shifting earth whose very presence had the gravity of a Folds; another of pure, sentient fire whose warmth was a comforting balm."
+          "text": "Each of them, Early Creature and Living Elemental alike, held a power that exceeded 100 Quadrillion at the very least."
         },
         {
           "id": 87,
           "paragraph_id": 79,
-          "text": "Each of them, Early Creature and Living Elemental alike, held a power that exceeded 100 Quadrillion at the very least."
+          "text": "And as she passed, each of them would offer a silent nod, a gesture of profound respect."
         },
         {
           "id": 88,
           "paragraph_id": 80,
-          "text": "And as she passed, each of them would offer a silent nod, a gesture of profound respect."
+          "text": "Ultimately, she came to a massive door at the end of the hall, a gate that opened with a silent, willing parting of reality itself."
         },
         {
           "id": 89,
           "paragraph_id": 81,
-          "text": "Ultimately, she came to a massive door at the end of the hall, a gate that opened with a silent, willing parting of reality itself."
+          "text": "She stepped through into a space so vast it defied comprehension."
         },
         {
           "id": 90,
           "paragraph_id": 82,
-          "text": "She stepped through into a space so vast it defied comprehension."
+          "text": "It was a forest of light and power, a garden that stretched for countless light-years."
         },
         {
           "id": 91,
-          "paragraph_id": 83,
-          "text": "It was a forest of light and power, a garden that stretched for countless light-years."
+          "paragraph_id": 82,
+          "text": "Massive, radiant trees, each one the size of a galaxy, pulsed with the raw, untamed energy of the elements."
         },
         {
           "id": 92,
           "paragraph_id": 83,
-          "text": "Massive, radiant trees, each one the size of a galaxy, pulsed with the raw, untamed energy of the elements."
+          "text": "One tree was a pillar of living fire, its leaves solar flares."
         },
         {
           "id": 93,
-          "paragraph_id": 84,
-          "text": "One tree was a pillar of living fire, its leaves solar flares."
+          "paragraph_id": 83,
+          "text": "Another was a colossal glacier, its branches carved from ice that was older than time."
         },
         {
           "id": 94,
           "paragraph_id": 84,
-          "text": "Another was a colossal glacier, its branches carved from ice that was older than time."
+          "text": "Tens of thousands of Living Elementals and hundreds of auras of Early Creatures could be felt, moving like fireflies in this impossible, cosmic arboretum!"
         },
         {
           "id": 95,
           "paragraph_id": 85,
-          "text": "Tens of thousands of Living Elementals and hundreds of auras of Early Creatures could be felt, moving like fireflies in this impossible, cosmic arboretum!"
+          "text": "A calm, disembodied voice echoed through the space, a sound that was both everywhere and nowhere at once."
         },
         {
           "id": 96,
           "paragraph_id": 86,
-          "text": "A calm, disembodied voice echoed through the space, a sound that was both everywhere and nowhere at once."
+          "text": "\"Welcome to the Arboretum Primus, Commander Valkyrie.\""
         },
         {
           "id": 97,
           "paragraph_id": 87,
-          "text": "\"Welcome to the Arboretum Primus, Commander Valkyrie.\""
-        },
-        {
-          "id": 98,
-          "paragraph_id": 88,
           "text": "...!"
         }
       ],
-      "word_count": 1060
+      "word_count": 1059
     },
     {
       "chapter_index": 4243,
@@ -7324,7 +7306,6 @@
         "A single, red light in a sea of green. It was a sign of change, a harbinger of the end of their long, silent vigil.",
         "The thing they had been preparing for, the thing they had sacrificed much to escape, was finally, after all these eons, arriving.",
         "The Fallout!",
-        "—",
         "Organizations for the greater good...humanity's most successful group delusion.",
         "\"We're doing this for everyone,\" they say, while usually doing it for about twelve people in a seat of power.",
         "It's the equivalent of \"this will hurt me more than it hurts you\" while the person that was saying this...was holding a very large stick.",
@@ -7732,85 +7713,80 @@
         {
           "id": 78,
           "paragraph_id": 43,
-          "text": "—"
+          "text": "Organizations for the greater good...humanity's most successful group delusion."
         },
         {
           "id": 79,
           "paragraph_id": 44,
-          "text": "Organizations for the greater good...humanity's most successful group delusion."
+          "text": "\"We're doing this for everyone,\" they say, while usually doing it for about twelve people in a seat of power."
         },
         {
           "id": 80,
           "paragraph_id": 45,
-          "text": "\"We're doing this for everyone,\" they say, while usually doing it for about twelve people in a seat of power."
+          "text": "It's the equivalent of \"this will hurt me more than it hurts you\" while the person that was saying this...was holding a very large stick."
         },
         {
           "id": 81,
           "paragraph_id": 46,
-          "text": "It's the equivalent of \"this will hurt me more than it hurts you\" while the person that was saying this...was holding a very large stick."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 47,
           "text": "But what if someone actually meant it?"
         },
         {
-          "id": 83,
-          "paragraph_id": 47,
+          "id": 82,
+          "paragraph_id": 46,
           "text": "What if the greater good was genuine belief?"
+        },
+        {
+          "id": 83,
+          "paragraph_id": 46,
+          "text": "The conviction required would be either inspiring or terrifying, possibly both!"
         },
         {
           "id": 84,
           "paragraph_id": 47,
-          "text": "The conviction required would be either inspiring or terrifying, possibly both!"
+          "text": "In the Earliest Folds, there was a time when THE Creature sat in a domain that defied conventional description."
         },
         {
           "id": 85,
           "paragraph_id": 48,
-          "text": "In the Earliest Folds, there was a time when THE Creature sat in a domain that defied conventional description."
+          "text": "Millions of Inevitabilities swirled around it like a whirlpool of hunger made manifest!"
         },
         {
           "id": 86,
           "paragraph_id": 49,
-          "text": "Millions of Inevitabilities swirled around it like a whirlpool of hunger made manifest!"
+          "text": "THE Creature smiled at them...not the condescending smile of superiority but the genuine warmth of greeting old friends."
         },
         {
           "id": 87,
           "paragraph_id": 50,
-          "text": "THE Creature smiled at them...not the condescending smile of superiority but the genuine warmth of greeting old friends."
+          "text": "Occasionally, it would reach out and touch their writhing tendrils with the casual affection one might show to passing cats."
         },
         {
           "id": 88,
           "paragraph_id": 51,
-          "text": "Occasionally, it would reach out and touch their writhing tendrils with the casual affection one might show to passing cats."
+          "text": "An unknown Fold Dweller sat across from THE Creature, trying very hard not to think about how many ways they could cease to exist in this place!"
         },
         {
           "id": 89,
           "paragraph_id": 52,
-          "text": "An unknown Fold Dweller sat across from THE Creature, trying very hard not to think about how many ways they could cease to exist in this place!"
+          "text": "They had come with the ultimate question, the one that had driven them across impossible distances to ask the one being that might actually know the answer."
         },
         {
           "id": 90,
           "paragraph_id": 53,
-          "text": "They had come with the ultimate question, the one that had driven them across impossible distances to ask the one being that might actually know the answer."
+          "text": "\"What is the truth about Existence?"
         },
         {
           "id": 91,
-          "paragraph_id": 54,
-          "text": "\"What is the truth about Existence?"
+          "paragraph_id": 53,
+          "text": "How...should one experience existence to the fullest?\""
         },
         {
           "id": 92,
           "paragraph_id": 54,
-          "text": "How...should one experience existence to the fullest?\""
-        },
-        {
-          "id": 93,
-          "paragraph_id": 55,
           "text": "...!"
         }
       ],
-      "word_count": 1046
+      "word_count": 1045
     },
     {
       "chapter_index": 4244,
@@ -7846,7 +7822,6 @@
         "The unknown Fold Dweller left that meeting with THE Creature carrying a truth that would either inspire unity or justify the most terrible exclusion.",
         "Because if Civilization was the only path to true existence, then the question became: who gets to be part of the Civilization, and who becomes the foundation it's built upon?",
         "The Inevitabilities continued their swirling, hungry and patient, perhaps understanding better than anyone that even Civilizations needed to eat.",
-        "—",
         "Darkness.",
         "This was all that Noah felt.",
         "It was not the oppressive, hungry black of a void, but a soft, welcoming darkness, a gentle, velvety blanket that promised an end to struggle.",
@@ -8097,285 +8072,280 @@
         {
           "id": 41,
           "paragraph_id": 29,
-          "text": "—"
+          "text": "Darkness."
         },
         {
           "id": 42,
           "paragraph_id": 30,
-          "text": "Darkness."
+          "text": "This was all that Noah felt."
         },
         {
           "id": 43,
           "paragraph_id": 31,
-          "text": "This was all that Noah felt."
+          "text": "It was not the oppressive, hungry black of a void, but a soft, welcoming darkness, a gentle, velvety blanket that promised an end to struggle."
         },
         {
           "id": 44,
           "paragraph_id": 32,
-          "text": "It was not the oppressive, hungry black of a void, but a soft, welcoming darkness, a gentle, velvety blanket that promised an end to struggle."
+          "text": "With it came a profound, seductive sense of relief!"
         },
         {
           "id": 45,
           "paragraph_id": 33,
-          "text": "With it came a profound, seductive sense of relief!"
+          "text": "As if in this perfect, silent nothingness, everything would finally be okay."
         },
         {
           "id": 46,
           "paragraph_id": 34,
-          "text": "As if in this perfect, silent nothingness, everything would finally be okay."
+          "text": "That maybe, just maybe, all he needed to do was let go."
         },
         {
           "id": 47,
           "paragraph_id": 35,
-          "text": "That maybe, just maybe, all he needed to do was let go."
-        },
-        {
-          "id": 48,
-          "paragraph_id": 36,
           "text": "If he let go, wouldn't everything be that much easier?"
         },
         {
-          "id": 49,
-          "paragraph_id": 36,
+          "id": 48,
+          "paragraph_id": 35,
           "text": "No more fighting against the crushing weight of existence."
+        },
+        {
+          "id": 49,
+          "paragraph_id": 35,
+          "text": "No more desperate scramble for power against a predetermined doom."
         },
         {
           "id": 50,
           "paragraph_id": 36,
-          "text": "No more desperate scramble for power against a predetermined doom."
+          "text": "No more shouldering the fate of his family, his people, his very reality."
         },
         {
           "id": 51,
-          "paragraph_id": 37,
-          "text": "No more shouldering the fate of his family, his people, his very reality."
+          "paragraph_id": 36,
+          "text": "Just... release."
         },
         {
           "id": 52,
           "paragraph_id": 37,
-          "text": "Just... release."
+          "text": "So just... let go."
         },
         {
           "id": 53,
           "paragraph_id": 38,
-          "text": "So just... let go."
+          "text": "\"...\""
         },
         {
           "id": 54,
           "paragraph_id": 39,
-          "text": "\"...\""
+          "text": "Let go?"
         },
         {
           "id": 55,
           "paragraph_id": 40,
-          "text": "Let go?"
+          "text": "Let go?!"
         },
         {
           "id": 56,
           "paragraph_id": 41,
-          "text": "Let go?!"
+          "text": "HUUM!"
         },
         {
           "id": 57,
           "paragraph_id": 42,
-          "text": "HUUM!"
+          "text": "Who was he?"
         },
         {
           "id": 58,
           "paragraph_id": 43,
-          "text": "Who was he?"
+          "text": "He was Noah fucking Osmont."
         },
         {
           "id": 59,
           "paragraph_id": 44,
-          "text": "He was Noah fucking Osmont."
+          "text": "He did not let go!"
         },
         {
           "id": 60,
           "paragraph_id": 45,
-          "text": "He did not let go!"
+          "text": "BOOM!"
         },
         {
           "id": 61,
           "paragraph_id": 46,
-          "text": "BOOM!"
+          "text": "In the heart of that seductive darkness, a defiant, endless blue light shone."
         },
         {
           "id": 62,
           "paragraph_id": 47,
-          "text": "In the heart of that seductive darkness, a defiant, endless blue light shone."
+          "text": "The false peace shattered, consumed by a guttural roar that erupted from the very core of his being!"
         },
         {
           "id": 63,
           "paragraph_id": 48,
-          "text": "The false peace shattered, consumed by a guttural roar that erupted from the very core of his being!"
+          "text": "He rose from the depths of that tempting oblivion, his will a raging inferno against the gentle night."
         },
         {
           "id": 64,
           "paragraph_id": 49,
-          "text": "He rose from the depths of that tempting oblivion, his will a raging inferno against the gentle night."
+          "text": "He saw the brightening blue light, a vast, boundless ocean of pure potential, and he reached for it."
         },
         {
           "id": 65,
-          "paragraph_id": 50,
-          "text": "He saw the brightening blue light, a vast, boundless ocean of pure potential, and he reached for it."
+          "paragraph_id": 49,
+          "text": "He grasped it!"
         },
         {
           "id": 66,
           "paragraph_id": 50,
-          "text": "He grasped it!"
+          "text": "Mana."
         },
         {
           "id": 67,
-          "paragraph_id": 51,
-          "text": "Mana."
+          "paragraph_id": 50,
+          "text": "Oh, Mana!"
         },
         {
           "id": 68,
           "paragraph_id": 51,
-          "text": "Oh, Mana!"
+          "text": "HUUM!"
         },
         {
           "id": 69,
           "paragraph_id": 52,
-          "text": "HUUM!"
+          "text": "It was his essence, his birthright, the one infinite truth in a universe of limitations."
         },
         {
           "id": 70,
           "paragraph_id": 53,
-          "text": "It was his essence, his birthright, the one infinite truth in a universe of limitations."
+          "text": "He held onto this endless blue sea, and in its boundless depths, he found his anchor, his reason."
         },
         {
           "id": 71,
           "paragraph_id": 54,
-          "text": "He held onto this endless blue sea, and in its boundless depths, he found his anchor, his reason."
+          "text": "'Letting go was never my Way,' his thoughts were a silent, tyrannical bellow."
         },
         {
           "id": 72,
           "paragraph_id": 55,
-          "text": "'Letting go was never my Way,' his thoughts were a silent, tyrannical bellow."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 56,
           "text": "'Dying simply was never my Way."
         },
         {
-          "id": 74,
-          "paragraph_id": 56,
+          "id": 73,
+          "paragraph_id": 55,
           "text": "Am I not chasing an infinite path of elevation?"
         },
         {
-          "id": 75,
-          "paragraph_id": 56,
+          "id": 74,
+          "paragraph_id": 55,
           "text": "An Infinite Way of Existence?!"
+        },
+        {
+          "id": 75,
+          "paragraph_id": 55,
+          "text": "So why the hell would I go peacefully?!'"
         },
         {
           "id": 76,
           "paragraph_id": 56,
-          "text": "So why the hell would I go peacefully?!'"
+          "text": "BOOM!"
         },
         {
           "id": 77,
           "paragraph_id": 57,
-          "text": "BOOM!"
+          "text": "His very existence roared in defiance."
         },
         {
           "id": 78,
-          "paragraph_id": 58,
-          "text": "His very existence roared in defiance."
+          "paragraph_id": 57,
+          "text": "He grasped at that endless blue light, and the world reformed around him."
         },
         {
           "id": 79,
           "paragraph_id": 58,
-          "text": "He grasped at that endless blue light, and the world reformed around him."
+          "text": "He found himself floating in an endless blue sea, a realm of pure, liquid mana that stretched to an infinite horizon."
         },
         {
           "id": 80,
           "paragraph_id": 59,
-          "text": "He found himself floating in an endless blue sea, a realm of pure, liquid mana that stretched to an infinite horizon."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 60,
           "text": "His body was blanketed by this sea, held in a gentle, yet absolute, stasis."
         },
         {
-          "id": 82,
-          "paragraph_id": 60,
+          "id": 81,
+          "paragraph_id": 59,
           "text": "He could not move."
         },
         {
-          "id": 83,
-          "paragraph_id": 60,
+          "id": 82,
+          "paragraph_id": 59,
           "text": "He could not act."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 59,
+          "text": "He could only observe."
         },
         {
           "id": 84,
           "paragraph_id": 60,
-          "text": "He could only observe."
+          "text": "The sea was a thing of breathtaking, impossible beauty."
         },
         {
           "id": 85,
           "paragraph_id": 61,
-          "text": "The sea was a thing of breathtaking, impossible beauty."
+          "text": "At its far edges, where infinity began, great rivers of shimmering gold flowed, feeding into the blue expanse."
         },
         {
           "id": 86,
           "paragraph_id": 62,
-          "text": "At its far edges, where infinity began, great rivers of shimmering gold flowed, feeding into the blue expanse."
+          "text": "And as he looked closer, he saw it."
         },
         {
           "id": 87,
-          "paragraph_id": 63,
-          "text": "And as he looked closer, he saw it."
+          "paragraph_id": 62,
+          "text": "An outline, an etching in the fabric of this mana-sea, a symbol of impossible, rule-breaking power."
         },
         {
           "id": 88,
           "paragraph_id": 63,
-          "text": "An outline, an etching in the fabric of this mana-sea, a symbol of impossible, rule-breaking power."
+          "text": "The Seed Glyph of the Principle of the Cheating Architect."
         },
         {
           "id": 89,
           "paragraph_id": 64,
-          "text": "The Seed Glyph of the Principle of the Cheating Architect."
+          "text": "The moment he ascertained this, reality itself seemed to pause, and a new voice, the calm, analytical voice of his own internal system, began its report."
         },
         {
           "id": 90,
           "paragraph_id": 65,
-          "text": "The moment he ascertained this, reality itself seemed to pause, and a new voice, the calm, analytical voice of his own internal system, began its report."
+          "text": "|Emergency Protocol Initiated by [The Principle of the Cheating Architect].|"
         },
         {
           "id": 91,
           "paragraph_id": 66,
-          "text": "|Emergency Protocol Initiated by [The Principle of the Cheating Architect].|"
+          "text": "|Analysis: A catastrophic, existence-altering corruption event has been detected."
         },
         {
           "id": 92,
-          "paragraph_id": 67,
-          "text": "|Analysis: A catastrophic, existence-altering corruption event has been detected."
+          "paragraph_id": 66,
+          "text": "Standard defensive protocols are insufficient.|"
         },
         {
           "id": 93,
           "paragraph_id": 67,
-          "text": "Standard defensive protocols are insufficient.|"
+          "text": "|A single moment of your existence, the instant of corruption, is being expanded."
         },
         {
           "id": 94,
-          "paragraph_id": 68,
-          "text": "|A single moment of your existence, the instant of corruption, is being expanded."
+          "paragraph_id": 67,
+          "text": "Powered by your [Infinite Mana], this instant is being stretched towards a state of effective Infinity.|"
         },
         {
           "id": 95,
           "paragraph_id": 68,
-          "text": "Powered by your [Infinite Mana], this instant is being stretched towards a state of effective Infinity.|"
-        },
-        {
-          "id": 96,
-          "paragraph_id": 69,
           "text": "...!"
         }
       ],
-      "word_count": 1064
+      "word_count": 1063
     },
     {
       "chapter_index": 4245,
@@ -8982,13 +8952,13 @@
         "|After the reboot of your existence, all residual Everythings from the Lodestone, the full force of the Corruption, and the sacrificed essences of Ruination, the Infiniverse, and the Tyrannical Sovereign were automatically converted and fed into your Complexity and Purity.|",
         "|You currently stand at 53 Quadrillion in pure Complexity and Purity.|",
         "The number was not a number. It was a detonation. Noah's eyes pulsed with a light so bright it seemed to illuminate the entire, endless blue sea. The display in the corner of his vision enlarged at his silent command, a glorious, full status sheet unfurling before him.",
-        "|Noah Osmont – The Tyrant of the Radiant Shore (Age 1.6)|",
+        "|Noah Osmont - The Tyrant of the Radiant Shore (Age 1.6)|",
         "|Primary Distinction: The Early Creature, Osmont|",
         "|Secondary Distinctions: The True Emperor of Quintessence, Tyranny, Infinity; The Living Existential Guider; The Architect of Cheats...|",
         "|Complexity: 53,152,847,293,152,847|",
         "|Purity: 53,947,293,152,847,152|",
         "|System of Power: Existential Artifice (RUIN/EDEN Interface)|",
-        "|Heart: The Heart of Tyranny (Fourth Part: The Ascendran Nodule – 61% Complete)|",
+        "|Heart: The Heart of Tyranny (Fourth Part: The Ascendran Nodule - 61% Complete)|",
         "|Atlas: The Early Atlas of the Folds (159/159 Towers at Stage 3: Vital Lighthouse)|",
         "|Principles:|",
         "| - [Perpetual Harvest] (50% Matured Seed, 10% Personal Authority)|",
@@ -9489,7 +9459,7 @@
         {
           "id": 97,
           "paragraph_id": 50,
-          "text": "|Noah Osmont – The Tyrant of the Radiant Shore (Age 1.6)|"
+          "text": "|Noah Osmont - The Tyrant of the Radiant Shore (Age 1.6)|"
         },
         {
           "id": 98,
@@ -9519,7 +9489,7 @@
         {
           "id": 103,
           "paragraph_id": 56,
-          "text": "|Heart: The Heart of Tyranny (Fourth Part: The Ascendran Nodule – 61% Complete)|"
+          "text": "|Heart: The Heart of Tyranny (Fourth Part: The Ascendran Nodule - 61% Complete)|"
         },
         {
           "id": 104,
@@ -10578,13 +10548,13 @@
         "The last of the verdant-gold light from the endowments still buzzed around him and those chosen, a visible, shimmering aura of recently acquired, impossible power.",
         "His gaze, now enhanced by the constant, analytical stream of data from RUIN/EDEN, passed over them.",
         "He saw not just their forms, but the numbers that now defined their new place in the hierarchy of existence.",
-        "|Sigrid – The Resurgence of Order|",
+        "|Sigrid - The Resurgence of Order|",
         "|Complexity: 7.1 Quadrillion|",
         "|Purity: 7.9 Quadrillion|",
-        "|Malphas – The Crow|",
+        "|Malphas - The Crow|",
         "|Complexity: 8.8 Quadrillion|",
         "|Purity: 8.2|",
-        "|The Infiniverse – The Infinite Early Osmontian Shore|",
+        "|The Infiniverse - The Infinite Early Osmontian Shore|",
         "|Complexity: 9.1 Quadrillion|",
         "|Purity: 9.8 Quadrillion|",
         "...!",
@@ -10843,7 +10813,7 @@
         {
           "id": 46,
           "paragraph_id": 33,
-          "text": "|Sigrid – The Resurgence of Order|"
+          "text": "|Sigrid - The Resurgence of Order|"
         },
         {
           "id": 47,
@@ -10858,7 +10828,7 @@
         {
           "id": 49,
           "paragraph_id": 36,
-          "text": "|Malphas – The Crow|"
+          "text": "|Malphas - The Crow|"
         },
         {
           "id": 50,
@@ -10873,7 +10843,7 @@
         {
           "id": 52,
           "paragraph_id": 39,
-          "text": "|The Infiniverse – The Infinite Early Osmontian Shore|"
+          "text": "|The Infiniverse - The Infinite Early Osmontian Shore|"
         },
         {
           "id": 53,
@@ -11101,7 +11071,7 @@
         "Purity: 1,000 Quadrillion.",
         "An armored figure of pure, unadulterated Purity, a being with the power to cleanse a Folds, was descending upon a vast citadel of the Living Elementals!",
         "At that moment, a new set of prompts bloomed, a rapid, efficient analysis from his ever-vigilant system.",
-        "|Target Profile: Aeternitas Glacies – The Grand Citadel of Frost.|",
+        "|Target Profile: Aeternitas Glacies - The Grand Citadel of Frost.|",
         "|Analysis: This is a primary cultural and population hub for the Living Elementals of this region.|",
         "|Current Inhabitants:|",
         "| - Dukes: 5|",
@@ -11502,7 +11472,7 @@
         {
           "id": 74,
           "paragraph_id": 48,
-          "text": "|Target Profile: Aeternitas Glacies – The Grand Citadel of Frost.|"
+          "text": "|Target Profile: Aeternitas Glacies - The Grand Citadel of Frost.|"
         },
         {
           "id": 75,
@@ -12913,7 +12883,6 @@
         "Yes. Those in THE Loom gained nothing from this public display of terror. All the Justiciar had seemed to collect were Everythings saturated with the authority of Emotive. The why of it all... the answer had to be in the Earliest Folds.",
         "\"Collect more data here,\" Noah murmured, his voice a low command to RUIN/EDEN. \"Note how the Living Emotives react. For now... let us get some answers.\"",
         "|Yes, Master.|",
-        "—",
         "Back in the Early Veiled Shore, Noah's main body stood on the golden sands, the quiet, purposeful hum of his domain a soothing balm on his turbulent thoughts.",
         "He needed to be stronger. He needed to be faster. He needed to be ready for whatever came next.",
         "|Master, the subject Infiniverse has completed the forging of forty new Seed Glyphs of Perpetual Harvest. The endowments are ready for distribution at your command.|",
@@ -12961,11 +12930,10 @@
         "Nine Early Creatures, their forms perfect and powerful, staring back at him!",
         "All of them were adorned in simple, elegant white chiton robes.",
         "RUIN/EDEN's analysis flashed in his vision, a cascade of names and terrifying numbers.",
-        "[Lyra – 50 Quadrillion Complexity, 50 Quadrillion Purity]",
-        "[Orion – 80 Quadrillion Complexity, 80 Quadrillion Purity]",
-        "[Cassiopeia – 120 Quadrillion Complexity, 120 Quadrillion Purity]",
-        "...",
-        "[Cepheus – 400 Quadrillion Complexity, 400 Quadrillion Purity]",
+        "[Lyra - 50 Quadrillion Complexity, 50 Quadrillion Purity]",
+        "[Orion - 80 Quadrillion Complexity, 80 Quadrillion Purity]",
+        "[Cassiopeia - 120 Quadrillion Complexity, 120 Quadrillion Purity]",
+        "[Cepheus - 400 Quadrillion Complexity, 400 Quadrillion Purity]",
         "...!",
         "None of them showed hostility.",
         "Their gazes were calm, curious, and unnervingly analytical, as if they were scientists observing a fascinating new specimen.",
@@ -13081,400 +13049,390 @@
         {
           "id": 20,
           "paragraph_id": 11,
-          "text": "—"
+          "text": "Back in the Early Veiled Shore, Noah's main body stood on the golden sands, the quiet, purposeful hum of his domain a soothing balm on his turbulent thoughts."
         },
         {
           "id": 21,
           "paragraph_id": 12,
-          "text": "Back in the Early Veiled Shore, Noah's main body stood on the golden sands, the quiet, purposeful hum of his domain a soothing balm on his turbulent thoughts."
-        },
-        {
-          "id": 22,
-          "paragraph_id": 13,
           "text": "He needed to be stronger."
         },
         {
-          "id": 23,
-          "paragraph_id": 13,
+          "id": 22,
+          "paragraph_id": 12,
           "text": "He needed to be faster."
+        },
+        {
+          "id": 23,
+          "paragraph_id": 12,
+          "text": "He needed to be ready for whatever came next."
         },
         {
           "id": 24,
           "paragraph_id": 13,
-          "text": "He needed to be ready for whatever came next."
+          "text": "|Master, the subject Infiniverse has completed the forging of forty new Seed Glyphs of Perpetual Harvest."
         },
         {
           "id": 25,
-          "paragraph_id": 14,
-          "text": "|Master, the subject Infiniverse has completed the forging of forty new Seed Glyphs of Perpetual Harvest."
+          "paragraph_id": 13,
+          "text": "The endowments are ready for distribution at your command.|"
         },
         {
           "id": 26,
           "paragraph_id": 14,
-          "text": "The endowments are ready for distribution at your command.|"
+          "text": "He nodded."
         },
         {
           "id": 27,
-          "paragraph_id": 15,
-          "text": "He nodded."
+          "paragraph_id": 14,
+          "text": "\"Proceed.\""
         },
         {
           "id": 28,
           "paragraph_id": 15,
-          "text": "\"Proceed.\""
+          "text": "A new storm of verdant-gold light, a hurricane of pure, conceptual growth, descended upon the Shore."
         },
         {
           "id": 29,
           "paragraph_id": 16,
-          "text": "A new storm of verdant-gold light, a hurricane of pure, conceptual growth, descended upon the Shore."
+          "text": "Forty endowments, each one a testament to the impossible, recursive power of his Principle, washed over him as all were used for him!"
         },
         {
           "id": 30,
           "paragraph_id": 17,
-          "text": "Forty endowments, each one a testament to the impossible, recursive power of his Principle, washed over him as all were used for him!"
-        },
-        {
-          "id": 31,
-          "paragraph_id": 18,
           "text": "When the storm passed, he felt... denser."
         },
         {
-          "id": 32,
-          "paragraph_id": 18,
+          "id": 31,
+          "paragraph_id": 17,
           "text": "More real."
+        },
+        {
+          "id": 32,
+          "paragraph_id": 17,
+          "text": "His power, already measured in the dozens of Quadrillions, had taken another leap."
         },
         {
           "id": 33,
           "paragraph_id": 18,
-          "text": "His power, already measured in the dozens of Quadrillions, had taken another leap."
-        },
-        {
-          "id": 34,
-          "paragraph_id": 19,
           "text": "Khor floated beside him, her expression now a mask of grim resolve."
         },
         {
-          "id": 35,
-          "paragraph_id": 19,
+          "id": 34,
+          "paragraph_id": 18,
           "text": "\"I will go back with you,\" she said, her voice a quiet, unshakeable promise."
+        },
+        {
+          "id": 35,
+          "paragraph_id": 18,
+          "text": "\"Even if I am just a voice in your head, I will help.\""
         },
         {
           "id": 36,
           "paragraph_id": 19,
-          "text": "\"Even if I am just a voice in your head, I will help.\""
+          "text": "Noah nodded, then turned his gaze to the pulsating, crimson-blue cluster of infinity symbols that was his new system."
         },
         {
           "id": 37,
           "paragraph_id": 20,
-          "text": "Noah nodded, then turned his gaze to the pulsating, crimson-blue cluster of infinity symbols that was his new system."
+          "text": "\"RUIN/EDEN, how close are you to grasping the Cultivation of Everythings?\""
         },
         {
           "id": 38,
           "paragraph_id": 21,
-          "text": "\"RUIN/EDEN, how close are you to grasping the Cultivation of Everythings?\""
-        },
-        {
-          "id": 39,
-          "paragraph_id": 22,
           "text": "|Analysis is ongoing, Master."
         },
         {
-          "id": 40,
-          "paragraph_id": 22,
+          "id": 39,
+          "paragraph_id": 21,
           "text": "The methodology is complex."
+        },
+        {
+          "id": 40,
+          "paragraph_id": 21,
+          "text": "I have not yet reached a point of practical application.|"
         },
         {
           "id": 41,
           "paragraph_id": 22,
-          "text": "I have not yet reached a point of practical application.|"
+          "text": "He had expected as much."
         },
         {
           "id": 42,
           "paragraph_id": 23,
-          "text": "He had expected as much."
+          "text": "For now, he had to use the tools he possessed."
         },
         {
           "id": 43,
           "paragraph_id": 24,
-          "text": "For now, he had to use the tools he possessed."
+          "text": "He looked over at Sigrid, at his Mother, at Moiraine, and everyone else here who was acclimating to their own existence."
         },
         {
           "id": 44,
           "paragraph_id": 25,
-          "text": "He looked over at Sigrid, at his Mother, at Moiraine, and everyone else here who was acclimating to their own existence."
+          "text": "He looked towards The Infiniverse who nodded her head as she had much to do."
         },
         {
           "id": 45,
           "paragraph_id": 26,
-          "text": "He looked towards The Infiniverse who nodded her head as she had much to do."
+          "text": "He then...closed his eyes, his will reaching into the very heart of his being, to the star-chart of his Early Atlas of the Folds."
         },
         {
           "id": 46,
           "paragraph_id": 27,
-          "text": "He then...closed his eyes, his will reaching into the very heart of his being, to the star-chart of his Early Atlas of the Folds."
+          "text": "The other part of his body that was Ozymandias was already contained in the depths of his existence, and he would unleash it for potentially more opportunities as needed to make sure he could stay in the Earliest Folds as long as possible."
         },
         {
           "id": 47,
           "paragraph_id": 28,
-          "text": "The other part of his body that was Ozymandias was already contained in the depths of his existence, and he would unleash it for potentially more opportunities as needed to make sure he could stay in the Earliest Folds as long as possible."
+          "text": "With all preparations ready..."
         },
         {
           "id": 48,
           "paragraph_id": 29,
-          "text": "With all preparations ready..."
+          "text": "He activated it."
         },
         {
           "id": 49,
           "paragraph_id": 30,
-          "text": "He activated it."
+          "text": "|Temporal Traversal Initiated.|"
         },
         {
           "id": 50,
           "paragraph_id": 31,
-          "text": "|Temporal Traversal Initiated.|"
+          "text": "|Analysis: The unique signature and weavings of the Justiciar have been cross-referenced with all accessible temporal data points within the Atlas.|"
         },
         {
           "id": 51,
           "paragraph_id": 32,
-          "text": "|Analysis: The unique signature and weavings of the Justiciar have been cross-referenced with all accessible temporal data points within the Atlas.|"
+          "text": "|A match has been found."
         },
         {
           "id": 52,
-          "paragraph_id": 33,
-          "text": "|A match has been found."
+          "paragraph_id": 32,
+          "text": "The weavings correspond to three potential locations within the Earliest Folds.|"
         },
         {
           "id": 53,
           "paragraph_id": 33,
-          "text": "The weavings correspond to three potential locations within the Earliest Folds.|"
+          "text": "|Due to the complete advancement of all 159 Towers of Osmont to the Vital Lighthouse stage, and the current strength of your Heart, a precise destination can now be selected.|"
         },
         {
           "id": 54,
           "paragraph_id": 34,
-          "text": "|Due to the complete advancement of all 159 Towers of Osmont to the Vital Lighthouse stage, and the current strength of your Heart, a precise destination can now be selected.|"
+          "text": "|Destination Locked: The Early Laboratories.|"
         },
         {
           "id": 55,
           "paragraph_id": 35,
-          "text": "|Destination Locked: The Early Laboratories.|"
+          "text": "A column of pure, temporal light, a river of a billion frozen moments, descended and enveloped his form."
         },
         {
           "id": 56,
           "paragraph_id": 36,
-          "text": "A column of pure, temporal light, a river of a billion frozen moments, descended and enveloped his form."
-        },
-        {
-          "id": 57,
-          "paragraph_id": 37,
           "text": "The traversal was different this time."
         },
         {
-          "id": 58,
-          "paragraph_id": 37,
+          "id": 57,
+          "paragraph_id": 36,
           "text": "Smoother."
         },
         {
-          "id": 59,
-          "paragraph_id": 37,
+          "id": 58,
+          "paragraph_id": 36,
           "text": "More stable."
+        },
+        {
+          "id": 59,
+          "paragraph_id": 36,
+          "text": "The violent, chaotic journey of his earlier trips had been replaced by a serene, controlled descent through the layers of time."
         },
         {
           "id": 60,
           "paragraph_id": 37,
-          "text": "The violent, chaotic journey of his earlier trips had been replaced by a serene, controlled descent through the layers of time."
+          "text": "His Vital Lighthouses were not just anchors; they were a navigation system, a perfect, celestial GPS guiding him through the storm!"
         },
         {
           "id": 61,
           "paragraph_id": 38,
-          "text": "His Vital Lighthouses were not just anchors; they were a navigation system, a perfect, celestial GPS guiding him through the storm!"
+          "text": "|Traversal is stable."
         },
         {
           "id": 62,
-          "paragraph_id": 39,
-          "text": "|Traversal is stable."
+          "paragraph_id": 38,
+          "text": "Estimated duration in the Earliest Folds: 7 Days.|"
         },
         {
           "id": 63,
           "paragraph_id": 39,
-          "text": "Estimated duration in the Earliest Folds: 7 Days.|"
+          "text": "HUUM!"
         },
         {
           "id": 64,
           "paragraph_id": 40,
-          "text": "HUUM!"
+          "text": "Not hours, not a day, but 7 days!"
         },
         {
           "id": 65,
           "paragraph_id": 41,
-          "text": "Not hours, not a day, but 7 days!"
+          "text": "He could stay in the Earliest Folds for 7 days!"
         },
         {
           "id": 66,
           "paragraph_id": 42,
-          "text": "He could stay in the Earliest Folds for 7 days!"
+          "text": "The process...was unfathomably quicker this time around."
         },
         {
           "id": 67,
           "paragraph_id": 43,
-          "text": "The process...was unfathomably quicker this time around."
+          "text": "The light faded, and he arrived after what seemed like mere seconds."
         },
         {
           "id": 68,
           "paragraph_id": 44,
-          "text": "The light faded, and he arrived after what seemed like mere seconds."
+          "text": "WU!"
         },
         {
           "id": 69,
           "paragraph_id": 45,
-          "text": "WU!"
+          "text": "He stood in a grand, open-air location, surrounded by massive, monolithic white stones that were arranged in a complex, concentric pattern."
         },
         {
           "id": 70,
           "paragraph_id": 46,
-          "text": "He stood in a grand, open-air location, surrounded by massive, monolithic white stones that were arranged in a complex, concentric pattern."
+          "text": "He was at the very center, on a raised platform forged from a seamless fusion of stone, wood, and a strange, dark metal that seemed to absorb the ambient light."
         },
         {
           "id": 71,
           "paragraph_id": 47,
-          "text": "He was at the very center, on a raised platform forged from a seamless fusion of stone, wood, and a strange, dark metal that seemed to absorb the ambient light."
+          "text": "The air was clean, sterile, and hummed with a quiet, intellectual energy."
         },
         {
           "id": 72,
           "paragraph_id": 48,
-          "text": "The air was clean, sterile, and hummed with a quiet, intellectual energy."
+          "text": "|Welcome to The Early Laboratories.|"
         },
         {
           "id": 73,
           "paragraph_id": 49,
-          "text": "|Welcome to The Early Laboratories.|"
+          "text": "|Scanning of nearby areas has begun.|"
         },
         {
           "id": 74,
           "paragraph_id": 50,
-          "text": "|Scanning of nearby areas has begun.|"
+          "text": "|Preliminary scans show multiple Early Creatures gazing directly at you.|"
         },
         {
           "id": 75,
           "paragraph_id": 51,
-          "text": "|Preliminary scans show multiple Early Creatures gazing directly at you.|"
+          "text": "..!"
         },
         {
           "id": 76,
           "paragraph_id": 52,
-          "text": "..!"
+          "text": "\"...\""
         },
         {
           "id": 77,
           "paragraph_id": 53,
-          "text": "\"...\""
+          "text": "Noah's gaze swept across the stone-henge-like area."
         },
         {
           "id": 78,
           "paragraph_id": 54,
-          "text": "Noah's gaze swept across the stone-henge-like area."
+          "text": "At the edges, standing silently between the great white stones, were nine figures."
         },
         {
           "id": 79,
           "paragraph_id": 55,
-          "text": "At the edges, standing silently between the great white stones, were nine figures."
+          "text": "Nine Early Creatures, their forms perfect and powerful, staring back at him!"
         },
         {
           "id": 80,
           "paragraph_id": 56,
-          "text": "Nine Early Creatures, their forms perfect and powerful, staring back at him!"
+          "text": "All of them were adorned in simple, elegant white chiton robes."
         },
         {
           "id": 81,
           "paragraph_id": 57,
-          "text": "All of them were adorned in simple, elegant white chiton robes."
+          "text": "RUIN/EDEN's analysis flashed in his vision, a cascade of names and terrifying numbers."
         },
         {
           "id": 82,
           "paragraph_id": 58,
-          "text": "RUIN/EDEN's analysis flashed in his vision, a cascade of names and terrifying numbers."
+          "text": "[Lyra - 50 Quadrillion Complexity, 50 Quadrillion Purity]"
         },
         {
           "id": 83,
           "paragraph_id": 59,
-          "text": "[Lyra – 50 Quadrillion Complexity, 50 Quadrillion Purity]"
+          "text": "[Orion - 80 Quadrillion Complexity, 80 Quadrillion Purity]"
         },
         {
           "id": 84,
           "paragraph_id": 60,
-          "text": "[Orion – 80 Quadrillion Complexity, 80 Quadrillion Purity]"
+          "text": "[Cassiopeia - 120 Quadrillion Complexity, 120 Quadrillion Purity]"
         },
         {
           "id": 85,
           "paragraph_id": 61,
-          "text": "[Cassiopeia – 120 Quadrillion Complexity, 120 Quadrillion Purity]"
+          "text": "[Cepheus - 400 Quadrillion Complexity, 400 Quadrillion Purity]"
         },
         {
           "id": 86,
           "paragraph_id": 62,
-          "text": "..."
+          "text": "...!"
         },
         {
           "id": 87,
           "paragraph_id": 63,
-          "text": "[Cepheus – 400 Quadrillion Complexity, 400 Quadrillion Purity]"
+          "text": "None of them showed hostility."
         },
         {
           "id": 88,
           "paragraph_id": 64,
-          "text": "...!"
+          "text": "Their gazes were calm, curious, and unnervingly analytical, as if they were scientists observing a fascinating new specimen."
         },
         {
           "id": 89,
           "paragraph_id": 65,
-          "text": "None of them showed hostility."
+          "text": "In that tense, silent moment, a new voice echoed out from a distant, unseen location, a voice filled with a terrifying, impatient power."
         },
         {
           "id": 90,
           "paragraph_id": 66,
-          "text": "Their gazes were calm, curious, and unnervingly analytical, as if they were scientists observing a fascinating new specimen."
+          "text": "\"What are you all doing?"
         },
         {
           "id": 91,
-          "paragraph_id": 67,
-          "text": "In that tense, silent moment, a new voice echoed out from a distant, unseen location, a voice filled with a terrifying, impatient power."
+          "paragraph_id": 66,
+          "text": "Bring the newcomer that has been sent over!\""
         },
         {
           "id": 92,
-          "paragraph_id": 68,
-          "text": "\"What are you all doing?"
+          "paragraph_id": 67,
+          "text": "The voice was a thunderclap of authority, a command that made the very stones of the laboratory hum."
         },
         {
           "id": 93,
           "paragraph_id": 68,
-          "text": "Bring the newcomer that has been sent over!\""
+          "text": "Noah's eyes opened wide as the frequency of this voice was unique."
         },
         {
           "id": 94,
           "paragraph_id": 69,
-          "text": "The voice was a thunderclap of authority, a command that made the very stones of the laboratory hum."
+          "text": "And it was a voice that, shockingly, did not belong to an Early Creature."
         },
         {
           "id": 95,
           "paragraph_id": 70,
-          "text": "Noah's eyes opened wide as the frequency of this voice was unique."
+          "text": "It felt like the voice of...a Fold Dweller!"
         },
         {
           "id": 96,
           "paragraph_id": 71,
-          "text": "And it was a voice that, shockingly, did not belong to an Early Creature."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 72,
-          "text": "It felt like the voice of...a Fold Dweller!"
-        },
-        {
-          "id": 98,
-          "paragraph_id": 73,
           "text": "And yet, it was commanding Early Creatures!"
         }
       ],
-      "word_count": 1055
+      "word_count": 1053
     },
     {
       "chapter_index": 4254,
@@ -13946,9 +13904,9 @@
         "Within its transparent walls, held in place by radiant white attachments, were... armors.",
         "Unfinished, skeletal backbones of the very same design as the Justiciar that had annihilated Aeternitas Glacies!",
         "There were dozens of them, displayed like anatomical models in a museum of death!",
-        "|[Living Existential Armor – Model J-7 (Justiciar)] - Incomplete.|",
-        "|[Living Existential Armor – Model V-3 (Vindicator)] - Incomplete.|",
-        "|[Living Existential Armor – Model P-9 (Purifier)] - Incomplete.|",
+        "|[Living Existential Armor - Model J-7 (Justiciar)] - Incomplete.|",
+        "|[Living Existential Armor - Model V-3 (Vindicator)] - Incomplete.|",
+        "|[Living Existential Armor - Model P-9 (Purifier)] - Incomplete.|",
         "His eyes blazed with a cold, intense light. So, this was where they were made.",
         "The Fold Dweller, Elara, raised her brows, shaking her head as if to scold a curious child.",
         "\"You are moving too fast, Elderborn,\" she said, her tone sharp and impatient. \"First, we have to verify your status. So... let us see if you can manipulate the Early Omnichalcum Metal. If you aren't even able to do this... we can be rid of you even quicker.\"",
@@ -14019,17 +13977,17 @@
         {
           "id": 6,
           "paragraph_id": 5,
-          "text": "|[Living Existential Armor – Model J-7 (Justiciar)] - Incomplete.|"
+          "text": "|[Living Existential Armor - Model J-7 (Justiciar)] - Incomplete.|"
         },
         {
           "id": 7,
           "paragraph_id": 6,
-          "text": "|[Living Existential Armor – Model V-3 (Vindicator)] - Incomplete.|"
+          "text": "|[Living Existential Armor - Model V-3 (Vindicator)] - Incomplete.|"
         },
         {
           "id": 8,
           "paragraph_id": 7,
-          "text": "|[Living Existential Armor – Model P-9 (Purifier)] - Incomplete.|"
+          "text": "|[Living Existential Armor - Model P-9 (Purifier)] - Incomplete.|"
         },
         {
           "id": 9,
@@ -14425,7 +14383,7 @@
         "Elara stared, her mouth slightly agape, her professional composure utterly shattered.",
         "\"Why... why were you playing around before?\" she stammered, her voice a mixture of shock, confusion, and happiness.",
         "The metal, under the command of Noah's will, lifted from the table. It floated in the air before him, its form buzzing, shifting, its solid state now as malleable as clay in a sculptor's hands.",
-        "|[Early Omnichalcum Metal] – Analysis Complete.|",
+        "|[Early Omnichalcum Metal] - Analysis Complete.|",
         "|Properties:|",
         "| - Existential Inertia: Possesses a conceptual weight that makes it nearly immovable and indestructible to all but the highest echelons of power.|",
         "| - Authority Absorption: Capable of absorbing, storing, and repurposing vast amounts of any authority directed at it. It is a perfect battery.|",
@@ -14791,7 +14749,7 @@
         {
           "id": 69,
           "paragraph_id": 46,
-          "text": "|[Early Omnichalcum Metal] – Analysis Complete.|"
+          "text": "|[Early Omnichalcum Metal] - Analysis Complete.|"
         },
         {
           "id": 70,
@@ -15977,7 +15935,6 @@
         "Because in the end of the conversation, Emotive came back as he asked:",
         "\"What of you Achievement?\"",
         "And THE Living Concept smiled and said \"Oh, just a little Achievement is a Laboratory of mine. One of the Elderborns finally bore fruit...\"",
-        "—",
         "The descent into Elara's personal lab was a quiet, spiraling journey into the heart of a brilliant, frustrated mind.",
         "She hummed to herself, a soft, almost inaudible tune, her eyes sparkling with a distant, analytical light as she seemed to be running through the possible permutations of Dr. Flamel's imminent breakthrough.",
         "The lab itself was a testament to her nature: a place of stark, ordered beauty and immense, contained potential.",
@@ -16305,50 +16262,45 @@
         {
           "id": 63,
           "paragraph_id": 42,
-          "text": "—"
+          "text": "The descent into Elara's personal lab was a quiet, spiraling journey into the heart of a brilliant, frustrated mind."
         },
         {
           "id": 64,
           "paragraph_id": 43,
-          "text": "The descent into Elara's personal lab was a quiet, spiraling journey into the heart of a brilliant, frustrated mind."
+          "text": "She hummed to herself, a soft, almost inaudible tune, her eyes sparkling with a distant, analytical light as she seemed to be running through the possible permutations of Dr."
         },
         {
           "id": 65,
-          "paragraph_id": 44,
-          "text": "She hummed to herself, a soft, almost inaudible tune, her eyes sparkling with a distant, analytical light as she seemed to be running through the possible permutations of Dr."
+          "paragraph_id": 43,
+          "text": "Flamel's imminent breakthrough."
         },
         {
           "id": 66,
           "paragraph_id": 44,
-          "text": "Flamel's imminent breakthrough."
+          "text": "The lab itself was a testament to her nature: a place of stark, ordered beauty and immense, contained potential."
         },
         {
           "id": 67,
           "paragraph_id": 45,
-          "text": "The lab itself was a testament to her nature: a place of stark, ordered beauty and immense, contained potential."
+          "text": "It was a vast, circular chamber, its walls the same pristine white as the rest of the Laboratories, but here, they were lined with shimmering, crystalline glass panels that displayed cascading streams of complex information."
         },
         {
           "id": 68,
           "paragraph_id": 46,
-          "text": "It was a vast, circular chamber, its walls the same pristine white as the rest of the Laboratories, but here, they were lined with shimmering, crystalline glass panels that displayed cascading streams of complex information."
+          "text": "In one section, a veritable mountain of Early Omnichalcum Metal was stacked, a pile dozens of times larger than the single cluster in the outer area, its collective, dormant power a heavy, silent weight on the air!"
         },
         {
           "id": 69,
           "paragraph_id": 47,
-          "text": "In one section, a veritable mountain of Early Omnichalcum Metal was stacked, a pile dozens of times larger than the single cluster in the outer area, its collective, dormant power a heavy, silent weight on the air!"
+          "text": "Another area was a workshop, dozens more of the skeletal, unfinished Living Existential Armors hanging in various states of assembly."
         },
         {
           "id": 70,
           "paragraph_id": 48,
-          "text": "Another area was a workshop, dozens more of the skeletal, unfinished Living Existential Armors hanging in various states of assembly."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 49,
           "text": "And at the very center was her personal workstation: a simple white throne and a vast, silver table, both currently littered with scattered papers and shimmering blueprints!"
         }
       ],
-      "word_count": 1044
+      "word_count": 1043
     },
     {
       "chapter_index": 4260,
@@ -16948,7 +16900,7 @@
         "Intricate golden lines, forming a pattern that was both a circuit board and a constellation, pulsed with a soft, steady light.",
         "And from its center, a single, massive, needle-like white structure, a full meter in length, poked out, its tip impossibly sharp, humming with a contained, hungry power!",
         "The moment it was completed, a wave of white-gold brilliance gushed out from it, a pulse of such profound, conceptual weight that it caused the very air of the laboratory to feel heavy, suffocating.",
-        "|[The Omnichalcum Core Modulator – Phase I] has been successfully forged.|",
+        "|[The Omnichalcum Core Modulator - Phase I] has been successfully forged.|",
         "|Classification: Growth-Type Symbiotic Early Tool.|",
         "|Qualities:|",
         "| - The Creature's Echo: Contains a minute, yet potent, weaving of [THE Creature]'s Everything. At its current stage, it grants a passive, permanent increase of +75 Quadrillion to your Complexity and Purity.|",
@@ -17255,7 +17207,7 @@
         {
           "id": 54,
           "paragraph_id": 42,
-          "text": "|[The Omnichalcum Core Modulator – Phase I] has been successfully forged.|"
+          "text": "|[The Omnichalcum Core Modulator - Phase I] has been successfully forged.|"
         },
         {
           "id": 55,
@@ -17531,13 +17483,13 @@
         "The Modulator responded instantly. Its intricate golden lines swirled on its pristine white surface, the entire structure flexing and pulsing as if it were an extra set of muscles, a new organ that had always been a part of him.",
         "His eyes flashed with a brilliant, analytical light as he focused on his Existential Command Interface.",
         "His status, once a simple list of numbers, was now a dynamic, ever-shifting representation of a being who was constantly, terrifyingly, evolving.",
-        "|Noah Osmont – The Tyrant of the Radiant Shore (Age 1.8)|",
+        "|Noah Osmont - The Tyrant of the Radiant Shore (Age 1.8)|",
         "|Primary Distinction: The Early Creature, Osmont; The Architect of Cheats, Elderborn(Fake)|",
         "|Complexity: 72 Quadrillion(+75 Quadrillion)|",
         "|Purity: 74 Quadrillion(+75 Quadrillion)|",
-        "|Integrated Tool: [The Omnichalcum Core Modulator – Phase I(Keystone)] (+75 Quadrillion Passive Bonus)|",
+        "|Integrated Tool: [The Omnichalcum Core Modulator - Phase I(Keystone)] (+75 Quadrillion Passive Bonus)|",
         "|System of Power: Existential Artifice, (RUIN/EDEN Interface)|",
-        "|Heart: The Heart of Tyranny (Fourth Part: The Ascendran Nodule – 61% Complete)|",
+        "|Heart: The Heart of Tyranny (Fourth Part: The Ascendran Nodule - 61% Complete)|",
         "|Atlas: The Early Atlas of the Folds (159/159 Towers at Stage 3: Vital Lighthouse)|",
         "|Principles:|",
         "| - [Perpetual Harvest] (50% Matured Seed, 50 Seed Glyphs)|",
@@ -17619,7 +17571,7 @@
         {
           "id": 7,
           "paragraph_id": 6,
-          "text": "|Noah Osmont – The Tyrant of the Radiant Shore (Age 1.8)|"
+          "text": "|Noah Osmont - The Tyrant of the Radiant Shore (Age 1.8)|"
         },
         {
           "id": 8,
@@ -17639,7 +17591,7 @@
         {
           "id": 11,
           "paragraph_id": 10,
-          "text": "|Integrated Tool: [The Omnichalcum Core Modulator – Phase I(Keystone)] (+75 Quadrillion Passive Bonus)|"
+          "text": "|Integrated Tool: [The Omnichalcum Core Modulator - Phase I(Keystone)] (+75 Quadrillion Passive Bonus)|"
         },
         {
           "id": 12,
@@ -17649,7 +17601,7 @@
         {
           "id": 13,
           "paragraph_id": 12,
-          "text": "|Heart: The Heart of Tyranny (Fourth Part: The Ascendran Nodule – 61% Complete)|"
+          "text": "|Heart: The Heart of Tyranny (Fourth Part: The Ascendran Nodule - 61% Complete)|"
         },
         {
           "id": 14,
@@ -18025,7 +17977,6 @@
         "There is only being what you already were, forever, until even that loses meaning.",
         "Struggle, it turns out, isn't existence being cruel.",
         "It's existence offering you the chance to become more than existence thought you could be.",
-        "—",
         "In the Early Laboratories, Elara's personal lab.",
         "Noah had the key. Now, it was time to build the lock.",
         "Glorious, azure tendrils of his Infinite Mana, now under the precise, artistic command of RUIN/EDEN, surged outward.",
@@ -18357,140 +18308,135 @@
         {
           "id": 62,
           "paragraph_id": 41,
-          "text": "—"
+          "text": "In the Early Laboratories, Elara's personal lab."
         },
         {
           "id": 63,
           "paragraph_id": 42,
-          "text": "In the Early Laboratories, Elara's personal lab."
+          "text": "Noah had the key."
         },
         {
           "id": 64,
-          "paragraph_id": 43,
-          "text": "Noah had the key."
+          "paragraph_id": 42,
+          "text": "Now, it was time to build the lock."
         },
         {
           "id": 65,
           "paragraph_id": 43,
-          "text": "Now, it was time to build the lock."
+          "text": "Glorious, azure tendrils of his Infinite Mana, now under the precise, artistic command of RUIN/EDEN, surged outward."
         },
         {
           "id": 66,
           "paragraph_id": 44,
-          "text": "Glorious, azure tendrils of his Infinite Mana, now under the precise, artistic command of RUIN/EDEN, surged outward."
+          "text": "They were no longer a chaotic fire, but a thousand delicate, surgical limbs, each one moving with a grace and precision that defied their boundless power."
         },
         {
           "id": 67,
           "paragraph_id": 45,
-          "text": "They were no longer a chaotic fire, but a thousand delicate, surgical limbs, each one moving with a grace and precision that defied their boundless power."
+          "text": "They reached for the mountain of Early Omnichalcum, and block by massive block, the primordial metal lifted into the air, a silent, orbiting constellation of pure potential!"
         },
         {
           "id": 68,
           "paragraph_id": 46,
-          "text": "They reached for the mountain of Early Omnichalcum, and block by massive block, the primordial metal lifted into the air, a silent, orbiting constellation of pure potential!"
+          "text": "Noah stood before the half-finished, skeletal framework of a Justiciar armor, its inert, white form a blank canvas awaiting the master's touch."
         },
         {
           "id": 69,
           "paragraph_id": 47,
-          "text": "Noah stood before the half-finished, skeletal framework of a Justiciar armor, its inert, white form a blank canvas awaiting the master's touch."
+          "text": "He turned to Elara, who was watching the impossible display with a look of pure, unadulterated scientific hunger."
         },
         {
           "id": 70,
           "paragraph_id": 48,
-          "text": "He turned to Elara, who was watching the impossible display with a look of pure, unadulterated scientific hunger."
+          "text": "\"I am separating all materials that infuse Complexity into the armor's matrix,\" he said, his voice a calm, even statement of intent."
         },
         {
           "id": 71,
           "paragraph_id": 49,
-          "text": "\"I am separating all materials that infuse Complexity into the armor's matrix,\" he said, his voice a calm, even statement of intent."
+          "text": "\"My plan is to make it an instrument of pure Purity.\""
         },
         {
           "id": 72,
           "paragraph_id": 50,
-          "text": "\"My plan is to make it an instrument of pure Purity.\""
+          "text": "Elara nodded, her crimson eyes narrowed in thought."
         },
         {
           "id": 73,
-          "paragraph_id": 51,
-          "text": "Elara nodded, her crimson eyes narrowed in thought."
+          "paragraph_id": 50,
+          "text": "\"We considered this,\" she admitted, her tone now that of a respected peer, not a condescending commander."
         },
         {
           "id": 74,
           "paragraph_id": 51,
-          "text": "\"We considered this,\" she admitted, her tone now that of a respected peer, not a condescending commander."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 52,
           "text": "\"But it puts even more stress on the pilot."
         },
         {
-          "id": 76,
-          "paragraph_id": 52,
+          "id": 75,
+          "paragraph_id": 51,
           "text": "They don't only have Complexity or Purity; they have both."
         },
         {
-          "id": 77,
-          "paragraph_id": 52,
+          "id": 76,
+          "paragraph_id": 51,
           "text": "To interface with a suit of pure, singular authority would be like trying to breathe water."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 51,
+          "text": "Their very nature would reject it.\""
         },
         {
           "id": 78,
           "paragraph_id": 52,
-          "text": "Their very nature would reject it.\""
+          "text": "Noah's lips curved into a faint, confident smile."
         },
         {
           "id": 79,
           "paragraph_id": 53,
-          "text": "Noah's lips curved into a faint, confident smile."
+          "text": "\"With the Modulator,\" he said, gesturing to the humming engine on his back, \"that problem should be overcome for the most part."
         },
         {
           "id": 80,
-          "paragraph_id": 54,
-          "text": "\"With the Modulator,\" he said, gesturing to the humming engine on his back, \"that problem should be overcome for the most part."
+          "paragraph_id": 53,
+          "text": "It acts as a universal translator, a bridge between the being's mixed existence and the armor's singular purpose.\""
         },
         {
           "id": 81,
           "paragraph_id": 54,
-          "text": "It acts as a universal translator, a bridge between the being's mixed existence and the armor's singular purpose.\""
+          "text": "He looked at the half-finished armor, at the intricate, masterfully crafted framework she and her team had already built."
         },
         {
           "id": 82,
           "paragraph_id": 55,
-          "text": "He looked at the half-finished armor, at the intricate, masterfully crafted framework she and her team had already built."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 56,
           "text": "\"You and the others here have already done the truly difficult work."
         },
         {
-          "id": 84,
-          "paragraph_id": 56,
+          "id": 83,
+          "paragraph_id": 55,
           "text": "The only thing I am adding is the interface."
         },
         {
-          "id": 85,
-          "paragraph_id": 56,
+          "id": 84,
+          "paragraph_id": 55,
           "text": "Even this Living Existential Armor is almost complete."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 55,
+          "text": "If it works with me, it will give you a baseline for others.\""
         },
         {
           "id": 86,
           "paragraph_id": 56,
-          "text": "If it works with me, it will give you a baseline for others.\""
-        },
-        {
-          "id": 87,
-          "paragraph_id": 57,
           "text": "Elara's smile was a rare, beautiful thing, a flash of genuine, collaborative excitement."
         },
         {
-          "id": 88,
-          "paragraph_id": 57,
+          "id": 87,
+          "paragraph_id": 56,
           "text": "She nodded!"
         }
       ],
-      "word_count": 1123
+      "word_count": 1122
     },
     {
       "chapter_index": 4264,
@@ -20541,7 +20487,6 @@
         "And one that THE Living Paradox smiled devilishly at!",
         "\"Oh, how I missed you, O Creature! We...will have so much fun together!\"",
         "...!",
-        "—",
         "In the very same Earliest Folds.",
         "At a different time.",
         "In the vast corner of the endless First Folds, Noah and Elara flew across tall trees rapidly.",
@@ -20907,75 +20852,70 @@
         {
           "id": 70,
           "paragraph_id": 32,
-          "text": "—"
+          "text": "In the very same Earliest Folds."
         },
         {
           "id": 71,
           "paragraph_id": 33,
-          "text": "In the very same Earliest Folds."
+          "text": "At a different time."
         },
         {
           "id": 72,
           "paragraph_id": 34,
-          "text": "At a different time."
+          "text": "In the vast corner of the endless First Folds, Noah and Elara flew across tall trees rapidly."
         },
         {
           "id": 73,
           "paragraph_id": 35,
-          "text": "In the vast corner of the endless First Folds, Noah and Elara flew across tall trees rapidly."
+          "text": "Noah flew beside Elara, a silent, white-gold comet against the swirling, nascent Wheels and Folds that served as a sky."
         },
         {
           "id": 74,
           "paragraph_id": 36,
-          "text": "Noah flew beside Elara, a silent, white-gold comet against the swirling, nascent Wheels and Folds that served as a sky."
+          "text": "\"The location of the Laboratories was chosen with a specific purpose in mind,\" Elara said, her voice a sharp, clinical note in the symphony of the primordial world."
         },
         {
           "id": 75,
           "paragraph_id": 37,
-          "text": "\"The location of the Laboratories was chosen with a specific purpose in mind,\" Elara said, her voice a sharp, clinical note in the symphony of the primordial world."
+          "text": "They were moving at a speed that would have torn lesser beings apart, yet she spoke as if they were taking a casual stroll."
         },
         {
           "id": 76,
           "paragraph_id": 38,
-          "text": "They were moving at a speed that would have torn lesser beings apart, yet she spoke as if they were taking a casual stroll."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 39,
           "text": "\"It is situated at the nexus of several... volatile regions."
         },
         {
-          "id": 78,
-          "paragraph_id": 39,
+          "id": 77,
+          "paragraph_id": 38,
           "text": "The Abyssal Chasm of the Collapsed, the Whispering Mire of forgotten concepts, and the Andran Nest of Inevitabilities."
+        },
+        {
+          "id": 78,
+          "paragraph_id": 38,
+          "text": "It allows us to dispatch our forces to collect samples and do field tests with varying degrees of enemies.\""
         },
         {
           "id": 79,
           "paragraph_id": 39,
-          "text": "It allows us to dispatch our forces to collect samples and do field tests with varying degrees of enemies.\""
+          "text": "She gave him a sideways, almost challenging, glance."
         },
         {
           "id": 80,
           "paragraph_id": 40,
-          "text": "She gave him a sideways, almost challenging, glance."
+          "text": "\"Otherwise, if we were just anywhere in the First Folds, we might only find weak things."
         },
         {
           "id": 81,
-          "paragraph_id": 41,
-          "text": "\"Otherwise, if we were just anywhere in the First Folds, we might only find weak things."
+          "paragraph_id": 40,
+          "text": "Beings who only have the power of Young Early Creatures.\""
         },
         {
           "id": 82,
           "paragraph_id": 41,
-          "text": "Beings who only have the power of Young Early Creatures.\""
-        },
-        {
-          "id": 83,
-          "paragraph_id": 42,
           "text": "...!"
         }
       ],
-      "word_count": 1043
+      "word_count": 1042
     },
     {
       "chapter_index": 4269,
@@ -21011,7 +20951,7 @@
         "|Threats Identified:|",
         "| - [Primordial Verdant Trolls]: 13,472 individuals detected.|",
         "| - Power Range: 1 Quadrillion (Juvenile) to 350 Quadrillion (Elder).|",
-        "| - [Yeti King – Borborygmos]: 1 individual detected.|",
+        "| - [Yeti King - Borborygmos]: 1 individual detected.|",
         "| - Power Range: 495 Quadrillion Complexity and Purity.|",
         "|Master, this is a target-rich environment. I would advise a strategic, tactical approach. Or, you know, you could just walk in there. Your call.|",
         "Noah locked his eyes with the world-sized Yeti King. He saw the numbers, the staggering, almost insurmountable power of the beast.",
@@ -21282,7 +21222,7 @@
         {
           "id": 48,
           "paragraph_id": 29,
-          "text": "| - [Yeti King – Borborygmos]: 1 individual detected.|"
+          "text": "| - [Yeti King - Borborygmos]: 1 individual detected.|"
         },
         {
           "id": 49,
@@ -22062,7 +22002,7 @@
         "His body shot down like a star, a final, absolute verdict. He crashed through the Yeti King's skull, a gory, triumphant explosion of bone and brain matter and pure, conceptual power.",
         "And as he stood amidst the carnage, his armor, no longer just a defense, but an instrument of his hunger, radiated a thousand white-gold tendrils.",
         "They sank into the massive, world-sized titan, and the final, glorious feast began.",
-        "|[The Tyrant's Feast] is active. Devouring the essence of [Yeti King – Borborygmos]...|",
+        "|[The Tyrant's Feast] is active. Devouring the essence of [Yeti King - Borborygmos]...|",
         "|Total Purity Gained: +25,200,000,000,000,000 (25.2 Quadrillion).|",
         "|A [Preserved Defective Seed of a Principle] has been analyzed and stored. The [Principle of Absolute Territory] is now available for further study.|",
         "|Congratulations, Master. You have won.|",
@@ -22538,7 +22478,7 @@
         {
           "id": 93,
           "paragraph_id": 73,
-          "text": "Devouring the essence of [Yeti King – Borborygmos]...|"
+          "text": "Devouring the essence of [Yeti King - Borborygmos]...|"
         },
         {
           "id": 94,
@@ -23086,7 +23026,6 @@
         "Their final, unison words were a fading, cryptic echo.",
         "\"We are only here to inform. We can only inform.\"",
         "And then... they were gone, leaving Schrodinger alone in the verdant-gold grasslands, under a sky of swirling, nascent folds, with a new, terrible, and perhaps, glorious purpose.",
-        "—",
         "Far from the Earliest Folds, in the quiet, desolate twilight of the current Era, a different kind of conversation was taking place.",
         "On a certain Desiccated Sleeping Shore, two figures stood gazing out at the impossible continent they had made their sanctuary.",
         "Schrodinger and Leonore Rureaux. They looked upon the thousands of powerful Living Existences and Fold Dwellers, a congregation of the lost and the hopeful, all gathered in this forgotten corner of reality.",
@@ -23263,425 +23202,420 @@
         {
           "id": 26,
           "paragraph_id": 20,
-          "text": "—"
+          "text": "Far from the Earliest Folds, in the quiet, desolate twilight of the current Era, a different kind of conversation was taking place."
         },
         {
           "id": 27,
           "paragraph_id": 21,
-          "text": "Far from the Earliest Folds, in the quiet, desolate twilight of the current Era, a different kind of conversation was taking place."
+          "text": "On a certain Desiccated Sleeping Shore, two figures stood gazing out at the impossible continent they had made their sanctuary."
         },
         {
           "id": 28,
           "paragraph_id": 22,
-          "text": "On a certain Desiccated Sleeping Shore, two figures stood gazing out at the impossible continent they had made their sanctuary."
+          "text": "Schrodinger and Leonore Rureaux."
         },
         {
           "id": 29,
-          "paragraph_id": 23,
-          "text": "Schrodinger and Leonore Rureaux."
+          "paragraph_id": 22,
+          "text": "They looked upon the thousands of powerful Living Existences and Fold Dwellers, a congregation of the lost and the hopeful, all gathered in this forgotten corner of reality."
         },
         {
           "id": 30,
           "paragraph_id": 23,
-          "text": "They looked upon the thousands of powerful Living Existences and Fold Dwellers, a congregation of the lost and the hopeful, all gathered in this forgotten corner of reality."
+          "text": "At the many Wheels littered at the edges of the Shore that held Sextillions of beings."
         },
         {
           "id": 31,
           "paragraph_id": 24,
-          "text": "At the many Wheels littered at the edges of the Shore that held Sextillions of beings."
+          "text": "Leonore, her form still frail but her crimson eyes now burning with a cold, clear light, broke the silence."
         },
         {
           "id": 32,
           "paragraph_id": 25,
-          "text": "Leonore, her form still frail but her crimson eyes now burning with a cold, clear light, broke the silence."
+          "text": "Her voice was a low, melodic thing, yet it carried the sharp edge of a razor."
         },
         {
           "id": 33,
           "paragraph_id": 26,
-          "text": "Her voice was a low, melodic thing, yet it carried the sharp edge of a razor."
+          "text": "\"You truly gathered them,\" she said, her gaze sweeping over a distant Duke of Origin who was attempting to coax a flicker of life from the dead soil."
         },
         {
           "id": 34,
           "paragraph_id": 27,
-          "text": "\"You truly gathered them,\" she said, her gaze sweeping over a distant Duke of Origin who was attempting to coax a flicker of life from the dead soil."
-        },
-        {
-          "id": 35,
-          "paragraph_id": 28,
           "text": "\"Living Existences and Fold Dwellers, all huddled together under your wing."
         },
         {
-          "id": 36,
-          "paragraph_id": 28,
+          "id": 35,
+          "paragraph_id": 27,
           "text": "Do you truly believe it, that story the bronze-robed ghosts whispered to you?"
         },
         {
-          "id": 37,
-          "paragraph_id": 28,
+          "id": 36,
+          "paragraph_id": 27,
           "text": "That you are some Herald, a chosen one meant to save everyone?"
+        },
+        {
+          "id": 37,
+          "paragraph_id": 27,
+          "text": "Your methods have not entirely been saving some...\""
         },
         {
           "id": 38,
           "paragraph_id": 28,
-          "text": "Your methods have not entirely been saving some...\""
+          "text": "The question was not just a question; it was a challenge, a test of the very foundation of this grand, desperate gamble."
         },
         {
           "id": 39,
           "paragraph_id": 29,
-          "text": "The question was not just a question; it was a challenge, a test of the very foundation of this grand, desperate gamble."
+          "text": "Schrodinger did not turn to her."
         },
         {
           "id": 40,
-          "paragraph_id": 30,
-          "text": "Schrodinger did not turn to her."
+          "paragraph_id": 29,
+          "text": "He kept his gaze fixed on the horizon, on the tired, gray sky that promised no dawn."
         },
         {
           "id": 41,
           "paragraph_id": 30,
-          "text": "He kept his gaze fixed on the horizon, on the tired, gray sky that promised no dawn."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 31,
           "text": "\"A man is what he does, Leonore,\" he replied, his voice a calm, philosophical murmur."
         },
         {
-          "id": 43,
-          "paragraph_id": 31,
+          "id": 42,
+          "paragraph_id": 30,
           "text": "\"If I build a house, I am a builder."
         },
         {
-          "id": 44,
-          "paragraph_id": 31,
+          "id": 43,
+          "paragraph_id": 30,
           "text": "If I write a law, I am a lawgiver."
         },
         {
-          "id": 45,
-          "paragraph_id": 31,
+          "id": 44,
+          "paragraph_id": 30,
           "text": "If I do everything the Herald is supposed to do... does the title truly matter?"
         },
         {
-          "id": 46,
-          "paragraph_id": 31,
+          "id": 45,
+          "paragraph_id": 30,
           "text": "Or is it the actions that define the role?"
         },
         {
-          "id": 47,
-          "paragraph_id": 31,
+          "id": 46,
+          "paragraph_id": 30,
           "text": "Existence, in its infinite, cruel wisdom, often cares little for what we call ourselves."
+        },
+        {
+          "id": 47,
+          "paragraph_id": 30,
+          "text": "It is what we do that leaves a mark.\""
         },
         {
           "id": 48,
           "paragraph_id": 31,
-          "text": "It is what we do that leaves a mark.\""
+          "text": "...!"
         },
         {
           "id": 49,
           "paragraph_id": 32,
-          "text": "...!"
-        },
-        {
-          "id": 50,
-          "paragraph_id": 33,
           "text": "Leonore's lips curved into a faint, almost bitter, smile."
         },
         {
-          "id": 51,
-          "paragraph_id": 33,
+          "id": 50,
+          "paragraph_id": 32,
           "text": "\"A convenient philosophy."
         },
         {
-          "id": 52,
-          "paragraph_id": 33,
+          "id": 51,
+          "paragraph_id": 32,
           "text": "But you forget the words of THE Creature. 'Existence will do what existence does, but in the end... we decide everything.' We are free to make our own choices, Schrodinger."
         },
         {
-          "id": 53,
-          "paragraph_id": 33,
+          "id": 52,
+          "paragraph_id": 32,
           "text": "The Prophecy is a map, not a destination."
         },
         {
-          "id": 54,
-          "paragraph_id": 33,
+          "id": 53,
+          "paragraph_id": 32,
           "text": "It shows one possible path out of many."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 32,
+          "text": "Are you choosing to walk it because it is your will, or because you believe you have no other choice?\""
         },
         {
           "id": 55,
           "paragraph_id": 33,
-          "text": "Are you choosing to walk it because it is your will, or because you believe you have no other choice?\""
+          "text": "He finally turned to her, and in his ancient, weary eyes, she saw a flicker of the man he was, beneath the many masks he wore."
         },
         {
           "id": 56,
           "paragraph_id": 34,
-          "text": "He finally turned to her, and in his ancient, weary eyes, she saw a flicker of the man he was, beneath the many masks he wore."
+          "text": "He nodded."
         },
         {
           "id": 57,
           "paragraph_id": 35,
-          "text": "He nodded."
+          "text": "\"And this is what I have chosen,\" he said, his voice firm, unwavering."
         },
         {
           "id": 58,
-          "paragraph_id": 36,
-          "text": "\"And this is what I have chosen,\" he said, his voice firm, unwavering."
+          "paragraph_id": 35,
+          "text": "\"Just as I chose to accelerate the opening of The Veil.\""
         },
         {
           "id": 59,
           "paragraph_id": 36,
-          "text": "\"Just as I chose to accelerate the opening of The Veil.\""
-        },
-        {
-          "id": 60,
-          "paragraph_id": 37,
           "text": "He saw the flicker of surprise in her eyes and continued."
         },
         {
-          "id": 61,
-          "paragraph_id": 37,
+          "id": 60,
+          "paragraph_id": 36,
           "text": "\"It occurred on a scale far vaster than I anticipated."
         },
         {
-          "id": 62,
-          "paragraph_id": 37,
+          "id": 61,
+          "paragraph_id": 36,
           "text": "A necessary, if brutal, step to awaken existence that was sleeping on the edge of a cliff."
         },
         {
-          "id": 63,
-          "paragraph_id": 37,
+          "id": 62,
+          "paragraph_id": 36,
           "text": "But it has had... consequences."
         },
         {
-          "id": 64,
-          "paragraph_id": 37,
+          "id": 63,
+          "paragraph_id": 36,
           "text": "I have received word of something terrible that happened in the Transcendent Elemental Folds."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 36,
+          "text": "Look at this.\""
         },
         {
           "id": 65,
           "paragraph_id": 37,
-          "text": "Look at this.\""
+          "text": "Schrodinger waved his hand, and the air before them shimmered, a window opening into another place, another time."
         },
         {
           "id": 66,
           "paragraph_id": 38,
-          "text": "Schrodinger waved his hand, and the air before them shimmered, a window opening into another place, another time."
+          "text": "It showed the silent, burning pyre of Aeternitas Glacies."
         },
         {
           "id": 67,
-          "paragraph_id": 39,
-          "text": "It showed the silent, burning pyre of Aeternitas Glacies."
+          "paragraph_id": 38,
+          "text": "It showed the ghostly replay of the Justiciar's terrible, efficient slaughter."
         },
         {
           "id": 68,
           "paragraph_id": 39,
-          "text": "It showed the ghostly replay of the Justiciar's terrible, efficient slaughter."
+          "text": "Leonore looked at the scene, and her breath caught in her throat."
         },
         {
           "id": 69,
-          "paragraph_id": 40,
-          "text": "Leonore looked at the scene, and her breath caught in her throat."
+          "paragraph_id": 39,
+          "text": "The calm, calculating demeanor she had maintained since her release shattered, replaced by a storm of pure, unadulterated rage."
         },
         {
           "id": 70,
           "paragraph_id": 40,
-          "text": "The calm, calculating demeanor she had maintained since her release shattered, replaced by a storm of pure, unadulterated rage."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 41,
           "text": "\"They...,\" she whispered, her voice a low, venomous hiss."
         },
         {
-          "id": 72,
-          "paragraph_id": 41,
+          "id": 71,
+          "paragraph_id": 40,
           "text": "\"They almost killed me with one of those things, last time."
         },
         {
-          "id": 73,
-          "paragraph_id": 41,
+          "id": 72,
+          "paragraph_id": 40,
           "text": "And before that, they had only been present in the Earliest Folds."
+        },
+        {
+          "id": 73,
+          "paragraph_id": 40,
+          "text": "For them to make their appearance now...\""
         },
         {
           "id": 74,
           "paragraph_id": 41,
-          "text": "For them to make their appearance now...\""
-        },
-        {
-          "id": 75,
-          "paragraph_id": 42,
           "text": "Her gaze snapped to him, her crimson eyes blazing with a new, terrible urgency."
         },
         {
-          "id": 76,
-          "paragraph_id": 42,
+          "id": 75,
+          "paragraph_id": 41,
           "text": "\"Is everything truly moving that fast?"
+        },
+        {
+          "id": 76,
+          "paragraph_id": 41,
+          "text": "Will you...?\""
         },
         {
           "id": 77,
           "paragraph_id": 42,
-          "text": "Will you...?\""
+          "text": "She took a step closer, her frail form now radiating a power that made the very air tremble."
         },
         {
           "id": 78,
           "paragraph_id": 43,
-          "text": "She took a step closer, her frail form now radiating a power that made the very air tremble."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 44,
           "text": "\"Will you be awakening your other bodies now?\" she asked, her voice a low, dangerous demand."
         },
         {
-          "id": 80,
-          "paragraph_id": 44,
+          "id": 79,
+          "paragraph_id": 43,
           "text": "\"You told me."
         },
         {
-          "id": 81,
-          "paragraph_id": 44,
+          "id": 80,
+          "paragraph_id": 43,
           "text": "You told me when the Justiciars and the Arbiters began to appear, you would unleash yourself again."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 43,
+          "text": "Paradox... was always your weakest form.\""
         },
         {
           "id": 82,
           "paragraph_id": 44,
-          "text": "Paradox... was always your weakest form.\""
+          "text": "The words were a terrifying revelation, a hint of a power so vast that his current, reality-bending form was but a pale shadow of it!"
         },
         {
           "id": 83,
           "paragraph_id": 45,
-          "text": "The words were a terrifying revelation, a hint of a power so vast that his current, reality-bending form was but a pale shadow of it!"
+          "text": "Schrodinger smiled, but it was a smile filled with the weight of billions of years and a pain that was just as old."
         },
         {
           "id": 84,
           "paragraph_id": 46,
-          "text": "Schrodinger smiled, but it was a smile filled with the weight of billions of years and a pain that was just as old."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 47,
           "text": "He nodded."
         },
         {
-          "id": 86,
-          "paragraph_id": 47,
+          "id": 85,
+          "paragraph_id": 46,
           "text": "\"Yes,\" he said, his voice a quiet, solemn promise."
         },
         {
-          "id": 87,
-          "paragraph_id": 47,
+          "id": 86,
+          "paragraph_id": 46,
           "text": "\"It is time."
         },
         {
-          "id": 88,
-          "paragraph_id": 47,
+          "id": 87,
+          "paragraph_id": 46,
           "text": "Time to hunt Justiciars."
         },
         {
-          "id": 89,
-          "paragraph_id": 47,
+          "id": 88,
+          "paragraph_id": 46,
           "text": "Time to wait for the Arbiters."
         },
         {
-          "id": 90,
-          "paragraph_id": 47,
+          "id": 89,
+          "paragraph_id": 46,
           "text": "Wherever they are coming from... that is our answer."
+        },
+        {
+          "id": 90,
+          "paragraph_id": 46,
+          "text": "That is our solution.\""
         },
         {
           "id": 91,
           "paragraph_id": 47,
-          "text": "That is our solution.\""
+          "text": "\"And hey, Paradox is not my weakest form...after all, I'm trying to nurture THE Living Chaos with it!\""
         },
         {
           "id": 92,
           "paragraph_id": 48,
-          "text": "\"And hey, Paradox is not my weakest form...after all, I'm trying to nurture THE Living Chaos with it!\""
+          "text": "WAA!"
         },
         {
           "id": 93,
           "paragraph_id": 49,
-          "text": "WAA!"
+          "text": "At his words, Leonore breathed out, a slow, shuddering exhalation."
         },
         {
           "id": 94,
           "paragraph_id": 50,
-          "text": "At his words, Leonore breathed out, a slow, shuddering exhalation."
+          "text": "Her body, once so frail, began to burn with a power that now easily reached into the hundreds of Quadrillions, her crimson robes swirling around her like a storm of resurrected might."
         },
         {
           "id": 95,
           "paragraph_id": 51,
-          "text": "Her body, once so frail, began to burn with a power that now easily reached into the hundreds of Quadrillions, her crimson robes swirling around her like a storm of resurrected might."
+          "text": "Her voice, no longer a whisper, but a clear, resonant note that seemed to carry across the entire Desiccated Shore, echoed out, as if she were remembering something grand and terrible."
         },
         {
           "id": 96,
           "paragraph_id": 52,
-          "text": "Her voice, no longer a whisper, but a clear, resonant note that seemed to carry across the entire Desiccated Shore, echoed out, as if she were remembering something grand and terrible."
+          "text": "\"For only in the desperate, relentless climb toward a dawn they cannot see,"
         },
         {
           "id": 97,
           "paragraph_id": 53,
-          "text": "\"For only in the desperate, relentless climb toward a dawn they cannot see,"
+          "text": "Can the coming, absolute night be weathered."
         },
         {
           "id": 98,
           "paragraph_id": 54,
-          "text": "Can the coming, absolute night be weathered."
+          "text": "And a new light will shine, not from a single, sovereign sun,"
         },
         {
           "id": 99,
           "paragraph_id": 55,
-          "text": "And a new light will shine, not from a single, sovereign sun,"
+          "text": "But from the countless, small fires of a people who chose to stand together against the final dark.\""
         },
         {
           "id": 100,
           "paragraph_id": 56,
-          "text": "But from the countless, small fires of a people who chose to stand together against the final dark.\""
+          "text": "She paused, the final, unwritten line of the prophecy hanging in the air between them."
         },
         {
           "id": 101,
           "paragraph_id": 57,
-          "text": "She paused, the final, unwritten line of the prophecy hanging in the air between them."
+          "text": "\"The Light of Civilization.\""
         },
         {
           "id": 102,
           "paragraph_id": 58,
-          "text": "\"The Light of Civilization.\""
+          "text": "She repeated the words, her voice now a firm, unshakeable vow."
         },
         {
           "id": 103,
-          "paragraph_id": 59,
-          "text": "She repeated the words, her voice now a firm, unshakeable vow."
+          "paragraph_id": 58,
+          "text": "\"The Light of Civilization.\""
         },
         {
           "id": 104,
           "paragraph_id": 59,
-          "text": "\"The Light of Civilization.\""
+          "text": "She turned to him, her eyes burning with a new, terrible purpose."
         },
         {
           "id": 105,
-          "paragraph_id": 60,
-          "text": "She turned to him, her eyes burning with a new, terrible purpose."
+          "paragraph_id": 59,
+          "text": "She bowed, a gesture of profound, ancient respect from one primordial power to another."
         },
         {
           "id": 106,
           "paragraph_id": 60,
-          "text": "She bowed, a gesture of profound, ancient respect from one primordial power to another."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 61,
           "text": "\"Okay,\" she said."
         },
         {
-          "id": 108,
-          "paragraph_id": 61,
+          "id": 107,
+          "paragraph_id": 60,
           "text": "\"Let us save Civilization."
         },
         {
-          "id": 109,
-          "paragraph_id": 61,
+          "id": 108,
+          "paragraph_id": 60,
           "text": "O Herald... how can this Lost Child help?\""
         }
       ],
-      "word_count": 1277
+      "word_count": 1276
     },
     {
       "chapter_index": 4274,
@@ -23733,9 +23667,9 @@
         "|Warning: Multiple High-Threat Entities Detected.|",
         "|Analysis: You are surrounded by a force that significantly outmatches your current capabilities, Master. The term for this tactical situation is... suboptimal.|",
         "Noah's gaze swept over them, his Existential Command Interface providing a cascade of terrifying, beautiful numbers.",
-        "|[Commander Kael] – 780 Quadrillion Complexity & Purity|",
-        "|[Sub-Commander Lavvana] – 620 Quadrillion Complexity & Purity|",
-        "|[Warrior Orion] – 580 Quadrillion Complexity & Purity|",
+        "|[Commander Kael] - 780 Quadrillion Complexity & Purity|",
+        "|[Sub-Commander Lavvana] - 620 Quadrillion Complexity & Purity|",
+        "|[Warrior Orion] - 580 Quadrillion Complexity & Purity|",
         "HUUM!",
         "The weakest among them was a solid 400 Quadrillion. They were a legion of Early Creatures!",
         "Kael, the fiery-haired leader, floated imposingly, his gaze not one of aggression, but of simple, absolute ownership. \"We come in peace, little ones,\" he said, his voice a smooth, cultured purr that was more terrifying than any roar.",
@@ -24092,17 +24026,17 @@
         {
           "id": 69,
           "paragraph_id": 45,
-          "text": "|[Commander Kael] – 780 Quadrillion Complexity & Purity|"
+          "text": "|[Commander Kael] - 780 Quadrillion Complexity & Purity|"
         },
         {
           "id": 70,
           "paragraph_id": 46,
-          "text": "|[Sub-Commander Lavvana] – 620 Quadrillion Complexity & Purity|"
+          "text": "|[Sub-Commander Lavvana] - 620 Quadrillion Complexity & Purity|"
         },
         {
           "id": 71,
           "paragraph_id": 47,
-          "text": "|[Warrior Orion] – 580 Quadrillion Complexity & Purity|"
+          "text": "|[Warrior Orion] - 580 Quadrillion Complexity & Purity|"
         },
         {
           "id": 72,
@@ -24736,7 +24670,7 @@
         "|The [Ascendran Nodule] has reached 71% completion.|",
         "|The [Cheating Tower of Osmont] is, for lack of a better term, speedrunning its way towards the Fourth Stage.|",
         "|General Assessment: If you were to simply sit still for a few years, allowing the passive evolution between you and the Aegis to continue, you could likely step into the Quintillions and enjoy a restful, prosperous life as a conceptual farmer. But, things are never that easy. Struggle is present. Struggle is real.|",
-        "|[The Aegis of the Architect] – Status Update|",
+        "|[The Aegis of the Architect] - Status Update|",
         "|Classification: Growth-Type Symbiotic Living Existential Armor (Phase I)|",
         "|Purity: 520,000,000,000,000,000|",
         "|Augmentations:|",
@@ -24753,7 +24687,7 @@
         "Gilded golden walls, thosuands of miles high, rose to meet the swirling nebulae of the sky, their surfaces etched with the entire history of a proud and ancient people.",
         "Within those walls, impossibly tall towers of white stone and gold filigree reached for the heavens, their spires so fine they seemed to blend into the starlight!",
         "Hundreds of thousands of Early Creatures, their forms clad in robes of white and gold, moved about the city's vast courtyards and terraces, their collective presence a low, powerful hum of ordered, ancient power.",
-        "|Location Identified: [Aethelgard – The Gilded Bastion of The First Leader].|",
+        "|Location Identified: [Aethelgard - The Gilded Bastion of The First Leader].|",
         "|Analysis: This appears to be the primary seat of power for the entity known as Gilgamesh in this era. A detailed scan has begun, but a terrifying power, far exceeding the Quadrillions, and the swirling, conflicting weavings of many active Principles, prevent an accurate analysis of all the entities of power and majesty here.|",
         "|Threat Assessment: You have arrived in a region of unprecedented danger and possible opportunities. The highest possible gain from this situation is not escape, but information. A glimpse into how a true Civilization was progressing in the Earliest Folds.|",
         "Noah and Elara were escorted through the great, golden gates of the city, their every move watched by the calm, ancient eyes of the Early Creatures who lined the streets.",
@@ -24906,7 +24840,7 @@
         {
           "id": 22,
           "paragraph_id": 11,
-          "text": "|[The Aegis of the Architect] – Status Update|"
+          "text": "|[The Aegis of the Architect] - Status Update|"
         },
         {
           "id": 23,
@@ -25001,7 +24935,7 @@
         {
           "id": 41,
           "paragraph_id": 28,
-          "text": "|Location Identified: [Aethelgard – The Gilded Bastion of The First Leader].|"
+          "text": "|Location Identified: [Aethelgard - The Gilded Bastion of The First Leader].|"
         },
         {
           "id": 42,

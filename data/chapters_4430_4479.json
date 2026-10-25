@@ -6312,7 +6312,7 @@
     },
     {
       "chapter_index": 4441,
-      "title": "Chapter 4441 Infinite Hunger!VI",
+      "title": "Chapter 4441 Infinite Hunger! VI",
       "url": "https://novelping.com/book/infinite-mana-in-the-apocalypse/chapter-4441-infinite-hungervi",
       "paragraphs": [
         "With such words of finality, Khor harrumphed and turned around.",
@@ -6441,7 +6441,6 @@
         "Hunger and Mana existed in glorious expression, fundamental principles driving all advancement and enabling all growth. Let true Hunger bloom once more without corruption. Let Mana feed it into fruition without limitation.",
         "What was collapsed will rise. What was defiled will be purified. What",
         "was stolen will be reclaimed.[",
-        "****",
         "BOOM!"
       ],
       "sentences": [
@@ -7288,15 +7287,10 @@
         {
           "id": 168,
           "paragraph_id": 126,
-          "text": "****"
-        },
-        {
-          "id": 169,
-          "paragraph_id": 127,
           "text": "BOOM!"
         }
       ],
-      "word_count": 1744
+      "word_count": 1743
     },
     {
       "chapter_index": 4442,
@@ -17480,7 +17474,7 @@
         "Entities in the Sextillions of power were utterly monstrous in their",
         "resilience.",
         "Noah looked at her as he nodded before stating with casual tone.",
-        "\"How is THE Loom, by the way? Since according to your assessment, I and all those around me will face collapse anyway from whatever retaliation comes next...or simply from the Fallout itself, you can share some information about THE Loom, correct?Oh, and you could also indicate where you all concealed the other Vessels of THE Living",
+        "\"How is THE Loom, by the way? Since according to your assessment, I and all those around me will face collapse anyway from whatever retaliation comes next...or simply from the Fallout itself, you can share some information about THE Loom, correct? Oh, and you could also indicate where you all concealed the other Vessels of THE Living",
         "Paradox..."
       ],
       "sentences": [
@@ -17917,15 +17911,20 @@
         {
           "id": 86,
           "paragraph_id": 56,
-          "text": "Since according to your assessment, I and all those around me will face collapse anyway from whatever retaliation comes next...or simply from the Fallout itself, you can share some information about THE Loom, correct?Oh, and you could also indicate where you all concealed the other Vessels of THE Living"
+          "text": "Since according to your assessment, I and all those around me will face collapse anyway from whatever retaliation comes next...or simply from the Fallout itself, you can share some information about THE Loom, correct?"
         },
         {
           "id": 87,
+          "paragraph_id": 56,
+          "text": "Oh, and you could also indicate where you all concealed the other Vessels of THE Living"
+        },
+        {
+          "id": 88,
           "paragraph_id": 57,
           "text": "Paradox..."
         }
       ],
-      "word_count": 1108
+      "word_count": 1109
     },
     {
       "chapter_index": 4459,
@@ -23440,7 +23439,6 @@
         "with barely contained fervor.",
         "\"My father designed my fundamental nature and the Principles instilled within my framework specifically with Perpetual Harvest synergy in mind. The engineering was deliberate and comprehensive. I would require you to... infuse me with substantial quantities of",
         "harvest...\"",
-        "...",
         "She spoke straightforwadly.",
         "Noah nodded with calm acceptance.",
         "\"I will provide that and more. But first...watch what transformation",
@@ -23977,45 +23975,40 @@
         {
           "id": 105,
           "paragraph_id": 69,
-          "text": "..."
+          "text": "She spoke straightforwadly."
         },
         {
           "id": 106,
           "paragraph_id": 70,
-          "text": "She spoke straightforwadly."
+          "text": "Noah nodded with calm acceptance."
         },
         {
           "id": 107,
           "paragraph_id": 71,
-          "text": "Noah nodded with calm acceptance."
+          "text": "\"I will provide that and more."
         },
         {
           "id": 108,
-          "paragraph_id": 72,
-          "text": "\"I will provide that and more."
+          "paragraph_id": 71,
+          "text": "But first...watch what transformation"
         },
         {
           "id": 109,
           "paragraph_id": 72,
-          "text": "But first...watch what transformation"
+          "text": "actually accomplishes at scale.\""
         },
         {
           "id": 110,
           "paragraph_id": 73,
-          "text": "actually accomplishes at scale.\""
+          "text": "...!"
         },
         {
           "id": 111,
           "paragraph_id": 74,
-          "text": "...!"
-        },
-        {
-          "id": 112,
-          "paragraph_id": 75,
           "text": "The massive doorway of the Spire before them pulsed with blinding crimson radiance as a terrifying figure emerged from within!"
         }
       ],
-      "word_count": 1231
+      "word_count": 1230
     },
     {
       "chapter_index": 4469,

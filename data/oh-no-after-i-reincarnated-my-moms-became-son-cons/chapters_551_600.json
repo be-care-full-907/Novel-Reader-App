@@ -651,7 +651,6 @@
         "Freya nodded. She knew that she couldnt involve herself with the matter. Despite being her Onii-samas younger sister on the surface, she wasnt an actual family member of his, so she was not to involve herself with his family affairs, especially when Vyvyan was involved.",
         "That woman is overly terrifying when dealing with business thats related to Onii-sama. Empress Elizabeth was still rational when dealing with these family affairs, but Vyvyan had no rationality to speak of. If I got involved, I might die. Actually, if I chose the wrong side, Im bound to die.",
         "Some mishap must have befallen Miss Lucia. That is certainly the case.But why do I not know about it? I cannot help Onii-sama with this, either.Hopefully he will be able to handle it, and Miss Lucia is safe, particularly her child. If something happens to them, there might be a second war between elves and humanity. The current Prince is not his former self. If somebody harms Lucia, he would dare to kill anybody.",
-        "========",
         "Your Highness?!",
         "Move. Open the door!",
         "Your Highness You",
@@ -1111,50 +1110,45 @@
         {
           "id": 90,
           "paragraph_id": 27,
-          "text": "========"
+          "text": "Your Highness?!"
         },
         {
           "id": 91,
           "paragraph_id": 28,
-          "text": "Your Highness?!"
+          "text": "Move."
         },
         {
           "id": 92,
-          "paragraph_id": 29,
-          "text": "Move."
+          "paragraph_id": 28,
+          "text": "Open the door!"
         },
         {
           "id": 93,
           "paragraph_id": 29,
-          "text": "Open the door!"
+          "text": "Your Highness You"
         },
         {
           "id": 94,
           "paragraph_id": 30,
-          "text": "Your Highness You"
-        },
-        {
-          "id": 95,
-          "paragraph_id": 31,
           "text": "Do I need a pass to enter the elven territory?!"
         },
         {
-          "id": 96,
-          "paragraph_id": 31,
+          "id": 95,
+          "paragraph_id": 30,
           "text": "Move!"
         },
         {
-          "id": 97,
-          "paragraph_id": 31,
+          "id": 96,
+          "paragraph_id": 30,
           "text": "I have to return to Duargana to see my child!"
         },
         {
-          "id": 98,
-          "paragraph_id": 31,
+          "id": 97,
+          "paragraph_id": 30,
           "text": "Get lost!!"
         }
       ],
-      "word_count": 1183
+      "word_count": 1182
     },
     {
       "chapter_index": 553,
@@ -3921,7 +3915,6 @@
         "Dont think too much. Dont think too much. Dont think too much.",
         "Ling Yue shut her eyes tightly to try to prevent herself from overthinking things.",
         "Troy wont abandon me! We definitely wont! Hes just busy right now! He will soon return to my side! Im sure of it! Im sure of it!!",
-        "==============",
         "Current time inside the elven Imperial Palace at Duargana.",
         "My son, you must calm down. You must calm down.",
         "I huffed and puffed. I had my fists clenched tightly. I looked at the elder opposite me. Behind me was Vyvyan, holding me back tightly and stroking my back as she repeatedly told me to calm down next to my ear.",
@@ -4471,70 +4464,65 @@
         {
           "id": 108,
           "paragraph_id": 27,
-          "text": "=============="
+          "text": "Current time inside the elven Imperial Palace at Duargana."
         },
         {
           "id": 109,
           "paragraph_id": 28,
-          "text": "Current time inside the elven Imperial Palace at Duargana."
+          "text": "My son, you must calm down."
         },
         {
           "id": 110,
-          "paragraph_id": 29,
-          "text": "My son, you must calm down."
+          "paragraph_id": 28,
+          "text": "You must calm down."
         },
         {
           "id": 111,
           "paragraph_id": 29,
-          "text": "You must calm down."
-        },
-        {
-          "id": 112,
-          "paragraph_id": 30,
           "text": "I huffed and puffed."
         },
         {
-          "id": 113,
-          "paragraph_id": 30,
+          "id": 112,
+          "paragraph_id": 29,
           "text": "I had my fists clenched tightly."
         },
         {
-          "id": 114,
-          "paragraph_id": 30,
+          "id": 113,
+          "paragraph_id": 29,
           "text": "I looked at the elder opposite me."
+        },
+        {
+          "id": 114,
+          "paragraph_id": 29,
+          "text": "Behind me was Vyvyan, holding me back tightly and stroking my back as she repeatedly told me to calm down next to my ear."
         },
         {
           "id": 115,
           "paragraph_id": 30,
-          "text": "Behind me was Vyvyan, holding me back tightly and stroking my back as she repeatedly told me to calm down next to my ear."
-        },
-        {
-          "id": 116,
-          "paragraph_id": 31,
           "text": "I took in a deep breath."
         },
         {
-          "id": 117,
-          "paragraph_id": 31,
+          "id": 116,
+          "paragraph_id": 30,
           "text": "I forced myself to calm my shaky voice down."
         },
         {
-          "id": 118,
-          "paragraph_id": 31,
+          "id": 117,
+          "paragraph_id": 30,
           "text": "I told him, I really admire you."
         },
         {
-          "id": 119,
-          "paragraph_id": 31,
+          "id": 118,
+          "paragraph_id": 30,
           "text": "As an elder and as my senior, you have managed to infuriate me to this degree twice in the few days we have just gotten acquainted."
         },
         {
-          "id": 120,
-          "paragraph_id": 31,
+          "id": 119,
+          "paragraph_id": 30,
           "text": "You really are something."
         }
       ],
-      "word_count": 1330
+      "word_count": 1329
     },
     {
       "chapter_index": 558,
@@ -7802,7 +7790,6 @@
         "If that works, Im totally fine with doing it a few more times. Ive been trained by Nier. Ling Yue may look really wild, but shes much easier to satisfy than Nier. This is a very weird reason, but I really do need to use Ling Yue to save Lucia right now.",
         "Im only locking Ling Yue in my arms tightly to save Lucia!!",
         "However, I wasnt certain that Ling Yues suggestion would work. If it did, Id take Ling Yue and Lucia back to the North right away. Lucia just needed a highly pure mana source at the moment, which was why she relied on the elven spring water. If we could overcome that, then Lucia could go anywhere. Additionally, I needed to sort things out in the North, as well. Despite me having occupied it, we hadnt resolved the collapse it was facing. I had to get the elven spring water to pass into the North or find an alternative. I needed to find some time to speak to Mommy Vyvyan to decide if I could direct the elven spring water into the North or if I needed to come up with an alternative solution.",
-        "========",
         "Current time at the old Imperial Palace in the North.",
         "So put another way, it is getting colder and colder in the North, correct?",
         "Correct. If the elven spring water does not flow across, the North will continue to remain cold. Initially, the Moon Fox Tribe used themselves to heat up the North. However, Ling Yue will not do that now.",
@@ -8049,365 +8036,360 @@
         {
           "id": 45,
           "paragraph_id": 10,
-          "text": "========"
+          "text": "Current time at the old Imperial Palace in the North."
         },
         {
           "id": 46,
           "paragraph_id": 11,
-          "text": "Current time at the old Imperial Palace in the North."
+          "text": "So put another way, it is getting colder and colder in the North, correct?"
         },
         {
           "id": 47,
           "paragraph_id": 12,
-          "text": "So put another way, it is getting colder and colder in the North, correct?"
-        },
-        {
-          "id": 48,
-          "paragraph_id": 13,
           "text": "Correct."
         },
         {
-          "id": 49,
-          "paragraph_id": 13,
+          "id": 48,
+          "paragraph_id": 12,
           "text": "If the elven spring water does not flow across, the North will continue to remain cold."
         },
         {
-          "id": 50,
-          "paragraph_id": 13,
+          "id": 49,
+          "paragraph_id": 12,
           "text": "Initially, the Moon Fox Tribe used themselves to heat up the North."
+        },
+        {
+          "id": 50,
+          "paragraph_id": 12,
+          "text": "However, Ling Yue will not do that now."
         },
         {
           "id": 51,
           "paragraph_id": 13,
-          "text": "However, Ling Yue will not do that now."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 14,
           "text": "Freya nodded."
         },
         {
-          "id": 53,
-          "paragraph_id": 14,
+          "id": 52,
+          "paragraph_id": 13,
           "text": "She then looked at the soldiers clearing the snow left behind by the accumulated snow."
         },
         {
-          "id": 54,
-          "paragraph_id": 14,
+          "id": 53,
+          "paragraph_id": 13,
           "text": "The snow that tumbled down was cleared thanks to the continuous efforts of the soldiers."
         },
         {
-          "id": 55,
-          "paragraph_id": 14,
+          "id": 54,
+          "paragraph_id": 13,
           "text": "Reconstruction had commenced in an orderly manner."
         },
         {
-          "id": 56,
-          "paragraph_id": 14,
+          "id": 55,
+          "paragraph_id": 13,
           "text": "Freya didnt plunder or do anything as soon as she came."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 13,
+          "text": "She tried to search for all sorts of information on her way over, and then began to join Leah with work once she arrived here."
         },
         {
           "id": 57,
           "paragraph_id": 14,
-          "text": "She tried to search for all sorts of information on her way over, and then began to join Leah with work once she arrived here."
-        },
-        {
-          "id": 58,
-          "paragraph_id": 15,
           "text": "Freya narrowed her eyes."
         },
         {
-          "id": 59,
-          "paragraph_id": 15,
+          "id": 58,
+          "paragraph_id": 14,
           "text": "I am afraid it is not likely to be possible for us to allow the elven spring water to flow here."
         },
         {
-          "id": 60,
-          "paragraph_id": 15,
+          "id": 59,
+          "paragraph_id": 14,
           "text": "This land must have been deprived of the elven spring water for a long time, right?"
         },
         {
-          "id": 61,
-          "paragraph_id": 15,
+          "id": 60,
+          "paragraph_id": 14,
           "text": "The level of mana here should be low?"
         },
         {
-          "id": 62,
-          "paragraph_id": 15,
+          "id": 61,
+          "paragraph_id": 14,
           "text": "Sorry."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 14,
+          "text": "I am a human so I cannot sense mana at all."
         },
         {
           "id": 63,
           "paragraph_id": 15,
-          "text": "I am a human so I cannot sense mana at all."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 16,
           "text": "That should be the case, answered Leah, as she took off her wig."
         },
         {
-          "id": 65,
-          "paragraph_id": 16,
+          "id": 64,
+          "paragraph_id": 15,
           "text": "She walked up to Freya and gave her a warm drink."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 15,
+          "text": "The mana in the Northern lands is virtually non-existent now."
         },
         {
           "id": 66,
           "paragraph_id": 16,
-          "text": "The mana in the Northern lands is virtually non-existent now."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 17,
           "text": "What is the point of asking for the elven spring water, then? asked Freya, with a shake of her head."
         },
         {
-          "id": 68,
-          "paragraph_id": 17,
+          "id": 67,
+          "paragraph_id": 16,
           "text": "She stood up and looked at the large map hanging on the wall."
         },
         {
-          "id": 69,
-          "paragraph_id": 17,
+          "id": 68,
+          "paragraph_id": 16,
           "text": "Allowing the elven spring water to flow here would only restore mana to this land, correct?"
         },
         {
-          "id": 70,
-          "paragraph_id": 17,
+          "id": 69,
+          "paragraph_id": 16,
           "text": "You did not have mana, but you got by without a hitch."
         },
         {
-          "id": 71,
-          "paragraph_id": 17,
+          "id": 70,
+          "paragraph_id": 16,
           "text": "It sounds as though the temperature is what is making life harsh."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 16,
+          "text": "That means that it will be fine as long as we can raise the temperature."
         },
         {
           "id": 72,
           "paragraph_id": 17,
-          "text": "That means that it will be fine as long as we can raise the temperature."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 18,
           "text": "How will we do that without mana?"
         },
         {
-          "id": 74,
-          "paragraph_id": 18,
+          "id": 73,
+          "paragraph_id": 17,
           "text": "We are surrounded by tall mountains and the terrain here is much higher than in the South."
         },
         {
-          "id": 75,
-          "paragraph_id": 18,
+          "id": 74,
+          "paragraph_id": 17,
           "text": "There are also the snowy mountains."
+        },
+        {
+          "id": 75,
+          "paragraph_id": 17,
+          "text": "How will we raise the temperature under these conditions?"
         },
         {
           "id": 76,
           "paragraph_id": 18,
-          "text": "How will we raise the temperature under these conditions?"
-        },
-        {
-          "id": 77,
-          "paragraph_id": 19,
           "text": "Freya replied, There is no need to bring it in from the South."
         },
         {
-          "id": 78,
-          "paragraph_id": 19,
+          "id": 77,
+          "paragraph_id": 18,
           "text": "My onii-sama has more important business to attend to at the moment."
         },
         {
-          "id": 79,
-          "paragraph_id": 19,
+          "id": 78,
+          "paragraph_id": 18,
           "text": "I do not want to distract him with this, so leave it with me."
         },
         {
-          "id": 80,
-          "paragraph_id": 19,
+          "id": 79,
+          "paragraph_id": 18,
           "text": "Do not link everything back to the elves over there."
         },
         {
-          "id": 81,
-          "paragraph_id": 19,
+          "id": 80,
+          "paragraph_id": 18,
           "text": "I admit that elven magic is incredible."
         },
         {
-          "id": 82,
-          "paragraph_id": 19,
+          "id": 81,
+          "paragraph_id": 18,
           "text": "But nevertheless, humanity can now do many things elves would require mana to accomplish."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 18,
+          "text": "Onii-sama conquered this place with humans."
         },
         {
           "id": 83,
           "paragraph_id": 19,
-          "text": "Onii-sama conquered this place with humans."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 20,
           "text": "Leah shook her head this time."
         },
         {
-          "id": 85,
-          "paragraph_id": 20,
+          "id": 84,
+          "paragraph_id": 19,
           "text": "Frankly, no matter who it is, nobody has any special feelings for the elves, as the North has been cut off from them for so long."
         },
         {
-          "id": 86,
-          "paragraph_id": 20,
+          "id": 85,
+          "paragraph_id": 19,
           "text": "We do not necessarily require elves, either."
         },
         {
-          "id": 87,
-          "paragraph_id": 20,
+          "id": 86,
+          "paragraph_id": 19,
           "text": "If humanity can help the North, then humans will be fine, too."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 19,
+          "text": "Do you have an idea?"
         },
         {
           "id": 88,
           "paragraph_id": 20,
-          "text": "Do you have an idea?"
-        },
-        {
-          "id": 89,
-          "paragraph_id": 21,
           "text": "Uhm, I do have an idea, responded Freya."
         },
         {
-          "id": 90,
-          "paragraph_id": 21,
+          "id": 89,
+          "paragraph_id": 20,
           "text": "She looked at her and then pointed at the map of the North on the wall."
         },
         {
-          "id": 91,
-          "paragraph_id": 21,
+          "id": 90,
+          "paragraph_id": 20,
           "text": "According to investigations from our experts in the North, the North may not be able to bring warmth from the South over, but the North can bring in warmth from the ocean."
         },
         {
-          "id": 92,
-          "paragraph_id": 21,
+          "id": 91,
+          "paragraph_id": 20,
           "text": "See this place?"
         },
         {
-          "id": 93,
-          "paragraph_id": 21,
+          "id": 92,
+          "paragraph_id": 20,
           "text": "This is the large mountain to your west."
         },
         {
-          "id": 94,
-          "paragraph_id": 21,
+          "id": 93,
+          "paragraph_id": 20,
           "text": "We just need to blow a hole here, and the warm breeze from the ocean will be able to melt the accumulated snow on the mountains, which will additionally turn your frozen rivers into endlessly flowing rivers."
         },
         {
-          "id": 95,
-          "paragraph_id": 21,
+          "id": 94,
+          "paragraph_id": 20,
           "text": "The warm current will continue to blow throughout the North."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 20,
+          "text": "Will life in the North not be restored if we can warm up the North?"
         },
         {
           "id": 96,
           "paragraph_id": 21,
-          "text": "Will life in the North not be restored if we can warm up the North?"
+          "text": "Mm"
         },
         {
           "id": 97,
           "paragraph_id": 22,
-          "text": "Mm"
-        },
-        {
-          "id": 98,
-          "paragraph_id": 23,
           "text": "The North originally relied on mana to warm it up."
         },
         {
-          "id": 99,
-          "paragraph_id": 23,
+          "id": 98,
+          "paragraph_id": 22,
           "text": "That, however, meant that the North just needed to rely on nature to recover."
         },
         {
-          "id": 100,
-          "paragraph_id": 23,
+          "id": 99,
+          "paragraph_id": 22,
           "text": "If the North continued to rely on the elves spring water, the North would definitely be transformed into its current state should they ever be at odds with the elves."
         },
         {
-          "id": 101,
-          "paragraph_id": 23,
+          "id": 100,
+          "paragraph_id": 22,
           "text": "Freya didnt trust elves; or rather, she wasnt fond of those who werent the same species as her."
+        },
+        {
+          "id": 101,
+          "paragraph_id": 22,
+          "text": "Consequently, Freya wouldnt dig herself a hole."
         },
         {
           "id": 102,
           "paragraph_id": 23,
-          "text": "Consequently, Freya wouldnt dig herself a hole."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 24,
           "text": "Leah looked at Freya."
         },
         {
-          "id": 104,
-          "paragraph_id": 24,
+          "id": 103,
+          "paragraph_id": 23,
           "text": "Her gaze showed that she trusted Freya, but also doubted her at the same time."
         },
         {
-          "id": 105,
-          "paragraph_id": 24,
+          "id": 104,
+          "paragraph_id": 23,
           "text": "She had never heard of something such an idea."
         },
         {
-          "id": 106,
-          "paragraph_id": 24,
+          "id": 105,
+          "paragraph_id": 23,
           "text": "She had only seen the time Troy buried the army of the North using the snow."
         },
         {
-          "id": 107,
-          "paragraph_id": 24,
+          "id": 106,
+          "paragraph_id": 23,
           "text": "She never thought that snow had such a function."
+        },
+        {
+          "id": 107,
+          "paragraph_id": 23,
+          "text": "She never thought that it could change the weather in the North."
         },
         {
           "id": 108,
           "paragraph_id": 24,
-          "text": "She never thought that it could change the weather in the North."
+          "text": "Is she serious?"
         },
         {
           "id": 109,
           "paragraph_id": 25,
-          "text": "Is she serious?"
-        },
-        {
-          "id": 110,
-          "paragraph_id": 26,
           "text": "Freyas smiled showed she was pleased with herself."
         },
         {
-          "id": 111,
-          "paragraph_id": 26,
+          "id": 110,
+          "paragraph_id": 25,
           "text": "It appears that you do not trust me."
         },
         {
-          "id": 112,
-          "paragraph_id": 26,
+          "id": 111,
+          "paragraph_id": 25,
           "text": "Thats fine, though."
         },
         {
-          "id": 113,
-          "paragraph_id": 26,
+          "id": 112,
+          "paragraph_id": 25,
           "text": "You cant stop me even if you dont believe me."
         },
         {
-          "id": 114,
-          "paragraph_id": 26,
+          "id": 113,
+          "paragraph_id": 25,
           "text": "Onii-sama entrusted the North to me, so I will definitely return it to him in one piece, and I will ensure that it is a free and prospering North, not a North that is subjected to the control of others."
         },
         {
-          "id": 115,
-          "paragraph_id": 26,
+          "id": 114,
+          "paragraph_id": 25,
           "text": "We humans can change this land."
         },
         {
-          "id": 116,
-          "paragraph_id": 26,
+          "id": 115,
+          "paragraph_id": 25,
           "text": "We dont need the elves to get involved!"
         }
       ],
-      "word_count": 1384
+      "word_count": 1383
     },
     {
       "chapter_index": 564,
@@ -8434,7 +8416,6 @@
         "Nier looked at the simple letter and hesitated for a moment. She then turned around and told the maids behind her, Make preparations. His Majesty wants me to head to the North. Prepare all the necessities and be ready to leave at all times.",
         "The maids nodded. Understood.",
         "The Valkyries walked up to her side and gently helped her up. Nier stood up with her hand on her belly. She melancholically looked out the window. Winter had past. The warmth of spring had gradually heated up as it welcomed in summer. The flowers outside the window in the flower garden were densely packed side by side. The flowers outside of Troy City formed a sea of flowers. Those things were all materials for burning. The scene was too beautiful. It wouldve been even better if she couldve hugged her lover next to her. Nier looked at the flowers outside the window and let out a heavy sigh.",
-        "=========",
         "Current time at Hilles City.",
         "We should get the rights to rule the North. Our human forces were the main force in the war. The soldiers sacrificed were our rulers soldiers. We were the main force that brought victory, not the elves. We should ask the elves to let us rule the North. The elves do not have the right to occupy the North!",
         "That is right, Your Majesty. We should arrange for a negotiation with the elves as soon as possible while His Majesty is still ruling the North. We should bring the North under our rule as soon as possible. We cannot allow the elves obtain the North. Though we do not understand the North at the moment, not one inch of land is a waste.",
@@ -8883,145 +8864,140 @@
         {
           "id": 87,
           "paragraph_id": 20,
-          "text": "========="
+          "text": "Current time at Hilles City."
         },
         {
           "id": 88,
           "paragraph_id": 21,
-          "text": "Current time at Hilles City."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 22,
           "text": "We should get the rights to rule the North."
         },
         {
-          "id": 90,
-          "paragraph_id": 22,
+          "id": 89,
+          "paragraph_id": 21,
           "text": "Our human forces were the main force in the war."
         },
         {
-          "id": 91,
-          "paragraph_id": 22,
+          "id": 90,
+          "paragraph_id": 21,
           "text": "The soldiers sacrificed were our rulers soldiers."
         },
         {
-          "id": 92,
-          "paragraph_id": 22,
+          "id": 91,
+          "paragraph_id": 21,
           "text": "We were the main force that brought victory, not the elves."
         },
         {
-          "id": 93,
-          "paragraph_id": 22,
+          "id": 92,
+          "paragraph_id": 21,
           "text": "We should ask the elves to let us rule the North."
+        },
+        {
+          "id": 93,
+          "paragraph_id": 21,
+          "text": "The elves do not have the right to occupy the North!"
         },
         {
           "id": 94,
           "paragraph_id": 22,
-          "text": "The elves do not have the right to occupy the North!"
-        },
-        {
-          "id": 95,
-          "paragraph_id": 23,
           "text": "That is right, Your Majesty."
         },
         {
-          "id": 96,
-          "paragraph_id": 23,
+          "id": 95,
+          "paragraph_id": 22,
           "text": "We should arrange for a negotiation with the elves as soon as possible while His Majesty is still ruling the North."
         },
         {
-          "id": 97,
-          "paragraph_id": 23,
+          "id": 96,
+          "paragraph_id": 22,
           "text": "We should bring the North under our rule as soon as possible."
         },
         {
-          "id": 98,
-          "paragraph_id": 23,
+          "id": 97,
+          "paragraph_id": 22,
           "text": "We cannot allow the elves obtain the North."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 22,
+          "text": "Though we do not understand the North at the moment, not one inch of land is a waste."
         },
         {
           "id": 99,
           "paragraph_id": 23,
-          "text": "Though we do not understand the North at the moment, not one inch of land is a waste."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 24,
           "text": "The Empress sat on her throne with her chin resting in her right hand and legs crossed."
         },
         {
-          "id": 101,
-          "paragraph_id": 24,
+          "id": 100,
+          "paragraph_id": 23,
           "text": "She sat there in a very domineering, yet lazy, posture."
         },
         {
-          "id": 102,
-          "paragraph_id": 24,
+          "id": 101,
+          "paragraph_id": 23,
           "text": "She didnt say a word, despite all the voices of her vassals below."
         },
         {
-          "id": 103,
-          "paragraph_id": 24,
+          "id": 102,
+          "paragraph_id": 23,
           "text": "Elizabeth never made her stance clear at conferences, and it was the same this time."
         },
         {
-          "id": 104,
-          "paragraph_id": 24,
+          "id": 103,
+          "paragraph_id": 23,
           "text": "No matter how anxious her subordinates felt after the alliances victory, she didnt utter a word."
+        },
+        {
+          "id": 104,
+          "paragraph_id": 23,
+          "text": "Elizabeth wouldnt nod or shake her head."
         },
         {
           "id": 105,
           "paragraph_id": 24,
-          "text": "Elizabeth wouldnt nod or shake her head."
+          "text": "Thatll be it for today; you may all leave now."
         },
         {
           "id": 106,
           "paragraph_id": 25,
-          "text": "Thatll be it for today; you may all leave now."
+          "text": "Once the time for the meeting was up, the Empress stood up and told her vassals below the meeting was over and ordered them to leave."
         },
         {
           "id": 107,
           "paragraph_id": 26,
-          "text": "Once the time for the meeting was up, the Empress stood up and told her vassals below the meeting was over and ordered them to leave."
+          "text": "The vassals exchanged eye contact with each other."
         },
         {
           "id": 108,
-          "paragraph_id": 27,
-          "text": "The vassals exchanged eye contact with each other."
+          "paragraph_id": 26,
+          "text": "They, too, didnt know what her plans were."
         },
         {
           "id": 109,
           "paragraph_id": 27,
-          "text": "They, too, didnt know what her plans were."
-        },
-        {
-          "id": 110,
-          "paragraph_id": 28,
           "text": "Politicians dont consider a victory the most important part."
         },
         {
-          "id": 111,
-          "paragraph_id": 28,
+          "id": 110,
+          "paragraph_id": 27,
           "text": "What they considered most important were the fruits obtained after the victory."
         },
         {
-          "id": 112,
-          "paragraph_id": 28,
+          "id": 111,
+          "paragraph_id": 27,
           "text": "Normally speaking, the Empress wouldve snatched up the right to rule the North already."
         },
         {
-          "id": 113,
-          "paragraph_id": 28,
+          "id": 112,
+          "paragraph_id": 27,
           "text": "However, she had yet to make any moves this time."
         },
         {
-          "id": 114,
-          "paragraph_id": 28,
+          "id": 113,
+          "paragraph_id": 27,
           "text": "Nobody knew what she was thinking, what plans she had or what to do."
         }
       ],
-      "word_count": 1293
+      "word_count": 1292
     },
     {
       "chapter_index": 565,
@@ -13492,7 +13468,6 @@
         "I couldnt return to Hilles City yet. It upset me, but I didnt have a choice.",
         "I really wanted to see Mommy Elizabeth. I had lots of things I wanted to tell her. I wanted to embrace her. I wanted to have a good rest in her arms. In the past, I didnt want to be a Prince who didnt do anything, but I want to return to being the Prince living in peace for a bit.",
         "I shifted around. The warm water slowly ran over my body. Nier hugged my arm and rested her head on my shoulder with her eyes shut. I didnt know if she was asleep or not. She wore a blissful smile. I pressed my hand gently stomach and slowly stroked it. My wife was by my side, but I didnt have any desire to sleep. I, instead, looked at the sky full of stars and yearned for Mommy Elizabeth, who was far away at Hilles City.",
-        "========",
         "Current time at Hilles City.",
         "Elizabeth sat in her chair with her long black hair behind the chair. Two ladies-in-waiting carefully combed her long hair. Elizabeth was dressed in her loose bathing robe with the tie loosely done up. Her cleavage was basically on display. She had one leg over the other. She leaned back on the chairs backrest and gently fiddled with a gold coin using her fingers. She didnt say a word or reveal any expression. Nobody could tell what mood Elizabeth was in, so it was in their best interest to comb her hair without breaking any strands if staying alive was of any importance to them.",
         "Cut a bit of my hair.",
@@ -13894,105 +13869,100 @@
         {
           "id": 78,
           "paragraph_id": 17,
-          "text": "========"
+          "text": "Current time at Hilles City."
         },
         {
           "id": 79,
           "paragraph_id": 18,
-          "text": "Current time at Hilles City."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 19,
           "text": "Elizabeth sat in her chair with her long black hair behind the chair."
         },
         {
-          "id": 81,
-          "paragraph_id": 19,
+          "id": 80,
+          "paragraph_id": 18,
           "text": "Two ladies-in-waiting carefully combed her long hair."
         },
         {
-          "id": 82,
-          "paragraph_id": 19,
+          "id": 81,
+          "paragraph_id": 18,
           "text": "Elizabeth was dressed in her loose bathing robe with the tie loosely done up."
         },
         {
-          "id": 83,
-          "paragraph_id": 19,
+          "id": 82,
+          "paragraph_id": 18,
           "text": "Her cleavage was basically on display."
         },
         {
-          "id": 84,
-          "paragraph_id": 19,
+          "id": 83,
+          "paragraph_id": 18,
           "text": "She had one leg over the other."
         },
         {
-          "id": 85,
-          "paragraph_id": 19,
+          "id": 84,
+          "paragraph_id": 18,
           "text": "She leaned back on the chairs backrest and gently fiddled with a gold coin using her fingers."
         },
         {
-          "id": 86,
-          "paragraph_id": 19,
+          "id": 85,
+          "paragraph_id": 18,
           "text": "She didnt say a word or reveal any expression."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 18,
+          "text": "Nobody could tell what mood Elizabeth was in, so it was in their best interest to comb her hair without breaking any strands if staying alive was of any importance to them."
         },
         {
           "id": 87,
           "paragraph_id": 19,
-          "text": "Nobody could tell what mood Elizabeth was in, so it was in their best interest to comb her hair without breaking any strands if staying alive was of any importance to them."
+          "text": "Cut a bit of my hair."
         },
         {
           "id": 88,
           "paragraph_id": 20,
-          "text": "Cut a bit of my hair."
+          "text": "A lady-in-waiting lingered."
         },
         {
           "id": 89,
-          "paragraph_id": 21,
-          "text": "A lady-in-waiting lingered."
+          "paragraph_id": 20,
+          "text": "She looked at Elizabeth, who spoke out all of a sudden, and asked, Sorry?"
         },
         {
           "id": 90,
           "paragraph_id": 21,
-          "text": "She looked at Elizabeth, who spoke out all of a sudden, and asked, Sorry?"
-        },
-        {
-          "id": 91,
-          "paragraph_id": 22,
           "text": "Elizabeth replied somewhat irritably."
         },
         {
-          "id": 92,
-          "paragraph_id": 22,
+          "id": 91,
+          "paragraph_id": 21,
           "text": "I said, cut part of my hair, and then place it on the table."
         },
         {
-          "id": 93,
-          "paragraph_id": 22,
+          "id": 92,
+          "paragraph_id": 21,
           "text": "Dont cut it too much."
+        },
+        {
+          "id": 93,
+          "paragraph_id": 21,
+          "text": "One strand will do."
         },
         {
           "id": 94,
           "paragraph_id": 22,
-          "text": "One strand will do."
-        },
-        {
-          "id": 95,
-          "paragraph_id": 23,
           "text": "Elizabeth looked at the letter and envelope on the table."
         },
         {
-          "id": 96,
-          "paragraph_id": 23,
+          "id": 95,
+          "paragraph_id": 22,
           "text": "She then listened to the sound of a scissor carefully snipping."
         },
         {
-          "id": 97,
-          "paragraph_id": 23,
+          "id": 96,
+          "paragraph_id": 22,
           "text": "She revealed a faint smile"
         }
       ],
-      "word_count": 1175
+      "word_count": 1174
     },
     {
       "chapter_index": 573,
@@ -15115,7 +15085,7 @@
         "I lowered my head and pinched Freyas face. I laughed. Thats true. You really have surprised me beyond words, Freya. I never imagined youd be able to return warmth to the North while I was gone, as well. Your idea to bring in warmth was amazing. You even came up with initial phase plans for the North. Youre truly too amazing. You truly are my sister.",
         "Hehehe Freya shyly laughed and then raised her head up to look at me very eagerly.",
         "But its been rough on you, Freya. Its been hard on you to have to do so much work here in the North where everything is scarce. Honestly, I feel incredibly guilty right now. Youre still a kid, yet youve shouldered so much for me. This shouldve been my job.",
-        "Freya shook her head then held my hand. Voice solemn, she replied,No, it is nothing, because I told you that everything of mine is yours. Onii-sama, you are my only family and my only brother. Your business is my business, so I do not feel that it was rough on me Of course If you could fulfil a wish of mine then that would be even better",
+        "Freya shook her head then held my hand. Voice solemn, she replied, No, it is nothing, because I told you that everything of mine is yours. Onii-sama, you are my only family and my only brother. Your business is my business, so I do not feel that it was rough on me Of course If you could fulfil a wish of mine then that would be even better",
         "Freyas gaze shifted around. I looked at her and stroked her head with a smile. Go on. Tell me, Freya. As long as its not ridiculous Wait. Even if my cute sisters request is overboard, I would still do it. Freya, tell me, what do you want me to do?",
         "Freya looked at me somewhat nervously, so she pinched the corner of her clothing. She looked at me and then behind me as though she didnt dare to look in my eyes to make a request. She carefully looked at me and stated her request, Umm Onii-sama Although I know that you still need to bring Miss Lucia and Miss Nier over, and they will be giving birth in just two more months You must be by their sides I know that. Mm I am very concerned about the Princesses, as well But mm",
         "I looked into her eyes and interjected on the spot. Do you want to go out with me?",
@@ -15401,7 +15371,7 @@
         {
           "id": 54,
           "paragraph_id": 9,
-          "text": "Voice solemn, she replied,No, it is nothing, because I told you that everything of mine is yours."
+          "text": "Voice solemn, she replied, No, it is nothing, because I told you that everything of mine is yours."
         },
         {
           "id": 55,
@@ -15694,7 +15664,7 @@
           "text": "J-Just the two of us!"
         }
       ],
-      "word_count": 1229
+      "word_count": 1230
     },
     {
       "chapter_index": 576,
@@ -15705,7 +15675,7 @@
         "The young girl sat up from her bed and then touched her ears. She looked at the maid carrying in a drink and replied, Hmm? No. I am off tomorrow. I dont have any plans. Is Dad coming back tomorrow?",
         "A red silhouette flashed over from behind. She looked at the young girl and frowned. Your father wont make it back tomorrow. He told us to go over. Even though youre at home, arent you too slack?",
         "The maid bowed. Her mom looked at her and gave her a nod. She then placed the drink on the table at the entrance. Her mom turned to look at her daughter and pointed at her.",
-        "The young girl lingered for a short moment ,and then checked her shorts to confirm that the most important part of her perfect body wasnt revealed before lying back down on her bed. She squirmed with her tail and complained, It doesnt matter. Its so hot. If I could, I wouldnt even want to wear clothes. I want to hang my tail out, too. Why do I have to keep it in my skirt?!",
+        "The young girl lingered for a short moment , and then checked her shorts to confirm that the most important part of her perfect body wasnt revealed before lying back down on her bed. She squirmed with her tail and complained, It doesnt matter. Its so hot. If I could, I wouldnt even want to wear clothes. I want to hang my tail out, too. Why do I have to keep it in my skirt?!",
         "Only your husband can stroke your tail! Its indecent to have your tail exposed. Youre a girl, so you must practice the mannerisms of a girl, and protect your tail properly. That is a gift for your future husband. Not only is it about cherishing yourself, but also a form of respect for your husband!",
         "She gently wagged her red tail around in the air. The young girl then sat up and looked at her mom with her eyes narrowed. Her mom wore a very stern expression, but the way she wagged her tail around gave away her true mood already. The young girl mischievously smiled. So youve already prepared your tail for dad?",
         "Her mothers pretty face turned red. Her ears jolted, but she maintained her long face. I am your dads wife, after all. My tail should be reserved for your father to touch, so its fine for me to wait for tomorrow! Not you, though! Put your tail in your skirt properly!",
@@ -15818,7 +15788,7 @@
         {
           "id": 17,
           "paragraph_id": 4,
-          "text": "The young girl lingered for a short moment ,and then checked her shorts to confirm that the most important part of her perfect body wasnt revealed before lying back down on her bed."
+          "text": "The young girl lingered for a short moment , and then checked her shorts to confirm that the most important part of her perfect body wasnt revealed before lying back down on her bed."
         },
         {
           "id": 18,
@@ -16361,7 +16331,7 @@
           "text": "That was when your father returned to the Imperial Palace of the North and officially started his rule."
         }
       ],
-      "word_count": 1348
+      "word_count": 1349
     },
     {
       "chapter_index": 577,
@@ -17492,7 +17462,6 @@
         "No.",
         "Freya snatched the letter over and tore it, turning it into a single sheet of paper and spreading it onto my desk. I looked at the letters inside. There was only one line.",
         "Im pregnant.",
-        "========",
         "Four days later at Karnashun.",
         "Lord Nara, this is a letter from Prince Troy Galadriel Rosvenor.",
         "Somewhat surprised, Nara placed her pen down. She then took the letter Tarak was holding. She looked at the letters on the letter, as well as the heat stamp. Puzzled, she asked, His Majestys letter? I truly dont understand. Why would he send me a letter at this time? Isnt he busy in the North at the moment?",
@@ -17848,235 +17817,230 @@
         {
           "id": 67,
           "paragraph_id": 20,
-          "text": "========"
+          "text": "Four days later at Karnashun."
         },
         {
           "id": 68,
           "paragraph_id": 21,
-          "text": "Four days later at Karnashun."
+          "text": "Lord Nara, this is a letter from Prince Troy Galadriel Rosvenor."
         },
         {
           "id": 69,
           "paragraph_id": 22,
-          "text": "Lord Nara, this is a letter from Prince Troy Galadriel Rosvenor."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 23,
           "text": "Somewhat surprised, Nara placed her pen down."
         },
         {
-          "id": 71,
-          "paragraph_id": 23,
+          "id": 70,
+          "paragraph_id": 22,
           "text": "She then took the letter Tarak was holding."
         },
         {
-          "id": 72,
-          "paragraph_id": 23,
+          "id": 71,
+          "paragraph_id": 22,
           "text": "She looked at the letters on the letter, as well as the heat stamp."
         },
         {
-          "id": 73,
-          "paragraph_id": 23,
+          "id": 72,
+          "paragraph_id": 22,
           "text": "Puzzled, she asked, His Majestys letter?"
         },
         {
-          "id": 74,
-          "paragraph_id": 23,
+          "id": 73,
+          "paragraph_id": 22,
           "text": "I truly dont understand."
         },
         {
-          "id": 75,
-          "paragraph_id": 23,
+          "id": 74,
+          "paragraph_id": 22,
           "text": "Why would he send me a letter at this time?"
+        },
+        {
+          "id": 75,
+          "paragraph_id": 22,
+          "text": "Isnt he busy in the North at the moment?"
         },
         {
           "id": 76,
           "paragraph_id": 23,
-          "text": "Isnt he busy in the North at the moment?"
+          "text": "Mm, you can say that."
         },
         {
           "id": 77,
-          "paragraph_id": 24,
-          "text": "Mm, you can say that."
+          "paragraph_id": 23,
+          "text": "However, His Majesty must require us to do something if he has sent us a letter."
         },
         {
           "id": 78,
           "paragraph_id": 24,
-          "text": "However, His Majesty must require us to do something if he has sent us a letter."
+          "text": "Tarak watched Nara cut the heat stamp with a small knife."
         },
         {
           "id": 79,
-          "paragraph_id": 25,
-          "text": "Tarak watched Nara cut the heat stamp with a small knife."
+          "paragraph_id": 24,
+          "text": "Nara then glanced at Tarak with a mischievous smile, Or maybe hes asking when were getting married."
         },
         {
           "id": 80,
           "paragraph_id": 25,
-          "text": "Nara then glanced at Tarak with a mischievous smile, Or maybe hes asking when were getting married."
+          "text": "Wh-What would your response be, then?"
         },
         {
           "id": 81,
           "paragraph_id": 26,
-          "text": "Wh-What would your response be, then?"
+          "text": "Nara looked at Tarak who was red in the face and smiled, Whenever, of course."
         },
         {
           "id": 82,
           "paragraph_id": 27,
-          "text": "Nara looked at Tarak who was red in the face and smiled, Whenever, of course."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 28,
           "text": "Nara opened the letter."
         },
         {
-          "id": 84,
-          "paragraph_id": 28,
+          "id": 83,
+          "paragraph_id": 27,
           "text": "The letter was very short with few lines."
         },
         {
-          "id": 85,
-          "paragraph_id": 28,
+          "id": 84,
+          "paragraph_id": 27,
           "text": "After reading it, she softly giggled, It seems my Royal Prince is in a bit of a situation."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 27,
+          "text": "This letter was asking for our help or more precisely, to loan money."
         },
         {
           "id": 86,
           "paragraph_id": 28,
-          "text": "This letter was asking for our help or more precisely, to loan money."
+          "text": "Tarak lingered for a moment before asking, Loan money?"
         },
         {
           "id": 87,
-          "paragraph_id": 29,
-          "text": "Tarak lingered for a moment before asking, Loan money?"
+          "paragraph_id": 28,
+          "text": "His Majesty is short on money?"
         },
         {
           "id": 88,
           "paragraph_id": 29,
-          "text": "His Majesty is short on money?"
-        },
-        {
-          "id": 89,
-          "paragraph_id": 30,
           "text": "The Rosvenor Empire wouldnt be short on money."
         },
         {
-          "id": 90,
-          "paragraph_id": 30,
+          "id": 89,
+          "paragraph_id": 29,
           "text": "The same goes for Duargana."
         },
         {
-          "id": 91,
-          "paragraph_id": 30,
+          "id": 90,
+          "paragraph_id": 29,
           "text": "His Majesty, however, will lack money."
         },
         {
-          "id": 92,
-          "paragraph_id": 30,
+          "id": 91,
+          "paragraph_id": 29,
           "text": "Nara responded to Taraks calmly question before folding the letter up."
         },
         {
-          "id": 93,
-          "paragraph_id": 30,
+          "id": 92,
+          "paragraph_id": 29,
           "text": "She stood up and looked to the city outside the window."
         },
         {
-          "id": 94,
-          "paragraph_id": 30,
+          "id": 93,
+          "paragraph_id": 29,
           "text": "With a smile, she elaborated, Thanks to His Majesty, our city had the chance to develop."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 29,
+          "text": "We made a substantial amount of money through the metal, and that money came from the treasure they found."
         },
         {
           "id": 95,
           "paragraph_id": 30,
-          "text": "We made a substantial amount of money through the metal, and that money came from the treasure they found."
+          "text": "So, we"
         },
         {
           "id": 96,
           "paragraph_id": 31,
-          "text": "So, we"
-        },
-        {
-          "id": 97,
-          "paragraph_id": 32,
           "text": "Of course, we will provide assistance to His Majesty, answered Nara, smiling, No matter what perspective you look at it from, His Majesty is our ally, and he has helped us plenty of times."
         },
         {
-          "id": 98,
-          "paragraph_id": 32,
+          "id": 97,
+          "paragraph_id": 31,
           "text": "The favour His Majesty has asked us to help with is not a difficult task."
         },
         {
-          "id": 99,
-          "paragraph_id": 32,
+          "id": 98,
+          "paragraph_id": 31,
           "text": "A problem that can be solved with money isnt a difficult problem to tackle, because money is the easiest thing to make in this world."
         },
         {
-          "id": 100,
-          "paragraph_id": 32,
+          "id": 99,
+          "paragraph_id": 31,
           "text": "Hence, we must help His Majesty with this small request."
         },
         {
-          "id": 101,
-          "paragraph_id": 32,
+          "id": 100,
+          "paragraph_id": 31,
           "text": "His Majesty has his own ambitions and possesses adequate strength."
         },
         {
-          "id": 102,
-          "paragraph_id": 32,
+          "id": 101,
+          "paragraph_id": 31,
           "text": "We must help him with this small request."
         },
         {
-          "id": 103,
-          "paragraph_id": 32,
+          "id": 102,
+          "paragraph_id": 31,
           "text": "From our national treasury, take out Ah, no, from my treasury, sorry."
+        },
+        {
+          "id": 103,
+          "paragraph_id": 31,
+          "text": "Tarak, the dowry I give you may be significantly less now."
         },
         {
           "id": 104,
           "paragraph_id": 32,
-          "text": "Tarak, the dowry I give you may be significantly less now."
-        },
-        {
-          "id": 105,
-          "paragraph_id": 33,
           "text": "It is all right, My Lord."
         },
         {
-          "id": 106,
-          "paragraph_id": 33,
+          "id": 105,
+          "paragraph_id": 32,
           "text": "I have savings, too."
+        },
+        {
+          "id": 106,
+          "paragraph_id": 32,
+          "text": "I might not have money for the wedding with you now."
         },
         {
           "id": 107,
           "paragraph_id": 33,
-          "text": "I might not have money for the wedding with you now."
+          "text": "Tarak looked at his fiance."
         },
         {
           "id": 108,
-          "paragraph_id": 34,
-          "text": "Tarak looked at his fiance."
+          "paragraph_id": 33,
+          "text": "He took out a small key from his breast pocket and placed it on the table."
         },
         {
           "id": 109,
           "paragraph_id": 34,
-          "text": "He took out a small key from his breast pocket and placed it on the table."
-        },
-        {
-          "id": 110,
-          "paragraph_id": 35,
           "text": "That is His Majestys business, then."
         },
         {
-          "id": 111,
-          "paragraph_id": 35,
+          "id": 110,
+          "paragraph_id": 34,
           "text": "Nara closed the letter, and then peered outside the window with a smile."
         },
         {
-          "id": 112,
-          "paragraph_id": 35,
+          "id": 111,
+          "paragraph_id": 34,
           "text": "She supported her chin in her hands and spoke to herself, It seems that our wedding witness and our childs godfather will have to bring a bit more money to have the right to participate in our wedding And our wedding will have to be delayed until His Majesty repays us."
         }
       ],
-      "word_count": 1249
+      "word_count": 1248
     },
     {
       "chapter_index": 580,
@@ -21049,7 +21013,6 @@
         "I just wrote Mommy Elizabrth a letter, asking her if she could come over and see her grandchilds birth while she was at it. Mommy Elizabeth never raised a child. Her heart always ached over the fact that she didnt raise me. She finally had a chance to experience the feeling of raising a child. I guess it could fulfil one of her regrets?",
         "I didnt know if Mommy Elizabeth would come, but even if she did come, she wouldnt be able to stay forever. There was no way she could take my child back to Hilles City, either, because Nier was the childs mother and she, too, loved children. I couldnt force her to be separated from her child for my mothers sake. Most importantly, if I entrusted Mommy Elizabeth with raising my child My child might become relatively violent",
         "Im not accusing her of not knowing how to educate children, but violence was a method she required for her rule. It wasnt good for children to witness her violence. Mommy Vyvyan was a better candidate for the role",
-        "========",
         "Inner Court of humanitys Royal Palace at Hilles City.",
         "Castell, I received a letter from my son.",
         "Castell heavily sighed to himself. He looked at the Empress boastfully flaunting the news, which meant that it was definitely a letter from His Majesty. Her Majesty always acted boastfully as though she won a battle whenever she received a letter from His Majesty. Nevertheless, it was just a letter from her family.",
@@ -21396,250 +21359,245 @@
         {
           "id": 65,
           "paragraph_id": 16,
-          "text": "========"
+          "text": "Inner Court of humanitys Royal Palace at Hilles City."
         },
         {
           "id": 66,
           "paragraph_id": 17,
-          "text": "Inner Court of humanitys Royal Palace at Hilles City."
+          "text": "Castell, I received a letter from my son."
         },
         {
           "id": 67,
           "paragraph_id": 18,
-          "text": "Castell, I received a letter from my son."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 19,
           "text": "Castell heavily sighed to himself."
         },
         {
-          "id": 69,
-          "paragraph_id": 19,
+          "id": 68,
+          "paragraph_id": 18,
           "text": "He looked at the Empress boastfully flaunting the news, which meant that it was definitely a letter from His Majesty."
         },
         {
-          "id": 70,
-          "paragraph_id": 19,
+          "id": 69,
+          "paragraph_id": 18,
           "text": "Her Majesty always acted boastfully as though she won a battle whenever she received a letter from His Majesty."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 18,
+          "text": "Nevertheless, it was just a letter from her family."
         },
         {
           "id": 71,
           "paragraph_id": 19,
-          "text": "Nevertheless, it was just a letter from her family."
+          "text": "Did His Majesty say something?"
         },
         {
           "id": 72,
           "paragraph_id": 20,
-          "text": "Did His Majesty say something?"
+          "text": "Elizabeth looked at Castell with joy and exclaimed, Uhm, Nier is going to give birth soon!"
         },
         {
           "id": 73,
           "paragraph_id": 21,
-          "text": "Elizabeth looked at Castell with joy and exclaimed, Uhm, Nier is going to give birth soon!"
-        },
-        {
-          "id": 74,
-          "paragraph_id": 22,
           "text": "Castell revealed a smile, and then bowed: Congratulations, Your Majesty."
         },
         {
-          "id": 75,
-          "paragraph_id": 22,
+          "id": 74,
+          "paragraph_id": 21,
           "text": "The royal family now has another member."
         },
         {
-          "id": 76,
-          "paragraph_id": 22,
+          "id": 75,
+          "paragraph_id": 21,
           "text": "I understand what you are getting at now."
         },
         {
-          "id": 77,
-          "paragraph_id": 22,
+          "id": 76,
+          "paragraph_id": 21,
           "text": "You want to head to the North, correct?"
         },
         {
-          "id": 78,
-          "paragraph_id": 22,
+          "id": 77,
+          "paragraph_id": 21,
           "text": "You will make it in time if you leave now."
         },
         {
-          "id": 79,
-          "paragraph_id": 22,
+          "id": 78,
+          "paragraph_id": 21,
           "text": "It is all right."
         },
         {
-          "id": 80,
-          "paragraph_id": 22,
+          "id": 79,
+          "paragraph_id": 21,
           "text": "I believe that everybody can understand."
         },
         {
-          "id": 81,
-          "paragraph_id": 22,
+          "id": 80,
+          "paragraph_id": 21,
           "text": "However, you must come back on time."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 21,
+          "text": "Do not leave for good."
         },
         {
           "id": 82,
           "paragraph_id": 22,
-          "text": "Do not leave for good."
+          "text": "Elizabeth nodded: Prepare my stuff for me Ah hmm Lady-in-waiting!!"
         },
         {
           "id": 83,
           "paragraph_id": 23,
-          "text": "Elizabeth nodded: Prepare my stuff for me Ah hmm Lady-in-waiting!!"
+          "text": "A lady-in-waiting entered the room."
         },
         {
           "id": 84,
-          "paragraph_id": 24,
-          "text": "A lady-in-waiting entered the room."
+          "paragraph_id": 23,
+          "text": "She looked at Elizabeth while trembling: Your MajestyWhat are your orders?"
         },
         {
           "id": 85,
           "paragraph_id": 24,
-          "text": "She looked at Elizabeth while trembling: Your MajestyWhat are your orders?"
-        },
-        {
-          "id": 86,
-          "paragraph_id": 25,
           "text": "Mm, what does a newborn require?"
         },
         {
-          "id": 87,
-          "paragraph_id": 25,
+          "id": 86,
+          "paragraph_id": 24,
           "text": "Also, does a woman whos just given birth need any supplemental nutrition?"
         },
         {
-          "id": 88,
-          "paragraph_id": 25,
+          "id": 87,
+          "paragraph_id": 24,
           "text": "My grandchild is going to be born soon."
         },
         {
-          "id": 89,
-          "paragraph_id": 25,
+          "id": 88,
+          "paragraph_id": 24,
           "text": "Im going to head to the North to look after my grandchild now."
         },
         {
-          "id": 90,
-          "paragraph_id": 25,
+          "id": 89,
+          "paragraph_id": 24,
           "text": "Go and see what a newborn and his mother need, and immediately prepare them for me."
         },
         {
-          "id": 91,
-          "paragraph_id": 25,
+          "id": 90,
+          "paragraph_id": 24,
           "text": "Ill be leaving this evening."
         },
         {
-          "id": 92,
-          "paragraph_id": 25,
+          "id": 91,
+          "paragraph_id": 24,
           "text": "If Im missing anything when I reach there, Ill ask to see your heads when I return!"
         },
         {
-          "id": 93,
-          "paragraph_id": 25,
+          "id": 92,
+          "paragraph_id": 24,
           "text": "Dont worry about expenses."
+        },
+        {
+          "id": 93,
+          "paragraph_id": 24,
+          "text": "Just take whatever you need from the warehouse in the Inner Court."
         },
         {
           "id": 94,
           "paragraph_id": 25,
-          "text": "Just take whatever you need from the warehouse in the Inner Court."
+          "text": "Yes Yes The lady-in-waiting trembled as she exited the room."
         },
         {
           "id": 95,
           "paragraph_id": 26,
-          "text": "Yes Yes The lady-in-waiting trembled as she exited the room."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 27,
           "text": "Elizabeth then shifted her gaze toward Castell: Im going alone this time."
         },
         {
-          "id": 97,
-          "paragraph_id": 27,
+          "id": 96,
+          "paragraph_id": 26,
           "text": "I dont need the Valkyries."
         },
         {
-          "id": 98,
-          "paragraph_id": 27,
+          "id": 97,
+          "paragraph_id": 26,
           "text": "You dont need to come with me, either, Castell."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 26,
+          "text": "Ill go alone."
         },
         {
           "id": 99,
           "paragraph_id": 27,
-          "text": "Ill go alone."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 28,
           "text": "Your Majesty!"
         },
         {
-          "id": 101,
-          "paragraph_id": 28,
+          "id": 100,
+          "paragraph_id": 27,
           "text": "The North has only just been occupied."
         },
         {
-          "id": 102,
-          "paragraph_id": 28,
+          "id": 101,
+          "paragraph_id": 27,
           "text": "It is still not a safe place."
+        },
+        {
+          "id": 102,
+          "paragraph_id": 27,
+          "text": "It will be dangerous if you go there without bringing guards!"
         },
         {
           "id": 103,
           "paragraph_id": 28,
-          "text": "It will be dangerous if you go there without bringing guards!"
+          "text": "Elizabeth slammed her hand on the table and imposingly said, Id like to see what danger is!"
         },
         {
           "id": 104,
           "paragraph_id": 29,
-          "text": "Elizabeth slammed her hand on the table and imposingly said, Id like to see what danger is!"
+          "text": "Castell looked at her face and let out a heavy sigh then left the room."
         },
         {
           "id": 105,
           "paragraph_id": 30,
-          "text": "Castell looked at her face and let out a heavy sigh then left the room."
-        },
-        {
-          "id": 106,
-          "paragraph_id": 31,
           "text": "Elizabeth is rarely ever so smug."
         },
         {
-          "id": 107,
-          "paragraph_id": 31,
+          "id": 106,
+          "paragraph_id": 30,
           "text": "Shes likely to run into danger if she does this."
         },
         {
-          "id": 108,
-          "paragraph_id": 31,
+          "id": 107,
+          "paragraph_id": 30,
           "text": "This is the Empress safety were talking about."
+        },
+        {
+          "id": 108,
+          "paragraph_id": 30,
+          "text": "Theres no way we could be so careless."
         },
         {
           "id": 109,
           "paragraph_id": 31,
-          "text": "Theres no way we could be so careless."
-        },
-        {
-          "id": 110,
-          "paragraph_id": 32,
           "text": "Write a letter to His Majesty."
         },
         {
-          "id": 111,
-          "paragraph_id": 32,
+          "id": 110,
+          "paragraph_id": 31,
           "text": "Ask him to send his guards to Hilles City as fast as possible."
         },
         {
-          "id": 112,
-          "paragraph_id": 32,
+          "id": 111,
+          "paragraph_id": 31,
           "text": "Tell him to get his guards to do their best to meet Her Majesty half way there Her Majesty does not want to have bodyguards with her, but she will definitely accept them if His Majesty sent them."
         },
         {
-          "id": 113,
-          "paragraph_id": 32,
+          "id": 112,
+          "paragraph_id": 31,
           "text": "Do not forget to tell His Majesty to not tell Her Majesty we arranged it."
         }
       ],
-      "word_count": 1328
+      "word_count": 1327
     },
     {
       "chapter_index": 586,
@@ -22255,7 +22213,6 @@
         "I scrubbed Tanyas head. She shut her eyes a little and raised her head up as she enjoyed it. She then opened her eyes to look at me and solemnly said, Your Majesty, you can trust her, but you must also find out why Freya is working in this manner nowadays. What is she trying to achieve by working in this manner? In my opinion, no normal person would go all out with work as she is, and yet not tell you. The North is under your control, so what is she trying to achieve by working so diligently?",
         "I nodded: Uhm, Ill go and ask her. Im not asking Freya because I dont trust her. Im just asking, as Im a bit concerned. Her health is going to deteriorate if she works at that rate. Being earnest with work is fine and all; however, its not worth risking your wellbeing for. I can help her, too. Freya has no need to do this.",
         "Tanya nodded: Uhm, all right.",
-        "========",
         "All will be well if I do this",
         "All will be well if I do this",
         "All will be well if I work harder",
@@ -22568,7 +22525,7 @@
         {
           "id": 59,
           "paragraph_id": 14,
-          "text": "========"
+          "text": "All will be well if I do this"
         },
         {
           "id": 60,
@@ -22578,275 +22535,270 @@
         {
           "id": 61,
           "paragraph_id": 16,
-          "text": "All will be well if I do this"
+          "text": "All will be well if I work harder"
         },
         {
           "id": 62,
           "paragraph_id": 17,
-          "text": "All will be well if I work harder"
-        },
-        {
-          "id": 63,
-          "paragraph_id": 18,
           "text": "I must prove my worth."
         },
         {
-          "id": 64,
-          "paragraph_id": 18,
+          "id": 63,
+          "paragraph_id": 17,
           "text": "I must prove that I am the most useful person at His Majestys side."
         },
         {
-          "id": 65,
-          "paragraph_id": 18,
+          "id": 64,
+          "paragraph_id": 17,
           "text": "That girl thinks shes all that, because she protects Onii-sama?"
         },
         {
-          "id": 66,
-          "paragraph_id": 18,
+          "id": 65,
+          "paragraph_id": 17,
           "text": "She thinks shes useful because she protects Onii-sama?"
         },
         {
-          "id": 67,
-          "paragraph_id": 18,
+          "id": 66,
+          "paragraph_id": 17,
           "text": "What Onii-sama needs isnt a bodyguard, but me."
+        },
+        {
+          "id": 67,
+          "paragraph_id": 17,
+          "text": "Me!"
         },
         {
           "id": 68,
           "paragraph_id": 18,
-          "text": "Me!"
-        },
-        {
-          "id": 69,
-          "paragraph_id": 19,
           "text": "Ive served Onii-sama for so long."
         },
         {
-          "id": 70,
-          "paragraph_id": 19,
+          "id": 69,
+          "paragraph_id": 18,
           "text": "Shes just come to Onii-samas side."
         },
         {
-          "id": 71,
-          "paragraph_id": 19,
+          "id": 70,
+          "paragraph_id": 18,
           "text": "What right does she have to be fighting over Onii-sama with me?"
         },
         {
-          "id": 72,
-          "paragraph_id": 19,
+          "id": 71,
+          "paragraph_id": 18,
           "text": "She has no idea how important I am to Onii-sama, yet she still tries to steal Onii-sama from me."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 18,
+          "text": "She wants to steal my Onii-sama!!"
         },
         {
           "id": 73,
           "paragraph_id": 19,
-          "text": "She wants to steal my Onii-sama!!"
-        },
-        {
-          "id": 74,
-          "paragraph_id": 20,
           "text": "Therefore, I must prove to Onii-sama that I am the sister he needs."
         },
         {
-          "id": 75,
-          "paragraph_id": 20,
+          "id": 74,
+          "paragraph_id": 19,
           "text": "I am the Freya he needs."
         },
         {
-          "id": 76,
-          "paragraph_id": 20,
+          "id": 75,
+          "paragraph_id": 19,
           "text": "I just need to prove that."
         },
         {
-          "id": 77,
-          "paragraph_id": 20,
+          "id": 76,
+          "paragraph_id": 19,
           "text": "Onii-sama isnt stupid."
         },
         {
-          "id": 78,
-          "paragraph_id": 20,
+          "id": 77,
+          "paragraph_id": 19,
           "text": "He will choose the sister who is useful to him."
         },
         {
-          "id": 79,
-          "paragraph_id": 20,
+          "id": 78,
+          "paragraph_id": 19,
           "text": "If I help him finish all his work, then he will have time to spend with his wives."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 19,
+          "text": "Then, he will realise that I am the best younger sister, and the younger sister who can help him."
         },
         {
           "id": 80,
           "paragraph_id": 20,
-          "text": "Then, he will realise that I am the best younger sister, and the younger sister who can help him."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 21,
           "text": "I just need to do this I just need to continue giving my best to finish all the work."
         },
         {
-          "id": 82,
-          "paragraph_id": 21,
+          "id": 81,
+          "paragraph_id": 20,
           "text": "I need to make Onii-sama rely on me."
         },
         {
-          "id": 83,
-          "paragraph_id": 21,
+          "id": 82,
+          "paragraph_id": 20,
           "text": "I need to stop Onii-sama from leaving me."
         },
         {
-          "id": 84,
-          "paragraph_id": 21,
+          "id": 83,
+          "paragraph_id": 20,
           "text": "The more His Majesty relies on me the better."
         },
         {
-          "id": 85,
-          "paragraph_id": 21,
+          "id": 84,
+          "paragraph_id": 20,
           "text": "His Majesty must rely on me."
         },
         {
-          "id": 86,
-          "paragraph_id": 21,
+          "id": 85,
+          "paragraph_id": 20,
           "text": "I must convince him to never leave me and stay by my side."
         },
         {
-          "id": 87,
-          "paragraph_id": 21,
+          "id": 86,
+          "paragraph_id": 20,
           "text": "I must make Onii-sama rely on me."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 20,
+          "text": "I must!"
         },
         {
           "id": 88,
           "paragraph_id": 21,
-          "text": "I must!"
-        },
-        {
-          "id": 89,
-          "paragraph_id": 22,
           "text": "Freya lifted her head up out of the ice-cold water."
         },
         {
-          "id": 90,
-          "paragraph_id": 22,
+          "id": 89,
+          "paragraph_id": 21,
           "text": "She watched the water trickle off her face in the mirror."
         },
         {
-          "id": 91,
-          "paragraph_id": 22,
+          "id": 90,
+          "paragraph_id": 21,
           "text": "She had determination written all over her face."
         },
         {
-          "id": 92,
-          "paragraph_id": 22,
+          "id": 91,
+          "paragraph_id": 21,
           "text": "She had lost her family once; she lived the life of a slave in the underground of the church."
         },
         {
-          "id": 93,
-          "paragraph_id": 22,
+          "id": 92,
+          "paragraph_id": 21,
           "text": "Nobody acknowledged her identity despite being at His Majestys side."
         },
         {
-          "id": 94,
-          "paragraph_id": 22,
+          "id": 93,
+          "paragraph_id": 21,
           "text": "They all claimed that she was a contemptible girl who tried to curry favour with His Majesty because of his status."
         },
         {
-          "id": 95,
-          "paragraph_id": 22,
+          "id": 94,
+          "paragraph_id": 21,
           "text": "Not even Her Majesty thought well of her."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 21,
+          "text": "However, His Majesty was different."
         },
         {
           "id": 96,
           "paragraph_id": 22,
-          "text": "However, His Majesty was different."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 23,
           "text": "His Majesty never bothered with others criticisms of her."
         },
         {
-          "id": 98,
-          "paragraph_id": 23,
+          "id": 97,
+          "paragraph_id": 22,
           "text": "He treated her as though she was his biological sister."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 22,
+          "text": "He always thought of her, looked after her, kept her company, and bought all sorts of things for her despite them not knowing each other previously."
         },
         {
           "id": 99,
           "paragraph_id": 23,
-          "text": "He always thought of her, looked after her, kept her company, and bought all sorts of things for her despite them not knowing each other previously."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 24,
           "text": "I felt the warmth I knew in the past from His Majesty."
         },
         {
-          "id": 101,
-          "paragraph_id": 24,
+          "id": 100,
+          "paragraph_id": 23,
           "text": "I have given up my original goal I had in mind when I approached him."
         },
         {
-          "id": 102,
-          "paragraph_id": 24,
+          "id": 101,
+          "paragraph_id": 23,
           "text": "I now only wanted to be an understanding sister forever, but was I not even going to give myself this last chance?"
+        },
+        {
+          "id": 102,
+          "paragraph_id": 23,
+          "text": "Is my final blissful feeling going to be taken from me, too?"
         },
         {
           "id": 103,
           "paragraph_id": 24,
-          "text": "Is my final blissful feeling going to be taken from me, too?"
-        },
-        {
-          "id": 104,
-          "paragraph_id": 25,
           "text": "That was Tanyas declaration of war."
         },
         {
-          "id": 105,
-          "paragraph_id": 25,
+          "id": 104,
+          "paragraph_id": 24,
           "text": "My stupid Onii-sama might not understand, but I do."
         },
         {
-          "id": 106,
-          "paragraph_id": 25,
+          "id": 105,
+          "paragraph_id": 24,
           "text": "Tanya declared war on me."
         },
         {
-          "id": 107,
-          "paragraph_id": 25,
+          "id": 106,
+          "paragraph_id": 24,
           "text": "She challenged me."
         },
         {
-          "id": 108,
-          "paragraph_id": 25,
+          "id": 107,
+          "paragraph_id": 24,
           "text": "I cannot back down, and I cannot cower."
         },
         {
-          "id": 109,
-          "paragraph_id": 25,
+          "id": 108,
+          "paragraph_id": 24,
           "text": "This is my meaning in life."
+        },
+        {
+          "id": 109,
+          "paragraph_id": 24,
+          "text": "I will not allow others to take a share of my treasure."
         },
         {
           "id": 110,
           "paragraph_id": 25,
-          "text": "I will not allow others to take a share of my treasure."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 26,
           "text": "My brother can only be my brother alone."
         },
         {
-          "id": 112,
-          "paragraph_id": 26,
+          "id": 111,
+          "paragraph_id": 25,
           "text": "I wont share with anyone."
         },
         {
-          "id": 113,
-          "paragraph_id": 26,
+          "id": 112,
+          "paragraph_id": 25,
           "text": "I will never give my Onii-sama away!"
         },
         {
-          "id": 114,
-          "paragraph_id": 26,
+          "id": 113,
+          "paragraph_id": 25,
           "text": "Never!!"
         }
       ],
-      "word_count": 1266
+      "word_count": 1265
     },
     {
       "chapter_index": 588,
@@ -24220,7 +24172,6 @@
         "We headed to Ling Yues place under the pretext of investigating how to extract the Brilliant Moon Stone, but in reality, I went with the aim of visting Ling Yue. By my estimates, the North shouldve been up and running after my children were born, so I wouldnt have much time to see Ling Yue by then. Hence, it was my only opportunity to see her and my child.",
         "It didnt take long to get to Ling Yues house from the Imperial Palace. Our approximate arrival was in half-a-days time. Freya sat in my lap and looked around, particularly at Tanya, who was boastfully humming a song. Tanya didnt say a word. She looked at my back with a poker face. In reality, she was pinching on to a corner of my cape I was worried shed pull me down",
         "Gerald was on my right hand side. I didnt pay attention to him, since hes Freyas bodyguard. Firstly, I trust him. Secondly, I dont want to order him. Though he must obey my orders, I hoped that hed disobey my order and prioritise Freyas safety if my order put her at risk. I didnt want to put him in a dilemma, so I wouldnt give him any orders.",
-        "========",
         "Current time at Ling Yues house.",
         "Ling Yue, you dont need to be so excited, do you? Youve been looking out the window ever since you woke up. His Majesty mustve just left. How could he be here so soon?",
         "Evelyn placed the cup in her hand down then looked at Ling Yue, who was sitting by the window drinking tea.",
@@ -24407,365 +24358,360 @@
         {
           "id": 33,
           "paragraph_id": 9,
-          "text": "========"
+          "text": "Current time at Ling Yues house."
         },
         {
           "id": 34,
           "paragraph_id": 10,
-          "text": "Current time at Ling Yues house."
-        },
-        {
-          "id": 35,
-          "paragraph_id": 11,
           "text": "Ling Yue, you dont need to be so excited, do you?"
         },
         {
-          "id": 36,
-          "paragraph_id": 11,
+          "id": 35,
+          "paragraph_id": 10,
           "text": "Youve been looking out the window ever since you woke up."
         },
         {
-          "id": 37,
-          "paragraph_id": 11,
+          "id": 36,
+          "paragraph_id": 10,
           "text": "His Majesty mustve just left."
+        },
+        {
+          "id": 37,
+          "paragraph_id": 10,
+          "text": "How could he be here so soon?"
         },
         {
           "id": 38,
           "paragraph_id": 11,
-          "text": "How could he be here so soon?"
+          "text": "Evelyn placed the cup in her hand down then looked at Ling Yue, who was sitting by the window drinking tea."
         },
         {
           "id": 39,
           "paragraph_id": 12,
-          "text": "Evelyn placed the cup in her hand down then looked at Ling Yue, who was sitting by the window drinking tea."
-        },
-        {
-          "id": 40,
-          "paragraph_id": 13,
           "text": "Ling Yue and company didnt drink tea in the past."
         },
         {
-          "id": 41,
-          "paragraph_id": 13,
+          "id": 40,
+          "paragraph_id": 12,
           "text": "It was a practice exclusive to elves and humans, not to mention the complete difference in the tea elves and humans drank."
+        },
+        {
+          "id": 41,
+          "paragraph_id": 12,
+          "text": "Elven tea was more similar to pressed juice, while humanitys tea was similar tea in the world I came from."
         },
         {
           "id": 42,
           "paragraph_id": 13,
-          "text": "Elven tea was more similar to pressed juice, while humanitys tea was similar tea in the world I came from."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 14,
           "text": "They didnt drink tea in the North, as such leaves didnt exist in the North."
         },
         {
-          "id": 44,
-          "paragraph_id": 14,
+          "id": 43,
+          "paragraph_id": 13,
           "text": "Ling Yue only began drinking tea after knowing me."
         },
         {
-          "id": 45,
-          "paragraph_id": 14,
+          "id": 44,
+          "paragraph_id": 13,
           "text": "She wasnt fond of the taste, in all honesty."
+        },
+        {
+          "id": 45,
+          "paragraph_id": 13,
+          "text": "She just felt that she should partake in the practice, since Lucia and Nier were both ladies with high standing, while she herself was previously from a noble tribe in the North."
         },
         {
           "id": 46,
           "paragraph_id": 14,
-          "text": "She just felt that she should partake in the practice, since Lucia and Nier were both ladies with high standing, while she herself was previously from a noble tribe in the North."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 15,
           "text": "Ling Yue placed her cup to the side, and then let out a soft sigh: I used to think that it was fine even if he didnt come to see me, but when I found out he was coming today, I began to look forward to it."
         },
         {
-          "id": 48,
-          "paragraph_id": 15,
+          "id": 47,
+          "paragraph_id": 14,
           "text": "I really hope he can arrive a little sooner."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 14,
+          "text": "I really want to see him."
         },
         {
           "id": 49,
           "paragraph_id": 15,
-          "text": "I really want to see him."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 16,
           "text": "Evelyn smiled and remarked, Didnt you say you were very rational with love before?"
         },
         {
-          "id": 51,
-          "paragraph_id": 16,
+          "id": 50,
+          "paragraph_id": 15,
           "text": "Seeing the way you look so eager makes me wonder, arent you a woman whos fallen deep in love?"
         },
         {
-          "id": 52,
-          "paragraph_id": 16,
+          "id": 51,
+          "paragraph_id": 15,
           "text": "I dont see how youre different by any account."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 15,
+          "text": "I think Lucia and Nier are looking forward to His Majestys return in the palace the same way you are right now."
         },
         {
           "id": 53,
           "paragraph_id": 16,
-          "text": "I think Lucia and Nier are looking forward to His Majestys return in the palace the same way you are right now."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 17,
           "text": "Ling Yue pouted."
         },
         {
-          "id": 55,
-          "paragraph_id": 17,
+          "id": 54,
+          "paragraph_id": 16,
           "text": "She gently stroked her stomach."
         },
         {
-          "id": 56,
-          "paragraph_id": 17,
+          "id": 55,
+          "paragraph_id": 16,
           "text": "She explained, I feel that I hadnt fallen deep in love when I was still very rational about love."
         },
         {
-          "id": 57,
-          "paragraph_id": 17,
+          "id": 56,
+          "paragraph_id": 16,
           "text": "Now, however, Ive realised that its so blissful to be loved by the opposite gender, especially when you love him, too."
         },
         {
-          "id": 58,
-          "paragraph_id": 17,
+          "id": 57,
+          "paragraph_id": 16,
           "text": "As for Marvel I shouldve given up on him when he closed his door on me when I begged him in tears."
         },
         {
-          "id": 59,
-          "paragraph_id": 17,
+          "id": 58,
+          "paragraph_id": 16,
           "text": "Troy is now my husband."
         },
         {
-          "id": 60,
-          "paragraph_id": 17,
+          "id": 59,
+          "paragraph_id": 16,
           "text": "Its nothing strange for me to look forward to my husbands return, is there?"
         },
         {
-          "id": 61,
-          "paragraph_id": 17,
+          "id": 60,
+          "paragraph_id": 16,
           "text": "Ive always looked forward to my marriage."
         },
         {
-          "id": 62,
-          "paragraph_id": 17,
+          "id": 61,
+          "paragraph_id": 16,
           "text": "My mom told me that marriage is very important to women."
         },
         {
-          "id": 63,
-          "paragraph_id": 17,
+          "id": 62,
+          "paragraph_id": 16,
           "text": "She said that I had to marry a man I loved."
         },
         {
-          "id": 64,
-          "paragraph_id": 17,
+          "id": 63,
+          "paragraph_id": 16,
           "text": "My marriage circumstances are somewhat unusual."
         },
         {
-          "id": 65,
-          "paragraph_id": 17,
+          "id": 64,
+          "paragraph_id": 16,
           "text": "That being said, I still very blissful."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 16,
+          "text": "If he could be by my side, then I would be even happier."
         },
         {
           "id": 66,
           "paragraph_id": 17,
-          "text": "If he could be by my side, then I would be even happier."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 18,
           "text": "Evelyn softly giggled: In other words, youre not very straight forward."
         },
         {
-          "id": 68,
-          "paragraph_id": 18,
+          "id": 67,
+          "paragraph_id": 17,
           "text": "How about flirting with Troy properly this time?"
+        },
+        {
+          "id": 68,
+          "paragraph_id": 17,
+          "text": "You dont get many of these chances, you know?"
         },
         {
           "id": 69,
           "paragraph_id": 18,
-          "text": "You dont get many of these chances, you know?"
-        },
-        {
-          "id": 70,
-          "paragraph_id": 19,
           "text": "Ling Yue giggled in an embarrassing manner."
         },
         {
-          "id": 71,
-          "paragraph_id": 19,
+          "id": 70,
+          "paragraph_id": 18,
           "text": "She then shifted her gaze back outside the window and gazed at the land outside."
         },
         {
-          "id": 72,
-          "paragraph_id": 19,
+          "id": 71,
+          "paragraph_id": 18,
           "text": "Green strands of grass had begun to sprout from the formerly snowy land."
         },
         {
-          "id": 73,
-          "paragraph_id": 19,
+          "id": 72,
+          "paragraph_id": 18,
           "text": "The light green colour covered the brown soil, which represented new life for the seeds in the North."
+        },
+        {
+          "id": 73,
+          "paragraph_id": 18,
+          "text": "At the same time, a new life was gradually growing inside her belly."
         },
         {
           "id": 74,
           "paragraph_id": 19,
-          "text": "At the same time, a new life was gradually growing inside her belly."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 20,
           "text": "A few months ago, she crossed flames and stepped over corpses."
         },
         {
-          "id": 76,
-          "paragraph_id": 20,
+          "id": 75,
+          "paragraph_id": 19,
           "text": "She staggered toward the South she had never been to with all her might."
         },
         {
-          "id": 77,
-          "paragraph_id": 20,
+          "id": 76,
+          "paragraph_id": 19,
           "text": "Her family lay sprawled out on the ground, while her home she grew up in was up in flames."
         },
         {
-          "id": 78,
-          "paragraph_id": 20,
+          "id": 77,
+          "paragraph_id": 19,
           "text": "She was left alone without food or money."
         },
         {
-          "id": 79,
-          "paragraph_id": 20,
+          "id": 78,
+          "paragraph_id": 19,
           "text": "The only person she could depend on closed his doors on her."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 19,
+          "text": "She was left with no choice but to flee to the South, a place she never been to or heard of."
         },
         {
           "id": 80,
           "paragraph_id": 20,
-          "text": "She was left with no choice but to flee to the South, a place she never been to or heard of."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 21,
           "text": "Months later, she returned to the North with her lovers company."
         },
         {
-          "id": 82,
-          "paragraph_id": 21,
+          "id": 81,
+          "paragraph_id": 20,
           "text": "She met her lover in the snowy mountains."
         },
         {
-          "id": 83,
-          "paragraph_id": 21,
+          "id": 82,
+          "paragraph_id": 20,
           "text": "They laughed together, quarrelled with each other and worried for each other and, finally, they ended up together."
         },
         {
-          "id": 84,
-          "paragraph_id": 21,
+          "id": 83,
+          "paragraph_id": 20,
           "text": "He took her side when she was alone after being abandoned by everybody."
+        },
+        {
+          "id": 84,
+          "paragraph_id": 20,
+          "text": "He stood by her side as her knight and took her home."
         },
         {
           "id": 85,
           "paragraph_id": 21,
-          "text": "He stood by her side as her knight and took her home."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 22,
           "text": "Besides giving her everything she needed, he even gave her the love she desired most and a child."
         },
         {
-          "id": 87,
-          "paragraph_id": 22,
+          "id": 86,
+          "paragraph_id": 21,
           "text": "It was all thanks to him that she was able to sit there watching new life sprout."
         },
         {
-          "id": 88,
-          "paragraph_id": 22,
+          "id": 87,
+          "paragraph_id": 21,
           "text": "He gave her another life."
         },
         {
-          "id": 89,
-          "paragraph_id": 22,
+          "id": 88,
+          "paragraph_id": 21,
           "text": "He revived the North, and he gave her a new life."
         },
         {
-          "id": 90,
-          "paragraph_id": 22,
+          "id": 89,
+          "paragraph_id": 21,
           "text": "That was why she loved him in spite of him not being able to always be by her side."
         },
         {
-          "id": 91,
-          "paragraph_id": 22,
+          "id": 90,
+          "paragraph_id": 21,
           "text": "He was her lover."
         },
         {
-          "id": 92,
-          "paragraph_id": 22,
+          "id": 91,
+          "paragraph_id": 21,
           "text": "He was definitely going to love her."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 21,
+          "text": "She was his wife forever."
         },
         {
           "id": 93,
           "paragraph_id": 22,
-          "text": "She was his wife forever."
-        },
-        {
-          "id": 94,
-          "paragraph_id": 23,
           "text": "Evelyn looked at Ling Yue, who was peering outside with a blissful smile."
         },
         {
-          "id": 95,
-          "paragraph_id": 23,
+          "id": 94,
+          "paragraph_id": 22,
           "text": "She then grabbed hold of Leahs hand."
         },
         {
-          "id": 96,
-          "paragraph_id": 23,
+          "id": 95,
+          "paragraph_id": 22,
           "text": "Leah froze up and returned the feelings by interlocking her fingers with Evelyn."
         },
         {
-          "id": 97,
-          "paragraph_id": 23,
+          "id": 96,
+          "paragraph_id": 22,
           "text": "Leah lowered her head and met with Evelyns gaze."
+        },
+        {
+          "id": 97,
+          "paragraph_id": 22,
+          "text": "Evelyn giggled then softly said, Ling Yue just said that being loved by the opposite gender is a very blissful feeling, but I think that being loved by someone of the same gender is also very blissful."
         },
         {
           "id": 98,
           "paragraph_id": 23,
-          "text": "Evelyn giggled then softly said, Ling Yue just said that being loved by the opposite gender is a very blissful feeling, but I think that being loved by someone of the same gender is also very blissful."
-        },
-        {
-          "id": 99,
-          "paragraph_id": 24,
           "text": "Yes, My Queen."
         },
         {
-          "id": 100,
-          "paragraph_id": 24,
+          "id": 99,
+          "paragraph_id": 23,
           "text": "Being loved by you is very blissful, and I am very honoured to be loved by you."
+        },
+        {
+          "id": 100,
+          "paragraph_id": 23,
+          "text": "I could not feel any more honoured and blissful than I feel now."
         },
         {
           "id": 101,
           "paragraph_id": 24,
-          "text": "I could not feel any more honoured and blissful than I feel now."
-        },
-        {
-          "id": 102,
-          "paragraph_id": 25,
           "text": "Me too, my dear Leah."
         },
         {
-          "id": 103,
-          "paragraph_id": 25,
+          "id": 102,
+          "paragraph_id": 24,
           "text": "I love you."
         },
         {
-          "id": 104,
-          "paragraph_id": 25,
+          "id": 103,
+          "paragraph_id": 24,
           "text": "I love you very much."
         }
       ],
-      "word_count": 1303
+      "word_count": 1302
     },
     {
       "chapter_index": 591,
@@ -25997,7 +25943,6 @@
         "I wanted to have both of my moms by my side. Mommy Vyvyan raised me, while Mommy Elizabeth gave birth to me the first time. To me, though, they were both my moms who I loved. I couldnt abandon either of them. They started a war a decade ago for me, but I wouldnt let them fight over anything in the future, for Id always remain by their sides.",
         "We mounted our horses and left immediately after I gave Ling Yue a kiss. Freya sat on my lap again. Freya could actually ride a horse. She just finally became a sister who knew how to act spoilt. She was particularly clingy when I was around. I just felt that Tanya hadnt had much rest on the trip, since she had been in a very sour mood. Ling Yue, who was an anthropoid, was with me and then Freya was, too. I was afraid shed turn to the dark side and cut Freya down.",
         "Freya not so bad. Tanya If she got mad and turned to the dark side, then she might creep up on Freya in the middle of the night to cut her up. I didnt think Gerald could defeat her I take that back. There was no way he could beat her. Tanya was able to behead a warrior as tough Marvel with a single slash, so I didnt think shed even need a blade to butcher Gerald.",
-        "=================",
         "Current time at the Imperial Palace in the North.",
         "Nier, let me see you. Let me see you.",
         "Elizabeth walked into the palace without removing her cape first or paying any heed to the servants who approached her. She walked up to Nier, who came to welcome her. Nier looked at Elizabeth and reactively went down on one knee. Elizabeth swiftly reached her hand out to stop her. She pulled her eyebrows together: What are you thinking? What are you trying to do, Nier? Youre pregnant right now. Youre pregnant with my grandchild right now. What are you trying to do?",
@@ -26382,220 +26327,215 @@
         {
           "id": 74,
           "paragraph_id": 14,
-          "text": "================="
+          "text": "Current time at the Imperial Palace in the North."
         },
         {
           "id": 75,
           "paragraph_id": 15,
-          "text": "Current time at the Imperial Palace in the North."
+          "text": "Nier, let me see you."
         },
         {
           "id": 76,
-          "paragraph_id": 16,
-          "text": "Nier, let me see you."
+          "paragraph_id": 15,
+          "text": "Let me see you."
         },
         {
           "id": 77,
           "paragraph_id": 16,
-          "text": "Let me see you."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 17,
           "text": "Elizabeth walked into the palace without removing her cape first or paying any heed to the servants who approached her."
         },
         {
-          "id": 79,
-          "paragraph_id": 17,
+          "id": 78,
+          "paragraph_id": 16,
           "text": "She walked up to Nier, who came to welcome her."
         },
         {
-          "id": 80,
-          "paragraph_id": 17,
+          "id": 79,
+          "paragraph_id": 16,
           "text": "Nier looked at Elizabeth and reactively went down on one knee."
         },
         {
-          "id": 81,
-          "paragraph_id": 17,
+          "id": 80,
+          "paragraph_id": 16,
           "text": "Elizabeth swiftly reached her hand out to stop her."
         },
         {
-          "id": 82,
-          "paragraph_id": 17,
+          "id": 81,
+          "paragraph_id": 16,
           "text": "She pulled her eyebrows together: What are you thinking?"
         },
         {
-          "id": 83,
-          "paragraph_id": 17,
+          "id": 82,
+          "paragraph_id": 16,
           "text": "What are you trying to do, Nier?"
         },
         {
-          "id": 84,
-          "paragraph_id": 17,
+          "id": 83,
+          "paragraph_id": 16,
           "text": "Youre pregnant right now."
         },
         {
-          "id": 85,
-          "paragraph_id": 17,
+          "id": 84,
+          "paragraph_id": 16,
           "text": "Youre pregnant with my grandchild right now."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 16,
+          "text": "What are you trying to do?"
         },
         {
           "id": 86,
           "paragraph_id": 17,
-          "text": "What are you trying to do?"
+          "text": "Your Majesty I"
         },
         {
           "id": 87,
           "paragraph_id": 18,
-          "text": "Your Majesty I"
+          "text": "You dont need to salute me."
         },
         {
           "id": 88,
-          "paragraph_id": 19,
+          "paragraph_id": 18,
           "text": "You dont need to salute me."
         },
         {
           "id": 89,
-          "paragraph_id": 19,
-          "text": "You dont need to salute me."
+          "paragraph_id": 18,
+          "text": "You need to look after yourself now."
         },
         {
           "id": 90,
-          "paragraph_id": 19,
-          "text": "You need to look after yourself now."
+          "paragraph_id": 18,
+          "text": "Dont let anything happen to you."
         },
         {
           "id": 91,
           "paragraph_id": 19,
-          "text": "Dont let anything happen to you."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 20,
           "text": "Elizabeth removed her leather gloves then tossed them aside."
         },
         {
-          "id": 93,
-          "paragraph_id": 20,
+          "id": 92,
+          "paragraph_id": 19,
           "text": "She crouched down with a smile and gently stroked Niers stomach."
         },
         {
-          "id": 94,
-          "paragraph_id": 20,
+          "id": 93,
+          "paragraph_id": 19,
           "text": "The people around had never actually seen Elizabeth."
         },
         {
-          "id": 95,
-          "paragraph_id": 20,
+          "id": 94,
+          "paragraph_id": 19,
           "text": "Seeing Elizabeth smile, they had no idea what to do."
         },
         {
-          "id": 96,
-          "paragraph_id": 20,
+          "id": 95,
+          "paragraph_id": 19,
           "text": "Elizabeth softly said, My grandchild, my grandchild. my grandchild."
         },
         {
-          "id": 97,
-          "paragraph_id": 20,
+          "id": 96,
+          "paragraph_id": 19,
           "text": "My sons child, my sons child."
         },
         {
+          "id": 97,
+          "paragraph_id": 19,
+          "text": "Im so glad."
+        },
+        {
           "id": 98,
-          "paragraph_id": 20,
+          "paragraph_id": 19,
           "text": "Im so glad."
         },
         {
           "id": 99,
           "paragraph_id": 20,
-          "text": "Im so glad."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 21,
           "text": "She finally stood up after a long time passed."
         },
         {
-          "id": 101,
-          "paragraph_id": 21,
+          "id": 100,
+          "paragraph_id": 20,
           "text": "She gave Nier a kiss on her face."
         },
         {
-          "id": 102,
-          "paragraph_id": 21,
+          "id": 101,
+          "paragraph_id": 20,
           "text": "Nier was surprised by the gesture."
         },
         {
-          "id": 103,
-          "paragraph_id": 21,
+          "id": 102,
+          "paragraph_id": 20,
           "text": "She was so excited that she didnt know what to do."
         },
         {
-          "id": 104,
-          "paragraph_id": 21,
+          "id": 103,
+          "paragraph_id": 20,
           "text": "Elizabeth turned around."
         },
         {
-          "id": 105,
-          "paragraph_id": 21,
+          "id": 104,
+          "paragraph_id": 20,
           "text": "She removed her cape and tossed it aside."
         },
         {
-          "id": 106,
-          "paragraph_id": 21,
+          "id": 105,
+          "paragraph_id": 20,
           "text": "A servant quickly picked her cape up in a flustered fashion."
         },
         {
-          "id": 107,
-          "paragraph_id": 21,
+          "id": 106,
+          "paragraph_id": 20,
           "text": "Elizabeth gave him a cold look: If you were at Hilles City, your head would be rolling on the ground right now."
+        },
+        {
+          "id": 107,
+          "paragraph_id": 20,
+          "text": "However, youre my sons servant, so I shall forgive you for your foolishness."
         },
         {
           "id": 108,
           "paragraph_id": 21,
-          "text": "However, youre my sons servant, so I shall forgive you for your foolishness."
+          "text": "Y-Yes, Your Majesty"
         },
         {
           "id": 109,
           "paragraph_id": 22,
-          "text": "Y-Yes, Your Majesty"
-        },
-        {
-          "id": 110,
-          "paragraph_id": 23,
           "text": "All right."
         },
         {
-          "id": 111,
-          "paragraph_id": 23,
+          "id": 110,
+          "paragraph_id": 22,
           "text": "You can all leave."
         },
         {
-          "id": 112,
-          "paragraph_id": 23,
+          "id": 111,
+          "paragraph_id": 22,
           "text": "I heard Queen Vyvyan is here, too."
         },
         {
-          "id": 113,
-          "paragraph_id": 23,
+          "id": 112,
+          "paragraph_id": 22,
           "text": "Im going to pay my old friend a visit now."
         },
         {
-          "id": 114,
-          "paragraph_id": 23,
+          "id": 113,
+          "paragraph_id": 22,
           "text": "You dont need to follow me."
         },
         {
-          "id": 115,
-          "paragraph_id": 23,
+          "id": 114,
+          "paragraph_id": 22,
           "text": "Look after Nier, instead."
         },
         {
-          "id": 116,
-          "paragraph_id": 23,
+          "id": 115,
+          "paragraph_id": 22,
           "text": "I cant order someone to kill you if something happens to her, but I can personally dig your brain out!"
         }
       ],
-      "word_count": 1261
+      "word_count": 1260
     },
     {
       "chapter_index": 594,
@@ -27215,7 +27155,6 @@
         "Tanya nodded, and then gave me a smile. I rubbed her small head: Dont come in first. Stay at the door. Mommy Elizabeth wont want to be disturbed by anybody when she meets me again.",
         "Tanya nodded: All right.",
         "I turned and let a group to the entrance of my own Imperial Palace. The Imperial Palace was my most blissful home at this point. My moms and wives were about to give birth in the Imperial Palace.",
-        "========",
         "My son is coming! My son is coming in! Hurry! Hurry!!",
         "Elizabeth tightly gripped the flower in her hand. She played with the long, thin and curved flower with her fingers. The white and pink flower released its scent into the air. It reflected the nervous and eager look of the beauty. Her white face contained a tinge of pink as though she was shy. The ladies-in-waiting kept busy around her, helping her with her makeup and adjusting her beautiful hair.",
         "Elizabeth nervously checked herself in the mirror. She checked to see if she had any wrinkles on her beautiful face. She checked her clothes. Honestly, she didnt sleep well last night, for she couldnt decide what to wear to see her son.",
@@ -27393,435 +27332,430 @@
         {
           "id": 30,
           "paragraph_id": 9,
-          "text": "========"
-        },
-        {
-          "id": 31,
-          "paragraph_id": 10,
           "text": "My son is coming!"
         },
         {
-          "id": 32,
-          "paragraph_id": 10,
+          "id": 31,
+          "paragraph_id": 9,
           "text": "My son is coming in!"
         },
         {
-          "id": 33,
-          "paragraph_id": 10,
+          "id": 32,
+          "paragraph_id": 9,
           "text": "Hurry!"
+        },
+        {
+          "id": 33,
+          "paragraph_id": 9,
+          "text": "Hurry!!"
         },
         {
           "id": 34,
           "paragraph_id": 10,
-          "text": "Hurry!!"
-        },
-        {
-          "id": 35,
-          "paragraph_id": 11,
           "text": "Elizabeth tightly gripped the flower in her hand."
         },
         {
-          "id": 36,
-          "paragraph_id": 11,
+          "id": 35,
+          "paragraph_id": 10,
           "text": "She played with the long, thin and curved flower with her fingers."
         },
         {
-          "id": 37,
-          "paragraph_id": 11,
+          "id": 36,
+          "paragraph_id": 10,
           "text": "The white and pink flower released its scent into the air."
         },
         {
-          "id": 38,
-          "paragraph_id": 11,
+          "id": 37,
+          "paragraph_id": 10,
           "text": "It reflected the nervous and eager look of the beauty."
         },
         {
-          "id": 39,
-          "paragraph_id": 11,
+          "id": 38,
+          "paragraph_id": 10,
           "text": "Her white face contained a tinge of pink as though she was shy."
+        },
+        {
+          "id": 39,
+          "paragraph_id": 10,
+          "text": "The ladies-in-waiting kept busy around her, helping her with her makeup and adjusting her beautiful hair."
         },
         {
           "id": 40,
           "paragraph_id": 11,
-          "text": "The ladies-in-waiting kept busy around her, helping her with her makeup and adjusting her beautiful hair."
-        },
-        {
-          "id": 41,
-          "paragraph_id": 12,
           "text": "Elizabeth nervously checked herself in the mirror."
         },
         {
-          "id": 42,
-          "paragraph_id": 12,
+          "id": 41,
+          "paragraph_id": 11,
           "text": "She checked to see if she had any wrinkles on her beautiful face."
         },
         {
-          "id": 43,
-          "paragraph_id": 12,
+          "id": 42,
+          "paragraph_id": 11,
           "text": "She checked her clothes."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 11,
+          "text": "Honestly, she didnt sleep well last night, for she couldnt decide what to wear to see her son."
         },
         {
           "id": 44,
           "paragraph_id": 12,
-          "text": "Honestly, she didnt sleep well last night, for she couldnt decide what to wear to see her son."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 13,
           "text": "She didnt know why, but she was nervous in front of her son."
         },
         {
-          "id": 46,
-          "paragraph_id": 13,
+          "id": 45,
+          "paragraph_id": 12,
           "text": "In the past, she felt nervous, for she had never seen her son and wanted to see him."
         },
         {
-          "id": 47,
-          "paragraph_id": 13,
+          "id": 46,
+          "paragraph_id": 12,
           "text": "That sort of nervousness was the type where she didnt know what to do."
         },
         {
-          "id": 48,
-          "paragraph_id": 13,
+          "id": 47,
+          "paragraph_id": 12,
           "text": "Nowadays, however, she was completely different."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 12,
+          "text": "She was now considering what sort of clothes would make him happy."
         },
         {
           "id": 49,
           "paragraph_id": 13,
-          "text": "She was now considering what sort of clothes would make him happy."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 14,
           "text": "Would my son be disappointed to see me wearing a military uniform as I did before?"
         },
         {
-          "id": 51,
-          "paragraph_id": 14,
+          "id": 50,
+          "paragraph_id": 13,
           "text": "But Ill be the same as Nier and Lucia in this dress."
         },
         {
-          "id": 52,
-          "paragraph_id": 14,
+          "id": 51,
+          "paragraph_id": 13,
           "text": "The cut of this dress comes down too low."
         },
         {
-          "id": 53,
-          "paragraph_id": 14,
+          "id": 52,
+          "paragraph_id": 13,
           "text": "Ill feel too shy seeing my son in this dress So, so what should I wear?"
         },
         {
-          "id": 54,
-          "paragraph_id": 14,
+          "id": 53,
+          "paragraph_id": 13,
           "text": "What sort of clothes does my son like?"
         },
         {
-          "id": 55,
-          "paragraph_id": 14,
+          "id": 54,
+          "paragraph_id": 13,
           "text": "What sort of me does my son like?"
+        },
+        {
+          "id": 55,
+          "paragraph_id": 13,
+          "text": "Will he be pleasantly surprised to see me, like this? wondered Elizabeth."
         },
         {
           "id": 56,
           "paragraph_id": 14,
-          "text": "Will he be pleasantly surprised to see me, like this? wondered Elizabeth."
-        },
-        {
-          "id": 57,
-          "paragraph_id": 15,
           "text": "All right, all right, all of you leave."
         },
         {
-          "id": 58,
-          "paragraph_id": 15,
+          "id": 57,
+          "paragraph_id": 14,
           "text": "Leave."
+        },
+        {
+          "id": 58,
+          "paragraph_id": 14,
+          "text": "Leave me in here alone."
         },
         {
           "id": 59,
           "paragraph_id": 15,
-          "text": "Leave me in here alone."
-        },
-        {
-          "id": 60,
-          "paragraph_id": 16,
           "text": "They finally finished dolling her up."
         },
         {
-          "id": 61,
-          "paragraph_id": 16,
+          "id": 60,
+          "paragraph_id": 15,
           "text": "Elizabeth held the flower and stood up."
         },
         {
-          "id": 62,
-          "paragraph_id": 16,
+          "id": 61,
+          "paragraph_id": 15,
           "text": "Her long black dress touched the ground."
         },
         {
-          "id": 63,
-          "paragraph_id": 16,
+          "id": 62,
+          "paragraph_id": 15,
           "text": "A sea-blue sapphire hung from her neck, highlighting her white skin."
         },
         {
-          "id": 64,
-          "paragraph_id": 16,
+          "id": 63,
+          "paragraph_id": 15,
           "text": "Elizabeth fixed her hair in a flustered fashion."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 15,
+          "text": "She covered her ears with her hair by her ears, but left her earlobes exposed."
         },
         {
           "id": 65,
           "paragraph_id": 16,
-          "text": "She covered her ears with her hair by her ears, but left her earlobes exposed."
-        },
-        {
-          "id": 66,
-          "paragraph_id": 17,
           "text": "She couldnt stop pursing her lips, trying to find her best look."
         },
         {
-          "id": 67,
-          "paragraph_id": 17,
+          "id": 66,
+          "paragraph_id": 16,
           "text": "She was also worried that doing that would wash away her lipstick."
         },
         {
-          "id": 68,
-          "paragraph_id": 17,
+          "id": 67,
+          "paragraph_id": 16,
           "text": "She stroked her face and her lips."
         },
         {
-          "id": 69,
-          "paragraph_id": 17,
+          "id": 68,
+          "paragraph_id": 16,
           "text": "That night with the fireworks resurfaced in her mind."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 16,
+          "text": "The truth was that she noticed herself smiling when she sometimes dreamt of that night."
         },
         {
           "id": 70,
           "paragraph_id": 17,
-          "text": "The truth was that she noticed herself smiling when she sometimes dreamt of that night."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 18,
           "text": "She realised that she seemed to want to relive that night."
         },
         {
-          "id": 72,
-          "paragraph_id": 18,
+          "id": 71,
+          "paragraph_id": 17,
           "text": "She wanted a night where shed be embraced and kissed."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 17,
+          "text": "She wanted to become a normal woman in a mans arm, as he treated her to his tender kiss."
         },
         {
           "id": 73,
           "paragraph_id": 18,
-          "text": "She wanted to become a normal woman in a mans arm, as he treated her to his tender kiss."
-        },
-        {
-          "id": 74,
-          "paragraph_id": 19,
           "text": "She had been an Empress for too long."
         },
         {
-          "id": 75,
-          "paragraph_id": 19,
+          "id": 74,
+          "paragraph_id": 18,
           "text": "She had worn the mask of an Empress for too long."
         },
         {
-          "id": 76,
-          "paragraph_id": 19,
+          "id": 75,
+          "paragraph_id": 18,
           "text": "She hadnt experienced that blissful and tender feeling in too long."
         },
         {
-          "id": 77,
-          "paragraph_id": 19,
+          "id": 76,
+          "paragraph_id": 18,
           "text": "However, she found the bliss of leaning on her husbands chest and stargazing, as well as the shyness she felt when her husband saw her entering the bath."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 18,
+          "text": "She found that contradictory feeling of wanting him to leave, but then also eager for him to embrace her."
         },
         {
           "id": 78,
           "paragraph_id": 19,
-          "text": "She found that contradictory feeling of wanting him to leave, but then also eager for him to embrace her."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 20,
           "text": "That was the sentiment of being in love and the beauty of love."
         },
         {
-          "id": 80,
-          "paragraph_id": 20,
+          "id": 79,
+          "paragraph_id": 19,
           "text": "That was the most blissful period in her life."
         },
         {
-          "id": 81,
-          "paragraph_id": 20,
+          "id": 80,
+          "paragraph_id": 19,
           "text": "It didnt last long, but it brightened up her life more than anything could."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 19,
+          "text": "She felt that period was more blissful and breathtaking notwithstanding her being the Empress of an entire empire."
         },
         {
           "id": 82,
           "paragraph_id": 20,
-          "text": "She felt that period was more blissful and breathtaking notwithstanding her being the Empress of an entire empire."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 21,
           "text": "It had been a very long time, but she hadnt searched for that feeling again."
         },
         {
-          "id": 84,
-          "paragraph_id": 21,
+          "id": 83,
+          "paragraph_id": 20,
           "text": "She thought she had forgotten that feeling and no longer desired it."
+        },
+        {
+          "id": 84,
+          "paragraph_id": 20,
+          "text": "She felt it again, though, which led to her thinking about how much she desired that feeling and how much she was willing to enjoy that sort of love."
         },
         {
           "id": 85,
           "paragraph_id": 21,
-          "text": "She felt it again, though, which led to her thinking about how much she desired that feeling and how much she was willing to enjoy that sort of love."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 22,
           "text": "She learnt that the feeling of love was what she desired most."
         },
         {
-          "id": 87,
-          "paragraph_id": 22,
+          "id": 86,
+          "paragraph_id": 21,
           "text": "The feeling of that sort of love had hit her once, and she had a desire to pursue it."
         },
         {
-          "id": 88,
-          "paragraph_id": 22,
+          "id": 87,
+          "paragraph_id": 21,
           "text": "She wanted to be locked in an embrace again."
         },
         {
-          "id": 89,
-          "paragraph_id": 22,
+          "id": 88,
+          "paragraph_id": 21,
           "text": "She wanted to be held in someones arms and kissed."
         },
         {
-          "id": 90,
-          "paragraph_id": 22,
+          "id": 89,
+          "paragraph_id": 21,
           "text": "She wanted to lean on husband or son again."
         },
         {
-          "id": 91,
-          "paragraph_id": 22,
+          "id": 90,
+          "paragraph_id": 21,
           "text": "The two of them were far too similar."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 21,
+          "text": "Whether it was their faces or expressions, the warmth or the gentleness of their lips, they were too similar."
         },
         {
           "id": 92,
           "paragraph_id": 22,
-          "text": "Whether it was their faces or expressions, the warmth or the gentleness of their lips, they were too similar."
-        },
-        {
-          "id": 93,
-          "paragraph_id": 23,
           "text": "*Knock."
         },
         {
-          "id": 94,
-          "paragraph_id": 23,
+          "id": 93,
+          "paragraph_id": 22,
           "text": "Knock."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 22,
+          "text": "Knock.*"
         },
         {
           "id": 95,
           "paragraph_id": 23,
-          "text": "Knock.*"
-        },
-        {
-          "id": 96,
-          "paragraph_id": 24,
           "text": "Aaahh!!"
         },
         {
-          "id": 97,
-          "paragraph_id": 24,
+          "id": 96,
+          "paragraph_id": 23,
           "text": "Elizabeth almost tossed the flower in her hand away."
         },
         {
-          "id": 98,
-          "paragraph_id": 24,
+          "id": 97,
+          "paragraph_id": 23,
           "text": "She nervously checked herself in the mirror again."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 23,
+          "text": "She adjusted her hair and clothes, and then took in a deep breath before walking to the door."
         },
         {
           "id": 99,
           "paragraph_id": 24,
-          "text": "She adjusted her hair and clothes, and then took in a deep breath before walking to the door."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 25,
           "text": "I took in a deep breath before adjusting my collar."
         },
         {
-          "id": 101,
-          "paragraph_id": 25,
+          "id": 100,
+          "paragraph_id": 24,
           "text": "Honestly, I never thought Id be so nervous to see my mom."
         },
         {
-          "id": 102,
-          "paragraph_id": 25,
+          "id": 101,
+          "paragraph_id": 24,
           "text": "I kind of regretted removing my cape."
+        },
+        {
+          "id": 102,
+          "paragraph_id": 24,
+          "text": "I felt as though I looked better with my cape."
         },
         {
           "id": 103,
           "paragraph_id": 25,
-          "text": "I felt as though I looked better with my cape."
+          "text": "I checked my boots."
         },
         {
           "id": 104,
           "paragraph_id": 26,
-          "text": "I checked my boots."
+          "text": "Theyre fine."
         },
         {
           "id": 105,
-          "paragraph_id": 27,
+          "paragraph_id": 26,
           "text": "Theyre fine."
         },
         {
           "id": 106,
           "paragraph_id": 27,
-          "text": "Theyre fine."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 28,
           "text": "I was on my steed the entire time, so I didnt have much mud on them."
         },
         {
-          "id": 108,
-          "paragraph_id": 28,
+          "id": 107,
+          "paragraph_id": 27,
           "text": "My appearance was acceptable."
+        },
+        {
+          "id": 108,
+          "paragraph_id": 27,
+          "text": "I took in another deep breath."
         },
         {
           "id": 109,
           "paragraph_id": 28,
-          "text": "I took in another deep breath."
+          "text": "Come in."
         },
         {
           "id": 110,
           "paragraph_id": 29,
-          "text": "Come in."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 30,
           "text": "I heard Elizabeths voice I was familiar with from inside."
         },
         {
-          "id": 112,
-          "paragraph_id": 30,
+          "id": 111,
+          "paragraph_id": 29,
           "text": "I grabbed the door handle then looked at Tanya and made a hush gesture with my finger on my lips."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 29,
+          "text": "I then frantically suppressed my palpitating heart and pushed the door open."
         },
         {
           "id": 113,
           "paragraph_id": 30,
-          "text": "I then frantically suppressed my palpitating heart and pushed the door open."
-        },
-        {
-          "id": 114,
-          "paragraph_id": 31,
           "text": "I didnt know why I felt so nervous, either."
         },
         {
-          "id": 115,
-          "paragraph_id": 31,
+          "id": 114,
+          "paragraph_id": 30,
           "text": "She was just my mom, but I felt that the nervous feeling wasnt a bad thing."
         }
       ],
-      "word_count": 1222
+      "word_count": 1221
     },
     {
       "chapter_index": 596,
@@ -27859,7 +27793,6 @@
         "Frankly, I was more nervous than she was. I could even hear my own heartbeat.",
         "Mommy Elizabeth seemed to lean in toward me She held me in my arms. I felt her breathing from her nose right in front of mine.",
         "Wait! Wait! What is she doing?! Why is she coming closer and closer?!",
-        "========",
         "Ten minutes later outside the room.",
         "Onii-sama and Her Majesty have both gone silent. Could something have happened inside?",
         "Freya looked at the door with a hint of concern. She carefully knocked on the door, but there was no response. Freya was stupefied and unsure of what to do. That was when Tanya pushed the door open with one hand.",
@@ -28472,70 +28405,65 @@
         {
           "id": 120,
           "paragraph_id": 31,
-          "text": "========"
+          "text": "Ten minutes later outside the room."
         },
         {
           "id": 121,
           "paragraph_id": 32,
-          "text": "Ten minutes later outside the room."
+          "text": "Onii-sama and Her Majesty have both gone silent."
         },
         {
           "id": 122,
-          "paragraph_id": 33,
-          "text": "Onii-sama and Her Majesty have both gone silent."
+          "paragraph_id": 32,
+          "text": "Could something have happened inside?"
         },
         {
           "id": 123,
           "paragraph_id": 33,
-          "text": "Could something have happened inside?"
-        },
-        {
-          "id": 124,
-          "paragraph_id": 34,
           "text": "Freya looked at the door with a hint of concern."
         },
         {
-          "id": 125,
-          "paragraph_id": 34,
+          "id": 124,
+          "paragraph_id": 33,
           "text": "She carefully knocked on the door, but there was no response."
         },
         {
-          "id": 126,
-          "paragraph_id": 34,
+          "id": 125,
+          "paragraph_id": 33,
           "text": "Freya was stupefied and unsure of what to do."
+        },
+        {
+          "id": 126,
+          "paragraph_id": 33,
+          "text": "That was when Tanya pushed the door open with one hand."
         },
         {
           "id": 127,
           "paragraph_id": 34,
-          "text": "That was when Tanya pushed the door open with one hand."
+          "text": "Tanya!! brayed Freya."
         },
         {
           "id": 128,
           "paragraph_id": 35,
-          "text": "Tanya!! brayed Freya."
+          "text": "Tanya ignored her and went inside."
         },
         {
           "id": 129,
-          "paragraph_id": 36,
-          "text": "Tanya ignored her and went inside."
+          "paragraph_id": 35,
+          "text": "She stood there for a moment, and then swiftly exited."
         },
         {
           "id": 130,
           "paragraph_id": 36,
-          "text": "She stood there for a moment, and then swiftly exited."
+          "text": "Whats wrong? asked Freya"
         },
         {
           "id": 131,
           "paragraph_id": 37,
-          "text": "Whats wrong? asked Freya"
-        },
-        {
-          "id": 132,
-          "paragraph_id": 38,
           "text": "Mm His Majesty and Her Majesty are sleeping mm holding each other So, I think mm We shouldnt disturb them"
         }
       ],
-      "word_count": 1274
+      "word_count": 1273
     },
     {
       "chapter_index": 597,
@@ -28559,7 +28487,7 @@
         "How could Luna be revived? Could she be revived? According to my initial thoughts, the answer was no. The dead couldnt be revived. That was a rule set in stone. However, I wasnt in the same world as the one I came from. This was a new world. This was a world filled with things that didnt exist in the world I came from.",
         "Luna might have a chance. I decided, I need to find her a new heart. Ill look into it once I finish my duties.",
         "I stood up. I wiped myself dry and then picked up my clothes by the side. Next was the banquet to welcome Mommy Elizabeth to the North. A minor accident occurred at the last banquet to welcome Mommy Vyvyan, but I didnt think thered be an issue this time. If I was late again this time, Freya wouldnt help me hold banquets again.",
-        "I got dressed then returned to my room. The lady-in-waiting came up to begin putting on makeup. My makeup was done very quickly. I basically didnt need any makeup. The ladies-in-waiting remarked that my skin and appearance were decent thanks to my two moms. It was just that I wasn;t like my father. Inard, who managed to win Elizabeth and Vyvyans affection couldnt be ugly, nonetheless.",
+        "I got dressed then returned to my room. The lady-in-waiting came up to begin putting on makeup. My makeup was done very quickly. I basically didnt need any makeup. The ladies-in-waiting remarked that my skin and appearance were decent thanks to my two moms. It was just that I wasn; t like my father. Inard, who managed to win Elizabeth and Vyvyans affection couldnt be ugly, nonetheless.",
         "Your Majesty, you look very handsome now.",
         "I nodded: Uhm.",
         "I stood up and checked myself out in the mirror. I didnt have any particular opinion of myself, but I hoped Mommy Elizabeth thought I looked all right. Sometimes, she looked at me with the gaze she looked at my father with. That made me somewhat unhappy. I used to think Mom had it hard, but at some point, I started to be quite unhappy when Mommy Elizabeth and Mommy Vvyvyan mentioned Inard whilst looking at me.",
@@ -28984,7 +28912,7 @@
         {
           "id": 81,
           "paragraph_id": 17,
-          "text": "It was just that I wasn;t like my father."
+          "text": "It was just that I wasn; t like my father."
         },
         {
           "id": 82,
@@ -29197,7 +29125,7 @@
           "text": "I was just sharing the past, not sharing life advice!"
         }
       ],
-      "word_count": 1320
+      "word_count": 1321
     },
     {
       "chapter_index": 598,

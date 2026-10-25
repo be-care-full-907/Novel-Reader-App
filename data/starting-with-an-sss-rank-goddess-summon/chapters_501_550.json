@@ -137,7 +137,6 @@
         "The blazing hearths, the smoke drifting through the rafters, the tankards raised in triumph, and the women smiling with genuine unshakeable happiness around their black-haired Lord, whose presence anchored the entire hall.",
         "Silas looked down at the paper, a deep, quiet pride swelling within his chest.",
         "’It’s a very good picture...’",
-        "...",
         "The following morning broke with a cold unforgiving stillness.",
         "The heavy blizzards that had picked up throughout the previous night had finally dissipated, leaving behind an iron-gray overcast sky that hung low and suffocating over the jagged peaks of the Umbral Basin.",
         "Fine powdery flakes of white snow drifted lazily through the sub-zero air, dusting the black slate battlements and settling across the broad gravel yard of the Keep.",
@@ -931,95 +930,90 @@
         {
           "id": 155,
           "paragraph_id": 127,
-          "text": "..."
+          "text": "The following morning broke with a cold unforgiving stillness."
         },
         {
           "id": 156,
           "paragraph_id": 128,
-          "text": "The following morning broke with a cold unforgiving stillness."
+          "text": "The heavy blizzards that had picked up throughout the previous night had finally dissipated, leaving behind an iron-gray overcast sky that hung low and suffocating over the jagged peaks of the Umbral Basin."
         },
         {
           "id": 157,
           "paragraph_id": 129,
-          "text": "The heavy blizzards that had picked up throughout the previous night had finally dissipated, leaving behind an iron-gray overcast sky that hung low and suffocating over the jagged peaks of the Umbral Basin."
+          "text": "Fine powdery flakes of white snow drifted lazily through the sub-zero air, dusting the black slate battlements and settling across the broad gravel yard of the Keep."
         },
         {
           "id": 158,
           "paragraph_id": 130,
-          "text": "Fine powdery flakes of white snow drifted lazily through the sub-zero air, dusting the black slate battlements and settling across the broad gravel yard of the Keep."
+          "text": "’I really hate this snow...’"
         },
         {
           "id": 159,
           "paragraph_id": 131,
-          "text": "’I really hate this snow...’"
+          "text": "Sitting tall and motionless atop the reinforced leather saddle of Valkyrie in the center of the snowy courtyard was Silas."
         },
         {
           "id": 160,
           "paragraph_id": 132,
-          "text": "Sitting tall and motionless atop the reinforced leather saddle of Valkyrie in the center of the snowy courtyard was Silas."
+          "text": "The Lord was fully clad in his heavy winter combat ensemble... dark fitted void-iron lamellar armor layered over thick insulated wool, his coat cinched tight by a wide leather weapon harness."
         },
         {
           "id": 161,
           "paragraph_id": 133,
-          "text": "The Lord was fully clad in his heavy winter combat ensemble... dark fitted void-iron lamellar armor layered over thick insulated wool, his coat cinched tight by a wide leather weapon harness."
+          "text": "Across his lap rested the radiant golden mythril blade with its sheath cold to the touch."
         },
         {
           "id": 162,
           "paragraph_id": 134,
-          "text": "Across his lap rested the radiant golden mythril blade with its sheath cold to the touch."
+          "text": "’Still this is my Tier 3 Mythril Longsword... my first weapon heh, been a while...’"
         },
         {
           "id": 163,
           "paragraph_id": 135,
-          "text": "’Still this is my Tier 3 Mythril Longsword... my first weapon heh, been a while...’"
+          "text": "His Gold Core hummed with steady power as a thin barrier of warmth radiated off his skin to melt the falling snowflakes before they could touch his hair."
         },
         {
           "id": 164,
           "paragraph_id": 136,
-          "text": "His Gold Core hummed with steady power as a thin barrier of warmth radiated off his skin to melt the falling snowflakes before they could touch his hair."
+          "text": "Standing beside Valkyrie’s muscular flank was Kaelia."
         },
         {
           "id": 165,
           "paragraph_id": 137,
-          "text": "Standing beside Valkyrie’s muscular flank was Kaelia."
+          "text": "The head of the Keep’s Culinary Haven looked like an anxious fretting wife."
         },
         {
           "id": 166,
           "paragraph_id": 138,
-          "text": "The head of the Keep’s Culinary Haven looked like an anxious fretting wife."
+          "text": "Her dark hair was neatly pinned beneath a warm woolen cap with her breath rising in trembling plumes of white mist as she hoisted three massive lacquer-sealed transport containers into the air."
         },
         {
           "id": 167,
           "paragraph_id": 139,
-          "text": "Her dark hair was neatly pinned beneath a warm woolen cap with her breath rising in trembling plumes of white mist as she hoisted three massive lacquer-sealed transport containers into the air."
-        },
-        {
-          "id": 168,
-          "paragraph_id": 140,
           "text": "\"My Lord, please take these,\" Kaelia urged, her eyes pooling with genuine fretful worry as she looked up at him."
         },
         {
-          "id": 169,
-          "paragraph_id": 140,
+          "id": 168,
+          "paragraph_id": 139,
           "text": "\"I stayed up through the night preparing them..."
         },
         {
-          "id": 170,
-          "paragraph_id": 140,
+          "id": 169,
+          "paragraph_id": 139,
           "text": "There are thirty-six individual meal rations inside."
         },
         {
-          "id": 171,
-          "paragraph_id": 140,
+          "id": 170,
+          "paragraph_id": 139,
           "text": "Roasted mountain venison sealed in clarified tallow, steamed winter tubers seasoned with spirit-salt, dense honey-seed traveler’s bread, and six vacuum-sealed jars of concentrated bone broth."
         },
         {
-          "id": 172,
-          "paragraph_id": 140,
+          "id": 171,
+          "paragraph_id": 139,
           "text": "It will keep for weeks without freezing!\""
         }
       ],
-      "word_count": 2400
+      "word_count": 2399
     },
     {
       "chapter_index": 502,
@@ -1123,7 +1117,7 @@
         "From the saddle of her mount three paces away, Eluned cleared her throat with an exaggerated pointed cough as her emerald eyes narrowed into a jealous squint.",
         "Silas chuckled, releasing the trembling woman and stepping smoothly back toward Valkyrie.",
         "He vaulted into the saddle with fluid grace, settling his boots into the stirrups.",
-        "He pulled the heavy,silver-threaded hood over his dark hair, shadowing his face, leaving only the piercing golden-blue gleam of his eyes visible beneath the brim.",
+        "He pulled the heavy, silver-threaded hood over his dark hair, shadowing his face, leaving only the piercing golden-blue gleam of his eyes visible beneath the brim.",
         "He drew the golden blade three inches from its scabbard, the raw mana flaring along the steel like a sunburst.",
         "SHING!",
         "\"Strike detachment!\" Silas roared. \"Form standard wedge! Eyes sharp and pace steady! Forward march!\"",
@@ -1787,7 +1781,7 @@
         {
           "id": 127,
           "paragraph_id": 97,
-          "text": "He pulled the heavy,silver-threaded hood over his dark hair, shadowing his face, leaving only the piercing golden-blue gleam of his eyes visible beneath the brim."
+          "text": "He pulled the heavy, silver-threaded hood over his dark hair, shadowing his face, leaving only the piercing golden-blue gleam of his eyes visible beneath the brim."
         },
         {
           "id": 128,
@@ -1930,7 +1924,7 @@
           "text": "’Best day...’ Brida purred inwardly, hugging herself tightly. ’...EVER~!’"
         }
       ],
-      "word_count": 2334
+      "word_count": 2335
     },
     {
       "chapter_index": 503,
@@ -6637,7 +6631,7 @@
         "The paper was in terrible condition as large portions of the surface were rotted through with black mold, and decades of freezing condensation had caused the ancient iron-gall ink to bleach and fade into illegible ghostly smudges.",
         "It was written in the form of fragmented disconnected log entries like a desperate journal scrawled in the dark by a trembling dying hand.",
         "Silas squinted, his blue eyes tracing the broken faded lines, reading the legible fragments aloud to the silent watching squad.",
-        "\"Let me see... Not everything is okay here but I’ve seen one... [ENTRY: 44]... the tremors did not cease... the breach at the lower shaft has widened... we were fools to think the [------] could be bargained with...\"",
+        "\"Let me see... Not everything is okay here but I’ve seen one... [ENTRY: 44]... the tremors did not cease... the breach at the lower shaft has widened... we were fools to think the [] could be bargained with...\"",
         "Silas paused with his finger trailing across an entire sentence that had been dissolved into a dark greasy water stain.",
         "\"...[ENTRY: 46]... Beasts... they are not wild... they move with divine intent... Her wrath has turned the northern canyons into an abattoir... but the cold... the unnatural cold came from behind...\"",
         "\"Beasts?\" Morwenna echoed with her brow furrowing deeply. \"The Goddess of Beasts?\"",
@@ -6648,7 +6642,7 @@
         "\"...not a battle... a slaughter... Ice... the glacier swallowed the entire place... they did not freeze, their souls were suspended in the crystal... a lot of people died... thousands in the span of a single breath... the screaming stopped when the whiteout descended...\"",
         "The air in the cavern seemed to drop by ten degrees as the women listened in dead silence with the weight of the ancient tragedy hanging heavy in the warm light.",
         "Silas reached the very bottom of the paper where the final entry was barely two lines, scrawled right before the writer’s hand had locked in death.",
-        "\"...fled to the upper shelf... the mist is leaking through the stone... no escape... do not look for the treasure... the seal was never meant to hold her... the seal was meant to contain the [------]... beware the deep mines...\"",
+        "\"...fled to the upper shelf... the mist is leaking through the stone... no escape... do not look for the treasure... the seal was never meant to hold her... the seal was meant to contain the []... beware the deep mines...\"",
         "The text abruptly terminated.",
         "The last stroke of the ink trailed off the edge of the vellum in a long, erratic scrape, where the dying expeditioner had collapsed onto the basalt floor.",
         "Silas lowered the paper, staring down at the faded, disconnected words.",
@@ -6950,7 +6944,7 @@
         {
           "id": 49,
           "paragraph_id": 40,
-          "text": "[ENTRY: 44]... the tremors did not cease... the breach at the lower shaft has widened... we were fools to think the [------] could be bargained with...\""
+          "text": "[ENTRY: 44]... the tremors did not cease... the breach at the lower shaft has widened... we were fools to think the [] could be bargained with...\""
         },
         {
           "id": 50,
@@ -7030,7 +7024,7 @@
         {
           "id": 65,
           "paragraph_id": 51,
-          "text": "\"...fled to the upper shelf... the mist is leaking through the stone... no escape... do not look for the treasure... the seal was never meant to hold her... the seal was meant to contain the [------]... beware the deep mines...\""
+          "text": "\"...fled to the upper shelf... the mist is leaking through the stone... no escape... do not look for the treasure... the seal was never meant to hold her... the seal was meant to contain the []... beware the deep mines...\""
         },
         {
           "id": 66,
@@ -9377,7 +9371,6 @@
         "The falling snow continued its lazy silent descent from the gray sky.",
         "Valkyrie was standing alone in the center of the trail with her head lowered, sniffing the disturbed snowdrifts with a confused whimper.",
         "The saddle was empty and Silas... had completely vanished.",
-        "...",
         "’Strange...’",
         "The thought had barely crossed Silas’s mind before the cold seized him.",
         "He had felt the unnatural power of this whiteout before, back when the pale ribbons clung to the basalt slopes, but this was different.",
@@ -9980,330 +9973,325 @@
         {
           "id": 108,
           "paragraph_id": 94,
-          "text": "..."
+          "text": "’Strange...’"
         },
         {
           "id": 109,
           "paragraph_id": 95,
-          "text": "’Strange...’"
+          "text": "The thought had barely crossed Silas’s mind before the cold seized him."
         },
         {
           "id": 110,
           "paragraph_id": 96,
-          "text": "The thought had barely crossed Silas’s mind before the cold seized him."
+          "text": "He had felt the unnatural power of this whiteout before, back when the pale ribbons clung to the basalt slopes, but this was different."
         },
         {
           "id": 111,
           "paragraph_id": 97,
-          "text": "He had felt the unnatural power of this whiteout before, back when the pale ribbons clung to the basalt slopes, but this was different."
+          "text": "The instant it gathered around his boots, the air didn’t just chill... it liquefied into pure suffocating malice."
         },
         {
           "id": 112,
           "paragraph_id": 98,
-          "text": "The instant it gathered around his boots, the air didn’t just chill... it liquefied into pure suffocating malice."
+          "text": "Every instinct honed through countless skirmishes screamed that this was an active trap but before his muscles could even coil to kick free of Valkyrie’s stirrups, reality folded."
         },
         {
           "id": 113,
           "paragraph_id": 99,
-          "text": "Every instinct honed through countless skirmishes screamed that this was an active trap but before his muscles could even coil to kick free of Valkyrie’s stirrups, reality folded."
+          "text": "The snowy pass, the triumphant cheers of the girls, and Morwenna sheathing Tidebringer were ripped away in an imperceptible fraction of seconds."
         },
         {
           "id": 114,
           "paragraph_id": 100,
-          "text": "The snowy pass, the triumphant cheers of the girls, and Morwenna sheathing Tidebringer were ripped away in an imperceptible fraction of seconds."
+          "text": "Light vanished and sound died as his vision was violently submerged in pitch-black void... a spatial dislocation so abrupt it made his inner ear spin and his Gold Core lurch against his ribs."
         },
         {
           "id": 115,
           "paragraph_id": 101,
-          "text": "Light vanished and sound died as his vision was violently submerged in pitch-black void... a spatial dislocation so abrupt it made his inner ear spin and his Gold Core lurch against his ribs."
+          "text": "The sensory blackout lasted only an instant."
         },
         {
           "id": 116,
           "paragraph_id": 102,
-          "text": "The sensory blackout lasted only an instant."
+          "text": "FWOOOOOOSH!"
         },
         {
           "id": 117,
           "paragraph_id": 103,
-          "text": "FWOOOOOOSH!"
+          "text": "Freezing air battered Silas’s face as gravity violently reasserted itself."
         },
         {
           "id": 118,
           "paragraph_id": 104,
-          "text": "Freezing air battered Silas’s face as gravity violently reasserted itself."
+          "text": "He was tumbling through empty space, plummeting out of a lightless ceiling toward jagged frost-bitten ground dozens of feet below."
         },
         {
           "id": 119,
           "paragraph_id": 105,
-          "text": "He was tumbling through empty space, plummeting out of a lightless ceiling toward jagged frost-bitten ground dozens of feet below."
+          "text": "A frantic fluttering sound cut through the rush of the wind beside his ear."
         },
         {
           "id": 120,
           "paragraph_id": 106,
-          "text": "A frantic fluttering sound cut through the rush of the wind beside his ear."
+          "text": "\"SQUAWWWK!\""
         },
         {
           "id": 121,
           "paragraph_id": 107,
-          "text": "\"SQUAWWWK!\""
+          "text": "The obsidian bird was tumbling through the empty air right beside him with its dark crystalline wings flailing in blind panic as it plummeted headfirst."
         },
         {
           "id": 122,
           "paragraph_id": 108,
-          "text": "The obsidian bird was tumbling through the empty air right beside him with its dark crystalline wings flailing in blind panic as it plummeted headfirst."
+          "text": "\"Haah..."
         },
         {
           "id": 123,
-          "paragraph_id": 109,
-          "text": "\"Haah..."
+          "paragraph_id": 108,
+          "text": "What is this...?\""
         },
         {
           "id": 124,
           "paragraph_id": 109,
-          "text": "What is this...?\""
+          "text": "Silas reacted without a breath of hesitation."
         },
         {
           "id": 125,
           "paragraph_id": 110,
-          "text": "Silas reacted without a breath of hesitation."
+          "text": "He extended his right arm, snapping his gloved fingers out to create a steady perch."
         },
         {
           "id": 126,
           "paragraph_id": 111,
-          "text": "He extended his right arm, snapping his gloved fingers out to create a steady perch."
+          "text": "The bird recognized the lifeline instantly, banking its wings and latching its sharp talons onto his reinforced leather vambrace with a desperate clattering grip."
         },
         {
           "id": 127,
           "paragraph_id": 112,
-          "text": "The bird recognized the lifeline instantly, banking its wings and latching its sharp talons onto his reinforced leather vambrace with a desperate clattering grip."
+          "text": "VUUUM!"
         },
         {
           "id": 128,
           "paragraph_id": 113,
-          "text": "VUUUM!"
+          "text": "With his left hand free, Silas channeled a controlled pulse of atmospheric wind mana through his palm, releasing a foundational burst of [Hurricane Repulsion] downward against the approaching bedrock."
         },
         {
           "id": 129,
           "paragraph_id": 114,
-          "text": "With his left hand free, Silas channeled a controlled pulse of atmospheric wind mana through his palm, releasing a foundational burst of [Hurricane Repulsion] downward against the approaching bedrock."
+          "text": "BOOM!"
         },
         {
           "id": 130,
           "paragraph_id": 115,
-          "text": "BOOM!"
+          "text": "The concussive downward shockwave met the frozen stone floor, decelerating his terminal velocity in an instant."
         },
         {
           "id": 131,
           "paragraph_id": 116,
-          "text": "The concussive downward shockwave met the frozen stone floor, decelerating his terminal velocity in an instant."
+          "text": "Silas hit the permafrost in a low three-point crouch with the kinetic dispersion woven into his silver-threaded cloak absorbing the remaining force as a small concussive ring of pulverized frost rippled outward from his boots."
         },
         {
           "id": 132,
           "paragraph_id": 117,
-          "text": "Silas hit the permafrost in a low three-point crouch with the kinetic dispersion woven into his silver-threaded cloak absorbing the remaining force as a small concussive ring of pulverized frost rippled outward from his boots."
+          "text": "He straightened slowly, his breath steadying into pale quiet wisps and the air here was dead."
         },
         {
           "id": 133,
           "paragraph_id": 118,
-          "text": "He straightened slowly, his breath steadying into pale quiet wisps and the air here was dead."
+          "text": "\"Hmm...\""
         },
         {
           "id": 134,
           "paragraph_id": 119,
-          "text": "\"Hmm...\""
+          "text": "It was an enormous cavern, far beneath the surface ridges of the basin as the ceiling was lost in high shadows, but curling across the jagged floor was that same milky-white creeping fog."
         },
         {
           "id": 135,
           "paragraph_id": 120,
-          "text": "It was an enormous cavern, far beneath the surface ridges of the basin as the ceiling was lost in high shadows, but curling across the jagged floor was that same milky-white creeping fog."
+          "text": "It didn’t rush or surge like before... it drifted with the bloated laziness of a well-fed serpent."
         },
         {
           "id": 136,
           "paragraph_id": 121,
-          "text": "It didn’t rush or surge like before... it drifted with the bloated laziness of a well-fed serpent."
+          "text": "\"Strange.\""
         },
         {
           "id": 137,
           "paragraph_id": 122,
-          "text": "\"Strange.\""
+          "text": "The bird gave him a look, was he not bothered about all this?!"
         },
         {
           "id": 138,
           "paragraph_id": 123,
-          "text": "The bird gave him a look, was he not bothered about all this?!"
+          "text": "Silas looked down at his arm."
         },
         {
           "id": 139,
           "paragraph_id": 124,
-          "text": "Silas looked down at his arm."
+          "text": "The obsidian bird was perched on his wrist, its crested head twitching rapidly, its small beady eyes dilated with unmistakable terror."
         },
         {
           "id": 140,
           "paragraph_id": 125,
-          "text": "The obsidian bird was perched on his wrist, its crested head twitching rapidly, its small beady eyes dilated with unmistakable terror."
+          "text": "\"Do you know this specific part?\" Silas asked quietly."
         },
         {
           "id": 141,
           "paragraph_id": 126,
-          "text": "\"Do you know this specific part?\" Silas asked quietly."
+          "text": "The bird bobbed its beak once in a stiff trembling nod but it didn’t flap."
         },
         {
           "id": 142,
-          "paragraph_id": 127,
-          "text": "The bird bobbed its beak once in a stiff trembling nod but it didn’t flap."
+          "paragraph_id": 126,
+          "text": "It crouched low against his forearm, its crystalline feathers trembling against the cold leather."
         },
         {
           "id": 143,
           "paragraph_id": 127,
-          "text": "It crouched low against his forearm, its crystalline feathers trembling against the cold leather."
+          "text": "Silas turned his gaze outward, letting his eyes adjust to the pale gloom."
         },
         {
           "id": 144,
           "paragraph_id": 128,
-          "text": "Silas turned his gaze outward, letting his eyes adjust to the pale gloom."
+          "text": "As the fog drifted across the uneven stone, the terrain revealed itself as littering the cavern floor in every direction were skeletons."
         },
         {
           "id": 145,
           "paragraph_id": 129,
-          "text": "As the fog drifted across the uneven stone, the terrain revealed itself as littering the cavern floor in every direction were skeletons."
+          "text": "...Hundreds of them."
         },
         {
           "id": 146,
           "paragraph_id": 130,
-          "text": "...Hundreds of them."
+          "text": "They weren’t human bones."
         },
         {
           "id": 147,
           "paragraph_id": 131,
-          "text": "They weren’t human bones."
+          "text": "These were the colossal petrified remains of ancient beasts... massive five-yard-wide rib cages arching out of the permafrost like shattered ships, skulls the size of carriages with broken horns, and serpentine spinal columns coiled in frozen agony."
         },
         {
           "id": 148,
           "paragraph_id": 132,
-          "text": "These were the colossal petrified remains of ancient beasts... massive five-yard-wide rib cages arching out of the permafrost like shattered ships, skulls the size of carriages with broken horns, and serpentine spinal columns coiled in frozen agony."
+          "text": "Every single skeleton was hollowed out, their marrow long since dissolved, coated in the pale frosted residue of the necrotic mist."
         },
         {
           "id": 149,
           "paragraph_id": 133,
-          "text": "Every single skeleton was hollowed out, their marrow long since dissolved, coated in the pale frosted residue of the necrotic mist."
+          "text": "The bird let out a sharp mournful squawk that rattled off the distant stone pillars."
         },
         {
           "id": 150,
           "paragraph_id": 134,
-          "text": "The bird let out a sharp mournful squawk that rattled off the distant stone pillars."
+          "text": "Silas exhaled a slow frosty breath."
         },
         {
           "id": 151,
           "paragraph_id": 135,
-          "text": "Silas exhaled a slow frosty breath."
+          "text": "He really didn’t need Eluned to translate the bird’s panic this time as the environmental pressure weighing against his Gold Core told the entire story."
         },
         {
           "id": 152,
           "paragraph_id": 136,
-          "text": "He really didn’t need Eluned to translate the bird’s panic this time as the environmental pressure weighing against his Gold Core told the entire story."
+          "text": "\"We’re in the Domain of one of those Tier 5 monsters... and the one behind the fog, right?\" Silas murmured."
         },
         {
           "id": 153,
           "paragraph_id": 137,
-          "text": "\"We’re in the Domain of one of those Tier 5 monsters... and the one behind the fog, right?\" Silas murmured."
+          "text": "The bird snapped its beak shut, nodding frantically with its talons digging deeper into his vambrace as if begging him to turn back, find a crack in the wall, and run."
         },
         {
           "id": 154,
           "paragraph_id": 138,
-          "text": "The bird snapped its beak shut, nodding frantically with its talons digging deeper into his vambrace as if begging him to turn back, find a crack in the wall, and run."
+          "text": "Silas stared into the sprawling graveyard."
         },
         {
           "id": 155,
           "paragraph_id": 139,
-          "text": "Silas stared into the sprawling graveyard."
+          "text": "A Tier 5 monster huh?"
         },
         {
           "id": 156,
           "paragraph_id": 140,
-          "text": "A Tier 5 monster huh?"
+          "text": "A slow smile crept across Silas’s lips."
         },
         {
           "id": 157,
           "paragraph_id": 141,
-          "text": "A slow smile crept across Silas’s lips."
+          "text": "SHING!"
         },
         {
           "id": 158,
           "paragraph_id": 142,
-          "text": "SHING!"
+          "text": "With a crisp ringing draw of steel, the golden mythril longsword cleared its scabbard, illuminating the creeping white mist with the radiant glow of his Gold Core."
         },
         {
           "id": 159,
           "paragraph_id": 143,
-          "text": "With a crisp ringing draw of steel, the golden mythril longsword cleared its scabbard, illuminating the creeping white mist with the radiant glow of his Gold Core."
+          "text": "The light cut through the pale gloom, casting long defiant shadows behind the towering rib cages."
         },
         {
           "id": 160,
           "paragraph_id": 144,
-          "text": "The light cut through the pale gloom, casting long defiant shadows behind the towering rib cages."
+          "text": "\"What are we waiting for then?\" Silas chuckled."
         },
         {
           "id": 161,
-          "paragraph_id": 145,
-          "text": "\"What are we waiting for then?\" Silas chuckled."
+          "paragraph_id": 144,
+          "text": "\"Let’s go kill it.\""
         },
         {
           "id": 162,
           "paragraph_id": 145,
-          "text": "\"Let’s go kill it.\""
+          "text": "He stepped forward, his combat boots crunching steadily through the brittle frost and bone dust as he marched directly toward the deep heart of the fog."
         },
         {
           "id": 163,
           "paragraph_id": 146,
-          "text": "He stepped forward, his combat boots crunching steadily through the brittle frost and bone dust as he marched directly toward the deep heart of the fog."
+          "text": "The obsidian bird puffed its feathers, throwing its head back to unleash a high-pitched squawk of pure indignant outrage."
         },
         {
           "id": 164,
           "paragraph_id": 147,
-          "text": "The obsidian bird puffed its feathers, throwing its head back to unleash a high-pitched squawk of pure indignant outrage."
-        },
-        {
-          "id": 165,
-          "paragraph_id": 148,
           "text": "\"SQUAWWWWWK!"
         },
         {
-          "id": 166,
-          "paragraph_id": 148,
+          "id": 165,
+          "paragraph_id": 147,
           "text": "KRR-CLACK!"
+        },
+        {
+          "id": 166,
+          "paragraph_id": 147,
+          "text": "CAW!\""
         },
         {
           "id": 167,
           "paragraph_id": 148,
-          "text": "CAW!\""
+          "text": "Silas didn’t even look back."
         },
         {
           "id": 168,
           "paragraph_id": 149,
-          "text": "Silas didn’t even look back."
+          "text": "He gave his wrist a sharp dismissive flick, cutting through the bird’s frantic scolding without breaking his stride."
         },
         {
           "id": 169,
           "paragraph_id": 150,
-          "text": "He gave his wrist a sharp dismissive flick, cutting through the bird’s frantic scolding without breaking his stride."
-        },
-        {
-          "id": 170,
-          "paragraph_id": 151,
           "text": "\"Shut up, bird,\" Silas muttered with an amused smirk with his grip tightening around the golden hilt."
         },
         {
-          "id": 171,
-          "paragraph_id": 151,
+          "id": 170,
+          "paragraph_id": 150,
           "text": "\"Have some balls..."
         },
         {
-          "id": 172,
-          "paragraph_id": 151,
+          "id": 171,
+          "paragraph_id": 150,
           "text": "We’ve got a monster to hunt.\""
         }
       ],
-      "word_count": 2194
+      "word_count": 2193
     },
     {
       "chapter_index": 512,
@@ -16013,7 +16001,7 @@
         "He didn’t see deceit at all, he saw her desperation instead.",
         "\"One more question,\" Silas said.",
         "He turned the vellum, pointing his finger at the very last, jagged line of ink scrawled before the writer’s hand had succumbed to rigor mortis.",
-        "\"The scout left a final warning. ’The seal was never meant to hold her... the seal was meant to contain the [------]... beware the deep mines.’ What is buried in the dark behind this wall?\"",
+        "\"The scout left a final warning. ’The seal was never meant to hold her... the seal was meant to contain the []... beware the deep mines.’ What is buried in the dark behind this wall?\"",
         "The goddess blinked.",
         "She stared at the text, her brow furrowing in genuine uncomprehending bewilderment.",
         "\"Behind this wall...?\" she echoed, tilting her head back against the ice shelf. \"What in the nine hells is that dead fool rambling about?\"",
@@ -16565,7 +16553,7 @@
         {
           "id": 105,
           "paragraph_id": 49,
-          "text": "\"The scout left a final warning. ’The seal was never meant to hold her... the seal was meant to contain the [------]... beware the deep mines.’ What is buried in the dark behind this wall?\""
+          "text": "\"The scout left a final warning. ’The seal was never meant to hold her... the seal was meant to contain the []... beware the deep mines.’ What is buried in the dark behind this wall?\""
         },
         {
           "id": 106,
@@ -18772,7 +18760,6 @@
         "Its black eyes glazed over, igniting with an unnatural malevolent purple flame as the corrupted beast landed on all four paws, letting out a series of strange clicking sounds from its throat.",
         "It turned its head toward the northern tunnel exit, catching the distant scent of the surface world.",
         "With terrifying unnatural speed, the beast bolted into the dark, racing toward the world above.",
-        "...",
         "[Several Days Later]",
         "The morning sun crested the jagged obsidian ridge of the Umbral Basin, spilling pale amber light across the central courtyard of Blessed Land.",
         "The air was clean, stripped of the oily bite of necrotic fog, smelling instead of damp pine and the sweet trace of woodsmoke drifting from the barracks.",
@@ -18816,7 +18803,7 @@
         "They were the very stones they had recovered from the lower deposits of Mine KB22, carrying the mineral heartbeat of the deep earth.",
         "\"It’s not cut like royal jewelry,\" Silas said, stepping directly in front of her. \"It’s a bit rough around the edges but the mana inside these diamonds has been stabilized by my core. If you ever find yourself in a room with a bad person, or someone tries to push a spiritual suppressive field onto you, the stones will flash and break the pressure wave.\"",
         "He tilted his head slightly. \"Mind if I put it on you?\"",
-        "\"I... I would be honored, Lord Silas,\" she murmured softly, her porcelain skin warming as she bowed her head and reached up to sweep her heavy,royal-blue hair over her left shoulder, baring the pale curve of her neck.",
+        "\"I... I would be honored, Lord Silas,\" she murmured softly, her porcelain skin warming as she bowed her head and reached up to sweep her heavy, royal-blue hair over her left shoulder, baring the pale curve of her neck.",
         "Silas stepped behind her.",
         "His fingers were broad and rough and when the back of his knuckles grazed the sensitive skin at the base of her throat, an electric shiver raced down the Princess’s spine, making her shoulders lock for a fraction of a second.",
         "CLICK!",
@@ -19141,391 +19128,386 @@
         {
           "id": 60,
           "paragraph_id": 51,
-          "text": "..."
+          "text": "[Several Days Later]"
         },
         {
           "id": 61,
           "paragraph_id": 52,
-          "text": "[Several Days Later]"
+          "text": "The morning sun crested the jagged obsidian ridge of the Umbral Basin, spilling pale amber light across the central courtyard of Blessed Land."
         },
         {
           "id": 62,
           "paragraph_id": 53,
-          "text": "The morning sun crested the jagged obsidian ridge of the Umbral Basin, spilling pale amber light across the central courtyard of Blessed Land."
+          "text": "The air was clean, stripped of the oily bite of necrotic fog, smelling instead of damp pine and the sweet trace of woodsmoke drifting from the barracks."
         },
         {
           "id": 63,
           "paragraph_id": 54,
-          "text": "The air was clean, stripped of the oily bite of necrotic fog, smelling instead of damp pine and the sweet trace of woodsmoke drifting from the barracks."
+          "text": "Standing just beyond the shadow of the Keep’s vaulted portico, the Princess let out a soft sigh."
         },
         {
           "id": 64,
           "paragraph_id": 55,
-          "text": "Standing just beyond the shadow of the Keep’s vaulted portico, the Princess let out a soft sigh."
+          "text": "Her royal-blue hair caught the morning rays, shimmering like polished lapis lazuli as a gentle draft lifted the loose strands from her temples."
         },
         {
           "id": 65,
           "paragraph_id": 56,
-          "text": "Her royal-blue hair caught the morning rays, shimmering like polished lapis lazuli as a gentle draft lifted the loose strands from her temples."
+          "text": "She was no longer wearing the understated silk court gown she had arrived in."
         },
         {
           "id": 66,
           "paragraph_id": 57,
-          "text": "She was no longer wearing the understated silk court gown she had arrived in."
+          "text": "In its place was a traveling dress crafted by the territory’s master tailor... a garment of deep slate-gray wool lined with supple white buckskin, cinched at her slender waist with an embossed leather belt and edged in subtle leaf-green embroidery."
         },
         {
           "id": 67,
           "paragraph_id": 58,
-          "text": "In its place was a traveling dress crafted by the territory’s master tailor... a garment of deep slate-gray wool lined with supple white buckskin, cinched at her slender waist with an embossed leather belt and edged in subtle leaf-green embroidery."
+          "text": "It moved with her body, neither binding her ribs nor trailing in the dust, giving her an effortless regal silhouette that looked like a Princess."
         },
         {
           "id": 68,
           "paragraph_id": 59,
-          "text": "It moved with her body, neither binding her ribs nor trailing in the dust, giving her an effortless regal silhouette that looked like a Princess."
+          "text": "’I know my maids will hate it though.’"
         },
         {
           "id": 69,
           "paragraph_id": 60,
-          "text": "’I know my maids will hate it though.’"
+          "text": "Gathered in a loose semicircle around the stone flagstones were the women she had become close with."
         },
         {
           "id": 70,
           "paragraph_id": 61,
-          "text": "Gathered in a loose semicircle around the stone flagstones were the women she had become close with."
+          "text": "Tasmin stood with her arms folded across her leather-clad chest, her dark void-daggers resting quietly in their sheaths and her sharp eyes carrying a rare relaxed warmth."
         },
         {
           "id": 71,
           "paragraph_id": 62,
-          "text": "Tasmin stood with her arms folded across her leather-clad chest, her dark void-daggers resting quietly in their sheaths and her sharp eyes carrying a rare relaxed warmth."
+          "text": "Beside her, Brida leaned her weight on the haft of her cleaver poleaxe, chewing on a clean stalk, while Thora stood wiping grease from her calloused palms with a rag with her blacksmith’s apron smelling of smoke."
         },
         {
           "id": 72,
           "paragraph_id": 63,
-          "text": "Beside her, Brida leaned her weight on the haft of her cleaver poleaxe, chewing on a clean stalk, while Thora stood wiping grease from her calloused palms with a rag with her blacksmith’s apron smelling of smoke."
+          "text": "Eluned lounged gracefully near the central fountain that Silas had recently installed with her long emerald locks drifting on the breeze and the living vines wrapped around her wrists pulsing with green light."
         },
         {
           "id": 73,
           "paragraph_id": 64,
-          "text": "Eluned lounged gracefully near the central fountain that Silas had recently installed with her long emerald locks drifting on the breeze and the living vines wrapped around her wrists pulsing with green light."
+          "text": "Morwenna stood with Tidebringer slung across her broad shoulders, her boots coated in dried road grit, watching the royal scion with an amused smirk."
         },
         {
           "id": 74,
           "paragraph_id": 65,
-          "text": "Morwenna stood with Tidebringer slung across her broad shoulders, her boots coated in dried road grit, watching the royal scion with an amused smirk."
+          "text": "Even Talira had climbed out onto the high slate shingles of the Keep’s roof, basking in the direct heat of the morning sun like a crimson cat with her scaled wings half-spread as she lazily flicked her tail and gave a languid two-fingered wave toward the courtyard."
         },
         {
           "id": 75,
           "paragraph_id": 66,
-          "text": "Even Talira had climbed out onto the high slate shingles of the Keep’s roof, basking in the direct heat of the morning sun like a crimson cat with her scaled wings half-spread as she lazily flicked her tail and gave a languid two-fingered wave toward the courtyard."
+          "text": "Thor stood broad and immovable near the center with her silver battle armor gleaming in the sun and Mjölnir strapped securely to her leather war-belt as her storm-blue eyes crinkled with good humor."
         },
         {
           "id": 76,
           "paragraph_id": 67,
-          "text": "Thor stood broad and immovable near the center with her silver battle armor gleaming in the sun and Mjölnir strapped securely to her leather war-belt as her storm-blue eyes crinkled with good humor."
+          "text": "\"You managed to survive seven days in the dark without getting eaten, trampled, or turned into an icicle,\" Morwenna called out, her gravelly voice breaking the morning quiet."
         },
         {
           "id": 77,
-          "paragraph_id": 68,
-          "text": "\"You managed to survive seven days in the dark without getting eaten, trampled, or turned into an icicle,\" Morwenna called out, her gravelly voice breaking the morning quiet."
+          "paragraph_id": 67,
+          "text": "\"That’s better than half the deckhands I used to press into service on the salt coast... before I trained them of course\""
         },
         {
           "id": 78,
           "paragraph_id": 68,
-          "text": "\"That’s better than half the deckhands I used to press into service on the salt coast... before I trained them of course\""
+          "text": "\"She didn’t just survive though, she carried her own bowl!\" Thora grunted with approval, tossing her rag over a shoulder."
         },
         {
           "id": 79,
-          "paragraph_id": 69,
-          "text": "\"She didn’t just survive though, she carried her own bowl!\" Thora grunted with approval, tossing her rag over a shoulder."
+          "paragraph_id": 68,
+          "text": "\"She didn’t complain about your bread, either... you should be grateful, that thing tastes like my shit.\""
         },
         {
           "id": 80,
           "paragraph_id": 69,
-          "text": "\"She didn’t complain about your bread, either... you should be grateful, that thing tastes like my shit.\""
+          "text": "\"Fucking Dwar—\""
         },
         {
           "id": 81,
           "paragraph_id": 70,
-          "text": "\"Fucking Dwar—\""
+          "text": "Eluned stepped forward, offering a graceful gentle sweep of her hand."
         },
         {
           "id": 82,
           "paragraph_id": 71,
-          "text": "Eluned stepped forward, offering a graceful gentle sweep of her hand."
+          "text": "\"The forest spirits will miss your laughter at the spring, little one."
         },
         {
           "id": 83,
-          "paragraph_id": 72,
-          "text": "\"The forest spirits will miss your laughter at the spring, little one."
+          "paragraph_id": 71,
+          "text": "The week passed far too swiftly and the basin was brighter with you among us.\""
         },
         {
           "id": 84,
           "paragraph_id": 72,
-          "text": "The week passed far too swiftly and the basin was brighter with you among us.\""
+          "text": "’Look at her forming all these words like she’s not happy to get more alone time with him.’ Morwenna clicked her teeth, why did Elu insist on being so fake?"
         },
         {
           "id": 85,
           "paragraph_id": 73,
-          "text": "’Look at her forming all these words like she’s not happy to get more alone time with him.’ Morwenna clicked her teeth, why did Elu insist on being so fake?"
+          "text": "The Princess felt a sudden thick warmth swell behind her ribs."
         },
         {
           "id": 86,
           "paragraph_id": 74,
-          "text": "The Princess felt a sudden thick warmth swell behind her ribs."
+          "text": "For twenty-five years, parting words in her life had consisted of rigid court bows, calculating nods, and the cold rehearsed well-wishes of house retainers who cared only for her family’s annual stipend."
         },
         {
           "id": 87,
           "paragraph_id": 75,
-          "text": "For twenty-five years, parting words in her life had consisted of rigid court bows, calculating nods, and the cold rehearsed well-wishes of house retainers who cared only for her family’s annual stipend."
+          "text": "These women had seen her scream at ancient bone hands, watched her slip on carpets trying to throw kicks, and shared bowls of fatty stew around campfires under the dead earth."
         },
         {
           "id": 88,
           "paragraph_id": 76,
-          "text": "These women had seen her scream at ancient bone hands, watched her slip on carpets trying to throw kicks, and shared bowls of fatty stew around campfires under the dead earth."
+          "text": "She raised both hands, bowing her head with deep grace."
         },
         {
           "id": 89,
           "paragraph_id": 77,
-          "text": "She raised both hands, bowing her head with deep grace."
-        },
-        {
-          "id": 90,
-          "paragraph_id": 78,
           "text": "\"Thank you."
         },
         {
-          "id": 91,
-          "paragraph_id": 78,
+          "id": 90,
+          "paragraph_id": 77,
           "text": "Every single one of you."
         },
         {
-          "id": 92,
-          "paragraph_id": 78,
+          "id": 91,
+          "paragraph_id": 77,
           "text": "I..."
         },
         {
-          "id": 93,
-          "paragraph_id": 78,
+          "id": 92,
+          "paragraph_id": 77,
           "text": "I have never known seven days like these."
+        },
+        {
+          "id": 93,
+          "paragraph_id": 77,
+          "text": "I will not forget them.\""
         },
         {
           "id": 94,
           "paragraph_id": 78,
-          "text": "I will not forget them.\""
+          "text": "\"Don’t get all weepy on us now, Princess,\" Tasmin said, a slight grin touching the corner of her mouth."
         },
         {
           "id": 95,
-          "paragraph_id": 79,
-          "text": "\"Don’t get all weepy on us now, Princess,\" Tasmin said, a slight grin touching the corner of her mouth."
+          "paragraph_id": 78,
+          "text": "\"You’ll make the Captain look soft.\""
         },
         {
           "id": 96,
           "paragraph_id": 79,
-          "text": "\"You’ll make the Captain look soft.\""
+          "text": "Silas took a slow step forward, separating himself from the stone archway of the portico."
         },
         {
           "id": 97,
           "paragraph_id": 80,
-          "text": "Silas took a slow step forward, separating himself from the stone archway of the portico."
+          "text": "The Princess’s eyelashes fluttered as her gaze met his."
         },
         {
           "id": 98,
           "paragraph_id": 81,
-          "text": "The Princess’s eyelashes fluttered as her gaze met his."
+          "text": "Bathed in the dawn light, the Lord of Blessed Land carried an imposing settled presence that made the air around him feel warm."
         },
         {
           "id": 99,
           "paragraph_id": 82,
-          "text": "Bathed in the dawn light, the Lord of Blessed Land carried an imposing settled presence that made the air around him feel warm."
+          "text": "His dark hair had grown a fraction longer over the past week, the unruly black bangs brushing against his temples and grazing the collar of his clean charcoal-gray tunic."
         },
         {
           "id": 100,
           "paragraph_id": 83,
-          "text": "His dark hair had grown a fraction longer over the past week, the unruly black bangs brushing against his temples and grazing the collar of his clean charcoal-gray tunic."
+          "text": "Beneath his dark brows, his eyes were clear piercing blue, encircled by that unmistakable ring of gold that looked amazing."
         },
         {
           "id": 101,
           "paragraph_id": 84,
-          "text": "Beneath his dark brows, his eyes were clear piercing blue, encircled by that unmistakable ring of gold that looked amazing."
+          "text": "He reached his right hand into the pocket of his coat, rubbing the back of his neck with his left in that familiar self-conscious manner."
         },
         {
           "id": 102,
           "paragraph_id": 85,
-          "text": "He reached his right hand into the pocket of his coat, rubbing the back of his neck with his left in that familiar self-conscious manner."
+          "text": "\"I’m usually pretty terrible at this sort of thing,\" Silas admitted."
         },
         {
           "id": 103,
-          "paragraph_id": 86,
-          "text": "\"I’m usually pretty terrible at this sort of thing,\" Silas admitted."
+          "paragraph_id": 85,
+          "text": "\"Diplomatic gifts, courtly tokens... none of that was ever in my job description but Thora showed me how to set the wire, and Eluned helped me temper the facet so the mana wouldn’t bleed out.\""
         },
         {
           "id": 104,
           "paragraph_id": 86,
-          "text": "\"Diplomatic gifts, courtly tokens... none of that was ever in my job description but Thora showed me how to set the wire, and Eluned helped me temper the facet so the mana wouldn’t bleed out.\""
+          "text": "He drew his hand from his coat, opening his broad calloused palm."
         },
         {
           "id": 105,
           "paragraph_id": 87,
-          "text": "He drew his hand from his coat, opening his broad calloused palm."
+          "text": "The Princess’s breath hitched in her throat."
         },
         {
           "id": 106,
           "paragraph_id": 88,
-          "text": "The Princess’s breath hitched in her throat."
+          "text": "Resting against his glove was a slender exquisite necklace."
         },
         {
           "id": 107,
           "paragraph_id": 89,
-          "text": "Resting against his glove was a slender exquisite necklace."
+          "text": "The chain was forged of whisper-thin links of dark star-iron, cold and dark as midnight."
         },
         {
           "id": 108,
           "paragraph_id": 90,
-          "text": "The chain was forged of whisper-thin links of dark star-iron, cold and dark as midnight."
+          "text": "Suspended along the collar were five mana diamonds, their surfaces polished just enough to reveal the brilliant prismatic fires trapped within their cores... azure, amber, green, and deep violet."
         },
         {
           "id": 109,
           "paragraph_id": 91,
-          "text": "Suspended along the collar were five mana diamonds, their surfaces polished just enough to reveal the brilliant prismatic fires trapped within their cores... azure, amber, green, and deep violet."
+          "text": "They were the very stones they had recovered from the lower deposits of Mine KB22, carrying the mineral heartbeat of the deep earth."
         },
         {
           "id": 110,
           "paragraph_id": 92,
-          "text": "They were the very stones they had recovered from the lower deposits of Mine KB22, carrying the mineral heartbeat of the deep earth."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 93,
           "text": "\"It’s not cut like royal jewelry,\" Silas said, stepping directly in front of her."
         },
         {
-          "id": 112,
-          "paragraph_id": 93,
+          "id": 111,
+          "paragraph_id": 92,
           "text": "\"It’s a bit rough around the edges but the mana inside these diamonds has been stabilized by my core."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 92,
+          "text": "If you ever find yourself in a room with a bad person, or someone tries to push a spiritual suppressive field onto you, the stones will flash and break the pressure wave.\""
         },
         {
           "id": 113,
           "paragraph_id": 93,
-          "text": "If you ever find yourself in a room with a bad person, or someone tries to push a spiritual suppressive field onto you, the stones will flash and break the pressure wave.\""
+          "text": "He tilted his head slightly."
         },
         {
           "id": 114,
-          "paragraph_id": 94,
-          "text": "He tilted his head slightly."
+          "paragraph_id": 93,
+          "text": "\"Mind if I put it on you?\""
         },
         {
           "id": 115,
           "paragraph_id": 94,
-          "text": "\"Mind if I put it on you?\""
+          "text": "\"I..."
         },
         {
           "id": 116,
-          "paragraph_id": 95,
-          "text": "\"I..."
+          "paragraph_id": 94,
+          "text": "I would be honored, Lord Silas,\" she murmured softly, her porcelain skin warming as she bowed her head and reached up to sweep her heavy, royal-blue hair over her left shoulder, baring the pale curve of her neck."
         },
         {
           "id": 117,
           "paragraph_id": 95,
-          "text": "I would be honored, Lord Silas,\" she murmured softly, her porcelain skin warming as she bowed her head and reached up to sweep her heavy,royal-blue hair over her left shoulder, baring the pale curve of her neck."
+          "text": "Silas stepped behind her."
         },
         {
           "id": 118,
           "paragraph_id": 96,
-          "text": "Silas stepped behind her."
+          "text": "His fingers were broad and rough and when the back of his knuckles grazed the sensitive skin at the base of her throat, an electric shiver raced down the Princess’s spine, making her shoulders lock for a fraction of a second."
         },
         {
           "id": 119,
           "paragraph_id": 97,
-          "text": "His fingers were broad and rough and when the back of his knuckles grazed the sensitive skin at the base of her throat, an electric shiver raced down the Princess’s spine, making her shoulders lock for a fraction of a second."
+          "text": "CLICK!"
         },
         {
           "id": 120,
           "paragraph_id": 98,
-          "text": "CLICK!"
+          "text": "The tiny star-iron clasp snapped securely into place as the cool weight of the diamonds settled against her collarbone, and immediately, a soothing pulse of warm mana rippled across her chest, perfectly synchronized with her heartbeat."
         },
         {
           "id": 121,
           "paragraph_id": 99,
-          "text": "The tiny star-iron clasp snapped securely into place as the cool weight of the diamonds settled against her collarbone, and immediately, a soothing pulse of warm mana rippled across her chest, perfectly synchronized with her heartbeat."
+          "text": "Silas stepped back around, looking down at her with a gentle satisfied nod."
         },
         {
           "id": 122,
           "paragraph_id": 100,
-          "text": "Silas stepped back around, looking down at her with a gentle satisfied nod."
+          "text": "\"Looks good on you,\" he said quietly then, his blue-gold eyes met hers with a warm focus."
         },
         {
           "id": 123,
-          "paragraph_id": 101,
-          "text": "\"Looks good on you,\" he said quietly then, his blue-gold eyes met hers with a warm focus."
+          "paragraph_id": 100,
+          "text": "\"Stay safe out there, Aki.\""
         },
         {
           "id": 124,
           "paragraph_id": 101,
-          "text": "\"Stay safe out there, Aki.\""
+          "text": "The world seemed to drop its volume by half."
         },
         {
           "id": 125,
           "paragraph_id": 102,
-          "text": "The world seemed to drop its volume by half."
+          "text": "’Aki...’"
         },
         {
           "id": 126,
           "paragraph_id": 103,
-          "text": "’Aki...’"
+          "text": "The syllables hung in the crisp mountain air like a bell struck in an empty temple."
         },
         {
           "id": 127,
           "paragraph_id": 104,
-          "text": "The syllables hung in the crisp mountain air like a bell struck in an empty temple."
+          "text": "The Princess stood motionless, her azure eyes wide, her lower lip parting in silent stunned wonder."
         },
         {
           "id": 128,
           "paragraph_id": 105,
-          "text": "The Princess stood motionless, her azure eyes wide, her lower lip parting in silent stunned wonder."
+          "text": "In the Supreme Royal Family, names were a divine privilege reserved exclusively for those who awakened a Lord Core."
         },
         {
           "id": 129,
           "paragraph_id": 106,
-          "text": "In the Supreme Royal Family, names were a divine privilege reserved exclusively for those who awakened a Lord Core."
+          "text": "To be an Unawakened scion was to be stripped of an identity, relegated to \"The Asset,\" or \"The Nameless One.\" depending on your gender."
         },
         {
           "id": 130,
           "paragraph_id": 107,
-          "text": "To be an Unawakened scion was to be stripped of an identity, relegated to \"The Asset,\" or \"The Nameless One.\" depending on your gender."
+          "text": "To bestow a name upon oneself was punishable by exile and to have an outsider bestow an unauthorized title was considered high treason and a grave insult."
         },
         {
           "id": 131,
           "paragraph_id": 108,
-          "text": "To bestow a name upon oneself was punishable by exile and to have an outsider bestow an unauthorized title was considered high treason and a grave insult."
+          "text": "Yet as the word settled into her chest, there was no offense and there was no cold indignation."
         },
         {
           "id": 132,
           "paragraph_id": 109,
-          "text": "Yet as the word settled into her chest, there was no offense and there was no cold indignation."
+          "text": "There was only a violent fluttering swarm of warmth that exploded in her stomach, rising through her throat and staining her cheeks with an uncontrollable fiery pink blush."
         },
         {
           "id": 133,
           "paragraph_id": 110,
-          "text": "There was only a violent fluttering swarm of warmth that exploded in her stomach, rising through her throat and staining her cheeks with an uncontrollable fiery pink blush."
+          "text": "He hadn’t given her a formal decree... he had given her an affectionate personal nickname."
         },
         {
           "id": 134,
           "paragraph_id": 111,
-          "text": "He hadn’t given her a formal decree... he had given her an affectionate personal nickname."
+          "text": "’Aki.’"
         },
         {
           "id": 135,
           "paragraph_id": 112,
-          "text": "’Aki.’"
+          "text": "It was simple... but this name..."
         },
         {
           "id": 136,
           "paragraph_id": 113,
-          "text": "It was simple... but this name..."
-        },
-        {
-          "id": 137,
-          "paragraph_id": 114,
           "text": "...It was hers."
         }
       ],
@@ -23578,7 +23560,6 @@
         "’Why...?’",
         "The Crown Prince of the World swallowed hard, staring at the empty floor in the lightless basement.",
         "’Why am I crying...?’",
-        "...",
         "The damp chill of the parking concourse clung to the concrete like oil.",
         "Aki stood on the raised curb three paces beyond the threshold of Arena Seven’s heavy security airlock.",
         "The overhead sodium lamps hummed with a low drone, flickering every few seconds against the soot-stained exhaust flues.",
@@ -23932,660 +23913,655 @@
         {
           "id": 49,
           "paragraph_id": 33,
-          "text": "..."
+          "text": "The damp chill of the parking concourse clung to the concrete like oil."
         },
         {
           "id": 50,
           "paragraph_id": 34,
-          "text": "The damp chill of the parking concourse clung to the concrete like oil."
+          "text": "Aki stood on the raised curb three paces beyond the threshold of Arena Seven’s heavy security airlock."
         },
         {
           "id": 51,
           "paragraph_id": 35,
-          "text": "Aki stood on the raised curb three paces beyond the threshold of Arena Seven’s heavy security airlock."
+          "text": "The overhead sodium lamps hummed with a low drone, flickering every few seconds against the soot-stained exhaust flues."
         },
         {
           "id": 52,
           "paragraph_id": 36,
-          "text": "The overhead sodium lamps hummed with a low drone, flickering every few seconds against the soot-stained exhaust flues."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 37,
           "text": "\"Haaaa..."
         },
         {
-          "id": 54,
-          "paragraph_id": 37,
+          "id": 53,
+          "paragraph_id": 36,
           "text": "I want to go home...\" Aki muttered. ’Or Blessed Land..."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 36,
+          "text": "I wouldn’t mind either way.’"
         },
         {
           "id": 55,
           "paragraph_id": 37,
-          "text": "I wouldn’t mind either way.’"
+          "text": "She wanted to go to Blessed Land more though but Thor wasn’t going to be here for a while and there was no guarantee that Thor would agree to carry her a second time."
         },
         {
           "id": 56,
           "paragraph_id": 38,
-          "text": "She wanted to go to Blessed Land more though but Thor wasn’t going to be here for a while and there was no guarantee that Thor would agree to carry her a second time."
+          "text": "’Especially if she doesn’t want to...’"
         },
         {
           "id": 57,
           "paragraph_id": 39,
-          "text": "’Especially if she doesn’t want to...’"
+          "text": "Aki could always bribe her with more food though."
         },
         {
           "id": 58,
           "paragraph_id": 40,
-          "text": "Aki could always bribe her with more food though."
+          "text": "Beneath the hem of her oversized charcoal traveling mantle, her hands hung relaxed at her sides."
         },
         {
           "id": 59,
           "paragraph_id": 41,
-          "text": "Beneath the hem of her oversized charcoal traveling mantle, her hands hung relaxed at her sides."
+          "text": "Her left forearm knitted shut and purged of poison by Alexander’s lilac healing mana throbbed with a dull phantom heat, like an iron nail tapped lightly against marrow."
         },
         {
           "id": 60,
           "paragraph_id": 42,
-          "text": "Her left forearm knitted shut and purged of poison by Alexander’s lilac healing mana throbbed with a dull phantom heat, like an iron nail tapped lightly against marrow."
+          "text": "’Big Brother didn’t even heal me completely...’"
         },
         {
           "id": 61,
           "paragraph_id": 43,
-          "text": "’Big Brother didn’t even heal me completely...’"
+          "text": "She drew in a slow deep breath through her nose as the air down here tasted of diesel exhaust."
         },
         {
           "id": 62,
           "paragraph_id": 44,
-          "text": "She drew in a slow deep breath through her nose as the air down here tasted of diesel exhaust."
+          "text": "It was ugly yet, standing on the curb, watching the condensation bead along the yellow hazard lines of the concrete floor, an odd sensation bloomed behind her ribs."
         },
         {
           "id": 63,
           "paragraph_id": 45,
-          "text": "It was ugly yet, standing on the curb, watching the condensation bead along the yellow hazard lines of the concrete floor, an odd sensation bloomed behind her ribs."
+          "text": "’I told him to get out,’ she thought."
         },
         {
           "id": 64,
           "paragraph_id": 46,
-          "text": "’I told him to get out,’ she thought."
+          "text": "The realization sat in her chest like an unswallowed stone."
         },
         {
           "id": 65,
           "paragraph_id": 47,
-          "text": "The realization sat in her chest like an unswallowed stone."
+          "text": "A small cold pang of guilt brushed against the base of her throat, cultivated across twenty-five years of being taught that an Unawakened scion’s entire purpose was to absorb the tempers of her superiors with downcast eyes and folded wrists."
         },
         {
           "id": 66,
           "paragraph_id": 48,
-          "text": "A small cold pang of guilt brushed against the base of her throat, cultivated across twenty-five years of being taught that an Unawakened scion’s entire purpose was to absorb the tempers of her superiors with downcast eyes and folded wrists."
+          "text": "Alexander was her elder brother, he held an active Purple Core and he commanded battalions across the Sovereign Realm."
         },
         {
           "id": 67,
           "paragraph_id": 49,
-          "text": "Alexander was her elder brother, he held an active Purple Core and he commanded battalions across the Sovereign Realm."
+          "text": "In the grand architectural registry of the world, his blood was gold and hers was water."
         },
         {
           "id": 68,
           "paragraph_id": 50,
-          "text": "In the grand architectural registry of the world, his blood was gold and hers was water."
+          "text": "...And she had looked him dead in his eyes and told him to fuck out of her life."
         },
         {
           "id": 69,
           "paragraph_id": 51,
-          "text": "...And she had looked him dead in his eyes and told him to fuck out of her life."
+          "text": "Her lips twitched as the pang of guilt flared, flickered, and was promptly smothered by an overwhelming surge of pure electric triumph."
         },
         {
           "id": 70,
           "paragraph_id": 52,
-          "text": "Her lips twitched as the pang of guilt flared, flickered, and was promptly smothered by an overwhelming surge of pure electric triumph."
+          "text": "’I did it.’"
         },
         {
           "id": 71,
           "paragraph_id": 53,
-          "text": "’I did it.’"
+          "text": "The heavy thud of combat boots broke her reverie."
         },
         {
           "id": 72,
           "paragraph_id": 54,
-          "text": "The heavy thud of combat boots broke her reverie."
+          "text": "Emerging from the security vestibule, Alexander strode into the harsh sodium light."
         },
         {
           "id": 73,
           "paragraph_id": 55,
-          "text": "Emerging from the security vestibule, Alexander strode into the harsh sodium light."
+          "text": "His matte-black greatcoat was buttoned to the chin, his posture rigid as a spear, but the easy suffocating arrogance that usually trailed his heels was absent."
         },
         {
           "id": 74,
           "paragraph_id": 56,
-          "text": "His matte-black greatcoat was buttoned to the chin, his posture rigid as a spear, but the easy suffocating arrogance that usually trailed his heels was absent."
+          "text": "He did not look at the armored retainers who fell into step behind him and he did not issue orders to the facility guards who stood bowed at ninety-degree angles along the wall."
         },
         {
           "id": 75,
           "paragraph_id": 57,
-          "text": "He did not look at the armored retainers who fell into step behind him and he did not issue orders to the facility guards who stood bowed at ninety-degree angles along the wall."
+          "text": "He walked straight toward the idling limousine waiting in the VIP lane."
         },
         {
           "id": 76,
           "paragraph_id": 58,
-          "text": "He walked straight toward the idling limousine waiting in the VIP lane."
+          "text": "As he passed Aki, his pace hitched for a fraction of a second."
         },
         {
           "id": 77,
           "paragraph_id": 59,
-          "text": "As he passed Aki, his pace hitched for a fraction of a second."
+          "text": "His blue eyes... the same shade as hers flicked toward her shoulder but he didn’t speak."
         },
         {
           "id": 78,
           "paragraph_id": 60,
-          "text": "His blue eyes... the same shade as hers flicked toward her shoulder but he didn’t speak."
+          "text": "His jaw worked once with the teeth grinding behind pale lips, and his right hand curled into a fist so tight the reinforced leather of his glove creaked under the strain."
         },
         {
           "id": 79,
           "paragraph_id": 61,
-          "text": "His jaw worked once with the teeth grinding behind pale lips, and his right hand curled into a fist so tight the reinforced leather of his glove creaked under the strain."
+          "text": "He tore his eyes away, ducked his head, and stepped into the rear compartment of the vehicle."
         },
         {
           "id": 80,
           "paragraph_id": 62,
-          "text": "He tore his eyes away, ducked his head, and stepped into the rear compartment of the vehicle."
+          "text": "THUD!"
         },
         {
           "id": 81,
           "paragraph_id": 63,
-          "text": "THUD!"
+          "text": "The reinforced door slammed shut with a pressurized seal as the engine let out a low hum, and the limousine accelerated into the exit tunnel with its tires hissing against the slick pavement as its red taillights were swallowed by the gloom."
         },
         {
           "id": 82,
           "paragraph_id": 64,
-          "text": "The reinforced door slammed shut with a pressurized seal as the engine let out a low hum, and the limousine accelerated into the exit tunnel with its tires hissing against the slick pavement as its red taillights were swallowed by the gloom."
+          "text": "Aki watched the red glare fade, exhaling a thin cloud of mist into the chill."
         },
         {
           "id": 83,
           "paragraph_id": 65,
-          "text": "Aki watched the red glare fade, exhaling a thin cloud of mist into the chill."
+          "text": "SKRRRR!"
         },
         {
           "id": 84,
           "paragraph_id": 66,
-          "text": "SKRRRR!"
+          "text": "A sleek silver-white luxury car glided smoothly around the eastern ramp, coming to a halt directly beside the curb where she stood."
         },
         {
           "id": 85,
           "paragraph_id": 67,
-          "text": "A sleek silver-white luxury car glided smoothly around the eastern ramp, coming to a halt directly beside the curb where she stood."
+          "text": "The tinted rear passenger window slid down with a whisper of hydraulics, revealing the pale anxious face of her personal maid."
         },
         {
           "id": 86,
           "paragraph_id": 68,
-          "text": "The tinted rear passenger window slid down with a whisper of hydraulics, revealing the pale anxious face of her personal maid."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 69,
           "text": "\"Your Highness!\" Mira gasped, her hands trembling as she unlocked the door."
         },
         {
-          "id": 88,
-          "paragraph_id": 69,
+          "id": 87,
+          "paragraph_id": 68,
           "text": "\"Praise the heavens!"
+        },
+        {
+          "id": 88,
+          "paragraph_id": 68,
+          "text": "Please, get in before the security drones flag the curb!\""
         },
         {
           "id": 89,
           "paragraph_id": 69,
-          "text": "Please, get in before the security drones flag the curb!\""
+          "text": "Aki stepped down from the concrete ledge, ducked into the warm leather-scented cabin, and let the door pull itself shut with a muted click."
         },
         {
           "id": 90,
           "paragraph_id": 70,
-          "text": "Aki stepped down from the concrete ledge, ducked into the warm leather-scented cabin, and let the door pull itself shut with a muted click."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 71,
           "text": "\"Drive, Mira,\" Aki said softly, resting her head back against the plush synth-suede headrest."
         },
         {
-          "id": 92,
-          "paragraph_id": 71,
+          "id": 91,
+          "paragraph_id": 70,
           "text": "\"Take the elevated bypass."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 70,
+          "text": "I don’t want to sit in traffic at all.\""
         },
         {
           "id": 93,
           "paragraph_id": 71,
-          "text": "I don’t want to sit in traffic at all.\""
+          "text": "\"Right away, Highness!\""
         },
         {
           "id": 94,
           "paragraph_id": 72,
-          "text": "\"Right away, Highness!\""
+          "text": "The car hummed to life, banking smoothly out of the underground complex and ascending the helix ramp toward the street level."
         },
         {
           "id": 95,
           "paragraph_id": 73,
-          "text": "The car hummed to life, banking smoothly out of the underground complex and ascending the helix ramp toward the street level."
+          "text": "As they cleared the tunnel threshold and broke onto the high viaduct, the sky opened up."
         },
         {
           "id": 96,
           "paragraph_id": 74,
-          "text": "As they cleared the tunnel threshold and broke onto the high viaduct, the sky opened up."
+          "text": "Rain began to fall across Rhyx City... thick sheets of water that drummed relentlessly against the reinforced polycarbonate windshield."
         },
         {
           "id": 97,
           "paragraph_id": 75,
-          "text": "Rain began to fall across Rhyx City... thick sheets of water that drummed relentlessly against the reinforced polycarbonate windshield."
+          "text": "Below the viaduct, the neon sprawl of the middle sectors smeared into blurry ribbons of electric cyan, harsh magenta, and rain-slicked asphalt."
         },
         {
           "id": 98,
           "paragraph_id": 76,
-          "text": "Below the viaduct, the neon sprawl of the middle sectors smeared into blurry ribbons of electric cyan, harsh magenta, and rain-slicked asphalt."
+          "text": "Aki sat back, lifting her left hand to rest against the cool glass of the window."
         },
         {
           "id": 99,
           "paragraph_id": 77,
-          "text": "Aki sat back, lifting her left hand to rest against the cool glass of the window."
+          "text": "She looked down at her fingers, curling them slowly into a fist."
         },
         {
           "id": 100,
           "paragraph_id": 78,
-          "text": "She looked down at her fingers, curling them slowly into a fist."
+          "text": "’He thought I would cry,’ she mused, watching a rivulet of rainwater race across the exterior glass. ’He thought the smell of blood would make me vomit..."
         },
         {
           "id": 101,
-          "paragraph_id": 79,
-          "text": "’He thought I would cry,’ she mused, watching a rivulet of rainwater race across the exterior glass. ’He thought the smell of blood would make me vomit..."
+          "paragraph_id": 78,
+          "text": "Big Brother probably thought I’d curl into a ball on the floor and beg him to save me so he could hold the arranged marriage over my head like a leash.’"
         },
         {
           "id": 102,
           "paragraph_id": 79,
-          "text": "Big Brother probably thought I’d curl into a ball on the floor and beg him to save me so he could hold the arranged marriage over my head like a leash.’"
+          "text": "A soft, genuine laugh slipped from her throat."
         },
         {
           "id": 103,
           "paragraph_id": 80,
-          "text": "A soft, genuine laugh slipped from her throat."
+          "text": "It was quiet at first, barely a breath against the hum of the engine, but it grew into a bright clear chuckle that made Mira glance nervously into the rearview mirror."
         },
         {
           "id": 104,
           "paragraph_id": 81,
-          "text": "It was quiet at first, barely a breath against the hum of the engine, but it grew into a bright clear chuckle that made Mira glance nervously into the rearview mirror."
-        },
-        {
-          "id": 105,
-          "paragraph_id": 82,
           "text": "\"Highness?\" Mira ventured cautiously, her knuckles white on the steering wheel."
         },
         {
-          "id": 106,
-          "paragraph_id": 82,
+          "id": 105,
+          "paragraph_id": 81,
           "text": "\"Are... are you well?"
+        },
+        {
+          "id": 106,
+          "paragraph_id": 81,
+          "text": "The Crown Prince looked... terrifying when he passed through the lower security checkpoint.\""
         },
         {
           "id": 107,
           "paragraph_id": 82,
-          "text": "The Crown Prince looked... terrifying when he passed through the lower security checkpoint.\""
+          "text": "\"I am better than well, Mira,\" Aki murmured, her azure eyes dancing with dark amusement."
         },
         {
           "id": 108,
-          "paragraph_id": 83,
-          "text": "\"I am better than well, Mira,\" Aki murmured, her azure eyes dancing with dark amusement."
+          "paragraph_id": 82,
+          "text": "\"I have never been more awake in my life.\""
         },
         {
           "id": 109,
           "paragraph_id": 83,
-          "text": "\"I have never been more awake in my life.\""
+          "text": "She was beginning to act like Brida a bit but Aki didn’t hate it, she wanted to be half as confident as that woman."
         },
         {
           "id": 110,
           "paragraph_id": 84,
-          "text": "She was beginning to act like Brida a bit but Aki didn’t hate it, she wanted to be half as confident as that woman."
+          "text": "The town car carved through the downpour, ascending the sweeping spirals of the upper tier where the rain-scrubbed glass towers of the high nobility pierced the lower clouds."
         },
         {
           "id": 111,
           "paragraph_id": 85,
-          "text": "The town car carved through the downpour, ascending the sweeping spirals of the upper tier where the rain-scrubbed glass towers of the high nobility pierced the lower clouds."
+          "text": "Within twenty minutes, the vehicle pulled into the private garage of her residential tower as the hydraulic security gates clanged shut behind them, sealing out the noise of the metropolis."
         },
         {
           "id": 112,
           "paragraph_id": 86,
-          "text": "Within twenty minutes, the vehicle pulled into the private garage of her residential tower as the hydraulic security gates clanged shut behind them, sealing out the noise of the metropolis."
+          "text": "The elevator ride to the penthouse was silent."
         },
         {
           "id": 113,
           "paragraph_id": 87,
-          "text": "The elevator ride to the penthouse was silent."
+          "text": "The moment the private foyer doors parted, four senior security maids rushed forward with warm towels, silk wraps, and silver trays laden with restorative tonics."
         },
         {
           "id": 114,
           "paragraph_id": 88,
-          "text": "The moment the private foyer doors parted, four senior security maids rushed forward with warm towels, silk wraps, and silver trays laden with restorative tonics."
+          "text": "\"Highness!"
         },
         {
           "id": 115,
-          "paragraph_id": 89,
-          "text": "\"Highness!"
+          "paragraph_id": 88,
+          "text": "The bath has been drawn with crushed white lotus and eucalyptus!\""
         },
         {
           "id": 116,
           "paragraph_id": 89,
-          "text": "The bath has been drawn with crushed white lotus and eucalyptus!\""
+          "text": "\"We have prepared the evening tea—\""
         },
         {
           "id": 117,
           "paragraph_id": 90,
-          "text": "\"We have prepared the evening tea—\""
+          "text": "\"Your gown is ruined, Highness, allow us to take the mantle—\""
         },
         {
           "id": 118,
           "paragraph_id": 91,
-          "text": "\"Your gown is ruined, Highness, allow us to take the mantle—\""
+          "text": "\"Leave the towels,\" Aki commanded, stepping past them without breaking stride."
         },
         {
           "id": 119,
-          "paragraph_id": 92,
-          "text": "\"Leave the towels,\" Aki commanded, stepping past them without breaking stride."
+          "paragraph_id": 91,
+          "text": "\"All of you, out of the bedchamber.\""
         },
         {
           "id": 120,
           "paragraph_id": 92,
-          "text": "\"All of you, out of the bedchamber.\""
+          "text": "\"B-But Highness—\""
         },
         {
           "id": 121,
           "paragraph_id": 93,
-          "text": "\"B-But Highness—\""
+          "text": "\"Out,\" She repeated coldly."
         },
         {
           "id": 122,
           "paragraph_id": 94,
-          "text": "\"Out,\" She repeated coldly."
+          "text": "The maids froze, exchanging wide-eyed terrified glances, before bowing deeply and retreating through the foyer double doors."
         },
         {
           "id": 123,
           "paragraph_id": 95,
-          "text": "The maids froze, exchanging wide-eyed terrified glances, before bowing deeply and retreating through the foyer double doors."
+          "text": "Left alone in the quiet expanse of her suite, Aki walked straight to the vanity room."
         },
         {
           "id": 124,
           "paragraph_id": 96,
-          "text": "Left alone in the quiet expanse of her suite, Aki walked straight to the vanity room."
+          "text": "She stripped off the blood-spattered charcoal traveling cloak, unhooked the ruined, bile-stained wool tunic, and tossed them into the incinerator chute without a second thought then she kicked off her scuffed silk slippers, leaving them where they fell on the white marble floor."
         },
         {
           "id": 125,
           "paragraph_id": 97,
-          "text": "She stripped off the blood-spattered charcoal traveling cloak, unhooked the ruined, bile-stained wool tunic, and tossed them into the incinerator chute without a second thought then she kicked off her scuffed silk slippers, leaving them where they fell on the white marble floor."
+          "text": "\"Finally..."
         },
         {
           "id": 126,
-          "paragraph_id": 98,
-          "text": "\"Finally..."
+          "paragraph_id": 97,
+          "text": "Some alone time...\" Aki muttered, she never realized how much she would miss it."
         },
         {
           "id": 127,
           "paragraph_id": 98,
-          "text": "Some alone time...\" Aki muttered, she never realized how much she would miss it."
+          "text": "She reached into her wardrobe, pulling out an oversized, soft charcoal-gray cotton shirt... a garment that reached past her mid-thighs, comfortable, loose, and completely lacking any sort of crests or stiff bone stays."
         },
         {
           "id": 128,
           "paragraph_id": 99,
-          "text": "She reached into her wardrobe, pulling out an oversized, soft charcoal-gray cotton shirt... a garment that reached past her mid-thighs, comfortable, loose, and completely lacking any sort of crests or stiff bone stays."
+          "text": "She pulled it over her head, shaking her long blue hair free so it tumbled in damp wild waves over her shoulders and then she caught her reflection in the full-length mirror."
         },
         {
           "id": 129,
           "paragraph_id": 100,
-          "text": "She pulled it over her head, shaking her long blue hair free so it tumbled in damp wild waves over her shoulders and then she caught her reflection in the full-length mirror."
+          "text": "Her collarbones were bare, save for the whisper-thin chain of dark star-iron resting against her skin."
         },
         {
           "id": 130,
           "paragraph_id": 101,
-          "text": "Her collarbones were bare, save for the whisper-thin chain of dark star-iron resting against her skin."
+          "text": "The five uncut mana diamonds caught the recessed lighting, shimmering with azure, violet, and amber hues."
         },
         {
           "id": 131,
           "paragraph_id": 102,
-          "text": "The five uncut mana diamonds caught the recessed lighting, shimmering with azure, violet, and amber hues."
+          "text": "’I wonder can I draw mana from them...?’"
         },
         {
           "id": 132,
           "paragraph_id": 103,
-          "text": "’I wonder can I draw mana from them...?’"
+          "text": "Well she really didn’t know the first thing about Mana Gathering though."
         },
         {
           "id": 133,
           "paragraph_id": 104,
-          "text": "Well she really didn’t know the first thing about Mana Gathering though."
+          "text": "She walked to the adjoining sitting room and tapped the intercom on the mahogany desk."
         },
         {
           "id": 134,
           "paragraph_id": 105,
-          "text": "She walked to the adjoining sitting room and tapped the intercom on the mahogany desk."
+          "text": "\"Mira..."
         },
         {
           "id": 135,
-          "paragraph_id": 106,
-          "text": "\"Mira..."
+          "paragraph_id": 105,
+          "text": "Bring the terminal.\""
         },
         {
           "id": 136,
           "paragraph_id": 106,
-          "text": "Bring the terminal.\""
+          "text": "Five seconds later, the side door clicked open."
         },
         {
           "id": 137,
-          "paragraph_id": 107,
-          "text": "Five seconds later, the side door clicked open."
+          "paragraph_id": 106,
+          "text": "Mira slipped in quietly, carrying a sleek slate-black encrypted financial tablet with her head respectfully bowed."
         },
         {
           "id": 138,
           "paragraph_id": 107,
-          "text": "Mira slipped in quietly, carrying a sleek slate-black encrypted financial tablet with her head respectfully bowed."
+          "text": "\"Set it on the desk and take a seat,\" Aki instructed, walking over and leaning against the heavy wood."
         },
         {
           "id": 139,
           "paragraph_id": 108,
-          "text": "\"Set it on the desk and take a seat,\" Aki instructed, walking over and leaning against the heavy wood."
+          "text": "Mira set the tablet down, perching nervously on the edge of the leather chair."
         },
         {
           "id": 140,
           "paragraph_id": 109,
-          "text": "Mira set the tablet down, perching nervously on the edge of the leather chair."
+          "text": "\"Highness... if this is regarding the quarterly household audit—\""
         },
         {
           "id": 141,
           "paragraph_id": 110,
-          "text": "\"Highness... if this is regarding the quarterly household audit—\""
+          "text": "\"It isn’t,\" Aki cut in, tapping the screen with her thumb to unlock the biometric password."
         },
         {
           "id": 142,
-          "paragraph_id": 111,
-          "text": "\"It isn’t,\" Aki cut in, tapping the screen with her thumb to unlock the biometric password."
+          "paragraph_id": 110,
+          "text": "\"Log into the third offshore shell account... the one registered under the maritime trading dummy firm in the southern free ports.\""
         },
         {
           "id": 143,
           "paragraph_id": 111,
-          "text": "\"Log into the third offshore shell account... the one registered under the maritime trading dummy firm in the southern free ports.\""
-        },
-        {
-          "id": 144,
-          "paragraph_id": 112,
           "text": "Mira blinked, her brow furrowing in confusion."
         },
         {
-          "id": 145,
-          "paragraph_id": 112,
+          "id": 144,
+          "paragraph_id": 111,
           "text": "\"The private trust?"
         },
         {
-          "id": 146,
-          "paragraph_id": 112,
+          "id": 145,
+          "paragraph_id": 111,
           "text": "Highness, that ledger is only utilized for emergency capital reserves."
+        },
+        {
+          "id": 146,
+          "paragraph_id": 111,
+          "text": "The interest yield alone—\""
         },
         {
           "id": 147,
           "paragraph_id": 112,
-          "text": "The interest yield alone—\""
+          "text": "\"Open it,\" Aki said, her voice leaving no room for argument."
         },
         {
           "id": 148,
-          "paragraph_id": 113,
-          "text": "\"Open it,\" Aki said, her voice leaving no room for argument."
+          "paragraph_id": 112,
+          "text": "\"We are executing a transfer.\""
         },
         {
           "id": 149,
           "paragraph_id": 113,
-          "text": "\"We are executing a transfer.\""
+          "text": "\"A... a transfer?\" Mira’s fingers flew across the interface, entering the twenty-four-digit encryption cipher."
         },
         {
           "id": 150,
           "paragraph_id": 114,
-          "text": "\"A... a transfer?\" Mira’s fingers flew across the interface, entering the twenty-four-digit encryption cipher."
+          "text": "The screen flashed emerald green, displaying a balance that stretched across nine digits."
         },
         {
           "id": 151,
-          "paragraph_id": 115,
-          "text": "The screen flashed emerald green, displaying a balance that stretched across nine digits."
+          "paragraph_id": 114,
+          "text": "\"How much are we allocating, Your Highness?\""
         },
         {
           "id": 152,
           "paragraph_id": 115,
-          "text": "\"How much are we allocating, Your Highness?\""
+          "text": "\"Twenty million Spirit Credits.\""
         },
         {
           "id": 153,
           "paragraph_id": 116,
-          "text": "\"Twenty million Spirit Credits.\""
+          "text": "Mira’s hands froze over the screen."
         },
         {
           "id": 154,
           "paragraph_id": 117,
-          "text": "Mira’s hands froze over the screen."
+          "text": "Her jaw slowly dropped, her eyes bulging as she stared at the royal scion."
         },
         {
           "id": 155,
           "paragraph_id": 118,
-          "text": "Her jaw slowly dropped, her eyes bulging as she stared at the royal scion."
-        },
-        {
-          "id": 156,
-          "paragraph_id": 119,
           "text": "\"T-Twenty million?!"
         },
         {
-          "id": 157,
-          "paragraph_id": 119,
+          "id": 156,
+          "paragraph_id": 118,
           "text": "Highness!"
         },
         {
-          "id": 158,
-          "paragraph_id": 119,
+          "id": 157,
+          "paragraph_id": 118,
           "text": "That is equivalent to the annual operating budget of a Level 30 Lord legion!"
+        },
+        {
+          "id": 158,
+          "paragraph_id": 118,
+          "text": "Who could possibly require an offshore liquidity transfer of that scale?!\""
         },
         {
           "id": 159,
           "paragraph_id": 119,
-          "text": "Who could possibly require an offshore liquidity transfer of that scale?!\""
+          "text": "\"A debt,\" Aki replied smoothly, crossing her arms over her chest."
         },
         {
           "id": 160,
-          "paragraph_id": 120,
-          "text": "\"A debt,\" Aki replied smoothly, crossing her arms over her chest."
+          "paragraph_id": 119,
+          "text": "\"Room, board, and security fees.\""
         },
         {
           "id": 161,
           "paragraph_id": 120,
-          "text": "\"Room, board, and security fees.\""
+          "text": "’And worth every single cent,’ she added silently, remembering the roasted meat, the warm laughter around the fire, and the sight of Thor batting her playfully across the shoulders."
         },
         {
           "id": 162,
           "paragraph_id": 121,
-          "text": "’And worth every single cent,’ she added silently, remembering the roasted meat, the warm laughter around the fire, and the sight of Thor batting her playfully across the shoulders."
+          "text": "Mira swallowed hard, her chest heaving as she pulled up the transfer."
         },
         {
           "id": 163,
           "paragraph_id": 122,
-          "text": "Mira swallowed hard, her chest heaving as she pulled up the transfer."
+          "text": "\"I... understand."
         },
         {
           "id": 164,
-          "paragraph_id": 123,
-          "text": "\"I... understand."
+          "paragraph_id": 122,
+          "text": "Please dictate the recipient’s institutional routing code and account registry.\""
         },
         {
           "id": 165,
           "paragraph_id": 123,
-          "text": "Please dictate the recipient’s institutional routing code and account registry.\""
+          "text": "Aki recited the twelve-digit alphanumeric string effortlessly."
         },
         {
           "id": 166,
           "paragraph_id": 124,
-          "text": "Aki recited the twelve-digit alphanumeric string effortlessly."
+          "text": "She had repeated it in her head like a prayer every hour since stepping out of the Keep’s gates."
         },
         {
           "id": 167,
           "paragraph_id": 125,
-          "text": "She had repeated it in her head like a prayer every hour since stepping out of the Keep’s gates."
+          "text": "’4-7-B-9-0-X-1-1-4-K-R-8.’"
         },
         {
           "id": 168,
           "paragraph_id": 126,
-          "text": "’4-7-B-9-0-X-1-1-4-K-R-8.’"
+          "text": "Mira typed the characters into the prompt."
         },
         {
           "id": 169,
           "paragraph_id": 127,
-          "text": "Mira typed the characters into the prompt."
+          "text": "The financial network of the central banking system processed the request with the progress bar sweeping across the interface."
         },
         {
           "id": 170,
           "paragraph_id": 128,
-          "text": "The financial network of the central banking system processed the request with the progress bar sweeping across the interface."
+          "text": "BEEP!"
         },
         {
           "id": 171,
           "paragraph_id": 129,
-          "text": "BEEP!"
+          "text": "A secondary window popped up on the high-resolution display, presenting the verified clearinghouse node and the registered legal identity attached to the recipient’s ledger."
         },
         {
           "id": 172,
           "paragraph_id": 130,
-          "text": "A secondary window popped up on the high-resolution display, presenting the verified clearinghouse node and the registered legal identity attached to the recipient’s ledger."
+          "text": "\"The routing is verified through the Valoria Bank,\" Mira said, squinting at the screen as she tilted the tablet slightly with her eyes widening as she read the owner’s name aloud."
         },
         {
           "id": 173,
           "paragraph_id": 131,
-          "text": "\"The routing is verified through the Valoria Bank,\" Mira said, squinting at the screen as she tilted the tablet slightly with her eyes widening as she read the owner’s name aloud."
+          "text": "\"Registered recipient..."
         },
         {
           "id": 174,
-          "paragraph_id": 132,
-          "text": "\"Registered recipient..."
+          "paragraph_id": 131,
+          "text": "Silas Graves.\""
         },
         {
           "id": 175,
           "paragraph_id": 132,
-          "text": "Silas Graves.\""
+          "text": "The room fell quiet, save for the rain drumming against the balcony glass."
         },
         {
           "id": 176,
           "paragraph_id": 133,
-          "text": "The room fell quiet, save for the rain drumming against the balcony glass."
+          "text": "Aki stood still."
         },
         {
           "id": 177,
           "paragraph_id": 134,
-          "text": "Aki stood still."
+          "text": "’Silas Graves.’"
         },
         {
           "id": 178,
           "paragraph_id": 135,
-          "text": "’Silas Graves.’"
-        },
-        {
-          "id": 179,
-          "paragraph_id": 136,
           "text": "The name washed over her mind like cool spring water."
         }
       ],
-      "word_count": 2428
+      "word_count": 2427
     },
     {
       "chapter_index": 527,
@@ -24610,7 +24586,6 @@
         "Aki looked back out into the rain.",
         "Somewhere across the world, in the city where he stayed or deep in the dark valleys of the Umbral Basin, Silas’s phone was chiming.",
         "’We are even on the ledger, Lord Silas,’ she thought, her lips curving into a soft smile. ’Which means the next time I cross your gate... it won’t be on business.’",
-        "...",
         "[A Few Days Later — Valoria City]",
         "The morning light broke over the spires of Valoria City in a sharp blinding haze of pale amber and cold silver.",
         "It was a noisy restless dawn.",
@@ -24835,640 +24810,635 @@
         {
           "id": 22,
           "paragraph_id": 18,
-          "text": "..."
+          "text": "[A Few Days Later — Valoria City]"
         },
         {
           "id": 23,
           "paragraph_id": 19,
-          "text": "[A Few Days Later — Valoria City]"
+          "text": "The morning light broke over the spires of Valoria City in a sharp blinding haze of pale amber and cold silver."
         },
         {
           "id": 24,
           "paragraph_id": 20,
-          "text": "The morning light broke over the spires of Valoria City in a sharp blinding haze of pale amber and cold silver."
+          "text": "It was a noisy restless dawn."
         },
         {
           "id": 25,
           "paragraph_id": 21,
-          "text": "It was a noisy restless dawn."
+          "text": "The sky above the metropolis was crisscrossed with high-altitude security corridors, marked by the pulsing neon beacons of anti-air battery platforms."
         },
         {
           "id": 26,
           "paragraph_id": 22,
-          "text": "The sky above the metropolis was crisscrossed with high-altitude security corridors, marked by the pulsing neon beacons of anti-air battery platforms."
+          "text": "Armored transport skiffs bearing the heraldry of planetary embassies cut through the smog, escorting dignitaries toward the central orbital lifts."
         },
         {
           "id": 27,
           "paragraph_id": 23,
-          "text": "Armored transport skiffs bearing the heraldry of planetary embassies cut through the smog, escorting dignitaries toward the central orbital lifts."
+          "text": "Today was not an ordinary date on the civic calendar."
         },
         {
           "id": 28,
           "paragraph_id": 24,
-          "text": "Today was not an ordinary date on the civic calendar."
+          "text": "Today was the convening of the World Council Summit... the single most publicized diplomatic assembly of the decade!"
         },
         {
           "id": 29,
           "paragraph_id": 25,
-          "text": "Today was the convening of the World Council Summit... the single most publicized diplomatic assembly of the decade!"
+          "text": "The sitting presidents and heads of all nine surviving global territories were converging upon the neutral perimeter to negotiate the shifting geopolitical boundaries of the post-calamity era."
         },
         {
           "id": 30,
           "paragraph_id": 26,
-          "text": "The sitting presidents and heads of all nine surviving global territories were converging upon the neutral perimeter to negotiate the shifting geopolitical boundaries of the post-calamity era."
+          "text": "In the upper residential wing of the Whitmore estate, the silence was a bit weird."
         },
         {
           "id": 31,
           "paragraph_id": 27,
-          "text": "In the upper residential wing of the Whitmore estate, the silence was a bit weird."
+          "text": "Penelope Whitmore yawned, a small sleepy sound that ruffled her dark purple bangs."
         },
         {
           "id": 32,
           "paragraph_id": 28,
-          "text": "Penelope Whitmore yawned, a small sleepy sound that ruffled her dark purple bangs."
+          "text": "\"Haahh...\""
         },
         {
           "id": 33,
           "paragraph_id": 29,
-          "text": "\"Haahh...\""
+          "text": "She pushed the heavy silk duvet off her legs, rubbing her eyes with the cuffs of an oversized pastel nightshirt."
         },
         {
           "id": 34,
           "paragraph_id": 30,
-          "text": "She pushed the heavy silk duvet off her legs, rubbing her eyes with the cuffs of an oversized pastel nightshirt."
+          "text": "She padded barefoot across the plush carpet to the floor-to-ceiling bay window overlooking the southern manicured gardens."
         },
         {
           "id": 35,
           "paragraph_id": 31,
-          "text": "She padded barefoot across the plush carpet to the floor-to-ceiling bay window overlooking the southern manicured gardens."
+          "text": "Below, private security detachments clad in the silver-and-amethyst armor of House Whitmore patrolled the perimeter walls with heavy mana-rifles with their hounds sniffing the iron railings."
         },
         {
           "id": 36,
           "paragraph_id": 32,
-          "text": "Below, private security detachments clad in the silver-and-amethyst armor of House Whitmore patrolled the perimeter walls with heavy mana-rifles with their hounds sniffing the iron railings."
+          "text": "Valoria was humming like a disturbed hive."
         },
         {
           "id": 37,
           "paragraph_id": 33,
-          "text": "Valoria was humming like a disturbed hive."
+          "text": "’Nine countries...’ Penelope mused, leaning her forehead against the cool glass."
         },
         {
           "id": 38,
           "paragraph_id": 34,
-          "text": "’Nine countries...’ Penelope mused, leaning her forehead against the cool glass."
+          "text": "Her history tutors had made her memorize the maps until her eyes bled."
         },
         {
           "id": 39,
           "paragraph_id": 35,
-          "text": "Her history tutors had made her memorize the maps until her eyes bled."
+          "text": "Decades ago, before the first dimensional fractures ripped through the earth’s crust and the Sovereign Realm spilled its horrors onto mortal soil, the world had been different."
         },
         {
           "id": 40,
           "paragraph_id": 36,
-          "text": "Decades ago, before the first dimensional fractures ripped through the earth’s crust and the Sovereign Realm spilled its horrors onto mortal soil, the world had been different."
+          "text": "There were dozens of nations, sprawling continents with names that only existed in antique atlases now but when the sky tore open, entire landmasses had sunk beneath boiling seas or shattered into monster trenches."
         },
         {
           "id": 41,
           "paragraph_id": 37,
-          "text": "There were dozens of nations, sprawling continents with names that only existed in antique atlases now but when the sky tore open, entire landmasses had sunk beneath boiling seas or shattered into monster trenches."
+          "text": "If not for the Supreme Royal Family constructing the colossal Suppression Engines to stabilize the tectonic shifts, human civilization would have been snuffed out entirely."
         },
         {
           "id": 42,
           "paragraph_id": 38,
-          "text": "If not for the Supreme Royal Family constructing the colossal Suppression Engines to stabilize the tectonic shifts, human civilization would have been snuffed out entirely."
+          "text": "Today, only Nine worldly powers remained."
         },
         {
           "id": 43,
           "paragraph_id": 39,
-          "text": "Today, only Nine worldly powers remained."
+          "text": "’The United Hegemony of Shogya, the Sun-Crown of Khemet, the Albion Concordat, the Republic of Columbia, the Tsardom of Borealis, the Continental Directorate of Europa, the Federal Union of Amazonia, the Indus Sovereignty, and the Dominion of Australis.’"
         },
         {
           "id": 44,
           "paragraph_id": 40,
-          "text": "’The United Hegemony of Shogya, the Sun-Crown of Khemet, the Albion Concordat, the Republic of Columbia, the Tsardom of Borealis, the Continental Directorate of Europa, the Federal Union of Amazonia, the Indus Sovereignty, and the Dominion of Australis.’"
+          "text": "Penelope stretched her arms over her head with her purple pigtails flopping against her shoulder blades."
         },
         {
           "id": 45,
           "paragraph_id": 41,
-          "text": "Penelope stretched her arms over her head with her purple pigtails flopping against her shoulder blades."
+          "text": "\"Big Sister?\" she called out, stepping through the doorway of her bedroom into the long, vaulted corridor."
         },
         {
           "id": 46,
           "paragraph_id": 42,
-          "text": "\"Big Sister?\" she called out, stepping through the doorway of her bedroom into the long, vaulted corridor."
+          "text": "Her bare feet made no sound against the polished parquet floor."
         },
         {
           "id": 47,
           "paragraph_id": 43,
-          "text": "Her bare feet made no sound against the polished parquet floor."
+          "text": "The morning was unusually quiet."
         },
         {
           "id": 48,
           "paragraph_id": 44,
-          "text": "The morning was unusually quiet."
+          "text": "Usually, by this hour, the mansion was filled with the rhythmic clatter of training blades from the courtyard or the dry continuous murmur of Harper reviewing something or watching TV."
         },
         {
           "id": 49,
           "paragraph_id": 45,
-          "text": "Usually, by this hour, the mansion was filled with the rhythmic clatter of training blades from the courtyard or the dry continuous murmur of Harper reviewing something or watching TV."
+          "text": "\"Harper?\""
         },
         {
           "id": 50,
           "paragraph_id": 46,
-          "text": "\"Harper?\""
+          "text": "Penelope descended the sweeping marble staircase into the grand entrance foyer and near the heavy, iron-reinforced double doors of the estate, a figure stood motionless."
         },
         {
           "id": 51,
           "paragraph_id": 47,
-          "text": "Penelope descended the sweeping marble staircase into the grand entrance foyer and near the heavy, iron-reinforced double doors of the estate, a figure stood motionless."
+          "text": "Harper Whitmore stood in her travel clothes."
         },
         {
           "id": 52,
           "paragraph_id": 48,
-          "text": "Harper Whitmore stood in her travel clothes."
+          "text": "She wore a tailored charcoal overcoat cut close to her athletic frame, high combat boots laced with silver thread, and a dark leather travel bag resting beside her heel."
         },
         {
           "id": 53,
           "paragraph_id": 49,
-          "text": "She wore a tailored charcoal overcoat cut close to her athletic frame, high combat boots laced with silver thread, and a dark leather travel bag resting beside her heel."
+          "text": "Her signature purple hair was tied back in a severe functional braid, and her wire-rimmed glasses rested high on the bridge of her nose as she had her gloved right hand pressed flat against the dark oak of the door but she wasn’t moving."
         },
         {
           "id": 54,
           "paragraph_id": 50,
-          "text": "Her signature purple hair was tied back in a severe functional braid, and her wire-rimmed glasses rested high on the bridge of her nose as she had her gloved right hand pressed flat against the dark oak of the door but she wasn’t moving."
+          "text": "She was just standing there, staring at the grain of the wood."
         },
         {
           "id": 55,
           "paragraph_id": 51,
-          "text": "She was just standing there, staring at the grain of the wood."
-        },
-        {
-          "id": 56,
-          "paragraph_id": 52,
           "text": "\"Big Sister!\" Penelope smiled, jogging across the foyer flagstones with her pigtails bouncing."
         },
         {
-          "id": 57,
-          "paragraph_id": 52,
+          "id": 56,
+          "paragraph_id": 51,
           "text": "\"Where are you going so early?"
         },
         {
-          "id": 58,
-          "paragraph_id": 52,
+          "id": 57,
+          "paragraph_id": 51,
           "text": "The Summit feeds are starting in an hour!"
+        },
+        {
+          "id": 58,
+          "paragraph_id": 51,
+          "text": "I told the kitchen staff to make the berry pastries you like—\""
         },
         {
           "id": 59,
           "paragraph_id": 52,
-          "text": "I told the kitchen staff to make the berry pastries you like—\""
+          "text": "Harper didn’t turn around."
         },
         {
           "id": 60,
           "paragraph_id": 53,
-          "text": "Harper didn’t turn around."
+          "text": "The silence that followed was suffocating, it was like the dead unnatural vacuum of a frozen lake."
         },
         {
           "id": 61,
           "paragraph_id": 54,
-          "text": "The silence that followed was suffocating, it was like the dead unnatural vacuum of a frozen lake."
+          "text": "Penelope skidded to a halt four paces back, her slippers catching on the rug as her smile slowly faltered."
         },
         {
           "id": 62,
           "paragraph_id": 55,
-          "text": "Penelope skidded to a halt four paces back, her slippers catching on the rug as her smile slowly faltered."
+          "text": "\"Harper...?\""
         },
         {
           "id": 63,
           "paragraph_id": 56,
-          "text": "\"Harper...?\""
+          "text": "Very slowly, Harper’s head tilted to the side."
         },
         {
           "id": 64,
           "paragraph_id": 57,
-          "text": "Very slowly, Harper’s head tilted to the side."
+          "text": "Her shoulders were rigid, her posture locked in an unnatural alignment that looked alien to the graceful stance she usually held."
         },
         {
           "id": 65,
           "paragraph_id": 58,
-          "text": "Her shoulders were rigid, her posture locked in an unnatural alignment that looked alien to the graceful stance she usually held."
+          "text": "\"I have a business meeting,\" Harper said and the voice made Penelope’s stomach lurch."
         },
         {
           "id": 66,
           "paragraph_id": 59,
-          "text": "\"I have a business meeting,\" Harper said and the voice made Penelope’s stomach lurch."
+          "text": "It was Harper’s voice... it carried the sweetness of House Whitmore’s head yet it was stripped of all inflection."
         },
         {
           "id": 67,
           "paragraph_id": 60,
-          "text": "It was Harper’s voice... it carried the sweetness of House Whitmore’s head yet it was stripped of all inflection."
+          "text": "It was flat and monotone."
         },
         {
           "id": 68,
           "paragraph_id": 61,
-          "text": "It was flat and monotone."
+          "text": "It sounded like words being read aloud by someone who had never heard human speech before, each syllable dropping like lead buckshot into the quiet foyer."
         },
         {
           "id": 69,
           "paragraph_id": 62,
-          "text": "It sounded like words being read aloud by someone who had never heard human speech before, each syllable dropping like lead buckshot into the quiet foyer."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 63,
           "text": "\"A... a flight?\" Penelope whispered, her brow furrowing in deep instinctual unease."
         },
         {
-          "id": 71,
-          "paragraph_id": 63,
+          "id": 70,
+          "paragraph_id": 62,
           "text": "\"If you had a flight out of Valoria today, why didn’t you tell me last night?"
         },
         {
-          "id": 72,
-          "paragraph_id": 63,
+          "id": 71,
+          "paragraph_id": 62,
           "text": "The entire city’s airspace is locked down for the Summit escorts!"
+        },
+        {
+          "id": 72,
+          "paragraph_id": 62,
+          "text": "Nobody can get clearance unless—\""
         },
         {
           "id": 73,
           "paragraph_id": 63,
-          "text": "Nobody can get clearance unless—\""
+          "text": "\"It is urgent,\" Harper cut in as she gripped the brass handle of the front door, pulling it open."
         },
         {
           "id": 74,
           "paragraph_id": 64,
-          "text": "\"It is urgent,\" Harper cut in as she gripped the brass handle of the front door, pulling it open."
+          "text": "A gust of cold morning wind whipped into the foyer, carrying the scent of rain."
         },
         {
           "id": 75,
           "paragraph_id": 65,
-          "text": "A gust of cold morning wind whipped into the foyer, carrying the scent of rain."
+          "text": "It was really going to rain today."
         },
         {
           "id": 76,
           "paragraph_id": 66,
-          "text": "It was really going to rain today."
+          "text": "Penelope took a step forward, her hand reaching out instinctively."
         },
         {
           "id": 77,
           "paragraph_id": 67,
-          "text": "Penelope took a step forward, her hand reaching out instinctively."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 68,
           "text": "\"Harper, wait!"
         },
         {
-          "id": 79,
-          "paragraph_id": 68,
+          "id": 78,
+          "paragraph_id": 67,
           "text": "Who are you meeting?"
+        },
+        {
+          "id": 79,
+          "paragraph_id": 67,
+          "text": "Where are you going?!\""
         },
         {
           "id": 80,
           "paragraph_id": 68,
-          "text": "Where are you going?!\""
+          "text": "Harper paused at the threshold."
         },
         {
           "id": 81,
           "paragraph_id": 69,
-          "text": "Harper paused at the threshold."
+          "text": "She did not turn her torso, she merely rotated her neck over her shoulder, looking back at her younger sister."
         },
         {
           "id": 82,
           "paragraph_id": 70,
-          "text": "She did not turn her torso, she merely rotated her neck over her shoulder, looking back at her younger sister."
+          "text": "\"I am going to Khemet,\" Harper said."
         },
         {
           "id": 83,
           "paragraph_id": 71,
-          "text": "\"I am going to Khemet,\" Harper said."
+          "text": "Her voice dropped, carrying a chill that seemed to vibrate against the floorboards."
         },
         {
           "id": 84,
-          "paragraph_id": 72,
-          "text": "Her voice dropped, carrying a chill that seemed to vibrate against the floorboards."
+          "paragraph_id": 71,
+          "text": "\"Do not speak of this further.\""
         },
         {
           "id": 85,
           "paragraph_id": 72,
-          "text": "\"Do not speak of this further.\""
+          "text": "Penelope froze mid-stride with her breath seizing violently in her throat."
         },
         {
           "id": 86,
           "paragraph_id": 73,
-          "text": "Penelope froze mid-stride with her breath seizing violently in her throat."
+          "text": "Behind the clear glass of Harper’s wire-rimmed spectacles, her eyes were wide."
         },
         {
           "id": 87,
-          "paragraph_id": 74,
-          "text": "Behind the clear glass of Harper’s wire-rimmed spectacles, her eyes were wide."
+          "paragraph_id": 73,
+          "text": "Her deep purple irises... the proud mark of the Whitmore lineage were not glowing with their usual electric violet mana."
         },
         {
           "id": 88,
           "paragraph_id": 74,
-          "text": "Her deep purple irises... the proud mark of the Whitmore lineage were not glowing with their usual electric violet mana."
+          "text": "Deep within the pupils, swimming beneath the surface like drowned serpents, was a hypnotic emerald-green light."
         },
         {
           "id": 89,
           "paragraph_id": 75,
-          "text": "Deep within the pupils, swimming beneath the surface like drowned serpents, was a hypnotic emerald-green light."
+          "text": "’Ah...’"
         },
         {
           "id": 90,
           "paragraph_id": 76,
-          "text": "’Ah...’"
+          "text": "The temperature in the foyer seemed to plummet to absolute zero as the hair on Penelope’s arms stood on end and an overwhelming wave of pure terror paralyzing her limbs."
         },
         {
           "id": 91,
           "paragraph_id": 77,
-          "text": "The temperature in the foyer seemed to plummet to absolute zero as the hair on Penelope’s arms stood on end and an overwhelming wave of pure terror paralyzing her limbs."
+          "text": "She couldn’t breathe and she couldn’t swallow."
         },
         {
           "id": 92,
-          "paragraph_id": 78,
-          "text": "She couldn’t breathe and she couldn’t swallow."
+          "paragraph_id": 77,
+          "text": "Every survival instinct hardwired into her mortal DNA screamed at her to drop to the floor and play dead."
         },
         {
           "id": 93,
           "paragraph_id": 78,
-          "text": "Every survival instinct hardwired into her mortal DNA screamed at her to drop to the floor and play dead."
+          "text": "Harper’s mouth curled into a twitch that resembled a smile then snapped back to stillness."
         },
         {
           "id": 94,
           "paragraph_id": 79,
-          "text": "Harper’s mouth curled into a twitch that resembled a smile then snapped back to stillness."
+          "text": "SLAM!"
         },
         {
           "id": 95,
           "paragraph_id": 80,
-          "text": "SLAM!"
+          "text": "The heavy oak door slammed shut and the brass lock engaged with a deafening click that broke the trance."
         },
         {
           "id": 96,
           "paragraph_id": 81,
-          "text": "The heavy oak door slammed shut and the brass lock engaged with a deafening click that broke the trance."
+          "text": "Penelope dropped to her knees on the cold flagstones, clutching her ribs as air rushed violently back into her lungs."
         },
         {
           "id": 97,
           "paragraph_id": 82,
-          "text": "Penelope dropped to her knees on the cold flagstones, clutching her ribs as air rushed violently back into her lungs."
+          "text": "She was trembling so hard her teeth clattered together with cold sweat drenching the collar of her nightshirt."
         },
         {
           "id": 98,
           "paragraph_id": 83,
-          "text": "She was trembling so hard her teeth clattered together with cold sweat drenching the collar of her nightshirt."
+          "text": "’That wasn’t her,’ Penelope thought, tears of pure terror welling in her eyes as she stared at the closed door. ’Her voice... her eyes... that wasn’t Big Sister.’"
         },
         {
           "id": 99,
           "paragraph_id": 84,
-          "text": "’That wasn’t her,’ Penelope thought, tears of pure terror welling in her eyes as she stared at the closed door. ’Her voice... her eyes... that wasn’t Big Sister.’"
+          "text": "Penelope scrambled to her feet, stumbling across the foyer rug, her hands shaking violently as she bolted toward the grand staircase."
         },
         {
           "id": 100,
           "paragraph_id": 85,
-          "text": "Penelope scrambled to her feet, stumbling across the foyer rug, her hands shaking violently as she bolted toward the grand staircase."
+          "text": "’She’s gone..."
         },
         {
           "id": 101,
-          "paragraph_id": 86,
-          "text": "’She’s gone..."
+          "paragraph_id": 85,
+          "text": "She’s going to Khemet, and she isn’t in control.’"
         },
         {
           "id": 102,
           "paragraph_id": 86,
-          "text": "She’s going to Khemet, and she isn’t in control.’"
+          "text": "She reached her bedroom, throwing the door open and diving across the floor toward the nightstand where her phone lay."
         },
         {
           "id": 103,
           "paragraph_id": 87,
-          "text": "She reached her bedroom, throwing the door open and diving across the floor toward the nightstand where her phone lay."
+          "text": "Her fingers were slick with sweat, slipping twice across the glass screen before she managed to enter the password."
         },
         {
           "id": 104,
           "paragraph_id": 88,
-          "text": "Her fingers were slick with sweat, slipping twice across the glass screen before she managed to enter the password."
+          "text": "’Who can I go to...?"
         },
         {
           "id": 105,
-          "paragraph_id": 89,
-          "text": "’Who can I go to...?"
+          "paragraph_id": 88,
+          "text": "Call the police...?’"
         },
         {
           "id": 106,
           "paragraph_id": 89,
-          "text": "Call the police...?’"
+          "text": "Would they believe her or worse yet, would they be able to stop her?"
         },
         {
           "id": 107,
-          "paragraph_id": 90,
-          "text": "Would they believe her or worse yet, would they be able to stop her?"
+          "paragraph_id": 89,
+          "text": "They would need protocols."
         },
         {
           "id": 108,
           "paragraph_id": 90,
-          "text": "They would need protocols."
+          "text": "There was only one person she knew who didn’t care about noble protocols."
         },
         {
           "id": 109,
           "paragraph_id": 91,
-          "text": "There was only one person she knew who didn’t care about noble protocols."
+          "text": "’Someone who can beat Sis too...’"
         },
         {
           "id": 110,
           "paragraph_id": 92,
-          "text": "’Someone who can beat Sis too...’"
+          "text": "Penelope dialed Lia’s number."
         },
         {
           "id": 111,
           "paragraph_id": 93,
-          "text": "Penelope dialed Lia’s number."
+          "text": "’Silas..."
         },
         {
           "id": 112,
-          "paragraph_id": 94,
-          "text": "’Silas..."
+          "paragraph_id": 93,
+          "text": "Lia’s big brother... please pick up!’"
         },
         {
           "id": 113,
           "paragraph_id": 94,
-          "text": "Lia’s big brother... please pick up!’"
+          "text": "[The World Council Summit — The Citadel of the Outer Threshold]"
         },
         {
           "id": 114,
           "paragraph_id": 95,
-          "text": "[The World Council Summit — The Citadel of the Outer Threshold]"
+          "text": "The Summit was not held within the borders of any of the nine nations."
         },
         {
           "id": 115,
           "paragraph_id": 96,
-          "text": "The Summit was not held within the borders of any of the nine nations."
+          "text": "It took place on the Citadel of the Outer Threshold... a massive artificial island-fortress constructed fifty leagues off the western continental shelf, anchored directly over the primary convergence nexus of the planetary Suppression Engines."
         },
         {
           "id": 116,
           "paragraph_id": 97,
-          "text": "It took place on the Citadel of the Outer Threshold... a massive artificial island-fortress constructed fifty leagues off the western continental shelf, anchored directly over the primary convergence nexus of the planetary Suppression Engines."
+          "text": "The sky above the island was a sterile featureless grey, scrubbed clean of clouds by high-tier atmospheric stabilizers."
         },
         {
           "id": 117,
           "paragraph_id": 98,
-          "text": "The sky above the island was a sterile featureless grey, scrubbed clean of clouds by high-tier atmospheric stabilizers."
+          "text": "Four concentric rings of automated naval battle-platforms patrolled the black oceanic swells below, while squadrons of military skiffs carved precise patrol grids through the restricted airspace."
         },
         {
           "id": 118,
           "paragraph_id": 99,
-          "text": "Four concentric rings of automated naval battle-platforms patrolled the black oceanic swells below, while squadrons of military skiffs carved precise patrol grids through the restricted airspace."
+          "text": "No commercial vessels were permitted within a hundred miles as only craft bearing the verified diplomatic transponders of the World Council or the heads of state were granted descent vectors through the kinetic barrier domes."
         },
         {
           "id": 119,
           "paragraph_id": 100,
-          "text": "No commercial vessels were permitted within a hundred miles as only craft bearing the verified diplomatic transponders of the World Council or the heads of state were granted descent vectors through the kinetic barrier domes."
+          "text": "At the center of the island rose the Grand Assembly Spire... a brutalist monolith of white titanium and black granite that soared three hundred yards into the heavens."
         },
         {
           "id": 120,
           "paragraph_id": 101,
-          "text": "At the center of the island rose the Grand Assembly Spire... a brutalist monolith of white titanium and black granite that soared three hundred yards into the heavens."
+          "text": "A sleek black-and-gold imperial limousine bearing the twin-headed eagle crest of the Supreme Royal Family glided across the elevated causeway, coming to a halt before the monumental marble staircase leading to the grand entrance."
         },
         {
           "id": 121,
           "paragraph_id": 102,
-          "text": "A sleek black-and-gold imperial limousine bearing the twin-headed eagle crest of the Supreme Royal Family glided across the elevated causeway, coming to a halt before the monumental marble staircase leading to the grand entrance."
+          "text": "The rear door opened, and Aki stepped out."
         },
         {
           "id": 122,
           "paragraph_id": 103,
-          "text": "The rear door opened, and Aki stepped out."
+          "text": "She wore a ceremonial gown of deep midnight-blue velvet, trimmed along the hem and collar with understated silver thread."
         },
         {
           "id": 123,
           "paragraph_id": 104,
-          "text": "She wore a ceremonial gown of deep midnight-blue velvet, trimmed along the hem and collar with understated silver thread."
+          "text": "The high rigid collar framed her neck with imperial dignity, while the star-iron necklace rested securely beneath the fabric, invisible to the scanning arrays of the perimeter guards."
         },
         {
           "id": 124,
           "paragraph_id": 105,
-          "text": "The high rigid collar framed her neck with imperial dignity, while the star-iron necklace rested securely beneath the fabric, invisible to the scanning arrays of the perimeter guards."
+          "text": "Her royal-blue hair was styled in an immaculate low chignon secured by twin silver pins, and her silk fan was tucked neatly into the sash at her waist."
         },
         {
           "id": 125,
           "paragraph_id": 106,
-          "text": "Her royal-blue hair was styled in an immaculate low chignon secured by twin silver pins, and her silk fan was tucked neatly into the sash at her waist."
+          "text": "Flanking her side was Mira, carrying an official diplomatic portfolio with her posture straight and her eyes forward."
         },
         {
           "id": 126,
           "paragraph_id": 107,
-          "text": "Flanking her side was Mira, carrying an official diplomatic portfolio with her posture straight and her eyes forward."
+          "text": "Aki looked up at the colossal titanium pillars of the entrance."
         },
         {
           "id": 127,
           "paragraph_id": 108,
-          "text": "Aki looked up at the colossal titanium pillars of the entrance."
+          "text": "’The highest point of authority on the planet,’ she thought, feeling the low-frequency hum of the massive Suppression Engines vibrating through the soles of her shoes."
         },
         {
           "id": 128,
           "paragraph_id": 109,
-          "text": "’The highest point of authority on the planet,’ she thought, feeling the low-frequency hum of the massive Suppression Engines vibrating through the soles of her shoes."
+          "text": "The World Council operated in the shadow of the Supreme Royal Family."
         },
         {
           "id": 129,
           "paragraph_id": 110,
-          "text": "The World Council operated in the shadow of the Supreme Royal Family."
+          "text": "While the King and Prince held sovereignty through their stewardship of the Engines, the Council itself managed the daily administration, trade routes, and military resource allocations of the nine surviving territories."
         },
         {
           "id": 130,
           "paragraph_id": 111,
-          "text": "While the King and Prince held sovereignty through their stewardship of the Engines, the Council itself managed the daily administration, trade routes, and military resource allocations of the nine surviving territories."
+          "text": "Its membership was an exclusive terrifying circle... mostly composed of ancient Lords who had lived over a century, their lifespans stretched by high-tier cores, supplemented by the matriarchs and magistrates of the highest noble clans, such as House Bloom."
         },
         {
           "id": 131,
           "paragraph_id": 112,
-          "text": "Its membership was an exclusive terrifying circle... mostly composed of ancient Lords who had lived over a century, their lifespans stretched by high-tier cores, supplemented by the matriarchs and magistrates of the highest noble clans, such as House Bloom."
+          "text": "Aki ascended the marble steps, her boots clicking in a steady rhythm."
         },
         {
           "id": 132,
           "paragraph_id": 113,
-          "text": "Aki ascended the marble steps, her boots clicking in a steady rhythm."
+          "text": "\"Halt.\""
         },
         {
           "id": 133,
           "paragraph_id": 114,
-          "text": "\"Halt.\""
+          "text": "Four World Council Enforcers... towering men encased from neck to toe in ivory-white kinetic power-armor, carrying heavy disruption polearms stepped forward, their visors glowing with pale amber scanning beams."
         },
         {
           "id": 134,
           "paragraph_id": 115,
-          "text": "Four World Council Enforcers... towering men encased from neck to toe in ivory-white kinetic power-armor, carrying heavy disruption polearms stepped forward, their visors glowing with pale amber scanning beams."
+          "text": "The leading enforcer scanned the biometric cipher on Aki’s wrist."
         },
         {
           "id": 135,
           "paragraph_id": 116,
-          "text": "The leading enforcer scanned the biometric cipher on Aki’s wrist."
+          "text": "BEEP!"
         },
         {
           "id": 136,
           "paragraph_id": 117,
-          "text": "BEEP!"
+          "text": "[Clearance Verified: First Princess of the World.]"
         },
         {
           "id": 137,
           "paragraph_id": 118,
-          "text": "[Clearance Verified: First Princess of the World.]"
+          "text": "The enforcers retracted their polearms, stepping aside with crisp precision."
         },
         {
           "id": 138,
           "paragraph_id": 119,
-          "text": "The enforcers retracted their polearms, stepping aside with crisp precision."
-        },
-        {
-          "id": 139,
-          "paragraph_id": 120,
           "text": "\"Welcome, Your Highness,\" the guard intoned through his vocal synthesizer."
         },
         {
-          "id": 140,
-          "paragraph_id": 120,
+          "id": 139,
+          "paragraph_id": 119,
           "text": "\"The main assembly chamber remains restricted until the arrival of the Sovereign Heads..."
+        },
+        {
+          "id": 140,
+          "paragraph_id": 119,
+          "text": "You are directed to the Grand Rotunda Lounge on Tier Three!\""
         },
         {
           "id": 141,
           "paragraph_id": 120,
-          "text": "You are directed to the Grand Rotunda Lounge on Tier Three!\""
+          "text": "\"Understood,\" Aki replied and she swept past them into the grand foyer."
         },
         {
           "id": 142,
           "paragraph_id": 121,
-          "text": "\"Understood,\" Aki replied and she swept past them into the grand foyer."
+          "text": "The interior of the Citadel was an overwhelming monument to concentrated wealth and power."
         },
         {
           "id": 143,
           "paragraph_id": 122,
-          "text": "The interior of the Citadel was an overwhelming monument to concentrated wealth and power."
+          "text": "Vaulted ceilings thirty paces overhead were inlaid with massive mosaics of compressed mana-crystals, casting a brilliant warm luminescence across acres of polished white marble."
         },
         {
           "id": 144,
           "paragraph_id": 123,
-          "text": "Vaulted ceilings thirty paces overhead were inlaid with massive mosaics of compressed mana-crystals, casting a brilliant warm luminescence across acres of polished white marble."
+          "text": "Statues of the ancestral Lords who forged the early border pacts lined the wide corridors, their stone eyes staring down at the arriving delegates."
         },
         {
           "id": 145,
           "paragraph_id": 124,
-          "text": "Statues of the ancestral Lords who forged the early border pacts lined the wide corridors, their stone eyes staring down at the arriving delegates."
+          "text": "Aki took the private anti-gravity lift to the third tier, emerging into the Grand Rotunda Lounge."
         },
         {
           "id": 146,
           "paragraph_id": 125,
-          "text": "Aki took the private anti-gravity lift to the third tier, emerging into the Grand Rotunda Lounge."
+          "text": "The room was vast, an open-concept room lined with velvet couches, floating crystal bars, and panoramic floor-to-ceiling viewports overlooking the stormy black ocean below."
         },
         {
           "id": 147,
           "paragraph_id": 126,
-          "text": "The room was vast, an open-concept room lined with velvet couches, floating crystal bars, and panoramic floor-to-ceiling viewports overlooking the stormy black ocean below."
-        },
-        {
-          "id": 148,
-          "paragraph_id": 127,
           "text": "The lounge was already populated."
         }
       ],
-      "word_count": 2256
+      "word_count": 2255
     },
     {
       "chapter_index": 528,
@@ -34836,7 +34806,7 @@
         "Her jet-black hair was gently lifting, floating in the micro-gravity generated by her soul pathways and beneath those dark bangs, her glowing violet irises had contracted into two terrifying vertical needles of rage locking straight onto the King of the World.",
         "Aki’s breath caught.",
         "Her heart slammed against her ribs with an impact so violently tender that her vision blurred entirely with hot tears spilling over her lashes and running down her pale cheeks into her collar.",
-        "’Si– Silas... didn’t let me bow,’ Aki thought, her soul shuddering within her chest. ’Silas... is sitting there, threatening the King for me.’",
+        "’Si- Silas... didn’t let me bow,’ Aki thought, her soul shuddering within her chest. ’Silas... is sitting there, threatening the King for me.’",
         "The silence in the Great Assembly Chamber was suffocating.",
         "Nobody dared to shift a boot as even the King remained frozen against his throne, his sapphire eyes pinned to the seated black-haired woman whose murderous intent was aimed directly at his forehead.",
         "Kara tilted her head with her right arm resting casually across the star-iron armrest of her chair.",
@@ -35238,7 +35208,7 @@
         {
           "id": 69,
           "paragraph_id": 61,
-          "text": "’Si– Silas... didn’t let me bow,’ Aki thought, her soul shuddering within her chest. ’Silas... is sitting there, threatening the King for me.’"
+          "text": "’Si- Silas... didn’t let me bow,’ Aki thought, her soul shuddering within her chest. ’Silas... is sitting there, threatening the King for me.’"
         },
         {
           "id": 70,
@@ -36521,7 +36491,6 @@
         "’God,’ Da Silva scoffed internally, a dark chuckle rumbling in her throat. ’If I could find a man who had even half the balls of that woman, I would have been pregnant five years ago.’",
         "The King’s voice rose cutting through the murmurs of the court.",
         "\"The Exhibition of Succession is hereby convened! Scribes, draft the brackets! Prime the transit corridors to the Sovereign Realm! We adjourn!\"",
-        "...",
         "Miles to the west, in the commercial high-district of Valoria City, the midday heat rose off the asphalt in shimmering oily waves.",
         "Evelyn stood on the crowded sidewalk near the central shopping concourse with her shoulders hunched deep inside an oversized red hoodie that swallowed her petite frame down past the hem of her black cotton gym shorts.",
         "Her messy black hair was yanked into a lopsided, loose bun held together by a scuffed plastic stylus, and dark exhausted purple bruises hung heavily beneath her eyes.",
@@ -37293,75 +37262,70 @@
         {
           "id": 151,
           "paragraph_id": 101,
-          "text": "..."
+          "text": "Miles to the west, in the commercial high-district of Valoria City, the midday heat rose off the asphalt in shimmering oily waves."
         },
         {
           "id": 152,
           "paragraph_id": 102,
-          "text": "Miles to the west, in the commercial high-district of Valoria City, the midday heat rose off the asphalt in shimmering oily waves."
+          "text": "Evelyn stood on the crowded sidewalk near the central shopping concourse with her shoulders hunched deep inside an oversized red hoodie that swallowed her petite frame down past the hem of her black cotton gym shorts."
         },
         {
           "id": 153,
           "paragraph_id": 103,
-          "text": "Evelyn stood on the crowded sidewalk near the central shopping concourse with her shoulders hunched deep inside an oversized red hoodie that swallowed her petite frame down past the hem of her black cotton gym shorts."
+          "text": "Her messy black hair was yanked into a lopsided, loose bun held together by a scuffed plastic stylus, and dark exhausted purple bruises hung heavily beneath her eyes."
         },
         {
           "id": 154,
           "paragraph_id": 104,
-          "text": "Her messy black hair was yanked into a lopsided, loose bun held together by a scuffed plastic stylus, and dark exhausted purple bruises hung heavily beneath her eyes."
+          "text": "Between her dry lips rested a slim white Silver-Leaf cigarette, the tip glowing dull orange against the bright sunlight as she dragged a deep scorching lungful of menthol smoke into her chest."
         },
         {
           "id": 155,
           "paragraph_id": 105,
-          "text": "Between her dry lips rested a slim white Silver-Leaf cigarette, the tip glowing dull orange against the bright sunlight as she dragged a deep scorching lungful of menthol smoke into her chest."
+          "text": "FSSSSSH."
         },
         {
           "id": 156,
           "paragraph_id": 106,
-          "text": "FSSSSSH."
+          "text": "She held it for two seconds, letting the nicotine cut through the dull chronic throb behind her temples, before blowing a long thin stream of gray smoke into the humid air."
         },
         {
           "id": 157,
           "paragraph_id": 107,
-          "text": "She held it for two seconds, letting the nicotine cut through the dull chronic throb behind her temples, before blowing a long thin stream of gray smoke into the humid air."
+          "text": "’Date my ass,’ Evelyn thought bitterly, her thumb flicking a tiny clump of ash into the gutter."
         },
         {
           "id": 158,
           "paragraph_id": 108,
-          "text": "’Date my ass,’ Evelyn thought bitterly, her thumb flicking a tiny clump of ash into the gutter."
+          "text": "Who the hell was she supposed to be on a date with?"
         },
         {
           "id": 159,
           "paragraph_id": 109,
-          "text": "Who the hell was she supposed to be on a date with?"
+          "text": "[Bonus Chapter]"
         },
         {
           "id": 160,
           "paragraph_id": 110,
-          "text": "[Bonus Chapter]"
-        },
-        {
-          "id": 161,
-          "paragraph_id": 111,
           "text": "These were the five Bonus Chapters I promised Reader VonB, all here and accounted for!"
         },
         {
-          "id": 162,
-          "paragraph_id": 111,
+          "id": 161,
+          "paragraph_id": 110,
           "text": "Thanks for the 100 GT and for the castle as well!"
+        },
+        {
+          "id": 162,
+          "paragraph_id": 110,
+          "text": "The six Bonus Chapters will come several hours from now though..."
         },
         {
           "id": 163,
           "paragraph_id": 111,
-          "text": "The six Bonus Chapters will come several hours from now though..."
-        },
-        {
-          "id": 164,
-          "paragraph_id": 112,
           "text": "Glad you’re all enjoying the arc."
         }
       ],
-      "word_count": 2450
+      "word_count": 2449
     },
     {
       "chapter_index": 542,
@@ -40027,7 +39991,6 @@
         "\"And second of all...\" Evelyn said, tapping the glass with her fingernail.",
         "Tap! Tap!",
         "\"I have... video evidence.\"",
-        "...",
         "The heavy star-iron blast doors groaned behind them as the locks sealed with a muffled concussive thud that cut off the suffocating atmosphere of the Grand Assembly Chamber.",
         "Kara did not break her stride.",
         "Her right hand remained firmly clasped around Aki’s wrist, tugging the First Princess along the high, vaulted corridors of the Citadel’s inner perimeter.",
@@ -40420,490 +40383,485 @@
         {
           "id": 65,
           "paragraph_id": 54,
-          "text": "..."
+          "text": "The heavy star-iron blast doors groaned behind them as the locks sealed with a muffled concussive thud that cut off the suffocating atmosphere of the Grand Assembly Chamber."
         },
         {
           "id": 66,
           "paragraph_id": 55,
-          "text": "The heavy star-iron blast doors groaned behind them as the locks sealed with a muffled concussive thud that cut off the suffocating atmosphere of the Grand Assembly Chamber."
+          "text": "Kara did not break her stride."
         },
         {
           "id": 67,
           "paragraph_id": 56,
-          "text": "Kara did not break her stride."
+          "text": "Her right hand remained firmly clasped around Aki’s wrist, tugging the First Princess along the high, vaulted corridors of the Citadel’s inner perimeter."
         },
         {
           "id": 68,
           "paragraph_id": 57,
-          "text": "Her right hand remained firmly clasped around Aki’s wrist, tugging the First Princess along the high, vaulted corridors of the Citadel’s inner perimeter."
+          "text": "The obsidian flags beneath their boots were polished to a mirrored finish, reflecting the nervous twitching silhouettes of the imperial guards stationed every ten paces."
         },
         {
           "id": 69,
           "paragraph_id": 58,
-          "text": "The obsidian flags beneath their boots were polished to a mirrored finish, reflecting the nervous twitching silhouettes of the imperial guards stationed every ten paces."
+          "text": "The guards stood rigid, halberds clutched in white-knuckled grips and their breastplates humming with latent mana."
         },
         {
           "id": 70,
           "paragraph_id": 59,
-          "text": "The guards stood rigid, halberds clutched in white-knuckled grips and their breastplates humming with latent mana."
+          "text": "Yet as the pair approached, not a single soldier dared to step forward and not a single officer barked for credentials."
         },
         {
           "id": 71,
           "paragraph_id": 60,
-          "text": "Yet as the pair approached, not a single soldier dared to step forward and not a single officer barked for credentials."
+          "text": "Their eyes flicked between the First Princess’s flushed tear-streaked face and the one-armed woman in the charcoal double-breasted suit whose empty sleeve swayed with lazy insolent ease against her ribs."
         },
         {
           "id": 72,
           "paragraph_id": 61,
-          "text": "Their eyes flicked between the First Princess’s flushed tear-streaked face and the one-armed woman in the charcoal double-breasted suit whose empty sleeve swayed with lazy insolent ease against her ribs."
+          "text": "Everyone had felt the tremor minutes ago and everyone knew the woman walking down their corridor had looked the King of the World in the eye, called him a cowardly father, and dared him to unleash the First King’s Destruction."
         },
         {
           "id": 73,
           "paragraph_id": 62,
-          "text": "Everyone had felt the tremor minutes ago and everyone knew the woman walking down their corridor had looked the King of the World in the eye, called him a cowardly father, and dared him to unleash the First King’s Destruction."
+          "text": "...What a disrespectful woman."
         },
         {
           "id": 74,
           "paragraph_id": 63,
-          "text": "...What a disrespectful woman."
+          "text": "Kara stopped in front of a heavy oak door reinforced with brass filigree as she turned her head toward a guard sergeant pressed flat against the wall."
         },
         {
           "id": 75,
           "paragraph_id": 64,
-          "text": "Kara stopped in front of a heavy oak door reinforced with brass filigree as she turned her head toward a guard sergeant pressed flat against the wall."
+          "text": "\"Hey,\" Kara said."
         },
         {
           "id": 76,
-          "paragraph_id": 65,
-          "text": "\"Hey,\" Kara said."
+          "paragraph_id": 64,
+          "text": "\"Is this an empty lounge?\""
         },
         {
           "id": 77,
           "paragraph_id": 65,
-          "text": "\"Is this an empty lounge?\""
-        },
-        {
-          "id": 78,
-          "paragraph_id": 66,
           "text": "The sergeant swallowed so hard his adam’s apple bobbed over his iron gorget."
         },
         {
-          "id": 79,
-          "paragraph_id": 66,
+          "id": 78,
+          "paragraph_id": 65,
           "text": "\"Y-Yes, My Lady."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 65,
+          "text": "It is the private staging antechamber for foreign emissaries.\""
         },
         {
           "id": 80,
           "paragraph_id": 66,
-          "text": "It is the private staging antechamber for foreign emissaries.\""
+          "text": "\"Cool..."
         },
         {
           "id": 81,
-          "paragraph_id": 67,
-          "text": "\"Cool..."
+          "paragraph_id": 66,
+          "text": "We’re borrowing it.\""
         },
         {
           "id": 82,
           "paragraph_id": 67,
-          "text": "We’re borrowing it.\""
+          "text": "Kara pushed the handle down with her single hand, hauling Aki inside before the guard could even stammer out a protest."
         },
         {
           "id": 83,
           "paragraph_id": 68,
-          "text": "Kara pushed the handle down with her single hand, hauling Aki inside before the guard could even stammer out a protest."
+          "text": "The moment their heels crossed the threshold, Kara paused as her single right hand did not leave the brass doorknob."
         },
         {
           "id": 84,
           "paragraph_id": 69,
-          "text": "The moment their heels crossed the threshold, Kara paused as her single right hand did not leave the brass doorknob."
+          "text": "Her violet eyes narrowed slightly behind her wire-rimmed glasses as her senses flared outward in an invisible circular sweep, mapping every cubic inch of the lavish room... the velvet divans, the cold hearth, the ornate baseboards and the crystal sconces lining the ceiling."
         },
         {
           "id": 85,
           "paragraph_id": 70,
-          "text": "Her violet eyes narrowed slightly behind her wire-rimmed glasses as her senses flared outward in an invisible circular sweep, mapping every cubic inch of the lavish room... the velvet divans, the cold hearth, the ornate baseboards and the crystal sconces lining the ceiling."
+          "text": "Beside her, Aki pulled her wrist free with her chest heaving as she tried to catch her breath."
         },
         {
           "id": 86,
           "paragraph_id": 71,
-          "text": "Beside her, Aki pulled her wrist free with her chest heaving as she tried to catch her breath."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 72,
           "text": "\"W-Wait,\" Aki whispered frantically, reaching out to tug the sleeve of Kara’s suit and her eyes darting toward the ornate molding."
         },
         {
-          "id": 88,
-          "paragraph_id": 72,
+          "id": 87,
+          "paragraph_id": 71,
           "text": "\"You can’t talk here..."
         },
         {
-          "id": 89,
-          "paragraph_id": 72,
+          "id": 88,
+          "paragraph_id": 71,
           "text": "You shouldn’t even speak freely..."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 71,
+          "text": "Every single staging room in the Citadel is rigged with listening arrays and the scribes... they monitor the arrays through the floorboards to record every delegation’s private—\""
         },
         {
           "id": 90,
           "paragraph_id": 72,
-          "text": "Every single staging room in the Citadel is rigged with listening arrays and the scribes... they monitor the arrays through the floorboards to record every delegation’s private—\""
+          "text": "Kara didn’t let her finish."
         },
         {
           "id": 91,
           "paragraph_id": 73,
-          "text": "Kara didn’t let her finish."
+          "text": "She reached out with her right index finger, pressing the pad of her flesh lightly against the plaster wall beside the doorframe."
         },
         {
           "id": 92,
           "paragraph_id": 74,
-          "text": "She reached out with her right index finger, pressing the pad of her flesh lightly against the plaster wall beside the doorframe."
+          "text": "BZZZZZZZZT!"
         },
         {
           "id": 93,
           "paragraph_id": 75,
-          "text": "BZZZZZZZZT!"
+          "text": "A sharp violent web of blinding pale-blue lightning erupted from her fingertip."
         },
         {
           "id": 94,
           "paragraph_id": 76,
-          "text": "A sharp violent web of blinding pale-blue lightning erupted from her fingertip."
+          "text": "It raced through the interior masonry like a swarm of starving serpents as the lightning traveled through the star-iron conduit pipes, snaked behind the baseboards, surged into the copper wiring of the ceiling chandeliers, and jumped straight through seventeen hidden runic listening stones embedded within the plaster."
         },
         {
           "id": 95,
           "paragraph_id": 77,
-          "text": "It raced through the interior masonry like a swarm of starving serpents as the lightning traveled through the star-iron conduit pipes, snaked behind the baseboards, surged into the copper wiring of the ceiling chandeliers, and jumped straight through seventeen hidden runic listening stones embedded within the plaster."
+          "text": "POP!"
         },
         {
           "id": 96,
-          "paragraph_id": 78,
+          "paragraph_id": 77,
           "text": "POP!"
         },
         {
           "id": 97,
-          "paragraph_id": 78,
-          "text": "POP!"
+          "paragraph_id": 77,
+          "text": "CRACKLE!"
         },
         {
           "id": 98,
-          "paragraph_id": 78,
-          "text": "CRACKLE!"
+          "paragraph_id": 77,
+          "text": "SSSSSSH!"
         },
         {
           "id": 99,
           "paragraph_id": 78,
-          "text": "SSSSSSH!"
+          "text": "A sequence of muffled electrical ruptures snapped behind the drywall as tiny wisps of gray acrid smoke curled out from the corners of the ceiling, accompanied by the distinctive smell of fried copper and shattered quartz."
         },
         {
           "id": 100,
           "paragraph_id": 79,
-          "text": "A sequence of muffled electrical ruptures snapped behind the drywall as tiny wisps of gray acrid smoke curled out from the corners of the ceiling, accompanied by the distinctive smell of fried copper and shattered quartz."
+          "text": "Kara pulled her hand back, lifted her index finger to her lips, and gently blew a thin trail of smoke away from her nail."
         },
         {
           "id": 101,
           "paragraph_id": 80,
-          "text": "Kara pulled her hand back, lifted her index finger to her lips, and gently blew a thin trail of smoke away from her nail."
+          "text": "\"Thor showed me that trick,\" Kara muttered, clicking her tongue with satisfaction."
         },
         {
           "id": 102,
-          "paragraph_id": 81,
-          "text": "\"Thor showed me that trick,\" Kara muttered, clicking her tongue with satisfaction."
+          "paragraph_id": 80,
+          "text": "\"That lady might be a drunken couch potato ninety percent of the time, but when it comes to short-circuiting devices, she knows her stuff.\""
         },
         {
           "id": 103,
           "paragraph_id": 81,
-          "text": "\"That lady might be a drunken couch potato ninety percent of the time, but when it comes to short-circuiting devices, she knows her stuff.\""
+          "text": "She reached behind her, grabbed the edge of the heavy oak door, and kicked it shut with the heel of her shoe."
         },
         {
           "id": 104,
           "paragraph_id": 82,
-          "text": "She reached behind her, grabbed the edge of the heavy oak door, and kicked it shut with the heel of her shoe."
+          "text": "SLAM!"
         },
         {
           "id": 105,
           "paragraph_id": 83,
-          "text": "SLAM!"
+          "text": "The mechanical deadbolt clicked into place and the room fell into silence, insulated from the rest of the world by three feet of stone and a completely fried surveillance circuit."
         },
         {
           "id": 106,
           "paragraph_id": 84,
-          "text": "The mechanical deadbolt clicked into place and the room fell into silence, insulated from the rest of the world by three feet of stone and a completely fried surveillance circuit."
+          "text": "Kara let out a long sigh that rattled her collarbones as she rolled her shoulders back, reaching up with her single hand to pinch the bridge of her nose, letting her head drop forward for two seconds as if shedding twenty pounds of performative arrogance."
         },
         {
           "id": 107,
           "paragraph_id": 85,
-          "text": "Kara let out a long sigh that rattled her collarbones as she rolled her shoulders back, reaching up with her single hand to pinch the bridge of her nose, letting her head drop forward for two seconds as if shedding twenty pounds of performative arrogance."
-        },
-        {
-          "id": 108,
-          "paragraph_id": 86,
           "text": "\"Man,\" she groaned, rotating her neck until the vertebrae popped with clean muffled clicks."
         },
         {
-          "id": 109,
-          "paragraph_id": 86,
+          "id": 108,
+          "paragraph_id": 85,
           "text": "\"Sitting in those fancy chairs is exhausting."
         },
         {
-          "id": 110,
-          "paragraph_id": 86,
+          "id": 109,
+          "paragraph_id": 85,
           "text": "My lower back feels like someone hit it with a cinderblock..."
+        },
+        {
+          "id": 110,
+          "paragraph_id": 85,
+          "text": "How do these nobles do it all day without falling asleep?\""
         },
         {
           "id": 111,
           "paragraph_id": 86,
-          "text": "How do these nobles do it all day without falling asleep?\""
+          "text": "She turned around, letting her hand drop."
         },
         {
           "id": 112,
           "paragraph_id": 87,
-          "text": "She turned around, letting her hand drop."
+          "text": "\"Anyway—\""
         },
         {
           "id": 113,
           "paragraph_id": 88,
-          "text": "\"Anyway—\""
+          "text": "Kara stopped dead."
         },
         {
           "id": 114,
           "paragraph_id": 89,
-          "text": "Kara stopped dead."
+          "text": "Standing in the center of the Persian rug, Aki was trembling from her slippers to the collar of her navy velvet gown."
         },
         {
           "id": 115,
           "paragraph_id": 90,
-          "text": "Standing in the center of the Persian rug, Aki was trembling from her slippers to the collar of her navy velvet gown."
+          "text": "Her head was bowed with her shoulders shaking with violent suppressed tremors."
         },
         {
           "id": 116,
           "paragraph_id": 91,
-          "text": "Her head was bowed with her shoulders shaking with violent suppressed tremors."
+          "text": "Her face was flushed a dark feverish crimson with her lips pressed together so tightly they were white, and her eyelashes were completely soaked with moisture."
         },
         {
           "id": 117,
           "paragraph_id": 92,
-          "text": "Her face was flushed a dark feverish crimson with her lips pressed together so tightly they were white, and her eyelashes were completely soaked with moisture."
+          "text": "She looked like she was desperately trying to hold in a hurricane with her hands clenched into white-knuckled balls within the heavy folds of her skirt."
         },
         {
           "id": 118,
           "paragraph_id": 93,
-          "text": "She looked like she was desperately trying to hold in a hurricane with her hands clenched into white-knuckled balls within the heavy folds of her skirt."
+          "text": "DRIP!"
         },
         {
           "id": 119,
           "paragraph_id": 94,
-          "text": "DRIP!"
+          "text": "A single fat tear spilled over her lashes and splashed onto the polished floorboards."
         },
         {
           "id": 120,
           "paragraph_id": 95,
-          "text": "A single fat tear spilled over her lashes and splashed onto the polished floorboards."
+          "text": "Kara blinked behind her glasses as she stepped forward, leaning down slightly and her violet eyes widened with genuine panic."
         },
         {
           "id": 121,
           "paragraph_id": 96,
-          "text": "Kara blinked behind her glasses as she stepped forward, leaning down slightly and her violet eyes widened with genuine panic."
-        },
-        {
-          "id": 122,
-          "paragraph_id": 97,
           "text": "\"Whoa, hey,\" Kara said, her voice dropping into a gentle tone."
         },
         {
-          "id": 123,
-          "paragraph_id": 97,
+          "id": 122,
+          "paragraph_id": 96,
           "text": "\"What’s wrong?"
         },
         {
-          "id": 124,
-          "paragraph_id": 97,
+          "id": 123,
+          "paragraph_id": 96,
           "text": "What happened?"
         },
         {
-          "id": 125,
-          "paragraph_id": 97,
+          "id": 124,
+          "paragraph_id": 96,
           "text": "Did someone hit you on the way out?"
+        },
+        {
+          "id": 125,
+          "paragraph_id": 96,
+          "text": "Is it your hand?\""
         },
         {
           "id": 126,
           "paragraph_id": 97,
-          "text": "Is it your hand?\""
+          "text": "She looked down at her own right palm, flexing the calloused fingers in confusion."
         },
         {
           "id": 127,
           "paragraph_id": 98,
-          "text": "She looked down at her own right palm, flexing the calloused fingers in confusion."
+          "text": "’Did I grip her wrist too hard?’ Kara thought, a spike of internal guilt striking her chest. ’Damn it, I keep forgetting she doesn’t have mana reinforcement to pad her joints."
         },
         {
           "id": 128,
-          "paragraph_id": 99,
-          "text": "’Did I grip her wrist too hard?’ Kara thought, a spike of internal guilt striking her chest. ’Damn it, I keep forgetting she doesn’t have mana reinforcement to pad her joints."
+          "paragraph_id": 98,
+          "text": "Did I sprain her wrist when I dragged her out of the chair?’"
         },
         {
           "id": 129,
           "paragraph_id": 99,
-          "text": "Did I sprain her wrist when I dragged her out of the chair?’"
-        },
-        {
-          "id": 130,
-          "paragraph_id": 100,
           "text": "\"Aki?"
         },
         {
-          "id": 131,
-          "paragraph_id": 100,
+          "id": 130,
+          "paragraph_id": 99,
           "text": "Talk to me."
+        },
+        {
+          "id": 131,
+          "paragraph_id": 99,
+          "text": "Did I hurt you?\""
         },
         {
           "id": 132,
           "paragraph_id": 100,
-          "text": "Did I hurt you?\""
+          "text": "At the sound of her name, the dam broke."
         },
         {
           "id": 133,
           "paragraph_id": 101,
-          "text": "At the sound of her name, the dam broke."
+          "text": "Aki choked and a ragged strangled sob tore out of her throat with her chest heaving as she squeezed her eyes shut."
         },
         {
           "id": 134,
           "paragraph_id": 102,
-          "text": "Aki choked and a ragged strangled sob tore out of her throat with her chest heaving as she squeezed her eyes shut."
-        },
-        {
-          "id": 135,
-          "paragraph_id": 103,
           "text": "\"N-No...\" Aki gasped, the words stumbling over each other as they were thick with mucus and suffocating grief."
         },
         {
-          "id": 136,
-          "paragraph_id": 103,
+          "id": 135,
+          "paragraph_id": 102,
           "text": "\"N-No, you... you didn’t..."
+        },
+        {
+          "id": 136,
+          "paragraph_id": 102,
+          "text": "I...\""
         },
         {
           "id": 137,
           "paragraph_id": 103,
-          "text": "I...\""
+          "text": "She tried to force her mouth to form the syllables."
         },
         {
           "id": 138,
           "paragraph_id": 104,
-          "text": "She tried to force her mouth to form the syllables."
-        },
-        {
-          "id": 139,
-          "paragraph_id": 105,
           "text": "She tried to say thank you..."
         },
         {
-          "id": 140,
-          "paragraph_id": 105,
+          "id": 139,
+          "paragraph_id": 104,
           "text": "She tried to say you saved my life..."
+        },
+        {
+          "id": 140,
+          "paragraph_id": 104,
+          "text": "Aki tried to say nobody has ever stood between me and my father before..."
         },
         {
           "id": 141,
           "paragraph_id": 105,
-          "text": "Aki tried to say nobody has ever stood between me and my father before..."
+          "text": "But every time she drew a breath, the crushing weight worthlessness caught in her windpipe, turning her words into broken pathetic wheezes."
         },
         {
           "id": 142,
           "paragraph_id": 106,
-          "text": "But every time she drew a breath, the crushing weight worthlessness caught in her windpipe, turning her words into broken pathetic wheezes."
-        },
-        {
-          "id": 143,
-          "paragraph_id": 107,
           "text": "\"Th-Tha... th-thank... y-you...\" she stuttered, her voice cracking like dry wood."
         },
         {
-          "id": 144,
-          "paragraph_id": 107,
+          "id": 143,
+          "paragraph_id": 106,
           "text": "\"I..."
         },
         {
-          "id": 145,
-          "paragraph_id": 107,
+          "id": 144,
+          "paragraph_id": 106,
           "text": "I’m..."
         },
         {
-          "id": 146,
-          "paragraph_id": 107,
+          "id": 145,
+          "paragraph_id": 106,
           "text": "I’m s-sorry..."
+        },
+        {
+          "id": 146,
+          "paragraph_id": 106,
+          "text": "I’m s-so...\""
         },
         {
           "id": 147,
           "paragraph_id": 107,
-          "text": "I’m s-so...\""
+          "text": "Kara took another step, raising her single hand awkwardly."
         },
         {
           "id": 148,
           "paragraph_id": 108,
-          "text": "Kara took another step, raising her single hand awkwardly."
-        },
-        {
-          "id": 149,
-          "paragraph_id": 109,
           "text": "\"Hey, easy."
         },
         {
-          "id": 150,
-          "paragraph_id": 109,
+          "id": 149,
+          "paragraph_id": 108,
           "text": "Breathe."
         },
         {
-          "id": 151,
-          "paragraph_id": 109,
+          "id": 150,
+          "paragraph_id": 108,
           "text": "You’re hyperventilating."
         },
         {
-          "id": 152,
-          "paragraph_id": 109,
+          "id": 151,
+          "paragraph_id": 108,
           "text": "Look at me, you’re fine."
         },
         {
-          "id": 153,
-          "paragraph_id": 109,
+          "id": 152,
+          "paragraph_id": 108,
           "text": "Nobody’s touching you."
+        },
+        {
+          "id": 153,
+          "paragraph_id": 108,
+          "text": "Just take a deep—\""
         },
         {
           "id": 154,
           "paragraph_id": 109,
-          "text": "Just take a deep—\""
+          "text": "Aki moved."
         },
         {
           "id": 155,
           "paragraph_id": 110,
-          "text": "Aki moved."
+          "text": "With a desperate uncoordinated lunge, the First Princess threw her entire weight forward, launching herself straight at Kara’s chest."
         },
         {
           "id": 156,
           "paragraph_id": 111,
-          "text": "With a desperate uncoordinated lunge, the First Princess threw her entire weight forward, launching herself straight at Kara’s chest."
+          "text": "\"Whoa—shit!\""
         },
         {
           "id": 157,
           "paragraph_id": 112,
-          "text": "\"Whoa—shit!\""
+          "text": "Kara, completely unprepared for an unawakened civilian tackling her like a wild hound, lost her footing on the slick Persian rug."
         },
         {
           "id": 158,
           "paragraph_id": 113,
-          "text": "Kara, completely unprepared for an unawakened civilian tackling her like a wild hound, lost her footing on the slick Persian rug."
+          "text": "Her heels slid and her center of gravity tipped backward then with an ungraceful crash, both of them went sprawling across the floorboards."
         },
         {
           "id": 159,
           "paragraph_id": 114,
-          "text": "Her heels slid and her center of gravity tipped backward then with an ungraceful crash, both of them went sprawling across the floorboards."
+          "text": "THUD!"
         },
         {
           "id": 160,
           "paragraph_id": 115,
-          "text": "THUD!"
-        },
-        {
-          "id": 161,
-          "paragraph_id": 116,
           "text": "Kara hit the ground on her back with her single right arm instinctively coming up to protect her head, only for Aki to land squarely on top of her."
         }
       ],
-      "word_count": 2163
+      "word_count": 2162
     },
     {
       "chapter_index": 546,

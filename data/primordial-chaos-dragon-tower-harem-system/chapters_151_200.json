@@ -628,7 +628,6 @@
         "The irony.",
         "After they were gone, Uncle Drew transformed into his human form. The way he looked before inheriting the true name of a Night Rider.",
         "His shadowmare also transformed into a carriage, which he laid down inside, whistling as if he hadn’t just sent two people to hell.",
-        "________________",
         "Twenty hours later, he transformed back into his Night Rider form and opened two portals. From within the portals, two people emerged. One was calm and looked much more dangerous.",
         "The other was screaming like a bastard. Of course, Hyx entered as a mortal, not as a half-Night Rider, so he experienced the short end of the stick.",
         "That day, Hyx Von Martin, who had spent 200 years in hell, learned that there are some things more painful than being cuckolded.",
@@ -1059,60 +1058,55 @@
         {
           "id": 84,
           "paragraph_id": 54,
-          "text": "________________"
-        },
-        {
-          "id": 85,
-          "paragraph_id": 55,
           "text": "Twenty hours later, he transformed back into his Night Rider form and opened two portals."
         },
         {
-          "id": 86,
-          "paragraph_id": 55,
+          "id": 85,
+          "paragraph_id": 54,
           "text": "From within the portals, two people emerged."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 54,
+          "text": "One was calm and looked much more dangerous."
         },
         {
           "id": 87,
           "paragraph_id": 55,
-          "text": "One was calm and looked much more dangerous."
+          "text": "The other was screaming like a bastard."
         },
         {
           "id": 88,
-          "paragraph_id": 56,
-          "text": "The other was screaming like a bastard."
+          "paragraph_id": 55,
+          "text": "Of course, Hyx entered as a mortal, not as a half-Night Rider, so he experienced the short end of the stick."
         },
         {
           "id": 89,
           "paragraph_id": 56,
-          "text": "Of course, Hyx entered as a mortal, not as a half-Night Rider, so he experienced the short end of the stick."
+          "text": "That day, Hyx Von Martin, who had spent 200 years in hell, learned that there are some things more painful than being cuckolded."
         },
         {
           "id": 90,
           "paragraph_id": 57,
-          "text": "That day, Hyx Von Martin, who had spent 200 years in hell, learned that there are some things more painful than being cuckolded."
+          "text": "\"With the Authority of the Riders of the Night, I summon you to stand and ride again into the night."
         },
         {
           "id": 91,
-          "paragraph_id": 58,
-          "text": "\"With the Authority of the Riders of the Night, I summon you to stand and ride again into the night."
+          "paragraph_id": 57,
+          "text": "Do you heed the call?\" Uncle Drew asked, looking expressionless under his hood."
         },
         {
           "id": 92,
           "paragraph_id": 58,
-          "text": "Do you heed the call?\" Uncle Drew asked, looking expressionless under his hood."
-        },
-        {
-          "id": 93,
-          "paragraph_id": 59,
           "text": "That day, the third member of the Night Riders has heeded the call."
         },
         {
-          "id": 94,
-          "paragraph_id": 59,
+          "id": 93,
+          "paragraph_id": 58,
           "text": "Soon, they will ride all over this world and beyond to summon back their brethren to ride into the night with them."
         }
       ],
-      "word_count": 1245
+      "word_count": 1244
     },
     {
       "chapter_index": 153,
@@ -1143,7 +1137,6 @@
         "Elsa glanced at Kent, searching for his reaction. The subtle anticipation on his face made her smile weakly, a faint blush colouring her cheeks. Kent seemed just as curious as Akira was about her soul sentinels.",
         "His first summon was a troublemaker, and now he couldn’t help but wonder what kind of beings she had under her command. Elsa currently had three soul sentinels.",
         "Elsa waved her hand, and three beings appeared - all Peak Root Sage experts.",
-        "______________",
         "One is a dark, robbed figure wielding daggers. Well, she has daggers sheathed on her waist and legs and some pointy knuckle weapons on her arms.",
         "She wore a mask covering her mouth and nose and an eyeliner covering her eyes in black paint. She has next to no presence. It was like she didn’t have any aura or life running through her.",
         "Kent appraised her and found out she was the SSS-class summon. A peak saint with powerful abilities. Strangely, she can upgrade her class as she climbs the cultivation chart.",
@@ -1158,7 +1151,6 @@
         "-> Void Strike",
         "-> Shadow Mark",
         "-> Eclipse Dance",
-        "________________",
         "Another was a swordsman wielding a long sword with a green sheath. He wore normal leather armour. But unlike the assassin, he wasn’t wearing a mask, so his handsome features were visible.",
         "⟪Name: Kaelion (The Verdant Blade)⟫",
         "- Race: Sylvan Human",
@@ -1169,7 +1161,6 @@
         "-> Leaf Dance Sword Art",
         "-> Nature’s Shield",
         "-> Blade Gale",
-        "________________",
         "The last was also a swordsman, and he was wielding double swords. He looks equally eye-catching, but he has a scar on his left cheek.",
         "Perhaps he got it during one of his many battles.",
         "⟪Name: Kael Stormrend (The Dual Phantom)⟫",
@@ -1182,7 +1173,6 @@
         "-> Double Riposte",
         "-> Cross Slash Qi",
         "-> Unseen Flurry",
-        "______________",
         "\"This is Nyxira. She is an assassin, and a very powerful one. The dude there is Kaelion; he is a swordsman, and the last dude is also a swordsman, called Kael,\" Elsa introduced them.",
         "The three gave a small bow but didn’t speak.",
         "Kent nodded with a small smile.",
@@ -1405,380 +1395,360 @@
         {
           "id": 40,
           "paragraph_id": 24,
-          "text": "______________"
+          "text": "One is a dark, robbed figure wielding daggers."
         },
         {
           "id": 41,
-          "paragraph_id": 25,
-          "text": "One is a dark, robbed figure wielding daggers."
+          "paragraph_id": 24,
+          "text": "Well, she has daggers sheathed on her waist and legs and some pointy knuckle weapons on her arms."
         },
         {
           "id": 42,
           "paragraph_id": 25,
-          "text": "Well, she has daggers sheathed on her waist and legs and some pointy knuckle weapons on her arms."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 26,
           "text": "She wore a mask covering her mouth and nose and an eyeliner covering her eyes in black paint."
         },
         {
-          "id": 44,
-          "paragraph_id": 26,
+          "id": 43,
+          "paragraph_id": 25,
           "text": "She has next to no presence."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 25,
+          "text": "It was like she didn’t have any aura or life running through her."
         },
         {
           "id": 45,
           "paragraph_id": 26,
-          "text": "It was like she didn’t have any aura or life running through her."
-        },
-        {
-          "id": 46,
-          "paragraph_id": 27,
           "text": "Kent appraised her and found out she was the SSS-class summon."
         },
         {
-          "id": 47,
-          "paragraph_id": 27,
+          "id": 46,
+          "paragraph_id": 26,
           "text": "A peak saint with powerful abilities."
+        },
+        {
+          "id": 47,
+          "paragraph_id": 26,
+          "text": "Strangely, she can upgrade her class as she climbs the cultivation chart."
         },
         {
           "id": 48,
           "paragraph_id": 27,
-          "text": "Strangely, she can upgrade her class as she climbs the cultivation chart."
+          "text": "⟪Name: Nyxira (The Silent Shadow) ⟫"
         },
         {
           "id": 49,
           "paragraph_id": 28,
-          "text": "⟪Name: Nyxira (The Silent Shadow) ⟫"
+          "text": "- Race: Umbral Elf"
         },
         {
           "id": 50,
           "paragraph_id": 29,
-          "text": "- Race: Umbral Elf"
+          "text": "- Rank: Root Sage (97%)"
         },
         {
           "id": 51,
           "paragraph_id": 30,
-          "text": "- Rank: Root Sage (97%)"
+          "text": "- Class: Shadow Assassin (SSS - upgradable)"
         },
         {
           "id": 52,
           "paragraph_id": 31,
-          "text": "- Class: Shadow Assassin (SSS - upgradable)"
+          "text": "<Skills>"
         },
         {
           "id": 53,
           "paragraph_id": 32,
-          "text": "<Skills>"
+          "text": "-> Phantom Step"
         },
         {
           "id": 54,
           "paragraph_id": 33,
-          "text": "-> Phantom Step"
+          "text": "-> Silent Dagger Arts"
         },
         {
           "id": 55,
           "paragraph_id": 34,
-          "text": "-> Silent Dagger Arts"
+          "text": "-> Shadow Cloak"
         },
         {
           "id": 56,
           "paragraph_id": 35,
-          "text": "-> Shadow Cloak"
+          "text": "-> Void Strike"
         },
         {
           "id": 57,
           "paragraph_id": 36,
-          "text": "-> Void Strike"
+          "text": "-> Shadow Mark"
         },
         {
           "id": 58,
           "paragraph_id": 37,
-          "text": "-> Shadow Mark"
+          "text": "-> Eclipse Dance"
         },
         {
           "id": 59,
           "paragraph_id": 38,
-          "text": "-> Eclipse Dance"
-        },
-        {
-          "id": 60,
-          "paragraph_id": 39,
-          "text": "________________"
-        },
-        {
-          "id": 61,
-          "paragraph_id": 40,
           "text": "Another was a swordsman wielding a long sword with a green sheath."
         },
         {
-          "id": 62,
-          "paragraph_id": 40,
+          "id": 60,
+          "paragraph_id": 38,
           "text": "He wore normal leather armour."
+        },
+        {
+          "id": 61,
+          "paragraph_id": 38,
+          "text": "But unlike the assassin, he wasn’t wearing a mask, so his handsome features were visible."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 39,
+          "text": "⟪Name: Kaelion (The Verdant Blade)⟫"
         },
         {
           "id": 63,
           "paragraph_id": 40,
-          "text": "But unlike the assassin, he wasn’t wearing a mask, so his handsome features were visible."
+          "text": "- Race: Sylvan Human"
         },
         {
           "id": 64,
           "paragraph_id": 41,
-          "text": "⟪Name: Kaelion (The Verdant Blade)⟫"
+          "text": "- Rank: Root Sage (92%)"
         },
         {
           "id": 65,
           "paragraph_id": 42,
-          "text": "- Race: Sylvan Human"
+          "text": "- Class: Verdant Swordmaster (SS - upgradable)"
         },
         {
           "id": 66,
           "paragraph_id": 43,
-          "text": "- Rank: Root Sage (92%)"
+          "text": "<Skills>"
         },
         {
           "id": 67,
           "paragraph_id": 44,
-          "text": "- Class: Verdant Swordmaster (SS - upgradable)"
+          "text": "-> Emerald Slash"
         },
         {
           "id": 68,
           "paragraph_id": 45,
-          "text": "<Skills>"
+          "text": "-> Leaf Dance Sword Art"
         },
         {
           "id": 69,
           "paragraph_id": 46,
-          "text": "-> Emerald Slash"
+          "text": "-> Nature’s Shield"
         },
         {
           "id": 70,
           "paragraph_id": 47,
-          "text": "-> Leaf Dance Sword Art"
+          "text": "-> Blade Gale"
         },
         {
           "id": 71,
           "paragraph_id": 48,
-          "text": "-> Nature’s Shield"
+          "text": "The last was also a swordsman, and he was wielding double swords."
         },
         {
           "id": 72,
-          "paragraph_id": 49,
-          "text": "-> Blade Gale"
+          "paragraph_id": 48,
+          "text": "He looks equally eye-catching, but he has a scar on his left cheek."
         },
         {
           "id": 73,
-          "paragraph_id": 50,
-          "text": "________________"
+          "paragraph_id": 49,
+          "text": "Perhaps he got it during one of his many battles."
         },
         {
           "id": 74,
-          "paragraph_id": 51,
-          "text": "The last was also a swordsman, and he was wielding double swords."
+          "paragraph_id": 50,
+          "text": "⟪Name: Kael Stormrend (The Dual Phantom)⟫"
         },
         {
           "id": 75,
           "paragraph_id": 51,
-          "text": "He looks equally eye-catching, but he has a scar on his left cheek."
+          "text": "- Race: Duskbornree"
         },
         {
           "id": 76,
           "paragraph_id": 52,
-          "text": "Perhaps he got it during one of his many battles."
+          "text": "- Rank: Root Sage (94%)"
         },
         {
           "id": 77,
           "paragraph_id": 53,
-          "text": "⟪Name: Kael Stormrend (The Dual Phantom)⟫"
+          "text": "- Class: Dual Blade Master (SS - upgradable)"
         },
         {
           "id": 78,
           "paragraph_id": 54,
-          "text": "- Race: Duskbornree"
+          "text": "<Skills>"
         },
         {
           "id": 79,
           "paragraph_id": 55,
-          "text": "- Rank: Root Sage (94%)"
+          "text": "-> Twin Fang Arts"
         },
         {
           "id": 80,
           "paragraph_id": 56,
-          "text": "- Class: Dual Blade Master (SS - upgradable)"
+          "text": "-> Scarlet Bite"
         },
         {
           "id": 81,
           "paragraph_id": 57,
-          "text": "<Skills>"
+          "text": "-> Double Riposte"
         },
         {
           "id": 82,
           "paragraph_id": 58,
-          "text": "-> Twin Fang Arts"
+          "text": "-> Cross Slash Qi"
         },
         {
           "id": 83,
           "paragraph_id": 59,
-          "text": "-> Scarlet Bite"
+          "text": "-> Unseen Flurry"
         },
         {
           "id": 84,
           "paragraph_id": 60,
-          "text": "-> Double Riposte"
-        },
-        {
-          "id": 85,
-          "paragraph_id": 61,
-          "text": "-> Cross Slash Qi"
-        },
-        {
-          "id": 86,
-          "paragraph_id": 62,
-          "text": "-> Unseen Flurry"
-        },
-        {
-          "id": 87,
-          "paragraph_id": 63,
-          "text": "______________"
-        },
-        {
-          "id": 88,
-          "paragraph_id": 64,
           "text": "\"This is Nyxira."
         },
         {
-          "id": 89,
-          "paragraph_id": 64,
+          "id": 85,
+          "paragraph_id": 60,
           "text": "She is an assassin, and a very powerful one."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 60,
+          "text": "The dude there is Kaelion; he is a swordsman, and the last dude is also a swordsman, called Kael,\" Elsa introduced them."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 61,
+          "text": "The three gave a small bow but didn’t speak."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 62,
+          "text": "Kent nodded with a small smile."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 63,
+          "text": "’It seems this team is much more powerful than I expected.’ He suddenly felt the urge to increase his own summon, but he knew better—not to go for quantity but quality."
         },
         {
           "id": 90,
           "paragraph_id": 64,
-          "text": "The dude there is Kaelion; he is a swordsman, and the last dude is also a swordsman, called Kael,\" Elsa introduced them."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 65,
-          "text": "The three gave a small bow but didn’t speak."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 66,
-          "text": "Kent nodded with a small smile."
-        },
-        {
-          "id": 93,
-          "paragraph_id": 67,
-          "text": "’It seems this team is much more powerful than I expected.’ He suddenly felt the urge to increase his own summon, but he knew better—not to go for quantity but quality."
-        },
-        {
-          "id": 94,
-          "paragraph_id": 68,
           "text": "\"Everyone, welcome to the family."
         },
         {
-          "id": 95,
-          "paragraph_id": 68,
+          "id": 91,
+          "paragraph_id": 64,
           "text": "I am Kent.\" Kent introduced himself and was about to do the same for Gaia, but then he saw Akira looking closely at the three soul sentinels."
         },
         {
-          "id": 96,
-          "paragraph_id": 69,
+          "id": 92,
+          "paragraph_id": 65,
           "text": "\"Master, I think you should let these three spend some time with us,\" Akira said, looking back at Kent with her big, cute eyes."
         },
         {
-          "id": 97,
-          "paragraph_id": 70,
+          "id": 93,
+          "paragraph_id": 66,
           "text": "Kent wanted to dismiss her request, but Elsa told him it was okay through telepathy."
         },
         {
-          "id": 98,
-          "paragraph_id": 70,
+          "id": 94,
+          "paragraph_id": 66,
           "text": "She wouldn’t need them anyway... at least for now."
         },
         {
-          "id": 99,
-          "paragraph_id": 70,
+          "id": 95,
+          "paragraph_id": 66,
           "text": "Also, staying in the tower was the best for them."
         },
         {
-          "id": 100,
-          "paragraph_id": 71,
+          "id": 96,
+          "paragraph_id": 67,
           "text": "\"Okay, but don’t cause trouble for them,\" Kent said, but then he froze for a second when he saw Li Hua staring daggers at the assassin lady."
         },
         {
-          "id": 101,
-          "paragraph_id": 72,
+          "id": 97,
+          "paragraph_id": 68,
           "text": "In return, Nyxira also looked back at the small human."
         },
         {
-          "id": 102,
-          "paragraph_id": 72,
+          "id": 98,
+          "paragraph_id": 68,
           "text": "It seemed the two were having a stare-down."
         },
         {
-          "id": 103,
-          "paragraph_id": 73,
+          "id": 99,
+          "paragraph_id": 69,
           "text": "\"Big brother, I want to play with this big sister.\" Li Hua turned back to Kent, holding a banana cake she had retrieved from her pouch."
         },
         {
-          "id": 104,
-          "paragraph_id": 74,
+          "id": 100,
+          "paragraph_id": 70,
           "text": "The small human was trying to bribe him."
         },
         {
-          "id": 105,
-          "paragraph_id": 74,
+          "id": 101,
+          "paragraph_id": 70,
           "text": "Of course, it was of no use since Kent had already made up his mind to leave her there."
         },
         {
-          "id": 106,
-          "paragraph_id": 75,
+          "id": 102,
+          "paragraph_id": 71,
           "text": "He had no plans to take her to the Harem Tower."
         },
         {
-          "id": 107,
-          "paragraph_id": 75,
+          "id": 103,
+          "paragraph_id": 71,
           "text": "That was no place for children."
         },
         {
-          "id": 108,
-          "paragraph_id": 76,
+          "id": 104,
+          "paragraph_id": 72,
           "text": "\"Then I will trouble you three to take care of these small ones."
         },
         {
-          "id": 109,
-          "paragraph_id": 76,
+          "id": 105,
+          "paragraph_id": 72,
           "text": "They can be a handful, but bear with them,\" Kent said."
         },
         {
-          "id": 110,
-          "paragraph_id": 77,
+          "id": 106,
+          "paragraph_id": 73,
           "text": "The three Sentinels, who had already received word from the mistress, nodded and then sheathed and put away their weapons."
         },
         {
-          "id": 111,
-          "paragraph_id": 77,
+          "id": 107,
+          "paragraph_id": 73,
           "text": "A few seconds later, they were now clad in normal clothes."
         },
         {
-          "id": 112,
-          "paragraph_id": 78,
+          "id": 108,
+          "paragraph_id": 74,
           "text": "That was when Kent saw the elf’s ear on Nyxira and immediately decided to get an elf or two in the future."
         },
         {
-          "id": 113,
-          "paragraph_id": 79,
+          "id": 109,
+          "paragraph_id": 75,
           "text": "\"Alright, ladies, why don’t we go to where I wanted to bring you in the first place?\" Kent smiled."
         },
         {
-          "id": 114,
-          "paragraph_id": 80,
+          "id": 110,
+          "paragraph_id": 76,
           "text": "\"Let’s go to the World of Pleasures.\""
         }
       ],
-      "word_count": 1263
+      "word_count": 1259
     },
     {
       "chapter_index": 154,
@@ -3739,7 +3709,6 @@
         "\"Don’t worry, I will make sure that bastard doesn’t live long enough to enjoy his days,\" Kent said with a smile, holding Alina in his arms. It took him two hours, but he managed to calm her down.",
         "Her trauma was much deeper than he had thought. But for now, he planned to make sure she got her revenge. And since the universe also wanted that, who was he to reject it?",
         "He quickly checked the quest.",
-        "_______________",
         "⟪You have received a new question from the Universe Quest Pool.⟫",
         "-> Quest Name: Overdue Revenge",
         "-> Quest Type: Side Quest",
@@ -3749,7 +3718,6 @@
         "<Rewards>",
         "-> 1 Million Tower Points",
         "-> Random Gift Bingo Ticket",
-        "_______________",
         "’Looks like even the universe wants this scum dead. I guess I’ll get to it the moment I settle down in the academy,’ Kent smirked and retrieved one of the six necklaces Vexthra had given him.",
         "\"Put your blood on this and form a soul contract with it,\" Kent said, making Alina look at him strangely.",
         "\"Is... is that a soul item?\" she asked curiously.",
@@ -3762,7 +3730,6 @@
         "Of course, he went ahead and told her how the necklace worked.",
         "Later, they dressed up, and Kent used his blink skill to leave the same way he had arrived. Alina, still smiling, left to take care of her affairs.",
         "Since Kent had made her a promise, she resolved to do her best to live up to his expectations.",
-        "_______________",
         "Right after Kent blinked outside the auction house, he began moving toward the southern part of the city. He was finally going to meet his servant, Jacob Ashland.",
         "It had been weeks since the last time, he was sure.",
         "Back then, Jacob had been captured by the men who worked for his father. But instead of killing him, they planned to sell him as a slave out of sheer greed.",
@@ -3829,475 +3796,460 @@
         {
           "id": 6,
           "paragraph_id": 3,
-          "text": "_______________"
+          "text": "⟪You have received a new question from the Universe Quest Pool.⟫"
         },
         {
           "id": 7,
           "paragraph_id": 4,
-          "text": "⟪You have received a new question from the Universe Quest Pool.⟫"
+          "text": "-> Quest Name: Overdue Revenge"
         },
         {
           "id": 8,
           "paragraph_id": 5,
-          "text": "-> Quest Name: Overdue Revenge"
+          "text": "-> Quest Type: Side Quest"
         },
         {
           "id": 9,
           "paragraph_id": 6,
-          "text": "-> Quest Type: Side Quest"
+          "text": "-> Quest Difficulty: High"
         },
         {
           "id": 10,
           "paragraph_id": 7,
-          "text": "-> Quest Difficulty: High"
+          "text": "-> Quest Duration: 30 days"
         },
         {
           "id": 11,
           "paragraph_id": 8,
-          "text": "-> Quest Duration: 30 days"
+          "text": "-- Use any means necessary to deliver the one named Turyn to the one Named Alina on a silver platter."
         },
         {
           "id": 12,
-          "paragraph_id": 9,
-          "text": "-- Use any means necessary to deliver the one named Turyn to the one Named Alina on a silver platter."
+          "paragraph_id": 8,
+          "text": "It doesn’t matter how you go about it; you just get him."
         },
         {
           "id": 13,
           "paragraph_id": 9,
-          "text": "It doesn’t matter how you go about it; you just get him."
+          "text": "<Rewards>"
         },
         {
           "id": 14,
           "paragraph_id": 10,
-          "text": "<Rewards>"
+          "text": "-> 1 Million Tower Points"
         },
         {
           "id": 15,
           "paragraph_id": 11,
-          "text": "-> 1 Million Tower Points"
+          "text": "-> Random Gift Bingo Ticket"
         },
         {
           "id": 16,
           "paragraph_id": 12,
-          "text": "-> Random Gift Bingo Ticket"
+          "text": "’Looks like even the universe wants this scum dead."
         },
         {
           "id": 17,
-          "paragraph_id": 13,
-          "text": "_______________"
+          "paragraph_id": 12,
+          "text": "I guess I’ll get to it the moment I settle down in the academy,’ Kent smirked and retrieved one of the six necklaces Vexthra had given him."
         },
         {
           "id": 18,
-          "paragraph_id": 14,
-          "text": "’Looks like even the universe wants this scum dead."
+          "paragraph_id": 13,
+          "text": "\"Put your blood on this and form a soul contract with it,\" Kent said, making Alina look at him strangely."
         },
         {
           "id": 19,
           "paragraph_id": 14,
-          "text": "I guess I’ll get to it the moment I settle down in the academy,’ Kent smirked and retrieved one of the six necklaces Vexthra had given him."
+          "text": "\"Is... is that a soul item?\" she asked curiously."
         },
         {
           "id": 20,
           "paragraph_id": 15,
-          "text": "\"Put your blood on this and form a soul contract with it,\" Kent said, making Alina look at him strangely."
-        },
-        {
-          "id": 21,
-          "paragraph_id": 16,
-          "text": "\"Is... is that a soul item?\" she asked curiously."
-        },
-        {
-          "id": 22,
-          "paragraph_id": 17,
           "text": "\"Yes,\" Kent replied."
         },
         {
-          "id": 23,
-          "paragraph_id": 17,
+          "id": 21,
+          "paragraph_id": 15,
           "text": "He saw no reason to hide it."
         },
         {
-          "id": 24,
-          "paragraph_id": 17,
+          "id": 22,
+          "paragraph_id": 15,
           "text": "She was his woman now; the least he could do was protect her."
         },
         {
-          "id": 25,
-          "paragraph_id": 18,
+          "id": 23,
+          "paragraph_id": 16,
           "text": "\"And you’re giving it to me for free?"
         },
         {
-          "id": 26,
-          "paragraph_id": 18,
+          "id": 24,
+          "paragraph_id": 16,
           "text": "Do you know how much one of these costs?\" Alina asked, shocked."
         },
         {
-          "id": 27,
-          "paragraph_id": 18,
+          "id": 25,
+          "paragraph_id": 16,
           "text": "As an auction manager, she was well aware of the value of soul items."
         },
         {
-          "id": 28,
-          "paragraph_id": 19,
+          "id": 26,
+          "paragraph_id": 17,
           "text": "Of course, she had never expected to own one herself, yet here she was, receiving one."
         },
         {
-          "id": 29,
-          "paragraph_id": 19,
+          "id": 27,
+          "paragraph_id": 17,
           "text": "Kent could only smile and say, \"You don’t have to worry about the price.\""
         },
         {
-          "id": 30,
-          "paragraph_id": 20,
+          "id": 28,
+          "paragraph_id": 18,
           "text": "He took her hand, pricked her thumb to draw blood, and dropped it onto the necklace."
         },
         {
-          "id": 31,
-          "paragraph_id": 20,
+          "id": 29,
+          "paragraph_id": 18,
           "text": "The contract was formed, and he placed it around her neck."
         },
         {
-          "id": 32,
-          "paragraph_id": 21,
+          "id": 30,
+          "paragraph_id": 19,
           "text": "It felt surreal, but as she sensed the connection forming between her and the necklace, she seemed to accept it."
         },
         {
-          "id": 33,
-          "paragraph_id": 21,
+          "id": 31,
+          "paragraph_id": 19,
           "text": "Smiling, she hugged Kent tightly."
         },
         {
-          "id": 34,
-          "paragraph_id": 22,
+          "id": 32,
+          "paragraph_id": 20,
           "text": "\"Thank you,\" she whispered, burying her face in his chest."
+        },
+        {
+          "id": 33,
+          "paragraph_id": 20,
+          "text": "Kent simply patted her back, letting her have the moment she needed."
+        },
+        {
+          "id": 34,
+          "paragraph_id": 21,
+          "text": "Of course, he went ahead and told her how the necklace worked."
         },
         {
           "id": 35,
           "paragraph_id": 22,
-          "text": "Kent simply patted her back, letting her have the moment she needed."
+          "text": "Later, they dressed up, and Kent used his blink skill to leave the same way he had arrived."
         },
         {
           "id": 36,
-          "paragraph_id": 23,
-          "text": "Of course, he went ahead and told her how the necklace worked."
+          "paragraph_id": 22,
+          "text": "Alina, still smiling, left to take care of her affairs."
         },
         {
           "id": 37,
-          "paragraph_id": 24,
-          "text": "Later, they dressed up, and Kent used his blink skill to leave the same way he had arrived."
+          "paragraph_id": 23,
+          "text": "Since Kent had made her a promise, she resolved to do her best to live up to his expectations."
         },
         {
           "id": 38,
           "paragraph_id": 24,
-          "text": "Alina, still smiling, left to take care of her affairs."
-        },
-        {
-          "id": 39,
-          "paragraph_id": 25,
-          "text": "Since Kent had made her a promise, she resolved to do her best to live up to his expectations."
-        },
-        {
-          "id": 40,
-          "paragraph_id": 26,
-          "text": "_______________"
-        },
-        {
-          "id": 41,
-          "paragraph_id": 27,
           "text": "Right after Kent blinked outside the auction house, he began moving toward the southern part of the city."
         },
         {
-          "id": 42,
-          "paragraph_id": 27,
+          "id": 39,
+          "paragraph_id": 24,
           "text": "He was finally going to meet his servant, Jacob Ashland."
         },
         {
-          "id": 43,
-          "paragraph_id": 28,
+          "id": 40,
+          "paragraph_id": 25,
           "text": "It had been weeks since the last time, he was sure."
         },
         {
-          "id": 44,
-          "paragraph_id": 29,
+          "id": 41,
+          "paragraph_id": 26,
           "text": "Back then, Jacob had been captured by the men who worked for his father."
         },
         {
-          "id": 45,
-          "paragraph_id": 29,
+          "id": 42,
+          "paragraph_id": 26,
           "text": "But instead of killing him, they planned to sell him as a slave out of sheer greed."
         },
         {
-          "id": 46,
-          "paragraph_id": 30,
+          "id": 43,
+          "paragraph_id": 27,
           "text": "Luckily for Jacob, Kent didn’t want to kill him, even though his family had captured Li Hua and were planning to use her for who knows what."
         },
         {
-          "id": 47,
-          "paragraph_id": 31,
+          "id": 44,
+          "paragraph_id": 28,
           "text": "Long story short, Kent rescued him and offered him the chance to become his servant."
         },
         {
-          "id": 48,
-          "paragraph_id": 31,
+          "id": 45,
+          "paragraph_id": 28,
           "text": "After some internal struggles, Jacob accepted."
         },
         {
-          "id": 49,
-          "paragraph_id": 32,
+          "id": 46,
+          "paragraph_id": 29,
           "text": "But then, his destiny took an unexpected turn when he received a True Name."
         },
         {
-          "id": 50,
-          "paragraph_id": 32,
+          "id": 47,
+          "paragraph_id": 29,
           "text": "It wasn’t just any ordinary True Name; it was that of the undying cockroach, Krex-Nithal."
         },
         {
-          "id": 51,
-          "paragraph_id": 33,
+          "id": 48,
+          "paragraph_id": 30,
           "text": "Not that Jacob is aware he has a True Name."
         },
         {
-          "id": 52,
-          "paragraph_id": 33,
+          "id": 49,
+          "paragraph_id": 30,
           "text": "His True Name wouldn’t unlock until he raised his trust level with Kent to 80%."
         },
         {
-          "id": 53,
-          "paragraph_id": 34,
+          "id": 50,
+          "paragraph_id": 31,
           "text": "Kent had planned on visiting him later."
         },
         {
-          "id": 54,
-          "paragraph_id": 35,
+          "id": 51,
+          "paragraph_id": 32,
           "text": "However, something happened a few hours ago, and because of that, he decided to visit Jacob."
         },
         {
-          "id": 55,
-          "paragraph_id": 35,
+          "id": 52,
+          "paragraph_id": 32,
           "text": "His first servant had become a Root Saint, so Kent received a boost in his stats."
         },
         {
-          "id": 56,
-          "paragraph_id": 36,
+          "id": 53,
+          "paragraph_id": 33,
           "text": "He hadn’t expected that."
         },
         {
-          "id": 57,
-          "paragraph_id": 36,
+          "id": 54,
+          "paragraph_id": 33,
           "text": "When he freed Jacob, the young man had shown no signs of continuing his cultivation."
         },
         {
-          "id": 58,
-          "paragraph_id": 36,
+          "id": 55,
+          "paragraph_id": 33,
           "text": "The first few weeks were spent lazing around."
         },
         {
-          "id": 59,
-          "paragraph_id": 37,
+          "id": 56,
+          "paragraph_id": 34,
           "text": "He spent the 30,000 spirit stones Kent had given him recklessly."
         },
         {
-          "id": 60,
-          "paragraph_id": 37,
+          "id": 57,
+          "paragraph_id": 34,
           "text": "He seemed to have given up."
         },
         {
-          "id": 61,
-          "paragraph_id": 37,
+          "id": 58,
+          "paragraph_id": 34,
           "text": "However, a couple of weeks ago, something within him rebelled against the idea of surrendering and pushed him to pick himself up and do something meaningful with his life."
         },
         {
-          "id": 62,
-          "paragraph_id": 38,
+          "id": 59,
+          "paragraph_id": 35,
           "text": "Thus, he began training and cultivating."
         },
         {
-          "id": 63,
-          "paragraph_id": 38,
+          "id": 60,
+          "paragraph_id": 35,
           "text": "By that time, he had already used up most of his money."
         },
         {
-          "id": 64,
-          "paragraph_id": 38,
+          "id": 61,
+          "paragraph_id": 35,
           "text": "With the little that remained, he rented a small apartment and threw himself into cultivating and training."
         },
         {
-          "id": 65,
-          "paragraph_id": 39,
+          "id": 62,
+          "paragraph_id": 36,
           "text": "Before long, he became deeply engrossed in his efforts, and without realizing it, he finally accepted his role as Kent’s servant."
         },
         {
-          "id": 66,
-          "paragraph_id": 39,
+          "id": 63,
+          "paragraph_id": 36,
           "text": "Of course, he still hated Kent for taking his woman, but he had started to understand why things had unfolded the way they did."
         },
         {
-          "id": 67,
-          "paragraph_id": 40,
+          "id": 64,
+          "paragraph_id": 37,
           "text": "He was nothing more than a puppet manipulated by his parents."
         },
         {
-          "id": 68,
-          "paragraph_id": 40,
+          "id": 65,
+          "paragraph_id": 37,
           "text": "He despised them, and now that they were dead, he was finally free."
         },
         {
-          "id": 69,
-          "paragraph_id": 40,
+          "id": 66,
+          "paragraph_id": 37,
           "text": "So, he trained harder, and before long, his Trust Level with Kent reached 50%."
         },
         {
-          "id": 70,
-          "paragraph_id": 41,
+          "id": 67,
+          "paragraph_id": 38,
           "text": "A few hours ago, something remarkable happened—his cultivation base, which had been stuck at the Peak of the Root Grandmaster stage, finally broke through to the Root Saint stage."
         },
         {
-          "id": 71,
-          "paragraph_id": 42,
+          "id": 68,
+          "paragraph_id": 39,
           "text": "Kent stopped 100 meters from the house and watched Jacob hack away at the training dummies he had bought."
         },
         {
-          "id": 72,
-          "paragraph_id": 42,
+          "id": 69,
+          "paragraph_id": 39,
           "text": "For several minutes, he observed him in silence."
         },
         {
-          "id": 73,
-          "paragraph_id": 42,
+          "id": 70,
+          "paragraph_id": 39,
           "text": "Then, with a soft smile, he stepped into the house."
         },
         {
-          "id": 74,
-          "paragraph_id": 43,
+          "id": 71,
+          "paragraph_id": 40,
           "text": "\"Good to see you’re doing better, Jacob,\" Kent said with a cute little smile."
         },
         {
-          "id": 75,
-          "paragraph_id": 43,
+          "id": 72,
+          "paragraph_id": 40,
           "text": "Jacob turned and looked at him but didn’t say anything."
         },
         {
-          "id": 76,
-          "paragraph_id": 44,
+          "id": 73,
+          "paragraph_id": 41,
           "text": "Clearly, he still didn’t like him."
         },
         {
-          "id": 77,
-          "paragraph_id": 44,
+          "id": 74,
+          "paragraph_id": 41,
           "text": "But he had to admit, Kent had helped him, so, giving him the benefit of the doubt, he stopped what he was doing and faced him."
         },
         {
-          "id": 78,
-          "paragraph_id": 45,
+          "id": 75,
+          "paragraph_id": 42,
           "text": "\"What do you want?\" Jacob asked."
         },
         {
-          "id": 79,
-          "paragraph_id": 46,
+          "id": 76,
+          "paragraph_id": 43,
           "text": "Kent smirked, sensing the hostility in his tone."
         },
         {
-          "id": 80,
-          "paragraph_id": 46,
+          "id": 77,
+          "paragraph_id": 43,
           "text": "But he didn’t care—it’s not like Jacob could defeat him or anything."
         },
         {
-          "id": 81,
-          "paragraph_id": 47,
+          "id": 78,
+          "paragraph_id": 44,
           "text": "\"I just came to drop some things off before leaving."
         },
         {
-          "id": 82,
-          "paragraph_id": 47,
+          "id": 79,
+          "paragraph_id": 44,
           "text": "I know you still don’t trust me, but I hope you will in the future.\" Kent retrieved a pouch from his space ring."
         },
         {
-          "id": 83,
-          "paragraph_id": 48,
+          "id": 80,
+          "paragraph_id": 45,
           "text": "\"By the way, congratulations on becoming a Root Saint.\" He gave Jacob a nod of approval before tossing the pouch to him."
         },
         {
-          "id": 84,
-          "paragraph_id": 49,
+          "id": 81,
+          "paragraph_id": 46,
           "text": "\"Inside are 100 million spirit stones and a Soul Armor."
         },
         {
-          "id": 85,
-          "paragraph_id": 49,
+          "id": 82,
+          "paragraph_id": 46,
           "text": "Just put your blood on the gem in the armour, and it will be absorbed into your soul."
         },
         {
-          "id": 86,
-          "paragraph_id": 49,
+          "id": 83,
+          "paragraph_id": 46,
           "text": "To use it, just summon it, and it will appear around your body."
         },
         {
-          "id": 87,
-          "paragraph_id": 50,
+          "id": 84,
+          "paragraph_id": 47,
           "text": "You can also imagine any type of clothing, and it will transform into it."
         },
         {
-          "id": 88,
-          "paragraph_id": 50,
+          "id": 85,
+          "paragraph_id": 47,
           "text": "Wear it at all times."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 47,
+          "text": "I’ll come back or call you when I deem you worthy enough to be my true servant."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 48,
+          "text": "For now, use the money to buy what you need for your training.\" Kent smiled at Jacobs’s stunned expression and blinked away."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 49,
+          "text": "He didn’t need that much anyway, so giving him 100 million and one of the eight Soul Armors in his possession wasn’t a big deal."
         },
         {
           "id": 89,
           "paragraph_id": 50,
-          "text": "I’ll come back or call you when I deem you worthy enough to be my true servant."
+          "text": "If he needed more, he could just pop into the God Realm and get more."
         },
         {
           "id": 90,
           "paragraph_id": 51,
-          "text": "For now, use the money to buy what you need for your training.\" Kent smiled at Jacobs’s stunned expression and blinked away."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 52,
-          "text": "He didn’t need that much anyway, so giving him 100 million and one of the eight Soul Armors in his possession wasn’t a big deal."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 53,
-          "text": "If he needed more, he could just pop into the God Realm and get more."
-        },
-        {
-          "id": 93,
-          "paragraph_id": 54,
           "text": "After leaving, Kent started moving toward the location of Vastport City."
         },
         {
-          "id": 94,
-          "paragraph_id": 54,
+          "id": 91,
+          "paragraph_id": 51,
           "text": "He could have used the transportation gate in Caprath City, but with four days left before going to the academy, he wanted to travel on foot."
         },
         {
-          "id": 95,
-          "paragraph_id": 55,
+          "id": 92,
+          "paragraph_id": 52,
           "text": "So he set off."
         },
         {
-          "id": 96,
-          "paragraph_id": 56,
+          "id": 93,
+          "paragraph_id": 53,
           "text": "However, halfway through the journey, he had to stop."
         },
         {
-          "id": 97,
-          "paragraph_id": 56,
+          "id": 94,
+          "paragraph_id": 53,
           "text": "Uncle Drew—now a Night Rider—appeared through a portal, along with two others, forcing Kent to halt."
         },
         {
-          "id": 98,
-          "paragraph_id": 57,
+          "id": 95,
+          "paragraph_id": 54,
           "text": "He knew what was about to happen next."
         },
         {
-          "id": 99,
-          "paragraph_id": 57,
+          "id": 96,
+          "paragraph_id": 54,
           "text": "When the two figures behind Uncle Drew appeared, Kent received their True Names and understood how to complete their transformation."
         }
       ],
-      "word_count": 1276
+      "word_count": 1273
     },
     {
       "chapter_index": 159,
@@ -9461,7 +9413,6 @@
         "While this was happening, Kent was busy examining the crazy skill he had received from Selene. In fact, he wasn’t sure how to perceive this new skill. It felt as though the universe had chosen to reward him through Selene.",
         "He knew for a fact that his master didn’t have this skill, so it seemed only natural that perhaps the universe had played a hand in this.",
         "And he was right. The universe had indeed played a hand in this. He had, once again, become a monster who would soon rule this world...",
-        "_______________",
         "(A/N: End of First Volume: Like A Sex on Stick. The next volume will contain more action and smut, so happy reading. Don’t forget to leave a review)"
       ],
       "sentences": [
@@ -9908,25 +9859,20 @@
         {
           "id": 88,
           "paragraph_id": 47,
-          "text": "_______________"
-        },
-        {
-          "id": 89,
-          "paragraph_id": 48,
           "text": "(A/N: End of First Volume: Like A Sex on Stick."
         },
         {
-          "id": 90,
-          "paragraph_id": 48,
+          "id": 89,
+          "paragraph_id": 47,
           "text": "The next volume will contain more action and smut, so happy reading."
         },
         {
-          "id": 91,
-          "paragraph_id": 48,
+          "id": 90,
+          "paragraph_id": 47,
           "text": "Don’t forget to leave a review)"
         }
       ],
-      "word_count": 1278
+      "word_count": 1277
     },
     {
       "chapter_index": 170,
@@ -11030,7 +10976,6 @@
         "At that moment, she would realize one thing...",
         "In all the 1,003 years she had lived and the hundreds of battles she had fought, for the first time in her life, she would understand the sentence many immortals had passed down to the ancestors:",
         "\"There are the Talented, the Geniuses, and the Prodigies. However, beyond these three, there exist those known as Monsters.\"",
-        "__________________",
         "A few hours after Kent made his declaration, news began to spread throughout the Sword Gate and even reached the other gates.",
         "Everyone who heard the news had the same reaction—they clenched their fists in anger. The audacity of the challenge was simply too much.",
         "However, when they learned about the stakes of the challenge, everyone smiled. Just like that, the sword geniuses within the Sword Gate started registering their names.",
@@ -11375,45 +11320,40 @@
         {
           "id": 67,
           "paragraph_id": 44,
-          "text": "__________________"
+          "text": "A few hours after Kent made his declaration, news began to spread throughout the Sword Gate and even reached the other gates."
         },
         {
           "id": 68,
           "paragraph_id": 45,
-          "text": "A few hours after Kent made his declaration, news began to spread throughout the Sword Gate and even reached the other gates."
+          "text": "Everyone who heard the news had the same reaction—they clenched their fists in anger."
         },
         {
           "id": 69,
-          "paragraph_id": 46,
-          "text": "Everyone who heard the news had the same reaction—they clenched their fists in anger."
+          "paragraph_id": 45,
+          "text": "The audacity of the challenge was simply too much."
         },
         {
           "id": 70,
           "paragraph_id": 46,
-          "text": "The audacity of the challenge was simply too much."
+          "text": "However, when they learned about the stakes of the challenge, everyone smiled."
         },
         {
           "id": 71,
-          "paragraph_id": 47,
-          "text": "However, when they learned about the stakes of the challenge, everyone smiled."
+          "paragraph_id": 46,
+          "text": "Just like that, the sword geniuses within the Sword Gate started registering their names."
         },
         {
           "id": 72,
           "paragraph_id": 47,
-          "text": "Just like that, the sword geniuses within the Sword Gate started registering their names."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 48,
           "text": "In two days, they would teach that arrogant bastard, who dared challenge them all, a lesson."
         },
         {
-          "id": 74,
-          "paragraph_id": 48,
+          "id": 73,
+          "paragraph_id": 47,
           "text": "After all, he was the disciple of everyone’s idol... the Sword Saintess."
         }
       ],
-      "word_count": 1264
+      "word_count": 1263
     },
     {
       "chapter_index": 173,
@@ -15955,7 +15895,6 @@
       "paragraphs": [
         "(A/N: I know some of you were expecting a longer battle scene. Sorry to disappoint, but the MC is simply too OP to go up against Grandmaster Swordsmen. It feels like bullying, crushing their dreams and aspirations like that.",
         "That’s why I’ll make it up to you all in the coming Chapters. Just don’t laugh or cry too much... It’s just a story, after all... lol.😂😂😂)",
-        "****",
         "Word of Kent’s feat in the Trial of the Sword spread rapidly throughout the Divine Palace Sect. It was the only topic on everyone’s lips—and it had been less than a day since he defeated all 100 Grandmaster Swordsmen.",
         "No matter the gate within the sect, Kent was currently elated. In fact, his fame had skyrocketed beyond the walls of the sect.",
         "Some disciples even recorded the battles on their recording crystals and began sharing them among themselves.",
@@ -16038,425 +15977,420 @@
         {
           "id": 6,
           "paragraph_id": 2,
-          "text": "****"
+          "text": "Word of Kent’s feat in the Trial of the Sword spread rapidly throughout the Divine Palace Sect."
         },
         {
           "id": 7,
-          "paragraph_id": 3,
-          "text": "Word of Kent’s feat in the Trial of the Sword spread rapidly throughout the Divine Palace Sect."
+          "paragraph_id": 2,
+          "text": "It was the only topic on everyone’s lips—and it had been less than a day since he defeated all 100 Grandmaster Swordsmen."
         },
         {
           "id": 8,
           "paragraph_id": 3,
-          "text": "It was the only topic on everyone’s lips—and it had been less than a day since he defeated all 100 Grandmaster Swordsmen."
+          "text": "No matter the gate within the sect, Kent was currently elated."
         },
         {
           "id": 9,
-          "paragraph_id": 4,
-          "text": "No matter the gate within the sect, Kent was currently elated."
+          "paragraph_id": 3,
+          "text": "In fact, his fame had skyrocketed beyond the walls of the sect."
         },
         {
           "id": 10,
           "paragraph_id": 4,
-          "text": "In fact, his fame had skyrocketed beyond the walls of the sect."
+          "text": "Some disciples even recorded the battles on their recording crystals and began sharing them among themselves."
         },
         {
           "id": 11,
           "paragraph_id": 5,
-          "text": "Some disciples even recorded the battles on their recording crystals and began sharing them among themselves."
+          "text": "The greedy ones are even selling to those outside the sect."
         },
         {
           "id": 12,
-          "paragraph_id": 6,
-          "text": "The greedy ones are even selling to those outside the sect."
+          "paragraph_id": 5,
+          "text": "This is huge news worth spreading at the Kingdom level."
         },
         {
           "id": 13,
           "paragraph_id": 6,
-          "text": "This is huge news worth spreading at the Kingdom level."
+          "text": "The Spear Gate, which had a longstanding rivalry with the Sword Gate, had already started ridiculing the Sword Gate, leading to a few clashes among disciples."
         },
         {
           "id": 14,
-          "paragraph_id": 7,
-          "text": "The Spear Gate, which had a longstanding rivalry with the Sword Gate, had already started ridiculing the Sword Gate, leading to a few clashes among disciples."
+          "paragraph_id": 6,
+          "text": "Of course, the Elders intervened and broke up the fights before they could escalate."
         },
         {
           "id": 15,
           "paragraph_id": 7,
-          "text": "Of course, the Elders intervened and broke up the fights before they could escalate."
+          "text": "But that doesn’t mean the matter has died down..."
         },
         {
           "id": 16,
           "paragraph_id": 8,
-          "text": "But that doesn’t mean the matter has died down..."
+          "text": "In fact, Kent’s feat has changed many things in the sect."
         },
         {
           "id": 17,
-          "paragraph_id": 9,
-          "text": "In fact, Kent’s feat has changed many things in the sect."
+          "paragraph_id": 8,
+          "text": "It was as if his presence had altered everything people believed."
         },
         {
           "id": 18,
           "paragraph_id": 9,
-          "text": "It was as if his presence had altered everything people believed."
+          "text": "A Level 8 Root Grandmaster somehow managed to defeat 100 Grandmaster swordsmen, all of whom are Root Saints."
         },
         {
           "id": 19,
-          "paragraph_id": 10,
-          "text": "A Level 8 Root Grandmaster somehow managed to defeat 100 Grandmaster swordsmen, all of whom are Root Saints."
+          "paragraph_id": 9,
+          "text": "That just doesn’t make sense."
         },
         {
           "id": 20,
           "paragraph_id": 10,
-          "text": "That just doesn’t make sense."
+          "text": "In fact, it shouldn’t make sense..."
         },
         {
           "id": 21,
-          "paragraph_id": 11,
-          "text": "In fact, it shouldn’t make sense..."
+          "paragraph_id": 10,
+          "text": "But it also means that, although the Sword Gate has faced an unfortunate defeat, they now have a monster they can rely on."
         },
         {
           "id": 22,
           "paragraph_id": 11,
-          "text": "But it also means that, although the Sword Gate has faced an unfortunate defeat, they now have a monster they can rely on."
+          "text": "Someone they can use to brag about..."
         },
         {
           "id": 23,
           "paragraph_id": 12,
-          "text": "Someone they can use to brag about..."
+          "text": "So, the other gates have to strike while the iron is still hot."
         },
         {
           "id": 24,
-          "paragraph_id": 13,
-          "text": "So, the other gates have to strike while the iron is still hot."
+          "paragraph_id": 12,
+          "text": "If they waste time, things will escalate beyond their current limits."
         },
         {
           "id": 25,
           "paragraph_id": 13,
-          "text": "If they waste time, things will escalate beyond their current limits."
+          "text": "Kent must be put in his place before his ego grows too big."
         },
         {
           "id": 26,
           "paragraph_id": 14,
-          "text": "Kent must be put in his place before his ego grows too big."
+          "text": "Just like that, the gate masters began meeting with their gate elders, searching for a way to curb the growing threat within the Sword Gate..."
         },
         {
           "id": 27,
           "paragraph_id": 15,
-          "text": "Just like that, the gate masters began meeting with their gate elders, searching for a way to curb the growing threat within the Sword Gate..."
+          "text": "One would think a sect should be united, but they are all schemers who only know how to backstab one another."
         },
         {
           "id": 28,
-          "paragraph_id": 16,
-          "text": "One would think a sect should be united, but they are all schemers who only know how to backstab one another."
+          "paragraph_id": 15,
+          "text": "Kent had proven to be a threat they couldn’t ignore, so they sought to put him in his place."
         },
         {
           "id": 29,
           "paragraph_id": 16,
-          "text": "Kent had proven to be a threat they couldn’t ignore, so they sought to put him in his place."
+          "text": "But while this was happening, outside the Divine Palace Sect, some people who had watched the recordings began spreading the word."
         },
         {
           "id": 30,
           "paragraph_id": 17,
-          "text": "But while this was happening, outside the Divine Palace Sect, some people who had watched the recordings began spreading the word."
+          "text": "One of these videos found its way to the Everlasting Immortal Sword Sect, the number one sword sect in the entire Althea Kingdom and possibly the entire human continent."
         },
         {
           "id": 31,
           "paragraph_id": 18,
-          "text": "One of these videos found its way to the Everlasting Immortal Sword Sect, the number one sword sect in the entire Althea Kingdom and possibly the entire human continent."
+          "text": "\"I trust you’ve all seen the video,\" a white-bearded man said, his gaze shifting to three others."
         },
         {
           "id": 32,
-          "paragraph_id": 19,
-          "text": "\"I trust you’ve all seen the video,\" a white-bearded man said, his gaze shifting to three others."
+          "paragraph_id": 18,
+          "text": "Two were men, and the last was a woman, likely in her late 40s."
         },
         {
           "id": 33,
           "paragraph_id": 19,
-          "text": "Two were men, and the last was a woman, likely in her late 40s."
+          "text": "\"They’re calling him the Monster of the Sword Gate,\" said the white-bearded man."
         },
         {
           "id": 34,
-          "paragraph_id": 20,
-          "text": "\"They’re calling him the Monster of the Sword Gate,\" said the white-bearded man."
+          "paragraph_id": 19,
+          "text": "He was Clyde, the Sect Master of the Everlasting Immortal Sword Sect."
         },
         {
           "id": 35,
           "paragraph_id": 20,
-          "text": "He was Clyde, the Sect Master of the Everlasting Immortal Sword Sect."
-        },
-        {
-          "id": 36,
-          "paragraph_id": 21,
           "text": "\"This doesn’t look good for us."
         },
         {
-          "id": 37,
-          "paragraph_id": 21,
+          "id": 36,
+          "paragraph_id": 20,
           "text": "Not only did he refrain from drawing his sword, but he also managed to execute the infamous [24 String Weaving Strike] flawlessly."
+        },
+        {
+          "id": 37,
+          "paragraph_id": 20,
+          "text": "This kid is indeed a monster,\" the woman named Cecil said, still watching the video."
         },
         {
           "id": 38,
           "paragraph_id": 21,
-          "text": "This kid is indeed a monster,\" the woman named Cecil said, still watching the video."
+          "text": "\"This doesn’t bode well for us indeed."
         },
         {
           "id": 39,
-          "paragraph_id": 22,
-          "text": "\"This doesn’t bode well for us indeed."
+          "paragraph_id": 21,
+          "text": "With this kid, the next Kingdom Genius Competition won’t be in our favour,\" one of the men in the room, Josh, said, glaring daggers at the image of Kent projected from the recording crystal."
         },
         {
           "id": 40,
           "paragraph_id": 22,
-          "text": "With this kid, the next Kingdom Genius Competition won’t be in our favour,\" one of the men in the room, Josh, said, glaring daggers at the image of Kent projected from the recording crystal."
+          "text": "These crystals are used to record events, much like recording cameras on Earth."
         },
         {
           "id": 41,
           "paragraph_id": 23,
-          "text": "These crystals are used to record events, much like recording cameras on Earth."
+          "text": "\"Then what should we do?"
         },
         {
           "id": 42,
-          "paragraph_id": 24,
-          "text": "\"Then what should we do?"
+          "paragraph_id": 23,
+          "text": "Although he’s not yet at the level of our Core Disciples, if he’s given a few years to grow, he won’t just surpass them—he’ll surpass us,\" the last man in the room, Bai, added."
         },
         {
           "id": 43,
           "paragraph_id": 24,
-          "text": "Although he’s not yet at the level of our Core Disciples, if he’s given a few years to grow, he won’t just surpass them—he’ll surpass us,\" the last man in the room, Bai, added."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 25,
           "text": "Negative thoughts began forming in their minds."
         },
         {
-          "id": 45,
-          "paragraph_id": 25,
+          "id": 44,
+          "paragraph_id": 24,
           "text": "They just didn’t want to lose."
+        },
+        {
+          "id": 45,
+          "paragraph_id": 24,
+          "text": "They were the Everlasting Immortal Sword Sect, one of the most powerful sects on the human continent."
         },
         {
           "id": 46,
           "paragraph_id": 25,
-          "text": "They were the Everlasting Immortal Sword Sect, one of the most powerful sects on the human continent."
+          "text": "They prided themselves on being one of the most powerful sects with a great understanding of the path of the sword."
         },
         {
           "id": 47,
-          "paragraph_id": 26,
-          "text": "They prided themselves on being one of the most powerful sects with a great understanding of the path of the sword."
+          "paragraph_id": 25,
+          "text": "However, Kent’s display shook their hearts."
         },
         {
           "id": 48,
           "paragraph_id": 26,
-          "text": "However, Kent’s display shook their hearts."
+          "text": "If Kent wasn’t taken care of, things would come crashing down for them."
         },
         {
           "id": 49,
           "paragraph_id": 27,
-          "text": "If Kent wasn’t taken care of, things would come crashing down for them."
+          "text": "After all, the last time they lost the Kingdom Genius Competition was many years ago, and even back then, it was the current Sword Gate Master, who was known back in the day as the Sword Fairy, who won that competition."
         },
         {
           "id": 50,
           "paragraph_id": 28,
-          "text": "After all, the last time they lost the Kingdom Genius Competition was many years ago, and even back then, it was the current Sword Gate Master, who was known back in the day as the Sword Fairy, who won that competition."
+          "text": "Since then, nobody has come close to claiming that title from them."
         },
         {
           "id": 51,
-          "paragraph_id": 29,
-          "text": "Since then, nobody has come close to claiming that title from them."
+          "paragraph_id": 28,
+          "text": "But Kent had just proven that the title could be claimed—and easily at that."
         },
         {
           "id": 52,
           "paragraph_id": 29,
-          "text": "But Kent had just proven that the title could be claimed—and easily at that."
+          "text": "If someone manages to execute such a powerful sword skill flawlessly, it means only one thing: he is a genius who cannot be ignored."
         },
         {
           "id": 53,
           "paragraph_id": 30,
-          "text": "If someone manages to execute such a powerful sword skill flawlessly, it means only one thing: he is a genius who cannot be ignored."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 31,
           "text": "\"There are only two things we can do,\" Sect Master Clyde said."
         },
         {
-          "id": 55,
-          "paragraph_id": 31,
+          "id": 54,
+          "paragraph_id": 30,
           "text": "\"We can either try to bring him to our side or kill him secretly."
         },
         {
-          "id": 56,
-          "paragraph_id": 31,
+          "id": 55,
+          "paragraph_id": 30,
           "text": "He cannot be allowed to grow."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 30,
+          "text": "While he may be the disciple of the Sword Saintess, his growth must be stopped if he is not on our side.\""
         },
         {
           "id": 57,
           "paragraph_id": 31,
-          "text": "While he may be the disciple of the Sword Saintess, his growth must be stopped if he is not on our side.\""
-        },
-        {
-          "id": 58,
-          "paragraph_id": 32,
           "text": "The three elders exchanged looks."
         },
         {
-          "id": 59,
-          "paragraph_id": 32,
+          "id": 58,
+          "paragraph_id": 31,
           "text": "\"Then how should we go about it?"
+        },
+        {
+          "id": 59,
+          "paragraph_id": 31,
+          "text": "Do we send someone to recruit him, or should we go straight to killing him?\" Elder Cecil asked."
         },
         {
           "id": 60,
           "paragraph_id": 32,
-          "text": "Do we send someone to recruit him, or should we go straight to killing him?\" Elder Cecil asked."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 33,
           "text": "\"Let’s send Sword Saintess Val."
         },
         {
-          "id": 62,
-          "paragraph_id": 33,
+          "id": 61,
+          "paragraph_id": 32,
           "text": "She and Sword Saintess Selene are rivals."
         },
         {
-          "id": 63,
-          "paragraph_id": 33,
+          "id": 62,
+          "paragraph_id": 32,
           "text": "If we send her, we can easily determine the best course of action."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 32,
+          "text": "I doubt the other sects will just stand idle once they see this,\" Clyde said, looking at the three."
         },
         {
           "id": 64,
           "paragraph_id": 33,
-          "text": "I doubt the other sects will just stand idle once they see this,\" Clyde said, looking at the three."
-        },
-        {
-          "id": 65,
-          "paragraph_id": 34,
           "text": "\"She can do as she pleases, since no matter what we tell her, she won’t listen."
         },
         {
-          "id": 66,
-          "paragraph_id": 34,
+          "id": 65,
+          "paragraph_id": 33,
           "text": "So let’s just give her this chance."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 33,
+          "text": "She can act freely while she’s there.\""
         },
         {
           "id": 67,
           "paragraph_id": 34,
-          "text": "She can act freely while she’s there.\""
+          "text": "The three elders nodded, and the meeting concluded."
         },
         {
           "id": 68,
           "paragraph_id": 35,
-          "text": "The three elders nodded, and the meeting concluded."
+          "text": "What Kent doesn’t know is that in this world, titles and status mean everything."
         },
         {
           "id": 69,
-          "paragraph_id": 36,
-          "text": "What Kent doesn’t know is that in this world, titles and status mean everything."
+          "paragraph_id": 35,
+          "text": "He is currently on everyone’s radar, so no matter what, he will attract attention—and with attention, people will try to suppress him."
         },
         {
           "id": 70,
           "paragraph_id": 36,
-          "text": "He is currently on everyone’s radar, so no matter what, he will attract attention—and with attention, people will try to suppress him."
+          "text": "If he proves stubborn, they will try to kill him."
         },
         {
           "id": 71,
           "paragraph_id": 37,
-          "text": "If he proves stubborn, they will try to kill him."
+          "text": "Powerful factions and families will undoubtedly start vying for him, offering all kinds of enticing rewards."
         },
         {
           "id": 72,
-          "paragraph_id": 38,
-          "text": "Powerful factions and families will undoubtedly start vying for him, offering all kinds of enticing rewards."
+          "paragraph_id": 37,
+          "text": "Without a doubt, other kingdoms will also notice him and come after him."
         },
         {
           "id": 73,
           "paragraph_id": 38,
-          "text": "Without a doubt, other kingdoms will also notice him and come after him."
+          "text": "Being a genius in Sonox comes with many ups and downs, and Kent has just found himself caught in one."
         },
         {
           "id": 74,
           "paragraph_id": 39,
-          "text": "Being a genius in Sonox comes with many ups and downs, and Kent has just found himself caught in one."
+          "text": "Unfortunately for many, they aren’t aware that the dragon they are after is, in fact, a powerful yet arrogant creature."
         },
         {
           "id": 75,
           "paragraph_id": 40,
-          "text": "Unfortunately for many, they aren’t aware that the dragon they are after is, in fact, a powerful yet arrogant creature."
+          "text": "Legend had it that the Chaos Dragon was the most arrogant and deadly among all dragons."
         },
         {
           "id": 76,
-          "paragraph_id": 41,
-          "text": "Legend had it that the Chaos Dragon was the most arrogant and deadly among all dragons."
+          "paragraph_id": 40,
+          "text": "Kent, who was now in the process of becoming a Chaos Dragon, was slowly moving in that direction, where he would one day become truly dangerous."
         },
         {
           "id": 77,
           "paragraph_id": 41,
-          "text": "Kent, who was now in the process of becoming a Chaos Dragon, was slowly moving in that direction, where he would one day become truly dangerous."
+          "text": "Unfortunately, nobody knew his true identity or strength, so they clung to their arrogance and hoped they could become the ones to suppress the dragon."
         },
         {
           "id": 78,
           "paragraph_id": 42,
-          "text": "Unfortunately, nobody knew his true identity or strength, so they clung to their arrogance and hoped they could become the ones to suppress the dragon."
+          "text": "They might be on the right track—considering that if they do come after Kent, they might indeed have a shot."
         },
         {
           "id": 79,
           "paragraph_id": 43,
-          "text": "They might be on the right track—considering that if they do come after Kent, they might indeed have a shot."
+          "text": "But sadly, they are running out of time."
         },
         {
           "id": 80,
-          "paragraph_id": 44,
-          "text": "But sadly, they are running out of time."
+          "paragraph_id": 43,
+          "text": "That is because, before parting ways with Uncle Drew, he gave his most trusted servant, the captain of the Night Riders, a mission."
         },
         {
           "id": 81,
           "paragraph_id": 44,
-          "text": "That is because, before parting ways with Uncle Drew, he gave his most trusted servant, the captain of the Night Riders, a mission."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 45,
           "text": "While it was a mission for Uncle Drew, it was, in fact, a quest for Kent."
         },
         {
-          "id": 83,
-          "paragraph_id": 45,
+          "id": 82,
+          "paragraph_id": 44,
           "text": "And this quest came with something crucial."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 44,
+          "text": "The moment Kent gets his hands on it, he will become incredibly dangerous."
         },
         {
           "id": 84,
           "paragraph_id": 45,
-          "text": "The moment Kent gets his hands on it, he will become incredibly dangerous."
+          "text": "Back when he went to rescue Li Hua from Mokasa Prison, he was attacked by a Root Sage who wanted to make him her slave."
         },
         {
           "id": 85,
           "paragraph_id": 46,
-          "text": "Back when he went to rescue Li Hua from Mokasa Prison, he was attacked by a Root Sage who wanted to make him her slave."
+          "text": "However, one thing led to another, and he killed her instead."
         },
         {
           "id": 86,
-          "paragraph_id": 47,
-          "text": "However, one thing led to another, and he killed her instead."
+          "paragraph_id": 46,
+          "text": "Later, it was discovered that he may have awakened a past self through reincarnation, which was the reason he managed to kill the Root Sage."
         },
         {
           "id": 87,
           "paragraph_id": 47,
-          "text": "Later, it was discovered that he may have awakened a past self through reincarnation, which was the reason he managed to kill the Root Sage."
+          "text": "And now, once Uncle Drew and the Night Riders complete the mission, Kent will receive a Memory key that will unlock a part of his past memories."
         },
         {
           "id": 88,
           "paragraph_id": 48,
-          "text": "And now, once Uncle Drew and the Night Riders complete the mission, Kent will receive a Memory key that will unlock a part of his past memories."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 49,
           "text": "In just a few days from now, Kent will unlock a fragment of his past—a memory of himself as a powerful existence that once shook the hearts and souls of immortals..."
         }
       ],
-      "word_count": 1355
+      "word_count": 1354
     },
     {
       "chapter_index": 183,
@@ -17018,7 +16952,6 @@
         "In fact, if she manages to upgrade her mind to the next level after the initial steps, she will become someone who can use just her mind to bring down an entire army.",
         "Looking into her eyes will make one’s heart tremble and break minds. She is very scary, to say the least.",
         "’How I wish there was a way to acquire those eyes’, Kent sighed, but then his eyes widened when a message appeared.",
-        "****",
         "⟪ You have received a Quest from the Universe Quest Pool ⟫",
         "⟪ Quest Name: Get On Her Good Side...and Then Her Pants [18+] ⟫",
         "⟪ Quest Type: Chain ⟫",
@@ -17029,7 +16962,6 @@
         "-> All you need to do is get on her good side and, eventually, win her over completely. Are you brave enough to take up this challenge?",
         "-> You will earn some of the best and most mind-numbing rewards the universe pool offers. Among these rewards is the method to cultivate the [Void Eyes] and even the most powerful mind technique, [Void Mind].",
         "-> Before you consider taking a shortcut, know this: even if you make her disciple your woman and add her to your harem, you will not receive the [Void Eyes]. It is unique to her and her alone.",
-        "___________________",
         "⟪ First Chain Quest: Become Friends With Spear Saintess Neomi ⟫",
         "⟪ Quest Difficulty: Depends ⟫",
         "-> You must make the Spear Saintess feel comfortable around you and eventually open up to you. This means you must make her gain your trust.",
@@ -17040,7 +16972,6 @@
         "→ 300,000 Tower Points",
         "→ A Soul Technique (For Elsa)",
         "→ A One Time Summoning Talisman",
-        "****",
         "Kent was momentarily taken aback but remained composed. He knew an opportunity had presented itself, but whether he could easily pass now depended on how he acted in the next moment.",
         "Kent, of course, was ready for a challenge, mainly due to how unexpected his welcome to the sect had been. In fact, he had expected a much warmer reception.",
         "But that didn’t mean he wasn’t thrilled by what he had been through. Though mundane, it had excited him, so he chose to continue.",
@@ -17314,220 +17245,205 @@
         {
           "id": 52,
           "paragraph_id": 28,
-          "text": "****"
+          "text": "⟪ You have received a Quest from the Universe Quest Pool ⟫"
         },
         {
           "id": 53,
           "paragraph_id": 29,
-          "text": "⟪ You have received a Quest from the Universe Quest Pool ⟫"
+          "text": "⟪ Quest Name: Get On Her Good Side...and Then Her Pants [18+] ⟫"
         },
         {
           "id": 54,
           "paragraph_id": 30,
-          "text": "⟪ Quest Name: Get On Her Good Side...and Then Her Pants [18+] ⟫"
+          "text": "⟪ Quest Type: Chain ⟫"
         },
         {
           "id": 55,
           "paragraph_id": 31,
-          "text": "⟪ Quest Type: Chain ⟫"
+          "text": "⟪ Quest Difficulty: Depends on your game ⟫"
         },
         {
           "id": 56,
           "paragraph_id": 32,
-          "text": "⟪ Quest Difficulty: Depends on your game ⟫"
+          "text": "⟪ Quest Description: : > ⟫"
         },
         {
           "id": 57,
           "paragraph_id": 33,
-          "text": "⟪ Quest Description: : > ⟫"
+          "text": "-> The Spear Saintess still doesn’t trust you despite sparing you this time."
         },
         {
           "id": 58,
-          "paragraph_id": 34,
-          "text": "-> The Spear Saintess still doesn’t trust you despite sparing you this time."
+          "paragraph_id": 33,
+          "text": "She remains uncertain about how to feel toward you, so you must take up this challenge."
         },
         {
           "id": 59,
           "paragraph_id": 34,
-          "text": "She remains uncertain about how to feel toward you, so you must take up this challenge."
+          "text": "-> In the coming days, weeks, months, and even years, you will receive quests that come with multiple rewards."
         },
         {
           "id": 60,
           "paragraph_id": 35,
-          "text": "-> In the coming days, weeks, months, and even years, you will receive quests that come with multiple rewards."
+          "text": "-> All you need to do is get on her good side and, eventually, win her over completely."
         },
         {
           "id": 61,
-          "paragraph_id": 36,
-          "text": "-> All you need to do is get on her good side and, eventually, win her over completely."
+          "paragraph_id": 35,
+          "text": "Are you brave enough to take up this challenge?"
         },
         {
           "id": 62,
           "paragraph_id": 36,
-          "text": "Are you brave enough to take up this challenge?"
+          "text": "-> You will earn some of the best and most mind-numbing rewards the universe pool offers."
         },
         {
           "id": 63,
-          "paragraph_id": 37,
-          "text": "-> You will earn some of the best and most mind-numbing rewards the universe pool offers."
+          "paragraph_id": 36,
+          "text": "Among these rewards is the method to cultivate the [Void Eyes] and even the most powerful mind technique, [Void Mind]."
         },
         {
           "id": 64,
           "paragraph_id": 37,
-          "text": "Among these rewards is the method to cultivate the [Void Eyes] and even the most powerful mind technique, [Void Mind]."
+          "text": "-> Before you consider taking a shortcut, know this: even if you make her disciple your woman and add her to your harem, you will not receive the [Void Eyes]."
         },
         {
           "id": 65,
-          "paragraph_id": 38,
-          "text": "-> Before you consider taking a shortcut, know this: even if you make her disciple your woman and add her to your harem, you will not receive the [Void Eyes]."
+          "paragraph_id": 37,
+          "text": "It is unique to her and her alone."
         },
         {
           "id": 66,
           "paragraph_id": 38,
-          "text": "It is unique to her and her alone."
+          "text": "⟪ First Chain Quest: Become Friends With Spear Saintess Neomi ⟫"
         },
         {
           "id": 67,
           "paragraph_id": 39,
-          "text": "___________________"
+          "text": "⟪ Quest Difficulty: Depends ⟫"
         },
         {
           "id": 68,
           "paragraph_id": 40,
-          "text": "⟪ First Chain Quest: Become Friends With Spear Saintess Neomi ⟫"
+          "text": "-> You must make the Spear Saintess feel comfortable around you and eventually open up to you."
         },
         {
           "id": 69,
-          "paragraph_id": 41,
-          "text": "⟪ Quest Difficulty: Depends ⟫"
+          "paragraph_id": 40,
+          "text": "This means you must make her gain your trust."
         },
         {
           "id": 70,
-          "paragraph_id": 42,
-          "text": "-> You must make the Spear Saintess feel comfortable around you and eventually open up to you."
+          "paragraph_id": 41,
+          "text": "-> You must use whatever way you see fit to make her trust you."
         },
         {
           "id": 71,
           "paragraph_id": 42,
-          "text": "This means you must make her gain your trust."
+          "text": "-> The quest will be complete when the friendship meter hits 15%."
         },
         {
           "id": 72,
           "paragraph_id": 43,
-          "text": "-> You must use whatever way you see fit to make her trust you."
+          "text": "⟦Friendship Meter: 0/100% ⟧"
         },
         {
           "id": 73,
           "paragraph_id": 44,
-          "text": "-> The quest will be complete when the friendship meter hits 15%."
+          "text": "⟪ Rewards: ⟫"
         },
         {
           "id": 74,
           "paragraph_id": 45,
-          "text": "⟦Friendship Meter: 0/100% ⟧"
+          "text": "→ 300,000 Tower Points"
         },
         {
           "id": 75,
           "paragraph_id": 46,
-          "text": "⟪ Rewards: ⟫"
+          "text": "→ A Soul Technique (For Elsa)"
         },
         {
           "id": 76,
           "paragraph_id": 47,
-          "text": "→ 300,000 Tower Points"
+          "text": "→ A One Time Summoning Talisman"
         },
         {
           "id": 77,
           "paragraph_id": 48,
-          "text": "→ A Soul Technique (For Elsa)"
-        },
-        {
-          "id": 78,
-          "paragraph_id": 49,
-          "text": "→ A One Time Summoning Talisman"
-        },
-        {
-          "id": 79,
-          "paragraph_id": 50,
-          "text": "****"
-        },
-        {
-          "id": 80,
-          "paragraph_id": 51,
           "text": "Kent was momentarily taken aback but remained composed."
         },
         {
-          "id": 81,
-          "paragraph_id": 51,
+          "id": 78,
+          "paragraph_id": 48,
           "text": "He knew an opportunity had presented itself, but whether he could easily pass now depended on how he acted in the next moment."
         },
         {
-          "id": 82,
-          "paragraph_id": 52,
+          "id": 79,
+          "paragraph_id": 49,
           "text": "Kent, of course, was ready for a challenge, mainly due to how unexpected his welcome to the sect had been."
         },
         {
-          "id": 83,
-          "paragraph_id": 52,
+          "id": 80,
+          "paragraph_id": 49,
           "text": "In fact, he had expected a much warmer reception."
         },
         {
-          "id": 84,
-          "paragraph_id": 53,
+          "id": 81,
+          "paragraph_id": 50,
           "text": "But that didn’t mean he wasn’t thrilled by what he had been through."
         },
         {
-          "id": 85,
-          "paragraph_id": 53,
+          "id": 82,
+          "paragraph_id": 50,
           "text": "Though mundane, it had excited him, so he chose to continue."
         },
         {
-          "id": 86,
-          "paragraph_id": 54,
+          "id": 83,
+          "paragraph_id": 51,
           "text": "For now, he would find a way to become her friend, aiming to get into her good graces—or perhaps more."
         },
         {
-          "id": 87,
-          "paragraph_id": 55,
+          "id": 84,
+          "paragraph_id": 52,
           "text": "\"You seem to care about your disciple a lot."
         },
         {
-          "id": 88,
-          "paragraph_id": 55,
+          "id": 85,
+          "paragraph_id": 52,
           "text": "Care to tell me more about her?\" Kent, ever composed, decided to dive right in."
         },
         {
-          "id": 89,
-          "paragraph_id": 55,
+          "id": 86,
+          "paragraph_id": 52,
           "text": "His question made the Saintess raise an eyebrow."
         },
         {
-          "id": 90,
-          "paragraph_id": 56,
+          "id": 87,
+          "paragraph_id": 53,
           "text": "\"Why?"
         },
         {
-          "id": 91,
-          "paragraph_id": 56,
+          "id": 88,
+          "paragraph_id": 53,
           "text": "You want to know more about her so you can get into her pants?\" the Saintess asked, her cold eyes fixed on Kent."
         },
         {
-          "id": 92,
-          "paragraph_id": 57,
+          "id": 89,
+          "paragraph_id": 54,
           "text": "Kent smiled and, in an unexpected manner, replied, \"You read my mind."
         },
         {
-          "id": 93,
-          "paragraph_id": 57,
+          "id": 90,
+          "paragraph_id": 54,
           "text": "Now, care to share how I can go about that?\""
         },
         {
-          "id": 94,
-          "paragraph_id": 58,
+          "id": 91,
+          "paragraph_id": 55,
           "text": "And just like that, a friendship that would one day unveil countless secrets and change both their lives began—with Kent getting beaten up by a Saintess."
         }
       ],
-      "word_count": 1295
+      "word_count": 1292
     },
     {
       "chapter_index": 185,
@@ -17555,9 +17471,7 @@
         "\"Come visit me after you’ve recovered. I still have some things to talk to you about,\" Saintess Neomi said, glancing at Ingrid before smiling.",
         "\"You can stay here if you want... but stay away from this bastard. He is a snake.\" After saying that, she took to the skies and left.",
         "Kent stayed on the ground for a few minutes before a small smile appeared on his lips. ’I will definitely get my revenge one day...’",
-        "****",
         "[Friendship Meter: 5/100 Percent]",
-        "****",
         "Those weird and painful moments moved the friendship meter by 5%, which, in Kent’s book, was a successful endeavour.",
         "Saintess Selene quickly rushed to his side to check if he was seriously injured.",
         "\"Don’t worry, they’re just minor injuries... nothing my healing abilities can’t fix,\" Kent assured her. To prove his point, he stood up. Though painful, he wasn’t about to cry like a baby.",
@@ -17761,290 +17675,280 @@
         {
           "id": 34,
           "paragraph_id": 21,
-          "text": "****"
+          "text": "[Friendship Meter: 5/100 Percent]"
         },
         {
           "id": 35,
           "paragraph_id": 22,
-          "text": "[Friendship Meter: 5/100 Percent]"
+          "text": "Those weird and painful moments moved the friendship meter by 5%, which, in Kent’s book, was a successful endeavour."
         },
         {
           "id": 36,
           "paragraph_id": 23,
-          "text": "****"
+          "text": "Saintess Selene quickly rushed to his side to check if he was seriously injured."
         },
         {
           "id": 37,
           "paragraph_id": 24,
-          "text": "Those weird and painful moments moved the friendship meter by 5%, which, in Kent’s book, was a successful endeavour."
-        },
-        {
-          "id": 38,
-          "paragraph_id": 25,
-          "text": "Saintess Selene quickly rushed to his side to check if he was seriously injured."
-        },
-        {
-          "id": 39,
-          "paragraph_id": 26,
           "text": "\"Don’t worry, they’re just minor injuries... nothing my healing abilities can’t fix,\" Kent assured her."
         },
         {
-          "id": 40,
-          "paragraph_id": 26,
+          "id": 38,
+          "paragraph_id": 24,
           "text": "To prove his point, he stood up."
+        },
+        {
+          "id": 39,
+          "paragraph_id": 24,
+          "text": "Though painful, he wasn’t about to cry like a baby."
+        },
+        {
+          "id": 40,
+          "paragraph_id": 25,
+          "text": "He walked around to show her he was all right."
         },
         {
           "id": 41,
           "paragraph_id": 26,
-          "text": "Though painful, he wasn’t about to cry like a baby."
+          "text": "Kent then looked at Ingrid, who was looking back at him and smiled."
         },
         {
           "id": 42,
           "paragraph_id": 27,
-          "text": "He walked around to show her he was all right."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 28,
-          "text": "Kent then looked at Ingrid, who was looking back at him and smiled."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 29,
           "text": "\"We haven’t officially met."
         },
         {
-          "id": 45,
-          "paragraph_id": 29,
+          "id": 43,
+          "paragraph_id": 27,
           "text": "I am Kent, Kent Madson,\" Kent said, extending his hand for a shake, which Ingrid readily accepted."
         },
         {
-          "id": 46,
-          "paragraph_id": 30,
+          "id": 44,
+          "paragraph_id": 28,
           "text": "Right now, Ingrid didn’t know how to behave around him."
         },
         {
-          "id": 47,
-          "paragraph_id": 30,
+          "id": 45,
+          "paragraph_id": 28,
           "text": "The events that led to their meeting were just too shameful."
         },
         {
-          "id": 48,
-          "paragraph_id": 31,
+          "id": 46,
+          "paragraph_id": 29,
           "text": "She had been caught spying on him while he was being intimate with his lover."
         },
         {
-          "id": 49,
-          "paragraph_id": 31,
+          "id": 47,
+          "paragraph_id": 29,
           "text": "That was just too embarrassing, to say the least."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 29,
+          "text": "Now, she was face-to-face with the one she had been spying on and didn’t know how to act."
+        },
+        {
+          "id": 49,
+          "paragraph_id": 30,
+          "text": "Saintess Selene watched from the side, a smile playing on her lips."
         },
         {
           "id": 50,
           "paragraph_id": 31,
-          "text": "Now, she was face-to-face with the one she had been spying on and didn’t know how to act."
+          "text": "\"Your master is wicked,\" Kent said, deciding to spare her the teasing today and change the topic."
         },
         {
           "id": 51,
           "paragraph_id": 32,
-          "text": "Saintess Selene watched from the side, a smile playing on her lips."
+          "text": "\"I don’t know why she beat you up, but Master is much more reserved and calm,\" Ingrid replied, defending her master."
         },
         {
           "id": 52,
           "paragraph_id": 33,
-          "text": "\"Your master is wicked,\" Kent said, deciding to spare her the teasing today and change the topic."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 34,
-          "text": "\"I don’t know why she beat you up, but Master is much more reserved and calm,\" Ingrid replied, defending her master."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 35,
           "text": "\"Well, I guess asking her for advice on how to get into her disciple’s pants can make anyone mad,\" Kent said, making Ingrid freeze up."
         },
         {
-          "id": 55,
-          "paragraph_id": 35,
+          "id": 53,
+          "paragraph_id": 33,
           "text": "Kent just smiled, walked closer to his master, and planted a kiss on her lips before turning back to Ingrid."
         },
         {
-          "id": 56,
-          "paragraph_id": 36,
+          "id": 54,
+          "paragraph_id": 34,
           "text": "\"You can stay for the next few days, right?"
+        },
+        {
+          "id": 55,
+          "paragraph_id": 34,
+          "text": "I have some things to take care of, and as you can see, I need to recover from your master’s clear physical torture.\" Kent moved closer to her and held her by the waist."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 35,
+          "text": "\"We’ll get to know each other more when I recover,\" he added, ensuring his hand brushed past her ass, making Ingrid’s body stiffen."
         },
         {
           "id": 57,
           "paragraph_id": 36,
-          "text": "I have some things to take care of, and as you can see, I need to recover from your master’s clear physical torture.\" Kent moved closer to her and held her by the waist."
-        },
-        {
-          "id": 58,
-          "paragraph_id": 37,
-          "text": "\"We’ll get to know each other more when I recover,\" he added, ensuring his hand brushed past her ass, making Ingrid’s body stiffen."
-        },
-        {
-          "id": 59,
-          "paragraph_id": 38,
           "text": "Kent just smiled and walked away."
         },
         {
-          "id": 60,
-          "paragraph_id": 38,
+          "id": 58,
+          "paragraph_id": 36,
           "text": "He entered the bedroom and lay on the bed."
         },
         {
-          "id": 61,
-          "paragraph_id": 38,
+          "id": 59,
+          "paragraph_id": 36,
           "text": "The next second, he vanished into the Arena and reappeared inside the Alchemy Tower in a poison-filled bath."
         },
         {
-          "id": 62,
-          "paragraph_id": 39,
+          "id": 60,
+          "paragraph_id": 37,
           "text": "It was the last herbal bath he had prepared before venturing."
         },
         {
-          "id": 63,
-          "paragraph_id": 39,
+          "id": 61,
+          "paragraph_id": 37,
           "text": "He went to practice the swordplays so he could break through."
         },
         {
-          "id": 64,
-          "paragraph_id": 39,
+          "id": 62,
+          "paragraph_id": 37,
           "text": "As he began absorbing its effects, he unknowingly drifted into sleep."
         },
         {
-          "id": 65,
-          "paragraph_id": 40,
+          "id": 63,
+          "paragraph_id": 38,
           "text": "Meanwhile, outside, Ingrid was still frozen after Kent had gently massaged her ass."
         },
         {
-          "id": 66,
-          "paragraph_id": 40,
+          "id": 64,
+          "paragraph_id": 38,
           "text": "She stood there for a few minutes until Saintess Selene led her away."
         },
         {
-          "id": 67,
-          "paragraph_id": 41,
+          "id": 65,
+          "paragraph_id": 39,
           "text": "\"Is he that shameless?"
         },
         {
-          "id": 68,
-          "paragraph_id": 41,
+          "id": 66,
+          "paragraph_id": 39,
           "text": "We don’t even know each other that well, and he’s already this handsy,\" Ingrid said, finally calming down as she looked at the smiling Saintess."
         },
         {
-          "id": 69,
-          "paragraph_id": 42,
+          "id": 67,
+          "paragraph_id": 40,
           "text": "\"That’s Kent."
         },
         {
-          "id": 70,
-          "paragraph_id": 42,
+          "id": 68,
+          "paragraph_id": 40,
           "text": "If he managed to make his master his woman, you can only imagine what he’s capable of,\" Saintess Selene chuckled, pulling out a sword technique from her space ring."
         },
         {
-          "id": 71,
-          "paragraph_id": 43,
+          "id": 69,
+          "paragraph_id": 41,
           "text": "\"Is that a Heaven-Grade Sword Technique?\" Ingrid asked, looking at the skill book with interest."
         },
         {
-          "id": 72,
-          "paragraph_id": 43,
+          "id": 70,
+          "paragraph_id": 41,
           "text": "One could even see her eyes sparkling as she looked at the skill book."
         },
         {
-          "id": 73,
-          "paragraph_id": 44,
+          "id": 71,
+          "paragraph_id": 42,
           "text": "\"Yes.\" Saintess Selene smiled and took out two more."
         },
         {
-          "id": 74,
-          "paragraph_id": 44,
+          "id": 72,
+          "paragraph_id": 42,
           "text": "\"Kent bought them for me when he was working his way into my pants.\""
         },
         {
-          "id": 75,
-          "paragraph_id": 45,
+          "id": 73,
+          "paragraph_id": 43,
           "text": "She held the technique with a defeated smile."
         },
         {
-          "id": 76,
-          "paragraph_id": 45,
+          "id": 74,
+          "paragraph_id": 43,
           "text": "\"I guess he succeeded."
+        },
+        {
+          "id": 75,
+          "paragraph_id": 43,
+          "text": "That bastard,\" she said, her words accompanied by a satisfied smile."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 44,
+          "text": "\"Don’t worry, I will extort him to get you a few techniques when he is done recovering,\" Saintess Selene said, looking at Ingrid..."
         },
         {
           "id": 77,
           "paragraph_id": 45,
-          "text": "That bastard,\" she said, her words accompanied by a satisfied smile."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 46,
-          "text": "\"Don’t worry, I will extort him to get you a few techniques when he is done recovering,\" Saintess Selene said, looking at Ingrid..."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 47,
           "text": "\"You make it sound like he has money lying around."
         },
         {
-          "id": 80,
-          "paragraph_id": 47,
+          "id": 78,
+          "paragraph_id": 45,
           "text": "Heaven-Grade skills are expensive, you know."
         },
         {
-          "id": 81,
-          "paragraph_id": 47,
+          "id": 79,
+          "paragraph_id": 45,
           "text": "Even my master only has one, and that was because she won it in a duel,\" Ingrid said."
         },
         {
-          "id": 82,
-          "paragraph_id": 48,
+          "id": 80,
+          "paragraph_id": 46,
           "text": "\"Yeah, well, Kent is not only handsome, but he’s also very rich..."
         },
         {
-          "id": 83,
-          "paragraph_id": 48,
+          "id": 81,
+          "paragraph_id": 46,
           "text": "You wouldn’t believe me yet, but wait for him to come out first and see for yourself."
         },
         {
-          "id": 84,
-          "paragraph_id": 48,
+          "id": 82,
+          "paragraph_id": 46,
           "text": "My advice to you, however, don’t reject him when he offers."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 46,
+          "text": "I nearly made that mistake myself.\""
+        },
+        {
+          "id": 84,
+          "paragraph_id": 47,
+          "text": "Ingrid looked at her expression and nodded."
         },
         {
           "id": 85,
           "paragraph_id": 48,
-          "text": "I nearly made that mistake myself.\""
+          "text": "The saintess nodded in return and began learning the [Void Cutter] skill Kent had bought for her in the Green Bazaar, leaving Ingrid to ponder a few life choices."
         },
         {
           "id": 86,
           "paragraph_id": 49,
-          "text": "Ingrid looked at her expression and nodded."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 50,
-          "text": "The saintess nodded in return and began learning the [Void Cutter] skill Kent had bought for her in the Green Bazaar, leaving Ingrid to ponder a few life choices."
-        },
-        {
-          "id": 88,
-          "paragraph_id": 51,
           "text": "One had to give it to the Sword Saintess."
         },
         {
-          "id": 89,
-          "paragraph_id": 51,
+          "id": 87,
+          "paragraph_id": 49,
           "text": "Her shamelessness was on the same level as Kent’s."
         },
         {
-          "id": 90,
-          "paragraph_id": 51,
+          "id": 88,
+          "paragraph_id": 49,
           "text": "She might not like to show her true colours to those she hated, but when it came to those she liked, her hidden demons surfaced."
         }
       ],
-      "word_count": 1264
+      "word_count": 1262
     },
     {
       "chapter_index": 186,
@@ -18096,8 +18000,7 @@
         "It was clear from what she saw and overheard that the patriarch of the Malric Noble Family was aware of this, and thus, she wouldn’t let it slide. Of course, she would have to handle it in her free time with her captain’s permission, but she wouldn’t stop.",
         "The fact that her sister was manipulated to that extent pissed her off...",
         "\"You know, sometimes you have to stand back and see things from a different perspective before making a decision. You would be surprised how different things will play out from how you see them.\"",
-        "Just when she was seething, she heard someone speak from behind. Turning around, she saw her captain in his human form standing there.",
-        "=========="
+        "Just when she was seething, she heard someone speak from behind. Turning around, she saw her captain in his human form standing there."
       ],
       "sentences": [
         {
@@ -18489,14 +18392,9 @@
           "id": 77,
           "paragraph_id": 45,
           "text": "Turning around, she saw her captain in his human form standing there."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 46,
-          "text": "=========="
         }
       ],
-      "word_count": 1308
+      "word_count": 1307
     },
     {
       "chapter_index": 187,
@@ -19018,8 +18916,7 @@
         "Unbeknownst to Saden and the Night Riders, this world was destined to change everything they believed and understood.",
         "After closing the portal, she returned to her captain.",
         "\"Master has given us a mission...\"",
-        "They departed shortly after, heading toward their assignment—to kidnap one of the most tightly guarded individuals in Varyndor: Turyn, the heir of the Miller noble family.",
-        "=========="
+        "They departed shortly after, heading toward their assignment—to kidnap one of the most tightly guarded individuals in Varyndor: Turyn, the heir of the Miller noble family."
       ],
       "sentences": [
         {
@@ -19461,14 +19358,9 @@
           "id": 87,
           "paragraph_id": 46,
           "text": "They departed shortly after, heading toward their assignment—to kidnap one of the most tightly guarded individuals in Varyndor: Turyn, the heir of the Miller noble family."
-        },
-        {
-          "id": 88,
-          "paragraph_id": 47,
-          "text": "=========="
         }
       ],
-      "word_count": 1315
+      "word_count": 1314
     },
     {
       "chapter_index": 189,
@@ -19531,8 +19423,7 @@
         "And yes, two or more people can walk a primitive path, but only a single person can walk a primordial path. I don’t know how many primordial sword paths are left, but it’s safe to say that if you find another sword lady...",
         "...Say the gate master, the universe might bless you with another path.\"",
         "Kent only smiled and shook his head. It was time for him to check his next requirement in becoming a Sword Saint...",
-        "He had done enough for his master...time to cater for his needs, too...",
-        "=========="
+        "He had done enough for his master...time to cater for his needs, too..."
       ],
       "sentences": [
         {
@@ -20029,14 +19920,9 @@
           "id": 98,
           "paragraph_id": 56,
           "text": "He had done enough for his master...time to cater for his needs, too..."
-        },
-        {
-          "id": 99,
-          "paragraph_id": 57,
-          "text": "=========="
         }
       ],
-      "word_count": 1369
+      "word_count": 1368
     },
     {
       "chapter_index": 190,
@@ -20049,24 +19935,20 @@
         "The answer, however, was no.",
         "While others attempting to become Sword Saints could take a decade or even several decades to complete their trials, his path alone might take far longer.",
         "But Kent didn’t have the luxury of time.",
-        "******",
         "⟪ Congratulations on becoming a Grandmaster Swords. You will now receive 2 times the speed of understanding when practicing the sword ⟫",
         "⟪ Your Sword Qi and Sword Intent have gained a boost. You currently have 5/9 Master over Enhance Sword Qi and Sword Intent.⟫.",
         "⟪ All forms of sword attacks using Sword Qi and Sword Intent will gain a 30% boost in attack power ⟫",
-        "*****",
         "Although the rewards for becoming a Grandmaster swordsman seem weak, he has, in fact, become much stronger and more dangerous. Thanks to the support from his women, every hour is a boon for him.",
         "Additionally, his understanding of the sword has improved greatly after mastering all 10,002 sword techniques, which played a major role in his highly advanced comprehension of how to wield his sword.",
         "But it didn’t stop there.",
         "Beyond his understanding of the sword, he now possesses a much deeper understanding of how to execute skills and techniques perfectly.",
         "In fact, what the Gate Master called perfect when he executed the true form of the [24 String Weaving Strike] sword skill appeared flawed to him.",
         "Now, Kent has become someone driven by an unquenchable thirst to chase perfection on the path of the sword. He craves perfection, and as it turns out, his next requirement will push him even further.",
-        "*****",
         "⟪ Requirements To Become A Sword Saint... ⟫",
         "⟪1. Master all 10,002 Sword Plays using your mind and achieve at least 7 Enlightenments. Both Sword Intent and Sword Qi must break through to the Profound Stage, and Sword Body must at least enter the Silver rank ⟫",
         "⟪2. Cross the Sword Bridge by defeating the 13 Swordsmen using nothing but your swords, Aspects, skills and wit ⟫",
         "⟪3. Create the foundation for three Sword Techniques, with each having the potential to become at least 7 forms of sword technique in the future ⟫",
         "⟪ You have 6 months to complete all three requirements, else you will lose access to your Sword intent and Sword Qi for 10 years ⟫",
-        "*****",
         "Kent was shocked beyond comprehension. He simply couldn’t fathom how something like this could be achieved within three years.",
         "\"Gaia, tell me this won’t be measured using the time in the tower,\" Kent asked immediately, his tone laced with urgency. This was the most critical question.",
         "A day on the outside equaled 24 days inside the tower, so he needed clarification.",
@@ -20099,8 +19981,7 @@
         "Something told him he shouldn’t dare step on it if he didn’t want to experience true pain. He could only relax and wait for the moment when he could contend with it.",
         "\"I guess I will start challenging core disciples now... This will make things much easier for me when I face this bridge,\" Kent made his plan.",
         "If only he knew that when Gaia mentioned there would be some unknown variables, one of the variables was the fact that the 13 swordsmen would all have Sword Saint-level understanding and mastery...",
-        "He is screwed...",
-        "=========="
+        "He is screwed..."
       ],
       "sentences": [
         {
@@ -20146,420 +20027,395 @@
         {
           "id": 8,
           "paragraph_id": 6,
-          "text": "******"
+          "text": "⟪ Congratulations on becoming a Grandmaster Swords."
         },
         {
           "id": 9,
-          "paragraph_id": 7,
-          "text": "⟪ Congratulations on becoming a Grandmaster Swords."
+          "paragraph_id": 6,
+          "text": "You will now receive 2 times the speed of understanding when practicing the sword ⟫"
         },
         {
           "id": 10,
           "paragraph_id": 7,
-          "text": "You will now receive 2 times the speed of understanding when practicing the sword ⟫"
+          "text": "⟪ Your Sword Qi and Sword Intent have gained a boost."
         },
         {
           "id": 11,
-          "paragraph_id": 8,
-          "text": "⟪ Your Sword Qi and Sword Intent have gained a boost."
+          "paragraph_id": 7,
+          "text": "You currently have 5/9 Master over Enhance Sword Qi and Sword Intent.⟫."
         },
         {
           "id": 12,
           "paragraph_id": 8,
-          "text": "You currently have 5/9 Master over Enhance Sword Qi and Sword Intent.⟫."
+          "text": "⟪ All forms of sword attacks using Sword Qi and Sword Intent will gain a 30% boost in attack power ⟫"
         },
         {
           "id": 13,
           "paragraph_id": 9,
-          "text": "⟪ All forms of sword attacks using Sword Qi and Sword Intent will gain a 30% boost in attack power ⟫"
+          "text": "Although the rewards for becoming a Grandmaster swordsman seem weak, he has, in fact, become much stronger and more dangerous."
         },
         {
           "id": 14,
-          "paragraph_id": 10,
-          "text": "*****"
+          "paragraph_id": 9,
+          "text": "Thanks to the support from his women, every hour is a boon for him."
         },
         {
           "id": 15,
-          "paragraph_id": 11,
-          "text": "Although the rewards for becoming a Grandmaster swordsman seem weak, he has, in fact, become much stronger and more dangerous."
+          "paragraph_id": 10,
+          "text": "Additionally, his understanding of the sword has improved greatly after mastering all 10,002 sword techniques, which played a major role in his highly advanced comprehension of how to wield his sword."
         },
         {
           "id": 16,
           "paragraph_id": 11,
-          "text": "Thanks to the support from his women, every hour is a boon for him."
+          "text": "But it didn’t stop there."
         },
         {
           "id": 17,
           "paragraph_id": 12,
-          "text": "Additionally, his understanding of the sword has improved greatly after mastering all 10,002 sword techniques, which played a major role in his highly advanced comprehension of how to wield his sword."
+          "text": "Beyond his understanding of the sword, he now possesses a much deeper understanding of how to execute skills and techniques perfectly."
         },
         {
           "id": 18,
           "paragraph_id": 13,
-          "text": "But it didn’t stop there."
+          "text": "In fact, what the Gate Master called perfect when he executed the true form of the [24 String Weaving Strike] sword skill appeared flawed to him."
         },
         {
           "id": 19,
           "paragraph_id": 14,
-          "text": "Beyond his understanding of the sword, he now possesses a much deeper understanding of how to execute skills and techniques perfectly."
+          "text": "Now, Kent has become someone driven by an unquenchable thirst to chase perfection on the path of the sword."
         },
         {
           "id": 20,
-          "paragraph_id": 15,
-          "text": "In fact, what the Gate Master called perfect when he executed the true form of the [24 String Weaving Strike] sword skill appeared flawed to him."
+          "paragraph_id": 14,
+          "text": "He craves perfection, and as it turns out, his next requirement will push him even further."
         },
         {
           "id": 21,
-          "paragraph_id": 16,
-          "text": "Now, Kent has become someone driven by an unquenchable thirst to chase perfection on the path of the sword."
+          "paragraph_id": 15,
+          "text": "⟪ Requirements To Become A Sword Saint... ⟫"
         },
         {
           "id": 22,
           "paragraph_id": 16,
-          "text": "He craves perfection, and as it turns out, his next requirement will push him even further."
-        },
-        {
-          "id": 23,
-          "paragraph_id": 17,
-          "text": "*****"
-        },
-        {
-          "id": 24,
-          "paragraph_id": 18,
-          "text": "⟪ Requirements To Become A Sword Saint... ⟫"
-        },
-        {
-          "id": 25,
-          "paragraph_id": 19,
           "text": "⟪1."
         },
         {
-          "id": 26,
-          "paragraph_id": 19,
+          "id": 23,
+          "paragraph_id": 16,
           "text": "Master all 10,002 Sword Plays using your mind and achieve at least 7 Enlightenments."
         },
         {
-          "id": 27,
-          "paragraph_id": 19,
+          "id": 24,
+          "paragraph_id": 16,
           "text": "Both Sword Intent and Sword Qi must break through to the Profound Stage, and Sword Body must at least enter the Silver rank ⟫"
         },
         {
-          "id": 28,
-          "paragraph_id": 20,
+          "id": 25,
+          "paragraph_id": 17,
           "text": "⟪2."
         },
         {
-          "id": 29,
-          "paragraph_id": 20,
+          "id": 26,
+          "paragraph_id": 17,
           "text": "Cross the Sword Bridge by defeating the 13 Swordsmen using nothing but your swords, Aspects, skills and wit ⟫"
         },
         {
-          "id": 30,
-          "paragraph_id": 21,
+          "id": 27,
+          "paragraph_id": 18,
           "text": "⟪3."
         },
         {
-          "id": 31,
-          "paragraph_id": 21,
+          "id": 28,
+          "paragraph_id": 18,
           "text": "Create the foundation for three Sword Techniques, with each having the potential to become at least 7 forms of sword technique in the future ⟫"
         },
         {
-          "id": 32,
-          "paragraph_id": 22,
+          "id": 29,
+          "paragraph_id": 19,
           "text": "⟪ You have 6 months to complete all three requirements, else you will lose access to your Sword intent and Sword Qi for 10 years ⟫"
         },
         {
-          "id": 33,
-          "paragraph_id": 23,
-          "text": "*****"
-        },
-        {
-          "id": 34,
-          "paragraph_id": 24,
+          "id": 30,
+          "paragraph_id": 20,
           "text": "Kent was shocked beyond comprehension."
         },
         {
-          "id": 35,
-          "paragraph_id": 24,
+          "id": 31,
+          "paragraph_id": 20,
           "text": "He simply couldn’t fathom how something like this could be achieved within three years."
         },
         {
-          "id": 36,
-          "paragraph_id": 25,
+          "id": 32,
+          "paragraph_id": 21,
           "text": "\"Gaia, tell me this won’t be measured using the time in the tower,\" Kent asked immediately, his tone laced with urgency."
         },
         {
-          "id": 37,
-          "paragraph_id": 25,
+          "id": 33,
+          "paragraph_id": 21,
           "text": "This was the most critical question."
         },
         {
-          "id": 38,
-          "paragraph_id": 26,
+          "id": 34,
+          "paragraph_id": 22,
           "text": "A day on the outside equaled 24 days inside the tower, so he needed clarification."
         },
         {
-          "id": 39,
-          "paragraph_id": 27,
+          "id": 35,
+          "paragraph_id": 23,
           "text": "[The Master shouldn’t worry."
         },
         {
-          "id": 40,
-          "paragraph_id": 27,
+          "id": 36,
+          "paragraph_id": 23,
           "text": "Just as your age is not affected by the time spent inside the tower, the duration will also remain unaffected."
         },
         {
-          "id": 41,
-          "paragraph_id": 27,
+          "id": 37,
+          "paragraph_id": 23,
           "text": "So, while you have six months on the outside, you will have 4,320 days, which is approximately 11.83 years inside the tower.]"
         },
         {
-          "id": 42,
-          "paragraph_id": 28,
+          "id": 38,
+          "paragraph_id": 24,
           "text": "\"Good to know,\" Kent sighed."
         },
         {
-          "id": 43,
-          "paragraph_id": 29,
+          "id": 39,
+          "paragraph_id": 25,
           "text": "’Eleven years..."
         },
         {
-          "id": 44,
-          "paragraph_id": 29,
+          "id": 40,
+          "paragraph_id": 25,
           "text": "That’s how long I have to become a Sword Saint,’ Kent thought, his expression hardening with determination."
         },
         {
-          "id": 45,
-          "paragraph_id": 29,
+          "id": 41,
+          "paragraph_id": 25,
           "text": "He knew he had to take this seriously."
         },
         {
-          "id": 46,
-          "paragraph_id": 30,
+          "id": 42,
+          "paragraph_id": 26,
           "text": "The first requirement was incredibly difficult, and the last two were not walking in the park either."
         },
         {
-          "id": 47,
-          "paragraph_id": 31,
+          "id": 43,
+          "paragraph_id": 27,
           "text": "He needed to master all 10,002 sword plays using only his mind, and if that wasn’t challenging enough, he also had to achieve seven enlightenments."
         },
         {
-          "id": 48,
-          "paragraph_id": 32,
+          "id": 44,
+          "paragraph_id": 28,
           "text": "\"Gaia, what is this enlightenment thing?"
         },
         {
-          "id": 49,
-          "paragraph_id": 32,
+          "id": 45,
+          "paragraph_id": 28,
           "text": "This is my first time encountering it,\" Kent asked."
         },
         {
-          "id": 50,
-          "paragraph_id": 32,
+          "id": 46,
+          "paragraph_id": 28,
           "text": "He could sense it was something profound and important, so he asked early to prepare accordingly."
         },
         {
-          "id": 51,
-          "paragraph_id": 33,
+          "id": 47,
+          "paragraph_id": 29,
           "text": "[Enlightenment is the most important part of every swordsman’s journey."
         },
         {
-          "id": 52,
-          "paragraph_id": 33,
+          "id": 48,
+          "paragraph_id": 29,
           "text": "In fact, any swordsman who has not encountered or gone through enlightenment before cannot be deemed a true swordsman."
         },
         {
-          "id": 53,
-          "paragraph_id": 34,
+          "id": 49,
+          "paragraph_id": 30,
           "text": "In the sword path, sword enlightenment begins when one becomes a Sword Grandmaster."
         },
         {
-          "id": 54,
-          "paragraph_id": 34,
+          "id": 50,
+          "paragraph_id": 30,
           "text": "At the Grandmaster stage, one’s understanding of the sword starts to grow."
         },
         {
-          "id": 55,
-          "paragraph_id": 34,
+          "id": 51,
+          "paragraph_id": 30,
           "text": "In the path of the sword, they might reach a level of understanding that forces them to enter the stage of enlightenment."
         },
         {
-          "id": 56,
-          "paragraph_id": 35,
+          "id": 52,
+          "paragraph_id": 31,
           "text": "At this stage, they must undergo at least three instances of enlightenment before breaking through to the Sword Saint stage."
         },
         {
-          "id": 57,
-          "paragraph_id": 35,
+          "id": 53,
+          "paragraph_id": 31,
           "text": "Gaining enlightenment is entering a state where your understand will undergo a qualitative change]"
         },
         {
-          "id": 58,
-          "paragraph_id": 36,
+          "id": 54,
+          "paragraph_id": 32,
           "text": "\"Wait a minute."
         },
         {
-          "id": 59,
-          "paragraph_id": 36,
+          "id": 55,
+          "paragraph_id": 32,
           "text": "Only three?"
         },
         {
-          "id": 60,
-          "paragraph_id": 36,
+          "id": 56,
+          "paragraph_id": 32,
           "text": "Then why am I required to do seven?\" Kent asked, frustration creeping into his voice."
         },
         {
-          "id": 61,
-          "paragraph_id": 37,
+          "id": 57,
+          "paragraph_id": 33,
           "text": "He didn’t know why he felt that way, but deep down, he could tell that attaining enlightenment wouldn’t be easy."
         },
         {
-          "id": 62,
-          "paragraph_id": 37,
+          "id": 58,
+          "paragraph_id": 33,
           "text": "So why seven for him and only three for everyone else?"
         },
         {
-          "id": 63,
-          "paragraph_id": 38,
+          "id": 59,
+          "paragraph_id": 34,
           "text": "[The keyword there is at least."
         },
         {
-          "id": 64,
-          "paragraph_id": 38,
+          "id": 60,
+          "paragraph_id": 34,
           "text": "Seven is for master."
         },
         {
-          "id": 65,
-          "paragraph_id": 38,
+          "id": 61,
+          "paragraph_id": 34,
           "text": "This means, in some cases, the number can vary, especially since there are thirteen Sword Enlightenment stages, each with its own unique nature.]"
         },
         {
-          "id": 66,
-          "paragraph_id": 39,
+          "id": 62,
+          "paragraph_id": 35,
           "text": "\"...Unbelievable,\" Kent sighed, shaking his head."
         },
         {
-          "id": 67,
-          "paragraph_id": 40,
+          "id": 63,
+          "paragraph_id": 36,
           "text": "Aside from the enlightenment, Kent also had to upgrade his sword qi and sword intent to the Profound stage, as well as advance his sword body to the Silver stage."
         },
         {
-          "id": 68,
-          "paragraph_id": 41,
+          "id": 64,
+          "paragraph_id": 37,
           "text": "He was currently at the Copper stage/rank."
         },
         {
-          "id": 69,
-          "paragraph_id": 41,
+          "id": 65,
+          "paragraph_id": 37,
           "text": "Thankfully, he now had body cultivation to rely on."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 37,
+          "text": "But still, the requirements were just too strict."
+        },
+        {
+          "id": 67,
+          "paragraph_id": 38,
+          "text": "’At this stage, I wonder what kind of requirements I’ll face when becoming a Sword Sage...’ Kent smiled to himself and made a mental note to use his charm to fill his large bed with beauties."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 39,
+          "text": "Having beauties to spend time with when he was tired from training would, without a doubt, make things much simpler and easier."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 40,
+          "text": "\"Then how about the sword bridge?\" Kent asked."
         },
         {
           "id": 70,
           "paragraph_id": 41,
-          "text": "But still, the requirements were just too strict."
-        },
-        {
-          "id": 71,
-          "paragraph_id": 42,
-          "text": "’At this stage, I wonder what kind of requirements I’ll face when becoming a Sword Sage...’ Kent smiled to himself and made a mental note to use his charm to fill his large bed with beauties."
-        },
-        {
-          "id": 72,
-          "paragraph_id": 43,
-          "text": "Having beauties to spend time with when he was tired from training would, without a doubt, make things much simpler and easier."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 44,
-          "text": "\"Then how about the sword bridge?\" Kent asked."
-        },
-        {
-          "id": 74,
-          "paragraph_id": 45,
           "text": "[For that, you have to cross it."
         },
         {
-          "id": 75,
-          "paragraph_id": 45,
+          "id": 71,
+          "paragraph_id": 41,
           "text": "Like in the description, you must defeat the 13 swordsmen."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 41,
+          "text": "But you must know this: the 13 swordsmen are measured based on how much progress you should have made at a given point in time."
+        },
+        {
+          "id": 73,
+          "paragraph_id": 42,
+          "text": "So, let’s say you have mastered 1,000 swordplays and moved your sword qi and intent to 7/9; the swordsman you will be facing will be measured using this metric."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 43,
+          "text": "However, it will also be measured based on the tower’s expectations and some other unknown variables.]"
+        },
+        {
+          "id": 75,
+          "paragraph_id": 44,
+          "text": "\"So in other words, the tower is going to fuck me up,\" Kent laughed, staring daggers at Gaia, who was looking at him with an expression that said, \"I have no idea this is going to fuck up.\""
         },
         {
           "id": 76,
           "paragraph_id": 45,
-          "text": "But you must know this: the 13 swordsmen are measured based on how much progress you should have made at a given point in time."
+          "text": "Kent just sighed."
         },
         {
           "id": 77,
           "paragraph_id": 46,
-          "text": "So, let’s say you have mastered 1,000 swordplays and moved your sword qi and intent to 7/9; the swordsman you will be facing will be measured using this metric."
+          "text": "He moved and appeared before the Sword Bridge, which stretched many miles across the landscape."
         },
         {
           "id": 78,
           "paragraph_id": 47,
-          "text": "However, it will also be measured based on the tower’s expectations and some other unknown variables.]"
+          "text": "It was a large sword filled with Sword Will, the same will coming from the Sword of Enlightenment, infused with the 10,002 swordplays."
         },
         {
           "id": 79,
           "paragraph_id": 48,
-          "text": "\"So in other words, the tower is going to fuck me up,\" Kent laughed, staring daggers at Gaia, who was looking at him with an expression that said, \"I have no idea this is going to fuck up.\""
+          "text": "\"So all I have to do is keep mastering the swordplays and then I can walk across this bridge, right?\" Kent asked, and Gaia nodded."
         },
         {
           "id": 80,
           "paragraph_id": 49,
-          "text": "Kent just sighed."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 50,
-          "text": "He moved and appeared before the Sword Bridge, which stretched many miles across the landscape."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 51,
-          "text": "It was a large sword filled with Sword Will, the same will coming from the Sword of Enlightenment, infused with the 10,002 swordplays."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 52,
-          "text": "\"So all I have to do is keep mastering the swordplays and then I can walk across this bridge, right?\" Kent asked, and Gaia nodded."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 53,
           "text": "Something told him he shouldn’t dare step on it if he didn’t want to experience true pain."
         },
         {
-          "id": 85,
-          "paragraph_id": 53,
+          "id": 81,
+          "paragraph_id": 49,
           "text": "He could only relax and wait for the moment when he could contend with it."
         },
         {
-          "id": 86,
-          "paragraph_id": 54,
+          "id": 82,
+          "paragraph_id": 50,
           "text": "\"I guess I will start challenging core disciples now..."
         },
         {
-          "id": 87,
-          "paragraph_id": 54,
+          "id": 83,
+          "paragraph_id": 50,
           "text": "This will make things much easier for me when I face this bridge,\" Kent made his plan."
         },
         {
-          "id": 88,
-          "paragraph_id": 55,
+          "id": 84,
+          "paragraph_id": 51,
           "text": "If only he knew that when Gaia mentioned there would be some unknown variables, one of the variables was the fact that the 13 swordsmen would all have Sword Saint-level understanding and mastery..."
         },
         {
-          "id": 89,
-          "paragraph_id": 56,
+          "id": 85,
+          "paragraph_id": 52,
           "text": "He is screwed..."
-        },
-        {
-          "id": 90,
-          "paragraph_id": 57,
-          "text": "=========="
         }
       ],
-      "word_count": 1278
+      "word_count": 1273
     },
     {
       "chapter_index": 191,
@@ -20613,8 +20469,7 @@
         "He moved around slowly at first, but after a while, he was running, which made him very confident. But like they say, you should tap out when it’s still favorable for you.",
         "Kent didn’t move to the 21st step. Instead, he chose to leave the tower for now. He still had to visit the Spear Saintess, but first, he needed to know more about the sect, and who better to take him around than Ingrid, his next target?",
         "Though they didn’t know each other, Kent planned to take it slowly by getting to know her first. He would just let her play with little Kent if worst came to shove.",
-        "If only he knew, despite Ingrid’s desire to have his divine rod inside her, she would want Kent to gain her master’s permission first.",
-        "=========="
+        "If only he knew, despite Ingrid’s desire to have his divine rod inside her, she would want Kent to gain her master’s permission first."
       ],
       "sentences": [
         {
@@ -21101,14 +20956,9 @@
           "id": 96,
           "paragraph_id": 47,
           "text": "If only he knew, despite Ingrid’s desire to have his divine rod inside her, she would want Kent to gain her master’s permission first."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 48,
-          "text": "=========="
         }
       ],
-      "word_count": 1313
+      "word_count": 1312
     },
     {
       "chapter_index": 192,
@@ -21165,8 +21015,7 @@
         "\"Then do you want to know about me?\" Ingrid asked. Kent just smiled; he had already captured her information a couple of days ago and knew almost everything there was to know about her, down to her likes and dislikes.",
         "\"Sure... I would love to know more about you,\" But he wasn’t about to deny her the chance to share more about herself...",
         "Ingrid, of course, began telling him more about her lineage. However, Kent, who started listening, began doubting some of the details his enchanted eyes revealed.",
-        "[This nerdy cat is very complex, Master. If I were you, I wouldn’t let her slip through my fingers.] The perverted Gaia said what Kent was also thinking as he learned more about Ingrid.",
-        "=========="
+        "[This nerdy cat is very complex, Master. If I were you, I wouldn’t let her slip through my fingers.] The perverted Gaia said what Kent was also thinking as he learned more about Ingrid."
       ],
       "sentences": [
         {
@@ -21653,14 +21502,9 @@
           "id": 96,
           "paragraph_id": 50,
           "text": "If I were you, I wouldn’t let her slip through my fingers.] The perverted Gaia said what Kent was also thinking as he learned more about Ingrid."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 51,
-          "text": "=========="
         }
       ],
-      "word_count": 1276
+      "word_count": 1275
     },
     {
       "chapter_index": 193,
@@ -21714,8 +21558,7 @@
         "’This lady just doesn’t give up, does she?’ Kent said inwardly.",
         "[Maybe the master should just tame her,] Gaia said, making Kent trip. Luckily, Ingrid caught him before he could fall.",
         "Unfortunately, this sudden closeness was captured by some disciples, who immediately began spreading the word that Kent and Ingrid were dating.",
-        "This made many very angry, one of them being Randy, the guy who was with Ingrid when she first met Kent at the Silver Leaf auction house.",
-        "=========="
+        "This made many very angry, one of them being Randy, the guy who was with Ingrid when she first met Kent at the Silver Leaf auction house."
       ],
       "sentences": [
         {
@@ -22137,14 +21980,9 @@
           "id": 83,
           "paragraph_id": 47,
           "text": "This made many very angry, one of them being Randy, the guy who was with Ingrid when she first met Kent at the Silver Leaf auction house."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 48,
-          "text": "=========="
         }
       ],
-      "word_count": 1307
+      "word_count": 1306
     },
     {
       "chapter_index": 194,
@@ -22198,9 +22036,7 @@
         "They are just wasting their time for nothing, and it is vivid now, showing how incompetent people can be.",
         "If Ingrid can only marry one man, then why would they waste their time, knowing all too well she wouldn’t give them a second glance?",
         "But then again, this is just how people are... Some are there to suck up to the core disciples who have a shot at making Ingrid their woman.",
-        "Well... that was their assumption.",
-        "\"_\"",
-        "=========="
+        "Well... that was their assumption."
       ],
       "sentences": [
         {
@@ -22622,19 +22458,9 @@
           "id": 83,
           "paragraph_id": 47,
           "text": "Well... that was their assumption."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 48,
-          "text": "\"_\""
-        },
-        {
-          "id": 85,
-          "paragraph_id": 49,
-          "text": "=========="
         }
       ],
-      "word_count": 1285
+      "word_count": 1283
     },
     {
       "chapter_index": 195,
@@ -22689,9 +22515,7 @@
         "Haha... If only she knew the Chaos Dragon was playing games, she would have looked at him in a completely new light.",
         "Ingrid struggled with the idea that she was now a platinum member. However, she didn’t get to stay in her trance for long, as Kent dragged her away to the ninth floor, where they entered a private room and began to enjoy themselves.",
         "Kent was rather hungry despite being a cultivator who could go months without food. Well, he is from Earth, after all...",
-        "On the outside, however, the angry disciples appeared... but all they would encounter was great disappointment.",
-        "\"_\"",
-        "=========="
+        "On the outside, however, the angry disciples appeared... but all they would encounter was great disappointment."
       ],
       "sentences": [
         {
@@ -23138,19 +22962,9 @@
           "id": 88,
           "paragraph_id": 48,
           "text": "On the outside, however, the angry disciples appeared... but all they would encounter was great disappointment."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 49,
-          "text": "\"_\""
-        },
-        {
-          "id": 90,
-          "paragraph_id": 50,
-          "text": "=========="
         }
       ],
-      "word_count": 1253
+      "word_count": 1251
     },
     {
       "chapter_index": 196,
@@ -23183,7 +22997,6 @@
         "Ingrid continued to stare at him for a couple of minutes before she chose to eat something so she wouldn’t grow lean from being shocked and witless.",
         "She is from a merchant family that could be ranked among the richest, considering they are into auction houses, buying and selling.",
         "But she couldn’t spend 170 million spirit stones like that...",
-        "*****",
         "\"What do you mean that brat isn’t here?\" a disciple asked, holding a silver badge showing he is a Silver member. The Gold members have a light gold badge made from ordinary crystal, while the Platinum badge is made from a rare jade crystal.",
         "This disciple is just a lackey sent to discover where Kent is. Randy sent him, and as such, with his shoulders high, he came ready to investigate and report back.",
         "\"Like I said, the one you are looking for is not here,\" the worker at the entrance said, not even bothering to look at the badge in his hand.",
@@ -23208,9 +23021,7 @@
         "’How is he going to compete with that?’",
         "Of course, Kent, who had been waiting for that moment, suddenly spoke a few words from the ninth floor.",
         "\"You know what they say, money stops nonsense,\" his voice dripped with ridicule. He had been aiming for this very moment—to anger a few core disciples, provoke them into challenging him, and then beat them up.",
-        "\"Since I’m feeling generous today, I’ll be donating 500 million to the Pavilion. All I ask is that you send out the noise-makers so I can enjoy my meal in peace.\"",
-        "\"_\"",
-        "=========="
+        "\"Since I’m feeling generous today, I’ll be donating 500 million to the Pavilion. All I ask is that you send out the noise-makers so I can enjoy my meal in peace.\""
       ],
       "sentences": [
         {
@@ -23426,250 +23237,235 @@
         {
           "id": 42,
           "paragraph_id": 26,
-          "text": "*****"
+          "text": "\"What do you mean that brat isn’t here?\" a disciple asked, holding a silver badge showing he is a Silver member."
         },
         {
           "id": 43,
-          "paragraph_id": 27,
-          "text": "\"What do you mean that brat isn’t here?\" a disciple asked, holding a silver badge showing he is a Silver member."
+          "paragraph_id": 26,
+          "text": "The Gold members have a light gold badge made from ordinary crystal, while the Platinum badge is made from a rare jade crystal."
         },
         {
           "id": 44,
           "paragraph_id": 27,
-          "text": "The Gold members have a light gold badge made from ordinary crystal, while the Platinum badge is made from a rare jade crystal."
+          "text": "This disciple is just a lackey sent to discover where Kent is."
         },
         {
           "id": 45,
-          "paragraph_id": 28,
-          "text": "This disciple is just a lackey sent to discover where Kent is."
+          "paragraph_id": 27,
+          "text": "Randy sent him, and as such, with his shoulders high, he came ready to investigate and report back."
         },
         {
           "id": 46,
           "paragraph_id": 28,
-          "text": "Randy sent him, and as such, with his shoulders high, he came ready to investigate and report back."
+          "text": "\"Like I said, the one you are looking for is not here,\" the worker at the entrance said, not even bothering to look at the badge in his hand."
         },
         {
           "id": 47,
           "paragraph_id": 29,
-          "text": "\"Like I said, the one you are looking for is not here,\" the worker at the entrance said, not even bothering to look at the badge in his hand."
+          "text": "\"We clearly saw him enter the pavilion a couple of minutes ago... so what the hell do you mean he’s not here?"
         },
         {
           "id": 48,
-          "paragraph_id": 30,
-          "text": "\"We clearly saw him enter the pavilion a couple of minutes ago... so what the hell do you mean he’s not here?"
+          "paragraph_id": 29,
+          "text": "Are you looking to lose your job?\" the disciple said, raising his voice."
         },
         {
           "id": 49,
           "paragraph_id": 30,
-          "text": "Are you looking to lose your job?\" the disciple said, raising his voice."
+          "text": "This immediately attracted the attention of the other workers."
         },
         {
           "id": 50,
           "paragraph_id": 31,
-          "text": "This immediately attracted the attention of the other workers."
+          "text": "\"What seems to be the problem?\" the gossiping-type worker asked."
         },
         {
           "id": 51,
           "paragraph_id": 32,
-          "text": "\"What seems to be the problem?\" the gossiping-type worker asked."
+          "text": "The disciple, who was acting all high and mighty, looked at her with disdain evident on his face."
         },
         {
           "id": 52,
-          "paragraph_id": 33,
-          "text": "The disciple, who was acting all high and mighty, looked at her with disdain evident on his face."
+          "paragraph_id": 32,
+          "text": "To him, holding a Silver badge was the highest authority one could brag about."
         },
         {
           "id": 53,
           "paragraph_id": 33,
-          "text": "To him, holding a Silver badge was the highest authority one could brag about."
+          "text": "In the sect, only Randy and a few core disciples have the Gold badge, which allows them to climb to the 5th floor."
         },
         {
           "id": 54,
-          "paragraph_id": 34,
-          "text": "In the sect, only Randy and a few core disciples have the Gold badge, which allows them to climb to the 5th floor."
+          "paragraph_id": 33,
+          "text": "Of course, they bought those mainly to impress the ladies, with Ingrid being their main target."
         },
         {
           "id": 55,
           "paragraph_id": 34,
-          "text": "Of course, they bought those mainly to impress the ladies, with Ingrid being their main target."
-        },
-        {
-          "id": 56,
-          "paragraph_id": 35,
           "text": "\"A brat entered this establishment a couple of minutes ago."
         },
         {
-          "id": 57,
-          "paragraph_id": 35,
+          "id": 56,
+          "paragraph_id": 34,
           "text": "I doubt he has what it takes to even pay the entrance fee."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 34,
+          "text": "Now, if you don’t want to get into trouble, I demand you tell me where he is,\" the disciple said arrogantly."
         },
         {
           "id": 58,
           "paragraph_id": 35,
-          "text": "Now, if you don’t want to get into trouble, I demand you tell me where he is,\" the disciple said arrogantly."
+          "text": "The workers who heard his words clenched their fists, with a few ready to jump him and beat the crap out of him."
         },
         {
           "id": 59,
-          "paragraph_id": 36,
-          "text": "The workers who heard his words clenched their fists, with a few ready to jump him and beat the crap out of him."
+          "paragraph_id": 35,
+          "text": "However, the elegant and poised Randy entered before they could do that."
         },
         {
           "id": 60,
           "paragraph_id": 36,
-          "text": "However, the elegant and poised Randy entered before they could do that."
+          "text": "\"Maxwell, you shouldn’t behave like that."
         },
         {
           "id": 61,
-          "paragraph_id": 37,
-          "text": "\"Maxwell, you shouldn’t behave like that."
+          "paragraph_id": 36,
+          "text": "These fine people are just doing their job,\" Randy said, walking inside."
         },
         {
           "id": 62,
           "paragraph_id": 37,
-          "text": "These fine people are just doing their job,\" Randy said, walking inside."
+          "text": "Following him were a few other core and inner disciples, both male and female."
         },
         {
           "id": 63,
-          "paragraph_id": 38,
-          "text": "Following him were a few other core and inner disciples, both male and female."
+          "paragraph_id": 37,
+          "text": "Of course, the males were after Kent while the ladies were there to throw jabs at Ingrid."
         },
         {
           "id": 64,
           "paragraph_id": 38,
-          "text": "Of course, the males were after Kent while the ladies were there to throw jabs at Ingrid."
+          "text": "\"But Big Brother Randy, I just wanted to know where that brat is so I could tell him my mind,\" Maxwell said, looking offended."
         },
         {
           "id": 65,
           "paragraph_id": 39,
-          "text": "\"But Big Brother Randy, I just wanted to know where that brat is so I could tell him my mind,\" Maxwell said, looking offended."
+          "text": "Of course, even an idiot would know the two were in cahoots."
         },
         {
           "id": 66,
           "paragraph_id": 40,
-          "text": "Of course, even an idiot would know the two were in cahoots."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 41,
           "text": "\"It’s okay,\" Randy said before taking out his gold badge."
         },
         {
-          "id": 68,
-          "paragraph_id": 41,
+          "id": 67,
+          "paragraph_id": 40,
           "text": "\"I demand to know where the fellow who entered with Disciple Ingrid is."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 40,
+          "text": "He stole something from me, and I want it back,\" Randy declared, showing his badge."
         },
         {
           "id": 69,
           "paragraph_id": 41,
-          "text": "He stole something from me, and I want it back,\" Randy declared, showing his badge."
+          "text": "The workers exchanged looks, none willing to shatter his hopes and dreams just yet."
         },
         {
           "id": 70,
-          "paragraph_id": 42,
-          "text": "The workers exchanged looks, none willing to shatter his hopes and dreams just yet."
+          "paragraph_id": 41,
+          "text": "Of course, the entrance worker wasn’t one to have much patience, so he took the lead."
         },
         {
           "id": 71,
           "paragraph_id": 42,
-          "text": "Of course, the entrance worker wasn’t one to have much patience, so he took the lead."
+          "text": "\"I am sorry, but you don’t have the qualification to know where he is.\""
         },
         {
           "id": 72,
           "paragraph_id": 43,
-          "text": "\"I am sorry, but you don’t have the qualification to know where he is.\""
+          "text": "\"What do you mean I don’t have the qualification?"
         },
         {
           "id": 73,
-          "paragraph_id": 44,
-          "text": "\"What do you mean I don’t have the qualification?"
+          "paragraph_id": 43,
+          "text": "I am a gold member,\" Randy asked arrogantly."
         },
         {
           "id": 74,
           "paragraph_id": 44,
-          "text": "I am a gold member,\" Randy asked arrogantly."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 45,
           "text": "\"Yes...you are a gold customer."
         },
         {
-          "id": 76,
-          "paragraph_id": 45,
+          "id": 75,
+          "paragraph_id": 44,
           "text": "If you want to know where he is, you’ll need to upgrade your membership to Platinum."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 44,
+          "text": "Only then will you have the qualification to ask about a platinum customer.\""
         },
         {
           "id": 77,
           "paragraph_id": 45,
-          "text": "Only then will you have the qualification to ask about a platinum customer.\""
+          "text": "\"WHAT?\" All the disciples who entered held their jaws in disbelief when they heard Kent was a platinum customer."
         },
         {
           "id": 78,
-          "paragraph_id": 46,
-          "text": "\"WHAT?\" All the disciples who entered held their jaws in disbelief when they heard Kent was a platinum customer."
+          "paragraph_id": 45,
+          "text": "That was a shocker."
         },
         {
           "id": 79,
           "paragraph_id": 46,
-          "text": "That was a shocker."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 47,
           "text": "Randy, who had been arrogant, now wore a shocked expression on his face."
         },
         {
-          "id": 81,
-          "paragraph_id": 47,
+          "id": 80,
+          "paragraph_id": 46,
           "text": "He simply couldn’t believe his ears."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 46,
+          "text": "Kent, his love rival, is a platinum customer..."
         },
         {
           "id": 82,
           "paragraph_id": 47,
-          "text": "Kent, his love rival, is a platinum customer..."
+          "text": "’How is he going to compete with that?’"
         },
         {
           "id": 83,
           "paragraph_id": 48,
-          "text": "’How is he going to compete with that?’"
+          "text": "Of course, Kent, who had been waiting for that moment, suddenly spoke a few words from the ninth floor."
         },
         {
           "id": 84,
           "paragraph_id": 49,
-          "text": "Of course, Kent, who had been waiting for that moment, suddenly spoke a few words from the ninth floor."
+          "text": "\"You know what they say, money stops nonsense,\" his voice dripped with ridicule."
         },
         {
           "id": 85,
-          "paragraph_id": 50,
-          "text": "\"You know what they say, money stops nonsense,\" his voice dripped with ridicule."
+          "paragraph_id": 49,
+          "text": "He had been aiming for this very moment—to anger a few core disciples, provoke them into challenging him, and then beat them up."
         },
         {
           "id": 86,
           "paragraph_id": 50,
-          "text": "He had been aiming for this very moment—to anger a few core disciples, provoke them into challenging him, and then beat them up."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 51,
           "text": "\"Since I’m feeling generous today, I’ll be donating 500 million to the Pavilion."
         },
         {
-          "id": 88,
-          "paragraph_id": 51,
+          "id": 87,
+          "paragraph_id": 50,
           "text": "All I ask is that you send out the noise-makers so I can enjoy my meal in peace.\""
-        },
-        {
-          "id": 89,
-          "paragraph_id": 52,
-          "text": "\"_\""
-        },
-        {
-          "id": 90,
-          "paragraph_id": 53,
-          "text": "=========="
         }
       ],
-      "word_count": 1308
+      "word_count": 1305
     },
     {
       "chapter_index": 197,
@@ -23725,9 +23521,7 @@
         "Kent looked at Randy from head to toe and smirked.",
         "\"Why don’t we put some stakes on it?\" Kent said, showing he had accepted the challenge.",
         "\"If you win, I will give you my spot in the upcoming sect competition,\" Randy declared, making everyone gape in shock.",
-        "There were over 100 core disciples in the sect, and only 27 were selected to represent the Divine Palace Sect, with Randy being one of the 27. So, offering his spot... was just too much.",
-        "\"_\"",
-        "=========="
+        "There were over 100 core disciples in the sect, and only 27 were selected to represent the Divine Palace Sect, with Randy being one of the 27. So, offering his spot... was just too much."
       ],
       "sentences": [
         {
@@ -24174,19 +23968,9 @@
           "id": 88,
           "paragraph_id": 49,
           "text": "So, offering his spot... was just too much."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 50,
-          "text": "\"_\""
-        },
-        {
-          "id": 90,
-          "paragraph_id": 51,
-          "text": "=========="
         }
       ],
-      "word_count": 1247
+      "word_count": 1245
     },
     {
       "chapter_index": 198,
@@ -24688,7 +24472,6 @@
         "\"Then let’s go,\" the Saintess said before leading Kent to her training ground, which was large enough to serve as a stadium on Earth.",
         "\"There are formations here that will prevent permanent death. But don’t worry, I won’t aim for your life... That said, you must endure,\" the Saintess said, standing far from Kent.",
         "’Gaia, display my stats and undistribute points,’ Kent began preparing.",
-        "_____________________",
         "⟦ STATs ⟧",
         "Physical Strength: 1,750",
         "Physical Agility: 1,960",
@@ -24696,7 +24479,6 @@
         "Spiritual Strenght: 2,875",
         "Mental Strength: 2,165",
         "[Attribute Points: 0]",
-        "______________________",
         "’My strength is enough. It seems climbing just 20 steps had some impact on my strength. I guess body cultivation was the best thing that happened to me,’ Kent said.",
         "’Also, my stamina was affected. Now, the only thing left is my speed.’ Kent paused and stared at the Saintess...",
         "’She is a Level 3 Root Great Sage, meaning her speed is several times higher. I can’t underestimate her. Gaia, add the undistributed points to Agility.’",
@@ -24730,9 +24512,7 @@
         "Kent rolled to the side, evading the attack, but the shockwave lifted him into the air, sending him flying.",
         "He landed on the ground and straightened his back...",
         "\"Ha.\"",
-        "That was all Ingrid and her master heard before a powerful sword qi, intent, and true aura erupted from Kent. Just like that, a battle that would shake the Spear Gate was underway...",
-        "\"_\"",
-        "=========="
+        "That was all Ingrid and her master heard before a powerful sword qi, intent, and true aura erupted from Kent. Just like that, a battle that would shake the Spear Gate was underway..."
       ],
       "sentences": [
         {
@@ -24908,345 +24688,325 @@
         {
           "id": 34,
           "paragraph_id": 20,
-          "text": "_____________________"
+          "text": "⟦ STATs ⟧"
         },
         {
           "id": 35,
           "paragraph_id": 21,
-          "text": "⟦ STATs ⟧"
+          "text": "Physical Strength: 1,750"
         },
         {
           "id": 36,
           "paragraph_id": 22,
-          "text": "Physical Strength: 1,750"
+          "text": "Physical Agility: 1,960"
         },
         {
           "id": 37,
           "paragraph_id": 23,
-          "text": "Physical Agility: 1,960"
+          "text": "Physical Stamina: 1,625"
         },
         {
           "id": 38,
           "paragraph_id": 24,
-          "text": "Physical Stamina: 1,625"
+          "text": "Spiritual Strenght: 2,875"
         },
         {
           "id": 39,
           "paragraph_id": 25,
-          "text": "Spiritual Strenght: 2,875"
+          "text": "Mental Strength: 2,165"
         },
         {
           "id": 40,
           "paragraph_id": 26,
-          "text": "Mental Strength: 2,165"
+          "text": "[Attribute Points: 0]"
         },
         {
           "id": 41,
           "paragraph_id": 27,
-          "text": "[Attribute Points: 0]"
-        },
-        {
-          "id": 42,
-          "paragraph_id": 28,
-          "text": "______________________"
-        },
-        {
-          "id": 43,
-          "paragraph_id": 29,
           "text": "’My strength is enough."
         },
         {
-          "id": 44,
-          "paragraph_id": 29,
+          "id": 42,
+          "paragraph_id": 27,
           "text": "It seems climbing just 20 steps had some impact on my strength."
         },
         {
-          "id": 45,
-          "paragraph_id": 29,
+          "id": 43,
+          "paragraph_id": 27,
           "text": "I guess body cultivation was the best thing that happened to me,’ Kent said."
         },
         {
-          "id": 46,
-          "paragraph_id": 30,
+          "id": 44,
+          "paragraph_id": 28,
           "text": "’Also, my stamina was affected."
         },
         {
-          "id": 47,
-          "paragraph_id": 30,
+          "id": 45,
+          "paragraph_id": 28,
           "text": "Now, the only thing left is my speed.’ Kent paused and stared at the Saintess..."
         },
         {
-          "id": 48,
-          "paragraph_id": 31,
+          "id": 46,
+          "paragraph_id": 29,
           "text": "’She is a Level 3 Root Great Sage, meaning her speed is several times higher."
         },
         {
-          "id": 49,
-          "paragraph_id": 31,
+          "id": 47,
+          "paragraph_id": 29,
           "text": "I can’t underestimate her."
         },
         {
-          "id": 50,
-          "paragraph_id": 31,
+          "id": 48,
+          "paragraph_id": 29,
           "text": "Gaia, add the undistributed points to Agility.’"
         },
         {
-          "id": 51,
-          "paragraph_id": 32,
+          "id": 49,
+          "paragraph_id": 30,
           "text": "Kent made the decision without even testing the Saintess first."
         },
         {
-          "id": 52,
-          "paragraph_id": 32,
+          "id": 50,
+          "paragraph_id": 30,
           "text": "The only upside to this decision was that he was confident in his strength but not his speed."
         },
         {
-          "id": 53,
-          "paragraph_id": 33,
+          "id": 51,
+          "paragraph_id": 31,
           "text": "Right now, the only thing he was lacking was speed..."
         },
         {
-          "id": 54,
-          "paragraph_id": 33,
+          "id": 52,
+          "paragraph_id": 31,
           "text": "Thankfully, he could beef it up a bit."
         },
         {
-          "id": 55,
-          "paragraph_id": 33,
+          "id": 53,
+          "paragraph_id": 31,
           "text": "Gaia added the points, and they could feel the energy."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 31,
+          "text": "Now, all that was left was to utilize his skills to their limit and be sure to survive long enough."
+        },
+        {
+          "id": 55,
+          "paragraph_id": 32,
+          "text": "After making the necessary changes, he walked into the arena."
         },
         {
           "id": 56,
           "paragraph_id": 33,
-          "text": "Now, all that was left was to utilize his skills to their limit and be sure to survive long enough."
+          "text": "\"Are you ready?\" Saintess Neomi asked."
         },
         {
           "id": 57,
           "paragraph_id": 34,
-          "text": "After making the necessary changes, he walked into the arena."
+          "text": "Kent didn’t immediately answer; he first extended his hand, and the golden sword sheath materialized out of thin air into his grasp."
         },
         {
           "id": 58,
           "paragraph_id": 35,
-          "text": "\"Are you ready?\" Saintess Neomi asked."
+          "text": "He then took a deep breath and nodded, signaling that he was ready."
         },
         {
           "id": 59,
           "paragraph_id": 36,
-          "text": "Kent didn’t immediately answer; he first extended his hand, and the golden sword sheath materialized out of thin air into his grasp."
+          "text": "\"Then be sure to endure.\" Immediately after she said that, she moved, and the next second, a long spear came swinging at Kent, who stood his ground and parried the attack."
         },
         {
           "id": 60,
           "paragraph_id": 37,
-          "text": "He then took a deep breath and nodded, signaling that he was ready."
+          "text": "BOOM"
         },
         {
           "id": 61,
           "paragraph_id": 38,
-          "text": "\"Then be sure to endure.\" Immediately after she said that, she moved, and the next second, a long spear came swinging at Kent, who stood his ground and parried the attack."
+          "text": "The strike was powerful enough to send shockwaves."
         },
         {
           "id": 62,
-          "paragraph_id": 39,
-          "text": "BOOM"
+          "paragraph_id": 38,
+          "text": "Kent was pushed back but didn’t falter as he prepared for the next strike, further forcing him back."
         },
         {
           "id": 63,
-          "paragraph_id": 40,
-          "text": "The strike was powerful enough to send shockwaves."
+          "paragraph_id": 39,
+          "text": "’She packs a punch... there’s no doubt about that,’ Kent thought inwardly."
         },
         {
           "id": 64,
           "paragraph_id": 40,
-          "text": "Kent was pushed back but didn’t falter as he prepared for the next strike, further forcing him back."
+          "text": "He then moved and evaded her next attack."
         },
         {
           "id": 65,
-          "paragraph_id": 41,
-          "text": "’She packs a punch... there’s no doubt about that,’ Kent thought inwardly."
+          "paragraph_id": 40,
+          "text": "Activating his sword intent and sword qi simultaneously, he began channeling his energy into his attacks as more and more strikes rained down from Saintess Neomi."
         },
         {
           "id": 66,
-          "paragraph_id": 42,
-          "text": "He then moved and evaded her next attack."
+          "paragraph_id": 41,
+          "text": "Kent was parrying all her attacks."
         },
         {
           "id": 67,
           "paragraph_id": 42,
-          "text": "Activating his sword intent and sword qi simultaneously, he began channeling his energy into his attacks as more and more strikes rained down from Saintess Neomi."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 43,
-          "text": "Kent was parrying all her attacks."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 44,
           "text": "They were all just using their weapons without any active skills."
         },
         {
-          "id": 70,
-          "paragraph_id": 44,
+          "id": 68,
+          "paragraph_id": 42,
           "text": "It was a pure clash between metals."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 42,
+          "text": "Well, Kent was using his sword sheath while the sword was still sheathed."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 43,
+          "text": "The moment he drew the sword, his true aura would be unleashed, and that would mean he would start using active abilities."
         },
         {
           "id": 71,
           "paragraph_id": 44,
-          "text": "Well, Kent was using his sword sheath while the sword was still sheathed."
+          "text": "Though what he was doing could be regarded as arrogance, it wasn’t like he had a choice."
         },
         {
           "id": 72,
-          "paragraph_id": 45,
-          "text": "The moment he drew the sword, his true aura would be unleashed, and that would mean he would start using active abilities."
+          "paragraph_id": 44,
+          "text": "That was his sword path, and that was how he would walk it."
         },
         {
           "id": 73,
-          "paragraph_id": 46,
-          "text": "Though what he was doing could be regarded as arrogance, it wasn’t like he had a choice."
+          "paragraph_id": 45,
+          "text": "The Saintess didn’t mind him using his sheath, so they kept clashing, sending shockwaves everywhere."
         },
         {
           "id": 74,
           "paragraph_id": 46,
-          "text": "That was his sword path, and that was how he would walk it."
+          "text": "Ingrid was watching with a calm expression, but she had to admire Kent’s tenacity."
         },
         {
           "id": 75,
-          "paragraph_id": 47,
-          "text": "The Saintess didn’t mind him using his sheath, so they kept clashing, sending shockwaves everywhere."
+          "paragraph_id": 46,
+          "text": "He matched her master’s attacks, though she could also say her master wasn’t using her true strength."
         },
         {
           "id": 76,
-          "paragraph_id": 48,
-          "text": "Ingrid was watching with a calm expression, but she had to admire Kent’s tenacity."
+          "paragraph_id": 47,
+          "text": "Again, if she were to measure her performance with Kent, she had to say the purple-haired handsome brat was holding his own against the Saintess better than she could have done."
         },
         {
           "id": 77,
           "paragraph_id": 48,
-          "text": "He matched her master’s attacks, though she could also say her master wasn’t using her true strength."
+          "text": "Kent was doing all he could to see his limit, and right now, his limit was not satisfied."
         },
         {
           "id": 78,
-          "paragraph_id": 49,
-          "text": "Again, if she were to measure her performance with Kent, she had to say the purple-haired handsome brat was holding his own against the Saintess better than she could have done."
+          "paragraph_id": 48,
+          "text": "Twenty minutes into the battle, Kent was pushed back several meters, but he could tell he was still far from unsheathing his sword."
         },
         {
           "id": 79,
-          "paragraph_id": 50,
-          "text": "Kent was doing all he could to see his limit, and right now, his limit was not satisfied."
+          "paragraph_id": 49,
+          "text": "\"You can put some force into your attacks, Lady Saintess,\" Kent said, making the Saintess stop and look at him."
         },
         {
           "id": 80,
           "paragraph_id": 50,
-          "text": "Twenty minutes into the battle, Kent was pushed back several meters, but he could tell he was still far from unsheathing his sword."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 51,
-          "text": "\"You can put some force into your attacks, Lady Saintess,\" Kent said, making the Saintess stop and look at him."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 52,
           "text": "\"I have to give it to you, Kent."
         },
         {
-          "id": 83,
-          "paragraph_id": 52,
+          "id": 81,
+          "paragraph_id": 50,
           "text": "You are capable, but are you ready for what is coming?\" She smiled."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 50,
+          "text": "Like Kent, she had been testing him for the past few minutes."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 51,
+          "text": "\"We will never know until we try,\" Kent replied with a smile."
         },
         {
           "id": 84,
           "paragraph_id": 52,
-          "text": "Like Kent, she had been testing him for the past few minutes."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 53,
-          "text": "\"We will never know until we try,\" Kent replied with a smile."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 54,
           "text": "\"Very well..."
         },
         {
-          "id": 87,
-          "paragraph_id": 54,
+          "id": 85,
+          "paragraph_id": 52,
           "text": "Be sure to scream well.\" When she ended her words, a powerful spear qi and intent surged from her body, filling the arena."
         },
         {
-          "id": 88,
-          "paragraph_id": 55,
+          "id": 86,
+          "paragraph_id": 53,
           "text": "Then she moved and stabbed her spear at Kent’s chest."
         },
         {
-          "id": 89,
-          "paragraph_id": 55,
+          "id": 87,
+          "paragraph_id": 53,
           "text": "Kent reacted quickly and deflected the strike but was slightly slow as the spear grazed his shoulder."
         },
         {
-          "id": 90,
-          "paragraph_id": 56,
+          "id": 88,
+          "paragraph_id": 54,
           "text": "He was sent running back, but she was upon him with a quick stab at his stomach before he could stabilize himself."
         },
         {
-          "id": 91,
-          "paragraph_id": 56,
+          "id": 89,
+          "paragraph_id": 54,
           "text": "Kent defended, but he was sent flying back."
         },
         {
-          "id": 92,
-          "paragraph_id": 57,
+          "id": 90,
+          "paragraph_id": 55,
           "text": "’I have to get serious,’ Kent thought as he stumbled back and fell, rolling on the ground."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 55,
+          "text": "The Saintess was upon him again, this time with an overhead swing."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 56,
+          "text": "\"Oh shit...\""
         },
         {
           "id": 93,
           "paragraph_id": 57,
-          "text": "The Saintess was upon him again, this time with an overhead swing."
+          "text": "Kent rolled to the side, evading the attack, but the shockwave lifted him into the air, sending him flying."
         },
         {
           "id": 94,
           "paragraph_id": 58,
-          "text": "\"Oh shit...\""
+          "text": "He landed on the ground and straightened his back..."
         },
         {
           "id": 95,
           "paragraph_id": 59,
-          "text": "Kent rolled to the side, evading the attack, but the shockwave lifted him into the air, sending him flying."
+          "text": "\"Ha.\""
         },
         {
           "id": 96,
           "paragraph_id": 60,
-          "text": "He landed on the ground and straightened his back..."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 61,
-          "text": "\"Ha.\""
-        },
-        {
-          "id": 98,
-          "paragraph_id": 62,
           "text": "That was all Ingrid and her master heard before a powerful sword qi, intent, and true aura erupted from Kent."
         },
         {
-          "id": 99,
-          "paragraph_id": 62,
+          "id": 97,
+          "paragraph_id": 60,
           "text": "Just like that, a battle that would shake the Spear Gate was underway..."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 63,
-          "text": "\"_\""
-        },
-        {
-          "id": 101,
-          "paragraph_id": 64,
-          "text": "=========="
         }
       ],
-      "word_count": 1270
+      "word_count": 1266
     },
     {
       "chapter_index": 200,
@@ -25316,9 +25076,7 @@
         "Though it was normal for battles to send shockwaves, this unexpected explosion was shocking. But it wasn’t enough to stop the duel between the two, whose friendship slowly started to evolve through battle.",
         "Kent blinked, and they were back in the arena.",
         "\"Here I come again!\" Kent laughed.",
-        "\"Elemental Manipulation!\" A flaming lion appeared after he swung his sword.",
-        "\"_\"",
-        "=========="
+        "\"Elemental Manipulation!\" A flaming lion appeared after he swung his sword."
       ],
       "sentences": [
         {
@@ -25835,19 +25593,9 @@
           "id": 102,
           "paragraph_id": 63,
           "text": "\"Elemental Manipulation!\" A flaming lion appeared after he swung his sword."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 64,
-          "text": "\"_\""
-        },
-        {
-          "id": 104,
-          "paragraph_id": 65,
-          "text": "=========="
         }
       ],
-      "word_count": 1342
+      "word_count": 1340
     }
   ]
 }

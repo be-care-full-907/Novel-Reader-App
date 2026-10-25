@@ -1458,7 +1458,6 @@
         "A moment afterwards, the team-leader lowered his bow and arrow. However, he continued to aggressively threaten Luna.",
         "Alright. Lets hear what your prince who let an elf be his personal maid has to say. But Im warning you, unknown-elf, if you offend us, we will take your head immediately and send it to your prince.",
         "Luna had the Valkyrie sheath her sword. She then looked at him and nodded. Luna revealed a composed smile and said: Please take me to see your tribe leader then.",
-        "=================",
         "I didnt tell Elizabeth about how I secretly had a wedding dress made for her. Consider it something I took upon myself. I dont know why I had the thought myself, but I felt sorry for Elizabeth. Vyvyan was happy just to have me, but Elizabeth has only known me for a few months.",
         "I care for this silly mom of mine.",
         "Im not Inard, but I can still give her a moment of bliss nevertheless, right? I believe that mom will think of Inard when she sees me so blissful on my wedding day. That would make mom really sad, so if I hugged her, she would be able to feel a little relieved.",
@@ -1726,345 +1725,340 @@
         {
           "id": 49,
           "paragraph_id": 16,
-          "text": "================="
-        },
-        {
-          "id": 50,
-          "paragraph_id": 17,
           "text": "I didnt tell Elizabeth about how I secretly had a wedding dress made for her."
         },
         {
-          "id": 51,
-          "paragraph_id": 17,
+          "id": 50,
+          "paragraph_id": 16,
           "text": "Consider it something I took upon myself."
         },
         {
-          "id": 52,
-          "paragraph_id": 17,
+          "id": 51,
+          "paragraph_id": 16,
           "text": "I dont know why I had the thought myself, but I felt sorry for Elizabeth."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 16,
+          "text": "Vyvyan was happy just to have me, but Elizabeth has only known me for a few months."
         },
         {
           "id": 53,
           "paragraph_id": 17,
-          "text": "Vyvyan was happy just to have me, but Elizabeth has only known me for a few months."
+          "text": "I care for this silly mom of mine."
         },
         {
           "id": 54,
           "paragraph_id": 18,
-          "text": "I care for this silly mom of mine."
-        },
-        {
-          "id": 55,
-          "paragraph_id": 19,
           "text": "Im not Inard, but I can still give her a moment of bliss nevertheless, right?"
         },
         {
-          "id": 56,
-          "paragraph_id": 19,
+          "id": 55,
+          "paragraph_id": 18,
           "text": "I believe that mom will think of Inard when she sees me so blissful on my wedding day."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 18,
+          "text": "That would make mom really sad, so if I hugged her, she would be able to feel a little relieved."
         },
         {
           "id": 57,
           "paragraph_id": 19,
-          "text": "That would make mom really sad, so if I hugged her, she would be able to feel a little relieved."
+          "text": "Did you want onii-samas robe?"
         },
         {
           "id": 58,
           "paragraph_id": 20,
-          "text": "Did you want onii-samas robe?"
-        },
-        {
-          "id": 59,
-          "paragraph_id": 21,
           "text": "Vyvyan lingered."
         },
         {
-          "id": 60,
-          "paragraph_id": 21,
+          "id": 59,
+          "paragraph_id": 20,
           "text": "She never expected to hear this request from me."
         },
         {
-          "id": 61,
-          "paragraph_id": 21,
+          "id": 60,
+          "paragraph_id": 20,
           "text": "She bit down on her lips, thought about it and answered, Mommy isnt too sure either."
         },
         {
-          "id": 62,
-          "paragraph_id": 21,
+          "id": 61,
+          "paragraph_id": 20,
           "text": "However, male elves only have a few robes."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 20,
+          "text": "Mommy will try to recall it and make a similar one But why do you want one like onii-samas?"
         },
         {
           "id": 63,
           "paragraph_id": 21,
-          "text": "Mommy will try to recall it and make a similar one But why do you want one like onii-samas?"
+          "text": "I looked at Vyvyan and guiltily explained: Im dads son after all."
         },
         {
           "id": 64,
-          "paragraph_id": 22,
-          "text": "I looked at Vyvyan and guiltily explained: Im dads son after all."
+          "paragraph_id": 21,
+          "text": "Dad cant make it now, but I still want to let him see me happy"
         },
         {
           "id": 65,
           "paragraph_id": 22,
-          "text": "Dad cant make it now, but I still want to let him see me happy"
-        },
-        {
-          "id": 66,
-          "paragraph_id": 23,
           "text": "Vyvyan can read minds so its really hard to lie to her face."
         },
         {
-          "id": 67,
-          "paragraph_id": 23,
+          "id": 66,
+          "paragraph_id": 22,
           "text": "If Vyvyan even suspects me a little, my plan will go down the drain."
         },
         {
-          "id": 68,
-          "paragraph_id": 23,
+          "id": 67,
+          "paragraph_id": 22,
           "text": "Vyvyan will then lose it because shell think I like Elizabeth more."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 22,
+          "text": "I might even get locked up that night"
         },
         {
           "id": 69,
           "paragraph_id": 23,
-          "text": "I might even get locked up that night"
-        },
-        {
-          "id": 70,
-          "paragraph_id": 24,
           "text": "Vyvyan frowned slightly and then revealed a happy smile."
         },
         {
-          "id": 71,
-          "paragraph_id": 24,
+          "id": 70,
+          "paragraph_id": 23,
           "text": "She then pulled me into her embrace tightly and tenderly stroked my head."
         },
         {
-          "id": 72,
-          "paragraph_id": 24,
+          "id": 71,
+          "paragraph_id": 23,
           "text": "She softly said: Mommy is so moved, son."
         },
         {
-          "id": 73,
-          "paragraph_id": 24,
+          "id": 72,
+          "paragraph_id": 23,
           "text": "So, so moved."
         },
         {
-          "id": 74,
-          "paragraph_id": 24,
+          "id": 73,
+          "paragraph_id": 23,
           "text": "Mommy is very happy that you can still remember your father."
         },
         {
-          "id": 75,
-          "paragraph_id": 24,
+          "id": 74,
+          "paragraph_id": 23,
           "text": "If onii-sama knew, he would be very glad."
         },
         {
-          "id": 76,
-          "paragraph_id": 24,
+          "id": 75,
+          "paragraph_id": 23,
           "text": "You truly are mommys dearest son."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 23,
+          "text": "Son"
         },
         {
           "id": 77,
           "paragraph_id": 24,
-          "text": "Son"
-        },
-        {
-          "id": 78,
-          "paragraph_id": 25,
           "text": "Vyvyan seemed to be so moved her voice got hoarse."
         },
         {
-          "id": 79,
-          "paragraph_id": 25,
+          "id": 78,
+          "paragraph_id": 24,
           "text": "I honestly didnt dare to tell her it was for Elizabeth Vyvyan patted me firmly on my back and then said: Alright."
         },
         {
-          "id": 80,
-          "paragraph_id": 25,
+          "id": 79,
+          "paragraph_id": 24,
           "text": "No problem, son."
         },
         {
-          "id": 81,
-          "paragraph_id": 25,
+          "id": 80,
+          "paragraph_id": 24,
           "text": "Mommy will definitely help you make a robe like your fathers."
         },
         {
-          "id": 82,
-          "paragraph_id": 25,
+          "id": 81,
+          "paragraph_id": 24,
           "text": "Mommy doesnt need the one in the past nor does mommy need to gather mana."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 24,
+          "text": "Mommy shall use mommys mana to forge a blessing."
         },
         {
           "id": 83,
           "paragraph_id": 25,
-          "text": "Mommy shall use mommys mana to forge a blessing."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 26,
           "text": "As a demi-god, Vyvyan could definitely forge a blessing."
         },
         {
-          "id": 85,
-          "paragraph_id": 26,
+          "id": 84,
+          "paragraph_id": 25,
           "text": "My preparations are pretty much done then."
         },
         {
-          "id": 86,
-          "paragraph_id": 26,
+          "id": 85,
+          "paragraph_id": 25,
           "text": "After saying goodbye to Vyvyan, I left her room and saw Freya who was standing to one side writing something in a small book."
         },
         {
-          "id": 87,
-          "paragraph_id": 26,
+          "id": 86,
+          "paragraph_id": 25,
           "text": "Freya has been very busy lately."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 25,
+          "text": "Well, Castell was busy too because the two of them were responsible for everything."
         },
         {
           "id": 88,
           "paragraph_id": 26,
-          "text": "Well, Castell was busy too because the two of them were responsible for everything."
+          "text": "Onii-sama, I need you to think about it again carefully."
         },
         {
           "id": 89,
-          "paragraph_id": 27,
-          "text": "Onii-sama, I need you to think about it again carefully."
+          "paragraph_id": 26,
+          "text": "You must consider it again Consider it as me pleading you, onii-sama, please."
         },
         {
           "id": 90,
           "paragraph_id": 27,
-          "text": "You must consider it again Consider it as me pleading you, onii-sama, please."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 28,
           "text": "Freya was ready to cry."
         },
         {
-          "id": 92,
-          "paragraph_id": 28,
+          "id": 91,
+          "paragraph_id": 27,
           "text": "She exclaimed: All of the reports in your palace come to me because you dont have a personal servant."
         },
         {
-          "id": 93,
-          "paragraph_id": 28,
+          "id": 92,
+          "paragraph_id": 27,
           "text": "I have to organise things in your palace daily."
         },
         {
-          "id": 94,
-          "paragraph_id": 28,
+          "id": 93,
+          "paragraph_id": 27,
           "text": "They even ask me about cleaning your room."
         },
         {
-          "id": 95,
-          "paragraph_id": 28,
+          "id": 94,
+          "paragraph_id": 27,
           "text": "Please, please get a temporary personal servant during such a busy period."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 27,
+          "text": "I told you already that one personal servant is definitely not going to be enough!"
         },
         {
           "id": 96,
           "paragraph_id": 28,
-          "text": "I told you already that one personal servant is definitely not going to be enough!"
-        },
-        {
-          "id": 97,
-          "paragraph_id": 29,
           "text": "I scrubbed Freyas head, smiled and said: Im sorry, Freya."
         },
         {
-          "id": 98,
-          "paragraph_id": 29,
+          "id": 97,
+          "paragraph_id": 28,
           "text": "Its been hard on you."
         },
         {
-          "id": 99,
-          "paragraph_id": 29,
+          "id": 98,
+          "paragraph_id": 28,
           "text": "I will make arrangements for Lucia and Nier to be responsible for my room."
         },
         {
-          "id": 100,
-          "paragraph_id": 29,
+          "id": 99,
+          "paragraph_id": 28,
           "text": "As for the matters in the palace, they can just ask me directly from now and dont need to ask you."
         },
         {
-          "id": 101,
-          "paragraph_id": 29,
+          "id": 100,
+          "paragraph_id": 28,
           "text": "That should give you some breathing space, right?"
         },
         {
-          "id": 102,
-          "paragraph_id": 29,
+          "id": 101,
+          "paragraph_id": 28,
           "text": "Delay things by a few days if youre too tired."
+        },
+        {
+          "id": 102,
+          "paragraph_id": 28,
+          "text": "Theres no rush."
         },
         {
           "id": 103,
           "paragraph_id": 29,
-          "text": "Theres no rush."
+          "text": "Onii-sama, why do you refuse to have more personal servants or assistants?"
         },
         {
           "id": 104,
           "paragraph_id": 30,
-          "text": "Onii-sama, why do you refuse to have more personal servants or assistants?"
-        },
-        {
-          "id": 105,
-          "paragraph_id": 31,
           "text": "Because I made a promise to Luna."
         },
         {
-          "id": 106,
-          "paragraph_id": 31,
+          "id": 105,
+          "paragraph_id": 30,
           "text": "I smiled and looked toward the north."
         },
         {
-          "id": 107,
-          "paragraph_id": 31,
+          "id": 106,
+          "paragraph_id": 30,
           "text": "I looked in the direction Luna left and softly continued, I promised her that I wouldnt have another personal servant."
         },
         {
-          "id": 108,
-          "paragraph_id": 31,
+          "id": 107,
+          "paragraph_id": 30,
           "text": "She will forever be the only personal servant I have by my side, just like my promise to Lucia and Nier I respect Luna and I also really like her."
+        },
+        {
+          "id": 108,
+          "paragraph_id": 30,
+          "text": "I wont do it since she doesnt like it."
         },
         {
           "id": 109,
           "paragraph_id": 31,
-          "text": "I wont do it since she doesnt like it."
+          "text": "I lowered my head to look at Freya, smiled and said: Of course, the same applies for you."
         },
         {
           "id": 110,
-          "paragraph_id": 32,
-          "text": "I lowered my head to look at Freya, smiled and said: Of course, the same applies for you."
+          "paragraph_id": 31,
+          "text": "Freya, you will be my only sister."
         },
         {
           "id": 111,
           "paragraph_id": 32,
-          "text": "Freya, you will be my only sister."
-        },
-        {
-          "id": 112,
-          "paragraph_id": 33,
           "text": "You sure do understand women as usual, onii-sama."
         },
         {
-          "id": 113,
-          "paragraph_id": 33,
+          "id": 112,
+          "paragraph_id": 32,
           "text": "You truly are a scary man, huh?"
         },
         {
-          "id": 114,
-          "paragraph_id": 33,
+          "id": 113,
+          "paragraph_id": 32,
           "text": "Freya chuckled softly."
         },
         {
-          "id": 115,
-          "paragraph_id": 33,
+          "id": 114,
+          "paragraph_id": 32,
           "text": "She then whipped her hair and said, What can I say if youve said that?"
         },
         {
-          "id": 116,
-          "paragraph_id": 33,
+          "id": 115,
+          "paragraph_id": 32,
           "text": "I shall put up with it for your wedding, onii-sama."
         }
       ],
-      "word_count": 1273
+      "word_count": 1272
     },
     {
       "chapter_index": 304,
@@ -12129,7 +12123,6 @@
         "I looked at Lucia blankly. She looked at me with a serious look and said: Ill be fine! Your highness, you dont have to worry about me! I will look after myself well! You must look after yourself too. I trust that her highness wont get in your way too much either, right? You just need to express your thoughts and you will have everyones support! Please walk your own path, your highness! You are the next king!!",
         "I looked at her, nodded sincerely, hugged her and tenderly said: I understand now. Ill be sure to look after myself. Ill definitely make it back alive. I wont leave you all behind. Ill be back for sure.",
         "Uhm Lucia leaned onto my chest weakly and gripped my clothes tightly. She resolutely and at the same time, sadly said: If you dont come back I will raise our child and come to meet you after. You must know that if something were to befall you, I will definitely go find you. I definitely will",
-        "=====================",
         "Current time at the temporary Valkyrie headquarters.",
         "Alice silently poured him a cup of wine. After a moment of silence, she remarked: Nier is pregnant.",
         "Castell nodded and replied: I know. Virtually the entire palace is revolving around her now that shes pregnant. Its like a parade whenever she goes somewhere, so theres no way I wouldnt know.",
@@ -12875,55 +12868,50 @@
         {
           "id": 147,
           "paragraph_id": 32,
-          "text": "====================="
+          "text": "Current time at the temporary Valkyrie headquarters."
         },
         {
           "id": 148,
           "paragraph_id": 33,
-          "text": "Current time at the temporary Valkyrie headquarters."
+          "text": "Alice silently poured him a cup of wine."
         },
         {
           "id": 149,
-          "paragraph_id": 34,
-          "text": "Alice silently poured him a cup of wine."
+          "paragraph_id": 33,
+          "text": "After a moment of silence, she remarked: Nier is pregnant."
         },
         {
           "id": 150,
           "paragraph_id": 34,
-          "text": "After a moment of silence, she remarked: Nier is pregnant."
-        },
-        {
-          "id": 151,
-          "paragraph_id": 35,
           "text": "Castell nodded and replied: I know."
         },
         {
-          "id": 152,
-          "paragraph_id": 35,
+          "id": 151,
+          "paragraph_id": 34,
           "text": "Virtually the entire palace is revolving around her now that shes pregnant."
+        },
+        {
+          "id": 152,
+          "paragraph_id": 34,
+          "text": "Its like a parade whenever she goes somewhere, so theres no way I wouldnt know."
         },
         {
           "id": 153,
           "paragraph_id": 35,
-          "text": "Its like a parade whenever she goes somewhere, so theres no way I wouldnt know."
+          "text": "That means that the purpose of his majestys existence is gone."
         },
         {
           "id": 154,
           "paragraph_id": 36,
-          "text": "That means that the purpose of his majestys existence is gone."
-        },
-        {
-          "id": 155,
-          "paragraph_id": 37,
           "text": "Alice placed her cup of wine down and looked at Castell seriously."
         },
         {
-          "id": 156,
-          "paragraph_id": 37,
+          "id": 155,
+          "paragraph_id": 36,
           "text": "She indifferently elaborated: He can die now"
         }
       ],
-      "word_count": 1327
+      "word_count": 1326
     },
     {
       "chapter_index": 320,
@@ -30839,7 +30827,6 @@
         "Whatever the case, please be cautious, Your Majesty.",
         "Shouldnt you all? I smirked and then stood up. I picked my bag of water up and said, Im returning to my tent. Call me anytime if something comes up.",
         "Understood.",
-        "===================",
         "Current time at the elven imperial capital",
         "Lucia!!",
         "Echte shouted loudly scaring Lucia. She fell onto her bottom on the ground. She quickly picked up her sword, while the soldier practicing with her stood in place, trembling as he looked at Echte, who came over like a lion. Echte, however, didnt bother with him. He, instead, grabbed Lucias shoulder with one hand. He looked at her face covered in sweat and thundered, My goodness gracious, what are you doing?! Youre pregnant with His Highness child and yet you still dare to spar with a sword?! How are you going to explain yourself if something happens?! How are we going to explain ourselves to Her Highness?!",
@@ -31306,175 +31293,170 @@
         {
           "id": 90,
           "paragraph_id": 22,
-          "text": "==================="
+          "text": "Current time at the elven imperial capital"
         },
         {
           "id": 91,
           "paragraph_id": 23,
-          "text": "Current time at the elven imperial capital"
+          "text": "Lucia!!"
         },
         {
           "id": 92,
           "paragraph_id": 24,
-          "text": "Lucia!!"
-        },
-        {
-          "id": 93,
-          "paragraph_id": 25,
           "text": "Echte shouted loudly scaring Lucia."
         },
         {
-          "id": 94,
-          "paragraph_id": 25,
+          "id": 93,
+          "paragraph_id": 24,
           "text": "She fell onto her bottom on the ground."
         },
         {
-          "id": 95,
-          "paragraph_id": 25,
+          "id": 94,
+          "paragraph_id": 24,
           "text": "She quickly picked up her sword, while the soldier practicing with her stood in place, trembling as he looked at Echte, who came over like a lion."
         },
         {
-          "id": 96,
-          "paragraph_id": 25,
+          "id": 95,
+          "paragraph_id": 24,
           "text": "Echte, however, didnt bother with him."
         },
         {
-          "id": 97,
-          "paragraph_id": 25,
+          "id": 96,
+          "paragraph_id": 24,
           "text": "He, instead, grabbed Lucias shoulder with one hand."
         },
         {
-          "id": 98,
-          "paragraph_id": 25,
+          "id": 97,
+          "paragraph_id": 24,
           "text": "He looked at her face covered in sweat and thundered, My goodness gracious, what are you doing?!"
         },
         {
-          "id": 99,
-          "paragraph_id": 25,
+          "id": 98,
+          "paragraph_id": 24,
           "text": "Youre pregnant with His Highness child and yet you still dare to spar with a sword?!"
         },
         {
-          "id": 100,
-          "paragraph_id": 25,
+          "id": 99,
+          "paragraph_id": 24,
           "text": "How are you going to explain yourself if something happens?!"
+        },
+        {
+          "id": 100,
+          "paragraph_id": 24,
+          "text": "How are we going to explain ourselves to Her Highness?!"
         },
         {
           "id": 101,
           "paragraph_id": 25,
-          "text": "How are we going to explain ourselves to Her Highness?!"
+          "text": "Explain what to me?"
         },
         {
           "id": 102,
           "paragraph_id": 26,
-          "text": "Explain what to me?"
+          "text": "Echte quickly turned his head around, adjusted his expression and bowed."
         },
         {
           "id": 103,
-          "paragraph_id": 27,
-          "text": "Echte quickly turned his head around, adjusted his expression and bowed."
+          "paragraph_id": 26,
+          "text": "He respectfully greeted Vyvyan, Your Highness"
         },
         {
           "id": 104,
           "paragraph_id": 27,
-          "text": "He respectfully greeted Vyvyan, Your Highness"
-        },
-        {
-          "id": 105,
-          "paragraph_id": 28,
           "text": "Lucia is still sparring with a sword."
         },
         {
-          "id": 106,
-          "paragraph_id": 28,
+          "id": 105,
+          "paragraph_id": 27,
           "text": "Shes very diligent."
         },
         {
-          "id": 107,
-          "paragraph_id": 28,
+          "id": 106,
+          "paragraph_id": 27,
           "text": "Despite no longer being the captain of the Shadow Squad, shes not being lax."
         },
         {
-          "id": 108,
-          "paragraph_id": 28,
+          "id": 107,
+          "paragraph_id": 27,
           "text": "Vyvyan walked up to Lucias side with a kind smile."
         },
         {
-          "id": 109,
-          "paragraph_id": 28,
+          "id": 108,
+          "paragraph_id": 27,
           "text": "She then looked at Echte with a smile and said, Echte, you dont need to be worried."
         },
         {
-          "id": 110,
-          "paragraph_id": 28,
+          "id": 109,
+          "paragraph_id": 27,
           "text": "Nothing can destroy the protective barrier I created for Lucias child."
+        },
+        {
+          "id": 110,
+          "paragraph_id": 27,
+          "text": "The only two people in this world who could cause her to have a miscarriage are myself and her."
         },
         {
           "id": 111,
           "paragraph_id": 28,
-          "text": "The only two people in this world who could cause her to have a miscarriage are myself and her."
+          "text": "But Lucia doesnt have any self-awareness!"
         },
         {
           "id": 112,
           "paragraph_id": 29,
-          "text": "But Lucia doesnt have any self-awareness!"
-        },
-        {
-          "id": 113,
-          "paragraph_id": 30,
           "text": "Thats true."
         },
         {
-          "id": 114,
-          "paragraph_id": 30,
+          "id": 113,
+          "paragraph_id": 29,
           "text": "But this level of sparring wont harm her."
+        },
+        {
+          "id": 114,
+          "paragraph_id": 29,
+          "text": "Nevertheless, Lucia, do you have no other way of entertaining yourself other than sparring?"
         },
         {
           "id": 115,
           "paragraph_id": 30,
-          "text": "Nevertheless, Lucia, do you have no other way of entertaining yourself other than sparring?"
+          "text": "Vyvyan stroked Lucias head and chuckled in a soft tone."
         },
         {
           "id": 116,
           "paragraph_id": 31,
-          "text": "Vyvyan stroked Lucias head and chuckled in a soft tone."
+          "text": "Your Highness I I am sorry."
         },
         {
           "id": 117,
           "paragraph_id": 32,
-          "text": "Your Highness I I am sorry."
-        },
-        {
-          "id": 118,
-          "paragraph_id": 33,
           "text": "Lucia apologetically lowered her head."
         },
         {
-          "id": 119,
-          "paragraph_id": 33,
+          "id": 118,
+          "paragraph_id": 32,
           "text": "Vyvyan pursed her lips into a smile and then said, Lets go Lucia its time for you to head up and have your medicine Mm, I know that its very bitter, but its very good for your child."
         },
         {
-          "id": 120,
-          "paragraph_id": 33,
+          "id": 119,
+          "paragraph_id": 32,
           "text": "You dont have to be so adverse to it."
         },
         {
-          "id": 121,
-          "paragraph_id": 33,
+          "id": 120,
+          "paragraph_id": 32,
           "text": "Havent I always drunk it with you?"
         },
         {
-          "id": 122,
-          "paragraph_id": 33,
+          "id": 121,
+          "paragraph_id": 32,
           "text": "Lets go."
         },
         {
-          "id": 123,
-          "paragraph_id": 33,
+          "id": 122,
+          "paragraph_id": 32,
           "text": "Youre carrying my childs child, after all, arent you?"
         }
       ],
-      "word_count": 1425
+      "word_count": 1424
     },
     {
       "chapter_index": 349,
@@ -32270,7 +32252,7 @@
         "Do you think the trapped people will last until we come back?",
         "I sighed. I then stood up and pinched the map in my hand tightly. This was the tribes way of pleading for help. They handed over half of the map and kept the other half, so I must save them. I now understand why that group chased this kid. They were trying to snatch this half.",
         "Or maybe this was a deal with the tribe. Kill them and you wont get the complete map. That would explain why they chose to trap them in a siege, yet not harm them. After trapping them, they could obtain the complete map if they could strike up a deal.",
-        ";What should I do? Ive already obtained half of the map. Am I just going to return like this? If I return like this, I cant get the other half and this will just be a pointless piece of scrap paper.",
+        "; What should I do? Ive already obtained half of the map. Am I just going to return like this? If I return like this, I cant get the other half and this will just be a pointless piece of scrap paper.",
         "What do you want us to do then, Your Majesty?",
         "Let me have a think let me have a think. Call Lorana and Philes here. I need to have a think We cant be hasty about this I need to have a think about it."
       ],
@@ -32898,7 +32880,7 @@
         {
           "id": 124,
           "paragraph_id": 31,
-          "text": ";What should I do?"
+          "text": "; What should I do?"
         },
         {
           "id": 125,
@@ -32936,7 +32918,7 @@
           "text": "I need to have a think We cant be hasty about this I need to have a think about it."
         }
       ],
-      "word_count": 1438
+      "word_count": 1439
     }
   ]
 }

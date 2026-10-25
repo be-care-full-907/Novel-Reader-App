@@ -3537,7 +3537,6 @@
         "He wanted to meet Duke Fulvanius, his Grandfather.",
         "He had to talk to him about this incident.",
         "And he had to do it urgently.",
-        "...",
         "\"Did you know? Teacher Evane left the Academy.\"",
         "On the other side, Arvina walks into Nux's room and informed.",
         "\"Hmm? Of course, I do.\"",
@@ -3830,335 +3829,330 @@
         {
           "id": 48,
           "paragraph_id": 45,
-          "text": "..."
+          "text": "\"Did you know?"
         },
         {
           "id": 49,
-          "paragraph_id": 46,
-          "text": "\"Did you know?"
+          "paragraph_id": 45,
+          "text": "Teacher Evane left the Academy.\""
         },
         {
           "id": 50,
           "paragraph_id": 46,
-          "text": "Teacher Evane left the Academy.\""
+          "text": "On the other side, Arvina walks into Nux's room and informed."
         },
         {
           "id": 51,
           "paragraph_id": 47,
-          "text": "On the other side, Arvina walks into Nux's room and informed."
+          "text": "\"Hmm?"
         },
         {
           "id": 52,
-          "paragraph_id": 48,
-          "text": "\"Hmm?"
+          "paragraph_id": 47,
+          "text": "Of course, I do.\""
         },
         {
           "id": 53,
           "paragraph_id": 48,
-          "text": "Of course, I do.\""
+          "text": "Nux frowned."
         },
         {
           "id": 54,
           "paragraph_id": 49,
-          "text": "Nux frowned."
+          "text": "Why was she so surprised?"
         },
         {
           "id": 55,
           "paragraph_id": 50,
-          "text": "Why was she so surprised?"
+          "text": "He wondered inwardly."
         },
         {
           "id": 56,
           "paragraph_id": 51,
-          "text": "He wondered inwardly."
+          "text": "\"You know?\""
         },
         {
           "id": 57,
           "paragraph_id": 52,
-          "text": "\"You know?\""
+          "text": "Arvina raised her eyebrow."
         },
         {
           "id": 58,
           "paragraph_id": 53,
-          "text": "Arvina raised her eyebrow."
+          "text": "\"Of course I do."
         },
         {
           "id": 59,
-          "paragraph_id": 54,
-          "text": "\"Of course I do."
+          "paragraph_id": 53,
+          "text": "She is my wife after all, how could I not know?\""
         },
         {
           "id": 60,
           "paragraph_id": 54,
-          "text": "She is my wife after all, how could I not know?\""
+          "text": "\"What!?\""
         },
         {
           "id": 61,
           "paragraph_id": 55,
-          "text": "\"What!?\""
+          "text": "Arvina's eyes widened in surprise."
         },
         {
           "id": 62,
           "paragraph_id": 56,
-          "text": "Arvina's eyes widened in surprise."
-        },
-        {
-          "id": 63,
-          "paragraph_id": 57,
           "text": "\"Hmm?"
         },
         {
-          "id": 64,
-          "paragraph_id": 57,
+          "id": 63,
+          "paragraph_id": 56,
           "text": "What happened?"
+        },
+        {
+          "id": 64,
+          "paragraph_id": 56,
+          "text": "Why do you look so surprised, Teacher Arvina?\""
         },
         {
           "id": 65,
           "paragraph_id": 57,
-          "text": "Why do you look so surprised, Teacher Arvina?\""
+          "text": "Nux tilted his head in confusion."
         },
         {
           "id": 66,
           "paragraph_id": 58,
-          "text": "Nux tilted his head in confusion."
+          "text": "\"Teacher Evane is your wife!?\""
         },
         {
           "id": 67,
           "paragraph_id": 59,
-          "text": "\"Teacher Evane is your wife!?\""
+          "text": "Arvina, however, wasn't as calm as him."
         },
         {
           "id": 68,
           "paragraph_id": 60,
-          "text": "Arvina, however, wasn't as calm as him."
+          "text": "\"Hmm?"
         },
         {
           "id": 69,
-          "paragraph_id": 61,
-          "text": "\"Hmm?"
+          "paragraph_id": 60,
+          "text": "I thought you knew?\""
         },
         {
           "id": 70,
           "paragraph_id": 61,
-          "text": "I thought you knew?\""
+          "text": "Nux was still as confused as before."
         },
         {
           "id": 71,
           "paragraph_id": 62,
-          "text": "Nux was still as confused as before."
+          "text": "\"How would I know something like that!?\""
         },
         {
           "id": 72,
           "paragraph_id": 63,
-          "text": "\"How would I know something like that!?\""
-        },
-        {
-          "id": 73,
-          "paragraph_id": 64,
           "text": "\"Did you not notice how she was visiting us every night?"
         },
         {
-          "id": 74,
-          "paragraph_id": 64,
+          "id": 73,
+          "paragraph_id": 63,
           "text": "She was also there when I fought against Baldy."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 63,
+          "text": "I thought you already connected the dots.\""
         },
         {
           "id": 75,
           "paragraph_id": 64,
-          "text": "I thought you already connected the dots.\""
+          "text": "Nux replied."
         },
         {
           "id": 76,
           "paragraph_id": 65,
-          "text": "Nux replied."
+          "text": "\"I thought that she was just coming here to meet her student's wives!"
         },
         {
           "id": 77,
-          "paragraph_id": 66,
-          "text": "\"I thought that she was just coming here to meet her student's wives!"
+          "paragraph_id": 65,
+          "text": "The same thing happened with the Principal, I thought she was just here to help her student!\""
         },
         {
           "id": 78,
           "paragraph_id": 66,
-          "text": "The same thing happened with the Principal, I thought she was just here to help her student!\""
-        },
-        {
-          "id": 79,
-          "paragraph_id": 67,
           "text": "\"Hmm?"
         },
         {
-          "id": 80,
-          "paragraph_id": 67,
+          "id": 79,
+          "paragraph_id": 66,
           "text": "Then why would she visit us again and again if she just wanted to meet my wives?"
+        },
+        {
+          "id": 80,
+          "paragraph_id": 66,
+          "text": "Also, how would she help me deal with a King Stage Cultivator when she is only a Grand Master Stage Cultivator?\""
         },
         {
           "id": 81,
           "paragraph_id": 67,
-          "text": "Also, how would she help me deal with a King Stage Cultivator when she is only a Grand Master Stage Cultivator?\""
+          "text": "Nux questioned in confusion."
         },
         {
           "id": 82,
           "paragraph_id": 68,
-          "text": "Nux questioned in confusion."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 69,
           "text": "\"I was there as well wasn't I!?"
         },
         {
-          "id": 84,
-          "paragraph_id": 69,
+          "id": 83,
+          "paragraph_id": 68,
           "text": "I am also just an Expert Stage Cultivator!"
         },
         {
-          "id": 85,
-          "paragraph_id": 69,
+          "id": 84,
+          "paragraph_id": 68,
           "text": "Also, didn't I meet your wives multiple times, didn't I!?"
+        },
+        {
+          "id": 85,
+          "paragraph_id": 68,
+          "text": "Does that mean that I am your wife as well!?\""
         },
         {
           "id": 86,
           "paragraph_id": 69,
-          "text": "Does that mean that I am your wife as well!?\""
+          "text": "Arvina questioned back."
         },
         {
           "id": 87,
           "paragraph_id": 70,
-          "text": "Arvina questioned back."
+          "text": "'Well, I don't mind that at all."
         },
         {
           "id": 88,
-          "paragraph_id": 71,
-          "text": "'Well, I don't mind that at all."
+          "paragraph_id": 70,
+          "text": "I am actually looking forward to that day actually.'"
         },
         {
           "id": 89,
           "paragraph_id": 71,
-          "text": "I am actually looking forward to that day actually.'"
+          "text": "Nux wanted to say this out loud, however, he knew it wasn't the time yet."
         },
         {
           "id": 90,
           "paragraph_id": 72,
-          "text": "Nux wanted to say this out loud, however, he knew it wasn't the time yet."
+          "text": "Therefore, he held himself back and stepped back."
         },
         {
           "id": 91,
           "paragraph_id": 73,
-          "text": "Therefore, he held himself back and stepped back."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 74,
           "text": "\"I apologize, Teacher Arvina."
         },
         {
-          "id": 93,
-          "paragraph_id": 74,
+          "id": 92,
+          "paragraph_id": 73,
           "text": "I didn't think about it that way."
+        },
+        {
+          "id": 93,
+          "paragraph_id": 73,
+          "text": "I should have talked to you about this sooner.\""
         },
         {
           "id": 94,
           "paragraph_id": 74,
-          "text": "I should have talked to you about this sooner.\""
+          "text": "He admitted his mistake."
         },
         {
           "id": 95,
           "paragraph_id": 75,
-          "text": "He admitted his mistake."
+          "text": "\"Let me correct my mistake now, Teacher Arvina."
         },
         {
           "id": 96,
           "paragraph_id": 76,
-          "text": "\"Let me correct my mistake now, Teacher Arvina."
+          "text": "Yes, Evane is indeed my wife."
         },
         {
           "id": 97,
-          "paragraph_id": 77,
-          "text": "Yes, Evane is indeed my wife."
+          "paragraph_id": 76,
+          "text": "I fell in love with her when I first met her, then I proposed to her after I returned from the Woods Dynasty and luckily, she accepted.\""
         },
         {
           "id": 98,
           "paragraph_id": 77,
-          "text": "I fell in love with her when I first met her, then I proposed to her after I returned from the Woods Dynasty and luckily, she accepted.\""
+          "text": "\"S-She accepted.\""
         },
         {
           "id": 99,
           "paragraph_id": 78,
-          "text": "\"S-She accepted.\""
+          "text": "Arvina stuttered."
         },
         {
           "id": 100,
           "paragraph_id": 79,
-          "text": "Arvina stuttered."
+          "text": "She couldn't believe what she was hearing."
         },
         {
           "id": 101,
           "paragraph_id": 80,
-          "text": "She couldn't believe what she was hearing."
+          "text": "Evane, who was a Teacher just like her was in a relationship with her student..."
         },
         {
           "id": 102,
           "paragraph_id": 81,
-          "text": "Evane, who was a Teacher just like her was in a relationship with her student..."
+          "text": "\"H-H-How could you... she is your Teacher...\""
         },
         {
           "id": 103,
           "paragraph_id": 82,
-          "text": "\"H-H-How could you... she is your Teacher...\""
+          "text": "Arvina pointed her trembling finger at Nux and questioned."
         },
         {
           "id": 104,
           "paragraph_id": 83,
-          "text": "Arvina pointed her trembling finger at Nux and questioned."
+          "text": "\"Look, Teacher Arvina, I know it feels wrong, and I perfe-\""
         },
         {
           "id": 105,
           "paragraph_id": 84,
-          "text": "\"Look, Teacher Arvina, I know it feels wrong, and I perfe-\""
+          "text": "Nux wanted to explain things, however, suddenly,"
         },
         {
           "id": 106,
           "paragraph_id": 85,
-          "text": "Nux wanted to explain things, however, suddenly,"
+          "text": "*Knock* *Knock* *Knock*"
         },
         {
           "id": 107,
           "paragraph_id": 86,
-          "text": "*Knock* *Knock* *Knock*"
+          "text": "Suddenly, the two of them heard a knock."
         },
         {
           "id": 108,
           "paragraph_id": 87,
-          "text": "Suddenly, the two of them heard a knock."
+          "text": "Arvina frowned and walked towards the door, however, before she could, the door opened itself and a white-haired beauty walked in."
         },
         {
           "id": 109,
           "paragraph_id": 88,
-          "text": "Arvina frowned and walked towards the door, however, before she could, the door opened itself and a white-haired beauty walked in."
+          "text": "\"You weren't going to let me wait outside, were you?\""
         },
         {
           "id": 110,
           "paragraph_id": 89,
-          "text": "\"You weren't going to let me wait outside, were you?\""
+          "text": "The woman spoke and seeing the woman in front of her,"
         },
         {
           "id": 111,
           "paragraph_id": 90,
-          "text": "The woman spoke and seeing the woman in front of her,"
+          "text": "Arvina's eyes widened in horror."
         },
         {
           "id": 112,
           "paragraph_id": 91,
-          "text": "Arvina's eyes widened in horror."
-        },
-        {
-          "id": 113,
-          "paragraph_id": 92,
           "text": "\"A-A-Allura Skyfall!\""
         }
       ],
-      "word_count": 1043
+      "word_count": 1042
     },
     {
       "chapter_index": 407,
@@ -5870,7 +5864,6 @@
         "She didn't know what Nux would do right now.",
         "She just hopes that he doesn't do anything reckless.",
         "And... she hopes that... he is fine...",
-        "...",
         "\"Nux?\"",
         "Amaya frowned as Nux suddenly appeared in front of her. However, her frown soon turned into a smile.",
         "It was not the time yet but, why not?",
@@ -5940,7 +5933,6 @@
         "Arvina agreed with her words, therefore, she nodded and,",
         "\"He proposed to me.\"",
         "She started talking about everything that happened.",
-        "...",
         "10 minutes passed by and Arvina was done with her story.",
         "\"...\"",
         "The room turned silent.",
@@ -6131,402 +6123,402 @@
         {
           "id": 25,
           "paragraph_id": 25,
-          "text": "..."
+          "text": "\"Nux?\""
         },
         {
           "id": 26,
           "paragraph_id": 26,
-          "text": "\"Nux?\""
+          "text": "Amaya frowned as Nux suddenly appeared in front of her."
         },
         {
           "id": 27,
-          "paragraph_id": 27,
-          "text": "Amaya frowned as Nux suddenly appeared in front of her."
+          "paragraph_id": 26,
+          "text": "However, her frown soon turned into a smile."
         },
         {
           "id": 28,
           "paragraph_id": 27,
-          "text": "However, her frown soon turned into a smile."
+          "text": "It was not the time yet but, why not?"
         },
         {
           "id": 29,
           "paragraph_id": 28,
-          "text": "It was not the time yet but, why not?"
+          "text": "She was ready."
         },
         {
           "id": 30,
           "paragraph_id": 29,
-          "text": "She was ready."
+          "text": "However, as soon as he appeared, a veil of Dark Mist surrounded Nux's body."
         },
         {
           "id": 31,
-          "paragraph_id": 30,
-          "text": "However, as soon as he appeared, a veil of Dark Mist surrounded Nux's body."
+          "paragraph_id": 29,
+          "text": "Amaya frowned,"
         },
         {
           "id": 32,
           "paragraph_id": 30,
-          "text": "Amaya frowned,"
+          "text": "\"Nux?\""
         },
         {
           "id": 33,
           "paragraph_id": 31,
-          "text": "\"Nux?\""
+          "text": "She called out."
         },
         {
           "id": 34,
           "paragraph_id": 32,
-          "text": "She called out."
+          "text": "\"...\""
         },
         {
           "id": 35,
           "paragraph_id": 33,
-          "text": "\"...\""
+          "text": "However, there was no answer."
         },
         {
           "id": 36,
           "paragraph_id": 34,
-          "text": "However, there was no answer."
+          "text": "Amaya's frown deepened."
         },
         {
           "id": 37,
           "paragraph_id": 35,
-          "text": "Amaya's frown deepened."
+          "text": "She then used her [Sense] and realized."
         },
         {
           "id": 38,
           "paragraph_id": 36,
-          "text": "She then used her [Sense] and realized."
+          "text": "Nux was not there."
         },
         {
           "id": 39,
           "paragraph_id": 37,
-          "text": "Nux was not there."
+          "text": "He..."
         },
         {
           "id": 40,
           "paragraph_id": 38,
-          "text": "He..."
+          "text": "He used the Devouring Mist as a cover to move out of her sight, then, he activated his [Conceal] and disappeared."
         },
         {
           "id": 41,
           "paragraph_id": 39,
-          "text": "He used the Devouring Mist as a cover to move out of her sight, then, he activated his [Conceal] and disappeared."
+          "text": "A genius idea that Amaya would normally appreciate, however, right now, she could feel that talking to Nux was more important."
         },
         {
           "id": 42,
           "paragraph_id": 40,
-          "text": "A genius idea that Amaya would normally appreciate, however, right now, she could feel that talking to Nux was more important."
+          "text": "'Nux?'"
         },
         {
           "id": 43,
           "paragraph_id": 41,
-          "text": "'Nux?'"
+          "text": "She called using her connection."
         },
         {
           "id": 44,
           "paragraph_id": 42,
-          "text": "She called using her connection."
+          "text": "'I will talk to you later, Love."
         },
         {
           "id": 45,
-          "paragraph_id": 43,
-          "text": "'I will talk to you later, Love."
+          "paragraph_id": 42,
+          "text": "I am a bit busy now.'"
         },
         {
           "id": 46,
           "paragraph_id": 43,
-          "text": "I am a bit busy now.'"
+          "text": "She then heard Nux's calm voice."
         },
         {
           "id": 47,
           "paragraph_id": 44,
-          "text": "She then heard Nux's calm voice."
+          "text": "'But you just here.'"
         },
         {
           "id": 48,
           "paragraph_id": 45,
-          "text": "'But you just here.'"
+          "text": "'Yes, I needed to go somewhere, the Royal Palace was close, so I used the Harem's Gate.'"
         },
         {
           "id": 49,
           "paragraph_id": 46,
-          "text": "'Yes, I needed to go somewhere, the Royal Palace was close, so I used the Harem's Gate.'"
+          "text": "'But why did you hide?'"
         },
         {
           "id": 50,
           "paragraph_id": 47,
-          "text": "'But why did you hide?'"
+          "text": "Amaya questioned."
         },
         {
           "id": 51,
           "paragraph_id": 48,
-          "text": "Amaya questioned."
+          "text": "'I was in rush,"
         },
         {
           "id": 52,
           "paragraph_id": 49,
-          "text": "'I was in rush,"
+          "text": "I hope you understand.'"
         },
         {
           "id": 53,
           "paragraph_id": 50,
-          "text": "I hope you understand.'"
+          "text": "Nux replied."
         },
         {
           "id": 54,
           "paragraph_id": 51,
-          "text": "Nux replied."
+          "text": "'Alright...'"
         },
         {
           "id": 55,
           "paragraph_id": 52,
-          "text": "'Alright...'"
+          "text": "Amaya nodded in understanding."
         },
         {
           "id": 56,
           "paragraph_id": 53,
-          "text": "Amaya nodded in understanding."
+          "text": "'You are the best.'"
         },
         {
           "id": 57,
           "paragraph_id": 54,
-          "text": "'You are the best.'"
+          "text": "Nux smiled cheerfully."
         },
         {
           "id": 58,
           "paragraph_id": 55,
-          "text": "Nux smiled cheerfully."
+          "text": "'Of course I am.'"
         },
         {
           "id": 59,
           "paragraph_id": 56,
-          "text": "'Of course I am.'"
+          "text": "Amaya smiled back."
         },
         {
           "id": 60,
           "paragraph_id": 57,
-          "text": "Amaya smiled back."
+          "text": "A minute later, her smile disappeared."
         },
         {
           "id": 61,
           "paragraph_id": 58,
-          "text": "A minute later, her smile disappeared."
+          "text": "She could feel it, something was wrong."
         },
         {
           "id": 62,
           "paragraph_id": 59,
-          "text": "She could feel it, something was wrong."
+          "text": "Though he didn't sound like it, for some reason, Amaya knew something was wrong with him."
         },
         {
           "id": 63,
           "paragraph_id": 60,
-          "text": "Though he didn't sound like it, for some reason, Amaya knew something was wrong with him."
+          "text": "'Did something happen?'"
         },
         {
           "id": 64,
           "paragraph_id": 61,
-          "text": "'Did something happen?'"
+          "text": "Therefore, she contacted her sisters."
         },
         {
           "id": 65,
           "paragraph_id": 62,
-          "text": "Therefore, she contacted her sisters."
+          "text": "'Hmm?"
         },
         {
           "id": 66,
-          "paragraph_id": 63,
-          "text": "'Hmm?"
+          "paragraph_id": 62,
+          "text": "What do you mean?'"
         },
         {
           "id": 67,
           "paragraph_id": 63,
-          "text": "What do you mean?'"
+          "text": "Felberta questioned."
         },
         {
           "id": 68,
           "paragraph_id": 64,
-          "text": "Felberta questioned."
+          "text": "'With Nux, I mean."
         },
         {
           "id": 69,
-          "paragraph_id": 65,
-          "text": "'With Nux, I mean."
+          "paragraph_id": 64,
+          "text": "Did something happen there?'"
         },
         {
           "id": 70,
           "paragraph_id": 65,
-          "text": "Did something happen there?'"
-        },
-        {
-          "id": 71,
-          "paragraph_id": 66,
           "text": "'Hmm?"
         },
         {
-          "id": 72,
-          "paragraph_id": 66,
+          "id": 71,
+          "paragraph_id": 65,
           "text": "With Nux, nothing."
         },
         {
-          "id": 73,
-          "paragraph_id": 66,
+          "id": 72,
+          "paragraph_id": 65,
           "text": "Why?"
+        },
+        {
+          "id": 73,
+          "paragraph_id": 65,
+          "text": "What happened?'"
         },
         {
           "id": 74,
           "paragraph_id": 66,
-          "text": "What happened?'"
+          "text": "Seeing her seriousness, Felberta didn't joke around and questioned."
         },
         {
           "id": 75,
           "paragraph_id": 67,
-          "text": "Seeing her seriousness, Felberta didn't joke around and questioned."
+          "text": "'He looks... sad...'"
         },
         {
           "id": 76,
           "paragraph_id": 68,
-          "text": "'He looks... sad...'"
+          "text": "Amaya then told them everything that happened, however, since none of the women were there, they couldn't understand what Amaya was talking about."
         },
         {
           "id": 77,
           "paragraph_id": 69,
-          "text": "Amaya then told them everything that happened, however, since none of the women were there, they couldn't understand what Amaya was talking about."
+          "text": "'Wait...'"
         },
         {
           "id": 78,
           "paragraph_id": 70,
-          "text": "'Wait...'"
+          "text": "Suddenly, Allura spoke."
         },
         {
           "id": 79,
           "paragraph_id": 71,
-          "text": "Suddenly, Allura spoke."
+          "text": "'He was with Arvina 10 minutes ago.'"
         },
         {
           "id": 80,
           "paragraph_id": 72,
-          "text": "'He was with Arvina 10 minutes ago.'"
+          "text": "'I will talk to Arvina, she would know about it if something actually happened to him.'"
         },
         {
           "id": 81,
           "paragraph_id": 73,
-          "text": "'I will talk to Arvina, she would know about it if something actually happened to him.'"
+          "text": "Ember spoke."
         },
         {
           "id": 82,
           "paragraph_id": 74,
-          "text": "Ember spoke."
+          "text": "The others nodded, Ember nodded back and walked towards her door."
         },
         {
           "id": 83,
           "paragraph_id": 75,
-          "text": "The others nodded, Ember nodded back and walked towards her door."
+          "text": "However, before she could touch the door, the door opened and Arvina walked in."
         },
         {
           "id": 84,
           "paragraph_id": 76,
-          "text": "However, before she could touch the door, the door opened and Arvina walked in."
+          "text": "\"There is a problem.\""
         },
         {
           "id": 85,
           "paragraph_id": 77,
-          "text": "\"There is a problem.\""
+          "text": "Arvina spoke."
         },
         {
           "id": 86,
           "paragraph_id": 78,
-          "text": "Arvina spoke."
+          "text": "\"What happened?\""
         },
         {
           "id": 87,
           "paragraph_id": 79,
-          "text": "\"What happened?\""
+          "text": "Ember frowned."
         },
         {
           "id": 88,
           "paragraph_id": 80,
-          "text": "Ember frowned."
+          "text": "\"Nux disappeared.\""
         },
         {
           "id": 89,
           "paragraph_id": 81,
-          "text": "\"Nux disappeared.\""
+          "text": "\"Huh?\""
         },
         {
           "id": 90,
           "paragraph_id": 82,
-          "text": "\"Huh?\""
+          "text": "Ember's frown deepened, however, she soon realized that Nux must have used Harem Gate and calmed down a little."
         },
         {
           "id": 91,
           "paragraph_id": 83,
-          "text": "Ember's frown deepened, however, she soon realized that Nux must have used Harem Gate and calmed down a little."
+          "text": "\"What happened?\""
         },
         {
           "id": 92,
           "paragraph_id": 84,
-          "text": "\"What happened?\""
+          "text": "She questioned."
         },
         {
           "id": 93,
           "paragraph_id": 85,
-          "text": "She questioned."
+          "text": "At the same time, the rest of the women except Amaya and Evane walked into Ember's room and questioned."
         },
         {
           "id": 94,
           "paragraph_id": 86,
-          "text": "At the same time, the rest of the women except Amaya and Evane walked into Ember's room and questioned."
+          "text": "\"What happened?\""
         },
         {
           "id": 95,
           "paragraph_id": 87,
-          "text": "\"What happened?\""
+          "text": "\"W-Why are you all here?\""
         },
         {
           "id": 96,
           "paragraph_id": 88,
-          "text": "\"W-Why are you all here?\""
+          "text": "Arvina couldn't help but ask."
         },
         {
           "id": 97,
           "paragraph_id": 89,
-          "text": "Arvina couldn't help but ask."
+          "text": "\"That is not important right now, tell us, what happened?\""
         },
         {
           "id": 98,
           "paragraph_id": 90,
-          "text": "\"That is not important right now, tell us, what happened?\""
+          "text": "Thyra spoke."
         },
         {
           "id": 99,
           "paragraph_id": 91,
-          "text": "Thyra spoke."
+          "text": "Arvina agreed with her words, therefore, she nodded and,"
         },
         {
           "id": 100,
           "paragraph_id": 92,
-          "text": "Arvina agreed with her words, therefore, she nodded and,"
+          "text": "\"He proposed to me.\""
         },
         {
           "id": 101,
           "paragraph_id": 93,
-          "text": "\"He proposed to me.\""
+          "text": "She started talking about everything that happened."
         },
         {
           "id": 102,
           "paragraph_id": 94,
-          "text": "She started talking about everything that happened."
+          "text": "10 minutes passed by and Arvina was done with her story."
         },
         {
           "id": 103,
           "paragraph_id": 95,
-          "text": "..."
+          "text": "\"...\""
         },
         {
           "id": 104,
           "paragraph_id": 96,
-          "text": "10 minutes passed by and Arvina was done with her story."
+          "text": "The room turned silent."
         },
         {
           "id": 105,
@@ -6536,350 +6528,340 @@
         {
           "id": 106,
           "paragraph_id": 98,
-          "text": "The room turned silent."
+          "text": "Arvina was silent as well."
         },
         {
           "id": 107,
           "paragraph_id": 99,
-          "text": "\"...\""
+          "text": "Her worry was clear with how she was sweating and how pale her face was."
         },
         {
           "id": 108,
           "paragraph_id": 100,
-          "text": "Arvina was silent as well."
+          "text": "She really was very worried about her student."
         },
         {
           "id": 109,
           "paragraph_id": 101,
-          "text": "Her worry was clear with how she was sweating and how pale her face was."
+          "text": "However, Ember... she was thinking about a completely different thing."
         },
         {
           "id": 110,
           "paragraph_id": 102,
-          "text": "She really was very worried about her student."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 103,
-          "text": "However, Ember... she was thinking about a completely different thing."
-        },
-        {
-          "id": 112,
-          "paragraph_id": 104,
           "text": "\"You really rejected him..."
         },
         {
-          "id": 113,
-          "paragraph_id": 104,
+          "id": 111,
+          "paragraph_id": 102,
           "text": "Arv, I am amazed."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 102,
+          "text": "I never thought a woman could reject a man like Nux.\""
+        },
+        {
+          "id": 113,
+          "paragraph_id": 103,
+          "text": "\"I agree.\""
         },
         {
           "id": 114,
           "paragraph_id": 104,
-          "text": "I never thought a woman could reject a man like Nux.\""
+          "text": "Felberta nodded."
         },
         {
           "id": 115,
           "paragraph_id": 105,
-          "text": "\"I agree.\""
+          "text": "\"It is surprising indeed.\""
         },
         {
           "id": 116,
           "paragraph_id": 106,
-          "text": "Felberta nodded."
+          "text": "Thyra nodded her head as well."
         },
         {
           "id": 117,
           "paragraph_id": 107,
-          "text": "\"It is surprising indeed.\""
+          "text": "\"Teacher Arvina, you are... amazing..."
         },
         {
           "id": 118,
-          "paragraph_id": 108,
-          "text": "Thyra nodded her head as well."
+          "paragraph_id": 107,
+          "text": "You managed to resist Nux's Charm.\""
         },
         {
           "id": 119,
-          "paragraph_id": 109,
-          "text": "\"Teacher Arvina, you are... amazing..."
+          "paragraph_id": 108,
+          "text": "Skyla was amazed."
         },
         {
           "id": 120,
           "paragraph_id": 109,
-          "text": "You managed to resist Nux's Charm.\""
+          "text": "This time, she didn't even call her 'Sister'."
         },
         {
           "id": 121,
           "paragraph_id": 110,
-          "text": "Skyla was amazed."
+          "text": "She was just that impressed."
         },
         {
           "id": 122,
           "paragraph_id": 111,
-          "text": "This time, she didn't even call her 'Sister'."
+          "text": "The others had the same reaction."
         },
         {
           "id": 123,
           "paragraph_id": 112,
-          "text": "She was just that impressed."
+          "text": "And seeing that, Arvina couldn't help but shout."
         },
         {
           "id": 124,
           "paragraph_id": 113,
-          "text": "The others had the same reaction."
-        },
-        {
-          "id": 125,
-          "paragraph_id": 114,
-          "text": "And seeing that, Arvina couldn't help but shout."
-        },
-        {
-          "id": 126,
-          "paragraph_id": 115,
           "text": "\"What are you guys talking about!?"
         },
         {
-          "id": 127,
-          "paragraph_id": 115,
+          "id": 125,
+          "paragraph_id": 113,
           "text": "Why are you praising me!?"
         },
         {
-          "id": 128,
-          "paragraph_id": 115,
+          "id": 126,
+          "paragraph_id": 113,
           "text": "Shouldn't you be worried about Nux!?"
         },
         {
-          "id": 129,
-          "paragraph_id": 115,
+          "id": 127,
+          "paragraph_id": 113,
           "text": "He is not emotionally stable right now."
         },
         {
-          "id": 130,
-          "paragraph_id": 115,
+          "id": 128,
+          "paragraph_id": 113,
           "text": "What if he does something reckless!?"
         },
         {
-          "id": 131,
-          "paragraph_id": 115,
+          "id": 129,
+          "paragraph_id": 113,
           "text": "Aren't you guys worried!?\""
         },
         {
-          "id": 132,
-          "paragraph_id": 116,
+          "id": 130,
+          "paragraph_id": 114,
           "text": "\"Huh?"
+        },
+        {
+          "id": 131,
+          "paragraph_id": 114,
+          "text": "What are you talking about?\""
+        },
+        {
+          "id": 132,
+          "paragraph_id": 115,
+          "text": "To Arvina's sudden outburst, Ember just replied with a small frown."
         },
         {
           "id": 133,
           "paragraph_id": 116,
-          "text": "What are you talking about?\""
+          "text": "\"W-What?\""
         },
         {
           "id": 134,
           "paragraph_id": 117,
-          "text": "To Arvina's sudden outburst, Ember just replied with a small frown."
+          "text": "Arvina was taken aback."
         },
         {
           "id": 135,
           "paragraph_id": 118,
-          "text": "\"W-What?\""
+          "text": "\"Look, I know Nux is your student, so there is a chance that you see him as a child, however, you have to understand that he is not a child."
         },
         {
           "id": 136,
           "paragraph_id": 119,
-          "text": "Arvina was taken aback."
+          "text": "He is mature enough to hold himself back."
         },
         {
           "id": 137,
           "paragraph_id": 120,
-          "text": "\"Look, I know Nux is your student, so there is a chance that you see him as a child, however, you have to understand that he is not a child."
+          "text": "What do you mean by 'he would do something reckless?'"
         },
         {
           "id": 138,
           "paragraph_id": 121,
-          "text": "He is mature enough to hold himself back."
+          "text": "He is not stupid."
         },
         {
           "id": 139,
           "paragraph_id": 122,
-          "text": "What do you mean by 'he would do something reckless?'"
+          "text": "He knows how to control himself."
         },
         {
           "id": 140,
           "paragraph_id": 123,
-          "text": "He is not stupid."
+          "text": "He just needs some time."
         },
         {
           "id": 141,
           "paragraph_id": 124,
-          "text": "He knows how to control himself."
+          "text": "It is the first time he got rejected by the woman he loved, after all.\""
         },
         {
           "id": 142,
           "paragraph_id": 125,
-          "text": "He just needs some time."
+          "text": "Ember smiled a little."
         },
         {
           "id": 143,
           "paragraph_id": 126,
-          "text": "It is the first time he got rejected by the woman he loved, after all.\""
+          "text": "\"Y-You knew about it?\""
         },
         {
           "id": 144,
           "paragraph_id": 127,
-          "text": "Ember smiled a little."
+          "text": "Arvina questioned."
         },
         {
           "id": 145,
           "paragraph_id": 128,
-          "text": "\"Y-You knew about it?\""
+          "text": "\"Why do you think Skyla was calling you Sister?\""
         },
         {
           "id": 146,
           "paragraph_id": 129,
-          "text": "Arvina questioned."
+          "text": "Ember questioned back."
         },
         {
           "id": 147,
           "paragraph_id": 130,
-          "text": "\"Why do you think Skyla was calling you Sister?\""
+          "text": "Arvina then looked at Skyla, who just smiled foolishly."
         },
         {
           "id": 148,
           "paragraph_id": 131,
-          "text": "Ember questioned back."
+          "text": "\"You all knew about it?\""
         },
         {
           "id": 149,
           "paragraph_id": 132,
-          "text": "Arvina then looked at Skyla, who just smiled foolishly."
+          "text": "Arvina couldn't believe it."
         },
         {
           "id": 150,
           "paragraph_id": 133,
-          "text": "\"You all knew about it?\""
+          "text": "Felberta smiled,"
         },
         {
           "id": 151,
           "paragraph_id": 134,
-          "text": "Arvina couldn't believe it."
+          "text": "\"Well, he has been talking about you from the day he fought with that Candice girl.\""
         },
         {
           "id": 152,
           "paragraph_id": 135,
-          "text": "Felberta smiled,"
+          "text": "\"That's when...\""
         },
         {
           "id": 153,
           "paragraph_id": 136,
-          "text": "\"Well, he has been talking about you from the day he fought with that Candice girl.\""
+          "text": "\"Yep, when you first met him.\""
         },
         {
           "id": 154,
           "paragraph_id": 137,
-          "text": "\"That's when...\""
+          "text": "\"He...\""
         },
         {
           "id": 155,
           "paragraph_id": 138,
-          "text": "\"Yep, when you first met him.\""
+          "text": "\"Well, it wasn't really love at first sight, unlike my case.\""
         },
         {
           "id": 156,
           "paragraph_id": 139,
-          "text": "\"He...\""
+          "text": "Felberta first asserted her dominance as she placed her one leg on top of another and then, she continued,"
         },
         {
           "id": 157,
           "paragraph_id": 140,
-          "text": "\"Well, it wasn't really love at first sight, unlike my case.\""
+          "text": "\"But yes, he did fall in love with you after spending some time with you.\""
         },
         {
           "id": 158,
           "paragraph_id": 141,
-          "text": "Felberta first asserted her dominance as she placed her one leg on top of another and then, she continued,"
+          "text": "\"...\""
         },
         {
           "id": 159,
           "paragraph_id": 142,
-          "text": "\"But yes, he did fall in love with you after spending some time with you.\""
+          "text": "Arvina didn't know what to say."
         },
         {
           "id": 160,
           "paragraph_id": 143,
-          "text": "\"...\""
+          "text": "\"Oh, don't take it as if we are trying to convince you or something.\""
         },
         {
           "id": 161,
           "paragraph_id": 144,
-          "text": "Arvina didn't know what to say."
+          "text": "Suddenly, Felberta spoke."
         },
         {
           "id": 162,
           "paragraph_id": 145,
-          "text": "\"Oh, don't take it as if we are trying to convince you or something.\""
+          "text": "\"Hmm?"
         },
         {
           "id": 163,
-          "paragraph_id": 146,
-          "text": "Suddenly, Felberta spoke."
+          "paragraph_id": 145,
+          "text": "What do you mean?\""
         },
         {
           "id": 164,
-          "paragraph_id": 147,
-          "text": "\"Hmm?"
+          "paragraph_id": 146,
+          "text": "Arvina frowned."
         },
         {
           "id": 165,
           "paragraph_id": 147,
-          "text": "What do you mean?\""
+          "text": "\"Mhm, I know Nux, he will respect your feelings, so you don't have to change yourself because you are worried about him."
         },
         {
           "id": 166,
           "paragraph_id": 148,
-          "text": "Arvina frowned."
+          "text": "He will come back, don't worry.\""
         },
         {
           "id": 167,
           "paragraph_id": 149,
-          "text": "\"Mhm, I know Nux, he will respect your feelings, so you don't have to change yourself because you are worried about him."
+          "text": "Felberta explained."
         },
         {
           "id": 168,
           "paragraph_id": 150,
-          "text": "He will come back, don't worry.\""
+          "text": "\"Mhm, he is a strong man, after all.\""
         },
         {
           "id": 169,
           "paragraph_id": 151,
-          "text": "Felberta explained."
+          "text": "Ember smiled."
         },
         {
           "id": 170,
-          "paragraph_id": 152,
-          "text": "\"Mhm, he is a strong man, after all.\""
+          "paragraph_id": 151,
+          "text": "Then, she looked at Arvina and her smile widened,"
         },
         {
           "id": 171,
-          "paragraph_id": 153,
-          "text": "Ember smiled."
+          "paragraph_id": 152,
+          "text": "'Just make sure you are not trying to fool yourself.'"
         },
         {
           "id": 172,
           "paragraph_id": 153,
-          "text": "Then, she looked at Arvina and her smile widened,"
-        },
-        {
-          "id": 173,
-          "paragraph_id": 154,
-          "text": "'Just make sure you are not trying to fool yourself.'"
-        },
-        {
-          "id": 174,
-          "paragraph_id": 155,
           "text": "Of course, she didn't say those words out loud."
         }
       ],
-      "word_count": 1120
+      "word_count": 1118
     },
     {
       "chapter_index": 410,
@@ -7846,7 +7828,6 @@
         "Amaya muttered.",
         "'Hmm?'",
         "This gained everyone's attention and soon, everyone forgot about Arvina.",
-        "...",
         "\"Your Majesty,\"",
         "Keeve kneeled.",
         "\"You are back.\"",
@@ -8123,420 +8104,415 @@
         {
           "id": 40,
           "paragraph_id": 34,
-          "text": "..."
+          "text": "\"Your Majesty,\""
         },
         {
           "id": 41,
           "paragraph_id": 35,
-          "text": "\"Your Majesty,\""
+          "text": "Keeve kneeled."
         },
         {
           "id": 42,
           "paragraph_id": 36,
-          "text": "Keeve kneeled."
+          "text": "\"You are back.\""
         },
         {
           "id": 43,
           "paragraph_id": 37,
-          "text": "\"You are back.\""
+          "text": "Ricardus spoke."
         },
         {
           "id": 44,
           "paragraph_id": 38,
-          "text": "Ricardus spoke."
+          "text": "\"Yes, Your Majesty.\""
         },
         {
           "id": 45,
           "paragraph_id": 39,
-          "text": "\"Yes, Your Majesty.\""
+          "text": "\"So?"
         },
         {
           "id": 46,
-          "paragraph_id": 40,
-          "text": "\"So?"
+          "paragraph_id": 39,
+          "text": "Did you find anything?\" The King questioned."
         },
         {
           "id": 47,
           "paragraph_id": 40,
-          "text": "Did you find anything?\" The King questioned."
+          "text": "\"Yes, I did.\""
         },
         {
           "id": 48,
           "paragraph_id": 41,
-          "text": "\"Yes, I did.\""
+          "text": "Keeve nodded."
         },
         {
           "id": 49,
           "paragraph_id": 42,
-          "text": "Keeve nodded."
+          "text": "A smile appeared on The King's face."
         },
         {
           "id": 50,
           "paragraph_id": 43,
-          "text": "A smile appeared on The King's face."
+          "text": "\"Finally some good news.\""
         },
         {
           "id": 51,
           "paragraph_id": 44,
-          "text": "\"Finally some good news.\""
+          "text": "\"I would not say so, Your Majesty.\""
         },
         {
           "id": 52,
           "paragraph_id": 45,
-          "text": "\"I would not say so, Your Majesty.\""
+          "text": "Keeve, however, didn't allow him to stay happy for a long time."
         },
         {
           "id": 53,
           "paragraph_id": 46,
-          "text": "Keeve, however, didn't allow him to stay happy for a long time."
+          "text": "\"What happened?\""
         },
         {
           "id": 54,
           "paragraph_id": 47,
-          "text": "\"What happened?\""
+          "text": "The King narrowed his eyes."
         },
         {
           "id": 55,
           "paragraph_id": 48,
-          "text": "The King narrowed his eyes."
+          "text": "\"The Solid Earth Kingdom just attacked the Deathspike Fort and... the War ended in just 10 minutes.\""
         },
         {
           "id": 56,
           "paragraph_id": 49,
-          "text": "\"The Solid Earth Kingdom just attacked the Deathspike Fort and... the War ended in just 10 minutes.\""
+          "text": "\"WHAT!?\""
         },
         {
           "id": 57,
           "paragraph_id": 50,
-          "text": "\"WHAT!?\""
+          "text": "The King and the Ministers who were hearing the report shouted in disbelief."
         },
         {
           "id": 58,
           "paragraph_id": 51,
-          "text": "The King and the Ministers who were hearing the report shouted in disbelief."
-        },
-        {
-          "id": 59,
-          "paragraph_id": 52,
           "text": "\"Yes."
         },
         {
-          "id": 60,
-          "paragraph_id": 52,
+          "id": 59,
+          "paragraph_id": 51,
           "text": "The General of the Woods Army barely ran away, however, he is in critical condition."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 51,
+          "text": "From what I have heard, he won't be back to normal for the next 5-10 years.\""
         },
         {
           "id": 61,
           "paragraph_id": 52,
-          "text": "From what I have heard, he won't be back to normal for the next 5-10 years.\""
+          "text": "\"...how did this happen?\""
         },
         {
           "id": 62,
           "paragraph_id": 53,
-          "text": "\"...how did this happen?\""
+          "text": "The King questioned with a solemn look on his face."
         },
         {
           "id": 63,
           "paragraph_id": 54,
-          "text": "The King questioned with a solemn look on his face."
+          "text": "\"There were 3 King Stage Cultivators on the Solid Earth Kingdom's side.\""
         },
         {
           "id": 64,
           "paragraph_id": 55,
-          "text": "\"There were 3 King Stage Cultivators on the Solid Earth Kingdom's side.\""
-        },
-        {
-          "id": 65,
-          "paragraph_id": 56,
           "text": "\"What?"
         },
         {
-          "id": 66,
-          "paragraph_id": 56,
+          "id": 65,
+          "paragraph_id": 55,
           "text": "How is that possible?"
+        },
+        {
+          "id": 66,
+          "paragraph_id": 55,
+          "text": "Did the Dukes join the war?\""
         },
         {
           "id": 67,
           "paragraph_id": 56,
-          "text": "Did the Dukes join the war?\""
+          "text": "\"All the Generals had covered their faces with masks, so no one knew their identity.\""
         },
         {
           "id": 68,
           "paragraph_id": 57,
-          "text": "\"All the Generals had covered their faces with masks, so no one knew their identity.\""
+          "text": "Keeve reported and then, he spoke his thoughts."
         },
         {
           "id": 69,
           "paragraph_id": 58,
-          "text": "Keeve reported and then, he spoke his thoughts."
+          "text": "\"I do not think they were the Dukes.\""
         },
         {
           "id": 70,
           "paragraph_id": 59,
-          "text": "\"I do not think they were the Dukes.\""
+          "text": "\"Then who were they?\""
         },
         {
           "id": 71,
           "paragraph_id": 60,
-          "text": "\"Then who were they?\""
+          "text": "The King questioned."
         },
         {
           "id": 72,
           "paragraph_id": 61,
-          "text": "The King questioned."
+          "text": "\"I do not know, however, if they were the Dukes, I don't think they would cover their faces like that."
         },
         {
           "id": 73,
-          "paragraph_id": 62,
-          "text": "\"I do not know, however, if they were the Dukes, I don't think they would cover their faces like that."
+          "paragraph_id": 61,
+          "text": "Just think of those old geezers, do you really think those greedy bastards would cover their faces when they are fighting the War for the Kingdom?\""
         },
         {
           "id": 74,
           "paragraph_id": 62,
-          "text": "Just think of those old geezers, do you really think those greedy bastards would cover their faces when they are fighting the War for the Kingdom?\""
+          "text": "Hearing those words, the King nodded."
         },
         {
           "id": 75,
           "paragraph_id": 63,
-          "text": "Hearing those words, the King nodded."
+          "text": "\"Yes, those geezers would make sure the entire world knows that they are participating in the War.\""
         },
         {
           "id": 76,
           "paragraph_id": 64,
-          "text": "\"Yes, those geezers would make sure the entire world knows that they are participating in the War.\""
+          "text": "\"...\""
         },
         {
           "id": 77,
           "paragraph_id": 65,
-          "text": "\"...\""
+          "text": "Hearing these words, the Ministers turned silent and averted their eyes."
         },
         {
           "id": 78,
           "paragraph_id": 66,
-          "text": "Hearing these words, the Ministers turned silent and averted their eyes."
+          "text": "They knew better than anyone that whatever the King and Keeve were talking about was true."
         },
         {
           "id": 79,
-          "paragraph_id": 67,
-          "text": "They knew better than anyone that whatever the King and Keeve were talking about was true."
+          "paragraph_id": 66,
+          "text": "However, they did not like the fact that Keeve, a mere servant was using words like Bastards for their Protectors."
         },
         {
           "id": 80,
           "paragraph_id": 67,
-          "text": "However, they did not like the fact that Keeve, a mere servant was using words like Bastards for their Protectors."
+          "text": "Of course, they wouldn't show their opposition directly."
         },
         {
           "id": 81,
           "paragraph_id": 68,
-          "text": "Of course, they wouldn't show their opposition directly."
+          "text": "Servant or not, Keeve was a King Stage Cultivator."
         },
         {
           "id": 82,
           "paragraph_id": 69,
-          "text": "Servant or not, Keeve was a King Stage Cultivator."
+          "text": "He is at a stage where even though he is just a commoner, nobles would still have to bow their heads in front of him."
         },
         {
           "id": 83,
           "paragraph_id": 70,
-          "text": "He is at a stage where even though he is just a commoner, nobles would still have to bow their heads in front of him."
+          "text": "\"I don't get it, why is the Woods Dynasty losing this war bad for us?\""
         },
         {
           "id": 84,
           "paragraph_id": 71,
-          "text": "\"I don't get it, why is the Woods Dynasty losing this war bad for us?\""
+          "text": "One of the ministers questioned."
         },
         {
           "id": 85,
           "paragraph_id": 72,
-          "text": "One of the ministers questioned."
+          "text": "\"I was coming to that.\""
         },
         {
           "id": 86,
           "paragraph_id": 73,
-          "text": "\"I was coming to that.\""
+          "text": "Keeve nodded and then, he started explaining."
         },
         {
           "id": 87,
           "paragraph_id": 74,
-          "text": "Keeve nodded and then, he started explaining."
+          "text": "\"First, these 3 Mysterious King Stage Cultivators, we don't have any idea who they are."
         },
         {
           "id": 88,
-          "paragraph_id": 75,
-          "text": "\"First, these 3 Mysterious King Stage Cultivators, we don't have any idea who they are."
+          "paragraph_id": 74,
+          "text": "Well, they could be Part of the Kingdom's private forces, so that's not the problem."
         },
         {
           "id": 89,
           "paragraph_id": 75,
-          "text": "Well, they could be Part of the Kingdom's private forces, so that's not the problem."
+          "text": "The real problem is the Woods Dynasty.\""
         },
         {
           "id": 90,
           "paragraph_id": 76,
-          "text": "The real problem is the Woods Dynasty.\""
+          "text": "\"Why is that?\""
         },
         {
           "id": 91,
           "paragraph_id": 77,
-          "text": "\"Why is that?\""
+          "text": "The King questioned."
         },
         {
           "id": 92,
           "paragraph_id": 78,
-          "text": "The King questioned."
+          "text": "\"When I arrived there, they treated me well and answered all of my questions in detail."
         },
         {
           "id": 93,
-          "paragraph_id": 79,
-          "text": "\"When I arrived there, they treated me well and answered all of my questions in detail."
+          "paragraph_id": 78,
+          "text": "They even told me about how they will react in this bad situation and their next plans."
         },
         {
           "id": 94,
           "paragraph_id": 79,
-          "text": "They even told me about how they will react in this bad situation and their next plans."
+          "text": "However, when I talked about General Ember..."
         },
         {
           "id": 95,
           "paragraph_id": 80,
-          "text": "However, when I talked about General Ember..."
+          "text": "The Dynast turned silent and tried to avoid the topic."
         },
         {
           "id": 96,
           "paragraph_id": 81,
-          "text": "The Dynast turned silent and tried to avoid the topic."
+          "text": "He was... strangely silent about this matter."
         },
         {
           "id": 97,
           "paragraph_id": 82,
-          "text": "He was... strangely silent about this matter."
+          "text": "Not only that, he even order a few of his men to keep an eye on me after I asked this question.\""
         },
         {
           "id": 98,
           "paragraph_id": 83,
-          "text": "Not only that, he even order a few of his men to keep an eye on me after I asked this question.\""
+          "text": "\"...\""
         },
         {
           "id": 99,
           "paragraph_id": 84,
-          "text": "\"...\""
+          "text": "The King and the Minsters frowned."
         },
         {
           "id": 100,
           "paragraph_id": 85,
-          "text": "The King and the Minsters frowned."
+          "text": "\"He is hiding something.\""
         },
         {
           "id": 101,
           "paragraph_id": 86,
-          "text": "\"He is hiding something.\""
+          "text": "A minister spoke."
         },
         {
           "id": 102,
           "paragraph_id": 87,
-          "text": "A minister spoke."
+          "text": "\"Of course he is."
         },
         {
           "id": 103,
-          "paragraph_id": 88,
-          "text": "\"Of course he is."
+          "paragraph_id": 87,
+          "text": "But the question is, what?\""
         },
         {
           "id": 104,
           "paragraph_id": 88,
-          "text": "But the question is, what?\""
+          "text": "\"Why did General Ember give up on her position?\""
         },
         {
           "id": 105,
           "paragraph_id": 89,
-          "text": "\"Why did General Ember give up on her position?\""
+          "text": "The Ministers started discussing, however, before they could delve deeper, Keeve interrupted."
         },
         {
           "id": 106,
           "paragraph_id": 90,
-          "text": "The Ministers started discussing, however, before they could delve deeper, Keeve interrupted."
+          "text": "\"Well, you do not have to worry."
         },
         {
           "id": 107,
-          "paragraph_id": 91,
-          "text": "\"Well, you do not have to worry."
+          "paragraph_id": 90,
+          "text": "I heard that the Deputy Generals of the Woods Army were especially close to General Ember, if the Dynast is indeed hiding something, then I think they would know about it."
         },
         {
           "id": 108,
           "paragraph_id": 91,
-          "text": "I heard that the Deputy Generals of the Woods Army were especially close to General Ember, if the Dynast is indeed hiding something, then I think they would know about it."
+          "text": "Although I couldn't meet them on my own since there were too many eyes on me, I sent one of my men to them."
         },
         {
           "id": 109,
           "paragraph_id": 92,
-          "text": "Although I couldn't meet them on my own since there were too many eyes on me, I sent one of my men to them."
+          "text": "He should come back with the answers soon enough.\""
         },
         {
           "id": 110,
           "paragraph_id": 93,
-          "text": "He should come back with the answers soon enough.\""
+          "text": "\"As I expected of you, Keeve.\""
         },
         {
           "id": 111,
           "paragraph_id": 94,
-          "text": "\"As I expected of you, Keeve.\""
+          "text": "The King nodded in satisfaction."
         },
         {
           "id": 112,
           "paragraph_id": 95,
-          "text": "The King nodded in satisfaction."
+          "text": "The Ministers, however, didn't agree,"
         },
         {
           "id": 113,
           "paragraph_id": 96,
-          "text": "The Ministers, however, didn't agree,"
+          "text": "\"And why would the Loyal Subordinates disclose their Master's secrets to your men?\""
         },
         {
           "id": 114,
           "paragraph_id": 97,
-          "text": "\"And why would the Loyal Subordinates disclose their Master's secrets to your men?\""
+          "text": "\"Heh, because we would bring justice to the dead General Ember.\""
         },
         {
           "id": 115,
           "paragraph_id": 98,
-          "text": "\"Heh, because we would bring justice to the dead General Ember.\""
+          "text": "Keeve smiled."
         },
         {
           "id": 116,
           "paragraph_id": 99,
-          "text": "Keeve smiled."
+          "text": "Hearing those words, the King and the Ministers smiled wickedly."
         },
         {
           "id": 117,
           "paragraph_id": 100,
-          "text": "Hearing those words, the King and the Ministers smiled wickedly."
+          "text": "\"We would indeed.\""
         },
         {
           "id": 118,
           "paragraph_id": 101,
-          "text": "\"We would indeed.\""
+          "text": "The King muttered then, he turned towards Keeve and nodded,"
         },
         {
           "id": 119,
           "paragraph_id": 102,
-          "text": "The King muttered then, he turned towards Keeve and nodded,"
+          "text": "\"You did a good job, Keeve."
         },
         {
           "id": 120,
           "paragraph_id": 103,
-          "text": "\"You did a good job, Keeve."
+          "text": "You can go rest now.\""
         },
         {
           "id": 121,
           "paragraph_id": 104,
-          "text": "You can go rest now.\""
-        },
-        {
-          "id": 122,
-          "paragraph_id": 105,
           "text": "\"As you command, Your Majesty.\""
         }
       ],
-      "word_count": 1006
+      "word_count": 1005
     },
     {
       "chapter_index": 412,
@@ -11773,7 +11749,7 @@
     },
     {
       "chapter_index": 417,
-      "title": "Chapter 417 The Fourth Prince,Lucas Skyfall.",
+      "title": "Chapter 417 The Fourth Prince, Lucas Skyfall.",
       "url": "https://novelping.com/book/supreme-harem-god-system/chapter-417-the-fourth-princelucas-skyfall",
       "paragraphs": [
         "\"I am fin-\"",
@@ -12460,7 +12436,7 @@
     },
     {
       "chapter_index": 418,
-      "title": "Chapter 418 The Third Prince,Lovis Skyfall",
+      "title": "Chapter 418 The Third Prince, Lovis Skyfall",
       "url": "https://novelping.com/book/supreme-harem-god-system/chapter-418-the-third-princelovis-skyfall",
       "paragraphs": [
         "\"Tsk, that bastard, he just had to cause a ruckus there.\"",
@@ -19843,7 +19819,7 @@
     },
     {
       "chapter_index": 429,
-      "title": "Chapter 429 He sees you as a threat,Evane.",
+      "title": "Chapter 429 He sees you as a threat, Evane.",
       "url": "https://novelping.com/book/supreme-harem-god-system/chapter-429-he-sees-you-as-a-threatevane",
       "paragraphs": [
         "\"Hmm? Lovis? What happened?\"",
@@ -20740,7 +20716,6 @@
         "\"Hehehe~\"",
         "Nux laughed evilly and picked her up.",
         "The two of them quickly jumped on the bed and Evane's Cultivation session started.",
-        "...",
         "On the other side, Lovis walked into his room and called.",
         "\"Leo.\"",
         "\"At your command, Master.\"",
@@ -21173,115 +21148,110 @@
         {
           "id": 82,
           "paragraph_id": 69,
-          "text": "..."
+          "text": "On the other side, Lovis walked into his room and called."
         },
         {
           "id": 83,
           "paragraph_id": 70,
-          "text": "On the other side, Lovis walked into his room and called."
+          "text": "\"Leo.\""
         },
         {
           "id": 84,
           "paragraph_id": 71,
-          "text": "\"Leo.\""
+          "text": "\"At your command, Master.\""
         },
         {
           "id": 85,
           "paragraph_id": 72,
-          "text": "\"At your command, Master.\""
+          "text": "Within a second, a man appeared in front of him and bowed."
         },
         {
           "id": 86,
           "paragraph_id": 73,
-          "text": "Within a second, a man appeared in front of him and bowed."
+          "text": "\"Where is the paper that I gave you before?\""
         },
         {
           "id": 87,
           "paragraph_id": 74,
-          "text": "\"Where is the paper that I gave you before?\""
+          "text": "Lovis questioned."
         },
         {
           "id": 88,
           "paragraph_id": 75,
-          "text": "Lovis questioned."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 76,
           "text": "\"Hmm?"
         },
         {
-          "id": 90,
-          "paragraph_id": 76,
+          "id": 89,
+          "paragraph_id": 75,
           "text": "That paper?"
         },
         {
-          "id": 91,
-          "paragraph_id": 76,
+          "id": 90,
+          "paragraph_id": 75,
           "text": "I placed it in your room as you ordered me to, Master Lovis."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 75,
+          "text": "Should I bring it to you?\""
         },
         {
           "id": 92,
           "paragraph_id": 76,
-          "text": "Should I bring it to you?\""
+          "text": "Leo questioned."
         },
         {
           "id": 93,
           "paragraph_id": 77,
-          "text": "Leo questioned."
+          "text": "Seeing his reaction, Lovis narrowed his eyes and spoke."
         },
         {
           "id": 94,
           "paragraph_id": 78,
-          "text": "Seeing his reaction, Lovis narrowed his eyes and spoke."
+          "text": "\"No need, you just follow me."
         },
         {
           "id": 95,
-          "paragraph_id": 79,
-          "text": "\"No need, you just follow me."
+          "paragraph_id": 78,
+          "text": "I will get that letter myself.\""
         },
         {
           "id": 96,
           "paragraph_id": 79,
-          "text": "I will get that letter myself.\""
+          "text": "\"As you command, Master.\""
         },
         {
           "id": 97,
           "paragraph_id": 80,
-          "text": "\"As you command, Master.\""
+          "text": "Leo bowed his head and the two of them walked into Lovis's room."
         },
         {
           "id": 98,
           "paragraph_id": 81,
-          "text": "Leo bowed his head and the two of them walked into Lovis's room."
+          "text": "\"Where is the paper?\""
         },
         {
           "id": 99,
           "paragraph_id": 82,
-          "text": "\"Where is the paper?\""
+          "text": "Lovis questioned."
         },
         {
           "id": 100,
           "paragraph_id": 83,
-          "text": "Lovis questioned."
+          "text": "\"Ther-\""
         },
         {
           "id": 101,
           "paragraph_id": 84,
-          "text": "\"Ther-\""
+          "text": "Leo pointed at the wall, soon, however, his eyes widened in surprise."
         },
         {
           "id": 102,
           "paragraph_id": 85,
-          "text": "Leo pointed at the wall, soon, however, his eyes widened in surprise."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 86,
           "text": "\"Where is the paper?\""
         }
       ],
-      "word_count": 1031
+      "word_count": 1030
     },
     {
       "chapter_index": 431,
@@ -21353,7 +21323,6 @@
         "He needed to collect more information.",
         "And that is what he will do now.",
         "Lovis sat down on his chair and started thinking even more.",
-        "...",
         "On the other side, Duke Fulvanius and the First Prince, Raguel Skyfall were sitting inside the room with solemn looks on their faces.",
         "\"Are you sure this is true?\"",
         "Raguel questioned.",
@@ -21800,215 +21769,210 @@
         {
           "id": 80,
           "paragraph_id": 65,
-          "text": "..."
+          "text": "On the other side, Duke Fulvanius and the First Prince, Raguel Skyfall were sitting inside the room with solemn looks on their faces."
         },
         {
           "id": 81,
           "paragraph_id": 66,
-          "text": "On the other side, Duke Fulvanius and the First Prince, Raguel Skyfall were sitting inside the room with solemn looks on their faces."
+          "text": "\"Are you sure this is true?\""
         },
         {
           "id": 82,
           "paragraph_id": 67,
-          "text": "\"Are you sure this is true?\""
+          "text": "Raguel questioned."
         },
         {
           "id": 83,
           "paragraph_id": 68,
-          "text": "Raguel questioned."
+          "text": "\"I checked it myself, it is 100% true.\""
         },
         {
           "id": 84,
           "paragraph_id": 69,
-          "text": "\"I checked it myself, it is 100% true.\""
+          "text": "Fulvanius nodded."
         },
         {
           "id": 85,
           "paragraph_id": 70,
-          "text": "Fulvanius nodded."
+          "text": "After listening to the conversation between Raguel and Lucas from Raguel, he had the same thought as Amaya, and after some interrogation, he found out about the connection between Duke Merula and Duke Centho."
         },
         {
           "id": 86,
           "paragraph_id": 71,
-          "text": "After listening to the conversation between Raguel and Lucas from Raguel, he had the same thought as Amaya, and after some interrogation, he found out about the connection between Duke Merula and Duke Centho."
+          "text": "After that, it wasn't hard for him to figure out that Lucas was actually on Lovis's side."
         },
         {
           "id": 87,
           "paragraph_id": 72,
-          "text": "After that, it wasn't hard for him to figure out that Lucas was actually on Lovis's side."
+          "text": "Raguel stayed silent for a long time and then, a defeated smile appeared on his face."
         },
         {
           "id": 88,
           "paragraph_id": 73,
-          "text": "Raguel stayed silent for a long time and then, a defeated smile appeared on his face."
+          "text": "\"And here I thought that I would become the King.\""
         },
         {
           "id": 89,
           "paragraph_id": 74,
-          "text": "\"And here I thought that I would become the King.\""
+          "text": "Seeing his reaction, the Duke frowned,"
         },
         {
           "id": 90,
           "paragraph_id": 75,
-          "text": "Seeing his reaction, the Duke frowned,"
+          "text": "\"Are you giving up?\""
         },
         {
           "id": 91,
           "paragraph_id": 76,
-          "text": "\"Are you giving up?\""
+          "text": "Raguel glanced at the Duke and questioned back,"
         },
         {
           "id": 92,
           "paragraph_id": 77,
-          "text": "Raguel glanced at the Duke and questioned back,"
+          "text": "\"Does it look like I have any other options?"
         },
         {
           "id": 93,
           "paragraph_id": 78,
-          "text": "\"Does it look like I have any other options?"
+          "text": "3 out of 4 Dukes support that bastard, there is no way I would become the next King."
         },
         {
           "id": 94,
           "paragraph_id": 79,
-          "text": "3 out of 4 Dukes support that bastard, there is no way I would become the next King."
+          "text": "Cultivation, being the strongest of all the princes, none of this mattered, I never had a chance to win this battle from the start.\""
         },
         {
           "id": 95,
           "paragraph_id": 80,
-          "text": "Cultivation, being the strongest of all the princes, none of this mattered, I never had a chance to win this battle from the start.\""
+          "text": "Raguel replied with a dull look on his face."
         },
         {
           "id": 96,
           "paragraph_id": 81,
-          "text": "Raguel replied with a dull look on his face."
+          "text": "\"You cannot give up like this.\""
         },
         {
           "id": 97,
           "paragraph_id": 82,
-          "text": "\"You cannot give up like this.\""
+          "text": "Duke Fulvanius spoke with a strict look on his face."
         },
         {
           "id": 98,
           "paragraph_id": 83,
-          "text": "Duke Fulvanius spoke with a strict look on his face."
+          "text": "\"What can I do, the King will definitely choose the Third Brother.\""
         },
         {
           "id": 99,
           "paragraph_id": 84,
-          "text": "\"What can I do, the King will definitely choose the Third Brother.\""
+          "text": "Raguel countered."
         },
         {
           "id": 100,
           "paragraph_id": 85,
-          "text": "Raguel countered."
+          "text": "\"That is only if the King has the chance to choose.\""
         },
         {
           "id": 101,
           "paragraph_id": 86,
-          "text": "\"That is only if the King has the chance to choose.\""
+          "text": "The Duke replied with a cold, merciless look on his face."
         },
         {
           "id": 102,
           "paragraph_id": 87,
-          "text": "The Duke replied with a cold, merciless look on his face."
+          "text": "Hearing those words, Raguel's eyes widened in surprise."
         },
         {
           "id": 103,
           "paragraph_id": 88,
-          "text": "Hearing those words, Raguel's eyes widened in surprise."
+          "text": "\"A-Are we going to do what Consort Amaya suggested?\""
         },
         {
           "id": 104,
           "paragraph_id": 89,
-          "text": "\"A-Are we going to do what Consort Amaya suggested?\""
+          "text": "He questioned."
         },
         {
           "id": 105,
           "paragraph_id": 90,
-          "text": "He questioned."
+          "text": "\"Does it look like we have any other option?\""
         },
         {
           "id": 106,
           "paragraph_id": 91,
-          "text": "\"Does it look like we have any other option?\""
+          "text": "The Duke questioned back."
         },
         {
           "id": 107,
           "paragraph_id": 92,
-          "text": "The Duke questioned back."
+          "text": "Hearing that reply, Raguel's shocked look turned into a determined one and he commented."
         },
         {
           "id": 108,
           "paragraph_id": 93,
-          "text": "Hearing that reply, Raguel's shocked look turned into a determined one and he commented."
+          "text": "\"I think father has ruled for long enough.\""
         },
         {
           "id": 109,
           "paragraph_id": 94,
-          "text": "\"I think father has ruled for long enough.\""
+          "text": "A cold smile appeared on the Duke's face."
         },
         {
           "id": 110,
           "paragraph_id": 95,
-          "text": "A cold smile appeared on the Duke's face."
+          "text": "\"Indeed.\""
         },
         {
           "id": 111,
           "paragraph_id": 96,
-          "text": "\"Indeed.\""
+          "text": "The First Prince smiled as well."
         },
         {
           "id": 112,
           "paragraph_id": 97,
-          "text": "The First Prince smiled as well."
+          "text": "He would become the King and no one in this world can stop him."
         },
         {
           "id": 113,
           "paragraph_id": 98,
-          "text": "He would become the King and no one in this world can stop him."
+          "text": "Not even his own father."
         },
         {
           "id": 114,
           "paragraph_id": 99,
-          "text": "Not even his own father."
+          "text": "\"Alright, I will contact my Brother.\""
         },
         {
           "id": 115,
           "paragraph_id": 100,
-          "text": "\"Alright, I will contact my Brother.\""
+          "text": "Duke Fulvanius spoke."
         },
         {
           "id": 116,
           "paragraph_id": 101,
-          "text": "Duke Fulvanius spoke."
+          "text": "\"Minister Gibson?\""
         },
         {
           "id": 117,
           "paragraph_id": 102,
-          "text": "\"Minister Gibson?\""
+          "text": "Raguel questioned."
         },
         {
           "id": 118,
           "paragraph_id": 103,
-          "text": "Raguel questioned."
+          "text": "\"Indeed, we would need his help and opinion if we want to organize a successful coup.\""
         },
         {
           "id": 119,
           "paragraph_id": 104,
-          "text": "\"Indeed, we would need his help and opinion if we want to organize a successful coup.\""
+          "text": "Then, the smile on the Duke's face widened,"
         },
         {
           "id": 120,
           "paragraph_id": 105,
-          "text": "Then, the smile on the Duke's face widened,"
-        },
-        {
-          "id": 121,
-          "paragraph_id": 106,
           "text": "\"I am sure he must have a lot of grievances against that Ricardus Bastard.\""
         }
       ],
-      "word_count": 1012
+      "word_count": 1011
     },
     {
       "chapter_index": 432,
@@ -23421,7 +23385,6 @@
         "\"We will...\"",
         "The planning continued and the more they thought about it, the more confident they felt.",
         "Raguel's path to the Throne will soon be clean and clear.",
-        "...",
         "\"Master Lovis.\"",
         "Two days later, Leo, Lovis's butler walked into Lovis's room with a letter in his hand.",
         "\"Hmm? What is it, Leo?\"",
@@ -23452,7 +23415,6 @@
         "Raguel was just an arrogant nobody after all.",
         "\"Alright Dear Sister, now that you have decided to come out of your shell, it is time for us to clash directly.\"",
         "A cold smile appeared on Lovis's face and he desperately waited for the sun to go down.",
-        "...",
         "Lovis didn't have to wait for too long, the time passed by fairly quickly and in the middle of the night, he walked out of his room while covering his body with a black shawl.",
         "*Knock* *Knock* *Knock*",
         "He knocked on Evane's door.",
@@ -23725,450 +23687,440 @@
         {
           "id": 45,
           "paragraph_id": 38,
-          "text": "..."
+          "text": "\"Master Lovis.\""
         },
         {
           "id": 46,
           "paragraph_id": 39,
-          "text": "\"Master Lovis.\""
+          "text": "Two days later, Leo, Lovis's butler walked into Lovis's room with a letter in his hand."
         },
         {
           "id": 47,
           "paragraph_id": 40,
-          "text": "Two days later, Leo, Lovis's butler walked into Lovis's room with a letter in his hand."
+          "text": "\"Hmm?"
         },
         {
           "id": 48,
-          "paragraph_id": 41,
-          "text": "\"Hmm?"
+          "paragraph_id": 40,
+          "text": "What is it, Leo?\""
         },
         {
           "id": 49,
           "paragraph_id": 41,
-          "text": "What is it, Leo?\""
+          "text": "Lovis who had just come out of his Cultivation Chamber questioned."
         },
         {
           "id": 50,
           "paragraph_id": 42,
-          "text": "Lovis who had just come out of his Cultivation Chamber questioned."
+          "text": "\"I believe you should see what it is.\""
         },
         {
           "id": 51,
           "paragraph_id": 43,
-          "text": "\"I believe you should see what it is.\""
+          "text": "Leo spoke while passing an envelope to Lovis."
         },
         {
           "id": 52,
           "paragraph_id": 44,
-          "text": "Leo spoke while passing an envelope to Lovis."
+          "text": "Lovis frowned and took the envelope."
         },
         {
           "id": 53,
-          "paragraph_id": 45,
-          "text": "Lovis frowned and took the envelope."
+          "paragraph_id": 44,
+          "text": "He noticed that this letter was sent by Evane and seeing that, his frown deepened."
         },
         {
           "id": 54,
           "paragraph_id": 45,
-          "text": "He noticed that this letter was sent by Evane and seeing that, his frown deepened."
+          "text": "\"Why is that bitch contacting me through a letter?"
         },
         {
           "id": 55,
-          "paragraph_id": 46,
-          "text": "\"Why is that bitch contacting me through a letter?"
+          "paragraph_id": 45,
+          "text": "Doesn't she know how risky it is?\""
         },
         {
           "id": 56,
           "paragraph_id": 46,
-          "text": "Doesn't she know how risky it is?\""
+          "text": "Lovis couldn't understand, however, he didn't have any other option."
         },
         {
           "id": 57,
           "paragraph_id": 47,
-          "text": "Lovis couldn't understand, however, he didn't have any other option."
+          "text": "He opened the letter and his frown deepened even further."
         },
         {
           "id": 58,
           "paragraph_id": 48,
-          "text": "He opened the letter and his frown deepened even further."
+          "text": "'If you want Duke Vestalis's support, come to my room at 1 in the morning."
         },
         {
           "id": 59,
-          "paragraph_id": 49,
-          "text": "'If you want Duke Vestalis's support, come to my room at 1 in the morning."
+          "paragraph_id": 48,
+          "text": "Of course, do it is secrecy.'"
         },
         {
           "id": 60,
           "paragraph_id": 49,
-          "text": "Of course, do it is secrecy.'"
+          "text": "That was it."
         },
         {
           "id": 61,
           "paragraph_id": 50,
-          "text": "That was it."
+          "text": "There was nothing else written on the letter, no greeting, no name of the sender."
         },
         {
           "id": 62,
-          "paragraph_id": 51,
-          "text": "There was nothing else written on the letter, no greeting, no name of the sender."
+          "paragraph_id": 50,
+          "text": "However, with the stamp on the envelope and the letter, it was clear who the sender was."
         },
         {
           "id": 63,
           "paragraph_id": 51,
-          "text": "However, with the stamp on the envelope and the letter, it was clear who the sender was."
+          "text": "\"Why is she calling me so late in the night?\""
         },
         {
           "id": 64,
           "paragraph_id": 52,
-          "text": "\"Why is she calling me so late in the night?\""
+          "text": "Lovis couldn't understand."
         },
         {
           "id": 65,
           "paragraph_id": 53,
-          "text": "Lovis couldn't understand."
+          "text": "\"And what's with this threatening letter?\""
         },
         {
           "id": 66,
           "paragraph_id": 54,
-          "text": "\"And what's with this threatening letter?\""
+          "text": "The letter's meaning was clear, if you don't come, don't expect my Support from now on."
         },
         {
           "id": 67,
           "paragraph_id": 55,
-          "text": "The letter's meaning was clear, if you don't come, don't expect my Support from now on."
+          "text": "A clear threat."
         },
         {
           "id": 68,
           "paragraph_id": 56,
-          "text": "A clear threat."
+          "text": "Something Lovis never thought Evane would do."
         },
         {
           "id": 69,
           "paragraph_id": 57,
-          "text": "Something Lovis never thought Evane would do."
+          "text": "However, after thinking about it, a smile appeared on Lovis's face."
         },
         {
           "id": 70,
           "paragraph_id": 58,
-          "text": "However, after thinking about it, a smile appeared on Lovis's face."
+          "text": "\"She's finally going to reveal her true face, huh.\""
         },
         {
           "id": 71,
           "paragraph_id": 59,
-          "text": "\"She's finally going to reveal her true face, huh.\""
+          "text": "He muttered."
         },
         {
           "id": 72,
           "paragraph_id": 60,
-          "text": "He muttered."
+          "text": "He was getting tired from playing this idiotic game."
         },
         {
           "id": 73,
-          "paragraph_id": 61,
-          "text": "He was getting tired from playing this idiotic game."
+          "paragraph_id": 60,
+          "text": "He tried a lot in these 2 days, however, he couldn't find anything out of ordinary about Evane."
         },
         {
           "id": 74,
           "paragraph_id": 61,
-          "text": "He tried a lot in these 2 days, however, he couldn't find anything out of ordinary about Evane."
+          "text": "Her life was so normal that he felt like someone was deliberately leading him to false information."
         },
         {
           "id": 75,
           "paragraph_id": 62,
-          "text": "Her life was so normal that he felt like someone was deliberately leading him to false information."
+          "text": "He had to admit."
         },
         {
           "id": 76,
           "paragraph_id": 63,
-          "text": "He had to admit."
+          "text": "Evane was indeed capable."
         },
         {
           "id": 77,
           "paragraph_id": 64,
-          "text": "Evane was indeed capable."
+          "text": "He realized that she was the actual threat to him, not Raguel."
         },
         {
           "id": 78,
           "paragraph_id": 65,
-          "text": "He realized that she was the actual threat to him, not Raguel."
+          "text": "Raguel was just an arrogant nobody after all."
         },
         {
           "id": 79,
           "paragraph_id": 66,
-          "text": "Raguel was just an arrogant nobody after all."
+          "text": "\"Alright Dear Sister, now that you have decided to come out of your shell, it is time for us to clash directly.\""
         },
         {
           "id": 80,
           "paragraph_id": 67,
-          "text": "\"Alright Dear Sister, now that you have decided to come out of your shell, it is time for us to clash directly.\""
+          "text": "A cold smile appeared on Lovis's face and he desperately waited for the sun to go down."
         },
         {
           "id": 81,
           "paragraph_id": 68,
-          "text": "A cold smile appeared on Lovis's face and he desperately waited for the sun to go down."
+          "text": "Lovis didn't have to wait for too long, the time passed by fairly quickly and in the middle of the night, he walked out of his room while covering his body with a black shawl."
         },
         {
           "id": 82,
           "paragraph_id": 69,
-          "text": "..."
+          "text": "*Knock* *Knock* *Knock*"
         },
         {
           "id": 83,
           "paragraph_id": 70,
-          "text": "Lovis didn't have to wait for too long, the time passed by fairly quickly and in the middle of the night, he walked out of his room while covering his body with a black shawl."
+          "text": "He knocked on Evane's door."
         },
         {
           "id": 84,
           "paragraph_id": 71,
-          "text": "*Knock* *Knock* *Knock*"
+          "text": "\"...\""
         },
         {
           "id": 85,
           "paragraph_id": 72,
-          "text": "He knocked on Evane's door."
+          "text": "However, nobody answered."
         },
         {
           "id": 86,
           "paragraph_id": 73,
-          "text": "\"...\""
+          "text": "Lovis frowned and knocked again."
         },
         {
           "id": 87,
           "paragraph_id": 74,
-          "text": "However, nobody answered."
+          "text": "*Knock* *Knock* *Knock*"
         },
         {
           "id": 88,
           "paragraph_id": 75,
-          "text": "Lovis frowned and knocked again."
+          "text": "Lovis knocked again."
         },
         {
           "id": 89,
           "paragraph_id": 76,
-          "text": "*Knock* *Knock* *Knock*"
+          "text": "\"...\""
         },
         {
           "id": 90,
           "paragraph_id": 77,
-          "text": "Lovis knocked again."
+          "text": "But again, no one answered."
         },
         {
           "id": 91,
           "paragraph_id": 78,
-          "text": "\"...\""
+          "text": "Annoyed, Lovis was about to answer, however, soon, she heard a hurried voice."
         },
         {
           "id": 92,
           "paragraph_id": 79,
-          "text": "But again, no one answered."
+          "text": "\"Wait, I am coming.\""
         },
         {
           "id": 93,
           "paragraph_id": 80,
-          "text": "Annoyed, Lovis was about to answer, however, soon, she heard a hurried voice."
+          "text": "Lovis paused and waited."
         },
         {
           "id": 94,
           "paragraph_id": 81,
-          "text": "\"Wait, I am coming.\""
+          "text": "2 minutes later, Evane opened the door, and seeing her face, Lovis frowned."
         },
         {
           "id": 95,
           "paragraph_id": 82,
-          "text": "Lovis paused and waited."
+          "text": "Her face was a little red, her upper forehead and the region near her ears were wet, signifying that she has just wiped the sweat off her face, the dress she wore looked a little disorganized as well, signifying that she has worn it in hurry,"
         },
         {
           "id": 96,
           "paragraph_id": 83,
-          "text": "2 minutes later, Evane opened the door, and seeing her face, Lovis frowned."
+          "text": "Seeing all this, Lovis couldn't understand,"
         },
         {
           "id": 97,
           "paragraph_id": 84,
-          "text": "Her face was a little red, her upper forehead and the region near her ears were wet, signifying that she has just wiped the sweat off her face, the dress she wore looked a little disorganized as well, signifying that she has worn it in hurry,"
+          "text": "\"Wh-\""
         },
         {
           "id": 98,
           "paragraph_id": 85,
-          "text": "Seeing all this, Lovis couldn't understand,"
+          "text": "\"Why are you here?\""
         },
         {
           "id": 99,
           "paragraph_id": 86,
-          "text": "\"Wh-\""
+          "text": "Before Lovis could ask anything, Evane questioned."
         },
         {
           "id": 100,
           "paragraph_id": 87,
-          "text": "\"Why are you here?\""
-        },
-        {
-          "id": 101,
-          "paragraph_id": 88,
-          "text": "Before Lovis could ask anything, Evane questioned."
-        },
-        {
-          "id": 102,
-          "paragraph_id": 89,
           "text": "\"Is something bothering you?"
         },
         {
-          "id": 103,
-          "paragraph_id": 89,
+          "id": 101,
+          "paragraph_id": 87,
           "text": "Are you okay?"
         },
         {
-          "id": 104,
-          "paragraph_id": 89,
+          "id": 102,
+          "paragraph_id": 87,
           "text": "It is very unlike you to come here in the middle of the night."
         },
         {
-          "id": 105,
-          "paragraph_id": 89,
+          "id": 103,
+          "paragraph_id": 87,
           "text": "And what's with the Shawl?"
+        },
+        {
+          "id": 104,
+          "paragraph_id": 87,
+          "text": "Are you hiding something?\""
+        },
+        {
+          "id": 105,
+          "paragraph_id": 88,
+          "text": "Evane continued to question with a worried look on her face."
         },
         {
           "id": 106,
           "paragraph_id": 89,
-          "text": "Are you hiding something?\""
+          "text": "Hearing all those questions, Lovis tilted his head in confusion."
         },
         {
           "id": 107,
           "paragraph_id": 90,
-          "text": "Evane continued to question with a worried look on her face."
+          "text": "Wasn't she the one who called him?"
         },
         {
           "id": 108,
           "paragraph_id": 91,
-          "text": "Hearing all those questions, Lovis tilted his head in confusion."
+          "text": "Why is she acting like this right now?"
         },
         {
           "id": 109,
           "paragraph_id": 92,
-          "text": "Wasn't she the one who called him?"
+          "text": "He couldn't understand."
         },
         {
           "id": 110,
           "paragraph_id": 93,
-          "text": "Why is she acting like this right now?"
+          "text": "Seeing that he wasn't answering, Evane frowned, her worry deepened, and then she pulled him into her room."
         },
         {
           "id": 111,
           "paragraph_id": 94,
-          "text": "He couldn't understand."
+          "text": "\"Come inside first."
         },
         {
           "id": 112,
-          "paragraph_id": 95,
-          "text": "Seeing that he wasn't answering, Evane frowned, her worry deepened, and then she pulled him into her room."
+          "paragraph_id": 94,
+          "text": "Standing here will make us suspicious.\""
         },
         {
           "id": 113,
-          "paragraph_id": 96,
-          "text": "\"Come inside first."
+          "paragraph_id": 95,
+          "text": "Lovis was pulled inside, there, he could smell a faint, funny smell, however, before he could point it out, his eyes fell on another person."
         },
         {
           "id": 114,
           "paragraph_id": 96,
-          "text": "Standing here will make us suspicious.\""
+          "text": "\"Why are you here?\""
         },
         {
           "id": 115,
           "paragraph_id": 97,
-          "text": "Lovis was pulled inside, there, he could smell a faint, funny smell, however, before he could point it out, his eyes fell on another person."
+          "text": "He questioned."
         },
         {
           "id": 116,
           "paragraph_id": 98,
-          "text": "\"Why are you here?\""
+          "text": "\"I am her bodyguard, of course, I would be here."
         },
         {
           "id": 117,
-          "paragraph_id": 99,
-          "text": "He questioned."
+          "paragraph_id": 98,
+          "text": "Else people like you might try to harm her.\""
         },
         {
           "id": 118,
-          "paragraph_id": 100,
-          "text": "\"I am her bodyguard, of course, I would be here."
+          "paragraph_id": 99,
+          "text": "Nux replied with an annoyed look on his face."
         },
         {
           "id": 119,
           "paragraph_id": 100,
-          "text": "Else people like you might try to harm her.\""
+          "text": "Lovis shook his head."
         },
         {
           "id": 120,
           "paragraph_id": 101,
-          "text": "Nux replied with an annoyed look on his face."
+          "text": "Talking to a servant was not worth it, he just turned towards Evane and spoke bluntly."
         },
         {
           "id": 121,
           "paragraph_id": 102,
-          "text": "Lovis shook his head."
+          "text": "\"Sister, I need to sleep, so I would appreciate it if you don't play any games with me.\""
         },
         {
           "id": 122,
           "paragraph_id": 103,
-          "text": "Talking to a servant was not worth it, he just turned towards Evane and spoke bluntly."
+          "text": "\"Games?\""
         },
         {
           "id": 123,
           "paragraph_id": 104,
-          "text": "\"Sister, I need to sleep, so I would appreciate it if you don't play any games with me.\""
+          "text": "Evane frowned."
         },
         {
           "id": 124,
           "paragraph_id": 105,
-          "text": "\"Games?\""
+          "text": "Seeing that she was hellbent on acting like that, Lovis just threw the letter at her."
         },
         {
           "id": 125,
           "paragraph_id": 106,
-          "text": "Evane frowned."
-        },
-        {
-          "id": 126,
-          "paragraph_id": 107,
-          "text": "Seeing that she was hellbent on acting like that, Lovis just threw the letter at her."
-        },
-        {
-          "id": 127,
-          "paragraph_id": 108,
           "text": "\"Here, you were the one who called me here, aren't you?"
         },
         {
-          "id": 128,
-          "paragraph_id": 108,
+          "id": 126,
+          "paragraph_id": 106,
           "text": "It even has your stamp on it."
+        },
+        {
+          "id": 127,
+          "paragraph_id": 106,
+          "text": "Now tell me, why did you call me here?\""
+        },
+        {
+          "id": 128,
+          "paragraph_id": 107,
+          "text": "Evane frowned, she quickly grabbed the letter, and soon, a solemn look appeared on her face."
         },
         {
           "id": 129,
           "paragraph_id": 108,
-          "text": "Now tell me, why did you call me here?\""
-        },
-        {
-          "id": 130,
-          "paragraph_id": 109,
-          "text": "Evane frowned, she quickly grabbed the letter, and soon, a solemn look appeared on her face."
-        },
-        {
-          "id": 131,
-          "paragraph_id": 110,
           "text": "\"Lovis..."
         },
         {
-          "id": 132,
-          "paragraph_id": 110,
+          "id": 130,
+          "paragraph_id": 108,
           "text": "I did not send this letter."
         },
         {
-          "id": 133,
-          "paragraph_id": 111,
+          "id": 131,
+          "paragraph_id": 109,
           "text": "This Stamp is fake...\""
         }
       ],
-      "word_count": 1098
+      "word_count": 1096
     },
     {
       "chapter_index": 435,
@@ -24963,10 +24915,10 @@
     },
     {
       "chapter_index": 436,
-      "title": "Chapter 436 You really want to hear my voice,don't you?",
+      "title": "Chapter 436 You really want to hear my voice, don't you?",
       "url": "https://novelping.com/book/supreme-harem-god-system/chapter-436-you-really-want-to-hear-my-voicedont-you",
       "paragraphs": [
-        "436 You really want to hear my voice,don't you?",
+        "436 You really want to hear my voice, don't you?",
         "Just like any other night, Amaya was lying on her bed, her body was covered by Black colored Mist and even though her eyes were wide open, she didn't move an inch.",
         "In front of her face, there was a black colored Mist. Or that is how anyone looking from afar would see it as. However, if someone glanced at this mist from Amaya's angle, they would see a portrait of a man's face.",
         "There was a silly smile on Amaya's face while she continued to make changes to the portrait before bringing it back to normal.",
@@ -25059,7 +25011,7 @@
         {
           "id": 0,
           "paragraph_id": 0,
-          "text": "436 You really want to hear my voice,don't you?"
+          "text": "436 You really want to hear my voice, don't you?"
         },
         {
           "id": 1,
@@ -25612,7 +25564,7 @@
           "text": "\"How did you know that Sir Lovis and Lady Evane are being attacked?\""
         }
       ],
-      "word_count": 1027
+      "word_count": 1028
     },
     {
       "chapter_index": 437,
@@ -26842,10 +26794,10 @@
     },
     {
       "chapter_index": 439,
-      "title": "Chapter 439 This is the end,Amaya Skyfall.",
+      "title": "Chapter 439 This is the end, Amaya Skyfall.",
       "url": "https://novelping.com/book/supreme-harem-god-system/chapter-439-this-is-the-endamaya-skyfall",
       "paragraphs": [
-        "439 This is the end,Amaya Skyfall.",
+        "439 This is the end, Amaya Skyfall.",
         "On the other side, Amaya, who was running away from her assailants, finally managed to run out of the Palace, there were around 10 guards who saw her running away like that, however, the moment they learned about the situation, all of them backed off and ran away.",
         "Of course, Amaya didn't fail to tell them who the culprit was.",
         "She told that to everybody.",
@@ -26906,7 +26858,6 @@
         "\"Now we just need to wait for Nux.\"",
         "\"Mhm.\"",
         "Thyra nodded.",
-        "...",
         "On the other side, inside Evane's room,",
         "\"WHAT!?\" Nux shouted in shock.",
         "\"What happened?\" Evane rushed towards Nux with a worried look on her face.",
@@ -26947,7 +26898,7 @@
         {
           "id": 0,
           "paragraph_id": 0,
-          "text": "439 This is the end,Amaya Skyfall."
+          "text": "439 This is the end, Amaya Skyfall."
         },
         {
           "id": 1,
@@ -27272,241 +27223,236 @@
         {
           "id": 65,
           "paragraph_id": 61,
-          "text": "..."
+          "text": "On the other side, inside Evane's room,"
         },
         {
           "id": 66,
           "paragraph_id": 62,
-          "text": "On the other side, inside Evane's room,"
+          "text": "\"WHAT!?\" Nux shouted in shock."
         },
         {
           "id": 67,
           "paragraph_id": 63,
-          "text": "\"WHAT!?\" Nux shouted in shock."
+          "text": "\"What happened?\" Evane rushed towards Nux with a worried look on her face."
         },
         {
           "id": 68,
           "paragraph_id": 64,
-          "text": "\"What happened?\" Evane rushed towards Nux with a worried look on her face."
+          "text": "For Nux to act like this, something bad must have happened."
         },
         {
           "id": 69,
-          "paragraph_id": 65,
-          "text": "For Nux to act like this, something bad must have happened."
+          "paragraph_id": 64,
+          "text": "She quickly forgot that her brother was there and waited for Nux's answer, Nux, however, didn't answer."
         },
         {
           "id": 70,
           "paragraph_id": 65,
-          "text": "She quickly forgot that her brother was there and waited for Nux's answer, Nux, however, didn't answer."
+          "text": "Evane quickly realized that he was using the telepathic connection to talk to someone and decided to wait."
         },
         {
           "id": 71,
           "paragraph_id": 66,
-          "text": "Evane quickly realized that he was using the telepathic connection to talk to someone and decided to wait."
+          "text": "Lovis, who saw this scene frowned."
         },
         {
           "id": 72,
           "paragraph_id": 67,
-          "text": "Lovis, who saw this scene frowned."
+          "text": "Wasn't he just a bodyguard?"
         },
         {
           "id": 73,
-          "paragraph_id": 68,
-          "text": "Wasn't he just a bodyguard?"
+          "paragraph_id": 67,
+          "text": "Evane's Servant?"
         },
         {
           "id": 74,
           "paragraph_id": 68,
-          "text": "Evane's Servant?"
+          "text": "Why does he look like a leader?"
         },
         {
           "id": 75,
           "paragraph_id": 69,
-          "text": "Why does he look like a leader?"
+          "text": "What is this situation?"
         },
         {
           "id": 76,
           "paragraph_id": 70,
-          "text": "What is this situation?"
+          "text": "Can a servant just randomly shout like this in the middle of the night?"
         },
         {
           "id": 77,
           "paragraph_id": 71,
-          "text": "Can a servant just randomly shout like this in the middle of the night?"
+          "text": "And even his Sister, why was she acting like this?"
         },
         {
           "id": 78,
-          "paragraph_id": 72,
-          "text": "And even his Sister, why was she acting like this?"
+          "paragraph_id": 71,
+          "text": "Why is she so worried about a mere servant?"
         },
         {
           "id": 79,
           "paragraph_id": 72,
-          "text": "Why is she so worried about a mere servant?"
+          "text": "'Wait... something is not right... that bitch took too much time to open the door, her face looks like she just wiped all the sweat, while her dress looks like she wore it in hurry...'"
         },
         {
           "id": 80,
           "paragraph_id": 73,
-          "text": "'Wait... something is not right... that bitch took too much time to open the door, her face looks like she just wiped all the sweat, while her dress looks like she wore it in hurry...'"
+          "text": "Lovis started connecting all the dots."
         },
         {
           "id": 81,
           "paragraph_id": 74,
-          "text": "Lovis started connecting all the dots."
+          "text": "However, before he could come to a conclusion, Nux called out."
         },
         {
           "id": 82,
           "paragraph_id": 75,
-          "text": "However, before he could come to a conclusion, Nux called out."
+          "text": "\"Hey, Third Prince.\""
         },
         {
           "id": 83,
           "paragraph_id": 76,
-          "text": "\"Hey, Third Prince.\""
+          "text": "\"Huh?"
         },
         {
           "id": 84,
-          "paragraph_id": 77,
-          "text": "\"Huh?"
+          "paragraph_id": 76,
+          "text": "What?\""
         },
         {
           "id": 85,
           "paragraph_id": 77,
-          "text": "What?\""
+          "text": "Lovis came out of his reverie."
         },
         {
           "id": 86,
           "paragraph_id": 78,
-          "text": "Lovis came out of his reverie."
+          "text": "\"You should call your butler inside.\""
         },
         {
           "id": 87,
           "paragraph_id": 79,
-          "text": "\"You should call your butler inside.\""
-        },
-        {
-          "id": 88,
-          "paragraph_id": 80,
           "text": "\"Huh?"
         },
         {
-          "id": 89,
-          "paragraph_id": 80,
+          "id": 88,
+          "paragraph_id": 79,
           "text": "What are you talking about?"
         },
         {
-          "id": 90,
-          "paragraph_id": 80,
+          "id": 89,
+          "paragraph_id": 79,
           "text": "I have not brought him here."
+        },
+        {
+          "id": 90,
+          "paragraph_id": 79,
+          "text": "Why would I bring him, I just came her-\""
         },
         {
           "id": 91,
           "paragraph_id": 80,
-          "text": "Why would I bring him, I just came her-\""
+          "text": "\"You don't have to come up with any excuses, I know that butler is outside, call him in,\" Nux spoke."
         },
         {
           "id": 92,
           "paragraph_id": 81,
-          "text": "\"You don't have to come up with any excuses, I know that butler is outside, call him in,\" Nux spoke."
+          "text": "\"Are you doubting my words?\" Lovis narrowed his eyes."
         },
         {
           "id": 93,
           "paragraph_id": 82,
-          "text": "\"Are you doubting my words?\" Lovis narrowed his eyes."
+          "text": "\"Just call him in, it would be too late to regret if you don't.\" Nux wasn't the least bit intimidated by his gaze and spoke nonchalantly."
         },
         {
           "id": 94,
           "paragraph_id": 83,
-          "text": "\"Just call him in, it would be too late to regret if you don't.\" Nux wasn't the least bit intimidated by his gaze and spoke nonchalantly."
+          "text": "Lovis frowned, \"Are you threatening me?\""
         },
         {
           "id": 95,
           "paragraph_id": 84,
-          "text": "Lovis frowned, \"Are you threatening me?\""
+          "text": "Nux sighed, \"I am not threatening you, you fool."
         },
         {
           "id": 96,
-          "paragraph_id": 85,
-          "text": "Nux sighed, \"I am not threatening you, you fool."
+          "paragraph_id": 84,
+          "text": "We will be surrounded soon, call him in, he would be of help.\""
         },
         {
           "id": 97,
           "paragraph_id": 85,
-          "text": "We will be surrounded soon, call him in, he would be of help.\""
+          "text": "\"Huh?\" Lovis frowned."
         },
         {
           "id": 98,
           "paragraph_id": 86,
-          "text": "\"Huh?\" Lovis frowned."
+          "text": "\"Why do you think someone would go as far as to write a fake letter to call you here?"
         },
         {
           "id": 99,
-          "paragraph_id": 87,
-          "text": "\"Why do you think someone would go as far as to write a fake letter to call you here?"
+          "paragraph_id": 86,
+          "text": "Just because you brother and sister can have a nice little chat?\""
         },
         {
           "id": 100,
           "paragraph_id": 87,
-          "text": "Just because you brother and sister can have a nice little chat?\""
+          "text": "Nux didn't need to explain more, Lovis understood, and with a serious look on his face, he ordered,"
         },
         {
           "id": 101,
           "paragraph_id": 88,
-          "text": "Nux didn't need to explain more, Lovis understood, and with a serious look on his face, he ordered,"
+          "text": "\"Leo, come in.\""
         },
         {
           "id": 102,
           "paragraph_id": 89,
-          "text": "\"Leo, come in.\""
+          "text": "As if waiting for this order, the butler walked into the room with a frown on his face."
         },
         {
           "id": 103,
           "paragraph_id": 90,
-          "text": "As if waiting for this order, the butler walked into the room with a frown on his face."
+          "text": "\"Hmm, 2 Expert Stage Cultivators, 4 Grand Master Stage Cultivators..."
         },
         {
           "id": 104,
-          "paragraph_id": 91,
-          "text": "\"Hmm, 2 Expert Stage Cultivators, 4 Grand Master Stage Cultivators..."
+          "paragraph_id": 90,
+          "text": "I think we have a fair chance in this battle.\""
         },
         {
           "id": 105,
           "paragraph_id": 91,
-          "text": "I think we have a fair chance in this battle.\""
+          "text": "Nux muttered."
         },
         {
           "id": 106,
           "paragraph_id": 92,
-          "text": "Nux muttered."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 93,
           "text": "\"Are you a fool?"
         },
         {
-          "id": 108,
-          "paragraph_id": 93,
+          "id": 107,
+          "paragraph_id": 92,
           "text": "We only have 2 Grand Master Stage Cultivators."
+        },
+        {
+          "id": 108,
+          "paragraph_id": 92,
+          "text": "Me and you.\" Lovis snorted."
         },
         {
           "id": 109,
           "paragraph_id": 93,
-          "text": "Me and you.\" Lovis snorted."
+          "text": "\"I know that, of course.\" Nux nodded with a confused look on his face."
         },
         {
           "id": 110,
           "paragraph_id": 94,
-          "text": "\"I know that, of course.\" Nux nodded with a confused look on his face."
+          "text": "\"Why did you say 4 Grand Master Stage Cultivators then?\""
         },
         {
           "id": 111,
           "paragraph_id": 95,
-          "text": "\"Why did you say 4 Grand Master Stage Cultivators then?\""
-        },
-        {
-          "id": 112,
-          "paragraph_id": 96,
           "text": "\"I was talking about the enemies, you dumb fuck.\""
         }
       ],
@@ -29202,7 +29148,6 @@
         "You are stronger than I thought, Evane.'",
         "With a small smile on his face, Nux walked out of the room.",
         "Just like that, a long night finally ended.",
-        "...",
         "*Knock* *Knock* *Knock*",
         "The next day, Kelton walked towards Amaya's room and knocked.",
         "\"...\"",
@@ -29548,265 +29493,260 @@
         {
           "id": 59,
           "paragraph_id": 55,
-          "text": "..."
+          "text": "*Knock* *Knock* *Knock*"
         },
         {
           "id": 60,
           "paragraph_id": 56,
-          "text": "*Knock* *Knock* *Knock*"
+          "text": "The next day, Kelton walked towards Amaya's room and knocked."
         },
         {
           "id": 61,
           "paragraph_id": 57,
-          "text": "The next day, Kelton walked towards Amaya's room and knocked."
+          "text": "\"...\""
         },
         {
           "id": 62,
           "paragraph_id": 58,
-          "text": "\"...\""
+          "text": "However, he didn't receive any answer."
         },
         {
           "id": 63,
           "paragraph_id": 59,
-          "text": "However, he didn't receive any answer."
+          "text": "Kelton frowned,"
         },
         {
           "id": 64,
           "paragraph_id": 60,
-          "text": "Kelton frowned,"
+          "text": "\"Lady Amaya.\""
         },
         {
           "id": 65,
           "paragraph_id": 61,
-          "text": "\"Lady Amaya.\""
+          "text": "He called out and knocked again."
         },
         {
           "id": 66,
           "paragraph_id": 62,
-          "text": "He called out and knocked again."
+          "text": "*Knock* *Knock* *Knock*"
         },
         {
           "id": 67,
           "paragraph_id": 63,
-          "text": "*Knock* *Knock* *Knock*"
+          "text": "\"...\""
         },
         {
           "id": 68,
           "paragraph_id": 64,
-          "text": "\"...\""
+          "text": "But again, no one answered."
         },
         {
           "id": 69,
           "paragraph_id": 65,
-          "text": "But again, no one answered."
+          "text": "Kelton waited for a while and continued to knock, however, 10 minutes later, when no one answered, a worried look appeared on his face and he decided to barge in."
         },
         {
           "id": 70,
           "paragraph_id": 66,
-          "text": "Kelton waited for a while and continued to knock, however, 10 minutes later, when no one answered, a worried look appeared on his face and he decided to barge in."
+          "text": "He tried opening the door but he then realized that the door was locked."
         },
         {
           "id": 71,
           "paragraph_id": 67,
-          "text": "He tried opening the door but he then realized that the door was locked."
+          "text": "A solemn look appeared on Amaya's face."
         },
         {
           "id": 72,
           "paragraph_id": 68,
-          "text": "A solemn look appeared on Amaya's face."
+          "text": "Ever since Amaya's 'Curse' had gone out of control, she had stopped locking the doors."
         },
         {
           "id": 73,
           "paragraph_id": 69,
-          "text": "Ever since Amaya's 'Curse' had gone out of control, she had stopped locking the doors."
+          "text": "Something was definitely not right."
         },
         {
           "id": 74,
           "paragraph_id": 70,
-          "text": "Something was definitely not right."
+          "text": "Kelton realized it, therefore, without waiting, he smashed the door open and barged inside Amaya's room."
         },
         {
           "id": 75,
           "paragraph_id": 71,
-          "text": "Kelton realized it, therefore, without waiting, he smashed the door open and barged inside Amaya's room."
+          "text": "\"Lady Amaya?\""
         },
         {
           "id": 76,
           "paragraph_id": 72,
-          "text": "\"Lady Amaya?\""
+          "text": "He called out."
         },
         {
           "id": 77,
           "paragraph_id": 73,
-          "text": "He called out."
+          "text": "\"...\""
         },
         {
           "id": 78,
           "paragraph_id": 74,
-          "text": "\"...\""
+          "text": "Again, he didn't receive any answer."
         },
         {
           "id": 79,
           "paragraph_id": 75,
-          "text": "Again, he didn't receive any answer."
+          "text": "'Is she not here?'"
         },
         {
           "id": 80,
           "paragraph_id": 76,
-          "text": "'Is she not here?'"
+          "text": "Kelton wondered in his head, soon, however, his eyes widened in surprise."
         },
         {
           "id": 81,
           "paragraph_id": 77,
-          "text": "Kelton wondered in his head, soon, however, his eyes widened in surprise."
+          "text": "There was blood!"
         },
         {
           "id": 82,
           "paragraph_id": 78,
-          "text": "There was blood!"
+          "text": "He quickly rushed and crouched near the blood, then he noticed the trail going toward the window."
         },
         {
           "id": 83,
           "paragraph_id": 79,
-          "text": "He quickly rushed and crouched near the blood, then he noticed the trail going toward the window."
+          "text": "Missing Amaya, blood inside her room, something was definitely wrong."
         },
         {
           "id": 84,
           "paragraph_id": 80,
-          "text": "Missing Amaya, blood inside her room, something was definitely wrong."
+          "text": "Kelton panicked, he followed the blood trail and opened the window."
         },
         {
           "id": 85,
           "paragraph_id": 81,
-          "text": "Kelton panicked, he followed the blood trail and opened the window."
+          "text": "His eyes then fell on the blood on the ground and he assumed the worse possibility."
         },
         {
           "id": 86,
           "paragraph_id": 82,
-          "text": "His eyes then fell on the blood on the ground and he assumed the worse possibility."
+          "text": "With a determined look on his face, he rushed out of Amaya's room and rushed towards the King's room."
         },
         {
           "id": 87,
           "paragraph_id": 83,
-          "text": "With a determined look on his face, he rushed out of Amaya's room and rushed towards the King's room."
+          "text": "\"Stop!\""
         },
         {
           "id": 88,
           "paragraph_id": 84,
-          "text": "\"Stop!\""
+          "text": "However, there, he was stopped by the guards."
         },
         {
           "id": 89,
           "paragraph_id": 85,
-          "text": "However, there, he was stopped by the guards."
+          "text": "\"I need to talk to the king!"
         },
         {
           "id": 90,
-          "paragraph_id": 86,
-          "text": "\"I need to talk to the king!"
+          "paragraph_id": 85,
+          "text": "Something happened!\""
         },
         {
           "id": 91,
           "paragraph_id": 86,
-          "text": "Something happened!\""
+          "text": "Kelton shouted."
         },
         {
           "id": 92,
           "paragraph_id": 87,
-          "text": "Kelton shouted."
+          "text": "\"The King is busy, he cannot talk to anyone right now.\""
         },
         {
           "id": 93,
           "paragraph_id": 88,
-          "text": "\"The King is busy, he cannot talk to anyone right now.\""
+          "text": "The Guard shook his head."
         },
         {
           "id": 94,
           "paragraph_id": 89,
-          "text": "The Guard shook his head."
+          "text": "\"This is important!\" Kelton didn't back down."
         },
         {
           "id": 95,
           "paragraph_id": 90,
-          "text": "\"This is important!\" Kelton didn't back down."
+          "text": "The Guard, however, shook his head again."
         },
         {
           "id": 96,
-          "paragraph_id": 91,
-          "text": "The Guard, however, shook his head again."
+          "paragraph_id": 90,
+          "text": "\"As I said, the King is busy, no matter how important it is, come later.\""
         },
         {
           "id": 97,
           "paragraph_id": 91,
-          "text": "\"As I said, the King is busy, no matter how important it is, come later.\""
-        },
-        {
-          "id": 98,
-          "paragraph_id": 92,
           "text": "\"Lady Amaya is missing, there is blood inside her room, I assume that she was attacked last night!"
         },
         {
-          "id": 99,
-          "paragraph_id": 92,
+          "id": 98,
+          "paragraph_id": 91,
           "text": "I need to talk to the King, we need to search for her if she is still alive!"
+        },
+        {
+          "id": 99,
+          "paragraph_id": 91,
+          "text": "We also need to catch the culprit!\""
         },
         {
           "id": 100,
           "paragraph_id": 92,
-          "text": "We also need to catch the culprit!\""
+          "text": "Kelton described everything."
         },
         {
           "id": 101,
           "paragraph_id": 93,
-          "text": "Kelton described everything."
+          "text": "Hearing his words, the guard frowned,"
         },
         {
           "id": 102,
           "paragraph_id": 94,
-          "text": "Hearing his words, the guard frowned,"
+          "text": "\"What?"
         },
         {
           "id": 103,
-          "paragraph_id": 95,
-          "text": "\"What?"
+          "paragraph_id": 94,
+          "text": "Lady Amaya was attacked as well?\""
         },
         {
           "id": 104,
           "paragraph_id": 95,
-          "text": "Lady Amaya was attacked as well?\""
+          "text": "\"Of course she is, do you think I am lying to y- Wait, as well?"
         },
         {
           "id": 105,
-          "paragraph_id": 96,
-          "text": "\"Of course she is, do you think I am lying to y- Wait, as well?"
+          "paragraph_id": 95,
+          "text": "What do you mean?\""
         },
         {
           "id": 106,
           "paragraph_id": 96,
-          "text": "What do you mean?\""
+          "text": "Kelton questioned."
         },
         {
           "id": 107,
           "paragraph_id": 97,
-          "text": "Kelton questioned."
+          "text": "\"Princess Evane and Prince Lovis were attacked last night and,"
         },
         {
           "id": 108,
           "paragraph_id": 98,
-          "text": "\"Princess Evane and Prince Lovis were attacked last night and,"
+          "text": "Prince Lovis didn't survive.\""
         },
         {
           "id": 109,
           "paragraph_id": 99,
-          "text": "Prince Lovis didn't survive.\""
-        },
-        {
-          "id": 110,
-          "paragraph_id": 100,
           "text": "The Guard revealed."
         }
       ],
-      "word_count": 1025
+      "word_count": 1024
     },
     {
       "chapter_index": 444,
@@ -30943,7 +30883,6 @@
         "[STM: 71]",
         "[INT: 144]",
         "[DEF: 62]",
-        "...",
         "'Hmm, nothing special.'",
         "That was Nux's first thought. He then looked around and then his eyes fell on Keeve,",
         "'Ah, I have seen him before.'",
@@ -31317,250 +31256,245 @@
         {
           "id": 65,
           "paragraph_id": 57,
-          "text": "..."
+          "text": "'Hmm, nothing special.'"
         },
         {
           "id": 66,
           "paragraph_id": 58,
-          "text": "'Hmm, nothing special.'"
+          "text": "That was Nux's first thought."
         },
         {
           "id": 67,
-          "paragraph_id": 59,
-          "text": "That was Nux's first thought."
+          "paragraph_id": 58,
+          "text": "He then looked around and then his eyes fell on Keeve,"
         },
         {
           "id": 68,
           "paragraph_id": 59,
-          "text": "He then looked around and then his eyes fell on Keeve,"
+          "text": "'Ah, I have seen him before.'"
         },
         {
           "id": 69,
           "paragraph_id": 60,
-          "text": "'Ah, I have seen him before.'"
+          "text": "Nux recalled, he continued to look around, he saw there were 10 members of the Shadow Unit in this Hall, 3 of them, including Keeve, were King Stage Cultivators and the rest were all Expert Stage Cultivators."
         },
         {
           "id": 70,
           "paragraph_id": 61,
-          "text": "Nux recalled, he continued to look around, he saw there were 10 members of the Shadow Unit in this Hall, 3 of them, including Keeve, were King Stage Cultivators and the rest were all Expert Stage Cultivators."
+          "text": "Seeing this, a smile appeared on Nux's face,"
         },
         {
           "id": 71,
           "paragraph_id": 62,
-          "text": "Seeing this, a smile appeared on Nux's face,"
+          "text": "'The Royal Family is stronger than I thought.'"
         },
         {
           "id": 72,
           "paragraph_id": 63,
-          "text": "'The Royal Family is stronger than I thought.'"
+          "text": "If anyone heard how strong the Shadow Unit actually is, they would simply tremble from fear, Nux, however, was different."
         },
         {
           "id": 73,
-          "paragraph_id": 64,
-          "text": "If anyone heard how strong the Shadow Unit actually is, they would simply tremble from fear, Nux, however, was different."
+          "paragraph_id": 63,
+          "text": "Even if all these come at him together, he was sure that he could deal with them."
         },
         {
           "id": 74,
           "paragraph_id": 64,
-          "text": "Even if all these come at him together, he was sure that he could deal with them."
+          "text": "However, he also knew that this wasn't the Royal Family's main power."
         },
         {
           "id": 75,
           "paragraph_id": 65,
-          "text": "However, he also knew that this wasn't the Royal Family's main power."
+          "text": "The interesting thing to note was that the King was not sitting on the Throne."
         },
         {
           "id": 76,
           "paragraph_id": 66,
-          "text": "The interesting thing to note was that the King was not sitting on the Throne."
+          "text": "He was sitting on the seat below the Throne."
         },
         {
           "id": 77,
           "paragraph_id": 67,
-          "text": "He was sitting on the seat below the Throne."
+          "text": "On the Throne sat a black-haired woman that had a suffocating aura around her."
         },
         {
           "id": 78,
           "paragraph_id": 68,
-          "text": "On the Throne sat a black-haired woman that had a suffocating aura around her."
+          "text": "The moment Nux's eyes fell on the woman, his danger senses kicked in, this woman was dangerous, and he could feel it."
         },
         {
           "id": 79,
           "paragraph_id": 69,
-          "text": "The moment Nux's eyes fell on the woman, his danger senses kicked in, this woman was dangerous, and he could feel it."
+          "text": "He didn't need [Eye Of Discerning] to tell who she was."
         },
         {
           "id": 80,
           "paragraph_id": 70,
-          "text": "He didn't need [Eye Of Discerning] to tell who she was."
+          "text": "She was Astaria Skyfall, the strongest being in this world."
         },
         {
           "id": 81,
           "paragraph_id": 71,
-          "text": "She was Astaria Skyfall, the strongest being in this world."
+          "text": "Nux took a deep breath, his golden eyes then shined and soon, Astaria's information appeared in front of him."
         },
         {
           "id": 82,
           "paragraph_id": 72,
-          "text": "Nux took a deep breath, his golden eyes then shined and soon, Astaria's information appeared in front of him."
+          "text": "[Name: Astaria Skyfall.]"
         },
         {
           "id": 83,
           "paragraph_id": 73,
-          "text": "[Name: Astaria Skyfall.]"
+          "text": "[Age: 318]"
         },
         {
           "id": 84,
           "paragraph_id": 74,
-          "text": "[Age: 318]"
+          "text": "[Mana Cultivation: Emperor.]"
         },
         {
           "id": 85,
           "paragraph_id": 75,
-          "text": "[Mana Cultivation: Emperor.]"
+          "text": "[Body Cultivation: Mortal.]"
         },
         {
           "id": 86,
           "paragraph_id": 76,
-          "text": "[Body Cultivation: Mortal.]"
+          "text": "[Race: Human]"
         },
         {
           "id": 87,
           "paragraph_id": 77,
-          "text": "[Race: Human]"
+          "text": "[Occupation: Dowager of the Skyfall Kingdom.]"
         },
         {
           "id": 88,
           "paragraph_id": 78,
-          "text": "[Occupation: Dowager of the Skyfall Kingdom.]"
+          "text": "[Talent: Exceptional]"
         },
         {
           "id": 89,
           "paragraph_id": 79,
-          "text": "[Talent: Exceptional]"
+          "text": "[LVL: 70]"
         },
         {
           "id": 90,
           "paragraph_id": 80,
-          "text": "[LVL: 70]"
+          "text": "'Huh?"
         },
         {
           "id": 91,
-          "paragraph_id": 81,
-          "text": "'Huh?"
+          "paragraph_id": 80,
+          "text": "What?'"
         },
         {
           "id": 92,
           "paragraph_id": 81,
-          "text": "What?'"
+          "text": "Nux frowned."
         },
         {
           "id": 93,
           "paragraph_id": 82,
-          "text": "Nux frowned."
+          "text": "'That's it?'"
         },
         {
           "id": 94,
           "paragraph_id": 83,
-          "text": "'That's it?'"
+          "text": "He couldn't understand."
         },
         {
           "id": 95,
           "paragraph_id": 84,
-          "text": "He couldn't understand."
+          "text": "Why couldn't he see anything?"
         },
         {
           "id": 96,
           "paragraph_id": 85,
-          "text": "Why couldn't he see anything?"
+          "text": "Name, Age, Cultivation, Race, Occupation, Talent, and Level?"
         },
         {
           "id": 97,
           "paragraph_id": 86,
-          "text": "Name, Age, Cultivation, Race, Occupation, Talent, and Level?"
+          "text": "Why is there only irrelevant information?"
         },
         {
           "id": 98,
-          "paragraph_id": 87,
-          "text": "Why is there only irrelevant information?"
+          "paragraph_id": 86,
+          "text": "Where is the rest?"
         },
         {
           "id": 99,
           "paragraph_id": 87,
-          "text": "Where is the rest?"
+          "text": "What about her MP, her HP, her STR, her main stats?"
         },
         {
           "id": 100,
-          "paragraph_id": 88,
-          "text": "What about her MP, her HP, her STR, her main stats?"
+          "paragraph_id": 87,
+          "text": "Why couldn't he see them?"
         },
         {
           "id": 101,
           "paragraph_id": 88,
-          "text": "Why couldn't he see them?"
+          "text": "What happened?"
         },
         {
           "id": 102,
           "paragraph_id": 89,
-          "text": "What happened?"
+          "text": "\"Hmmm?\""
         },
         {
           "id": 103,
           "paragraph_id": 90,
-          "text": "\"Hmmm?\""
+          "text": "While Nux was busy analyzing her, Astaria, who wanted to meet Evane quickly ignored her as her eyes fell on someone much more interesting than whatever was going on here."
         },
         {
           "id": 104,
           "paragraph_id": 91,
-          "text": "While Nux was busy analyzing her, Astaria, who wanted to meet Evane quickly ignored her as her eyes fell on someone much more interesting than whatever was going on here."
+          "text": "Yes, her eyes fell on Nux."
         },
         {
           "id": 105,
           "paragraph_id": 92,
-          "text": "Yes, her eyes fell on Nux."
+          "text": "And soon, a question popped up in her mind."
         },
         {
           "id": 106,
           "paragraph_id": 93,
-          "text": "And soon, a question popped up in her mind."
+          "text": "\"Second Princess Evane.\""
         },
         {
           "id": 107,
           "paragraph_id": 94,
-          "text": "\"Second Princess Evane.\""
+          "text": "She called out."
         },
         {
           "id": 108,
           "paragraph_id": 95,
-          "text": "She called out."
+          "text": "\"Y-Yes, Dowager.\""
         },
         {
           "id": 109,
           "paragraph_id": 96,
-          "text": "\"Y-Yes, Dowager.\""
+          "text": "Evane replied."
         },
         {
           "id": 110,
           "paragraph_id": 97,
-          "text": "Evane replied."
+          "text": "If it was any other situation, Astaria would have frowned and would have told Evane not to call her that, however, right now, she wasn't even actually looking at Evane."
         },
         {
           "id": 111,
           "paragraph_id": 98,
-          "text": "If it was any other situation, Astaria would have frowned and would have told Evane not to call her that, however, right now, she wasn't even actually looking at Evane."
+          "text": "With her eyes still stuck on Nux, she questioned."
         },
         {
           "id": 112,
           "paragraph_id": 99,
-          "text": "With her eyes still stuck on Nux, she questioned."
-        },
-        {
-          "id": 113,
-          "paragraph_id": 100,
           "text": "\"Why is a King Stage Cultivator following you as your servant?\""
         }
       ],
-      "word_count": 1037
+      "word_count": 1036
     },
     {
       "chapter_index": 447,

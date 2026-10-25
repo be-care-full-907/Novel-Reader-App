@@ -15998,7 +15998,6 @@
         "Relics, Treasures, and Artifacts recovered from Draventhis (Conditions applied).",
         "Permanent status as elite partners of Velcria's ruling council, granting access to exclusive contracts, missions, and resources.",
         "Reputation: Successfully completing this mission will cement your mercenary party's reputation as legends capable of turning the tide of world-shaping conflicts.",
-        "...",
         "\"Woah...\"",
         "Edda couldn't help but voice her amazement. It wasn't just her; the rest of the women",
         "were taken aback as well,",
@@ -16349,265 +16348,260 @@
         {
           "id": 60,
           "paragraph_id": 45,
-          "text": "..."
+          "text": "\"Woah...\""
         },
         {
           "id": 61,
           "paragraph_id": 46,
-          "text": "\"Woah...\""
+          "text": "Edda couldn't help but voice her amazement."
         },
         {
           "id": 62,
-          "paragraph_id": 47,
-          "text": "Edda couldn't help but voice her amazement."
+          "paragraph_id": 46,
+          "text": "It wasn't just her; the rest of the women"
         },
         {
           "id": 63,
           "paragraph_id": 47,
-          "text": "It wasn't just her; the rest of the women"
+          "text": "were taken aback as well,"
         },
         {
           "id": 64,
           "paragraph_id": 48,
-          "text": "were taken aback as well,"
+          "text": "\"This... is much grander than I thought.\""
         },
         {
           "id": 65,
           "paragraph_id": 49,
-          "text": "\"This... is much grander than I thought.\""
+          "text": "Rune commented, and Thyra nodded with a solemn look on her face."
         },
         {
           "id": 66,
           "paragraph_id": 50,
-          "text": "Rune commented, and Thyra nodded with a solemn look on her face."
+          "text": "\"I thought the mission would be enlisting into a world's army as soldiers and then"
         },
         {
           "id": 67,
           "paragraph_id": 51,
-          "text": "\"I thought the mission would be enlisting into a world's army as soldiers and then"
+          "text": "continuing from there.\""
         },
         {
           "id": 68,
           "paragraph_id": 52,
-          "text": "continuing from there.\""
+          "text": "Melia muttered, and the others nodded."
         },
         {
           "id": 69,
           "paragraph_id": 53,
-          "text": "Melia muttered, and the others nodded."
+          "text": "\"Mhm, this one looks like all the control is given to us.\" Aisha nodded."
         },
         {
           "id": 70,
           "paragraph_id": 54,
-          "text": "\"Mhm, this one looks like all the control is given to us.\" Aisha nodded."
+          "text": "\"There were missions where we were enlisted into armies; those missions were from middle-level worlds."
         },
         {
           "id": 71,
-          "paragraph_id": 55,
-          "text": "\"There were missions where we were enlisted into armies; those missions were from middle-level worlds."
+          "paragraph_id": 54,
+          "text": "There were even some from low-level worlds, but the rewards"
         },
         {
           "id": 72,
           "paragraph_id": 55,
-          "text": "There were even some from low-level worlds, but the rewards"
+          "text": "were low.\""
         },
         {
           "id": 73,
           "paragraph_id": 56,
-          "text": "were low.\""
+          "text": "Astaria answered."
         },
         {
           "id": 74,
           "paragraph_id": 57,
-          "text": "Astaria answered."
+          "text": "\"Rewards?\" Allura frowned."
         },
         {
           "id": 75,
           "paragraph_id": 58,
-          "text": "\"Rewards?\" Allura frowned."
+          "text": "After all, the last thing they cared about was rewards."
         },
         {
           "id": 76,
           "paragraph_id": 59,
-          "text": "After all, the last thing they cared about was rewards."
+          "text": "\"Reputation.\""
         },
         {
           "id": 77,
           "paragraph_id": 60,
-          "text": "\"Reputation.\""
+          "text": "Astaria clarified."
         },
         {
           "id": 78,
           "paragraph_id": 61,
-          "text": "Astaria clarified."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 62,
           "text": "\"Even if we are now Elite Mercenaries, we aren't the best."
         },
         {
-          "id": 80,
-          "paragraph_id": 62,
+          "id": 79,
+          "paragraph_id": 61,
           "text": "Yes, we can take any missions we want; however, the elite missions are different from normal missions."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 61,
+          "text": "In these missions, the one who enlisted them can decide whether they want a certain"
         },
         {
           "id": 81,
           "paragraph_id": 62,
-          "text": "In these missions, the one who enlisted them can decide whether they want a certain"
+          "text": "party on their mission or not."
         },
         {
           "id": 82,
           "paragraph_id": 63,
-          "text": "party on their mission or not."
+          "text": "Our party's reputation only extends to our mercenary world."
         },
         {
           "id": 83,
-          "paragraph_id": 64,
-          "text": "Our party's reputation only extends to our mercenary world."
+          "paragraph_id": 63,
+          "text": "In the other mercenary worlds, we are nothing but a nameless party."
         },
         {
           "id": 84,
           "paragraph_id": 64,
-          "text": "In the other mercenary worlds, we are nothing but a nameless party."
+          "text": "There are chances we might get rejected by the party that enlisted the mission."
         },
         {
           "id": 85,
-          "paragraph_id": 65,
-          "text": "There are chances we might get rejected by the party that enlisted the mission."
+          "paragraph_id": 64,
+          "text": "This is also the reason it takes a few days to accept elite missions; it doesn't get accepted"
         },
         {
           "id": 86,
           "paragraph_id": 65,
-          "text": "This is also the reason it takes a few days to accept elite missions; it doesn't get accepted"
+          "text": "until the enlisting party approves of us."
         },
         {
           "id": 87,
           "paragraph_id": 66,
-          "text": "until the enlisting party approves of us."
+          "text": "Actually, before this, our party was rejected two times.\""
         },
         {
           "id": 88,
           "paragraph_id": 67,
-          "text": "Actually, before this, our party was rejected two times.\""
+          "text": "\"We were rejected...?\""
         },
         {
           "id": 89,
           "paragraph_id": 68,
-          "text": "\"We were rejected...?\""
+          "text": "Ember blinked."
         },
         {
           "id": 90,
           "paragraph_id": 69,
-          "text": "Ember blinked."
+          "text": "\"Mhm.\""
         },
         {
           "id": 91,
           "paragraph_id": 70,
-          "text": "\"Mhm.\""
+          "text": "Astaria."
         },
         {
           "id": 92,
           "paragraph_id": 71,
-          "text": "Astaria."
+          "text": "\"The only reason Velcria accepted us was because we never failed even a single"
         },
         {
           "id": 93,
           "paragraph_id": 72,
-          "text": "\"The only reason Velcria accepted us was because we never failed even a single"
+          "text": "mission till now."
         },
         {
           "id": 94,
           "paragraph_id": 73,
-          "text": "mission till now."
+          "text": "Also, the rumors of us annihilating that Titan's Party might have had a hand in it as"
         },
         {
           "id": 95,
           "paragraph_id": 74,
-          "text": "Also, the rumors of us annihilating that Titan's Party might have had a hand in it as"
+          "text": "well.\""
         },
         {
           "id": 96,
           "paragraph_id": 75,
-          "text": "well.\""
+          "text": "\"The rumors spread that far?\""
         },
         {
           "id": 97,
           "paragraph_id": 76,
-          "text": "\"The rumors spread that far?\""
+          "text": "Allura was surprised."
         },
         {
           "id": 98,
           "paragraph_id": 77,
-          "text": "Allura was surprised."
+          "text": "\"Well, they are in a pinch, so it wouldn't be a surprise if they do their research.\""
         },
         {
           "id": 99,
           "paragraph_id": 78,
-          "text": "\"Well, they are in a pinch, so it wouldn't be a surprise if they do their research.\""
+          "text": "Astaria shrugged."
         },
         {
           "id": 100,
           "paragraph_id": 79,
-          "text": "Astaria shrugged."
+          "text": "\"But still..."
         },
         {
           "id": 101,
           "paragraph_id": 80,
-          "text": "\"But still..."
+          "text": "We were rejected..."
         },
         {
           "id": 102,
           "paragraph_id": 81,
-          "text": "We were rejected..."
+          "text": "That too, in a Mission related to a War.\""
         },
         {
           "id": 103,
           "paragraph_id": 82,
-          "text": "That too, in a Mission related to a War.\""
+          "text": "Ember spoke in a low voice."
         },
         {
           "id": 104,
           "paragraph_id": 83,
-          "text": "Ember spoke in a low voice."
+          "text": "\"I guess we need to make a name for ourselves in this mission to make sure that"
         },
         {
           "id": 105,
           "paragraph_id": 84,
-          "text": "\"I guess we need to make a name for ourselves in this mission to make sure that"
+          "text": "doesn't happen again, no?\""
         },
         {
           "id": 106,
           "paragraph_id": 85,
-          "text": "doesn't happen again, no?\""
+          "text": "Astaria grinned, then her grin widened even further and,"
         },
         {
           "id": 107,
           "paragraph_id": 86,
-          "text": "Astaria grinned, then her grin widened even further and,"
+          "text": "\"Also, Nux said we do not need to hold back any longer."
         },
         {
           "id": 108,
           "paragraph_id": 87,
-          "text": "\"Also, Nux said we do not need to hold back any longer."
+          "text": "So... my fellow Leanders, go all out.\""
         },
         {
           "id": 109,
           "paragraph_id": 88,
-          "text": "So... my fellow Leanders, go all out.\""
+          "text": "The swordswoman then glanced at the dragon and,"
         },
         {
           "id": 110,
           "paragraph_id": 89,
-          "text": "The swordswoman then glanced at the dragon and,"
-        },
-        {
-          "id": 111,
-          "paragraph_id": 90,
           "text": "\"We will be relying on you, General.\""
         }
       ],
-      "word_count": 1051
+      "word_count": 1050
     },
     {
       "chapter_index": 1826,
@@ -20699,11 +20693,11 @@
         "The soldiers under her command were already motivated by her words. However, the",
         "instant she released her Aura, something within them stirred. Ember's words echoed",
         "in their heads and,",
-        "\"ATTACK!!!!\"",
+        "\"ATTACK!!!\"",
         "No one knew who screamed at first, but as he did, the rest of the soldiers started",
         "following as well.",
         "\"ATTACK!!!\"",
-        "\"YEAHHHHH!!!!\"",
+        "\"YEAHHHHH!!!\"",
         "\"FOR VELCRIA!!!\"",
         "The soldiers rushed forward.",
         "Ember, who was hovering in the air, felt connected with the soldiers, and the moment",
@@ -21296,7 +21290,7 @@
         {
           "id": 114,
           "paragraph_id": 100,
-          "text": "\"ATTACK!!!!\""
+          "text": "\"ATTACK!!!\""
         },
         {
           "id": 115,
@@ -21316,7 +21310,7 @@
         {
           "id": 118,
           "paragraph_id": 104,
-          "text": "\"YEAHHHHH!!!!\""
+          "text": "\"YEAHHHHH!!!\""
         },
         {
           "id": 119,
@@ -21453,7 +21447,7 @@
         "My soldiers,",
         "I am looking forward to the sight of you dominating the battlefield.",
         "Show them your might",
-        "The moment they heard their Leader's voice, all their doubts were cleared. \"YEAHHHH!!!!\"",
+        "The moment they heard their Leader's voice, all their doubts were cleared. \"YEAHHHH!!!\"",
         "\"FOR THE LEADER!!!\"",
         "With newfound strength and clarity in their eyes, the soldiers rushed toward the enemy force.",
         "Soon, the two supposedly equal forces clashed with each other. At first, everything was just as one would expect-the two leaders stared at each other, the two forces clashed, the soldiers fighting to a standstill.",
@@ -21743,7 +21737,7 @@
         {
           "id": 44,
           "paragraph_id": 37,
-          "text": "\"YEAHHHH!!!!\""
+          "text": "\"YEAHHHH!!!\""
         },
         {
           "id": 45,
@@ -22198,7 +22192,7 @@
         "More and more Aura burst out in the middle of the battlefield. The Law of Boundless Unity worked to its fullest.",
         "The number of soldiers under Ember's command?",
         "100.000.",
-        "\"FOR THE LEADER!!!!\"",
+        "\"FOR THE LEADER!!!\"",
         "The soldiers' combined shout was heard, shaking the entire battlefield. The enemy formations were crumbled to dust.",
         "The only thing left was to chase the running enemy and put an end to this.",
         "Yes, the battle was everything but over.",
@@ -22540,7 +22534,7 @@
         {
           "id": 54,
           "paragraph_id": 40,
-          "text": "\"FOR THE LEADER!!!!\""
+          "text": "\"FOR THE LEADER!!!\""
         },
         {
           "id": 55,
@@ -25696,7 +25690,6 @@
         "A plan to get rid of that woman as soon as possible.",
         "We need to assassinate her.\"",
         "The commanders had decided.",
-        "...",
         "As she hovered in the air, Ember saw everything. Every movement, every weakness, every opportunity. Her mind worked faster than anyone else’s, processing the chaos with cold, calculated precision.",
         "This was her forte. This was her ground.",
         "This was where General Ember shined the brightest.",
@@ -26170,165 +26163,160 @@
         {
           "id": 89,
           "paragraph_id": 60,
-          "text": "..."
-        },
-        {
-          "id": 90,
-          "paragraph_id": 61,
           "text": "As she hovered in the air, Ember saw everything."
         },
         {
-          "id": 91,
-          "paragraph_id": 61,
+          "id": 90,
+          "paragraph_id": 60,
           "text": "Every movement, every weakness, every opportunity."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 60,
+          "text": "Her mind worked faster than anyone else’s, processing the chaos with cold, calculated precision."
         },
         {
           "id": 92,
           "paragraph_id": 61,
-          "text": "Her mind worked faster than anyone else’s, processing the chaos with cold, calculated precision."
+          "text": "This was her forte."
         },
         {
           "id": 93,
-          "paragraph_id": 62,
-          "text": "This was her forte."
+          "paragraph_id": 61,
+          "text": "This was her ground."
         },
         {
           "id": 94,
           "paragraph_id": 62,
-          "text": "This was her ground."
+          "text": "This was where General Ember shined the brightest."
         },
         {
           "id": 95,
           "paragraph_id": 63,
-          "text": "This was where General Ember shined the brightest."
+          "text": "’Tandris is reinforcing their northern flank.’"
         },
         {
           "id": 96,
           "paragraph_id": 64,
-          "text": "’Tandris is reinforcing their northern flank.’"
+          "text": "She noted, her golden eyes shining as she spotted a cluster of Nightveil drifting ominously toward the vulnerable area."
         },
         {
           "id": 97,
           "paragraph_id": 65,
-          "text": "She noted, her golden eyes shining as she spotted a cluster of Nightveil drifting ominously toward the vulnerable area."
+          "text": "’Seraphytes Unit Two, focus fire on the Nightveil in the north.’"
         },
         {
           "id": 98,
           "paragraph_id": 66,
-          "text": "’Seraphytes Unit Two, focus fire on the Nightveil in the north.’"
+          "text": "She commanded, and golden beams of light sliced through the shadows, disrupting the Nightveil’s phantom forms."
         },
         {
           "id": 99,
-          "paragraph_id": 67,
-          "text": "She commanded, and golden beams of light sliced through the shadows, disrupting the Nightveil’s phantom forms."
+          "paragraph_id": 66,
+          "text": "The spectral beings recoiled, their void rifts collapsing before they could even form."
         },
         {
           "id": 100,
           "paragraph_id": 67,
-          "text": "The spectral beings recoiled, their void rifts collapsing before they could even form."
+          "text": "’Stoneborn Unit Three, shift to protect the northern flank."
         },
         {
           "id": 101,
-          "paragraph_id": 68,
-          "text": "’Stoneborn Unit Three, shift to protect the northern flank."
+          "paragraph_id": 67,
+          "text": "Sylvanix Unit Five, cover their retreat, and Unit Two, attack the Dreadborns behind you with poison clouds while Stoneborn Unit One attacks them.’"
         },
         {
           "id": 102,
           "paragraph_id": 68,
-          "text": "Sylvanix Unit Five, cover their retreat, and Unit Two, attack the Dreadborns behind you with poison clouds while Stoneborn Unit One attacks them.’"
+          "text": "The Units she commanded moved at a surprising speed."
         },
         {
           "id": 103,
           "paragraph_id": 69,
-          "text": "The Units she commanded moved at a surprising speed."
+          "text": "With a million soldiers all under the effect of the Law of Boundless Unity, the Velcria army was strengthened to an absurd degree."
         },
         {
           "id": 104,
-          "paragraph_id": 70,
-          "text": "With a million soldiers all under the effect of the Law of Boundless Unity, the Velcria army was strengthened to an absurd degree."
+          "paragraph_id": 69,
+          "text": "This, combined with Ember’s eyes that watched over the entire battlefield and her ability to command her soldiers with such precision,"
         },
         {
           "id": 105,
           "paragraph_id": 70,
-          "text": "This, combined with Ember’s eyes that watched over the entire battlefield and her ability to command her soldiers with such precision,"
+          "text": "Tandris Army was in shambles."
         },
         {
           "id": 106,
           "paragraph_id": 71,
-          "text": "Tandris Army was in shambles."
+          "text": "A complete one-sided war."
         },
         {
           "id": 107,
-          "paragraph_id": 72,
-          "text": "A complete one-sided war."
+          "paragraph_id": 71,
+          "text": "No, this was no war."
         },
         {
           "id": 108,
           "paragraph_id": 72,
-          "text": "No, this was no war."
+          "text": "It was a massacre."
         },
         {
           "id": 109,
           "paragraph_id": 73,
-          "text": "It was a massacre."
+          "text": "A massacre of Tandris’s soldiers."
         },
         {
           "id": 110,
           "paragraph_id": 74,
-          "text": "A massacre of Tandris’s soldiers."
+          "text": "’Ember.’"
         },
         {
           "id": 111,
           "paragraph_id": 75,
-          "text": "’Ember.’"
+          "text": "Suddenly, Rune called out."
         },
         {
           "id": 112,
           "paragraph_id": 76,
-          "text": "Suddenly, Rune called out."
+          "text": "Ember didn’t reply."
         },
         {
           "id": 113,
-          "paragraph_id": 77,
-          "text": "Ember didn’t reply."
+          "paragraph_id": 76,
+          "text": "The cat woman, however, knew that her sister was listening, so she continued."
         },
         {
           "id": 114,
           "paragraph_id": 77,
-          "text": "The cat woman, however, knew that her sister was listening, so she continued."
+          "text": "’Six of their commanders, Peak Divines.’"
         },
         {
           "id": 115,
           "paragraph_id": 78,
-          "text": "’Six of their commanders, Peak Divines.’"
+          "text": "The cat woman warned."
         },
         {
           "id": 116,
           "paragraph_id": 79,
-          "text": "The cat woman warned."
+          "text": "Ember, however, just chuckled and,"
         },
         {
           "id": 117,
           "paragraph_id": 80,
-          "text": "Ember, however, just chuckled and,"
+          "text": "’Let them come."
         },
         {
           "id": 118,
           "paragraph_id": 81,
-          "text": "’Let them come."
+          "text": "It is a good opportunity to deal with six high-ranking soldiers at the same time.’"
         },
         {
           "id": 119,
           "paragraph_id": 82,
-          "text": "It is a good opportunity to deal with six high-ranking soldiers at the same time.’"
-        },
-        {
-          "id": 120,
-          "paragraph_id": 83,
           "text": "Yes, the Velcria General was actually waiting for the enemy commanders to come and try to assassinate her."
         }
       ],
-      "word_count": 1209
+      "word_count": 1208
     },
     {
       "chapter_index": 1840,
@@ -27825,7 +27813,6 @@
         "Or at least that is what the Velcria leaders thought.",
         "But...",
         "On the other side, something entirely out of their expectation was happening.",
-        "...",
         "’Wait...",
         "If he said that the enemy leader was with them, where did he go?’",
         "Thyra questioned with a frown on her face, and while the rest of the women frowned in confusion, they failed to notice a shadowy being entering Ember’s shadow.",
@@ -28238,270 +28225,265 @@
         {
           "id": 73,
           "paragraph_id": 54,
-          "text": "..."
+          "text": "’Wait..."
         },
         {
           "id": 74,
           "paragraph_id": 55,
-          "text": "’Wait..."
+          "text": "If he said that the enemy leader was with them, where did he go?’"
         },
         {
           "id": 75,
           "paragraph_id": 56,
-          "text": "If he said that the enemy leader was with them, where did he go?’"
+          "text": "Thyra questioned with a frown on her face, and while the rest of the women frowned in confusion, they failed to notice a shadowy being entering Ember’s shadow."
         },
         {
           "id": 76,
           "paragraph_id": 57,
-          "text": "Thyra questioned with a frown on her face, and while the rest of the women frowned in confusion, they failed to notice a shadowy being entering Ember’s shadow."
+          "text": "At first, Ember wasn’t able to react."
         },
         {
           "id": 77,
-          "paragraph_id": 58,
-          "text": "At first, Ember wasn’t able to react."
+          "paragraph_id": 57,
+          "text": "Soon, however, her expression changed."
         },
         {
           "id": 78,
           "paragraph_id": 58,
-          "text": "Soon, however, her expression changed."
+          "text": "’Oh?"
         },
         {
           "id": 79,
-          "paragraph_id": 59,
-          "text": "’Oh?"
+          "paragraph_id": 58,
+          "text": "You sensed me?’"
         },
         {
           "id": 80,
           "paragraph_id": 59,
-          "text": "You sensed me?’"
+          "text": "She heard an eerie voice in her head."
         },
         {
           "id": 81,
           "paragraph_id": 60,
-          "text": "She heard an eerie voice in her head."
+          "text": "Ember frowned, but then she decided to answer."
         },
         {
           "id": 82,
           "paragraph_id": 61,
-          "text": "Ember frowned, but then she decided to answer."
+          "text": "’It wasn’t difficult.’"
         },
         {
           "id": 83,
           "paragraph_id": 62,
-          "text": "’It wasn’t difficult.’"
+          "text": "She shrugged."
         },
         {
           "id": 84,
           "paragraph_id": 63,
-          "text": "She shrugged."
+          "text": "’As I expected, you are exceptional.’"
         },
         {
           "id": 85,
           "paragraph_id": 64,
-          "text": "’As I expected, you are exceptional.’"
+          "text": "The eerie voice nodded."
         },
         {
           "id": 86,
           "paragraph_id": 65,
-          "text": "The eerie voice nodded."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 66,
           "text": "’You girls are quite a strange lot."
         },
         {
-          "id": 88,
-          "paragraph_id": 66,
+          "id": 87,
+          "paragraph_id": 65,
           "text": "You have caused much more harm than we were expecting."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 65,
+          "text": "Especially you.’"
         },
         {
           "id": 89,
           "paragraph_id": 66,
-          "text": "Especially you.’"
+          "text": "’Yes, this is the first time I am hearing that.’"
         },
         {
           "id": 90,
           "paragraph_id": 67,
-          "text": "’Yes, this is the first time I am hearing that.’"
+          "text": "Ember nodded casually."
         },
         {
           "id": 91,
           "paragraph_id": 68,
-          "text": "Ember nodded casually."
+          "text": "’You sound a little too calm."
         },
         {
           "id": 92,
           "paragraph_id": 69,
-          "text": "’You sound a little too calm."
+          "text": "Do you know who I am?’"
         },
         {
           "id": 93,
           "paragraph_id": 70,
-          "text": "Do you know who I am?’"
+          "text": "The eerie voice questioned in a curious tone."
         },
         {
           "id": 94,
           "paragraph_id": 71,
-          "text": "The eerie voice questioned in a curious tone."
+          "text": "’Kaelith Morvaine.’"
         },
         {
           "id": 95,
           "paragraph_id": 72,
-          "text": "’Kaelith Morvaine.’"
+          "text": "’So you do know me."
         },
         {
           "id": 96,
           "paragraph_id": 73,
-          "text": "’So you do know me."
+          "text": "How are you so calm then?"
         },
         {
           "id": 97,
-          "paragraph_id": 74,
-          "text": "How are you so calm then?"
+          "paragraph_id": 73,
+          "text": "I am curious.’"
         },
         {
           "id": 98,
           "paragraph_id": 74,
-          "text": "I am curious.’"
+          "text": "’You would have killed me by now if you wanted to.’"
         },
         {
           "id": 99,
           "paragraph_id": 75,
-          "text": "’You would have killed me by now if you wanted to.’"
+          "text": "Ember replied, and Kaelith laughed out loud."
         },
         {
           "id": 100,
           "paragraph_id": 76,
-          "text": "Ember replied, and Kaelith laughed out loud."
+          "text": "’You are indeed different from the rest."
         },
         {
           "id": 101,
-          "paragraph_id": 77,
-          "text": "’You are indeed different from the rest."
+          "paragraph_id": 76,
+          "text": "I like you.’"
         },
         {
           "id": 102,
           "paragraph_id": 77,
-          "text": "I like you.’"
+          "text": "’I have a husband.’"
         },
         {
           "id": 103,
           "paragraph_id": 78,
-          "text": "’I have a husband.’"
+          "text": "’A pity.’"
         },
         {
           "id": 104,
           "paragraph_id": 79,
-          "text": "’A pity.’"
+          "text": "Kaelith sighed."
         },
         {
           "id": 105,
           "paragraph_id": 80,
-          "text": "Kaelith sighed."
+          "text": "’Why are you here?’"
         },
         {
           "id": 106,
           "paragraph_id": 81,
-          "text": "’Why are you here?’"
+          "text": "Ember questioned directly, not wanting to continue this foolish game for long."
         },
         {
           "id": 107,
           "paragraph_id": 82,
-          "text": "Ember questioned directly, not wanting to continue this foolish game for long."
+          "text": "’Come to our side.’"
         },
         {
           "id": 108,
           "paragraph_id": 83,
-          "text": "’Come to our side.’"
+          "text": "’We took a miss—’"
         },
         {
           "id": 109,
           "paragraph_id": 84,
-          "text": "’We took a miss—’"
+          "text": "’It doesn’t matter."
         },
         {
           "id": 110,
-          "paragraph_id": 85,
-          "text": "’It doesn’t matter."
+          "paragraph_id": 84,
+          "text": "I promise you rewards far richer than what you would get from the mission.’"
         },
         {
           "id": 111,
           "paragraph_id": 85,
-          "text": "I promise you rewards far richer than what you would get from the mission.’"
+          "text": "’This was never about war."
         },
         {
           "id": 112,
           "paragraph_id": 86,
-          "text": "’This was never about war."
+          "text": "If we fail the mission, we will lose our 100% completion rate."
         },
         {
           "id": 113,
-          "paragraph_id": 87,
-          "text": "If we fail the mission, we will lose our 100% completion rate."
+          "paragraph_id": 86,
+          "text": "I cannot allow that, especially since this is the first mission I am in charge of.’"
         },
         {
           "id": 114,
           "paragraph_id": 87,
-          "text": "I cannot allow that, especially since this is the first mission I am in charge of.’"
+          "text": "Ember shook her head, and suddenly, Kaelith’s voice turned cold."
         },
         {
           "id": 115,
           "paragraph_id": 88,
-          "text": "Ember shook her head, and suddenly, Kaelith’s voice turned cold."
+          "text": "’It is a choice between your completion rate and your life."
         },
         {
           "id": 116,
-          "paragraph_id": 89,
-          "text": "’It is a choice between your completion rate and your life."
+          "paragraph_id": 88,
+          "text": "Choose wisely.’"
         },
         {
           "id": 117,
           "paragraph_id": 89,
-          "text": "Choose wisely.’"
+          "text": "He threatened."
         },
         {
           "id": 118,
           "paragraph_id": 90,
-          "text": "He threatened."
+          "text": "Ember, however, simply laughed out loud as she shook her head."
         },
         {
           "id": 119,
           "paragraph_id": 91,
-          "text": "Ember, however, simply laughed out loud as she shook her head."
+          "text": "’See?"
         },
         {
           "id": 120,
-          "paragraph_id": 92,
-          "text": "’See?"
+          "paragraph_id": 91,
+          "text": "This is where you are wrong."
         },
         {
           "id": 121,
           "paragraph_id": 92,
-          "text": "This is where you are wrong."
+          "text": "This was never about my life.’"
         },
         {
           "id": 122,
           "paragraph_id": 93,
-          "text": "This was never about my life.’"
+          "text": "The moment Ember said those words, Kaelith heard another voice."
         },
         {
           "id": 123,
           "paragraph_id": 94,
-          "text": "The moment Ember said those words, Kaelith heard another voice."
+          "text": "’I do not like when other men get too close to my wives."
         },
         {
           "id": 124,
           "paragraph_id": 95,
-          "text": "’I do not like when other men get too close to my wives."
-        },
-        {
-          "id": 125,
-          "paragraph_id": 96,
           "text": "Leave.’"
         }
       ],
-      "word_count": 1134
+      "word_count": 1133
     },
     {
       "chapter_index": 1843,
@@ -29120,7 +29102,7 @@
         "Why was this woman still alive?",
         "The three leaders glanced at each other, confused.",
         "Suddenly, Liora noticed Ember staring at her.",
-        "\"Ember, the enem–\"",
+        "\"Ember, the enem-\"",
         "The Seraphyte tried to talk. Ember, however, completely ignored her words and turned back toward the battlefield, giving orders to the soldiers.",
         "With the Leader back, the efficiency of the Velcrian soldiers increased again. The Tandris soldiers continued to fall at a scary rate, and Liora, who observed all that, couldn’t help but frown in confusion.",
         "What was happening?",
@@ -29132,7 +29114,7 @@
         "She glanced at Ember, who had called her, this time without a hint of respect in her voice.",
         "\"While we were not allies, and I wasn’t expecting anything from the beginning.",
         "It is still disappointing to see how quickly you abandoned me to die.\"",
-        "\"No, I did no–\"",
+        "\"No, I did no-\"",
         "Liora was quick to try and defend herself. Ember, however, just laughed out loud.",
         "\"It is alright, do not fret. I won’t go back on my words. I will help you win this War. Actually, I already achieved my mission by taking out one of the three enemies you were worried about.\"",
         "At those words, the three Velcrian Leaders widened their eyes in disbelief.",
@@ -29179,7 +29161,7 @@
         "Where’s the last one?",
         "Hidden somewhere?\"",
         "He laughed out loud, and the enemy Primordials could feel their mouths twitching.",
-        "\"Don’t force us to do something we do not wish t–\"",
+        "\"Don’t force us to do something we do not wish t-\"",
         "Malcharon spoke, however, before he could complete his sentence,",
         "BOOOM",
         "Kaelgran’s Aura burst out. He stared at the two Primordials and,",
@@ -29299,7 +29281,7 @@
         {
           "id": 14,
           "paragraph_id": 11,
-          "text": "\"Ember, the enem–\""
+          "text": "\"Ember, the enem-\""
         },
         {
           "id": 15,
@@ -29369,7 +29351,7 @@
         {
           "id": 28,
           "paragraph_id": 23,
-          "text": "\"No, I did no–\""
+          "text": "\"No, I did no-\""
         },
         {
           "id": 29,
@@ -29679,7 +29661,7 @@
         {
           "id": 90,
           "paragraph_id": 70,
-          "text": "\"Don’t force us to do something we do not wish t–\""
+          "text": "\"Don’t force us to do something we do not wish t-\""
         },
         {
           "id": 91,
@@ -32760,7 +32742,7 @@
         "\"Base...?\"",
         "\"Yeah? Where else did you think I sent them to?\"",
         "Aeliana tilted her head.",
-        "\"They were mercenaries...\" Continue reading on freewebnovel",
+        "\"They were mercenaries...\" Continue",
         "\"You still think us to be mercenaries? I thought my performance proved otherwise.",
         "I still have a lot to learn, huh...\"",
         "Aeliana noted.",
@@ -33068,7 +33050,7 @@
         {
           "id": 52,
           "paragraph_id": 35,
-          "text": "\"They were mercenaries...\" Continue reading on freewebnovel"
+          "text": "\"They were mercenaries...\" Continue"
         },
         {
           "id": 53,
@@ -33356,7 +33338,7 @@
           "text": "The Vampire’s smile widened, resembling a demon."
         }
       ],
-      "word_count": 1101
+      "word_count": 1098
     },
     {
       "chapter_index": 1850,
@@ -33416,7 +33398,7 @@
         "This wasn’t a battle.",
         "It was a massacre.",
         "The Primordials couldn’t win.",
-        "\"Aaaaaggghhhh!!!!\"",
+        "\"Aaaaaggghhhh!!!\"",
         "One by one, the Primordials fell, their bodies filled with cuts and bruises from all these weapons. Every single body that fell was pierced through with at least a hundred blood weapons.",
         "It was mortifying and dreadful.",
         "The Leader’s eyes reddened in rage as he saw his subordinates.",
@@ -33806,7 +33788,7 @@
         {
           "id": 73,
           "paragraph_id": 53,
-          "text": "\"Aaaaaggghhhh!!!!\""
+          "text": "\"Aaaaaggghhhh!!!\""
         },
         {
           "id": 74,

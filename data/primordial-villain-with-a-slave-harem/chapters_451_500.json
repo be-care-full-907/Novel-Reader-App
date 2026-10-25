@@ -3876,7 +3876,6 @@
         "All that was to say that mindlessly leveling was not the way. I had to master my arsenal, which in my case was much harder due to the many tools to my name.",
         "With my musings done, I returned my attention to the hordes of monsters I spied from the corner of my eyes.",
         "It was time to hone my swordsmanship.",
-        "...",
         "Read latest stories on empire",
         "In the meantime, the observation room that was occupied by the Obsidian Circle Members was eerily quiet as they sat in their ornate seats with dumbfounded expressions. None of them had ever seen an Elemental Sovereign in action, they only heard bard's tales of their achievements.",
         "However, only six people were dumbfounded. The seventh one, a gorgeous oriental woman with lush, straight long black hair, was feeling emotions her ancient heart had never known."
@@ -4175,35 +4174,30 @@
         {
           "id": 58,
           "paragraph_id": 16,
-          "text": "..."
+          "text": "Read latest stories on empire"
         },
         {
           "id": 59,
           "paragraph_id": 17,
-          "text": "Read latest stories on empire"
+          "text": "In the meantime, the observation room that was occupied by the Obsidian Circle Members was eerily quiet as they sat in their ornate seats with dumbfounded expressions."
         },
         {
           "id": 60,
-          "paragraph_id": 18,
-          "text": "In the meantime, the observation room that was occupied by the Obsidian Circle Members was eerily quiet as they sat in their ornate seats with dumbfounded expressions."
+          "paragraph_id": 17,
+          "text": "None of them had ever seen an Elemental Sovereign in action, they only heard bard's tales of their achievements."
         },
         {
           "id": 61,
           "paragraph_id": 18,
-          "text": "None of them had ever seen an Elemental Sovereign in action, they only heard bard's tales of their achievements."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 19,
           "text": "However, only six people were dumbfounded."
         },
         {
-          "id": 63,
-          "paragraph_id": 19,
+          "id": 62,
+          "paragraph_id": 18,
           "text": "The seventh one, a gorgeous oriental woman with lush, straight long black hair, was feeling emotions her ancient heart had never known."
         }
       ],
-      "word_count": 1047
+      "word_count": 1046
     },
     {
       "chapter_index": 461,
@@ -5240,7 +5234,6 @@
         "Just for the record, Vex ended up becoming the host of this event because the finance and human trafficking heads voted for her. The finance head because he knew that Vex couldn't keep her mouth from spouting nonsensical things even if her life depended on it and so he wanted to see Black Fang get embarrassed in front of the masses while the slaver just found it funny, she likely had no ulterior motives.",
         "Continue reading on empire",
         "Black Fang abstained from voting because she couldn't care less while the other circle members voted for their pupils or other backers, so Vex ended up winning the right to be the host of the event with two votes.",
-        "...",
         "- PoV: Quinlan -",
         "\"Well then, ladies and gentlemen, I'm here to announce the end of the second event today!\" Vex spoke into her microphone with a cheery tone. The 25 teams that passed, so 50 people, stood behind her. Well, not exactly 50 because some needed the attention of healers.",
         "She then continued, \"As a reminder, Monsters below level 10 were worth 1 point, between levels 11 and 15 were worth 3 points, between 16 and 20 were worth 10 points, and above level 20 gave you 25 points! Eliminating another team was worth 10 points. Now let's give loud applause to our medalists!\"",
@@ -5340,270 +5333,265 @@
         {
           "id": 14,
           "paragraph_id": 8,
-          "text": "..."
+          "text": "- PoV: Quinlan -"
         },
         {
           "id": 15,
           "paragraph_id": 9,
-          "text": "- PoV: Quinlan -"
-        },
-        {
-          "id": 16,
-          "paragraph_id": 10,
           "text": "\"Well then, ladies and gentlemen, I'm here to announce the end of the second event today!\" Vex spoke into her microphone with a cheery tone."
         },
         {
-          "id": 17,
-          "paragraph_id": 10,
+          "id": 16,
+          "paragraph_id": 9,
           "text": "The 25 teams that passed, so 50 people, stood behind her."
+        },
+        {
+          "id": 17,
+          "paragraph_id": 9,
+          "text": "Well, not exactly 50 because some needed the attention of healers."
         },
         {
           "id": 18,
           "paragraph_id": 10,
-          "text": "Well, not exactly 50 because some needed the attention of healers."
-        },
-        {
-          "id": 19,
-          "paragraph_id": 11,
           "text": "She then continued, \"As a reminder, Monsters below level 10 were worth 1 point, between levels 11 and 15 were worth 3 points, between 16 and 20 were worth 10 points, and above level 20 gave you 25 points!"
         },
         {
-          "id": 20,
-          "paragraph_id": 11,
+          "id": 19,
+          "paragraph_id": 10,
           "text": "Eliminating another team was worth 10 points."
+        },
+        {
+          "id": 20,
+          "paragraph_id": 10,
+          "text": "Now let's give loud applause to our medalists!\""
         },
         {
           "id": 21,
           "paragraph_id": 11,
-          "text": "Now let's give loud applause to our medalists!\""
+          "text": "The chanting of my criminal alias already begun before she announced it."
         },
         {
           "id": 22,
-          "paragraph_id": 12,
-          "text": "The chanting of my criminal alias already begun before she announced it."
+          "paragraph_id": 11,
+          "text": "It seems that I'd become a crowd favorite."
         },
         {
           "id": 23,
           "paragraph_id": 12,
-          "text": "It seems that I'd become a crowd favorite."
-        },
-        {
-          "id": 24,
-          "paragraph_id": 13,
           "text": "\"At first place with an incredibly overwhelming victory stands Devil and Wrath!"
         },
         {
-          "id": 25,
-          "paragraph_id": 13,
+          "id": 24,
+          "paragraph_id": 12,
           "text": "They eliminated a staggering amount of monsters, with the exact tally ending at 400, which was bolstered by the elimination of 10 competing teams."
         },
         {
-          "id": 26,
-          "paragraph_id": 13,
+          "id": 25,
+          "paragraph_id": 12,
           "text": "It was clear that their focus was not on thinning the competition but on making use of this opportunity to level up, a very ambitious mindset I think we can all admire!"
+        },
+        {
+          "id": 26,
+          "paragraph_id": 12,
+          "text": "Their point total is none other than 2010!\""
         },
         {
           "id": 27,
           "paragraph_id": 13,
-          "text": "Their point total is none other than 2010!\""
+          "text": "<Master, if you keep it up you might end up deserving another reward from your girls for a job well done.> Seraphiel congratulated me in her usual sly tone."
         },
         {
           "id": 28,
           "paragraph_id": 14,
-          "text": "<Master, if you keep it up you might end up deserving another reward from your girls for a job well done.> Seraphiel congratulated me in her usual sly tone."
+          "text": "<Master is amazing!"
         },
         {
           "id": 29,
-          "paragraph_id": 15,
-          "text": "<Master is amazing!"
+          "paragraph_id": 14,
+          "text": "Blossom loves Master.> Blossom decreed adorably."
         },
         {
           "id": 30,
           "paragraph_id": 15,
-          "text": "Blossom loves Master.> Blossom decreed adorably."
-        },
-        {
-          "id": 31,
-          "paragraph_id": 16,
           "text": "<Yeah, we know that, Blossom."
         },
         {
-          "id": 32,
-          "paragraph_id": 16,
+          "id": 31,
+          "paragraph_id": 15,
           "text": "So do we."
+        },
+        {
+          "id": 32,
+          "paragraph_id": 15,
+          "text": "Good job, Quinlan.> Lucille replied in a honeyed tone."
         },
         {
           "id": 33,
           "paragraph_id": 16,
-          "text": "Good job, Quinlan.> Lucille replied in a honeyed tone."
+          "text": "<Now I can't help but understand how Kai lost so easily.> Liora, the healer slave who I recently acquired after killing the man murmured with disbelief."
         },
         {
           "id": 34,
           "paragraph_id": 17,
-          "text": "<Now I can't help but understand how Kai lost so easily.> Liora, the healer slave who I recently acquired after killing the man murmured with disbelief."
+          "text": "<Hmm, I could've killed that spineless coward myself if I wasn't restricted by slavery magic.> Shallan added with a furious scoff before hurriedly clarifying in a worried tone, <That's not to say that you were not amazing, Lord Quinlan!"
         },
         {
           "id": 35,
-          "paragraph_id": 18,
-          "text": "<Hmm, I could've killed that spineless coward myself if I wasn't restricted by slavery magic.> Shallan added with a furious scoff before hurriedly clarifying in a worried tone, <That's not to say that you were not amazing, Lord Quinlan!"
+          "paragraph_id": 17,
+          "text": "The entire audience was buzzing with overflowing excitement at your display, I never felt anything like this before.>"
         },
         {
           "id": 36,
           "paragraph_id": 18,
-          "text": "The entire audience was buzzing with overflowing excitement at your display, I never felt anything like this before.>"
+          "text": "<Don't worry about him getting annoyed over your words, this bastard has the thickest skin in the world.> Ayame replied as she eyed me."
         },
         {
           "id": 37,
-          "paragraph_id": 19,
-          "text": "<Don't worry about him getting annoyed over your words, this bastard has the thickest skin in the world.> Ayame replied as she eyed me."
+          "paragraph_id": 18,
+          "text": "Although her mask was hiding her face, it was easy for me to tell that she had a proud smile plastered all over her beautiful face."
         },
         {
           "id": 38,
           "paragraph_id": 19,
-          "text": "Although her mask was hiding her face, it was easy for me to tell that she had a proud smile plastered all over her beautiful face."
-        },
-        {
-          "id": 39,
-          "paragraph_id": 20,
           "text": "<D-don't call Master Quinlan by such an ugly title!> Lyra barked scaredly."
         },
         {
-          "id": 40,
-          "paragraph_id": 20,
+          "id": 39,
+          "paragraph_id": 19,
           "text": "She wasn't present in the arena, but my telepathic ability didn't seem to have a range, the girls must've involved her in their chatting."
+        },
+        {
+          "id": 40,
+          "paragraph_id": 19,
+          "text": "As for why she was scared, she must've been conflicted."
         },
         {
           "id": 41,
           "paragraph_id": 20,
-          "text": "As for why she was scared, she must've been conflicted."
+          "text": "On one hand, she felt the need to protect my honor, but on the other hand, the offender this time around was none other than Ayame who was not only my lover but also my second in command."
         },
         {
           "id": 42,
-          "paragraph_id": 21,
-          "text": "On one hand, she felt the need to protect my honor, but on the other hand, the offender this time around was none other than Ayame who was not only my lover but also my second in command."
+          "paragraph_id": 20,
+          "text": "She didn't have any right to tell Ayame what she could or couldn't say, and Lyra knew it perfectly."
         },
         {
           "id": 43,
           "paragraph_id": 21,
-          "text": "She didn't have any right to tell Ayame what she could or couldn't say, and Lyra knew it perfectly."
+          "text": "Of course, my gorgeous oriental woman merely scoffed, <It seems we've gotten a second dog in our midst without my knowledge.>"
         },
         {
           "id": 44,
           "paragraph_id": 22,
-          "text": "Of course, my gorgeous oriental woman merely scoffed, <It seems we've gotten a second dog in our midst without my knowledge.>"
+          "text": "<I'm not a dog!> Lyra barked with more force in her voice this time around."
         },
         {
           "id": 45,
           "paragraph_id": 23,
-          "text": "<I'm not a dog!> Lyra barked with more force in her voice this time around."
+          "text": "However, she wasn't the only one who took offense."
         },
         {
           "id": 46,
           "paragraph_id": 24,
-          "text": "However, she wasn't the only one who took offense."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 25,
           "text": "<Blossom is not a dog!"
         },
         {
-          "id": 48,
-          "paragraph_id": 25,
+          "id": 47,
+          "paragraph_id": 24,
           "text": "She is a beast-kin and a member of the dog-kin subspecies!"
+        },
+        {
+          "id": 48,
+          "paragraph_id": 24,
+          "text": "She has no ancestral lineage connecting her to a dog, so Ayame should take her words back or Blossom will be very angry!>"
         },
         {
           "id": 49,
           "paragraph_id": 25,
-          "text": "She has no ancestral lineage connecting her to a dog, so Ayame should take her words back or Blossom will be very angry!>"
-        },
-        {
-          "id": 50,
-          "paragraph_id": 26,
           "text": "I somewhat doubted the validity of her claims, as dog-kin displayed some traits that very closely resembled the tendencies of a dog, but I couldn't refute her claims."
         },
         {
-          "id": 51,
-          "paragraph_id": 26,
+          "id": 50,
+          "paragraph_id": 25,
           "text": "After all, I had no clue how beast-kin came into existence."
         },
         {
-          "id": 52,
-          "paragraph_id": 26,
+          "id": 51,
+          "paragraph_id": 25,
           "text": "Maybe she was right and there was no beastiality involved."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 25,
+          "text": "It could've been the work of the Goddess or something."
         },
         {
           "id": 53,
           "paragraph_id": 26,
-          "text": "It could've been the work of the Goddess or something."
+          "text": "Ayame didn't seem very hurried to deliver an apology to the offended parties, so Blossom growled and in the next second, began wrestling with Ayame in the stands."
         },
         {
           "id": 54,
-          "paragraph_id": 27,
-          "text": "Ayame didn't seem very hurried to deliver an apology to the offended parties, so Blossom growled and in the next second, began wrestling with Ayame in the stands."
+          "paragraph_id": 26,
+          "text": "I shook my head amusedly as I grabbed onto Iris' hand and stepped forth."
         },
         {
           "id": 55,
           "paragraph_id": 27,
-          "text": "I shook my head amusedly as I grabbed onto Iris' hand and stepped forth."
+          "text": "The crowd began cheering even louder."
         },
         {
           "id": 56,
           "paragraph_id": 28,
-          "text": "The crowd began cheering even louder."
+          "text": "\"..."
         },
         {
           "id": 57,
-          "paragraph_id": 29,
-          "text": "\"..."
+          "paragraph_id": 28,
+          "text": "What are you doing?\" Iris inquired as she eyed the hand that pulled her to the center stage where all eyes were on the two of us."
         },
         {
           "id": 58,
           "paragraph_id": 29,
-          "text": "What are you doing?\" Iris inquired as she eyed the hand that pulled her to the center stage where all eyes were on the two of us."
+          "text": "\"It's called showmanship."
         },
         {
           "id": 59,
-          "paragraph_id": 30,
-          "text": "\"It's called showmanship."
+          "paragraph_id": 29,
+          "text": "We should give the people what they want.\" With my explanation concluded, I raised my hand which held hers high into the air triumphantly."
         },
         {
           "id": 60,
           "paragraph_id": 30,
-          "text": "We should give the people what they want.\" With my explanation concluded, I raised my hand which held hers high into the air triumphantly."
+          "text": "\"Devil!!!\" Many cries sounded from the stands, and I couldn't help but recognize that the loudest ones were very clearly the voices of women."
         },
         {
           "id": 61,
-          "paragraph_id": 31,
-          "text": "\"Devil!!!\" Many cries sounded from the stands, and I couldn't help but recognize that the loudest ones were very clearly the voices of women."
+          "paragraph_id": 30,
+          "text": "I truly gained a few hardcore fangirls."
         },
         {
           "id": 62,
           "paragraph_id": 31,
-          "text": "I truly gained a few hardcore fangirls."
-        },
-        {
-          "id": 63,
-          "paragraph_id": 32,
           "text": "\"Wrath!"
         },
         {
-          "id": 64,
-          "paragraph_id": 32,
+          "id": 63,
+          "paragraph_id": 31,
           "text": "Devil!"
         },
         {
-          "id": 65,
-          "paragraph_id": 32,
+          "id": 64,
+          "paragraph_id": 31,
           "text": "Wrath!"
         },
         {
-          "id": 66,
-          "paragraph_id": 32,
+          "id": 65,
+          "paragraph_id": 31,
           "text": "Devil!\" The chanting continued while we stood with our hands raised toward the sky."
         }
       ],
-      "word_count": 1031
+      "word_count": 1030
     },
     {
       "chapter_index": 465,
@@ -6117,7 +6105,6 @@
         "Now that I was checking if getting my Primordial Villain class to level 25 gave me any new unlockables, my eyes suddenly lit up.",
         "Oh boy. A new class was staring back at me with irresistible sultry eyes. Just the name of it gave me chills. I simply had to get this one.",
         "[Harbinger of Ruin]",
-        "...",
         "A/N: Dear free readers, please read the note below."
       ],
       "sentences": [
@@ -6494,15 +6481,10 @@
         {
           "id": 74,
           "paragraph_id": 41,
-          "text": "..."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 42,
           "text": "A/N: Dear free readers, please read the note below."
         }
       ],
-      "word_count": 1313
+      "word_count": 1312
     },
     {
       "chapter_index": 467,
@@ -6523,16 +6505,13 @@
         "This was it for the description.",
         "I went to check what these requirements were.",
         "Discover hidden tales at empire",
-        "---",
         "[Necromancer: Necromancers dominate the souls of the slain to force them into doing their bidding.]",
         "Capture the souls of 1,000 level 20+ entities 0/1,000",
         "Capture the souls of 50 level 30+ entities. 0/50",
         "Capture the souls of 1 level 40+ entity. 0/1",
-        "---",
         "[Blood Mage: Blood Mages manipulate the life essence of living beings to their advantage.",
         "Drink the blood of a level 70+ entity.",
         "Obtain a blood storage artifact and fill it to the brim with the blood of your slain enemies. Must be at least 1,000 liters.",
-        "---",
         "[Plaguebearer: ???]",
         "[Chrono Corruptor: ???]",
         "[Madness Weaver: ???]",
@@ -6542,7 +6521,6 @@
         "[Chaos Reaver: ???]",
         "[Abysswalker: ???]",
         "[???: ???]",
-        "---",
         "Would you look at that, I think I just found the class of my mental patient of a future wife. To be fair, since it seems very likely that I will be having multiple mentally unwell women in my harem in the future, I should specify that I was referring to Vex in this instance. She has the epithet of 'Hexblade', which was also one of the listed classes here.",
         "Vex held truly strange powers, she could manipulate shadows and curse people, so it was a class that likely offered abilities along those lines. Of course, it was also possible that it was just her title and she had an entirely different class.",
         "As for the many question marks, it seems I'll have to grow stronger or meet other, unspecified requirements to even gain the privilege of seeing their unlock requirements.",
@@ -6691,270 +6669,250 @@
         {
           "id": 26,
           "paragraph_id": 14,
-          "text": "---"
+          "text": "[Necromancer: Necromancers dominate the souls of the slain to force them into doing their bidding.]"
         },
         {
           "id": 27,
           "paragraph_id": 15,
-          "text": "[Necromancer: Necromancers dominate the souls of the slain to force them into doing their bidding.]"
+          "text": "Capture the souls of 1,000 level 20+ entities 0/1,000"
         },
         {
           "id": 28,
           "paragraph_id": 16,
-          "text": "Capture the souls of 1,000 level 20+ entities 0/1,000"
+          "text": "Capture the souls of 50 level 30+ entities."
         },
         {
           "id": 29,
-          "paragraph_id": 17,
-          "text": "Capture the souls of 50 level 30+ entities."
+          "paragraph_id": 16,
+          "text": "0/50"
         },
         {
           "id": 30,
           "paragraph_id": 17,
-          "text": "0/50"
+          "text": "Capture the souls of 1 level 40+ entity."
         },
         {
           "id": 31,
-          "paragraph_id": 18,
-          "text": "Capture the souls of 1 level 40+ entity."
+          "paragraph_id": 17,
+          "text": "0/1"
         },
         {
           "id": 32,
           "paragraph_id": 18,
-          "text": "0/1"
+          "text": "[Blood Mage: Blood Mages manipulate the life essence of living beings to their advantage."
         },
         {
           "id": 33,
           "paragraph_id": 19,
-          "text": "---"
+          "text": "Drink the blood of a level 70+ entity."
         },
         {
           "id": 34,
           "paragraph_id": 20,
-          "text": "[Blood Mage: Blood Mages manipulate the life essence of living beings to their advantage."
+          "text": "Obtain a blood storage artifact and fill it to the brim with the blood of your slain enemies."
         },
         {
           "id": 35,
-          "paragraph_id": 21,
-          "text": "Drink the blood of a level 70+ entity."
+          "paragraph_id": 20,
+          "text": "Must be at least 1,000 liters."
         },
         {
           "id": 36,
-          "paragraph_id": 22,
-          "text": "Obtain a blood storage artifact and fill it to the brim with the blood of your slain enemies."
+          "paragraph_id": 21,
+          "text": "[Plaguebearer: ???]"
         },
         {
           "id": 37,
           "paragraph_id": 22,
-          "text": "Must be at least 1,000 liters."
+          "text": "[Chrono Corruptor: ???]"
         },
         {
           "id": 38,
           "paragraph_id": 23,
-          "text": "---"
+          "text": "[Madness Weaver: ???]"
         },
         {
           "id": 39,
           "paragraph_id": 24,
-          "text": "[Plaguebearer: ???]"
+          "text": "[Hexblade: ???]"
         },
         {
           "id": 40,
           "paragraph_id": 25,
-          "text": "[Chrono Corruptor: ???]"
+          "text": "[Dark Ritualist: ???]"
         },
         {
           "id": 41,
           "paragraph_id": 26,
-          "text": "[Madness Weaver: ???]"
+          "text": "[Nightmare Herald: ???]"
         },
         {
           "id": 42,
           "paragraph_id": 27,
-          "text": "[Hexblade: ???]"
+          "text": "[Chaos Reaver: ???]"
         },
         {
           "id": 43,
           "paragraph_id": 28,
-          "text": "[Dark Ritualist: ???]"
+          "text": "[Abysswalker: ???]"
         },
         {
           "id": 44,
           "paragraph_id": 29,
-          "text": "[Nightmare Herald: ???]"
+          "text": "[???: ???]"
         },
         {
           "id": 45,
           "paragraph_id": 30,
-          "text": "[Chaos Reaver: ???]"
-        },
-        {
-          "id": 46,
-          "paragraph_id": 31,
-          "text": "[Abysswalker: ???]"
-        },
-        {
-          "id": 47,
-          "paragraph_id": 32,
-          "text": "[???: ???]"
-        },
-        {
-          "id": 48,
-          "paragraph_id": 33,
-          "text": "---"
-        },
-        {
-          "id": 49,
-          "paragraph_id": 34,
           "text": "Would you look at that, I think I just found the class of my mental patient of a future wife."
         },
         {
-          "id": 50,
-          "paragraph_id": 34,
+          "id": 46,
+          "paragraph_id": 30,
           "text": "To be fair, since it seems very likely that I will be having multiple mentally unwell women in my harem in the future, I should specify that I was referring to Vex in this instance."
         },
         {
-          "id": 51,
-          "paragraph_id": 34,
+          "id": 47,
+          "paragraph_id": 30,
           "text": "She has the epithet of 'Hexblade', which was also one of the listed classes here."
         },
         {
-          "id": 52,
-          "paragraph_id": 35,
+          "id": 48,
+          "paragraph_id": 31,
           "text": "Vex held truly strange powers, she could manipulate shadows and curse people, so it was a class that likely offered abilities along those lines."
         },
         {
-          "id": 53,
-          "paragraph_id": 35,
+          "id": 49,
+          "paragraph_id": 31,
           "text": "Of course, it was also possible that it was just her title and she had an entirely different class."
         },
         {
-          "id": 54,
-          "paragraph_id": 36,
+          "id": 50,
+          "paragraph_id": 32,
           "text": "As for the many question marks, it seems I'll have to grow stronger or meet other, unspecified requirements to even gain the privilege of seeing their unlock requirements."
         },
         {
-          "id": 55,
-          "paragraph_id": 37,
+          "id": 51,
+          "paragraph_id": 33,
           "text": "Thankfully Necromancer and Blood Mage were different."
         },
         {
-          "id": 56,
-          "paragraph_id": 37,
+          "id": 52,
+          "paragraph_id": 33,
           "text": "They were ready to be unlocked."
         },
         {
-          "id": 57,
-          "paragraph_id": 38,
+          "id": 53,
+          "paragraph_id": 34,
           "text": "Blood Mage was the simpler one, at least in understanding its demands."
         },
         {
-          "id": 58,
-          "paragraph_id": 38,
+          "id": 54,
+          "paragraph_id": 34,
           "text": "Achieving it was easier said than done, however."
         },
         {
-          "id": 59,
-          "paragraph_id": 38,
+          "id": 55,
+          "paragraph_id": 34,
           "text": "I had no clue what a blood storage artifact was, I'd never heard of it before."
         },
         {
-          "id": 60,
-          "paragraph_id": 38,
+          "id": 56,
+          "paragraph_id": 34,
           "text": "The real kicker was the blood of a level 70+ entity."
         },
         {
-          "id": 61,
-          "paragraph_id": 38,
+          "id": 57,
+          "paragraph_id": 34,
           "text": "I didn't even know if there was such a strong person in the entire continent."
         },
         {
-          "id": 62,
-          "paragraph_id": 38,
+          "id": 58,
+          "paragraph_id": 34,
           "text": "The true powerhouses didn't feel very inclined to share their stats and levels with others, thus the levels of the top tier combatants was not commonly available knowledge."
         },
         {
-          "id": 63,
-          "paragraph_id": 39,
+          "id": 59,
+          "paragraph_id": 35,
           "text": "Necromancer was easier in a way because I had to slay 'only' a single level 40 entity and 1050 weaker ones."
         },
         {
-          "id": 64,
-          "paragraph_id": 39,
+          "id": 60,
+          "paragraph_id": 35,
           "text": "I believed that I could reach the required power level to do so in a few years at the latest."
         },
         {
-          "id": 65,
-          "paragraph_id": 40,
+          "id": 61,
+          "paragraph_id": 36,
           "text": "However, the difficulty in meeting the requirements of this class came from having to capture the souls of my slain enemies."
         },
         {
-          "id": 66,
-          "paragraph_id": 40,
+          "id": 62,
+          "paragraph_id": 36,
           "text": "My Herald of Ruin class didn't give me some soul extraction and storage ability."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 36,
+          "text": "The only thing I could think of was perhaps getting an artifact that could do this for me, but just like with the blood storage artifact, I had never even heard of such a thing in some deranged bard's tales, let alone from a more trustworthy source."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 37,
+          "text": "\"Y-y-y-y-y-you're an Elemental Sovereign???!!!\" Jasmine at long last managed to voice her thoughts as she began stuttering her words from next to me."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 38,
+          "text": "I couldn't do anything about meeting these requirements for now, so I refocused my attention on the woman whose shoulder my hand was resting upon."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 39,
+          "text": "\"A very curious observation, what led you to that conclusion?\""
         },
         {
           "id": 67,
           "paragraph_id": 40,
-          "text": "The only thing I could think of was perhaps getting an artifact that could do this for me, but just like with the blood storage artifact, I had never even heard of such a thing in some deranged bard's tales, let alone from a more trustworthy source."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 41,
-          "text": "\"Y-y-y-y-y-you're an Elemental Sovereign???!!!\" Jasmine at long last managed to voice her thoughts as she began stuttering her words from next to me."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 42,
-          "text": "I couldn't do anything about meeting these requirements for now, so I refocused my attention on the woman whose shoulder my hand was resting upon."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 43,
-          "text": "\"A very curious observation, what led you to that conclusion?\""
-        },
-        {
-          "id": 71,
-          "paragraph_id": 44,
           "text": "\"Don't act smug with me...!\" she hissed cutely before worriedly gasping with wide eyes, \"Or..."
         },
         {
-          "id": 72,
-          "paragraph_id": 44,
+          "id": 68,
+          "paragraph_id": 40,
           "text": "I'm sorry, my lord...?\""
         },
         {
-          "id": 73,
-          "paragraph_id": 45,
+          "id": 69,
+          "paragraph_id": 41,
           "text": "Her confusion was palpable."
         },
         {
-          "id": 74,
-          "paragraph_id": 45,
+          "id": 70,
+          "paragraph_id": 41,
           "text": "A merchant girl like her could get her life instantly ruined if she spoke to a man with my credentials with her sassy tone and instructed me on how to act."
         },
         {
-          "id": 75,
-          "paragraph_id": 45,
+          "id": 71,
+          "paragraph_id": 41,
           "text": "If I took offense and decided to attack her right here and now, even if the Consortium intervened, I think it was obvious whose side they would take."
         },
         {
-          "id": 76,
-          "paragraph_id": 46,
+          "id": 72,
+          "paragraph_id": 42,
           "text": "I squeezed her shoulder supportively, \"Jasmine, I didn't become an Elemental Sovereign in the past hour, I was one for a while now."
         },
         {
-          "id": 77,
-          "paragraph_id": 46,
+          "id": 73,
+          "paragraph_id": 42,
           "text": "That means you were conversing with an Elemental Sovereign all along, so I won't suddenly become a haughty prick."
         },
         {
-          "id": 78,
-          "paragraph_id": 46,
+          "id": 74,
+          "paragraph_id": 42,
           "text": "Treat me like you always did.\""
         }
       ],
-      "word_count": 1066
+      "word_count": 1062
     },
     {
       "chapter_index": 468,
@@ -9069,7 +9027,7 @@
         "Their intention was to make a mockery of me.",
         "I dominated the event thus far with my overwhelming might to which the young combatants couldn't mount a proper response. If the large crowd of people saw that their favorite lost this miserably, it would make a strong statement.",
         "Kael was silent - for once - but I couldn't help but imagine that this theatric humiliation of me was him screaming from the top of his lungs; 'I might've ruined my chances of becoming a Phenom, but so what?! They're just young wannabes who may or may not end up being strong in the future, the real phenoms are us who are strong in the present!'",
-        "It didn't take long for him to speak up verbally as well, Kael's laughter reached me even through the distance and the harsh winds. \"Is this the best an Elemental Sovereign can do?You know that you can surrender at any moment, or shall I extend your suffering for a bit longer?\"",
+        "It didn't take long for him to speak up verbally as well, Kael's laughter reached me even through the distance and the harsh winds. \"Is this the best an Elemental Sovereign can do? You know that you can surrender at any moment, or shall I extend your suffering for a bit longer?\"",
         "Anivia shrieked again, already ascending to meet me. It was clear now - Kael wasn't aiming for a quick finish. He wanted to break me, humiliate me, and thus prove his one-sided superiority.",
         "As much as I hated to admit it, he was succeeding.",
         "I clenched my jaw, swallowing the bitter taste of helplessness. It would be a long time until my [Airwalk] became available again, until then I was at their mercy. I had no spell that would help me reach the ground.",
@@ -9391,250 +9349,255 @@
         {
           "id": 58,
           "paragraph_id": 31,
-          "text": "\"Is this the best an Elemental Sovereign can do?You know that you can surrender at any moment, or shall I extend your suffering for a bit longer?\""
+          "text": "\"Is this the best an Elemental Sovereign can do?"
         },
         {
           "id": 59,
-          "paragraph_id": 32,
-          "text": "Anivia shrieked again, already ascending to meet me."
+          "paragraph_id": 31,
+          "text": "You know that you can surrender at any moment, or shall I extend your suffering for a bit longer?\""
         },
         {
           "id": 60,
           "paragraph_id": 32,
-          "text": "It was clear now - Kael wasn't aiming for a quick finish."
+          "text": "Anivia shrieked again, already ascending to meet me."
         },
         {
           "id": 61,
           "paragraph_id": 32,
-          "text": "He wanted to break me, humiliate me, and thus prove his one-sided superiority."
+          "text": "It was clear now - Kael wasn't aiming for a quick finish."
         },
         {
           "id": 62,
+          "paragraph_id": 32,
+          "text": "He wanted to break me, humiliate me, and thus prove his one-sided superiority."
+        },
+        {
+          "id": 63,
           "paragraph_id": 33,
           "text": "As much as I hated to admit it, he was succeeding."
         },
         {
-          "id": 63,
+          "id": 64,
           "paragraph_id": 34,
           "text": "I clenched my jaw, swallowing the bitter taste of helplessness."
         },
         {
-          "id": 64,
+          "id": 65,
           "paragraph_id": 34,
           "text": "It would be a long time until my [Airwalk] became available again, until then I was at their mercy."
         },
         {
-          "id": 65,
+          "id": 66,
           "paragraph_id": 34,
           "text": "I had no spell that would help me reach the ground."
         },
         {
-          "id": 66,
+          "id": 67,
           "paragraph_id": 35,
           "text": "I was about to suffer just enough injuries to be teleported away because my life would be in danger."
         },
         {
-          "id": 67,
+          "id": 68,
           "paragraph_id": 35,
           "text": "I was bleeding profusely, my arms were utterly useless, my stomach and chest also suffered greatly from the collision with the staff-like pillar as my arms could not protect me from a second time."
         },
         {
-          "id": 68,
+          "id": 69,
           "paragraph_id": 35,
           "text": "My ribs were most likely broken, and my internal organs didn't feel right either."
         },
         {
-          "id": 69,
+          "id": 70,
           "paragraph_id": 36,
           "text": "However, just as I was about to get grabbed by the bird, a sudden surge of arrogance swelled in my heart."
         },
         {
-          "id": 70,
+          "id": 71,
           "paragraph_id": 37,
           "text": "No, this is not how things should be!"
         },
         {
-          "id": 71,
+          "id": 72,
           "paragraph_id": 38,
           "text": "Why am I being so wimpy all of a sudden?"
         },
         {
-          "id": 72,
+          "id": 73,
           "paragraph_id": 38,
           "text": "I suffered so much worse, a broken bone or two doesn't even matter."
         },
         {
-          "id": 73,
+          "id": 74,
           "paragraph_id": 39,
           "text": "I'm outclassed?"
         },
         {
-          "id": 74,
+          "id": 75,
           "paragraph_id": 39,
           "text": "So what!"
         },
         {
-          "id": 75,
+          "id": 76,
           "paragraph_id": 39,
           "text": "I chose this challenge for myself!"
         },
         {
-          "id": 76,
+          "id": 77,
           "paragraph_id": 40,
           "text": "Am I ready to throw in the towel and say that I haughtily overestimated myself like a dumb child?"
         },
         {
-          "id": 77,
+          "id": 78,
           "paragraph_id": 41,
           "text": "No!"
         },
         {
-          "id": 78,
+          "id": 79,
           "paragraph_id": 42,
           "text": "I'm the Primordial Villain, the Primordial Subjugator!"
         },
         {
-          "id": 79,
+          "id": 80,
           "paragraph_id": 42,
           "text": "How can I accept defeat without even leaving a single injury on my adversary?"
         },
         {
-          "id": 80,
+          "id": 81,
           "paragraph_id": 43,
           "text": "I refuse to go down in utter shame!"
         },
         {
-          "id": 81,
+          "id": 82,
           "paragraph_id": 44,
           "text": "I can't just accept things as they stand."
         },
         {
-          "id": 82,
+          "id": 83,
           "paragraph_id": 44,
           "text": "I have to do something - anything."
         },
         {
-          "id": 83,
+          "id": 84,
           "paragraph_id": 45,
           "text": "My spells are useless, my arms refuse to obey my brain's commands, what can I do?"
         },
         {
-          "id": 84,
+          "id": 85,
           "paragraph_id": 45,
           "text": "Think!"
         },
         {
-          "id": 85,
+          "id": 86,
           "paragraph_id": 45,
           "text": "I have to unlock the ice element, maybe then I can fight back!"
         },
         {
-          "id": 86,
+          "id": 87,
           "paragraph_id": 45,
           "text": "Fight fire with fire, ice with ice!"
         },
         {
-          "id": 87,
+          "id": 88,
           "paragraph_id": 46,
           "text": "..."
         },
         {
-          "id": 88,
+          "id": 89,
           "paragraph_id": 46,
           "text": "But how do I do that?"
         },
         {
-          "id": 89,
+          "id": 90,
           "paragraph_id": 47,
           "text": "Ice was my enemy here, a merciless force that stripped me of my strengths and rendered me powerless."
         },
         {
-          "id": 90,
+          "id": 91,
           "paragraph_id": 47,
           "text": "Yet... it wasn't all-powerful."
         },
         {
-          "id": 91,
+          "id": 92,
           "paragraph_id": 48,
           "text": "It cracked under pressure."
         },
         {
-          "id": 92,
+          "id": 93,
           "paragraph_id": 49,
           "text": "It was rigid, unforgiving, unable to bend."
         },
         {
-          "id": 93,
+          "id": 94,
           "paragraph_id": 49,
           "text": "Despite Kael being an advanced practitioner of the ice element, he could not curve his projectiles."
         },
         {
-          "id": 94,
+          "id": 95,
           "paragraph_id": 49,
           "text": "They only shot in a straight line."
         },
         {
-          "id": 95,
+          "id": 96,
           "paragraph_id": 49,
           "text": "If he was a master of water instead, he likely could've changed their shapes even while in mid-air."
         },
         {
-          "id": 96,
+          "id": 97,
           "paragraph_id": 50,
           "text": "And therein lay its greatest flaw."
         },
         {
-          "id": 97,
+          "id": 98,
           "paragraph_id": 51,
           "text": "Rigidity."
         },
         {
-          "id": 98,
+          "id": 99,
           "paragraph_id": 52,
           "text": "It could be powerful and extremely sturdy, yes, but the moment its structure was compromised, it shattered like brittle glass."
         },
         {
-          "id": 99,
+          "id": 100,
           "paragraph_id": 53,
           "text": "A spark ignited in my mind."
         },
         {
-          "id": 100,
+          "id": 101,
           "paragraph_id": 53,
           "text": "My eyes darted to Anivia's crystalline wings as they refracted light into a thousand icy shards."
         },
         {
-          "id": 101,
+          "id": 102,
           "paragraph_id": 54,
           "text": "The bird was a perfect reflection of Kael's strategy: sharp, precise, and devastatingly effective, but fragile beneath its surface."
         },
         {
-          "id": 102,
+          "id": 103,
           "paragraph_id": 55,
           "text": "What was the opposite of ice?"
         },
         {
-          "id": 103,
+          "id": 104,
           "paragraph_id": 56,
           "text": "I immediately thought of fire, but I knew from experience that that wasn't exactly right."
         },
         {
-          "id": 104,
+          "id": 105,
           "paragraph_id": 56,
           "text": "Fire melted ice if given enough time and strength, yes, but melting slowly over time wasn't enough - I needed to destroy it entirely."
         },
         {
-          "id": 105,
+          "id": 106,
           "paragraph_id": 57,
           "text": "I needed something stronger, something more devastating."
         },
         {
-          "id": 106,
+          "id": 107,
           "paragraph_id": 57,
           "text": "My thoughts turned to the earth below me, to the fiery veins of magma that ran beneath the crust of the world."
         }
       ],
-      "word_count": 1528
+      "word_count": 1529
     },
     {
       "chapter_index": 474,
@@ -12470,7 +12433,6 @@
         "While the disbelieving crowd's utter silence broke at once with their thunderous cheers, Iris tiredly turned her head in a particular direction, where she saw a man sitting in the stands as if he were the king of the world. In either of his hands, a woman sat as they lovingly massaged his healed arms, his healer who Iris knew as the elf called Seraphiel busied herself with his constant rejuvenation.",
         "He slowly, patiently raised an arm in her direction and gave her a thumbs up before speaking in her mind: <That's my girl.>",
         "Iris' lips turned upwards into the biggest grin she'd ever worn on her face ever since Damian's demise and muttered, <You utterly shameless bastard... Thank you...> She then fell onto Azura's corpse as she was knocked out cold from the immense exertion her body was forced to endure, at which point she was immediately teleported to the awaiting healer squad.",
-        "...",
         "- PoV: Quinlan -",
         "<She's very hardcore.> I decreed while enjoying my beloved Blossom's and Aurora's hand massages as they sat on my thighs. They were very adamant about pampering me even in front of the large audience who were gawking at their antics.",
         "<She has my respect. While she needed your help, beating a swordmaster like that Azura woman with pure stats alone is not possible. Iris' combat genius was on full display in this battle.> Ayame and Iris have been having a bit of a rivalry with each other ever since their clash at the kingdom's outpost, so these words from my gorgeous samurai meant that Iris' accomplishment was truly noteworthy in this instance.",
@@ -12627,250 +12589,245 @@
         {
           "id": 25,
           "paragraph_id": 17,
-          "text": "..."
+          "text": "- PoV: Quinlan -"
         },
         {
           "id": 26,
           "paragraph_id": 18,
-          "text": "- PoV: Quinlan -"
+          "text": "<She's very hardcore.> I decreed while enjoying my beloved Blossom's and Aurora's hand massages as they sat on my thighs."
         },
         {
           "id": 27,
-          "paragraph_id": 19,
-          "text": "<She's very hardcore.> I decreed while enjoying my beloved Blossom's and Aurora's hand massages as they sat on my thighs."
+          "paragraph_id": 18,
+          "text": "They were very adamant about pampering me even in front of the large audience who were gawking at their antics."
         },
         {
           "id": 28,
           "paragraph_id": 19,
-          "text": "They were very adamant about pampering me even in front of the large audience who were gawking at their antics."
-        },
-        {
-          "id": 29,
-          "paragraph_id": 20,
           "text": "<She has my respect."
         },
         {
-          "id": 30,
-          "paragraph_id": 20,
+          "id": 29,
+          "paragraph_id": 19,
           "text": "While she needed your help, beating a swordmaster like that Azura woman with pure stats alone is not possible."
+        },
+        {
+          "id": 30,
+          "paragraph_id": 19,
+          "text": "Iris' combat genius was on full display in this battle.> Ayame and Iris have been having a bit of a rivalry with each other ever since their clash at the kingdom's outpost, so these words from my gorgeous samurai meant that Iris' accomplishment was truly noteworthy in this instance."
         },
         {
           "id": 31,
           "paragraph_id": 20,
-          "text": "Iris' combat genius was on full display in this battle.> Ayame and Iris have been having a bit of a rivalry with each other ever since their clash at the kingdom's outpost, so these words from my gorgeous samurai meant that Iris' accomplishment was truly noteworthy in this instance."
-        },
-        {
-          "id": 32,
-          "paragraph_id": 21,
           "text": "<These duels made my heart flare, I so wanna fight someone, anyone...!> My bloodthirsty berserker whined adorably."
         },
         {
-          "id": 33,
-          "paragraph_id": 21,
+          "id": 32,
+          "paragraph_id": 20,
           "text": "Despite Lucille being an innkeeper's wife for a long time, she settled into her new life with incredible ease and swiftness."
         },
         {
-          "id": 34,
-          "paragraph_id": 21,
+          "id": 33,
+          "paragraph_id": 20,
           "text": "I knew that if she was forced to return to that mundane life, she would become depressed instantly."
+        },
+        {
+          "id": 34,
+          "paragraph_id": 20,
+          "text": "Killing her enemies in cold blood and leveling up was just way too good of a life."
         },
         {
           "id": 35,
           "paragraph_id": 21,
-          "text": "Killing her enemies in cold blood and leveling up was just way too good of a life."
+          "text": "<We can fight once we get home."
         },
         {
           "id": 36,
-          "paragraph_id": 22,
-          "text": "<We can fight once we get home."
+          "paragraph_id": 21,
+          "text": "The loser has to do whatever the winner demands.> I replied to her wishes."
         },
         {
           "id": 37,
           "paragraph_id": 22,
-          "text": "The loser has to do whatever the winner demands.> I replied to her wishes."
+          "text": "She giggled, <let me guess, an hour-long sloppy deepthroat session while fondling your balls?>"
         },
         {
           "id": 38,
           "paragraph_id": 23,
-          "text": "She giggled, <let me guess, an hour-long sloppy deepthroat session while fondling your balls?>"
+          "text": "<An hour-long deepthroat session while fondling my balls.> I confirmed her strong suspicions."
         },
         {
           "id": 39,
           "paragraph_id": 24,
-          "text": "<An hour-long deepthroat session while fondling my balls.> I confirmed her strong suspicions."
+          "text": "<I accept!> Lucille cheered without even stating her demand should she win, knowing full well that with such important stakes being on the line, I would never lose."
         },
         {
           "id": 40,
-          "paragraph_id": 25,
-          "text": "<I accept!> Lucille cheered without even stating her demand should she win, knowing full well that with such important stakes being on the line, I would never lose."
+          "paragraph_id": 24,
+          "text": "However, I would make sure that she can go all out by limiting my power output so that she can vent all her frustrations before submitting to me entirely."
         },
         {
           "id": 41,
           "paragraph_id": 25,
-          "text": "However, I would make sure that she can go all out by limiting my power output so that she can vent all her frustrations before submitting to me entirely."
+          "text": "Stay connected via empire"
         },
         {
           "id": 42,
           "paragraph_id": 26,
-          "text": "Stay connected via empire"
-        },
-        {
-          "id": 43,
-          "paragraph_id": 27,
           "text": "\"What a show, ladies and gentlemen."
         },
         {
-          "id": 44,
-          "paragraph_id": 27,
+          "id": 43,
+          "paragraph_id": 26,
           "text": "Two upsets and both in such a spectacular fashion!"
         },
         {
-          "id": 45,
-          "paragraph_id": 27,
+          "id": 44,
+          "paragraph_id": 26,
           "text": "I'm not being overly dramatic when I say that we're witnessing history being made in real time!\" Vex decreed and received numerous shouts of agreement from the audience."
+        },
+        {
+          "id": 45,
+          "paragraph_id": 26,
+          "text": "None of them could ever expect that the veteran combatants would be triumphed by mere upstarts."
         },
         {
           "id": 46,
           "paragraph_id": 27,
-          "text": "None of them could ever expect that the veteran combatants would be triumphed by mere upstarts."
+          "text": "Following Iris' duel came the normal ones."
         },
         {
           "id": 47,
-          "paragraph_id": 28,
-          "text": "Following Iris' duel came the normal ones."
+          "paragraph_id": 27,
+          "text": "16 participants passed, and all of my allies were included in that list."
         },
         {
           "id": 48,
           "paragraph_id": 28,
-          "text": "16 participants passed, and all of my allies were included in that list."
+          "text": "Iris was not able to continue because she was unconscious, and I felt like sitting the rest of the event out as well."
         },
         {
           "id": 49,
-          "paragraph_id": 29,
-          "text": "Iris was not able to continue because she was unconscious, and I felt like sitting the rest of the event out as well."
+          "paragraph_id": 28,
+          "text": "I was healed enough to fight somewhat at my full strength, and my mana reserves were filling up nicely as well."
         },
         {
           "id": 50,
           "paragraph_id": 29,
-          "text": "I was healed enough to fight somewhat at my full strength, and my mana reserves were filling up nicely as well."
+          "text": "However, sitting in the comfort of my amazing women seemed like a much more alluring option than fighting down there."
         },
         {
           "id": 51,
-          "paragraph_id": 30,
-          "text": "However, sitting in the comfort of my amazing women seemed like a much more alluring option than fighting down there."
+          "paragraph_id": 29,
+          "text": "I'd already secured everything I needed, I established my name as a household title, I was sure many tales would be spun about my achievements on this day, and no sane person would deny my Vesper Phenom candidacy."
         },
         {
           "id": 52,
           "paragraph_id": 30,
-          "text": "I'd already secured everything I needed, I established my name as a household title, I was sure many tales would be spun about my achievements on this day, and no sane person would deny my Vesper Phenom candidacy."
+          "text": "There was no more glory for me to be gained by participating in the Phenom Trials."
         },
         {
           "id": 53,
           "paragraph_id": 31,
-          "text": "There was no more glory for me to be gained by participating in the Phenom Trials."
+          "text": "It was time to let my allies make a name for themselves as well."
         },
         {
           "id": 54,
           "paragraph_id": 32,
-          "text": "It was time to let my allies make a name for themselves as well."
+          "text": "Cedric, Abudha, Selene, Ambition, Ice, Whirlwind, Massacre, and his partner from the second round, the mage girl Pox were thus the top 8."
         },
         {
           "id": 55,
           "paragraph_id": 33,
-          "text": "Cedric, Abudha, Selene, Ambition, Ice, Whirlwind, Massacre, and his partner from the second round, the mage girl Pox were thus the top 8."
+          "text": "Cedric got his wish of participating in a sword duel when he fought against Whirlwind."
         },
         {
           "id": 56,
-          "paragraph_id": 34,
-          "text": "Cedric got his wish of participating in a sword duel when he fought against Whirlwind."
+          "paragraph_id": 33,
+          "text": "The battle was very close with multiple turns of the tides, but ultimately Whirlwind came out victorious, but only after suffering some heavy wounds in the process."
         },
         {
           "id": 57,
           "paragraph_id": 34,
-          "text": "The battle was very close with multiple turns of the tides, but ultimately Whirlwind came out victorious, but only after suffering some heavy wounds in the process."
+          "text": "Selene burned Massacre as if he were a roasted pig, his large frame and high Strength stat was proving to be useless in the face of a Pyromancer."
         },
         {
           "id": 58,
           "paragraph_id": 35,
-          "text": "Selene burned Massacre as if he were a roasted pig, his large frame and high Strength stat was proving to be useless in the face of a Pyromancer."
-        },
-        {
-          "id": 59,
-          "paragraph_id": 36,
           "text": "On the other hand, Abudha got his ass handed to him by Ice."
         },
         {
-          "id": 60,
-          "paragraph_id": 36,
+          "id": 59,
+          "paragraph_id": 35,
           "text": "Both 'mancer' ladies advanced."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 35,
+          "text": "I let both Cedric and Abudha know that they did very well today by reaching the top 8, but also that I was not at all joking when I said that whoever fails to become a Phenom will be wearing Blossom-style BDSM gear for a whole decade."
         },
         {
           "id": 61,
           "paragraph_id": 36,
-          "text": "I let both Cedric and Abudha know that they did very well today by reaching the top 8, but also that I was not at all joking when I said that whoever fails to become a Phenom will be wearing Blossom-style BDSM gear for a whole decade."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 37,
           "text": "Kaelira swiftly eliminated Pox, her sturdiness was too much for the simple Wizard-classed girl because the Wizard class only has access to basic-tier spells."
         },
         {
-          "id": 63,
-          "paragraph_id": 37,
+          "id": 62,
+          "paragraph_id": 36,
           "text": "They were meant to specialize into a mancer or another specialty to gain access to stronger spells."
         },
         {
-          "id": 64,
-          "paragraph_id": 37,
+          "id": 63,
+          "paragraph_id": 36,
           "text": "She wasn't at that stage yet, thus she didn't have any answer in her arsenal that could blast Kaelira's defenses away."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 36,
+          "text": "However, her diligent training did shine despite the loss, she showed her excellence when it came to combat with basic tier spells."
         },
         {
           "id": 65,
           "paragraph_id": 37,
-          "text": "However, her diligent training did shine despite the loss, she showed her excellence when it came to combat with basic tier spells."
+          "text": "Ice faced Selene in the semifinals, and Plump Fox was forced to come to the same conclusion as I did, which was that unless a fire mage was significantly stronger than a wielder of the ice element, they were faced with hardships."
         },
         {
           "id": 66,
-          "paragraph_id": 38,
-          "text": "Ice faced Selene in the semifinals, and Plump Fox was forced to come to the same conclusion as I did, which was that unless a fire mage was significantly stronger than a wielder of the ice element, they were faced with hardships."
+          "paragraph_id": 37,
+          "text": "To her credit, Selene put up a good fight, making Ice exhaust a lot of her spells before freezing the treacherous redhead into an ice cube, from which she was immediately teleported to safety."
         },
         {
           "id": 67,
           "paragraph_id": 38,
-          "text": "To her credit, Selene put up a good fight, making Ice exhaust a lot of her spells before freezing the treacherous redhead into an ice cube, from which she was immediately teleported to safety."
+          "text": "The matchup of Whirlwind versus Ambition was similarly grueling, but Kaelira with her high Vitality and Strength came out on top when after a dozen minutes of dancing around each other without a decisive blow landing, her warhammer at long last connected with the speedy dude's face, bashing his skull in immediately."
         },
         {
           "id": 68,
           "paragraph_id": 39,
-          "text": "The matchup of Whirlwind versus Ambition was similarly grueling, but Kaelira with her high Vitality and Strength came out on top when after a dozen minutes of dancing around each other without a decisive blow landing, her warhammer at long last connected with the speedy dude's face, bashing his skull in immediately."
+          "text": "I couldn't help but wonder if the safety measures were enough to return him from the state of a certified vegetable."
         },
         {
           "id": 69,
           "paragraph_id": 40,
-          "text": "I couldn't help but wonder if the safety measures were enough to return him from the state of a certified vegetable."
+          "text": "The grand final came down to the fight between my smoking hot athletic elf babe and Ice."
         },
         {
           "id": 70,
-          "paragraph_id": 41,
-          "text": "The grand final came down to the fight between my smoking hot athletic elf babe and Ice."
+          "paragraph_id": 40,
+          "text": "I was curious how she would fare against a mage of this caliber, but Kaelira surprised me when she shrugged off multiple ice attacks and even shattered multiple defensive formations with her sheer strength before sending Ice to the healers as well."
         },
         {
           "id": 71,
           "paragraph_id": 41,
-          "text": "I was curious how she would fare against a mage of this caliber, but Kaelira surprised me when she shrugged off multiple ice attacks and even shattered multiple defensive formations with her sheer strength before sending Ice to the healers as well."
+          "text": "Kaelira raised her big gold coin pouch that housed the 100 coins triumphantly into the air before walking up to me in the stands, kneeling down on one leg like an honorable knight would in front of their lord, turning both of her palms toward the sky, and devoutly offering me the pouch."
         },
         {
           "id": 72,
           "paragraph_id": 42,
-          "text": "Kaelira raised her big gold coin pouch that housed the 100 coins triumphantly into the air before walking up to me in the stands, kneeling down on one leg like an honorable knight would in front of their lord, turning both of her palms toward the sky, and devoutly offering me the pouch."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 43,
           "text": "\"My Lord.\""
         }
       ],
-      "word_count": 1418
+      "word_count": 1417
     },
     {
       "chapter_index": 481,
@@ -12879,7 +12836,6 @@
       "paragraphs": [
         "Kaelira raised her big gold coin pouch that housed the 100 coins triumphantly into the air for all to see before walking up to me in the stands, kneeling down on one leg like an honorable knight would in front of their lord, turning both of her palms toward the sky, and devoutly offering me the pouch.",
         "\"My Lord.\"",
-        "...",
         "\"Huh?\"",
         "\"What?!\"",
         "\"Why is she doing this?!\"",
@@ -12898,7 +12854,6 @@
         "Black Fang got me and Kaelira, the finance head got Iris and Pox, the information head got Selene, the army head got Whirlwind and Cedric, the logistics head chose Ice, and the human resources (trafficking) head got Massacre and Abudha.",
         "This was a rare instance in Consortium history because 10 Vesper Phenoms were selected instead of the usual 5 or so.",
         "Many sentiments already began lingering in the air about the new generation being the most promising upstarts, perhaps ever. 10 selected candidates and two of us even beat veteran combatants that no one ever expected to happen made people think that perhaps a new age was coming.",
-        "...",
         "\"Here we are, future husband.\" Vex decreed slyly, seemingly fully changing the way she called me. I used to be 'little brother', but now I was future husband instead. Can't say I disliked the change.",
         "Once the event was over, she came to us and said that it was time to make my and Ambition's ranks official. She then took us to an administrative building where this could be done.",
         "\"When do I get to meet Black Fang?\" I asked. While I was a bit apprehensive when it came to the mysterious woman, it would be a lie to say that I wasn't curious. However, I knew that she was a real recluse, basically, no one ever got to meet her.",
@@ -12930,325 +12885,315 @@
         {
           "id": 2,
           "paragraph_id": 2,
-          "text": "..."
+          "text": "\"Huh?\""
         },
         {
           "id": 3,
           "paragraph_id": 3,
-          "text": "\"Huh?\""
+          "text": "\"What?!\""
         },
         {
           "id": 4,
           "paragraph_id": 4,
-          "text": "\"What?!\""
+          "text": "\"Why is she doing this?!\""
         },
         {
           "id": 5,
           "paragraph_id": 5,
-          "text": "\"Why is she doing this?!\""
+          "text": "Numerous such shouts erupted from the stands near us."
         },
         {
           "id": 6,
-          "paragraph_id": 6,
-          "text": "Numerous such shouts erupted from the stands near us."
+          "paragraph_id": 5,
+          "text": "While it should've been obvious for all that Ambition was my ally with her Heralds sitting next to mine and all that happened between us throughout the Trials, however, Kaelira's antics were no longer that of a steadfast ally but a loyal follower."
         },
         {
           "id": 7,
           "paragraph_id": 6,
-          "text": "While it should've been obvious for all that Ambition was my ally with her Heralds sitting next to mine and all that happened between us throughout the Trials, however, Kaelira's antics were no longer that of a steadfast ally but a loyal follower."
+          "text": "She won the once-in-a-decade event organized by one of the largest organizations in the kingdom, and the first thing she did was offer me the entirety of her rewards."
         },
         {
           "id": 8,
           "paragraph_id": 7,
-          "text": "She won the once-in-a-decade event organized by one of the largest organizations in the kingdom, and the first thing she did was offer me the entirety of her rewards."
+          "text": "\"You've done well.\" I decreed before letting go of my plump alchemist's thick thighs and taking the pouch from her outreached palms."
         },
         {
           "id": 9,
-          "paragraph_id": 8,
-          "text": "\"You've done well.\" I decreed before letting go of my plump alchemist's thick thighs and taking the pouch from her outreached palms."
+          "paragraph_id": 7,
+          "text": "I weighed it in my hand for a second before putting it away into my dimensional ring."
         },
         {
           "id": 10,
           "paragraph_id": 8,
-          "text": "I weighed it in my hand for a second before putting it away into my dimensional ring."
+          "text": "\"You may rise.\" As soon as the words left my lips, Kaelira regally rose, bowed, and walked to her Heralds where she took her place, leaving an utterly shocked audience in her wake."
         },
         {
           "id": 11,
           "paragraph_id": 9,
-          "text": "\"You may rise.\" As soon as the words left my lips, Kaelira regally rose, bowed, and walked to her Heralds where she took her place, leaving an utterly shocked audience in her wake."
+          "text": "This lasted for only a few seconds though, and hushed murmurs soon sounded from all directions."
         },
         {
           "id": 12,
           "paragraph_id": 10,
-          "text": "This lasted for only a few seconds though, and hushed murmurs soon sounded from all directions."
+          "text": "Why did she do this?"
         },
         {
           "id": 13,
-          "paragraph_id": 11,
-          "text": "Why did she do this?"
+          "paragraph_id": 10,
+          "text": "The answer was simple."
         },
         {
           "id": 14,
           "paragraph_id": 11,
-          "text": "The answer was simple."
+          "text": "She wanted to make it clear to all that she was my follower in hopes of the Consortium allocating her to Black Fang as well."
         },
         {
           "id": 15,
           "paragraph_id": 12,
-          "text": "She wanted to make it clear to all that she was my follower in hopes of the Consortium allocating her to Black Fang as well."
+          "text": "Kaelira was my sole craftsmaster and being a tanker was not her passion, she wanted to create gear and artifacts first and foremost."
         },
         {
           "id": 16,
           "paragraph_id": 13,
-          "text": "Kaelira was my sole craftsmaster and being a tanker was not her passion, she wanted to create gear and artifacts first and foremost."
+          "text": "The Phenoms enjoyed numerous privileges, but it was not a one-sided 'they give as all while asking for nothing' relationship, the Phenoms were expected to contribute."
         },
         {
           "id": 17,
           "paragraph_id": 14,
-          "text": "The Phenoms enjoyed numerous privileges, but it was not a one-sided 'they give as all while asking for nothing' relationship, the Phenoms were expected to contribute."
+          "text": "By being allocated to the same circle member, we hoped that she would not need to go on many missions and be left alone, because Black Fang seemed to be only interested in me."
         },
         {
           "id": 18,
-          "paragraph_id": 15,
-          "text": "By being allocated to the same circle member, we hoped that she would not need to go on many missions and be left alone, because Black Fang seemed to be only interested in me."
+          "paragraph_id": 14,
+          "text": "She would likely do the bare minimum for Kaelira and not expect much in return, allowing her to at long last live her dream of being a craftswoman, while also getting some free funding from Black Fang."
         },
         {
           "id": 19,
           "paragraph_id": 15,
-          "text": "She would likely do the bare minimum for Kaelira and not expect much in return, allowing her to at long last live her dream of being a craftswoman, while also getting some free funding from Black Fang."
+          "text": "This was exactly what I wanted as well."
         },
         {
           "id": 20,
-          "paragraph_id": 16,
-          "text": "This was exactly what I wanted as well."
+          "paragraph_id": 15,
+          "text": "By stationing Kaelira in my home, I could also have her Heralds, namely the 6 women Kai gifted me, be present and act as high-tier guards."
         },
         {
           "id": 21,
           "paragraph_id": 16,
-          "text": "By stationing Kaelira in my home, I could also have her Heralds, namely the 6 women Kai gifted me, be present and act as high-tier guards."
+          "text": "Our wishes came true when Vex announced the results."
         },
         {
           "id": 22,
           "paragraph_id": 17,
-          "text": "Our wishes came true when Vex announced the results."
+          "text": "Black Fang got me and Kaelira, the finance head got Iris and Pox, the information head got Selene, the army head got Whirlwind and Cedric, the logistics head chose Ice, and the human resources (trafficking) head got Massacre and Abudha."
         },
         {
           "id": 23,
           "paragraph_id": 18,
-          "text": "Black Fang got me and Kaelira, the finance head got Iris and Pox, the information head got Selene, the army head got Whirlwind and Cedric, the logistics head chose Ice, and the human resources (trafficking) head got Massacre and Abudha."
+          "text": "This was a rare instance in Consortium history because 10 Vesper Phenoms were selected instead of the usual 5 or so."
         },
         {
           "id": 24,
           "paragraph_id": 19,
-          "text": "This was a rare instance in Consortium history because 10 Vesper Phenoms were selected instead of the usual 5 or so."
+          "text": "Many sentiments already began lingering in the air about the new generation being the most promising upstarts, perhaps ever."
         },
         {
           "id": 25,
-          "paragraph_id": 20,
-          "text": "Many sentiments already began lingering in the air about the new generation being the most promising upstarts, perhaps ever."
+          "paragraph_id": 19,
+          "text": "10 selected candidates and two of us even beat veteran combatants that no one ever expected to happen made people think that perhaps a new age was coming."
         },
         {
           "id": 26,
           "paragraph_id": 20,
-          "text": "10 selected candidates and two of us even beat veteran combatants that no one ever expected to happen made people think that perhaps a new age was coming."
-        },
-        {
-          "id": 27,
-          "paragraph_id": 21,
-          "text": "..."
-        },
-        {
-          "id": 28,
-          "paragraph_id": 22,
           "text": "\"Here we are, future husband.\" Vex decreed slyly, seemingly fully changing the way she called me."
         },
         {
-          "id": 29,
-          "paragraph_id": 22,
+          "id": 27,
+          "paragraph_id": 20,
           "text": "I used to be 'little brother', but now I was future husband instead."
         },
         {
-          "id": 30,
-          "paragraph_id": 22,
+          "id": 28,
+          "paragraph_id": 20,
           "text": "Can't say I disliked the change."
         },
         {
-          "id": 31,
-          "paragraph_id": 23,
+          "id": 29,
+          "paragraph_id": 21,
           "text": "Once the event was over, she came to us and said that it was time to make my and Ambition's ranks official."
         },
         {
-          "id": 32,
-          "paragraph_id": 23,
+          "id": 30,
+          "paragraph_id": 21,
           "text": "She then took us to an administrative building where this could be done."
         },
         {
-          "id": 33,
-          "paragraph_id": 24,
+          "id": 31,
+          "paragraph_id": 22,
           "text": "\"When do I get to meet Black Fang?\" I asked."
         },
         {
-          "id": 34,
-          "paragraph_id": 24,
+          "id": 32,
+          "paragraph_id": 22,
           "text": "While I was a bit apprehensive when it came to the mysterious woman, it would be a lie to say that I wasn't curious."
         },
         {
-          "id": 35,
-          "paragraph_id": 24,
+          "id": 33,
+          "paragraph_id": 22,
           "text": "However, I knew that she was a real recluse, basically, no one ever got to meet her."
         },
         {
-          "id": 36,
-          "paragraph_id": 25,
+          "id": 34,
+          "paragraph_id": 23,
           "text": "\"Just because she became your sponsor doesn't mean that she is your master now, you're not her disciple."
         },
         {
-          "id": 37,
-          "paragraph_id": 25,
+          "id": 35,
+          "paragraph_id": 23,
           "text": "Typically Vesper Phenoms don't get to meet the circle member responsible for their nurturing, it's usually us, the disciples and other trusted subordinates who interact with you."
         },
         {
-          "id": 38,
-          "paragraph_id": 25,
+          "id": 36,
+          "paragraph_id": 23,
           "text": "However, in your case, I can't help but get the feeling that you're going to meet her very soon.\" She replied with a coy smile before adding,"
         },
         {
-          "id": 39,
-          "paragraph_id": 26,
+          "id": 37,
+          "paragraph_id": 24,
           "text": "\"She never takes Phenoms under her wing."
         },
         {
-          "id": 40,
-          "paragraph_id": 26,
+          "id": 38,
+          "paragraph_id": 24,
           "text": "The last one who made her interested was Raika, but that happened about 150 years ago."
         },
         {
-          "id": 41,
-          "paragraph_id": 26,
+          "id": 39,
+          "paragraph_id": 24,
           "text": "Since then, Black Fang has become an even bigger recluse yet you still made her come here so that she could watch you in person."
         },
         {
-          "id": 42,
-          "paragraph_id": 26,
+          "id": 40,
+          "paragraph_id": 24,
           "text": "I think she just needs a bit of time to arrange everything, at which point you will meet her face-to-face."
         },
         {
-          "id": 43,
-          "paragraph_id": 26,
+          "id": 41,
+          "paragraph_id": 24,
           "text": "But don't take that as a guarantee, it's just my guess.\""
         },
         {
-          "id": 44,
-          "paragraph_id": 27,
+          "id": 42,
+          "paragraph_id": 25,
           "text": "Arrange?"
         },
         {
-          "id": 45,
-          "paragraph_id": 27,
+          "id": 43,
+          "paragraph_id": 25,
           "text": "Arrange what?"
         },
         {
-          "id": 46,
-          "paragraph_id": 27,
+          "id": 44,
+          "paragraph_id": 25,
           "text": "Shouldn't it be me who needs to collect myself and get ready for a meeting with one of the strongest and most mysterious entities of the entire continent?"
         },
         {
-          "id": 47,
-          "paragraph_id": 28,
+          "id": 45,
+          "paragraph_id": 26,
           "text": "However, I couldn't complain."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 26,
+          "text": "By participating in the life of the Vesper Consortium before our meeting, I could get a better understanding of how this whole syndicate worked, which would allow me to be properly informed once the time for our talk arrived."
+        },
+        {
+          "id": 47,
+          "paragraph_id": 27,
+          "text": "\"Are you disappointed that it will be little old me who you have to interact with for the time being?\" She asked with pretend droopy eyes."
         },
         {
           "id": 48,
           "paragraph_id": 28,
-          "text": "By participating in the life of the Vesper Consortium before our meeting, I could get a better understanding of how this whole syndicate worked, which would allow me to be properly informed once the time for our talk arrived."
+          "text": "\"So you admit to being old?\""
         },
         {
           "id": 49,
           "paragraph_id": 29,
-          "text": "\"Are you disappointed that it will be little old me who you have to interact with for the time being?\" She asked with pretend droopy eyes."
+          "text": "The air around Vex became a lot more ominous as she replied with narrowed eyes and a smile that promised me anything but a long and healthy life."
         },
         {
           "id": 50,
-          "paragraph_id": 30,
-          "text": "\"So you admit to being old?\""
+          "paragraph_id": 29,
+          "text": "\"If you want to remain on my good side then my age should be left out of our conversations.\""
         },
         {
           "id": 51,
-          "paragraph_id": 31,
-          "text": "The air around Vex became a lot more ominous as she replied with narrowed eyes and a smile that promised me anything but a long and healthy life."
+          "paragraph_id": 30,
+          "text": "It seems I'd found her kryptonite."
         },
         {
           "id": 52,
           "paragraph_id": 31,
-          "text": "\"If you want to remain on my good side then my age should be left out of our conversations.\""
-        },
-        {
-          "id": 53,
-          "paragraph_id": 32,
-          "text": "It seems I'd found her kryptonite."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 33,
           "text": "I couldn't help but sigh inwardly."
         },
         {
-          "id": 55,
-          "paragraph_id": 33,
+          "id": 53,
+          "paragraph_id": 31,
           "text": "Women and their useless insecurities..."
         },
         {
-          "id": 56,
-          "paragraph_id": 34,
+          "id": 54,
+          "paragraph_id": 32,
           "text": "Vex was one of the most accomplished woman alive today and considering where she was in life, she was incredibly young."
         },
         {
-          "id": 57,
-          "paragraph_id": 34,
+          "id": 55,
+          "paragraph_id": 32,
           "text": "That didn't seem to be enough for her not to take up arms when someone called her old, however."
         },
         {
-          "id": 58,
-          "paragraph_id": 35,
+          "id": 56,
+          "paragraph_id": 33,
           "text": "\"My apologies."
         },
         {
-          "id": 59,
-          "paragraph_id": 35,
+          "id": 57,
+          "paragraph_id": 33,
           "text": "You're an incredibly youthful and beautiful woman, and that's what's most important."
+        },
+        {
+          "id": 58,
+          "paragraph_id": 33,
+          "text": "In a world where one can live many times their intended life span, age is just a useless number best left forgotten.\""
+        },
+        {
+          "id": 59,
+          "paragraph_id": 34,
+          "text": "\"So you do get it.\" Vex nodded and her ominous aura evaporated as if it never existed."
         },
         {
           "id": 60,
           "paragraph_id": 35,
-          "text": "In a world where one can live many times their intended life span, age is just a useless number best left forgotten.\""
-        },
-        {
-          "id": 61,
-          "paragraph_id": 36,
-          "text": "\"So you do get it.\" Vex nodded and her ominous aura evaporated as if it never existed."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 37,
           "text": "She then presented a paper to both me and Ambition."
         },
         {
-          "id": 63,
-          "paragraph_id": 37,
+          "id": 61,
+          "paragraph_id": 35,
           "text": "\"This is your official contract."
         },
         {
-          "id": 64,
-          "paragraph_id": 37,
+          "id": 62,
+          "paragraph_id": 35,
           "text": "While it's not binding in the sense that no magic is involved, should you be caught violating the clauses, you will be punished."
         },
         {
-          "id": 65,
-          "paragraph_id": 37,
+          "id": 63,
+          "paragraph_id": 35,
           "text": "Think of it as a formality.\""
         }
       ],
-      "word_count": 1121
+      "word_count": 1119
     },
     {
       "chapter_index": 482,
@@ -13619,7 +13564,6 @@
         "My lips immediately curled upwards into a twisted smile.",
         "A sign-up bonus, huh...",
         "This woman called Black fang certainly knew how to warm herself up to my heart without even meeting me once. I suddenly had a lot more positive image of her in my head than I did a moment ago.",
-        "...",
         "I took temporary ownership of the Electromancer called Volt and soon found myself back at home. Naturally, I didn't bring him to my home, because I had to give him back in the future and if he saw my [Warp Gate], that would make life 'a bit' harder for me. I also couldn't [Subjugate] him because he was already enslaved. My [Subjugation] would overwrite the contract, letting Black Fang or whoever was behind his enslavement know that something was up. Therefore, I tasked Kaelira and her team with taking him to a location on foot.",
         "Before I could decide where exactly he should be taken to for me to learn the element from him, I rushed to my room, took a seat on my favorite sofa, and brought my saber out.",
         "I wanted to study it immediately, but I couldn't do so in front of the large crowd of the arena or some secret of mine might end up getting spilled.",
@@ -13640,8 +13584,7 @@
         "Anyways, either I got extremely lucky and happened to receive a sealed weapon that would turn out to be perfect for my current needs months after acquiring it, or Björn was on the level where he could make weapons capable of adaptation and evolution. I leaned towards the latter.",
         "It made some sense at least, because primordials were said to be the masters of adaptation and he was the greatest craftsman in Thalorind. If someone could achieve this feat, it would be him.",
         "The last part, the [Owner: Quinlan Noir], meant that only I could wield it. The Soul Reaper would refuse if someone other than me tried to do so.",
-        "It was a banger of a weapon, let's just leave it at that.",
-        "..."
+        "It was a banger of a weapon, let's just leave it at that."
       ],
       "sentences": [
         {
@@ -13897,215 +13840,205 @@
         {
           "id": 50,
           "paragraph_id": 21,
-          "text": "..."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 22,
           "text": "I took temporary ownership of the Electromancer called Volt and soon found myself back at home."
         },
         {
-          "id": 52,
-          "paragraph_id": 22,
+          "id": 51,
+          "paragraph_id": 21,
           "text": "Naturally, I didn't bring him to my home, because I had to give him back in the future and if he saw my [Warp Gate], that would make life 'a bit' harder for me."
         },
         {
-          "id": 53,
-          "paragraph_id": 22,
+          "id": 52,
+          "paragraph_id": 21,
           "text": "I also couldn't [Subjugate] him because he was already enslaved."
         },
         {
-          "id": 54,
-          "paragraph_id": 22,
+          "id": 53,
+          "paragraph_id": 21,
           "text": "My [Subjugation] would overwrite the contract, letting Black Fang or whoever was behind his enslavement know that something was up."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 21,
+          "text": "Therefore, I tasked Kaelira and her team with taking him to a location on foot."
         },
         {
           "id": 55,
           "paragraph_id": 22,
-          "text": "Therefore, I tasked Kaelira and her team with taking him to a location on foot."
+          "text": "Before I could decide where exactly he should be taken to for me to learn the element from him, I rushed to my room, took a seat on my favorite sofa, and brought my saber out."
         },
         {
           "id": 56,
           "paragraph_id": 23,
-          "text": "Before I could decide where exactly he should be taken to for me to learn the element from him, I rushed to my room, took a seat on my favorite sofa, and brought my saber out."
+          "text": "I wanted to study it immediately, but I couldn't do so in front of the large crowd of the arena or some secret of mine might end up getting spilled."
         },
         {
           "id": 57,
           "paragraph_id": 24,
-          "text": "I wanted to study it immediately, but I couldn't do so in front of the large crowd of the arena or some secret of mine might end up getting spilled."
+          "text": "I didn't even need to touch my storage ring to take it out, simply willing it to emerge was enough."
         },
         {
           "id": 58,
           "paragraph_id": 25,
-          "text": "I didn't even need to touch my storage ring to take it out, simply willing it to emerge was enough."
+          "text": "The saber appeared accompanied by an audible hiss as a gust of blue smoke emerged out of my storage ring."
         },
         {
           "id": 59,
           "paragraph_id": 26,
-          "text": "The saber appeared accompanied by an audible hiss as a gust of blue smoke emerged out of my storage ring."
+          "text": "Then, like a ghostly entity, the weapon floated in midair before me, where it continued hovering, waiting for my next move."
         },
         {
           "id": 60,
           "paragraph_id": 27,
-          "text": "Then, like a ghostly entity, the weapon floated in midair before me, where it continued hovering, waiting for my next move."
+          "text": "The lingering smoke slowly dissipated, leaving only the weapon suspended before me."
         },
         {
           "id": 61,
           "paragraph_id": 28,
-          "text": "The lingering smoke slowly dissipated, leaving only the weapon suspended before me."
+          "text": "[Name: Soul Reaper]"
         },
         {
           "id": 62,
           "paragraph_id": 29,
-          "text": "[Name: Soul Reaper]"
+          "text": "[Rarity: Mythical]"
         },
         {
           "id": 63,
           "paragraph_id": 30,
-          "text": "[Rarity: Mythical]"
+          "text": "[Skills: Eternal Damnation, ???, ???]"
         },
         {
           "id": 64,
           "paragraph_id": 31,
-          "text": "[Skills: Eternal Damnation, ???, ???]"
+          "text": "[Owner: Quinlan Noir]"
         },
         {
           "id": 65,
           "paragraph_id": 32,
-          "text": "[Owner: Quinlan Noir]"
-        },
-        {
-          "id": 66,
-          "paragraph_id": 33,
           "text": "Let's dissect this one by one."
         },
         {
-          "id": 67,
-          "paragraph_id": 33,
+          "id": 66,
+          "paragraph_id": 32,
           "text": "The name was ultra badass, but it didn't do much beyond giving it flair."
+        },
+        {
+          "id": 67,
+          "paragraph_id": 32,
+          "text": "However, I had a faint idea tugging in my mind that the name was not given by Björn, the primordial who crafted it, at least not in the traditional sense."
         },
         {
           "id": 68,
           "paragraph_id": 33,
-          "text": "However, I had a faint idea tugging in my mind that the name was not given by Björn, the primordial who crafted it, at least not in the traditional sense."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 34,
           "text": "Mythical rarity was a giant shocker."
         },
         {
-          "id": 70,
-          "paragraph_id": 34,
+          "id": 69,
+          "paragraph_id": 33,
           "text": "Thus far, Legendary rarity was the most acclaimed artifact rarity I'd ever heard about."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 33,
+          "text": "The veiling artifact we stole from the kingdom's outpost was of the Legendary rarity, and it was treated like a national treasure."
         },
         {
           "id": 71,
           "paragraph_id": 34,
-          "text": "The veiling artifact we stole from the kingdom's outpost was of the Legendary rarity, and it was treated like a national treasure."
+          "text": "This was one step above that one, if not more."
         },
         {
           "id": 72,
-          "paragraph_id": 35,
-          "text": "This was one step above that one, if not more."
+          "paragraph_id": 34,
+          "text": "I didn't know if there was anything between Legendary and Mythical, because I'd never heard of anything being rarer than Legendary."
         },
         {
           "id": 73,
           "paragraph_id": 35,
-          "text": "I didn't know if there was anything between Legendary and Mythical, because I'd never heard of anything being rarer than Legendary."
-        },
-        {
-          "id": 74,
-          "paragraph_id": 36,
           "text": "Of course, Unique-rarity was the exception, but that seemed to be only given by the Soul Records."
         },
         {
-          "id": 75,
-          "paragraph_id": 36,
+          "id": 74,
+          "paragraph_id": 35,
           "text": "If I crafted a random shitty weapon it would be Junk rarity, not Unique, even if no other replicas of it existed in the whole world."
+        },
+        {
+          "id": 75,
+          "paragraph_id": 35,
+          "text": "Rarity represented its might, excellence, and value, not how rare an artifact or gear was, because most hand-crafted items would be Unique otherwise."
         },
         {
           "id": 76,
           "paragraph_id": 36,
-          "text": "Rarity represented its might, excellence, and value, not how rare an artifact or gear was, because most hand-crafted items would be Unique otherwise."
+          "text": "Mythical was likely the highest rarity a crafter could produce."
         },
         {
           "id": 77,
           "paragraph_id": 37,
-          "text": "Mythical was likely the highest rarity a crafter could produce."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 38,
           "text": "Next up was the imbued skill, Eternal Damnation."
         },
         {
-          "id": 79,
-          "paragraph_id": 38,
+          "id": 78,
+          "paragraph_id": 37,
           "text": "This was the reason why I thought that the blade might've not been named by Björn, because it just fit my needs so perfectly."
         },
         {
-          "id": 80,
-          "paragraph_id": 38,
+          "id": 79,
+          "paragraph_id": 37,
           "text": "It allowed me to store the souls of the slain, letting me progress on the requirements of the Necromancer class."
         },
         {
-          "id": 81,
-          "paragraph_id": 38,
+          "id": 80,
+          "paragraph_id": 37,
           "text": "There was no limit on how many souls I could store, the only limitation was that I had to be the one who killed the enemy."
         },
         {
-          "id": 82,
-          "paragraph_id": 38,
+          "id": 81,
+          "paragraph_id": 37,
           "text": "Storing souls by itself didn't seem to do much, though."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 37,
+          "text": "Well, I'll know once I capture one."
         },
         {
           "id": 83,
           "paragraph_id": 38,
-          "text": "Well, I'll know once I capture one."
+          "text": "Anyways, either I got extremely lucky and happened to receive a sealed weapon that would turn out to be perfect for my current needs months after acquiring it, or Björn was on the level where he could make weapons capable of adaptation and evolution."
         },
         {
           "id": 84,
-          "paragraph_id": 39,
-          "text": "Anyways, either I got extremely lucky and happened to receive a sealed weapon that would turn out to be perfect for my current needs months after acquiring it, or Björn was on the level where he could make weapons capable of adaptation and evolution."
+          "paragraph_id": 38,
+          "text": "I leaned towards the latter."
         },
         {
           "id": 85,
           "paragraph_id": 39,
-          "text": "I leaned towards the latter."
+          "text": "It made some sense at least, because primordials were said to be the masters of adaptation and he was the greatest craftsman in Thalorind."
         },
         {
           "id": 86,
-          "paragraph_id": 40,
-          "text": "It made some sense at least, because primordials were said to be the masters of adaptation and he was the greatest craftsman in Thalorind."
+          "paragraph_id": 39,
+          "text": "If someone could achieve this feat, it would be him."
         },
         {
           "id": 87,
           "paragraph_id": 40,
-          "text": "If someone could achieve this feat, it would be him."
+          "text": "The last part, the [Owner: Quinlan Noir], meant that only I could wield it."
         },
         {
           "id": 88,
-          "paragraph_id": 41,
-          "text": "The last part, the [Owner: Quinlan Noir], meant that only I could wield it."
+          "paragraph_id": 40,
+          "text": "The Soul Reaper would refuse if someone other than me tried to do so."
         },
         {
           "id": 89,
           "paragraph_id": 41,
-          "text": "The Soul Reaper would refuse if someone other than me tried to do so."
-        },
-        {
-          "id": 90,
-          "paragraph_id": 42,
           "text": "It was a banger of a weapon, let's just leave it at that."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 43,
-          "text": "..."
         }
       ],
-      "word_count": 1416
+      "word_count": 1414
     },
     {
       "chapter_index": 484,
@@ -19711,7 +19644,6 @@
         "From my right, the bratty twins, from my left, the freaking third princess with six menacing Aegis Vanguards observing my every move, ahead of me the glimmering podium which will become the main attraction very soon, and behind me Lilith and her Scarlet Lilies, who were more or less the superstars of this world.",
         "If that wasn't enough, from below me I sensed the immense weight of Thalorind as it was busy supplying all life on its giant surface, and from above me, I could practically feel the unjust, hypocritical gaze of a lousy woman who was carefully observing and judging my moves, the Goddess.",
         "Thus I was surrounded on all fronts, quite literally!",
-        "...",
         "I eyed the third princess a bit longer. It wasn't rude on my part, we were seated in the first row for a reason. In Thalorind, staring at someone who was in the middle of flexing their power - having six Aegis Vanguards vigilantly bodyguarding a dainty teen girl was a giant flex - wasn't a rude gesture. It could even be said to be fitting the local etiquette.",
         "The fact that she was seated in my row meant that she had at least 500 gold coins on her person, as that was the cost of getting first-row VIP treatment, which just went to show how much my 800 gold truly was, I was well above the minimum range."
       ],
@@ -20119,35 +20051,30 @@
         {
           "id": 80,
           "paragraph_id": 40,
-          "text": "..."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 41,
           "text": "I eyed the third princess a bit longer."
         },
         {
-          "id": 82,
-          "paragraph_id": 41,
+          "id": 81,
+          "paragraph_id": 40,
           "text": "It wasn't rude on my part, we were seated in the first row for a reason."
         },
         {
-          "id": 83,
-          "paragraph_id": 41,
+          "id": 82,
+          "paragraph_id": 40,
           "text": "In Thalorind, staring at someone who was in the middle of flexing their power - having six Aegis Vanguards vigilantly bodyguarding a dainty teen girl was a giant flex - wasn't a rude gesture."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 40,
+          "text": "It could even be said to be fitting the local etiquette."
         },
         {
           "id": 84,
           "paragraph_id": 41,
-          "text": "It could even be said to be fitting the local etiquette."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 42,
           "text": "The fact that she was seated in my row meant that she had at least 500 gold coins on her person, as that was the cost of getting first-row VIP treatment, which just went to show how much my 800 gold truly was, I was well above the minimum range."
         }
       ],
-      "word_count": 1458
+      "word_count": 1457
     },
     {
       "chapter_index": 498,
@@ -21066,7 +20993,6 @@
         "The Third Princess of the Valorian Crown watched our sloppy exchange with wide, disbelieving eyes.",
         "In this manner, I officially welcomed the fifth member of my harem.",
         "Although I wasn't aware of this interesting fact just yet, more than two of my future harem members were watching the sensual kissing session going on between me and the fifth empress of my future empire.",
-        "...",
         "A/N:",
         "500 Chapters, what a giant milestone!",
         "Find adventures on empire",
@@ -21472,35 +21398,30 @@
         {
           "id": 79,
           "paragraph_id": 47,
-          "text": "..."
+          "text": "A/N:"
         },
         {
           "id": 80,
           "paragraph_id": 48,
-          "text": "A/N:"
+          "text": "500 Chapters, what a giant milestone!"
         },
         {
           "id": 81,
           "paragraph_id": 49,
-          "text": "500 Chapters, what a giant milestone!"
+          "text": "Find adventures on empire"
         },
         {
           "id": 82,
           "paragraph_id": 50,
-          "text": "Find adventures on empire"
+          "text": "It might've been me who sat down and wrote these chapters every day for the past half year, but one thing is for certain; I wouldn't have had the motivation to do so without all the amazing support you'd given me, thus you all deserve a good pat on the back."
         },
         {
           "id": 83,
           "paragraph_id": 51,
-          "text": "It might've been me who sat down and wrote these chapters every day for the past half year, but one thing is for certain; I wouldn't have had the motivation to do so without all the amazing support you'd given me, thus you all deserve a good pat on the back."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 52,
           "text": "Truly, thank you."
         }
       ],
-      "word_count": 1249
+      "word_count": 1248
     }
   ]
 }
