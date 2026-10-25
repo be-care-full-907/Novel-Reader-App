@@ -4517,7 +4517,6 @@
         "Ella watched her wards with a gentle gaze, before, she, too, closed her eyes to sleep.",
         "Somewhere near the Windkeep Citadel, a great battle was taking place.",
         "James, along with the masters of Lont were kiting the Big Shots of the Beast Tide from afar. They were trying to split the attention of the monsters in order to help the offensive of the Hellan Kingdom break the Beast Tide’s battle formation.",
-        "(A/N: Kiting is a term mostly used in games when you attack the enemies from a safe distance so they can’t attack you back.)",
         "“Those bastards must be so annoyed right now,” James chuckled as he watched John, Blitz, and the Sentinel of Lont, Trent, harass the ranks of the monster army from the air.",
         "Sentinel was one of the job advancements of the Sniper Class. In order to change to this Job Profession, an important requirement had to be met and that was to single-handedly slay an adult dragon.",
         "Basically, Sentinels were Dragon Slayers and every faction in the continent wanted one to join their ranks. In the Southern Continent, there were only two Dragon Slayers. One was Trent, and the other one was serving in a different Kingdom.",
@@ -4907,210 +4906,205 @@
         {
           "id": 74,
           "paragraph_id": 54,
-          "text": "(A/N: Kiting is a term mostly used in games when you attack the enemies from a safe distance so they can’t attack you back.)"
+          "text": "“Those bastards must be so annoyed right now,” James chuckled as he watched John, Blitz, and the Sentinel of Lont, Trent, harass the ranks of the monster army from the air."
         },
         {
           "id": 75,
           "paragraph_id": 55,
-          "text": "“Those bastards must be so annoyed right now,” James chuckled as he watched John, Blitz, and the Sentinel of Lont, Trent, harass the ranks of the monster army from the air."
+          "text": "Sentinel was one of the job advancements of the Sniper Class."
         },
         {
           "id": 76,
-          "paragraph_id": 56,
-          "text": "Sentinel was one of the job advancements of the Sniper Class."
+          "paragraph_id": 55,
+          "text": "In order to change to this Job Profession, an important requirement had to be met and that was to single-handedly slay an adult dragon."
         },
         {
           "id": 77,
           "paragraph_id": 56,
-          "text": "In order to change to this Job Profession, an important requirement had to be met and that was to single-handedly slay an adult dragon."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 57,
           "text": "Basically, Sentinels were Dragon Slayers and every faction in the continent wanted one to join their ranks."
         },
         {
-          "id": 79,
-          "paragraph_id": 57,
+          "id": 78,
+          "paragraph_id": 56,
           "text": "In the Southern Continent, there were only two Dragon Slayers."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 56,
+          "text": "One was Trent, and the other one was serving in a different Kingdom."
         },
         {
           "id": 80,
           "paragraph_id": 57,
-          "text": "One was Trent, and the other one was serving in a different Kingdom."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 58,
           "text": "Marcus who was seated on top of his mount, Thunder, nodded his head in agreement."
         },
         {
-          "id": 82,
-          "paragraph_id": 58,
+          "id": 81,
+          "paragraph_id": 57,
           "text": "“We’re lucky that the Big Boss of the Beast Tide was a Flood Dragon."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 57,
+          "text": "Due to Trent’s harassment, it couldn’t command the monster army effectively.”"
         },
         {
           "id": 83,
           "paragraph_id": 58,
-          "text": "Due to Trent’s harassment, it couldn’t command the monster army effectively.”"
-        },
-        {
-          "id": 84,
-          "paragraph_id": 59,
           "text": "“Even so, this will still be a very difficult battle for the kingdom,” Jekyll commented."
         },
         {
-          "id": 85,
-          "paragraph_id": 59,
+          "id": 84,
+          "paragraph_id": 58,
           "text": "“The Beast Tide has the Harpy Queen to command the army from the air."
         },
         {
-          "id": 86,
-          "paragraph_id": 59,
+          "id": 85,
+          "paragraph_id": 58,
           "text": "On the ground, they have the Lamia Queen and the Garm to take charge."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 58,
+          "text": "Those two cannot be underestimated because they are very sly monsters.”"
         },
         {
           "id": 87,
           "paragraph_id": 59,
-          "text": "Those two cannot be underestimated because they are very sly monsters.”"
+          "text": "“It’s fine as long as we keep the Flood Dragon busy,” A monk holding a wine jar said in a casual manner."
         },
         {
           "id": 88,
-          "paragraph_id": 60,
-          "text": "“It’s fine as long as we keep the Flood Dragon busy,” A monk holding a wine jar said in a casual manner."
+          "paragraph_id": 59,
+          "text": "“According to my prediction, the winner of this war will be determined in two days’ time.”"
         },
         {
           "id": 89,
           "paragraph_id": 60,
-          "text": "“According to my prediction, the winner of this war will be determined in two days’ time.”"
-        },
-        {
-          "id": 90,
-          "paragraph_id": 61,
           "text": "“Dwayne, you already saw all the Big Shots in the monster army.” James looked at the monk who was happily drinking from the wine jar in his hand."
         },
         {
-          "id": 91,
-          "paragraph_id": 61,
+          "id": 90,
+          "paragraph_id": 60,
           "text": "“At most we need to deal with three of them."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 60,
+          "text": "What are our best choices?”"
         },
         {
           "id": 92,
           "paragraph_id": 61,
-          "text": "What are our best choices?”"
-        },
-        {
-          "id": 93,
-          "paragraph_id": 62,
           "text": "Dwayne burped and closed his eyes."
         },
         {
-          "id": 94,
-          "paragraph_id": 62,
+          "id": 93,
+          "paragraph_id": 61,
           "text": "“Of course we need to take the Flood Dragon."
         },
         {
-          "id": 95,
-          "paragraph_id": 62,
+          "id": 94,
+          "paragraph_id": 61,
           "text": "It is the best catch and we can’t let the nobles get it."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 61,
+          "text": "As for the last two, I think the Ourobro (Golden Ape), and the Amphisbaena (Two Headed Serpent) will be very helpful in Lont.”"
         },
         {
           "id": 96,
           "paragraph_id": 62,
-          "text": "As for the last two, I think the Ourobro (Golden Ape), and the Amphisbaena (Two Headed Serpent) will be very helpful in Lont.”"
-        },
-        {
-          "id": 97,
-          "paragraph_id": 63,
           "text": "“I can understand about the Amphisbaena, but Ourobro?"
         },
         {
-          "id": 98,
-          "paragraph_id": 63,
+          "id": 97,
+          "paragraph_id": 62,
           "text": "That one needs careful consideration,” James replied as he played with his beard."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 62,
+          "text": "“A single punch from that Golden Ape can demolish the Walls of the Windkeep Citadel with ease.”"
         },
         {
           "id": 99,
           "paragraph_id": 63,
-          "text": "“A single punch from that Golden Ape can demolish the Walls of the Windkeep Citadel with ease.”"
-        },
-        {
-          "id": 100,
-          "paragraph_id": 64,
           "text": "“Ah, about that, Boss,” Dwayne said with a mischievous smile."
         },
         {
-          "id": 101,
-          "paragraph_id": 64,
+          "id": 100,
+          "paragraph_id": 63,
           "text": "“I am looking for a Beast Companion, and that monkey is the one that I’ve always wanted."
+        },
+        {
+          "id": 101,
+          "paragraph_id": 63,
+          "text": "For it to appear here can be considered a fateful encounter, don’t you agree?”"
         },
         {
           "id": 102,
           "paragraph_id": 64,
-          "text": "For it to appear here can be considered a fateful encounter, don’t you agree?”"
+          "text": "“You still have a big appetite,” James grinned."
         },
         {
           "id": 103,
-          "paragraph_id": 65,
-          "text": "“You still have a big appetite,” James grinned."
+          "paragraph_id": 64,
+          "text": "“How confident are you in subduing it?”"
         },
         {
           "id": 104,
           "paragraph_id": 65,
-          "text": "“How confident are you in subduing it?”"
-        },
-        {
-          "id": 105,
-          "paragraph_id": 66,
           "text": "“As expected of Boss,” Dwayne grinned and pressed both of his palms together."
         },
         {
-          "id": 106,
-          "paragraph_id": 66,
+          "id": 105,
+          "paragraph_id": 65,
           "text": "“I have already prepared for this day for many years."
         },
         {
-          "id": 107,
-          "paragraph_id": 66,
+          "id": 106,
+          "paragraph_id": 65,
           "text": "I alone can deal with that monkey."
         },
         {
-          "id": 108,
-          "paragraph_id": 66,
+          "id": 107,
+          "paragraph_id": 65,
           "text": "What I need to ask from everyone, and Boss, is to just lure it to our direction."
+        },
+        {
+          "id": 108,
+          "paragraph_id": 65,
+          "text": "I’m confident that I will be able to subdue it with ease.”"
         },
         {
           "id": 109,
           "paragraph_id": 66,
-          "text": "I’m confident that I will be able to subdue it with ease.”"
+          "text": "“Okay, we will move when the Hellan Kingdom launches their full offensive,” James nodded his head."
         },
         {
           "id": 110,
           "paragraph_id": 67,
-          "text": "“Okay, we will move when the Hellan Kingdom launches their full offensive,” James nodded his head."
-        },
-        {
-          "id": 111,
-          "paragraph_id": 68,
           "text": "The night passed swiftly as James and the others lay in wait."
         },
         {
-          "id": 112,
-          "paragraph_id": 68,
+          "id": 111,
+          "paragraph_id": 67,
           "text": "They were like a pack of bandits waiting for the treasures to be drawn in their direction."
         },
         {
-          "id": 113,
-          "paragraph_id": 68,
+          "id": 112,
+          "paragraph_id": 67,
           "text": "For them, the outcome of this battle had already been set in stone."
         },
         {
-          "id": 114,
-          "paragraph_id": 68,
+          "id": 113,
+          "paragraph_id": 67,
           "text": "What they needed to do was to reap as many benefits as they could during the chaos, and return to Lont in a triumphant manner."
         }
       ],
-      "word_count": 1450
+      "word_count": 1426
     },
     {
       "chapter_index": 59,
@@ -7873,7 +7867,6 @@
         "“I killed my first bandit when I was nine,” James commented. “As my grandson, you should do your best to kill these bastards at the first opportunity!”",
         "‘H-How barbaric!’ William thought. ‘Are the people of this world really this indifferent to killing?’",
         "William came from Earth so his mindset, when it came to killing people, was very different from the views of the inhabitants of Hestia. If possible, he didn’t want to end the life of a human being. Killing monsters was fine, because for him, they were not human.",
-        "(A/N: Hestia is the name of William’s current world.)",
         "However, he knew that if he was pushed into a corner, he would also steel himself to commit the deed even if he didn’t want to.",
         "“Little William, look after yourself,” Helen said as she helped him wear a traveling cloak. “I have packed you enough food and clothes for ten days. Make sure to eat on time and rest on time, okay?”",
         "“Thank you, Aunt Helen.” William smiled and nodded his head. “I’ll come back as soon as I can.”",
@@ -8316,120 +8309,115 @@
         {
           "id": 85,
           "paragraph_id": 42,
-          "text": "(A/N: Hestia is the name of William’s current world.)"
+          "text": "However, he knew that if he was pushed into a corner, he would also steel himself to commit the deed even if he didn’t want to."
         },
         {
           "id": 86,
           "paragraph_id": 43,
-          "text": "However, he knew that if he was pushed into a corner, he would also steel himself to commit the deed even if he didn’t want to."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 44,
           "text": "“Little William, look after yourself,” Helen said as she helped him wear a traveling cloak."
         },
         {
-          "id": 88,
-          "paragraph_id": 44,
+          "id": 87,
+          "paragraph_id": 43,
           "text": "“I have packed you enough food and clothes for ten days."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 43,
+          "text": "Make sure to eat on time and rest on time, okay?”"
         },
         {
           "id": 89,
           "paragraph_id": 44,
-          "text": "Make sure to eat on time and rest on time, okay?”"
+          "text": "“Thank you, Aunt Helen.” William smiled and nodded his head."
         },
         {
           "id": 90,
-          "paragraph_id": 45,
-          "text": "“Thank you, Aunt Helen.” William smiled and nodded his head."
+          "paragraph_id": 44,
+          "text": "“I’ll come back as soon as I can.”"
         },
         {
           "id": 91,
           "paragraph_id": 45,
-          "text": "“I’ll come back as soon as I can.”"
+          "text": "“Good."
         },
         {
           "id": 92,
-          "paragraph_id": 46,
-          "text": "“Good."
+          "paragraph_id": 45,
+          "text": "I will be waiting.”"
         },
         {
           "id": 93,
           "paragraph_id": 46,
-          "text": "I will be waiting.”"
+          "text": "“Un!”"
         },
         {
           "id": 94,
           "paragraph_id": 47,
-          "text": "“Un!”"
+          "text": "William waved goodbye before mounting Ella’s back."
         },
         {
           "id": 95,
-          "paragraph_id": 48,
-          "text": "William waved goodbye before mounting Ella’s back."
+          "paragraph_id": 47,
+          "text": "“Master, Grandfather, take care!”"
         },
         {
           "id": 96,
           "paragraph_id": 48,
-          "text": "“Master, Grandfather, take care!”"
+          "text": "“Come back early,” Celine said as she waved back."
         },
         {
           "id": 97,
           "paragraph_id": 49,
-          "text": "“Come back early,” Celine said as she waved back."
-        },
-        {
-          "id": 98,
-          "paragraph_id": 50,
           "text": "“Feel free to pick up a girl to bring home as a wife when you return,” James shouted."
         },
         {
-          "id": 99,
-          "paragraph_id": 50,
+          "id": 98,
+          "paragraph_id": 49,
           "text": "“It doesn’t matter how many you bring back."
+        },
+        {
+          "id": 99,
+          "paragraph_id": 49,
+          "text": "We’ll take them all!”"
         },
         {
           "id": 100,
           "paragraph_id": 50,
-          "text": "We’ll take them all!”"
-        },
-        {
-          "id": 101,
-          "paragraph_id": 51,
           "text": "William almost fell off Ella’s back when he heard his grandfather’s shameless words."
         },
         {
-          "id": 102,
-          "paragraph_id": 51,
+          "id": 101,
+          "paragraph_id": 50,
           "text": "The old man still hadn’t given up on the notion of playing matchmaker for William."
+        },
+        {
+          "id": 102,
+          "paragraph_id": 50,
+          "text": "He was even insisting that the more wives he had, the better."
         },
         {
           "id": 103,
           "paragraph_id": 51,
-          "text": "He was even insisting that the more wives he had, the better."
+          "text": "Did he think that beautiful girls grow in the wild like cabbages?!"
         },
         {
           "id": 104,
           "paragraph_id": 52,
-          "text": "Did he think that beautiful girls grow in the wild like cabbages?!"
+          "text": "As the town of Lont disappeared behind his back, William felt a sense of anticipation."
         },
         {
           "id": 105,
-          "paragraph_id": 53,
-          "text": "As the town of Lont disappeared behind his back, William felt a sense of anticipation."
+          "paragraph_id": 52,
+          "text": "It was his first time going on an adventure away from home and it was making him excited and anxious at the same time."
         },
         {
           "id": 106,
           "paragraph_id": 53,
-          "text": "It was his first time going on an adventure away from home and it was making him excited and anxious at the same time."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 54,
           "text": "What he didn’t know was that during this trip towards the Holy Temple, he would meet someone that would play an important role in his life in the not so distant future."
         }
       ],
-      "word_count": 1493
+      "word_count": 1484
     },
     {
       "chapter_index": 64,
@@ -14733,7 +14721,6 @@
         "— It’s main weapon is its long tongue that extends up to 30 meters and can easily shatter a boulder in one strike.",
         "— During battle, it coats its claws with poison that is potent enough to kill a man within five minutes.",
         "— It’s special ability is Stealth",
-        "(A/N: The rankings for the threat levels are E, D, C, B, A, S, SS, SSR, and Calamity. Centennial Beasts are Rank S, Millennial Beasts are rank SS, and Myriad Beasts are ranked as SSR. Calamity classes are those beasts who are half-a-step away or have already stepped on the ranks of Demigods.)",
         "As William absorbed the information in his head, he noticed that the Gasmirage’s front right-leg was bent at an unnatural angle. It seemed that it was the part of its body that received the full brunt of Ella’s kick.",
         "The monster hissed and its long tongue shot out towards William and Ella like a deadly whip.",
         "Ella evaded the attack with ease. However, a six-meter long gash, that was a meter deep, appeared in the ground that they were standing at just a few seconds ago. It showed William just how powerful the attack was and it made him very wary of the Gasmirage’s battle prowess.",
@@ -14970,330 +14957,315 @@
         {
           "id": 40,
           "paragraph_id": 28,
-          "text": "(A/N: The rankings for the threat levels are E, D, C, B, A, S, SS, SSR, and Calamity."
+          "text": "As William absorbed the information in his head, he noticed that the Gasmirage’s front right-leg was bent at an unnatural angle."
         },
         {
           "id": 41,
           "paragraph_id": 28,
-          "text": "Centennial Beasts are Rank S, Millennial Beasts are rank SS, and Myriad Beasts are ranked as SSR."
+          "text": "It seemed that it was the part of its body that received the full brunt of Ella’s kick."
         },
         {
           "id": 42,
-          "paragraph_id": 28,
-          "text": "Calamity classes are those beasts who are half-a-step away or have already stepped on the ranks of Demigods.)"
+          "paragraph_id": 29,
+          "text": "The monster hissed and its long tongue shot out towards William and Ella like a deadly whip."
         },
         {
           "id": 43,
-          "paragraph_id": 29,
-          "text": "As William absorbed the information in his head, he noticed that the Gasmirage’s front right-leg was bent at an unnatural angle."
+          "paragraph_id": 30,
+          "text": "Ella evaded the attack with ease."
         },
         {
           "id": 44,
-          "paragraph_id": 29,
-          "text": "It seemed that it was the part of its body that received the full brunt of Ella’s kick."
+          "paragraph_id": 30,
+          "text": "However, a six-meter long gash, that was a meter deep, appeared in the ground that they were standing at just a few seconds ago."
         },
         {
           "id": 45,
           "paragraph_id": 30,
-          "text": "The monster hissed and its long tongue shot out towards William and Ella like a deadly whip."
+          "text": "It showed William just how powerful the attack was and it made him very wary of the Gasmirage’s battle prowess."
         },
         {
           "id": 46,
           "paragraph_id": 31,
-          "text": "Ella evaded the attack with ease."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 31,
-          "text": "However, a six-meter long gash, that was a meter deep, appeared in the ground that they were standing at just a few seconds ago."
-        },
-        {
-          "id": 48,
-          "paragraph_id": 31,
-          "text": "It showed William just how powerful the attack was and it made him very wary of the Gasmirage’s battle prowess."
-        },
-        {
-          "id": 49,
-          "paragraph_id": 32,
           "text": "Seeing that it failed to kill its targets, the pissed-off Gasmirage’s tongue lashed out a barrage of attacks in rapid succession."
         },
         {
-          "id": 50,
-          "paragraph_id": 33,
+          "id": 47,
+          "paragraph_id": 32,
           "text": "Even with Ella’s agility, she was having trouble dodging the consecutive blows of the tongue that seemed to have a life of its own."
         },
         {
-          "id": 51,
-          "paragraph_id": 34,
+          "id": 48,
+          "paragraph_id": 33,
           "text": "“Behind you!”"
         },
         {
-          "id": 52,
-          "paragraph_id": 35,
+          "id": 49,
+          "paragraph_id": 34,
           "text": "William heard Est’s warning, and immediately turned his head to look at his back."
         },
         {
-          "id": 53,
-          "paragraph_id": 35,
+          "id": 50,
+          "paragraph_id": 34,
           "text": "There he saw four more lethal tongues that were currently heading in their direction."
         },
         {
-          "id": 54,
-          "paragraph_id": 36,
+          "id": 51,
+          "paragraph_id": 35,
           "text": "“Ice Wall!”"
         },
         {
-          "id": 55,
-          "paragraph_id": 37,
+          "id": 52,
+          "paragraph_id": 36,
           "text": "Four layers of Ice Wall appeared behind William’s back as he attempted to shield himself and Ella from the unexpected sneak attack."
         },
         {
-          "id": 56,
-          "paragraph_id": 37,
+          "id": 53,
+          "paragraph_id": 36,
           "text": "The four tongues that were powerful enough to break boulders shattered three layers of the Ice Wall before stopping at the fourth one."
         },
         {
-          "id": 57,
-          "paragraph_id": 38,
+          "id": 54,
+          "paragraph_id": 37,
           "text": "“Mama!”"
         },
         {
-          "id": 58,
-          "paragraph_id": 39,
+          "id": 55,
+          "paragraph_id": 38,
           "text": "“Meeeeeh!”"
+        },
+        {
+          "id": 56,
+          "paragraph_id": 39,
+          "text": "Ella quickly took that opportunity to make her escape and return to where Est and the others were."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 39,
+          "text": "Surprisingly, the monsters didn’t make any follow up attacks on William and Ella as they retreated towards their group."
+        },
+        {
+          "id": 58,
+          "paragraph_id": 40,
+          "text": "The injured Gasmirage flicked its tongue before usings its stealth ability."
         },
         {
           "id": 59,
           "paragraph_id": 40,
-          "text": "Ella quickly took that opportunity to make her escape and return to where Est and the others were."
+          "text": "It was not in a hurry to have its revenge because its comrades were slowly forming a tight encirclement in order to trap their prey."
         },
         {
           "id": 60,
-          "paragraph_id": 40,
-          "text": "Surprisingly, the monsters didn’t make any follow up attacks on William and Ella as they retreated towards their group."
+          "paragraph_id": 41,
+          "text": "Also, their leader was already headed in their direction."
         },
         {
           "id": 61,
           "paragraph_id": 41,
-          "text": "The injured Gasmirage flicked its tongue before usings its stealth ability."
+          "text": "Once it arrived, their enemy’s chances of winning was nil."
         },
         {
           "id": 62,
-          "paragraph_id": 41,
-          "text": "It was not in a hurry to have its revenge because its comrades were slowly forming a tight encirclement in order to trap their prey."
+          "paragraph_id": 42,
+          "text": "“What are we going to do?” Est asked as he warily looked around their surroundings."
         },
         {
           "id": 63,
           "paragraph_id": 42,
-          "text": "Also, their leader was already headed in their direction."
+          "text": "“We can’t fight what we can’t see.”"
         },
         {
           "id": 64,
-          "paragraph_id": 42,
-          "text": "Once it arrived, their enemy’s chances of winning was nil."
+          "paragraph_id": 43,
+          "text": "“What kind of monster was it?” Isaac asked."
         },
         {
           "id": 65,
           "paragraph_id": 43,
-          "text": "“What are we going to do?” Est asked as he warily looked around their surroundings."
+          "text": "“I’ve never heard or seen something like this before.”"
         },
         {
           "id": 66,
-          "paragraph_id": 43,
-          "text": "“We can’t fight what we can’t see.”"
+          "paragraph_id": 44,
+          "text": "“It’s name is Gasmirage."
         },
         {
           "id": 67,
           "paragraph_id": 44,
-          "text": "“What kind of monster was it?” Isaac asked."
+          "text": "Threat Level C,” William explained."
         },
         {
           "id": 68,
           "paragraph_id": 44,
-          "text": "“I’ve never heard or seen something like this before.”"
+          "text": "“It’s main weapon is its tongue that extends up to thirty meters."
         },
         {
           "id": 69,
-          "paragraph_id": 45,
-          "text": "“It’s name is Gasmirage."
+          "paragraph_id": 44,
+          "text": "Ah, its claws also contain poison that can paralyze its prey."
         },
         {
           "id": 70,
-          "paragraph_id": 45,
-          "text": "Threat Level C,” William explained."
+          "paragraph_id": 44,
+          "text": "Make sure to avoid it at all costs.”"
         },
         {
           "id": 71,
           "paragraph_id": 45,
-          "text": "“It’s main weapon is its tongue that extends up to thirty meters."
+          "text": "“Do you know their weakness?” Ian asked."
         },
         {
           "id": 72,
           "paragraph_id": 45,
-          "text": "Ah, its claws also contain poison that can paralyze its prey."
+          "text": "“Also, how did you know about this creature?”"
         },
         {
           "id": 73,
-          "paragraph_id": 45,
-          "text": "Make sure to avoid it at all costs.”"
+          "paragraph_id": 46,
+          "text": "“My master is a walking monster encyclopedia,” William lied with a straight face."
         },
         {
           "id": 74,
           "paragraph_id": 46,
-          "text": "“Do you know their weakness?” Ian asked."
+          "text": "“I heard her talking about this monster in passing."
         },
         {
           "id": 75,
           "paragraph_id": 46,
-          "text": "“Also, how did you know about this creature?”"
+          "text": "This monster thrives within the Eastern Plains of the Southern Continent."
         },
         {
           "id": 76,
-          "paragraph_id": 47,
-          "text": "“My master is a walking monster encyclopedia,” William lied with a straight face."
+          "paragraph_id": 46,
+          "text": "As for their weakness, they don’t have any.”"
         },
         {
           "id": 77,
           "paragraph_id": 47,
-          "text": "“I heard her talking about this monster in passing."
+          "text": "“Monster Ensayklopedia?” Est asked."
         },
         {
           "id": 78,
           "paragraph_id": 47,
-          "text": "This monster thrives within the Eastern Plains of the Southern Continent."
+          "text": "“What’s that?”"
         },
         {
           "id": 79,
-          "paragraph_id": 47,
-          "text": "As for their weakness, they don’t have any.”"
+          "paragraph_id": 48,
+          "text": "“..."
         },
         {
           "id": 80,
           "paragraph_id": 48,
-          "text": "“Monster Ensayklopedia?” Est asked."
+          "text": "In short, she knows a lot about monsters,” William answered in an awkward manner."
         },
         {
           "id": 81,
-          "paragraph_id": 48,
-          "text": "“What’s that?”"
+          "paragraph_id": 49,
+          "text": "“I see.” Est nodded his head."
         },
         {
           "id": 82,
           "paragraph_id": 49,
-          "text": "“..."
+          "text": "Although he had a feeling that William wasn’t telling him the truth, he knew that now was not the time to ask such questions."
         },
         {
           "id": 83,
           "paragraph_id": 49,
-          "text": "In short, she knows a lot about monsters,” William answered in an awkward manner."
+          "text": "“Do you have a plan in mind?”"
         },
         {
           "id": 84,
           "paragraph_id": 50,
-          "text": "“I see.” Est nodded his head."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 50,
-          "text": "Although he had a feeling that William wasn’t telling him the truth, he knew that now was not the time to ask such questions."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 50,
-          "text": "“Do you have a plan in mind?”"
-        },
-        {
-          "id": 87,
-          "paragraph_id": 51,
           "text": "Since he had already recognized him as the leader of the party, he decided to observe whether he really had the capabilities to lead them."
         },
         {
-          "id": 88,
-          "paragraph_id": 52,
+          "id": 85,
+          "paragraph_id": 51,
           "text": "“There is a way, but...” William looked at the three children with reluctance."
         },
         {
-          "id": 89,
-          "paragraph_id": 52,
+          "id": 86,
+          "paragraph_id": 51,
           "text": "“You might not like it.”"
+        },
+        {
+          "id": 87,
+          "paragraph_id": 52,
+          "text": "“What do you mean that we might not like it?” Ian asked in a challenging tone."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 53,
+          "text": "William didn’t answer Ian’s question."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 53,
+          "text": "Instead, he glanced at the grasslands around them."
         },
         {
           "id": 90,
           "paragraph_id": 53,
-          "text": "“What do you mean that we might not like it?” Ian asked in a challenging tone."
+          "text": "If possible, he didn’t want to use this ability because his Master had repeatedly warned him not to use it in public."
         },
         {
           "id": 91,
           "paragraph_id": 54,
-          "text": "William didn’t answer Ian’s question."
+          "text": "“Remember this, WIlliam,” Celine said with a serious expression."
         },
         {
           "id": 92,
           "paragraph_id": 54,
-          "text": "Instead, he glanced at the grasslands around them."
+          "text": "“No matter how good or noble your intentions are, human prejudice is something that you must consider when using this power."
         },
         {
           "id": 93,
           "paragraph_id": 54,
-          "text": "If possible, he didn’t want to use this ability because his Master had repeatedly warned him not to use it in public."
+          "text": "Only use it as a last resort.”"
         },
         {
           "id": 94,
           "paragraph_id": 55,
-          "text": "“Remember this, WIlliam,” Celine said with a serious expression."
+          "text": "While he was still having an internal debate whether he should use his power or not, the ground started to shake."
         },
         {
           "id": 95,
           "paragraph_id": 55,
-          "text": "“No matter how good or noble your intentions are, human prejudice is something that you must consider when using this power."
+          "text": "A hulking giant that was at least forty-meters tall appeared in their vision."
         },
         {
           "id": 96,
           "paragraph_id": 55,
-          "text": "Only use it as a last resort.”"
+          "text": "It had red skin and a single horn jutted out of its head."
         },
         {
           "id": 97,
-          "paragraph_id": 56,
-          "text": "While he was still having an internal debate whether he should use his power or not, the ground started to shake."
+          "paragraph_id": 55,
+          "text": "In its hand was a giant black steel hammer that was as dark as the night."
         },
         {
           "id": 98,
           "paragraph_id": 56,
-          "text": "A hulking giant that was at least forty-meters tall appeared in their vision."
-        },
-        {
-          "id": 99,
-          "paragraph_id": 56,
-          "text": "It had red skin and a single horn jutted out of its head."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 56,
-          "text": "In its hand was a giant black steel hammer that was as dark as the night."
-        },
-        {
-          "id": 101,
-          "paragraph_id": 57,
           "text": "The most notable feature of this monster was its single, large, red-eye that seemed to pierce through their souls."
         },
         {
-          "id": 102,
-          "paragraph_id": 58,
+          "id": 99,
+          "paragraph_id": 57,
           "text": "The hairs on William’s neck stood on end as he gazed upon the towering threat in front of him."
         },
         {
-          "id": 103,
-          "paragraph_id": 58,
+          "id": 100,
+          "paragraph_id": 57,
           "text": "The feeling that the monster gave him was similar to the Strathmore Thunder Horned Wolf and Golden-Scaled Crocodile that he had faced many months ago."
         },
         {
-          "id": 104,
-          "paragraph_id": 59,
+          "id": 101,
+          "paragraph_id": 58,
           "text": "It was a presence that William could never hope to defeat with his current level of power."
         }
       ],
-      "word_count": 1349
+      "word_count": 1296
     },
     {
       "chapter_index": 74,
@@ -24858,7 +24830,6 @@
         "[ Correct. I will be giving an example first. For a magician, the fastest way to raise their magic power is to use Magic Crystals. The power rankings of magicians are called Circles. The lowest is the First Circle, while the highest is the Tenth Circle. ]",
         "[ Each Circle has ten stages. Only after the magician has managed to breakthrough to the tenth stage would they advance to a higher circle. Host, are you following me so far? ]",
         "“Yes,” William replied. “Bring on the info dump.”",
-        "(A/N: Kekeke)",
         "[ The lowest talent Grade E, allows a magician to reach up to the peak of the First Circle. Unless they find a way to raise their grade, they wouldn’t be able to advance to the Second Circle for the rest of their lives. ]",
         "[ Grade D talent allows the magician to break through up to the Second Circle, Grade C talent allows them to break through to the Third Circle. Grade B talent is a little different because it allows them to breakthrough up to the Fifth Circle. ]",
         "[ Grade A gives them a chance to break through the Seventh Circle, While S, allows them to reach up to the Ninth Circle. As for Perfect Grade Talent allows them to break through to the 10th Circle. ]",
@@ -25250,275 +25221,270 @@
         {
           "id": 72,
           "paragraph_id": 36,
-          "text": "(A/N: Kekeke)"
+          "text": "[ The lowest talent Grade E, allows a magician to reach up to the peak of the First Circle."
         },
         {
           "id": 73,
-          "paragraph_id": 37,
-          "text": "[ The lowest talent Grade E, allows a magician to reach up to the peak of the First Circle."
+          "paragraph_id": 36,
+          "text": "Unless they find a way to raise their grade, they wouldn’t be able to advance to the Second Circle for the rest of their lives. ]"
         },
         {
           "id": 74,
           "paragraph_id": 37,
-          "text": "Unless they find a way to raise their grade, they wouldn’t be able to advance to the Second Circle for the rest of their lives. ]"
+          "text": "[ Grade D talent allows the magician to break through up to the Second Circle, Grade C talent allows them to break through to the Third Circle."
         },
         {
           "id": 75,
-          "paragraph_id": 38,
-          "text": "[ Grade D talent allows the magician to break through up to the Second Circle, Grade C talent allows them to break through to the Third Circle."
+          "paragraph_id": 37,
+          "text": "Grade B talent is a little different because it allows them to breakthrough up to the Fifth Circle. ]"
         },
         {
           "id": 76,
           "paragraph_id": 38,
-          "text": "Grade B talent is a little different because it allows them to breakthrough up to the Fifth Circle. ]"
+          "text": "[ Grade A gives them a chance to break through the Seventh Circle, While S, allows them to reach up to the Ninth Circle."
         },
         {
           "id": 77,
-          "paragraph_id": 39,
-          "text": "[ Grade A gives them a chance to break through the Seventh Circle, While S, allows them to reach up to the Ninth Circle."
+          "paragraph_id": 38,
+          "text": "As for Perfect Grade Talent allows them to break through to the 10th Circle. ]"
         },
         {
           "id": 78,
           "paragraph_id": 39,
-          "text": "As for Perfect Grade Talent allows them to break through to the 10th Circle. ]"
+          "text": "‘Wow, doesn’t that make my Ex-Fiance a lucky girl?’ William thought."
         },
         {
           "id": 79,
           "paragraph_id": 40,
-          "text": "‘Wow, doesn’t that make my Ex-Fiance a lucky girl?’ William thought."
+          "text": "[ Of course, the speed of breaking through the ranks will depend on resources."
         },
         {
           "id": 80,
-          "paragraph_id": 41,
-          "text": "[ Of course, the speed of breaking through the ranks will depend on resources."
+          "paragraph_id": 40,
+          "text": "If you have a steady supply of High-Grade Magic Crystals then becoming a top-tier magician is within reach."
         },
         {
           "id": 81,
           "paragraph_id": 41,
-          "text": "If you have a steady supply of High-Grade Magic Crystals then becoming a top-tier magician is within reach."
+          "text": "Sadly, not everyone has this opportunity."
         },
         {
           "id": 82,
-          "paragraph_id": 42,
-          "text": "Sadly, not everyone has this opportunity."
+          "paragraph_id": 41,
+          "text": "Only the members of royal families, the nobility, and Sects who have vast resources have the ability to groom future Archmages and Archons. ]"
         },
         {
           "id": 83,
           "paragraph_id": 42,
-          "text": "Only the members of royal families, the nobility, and Sects who have vast resources have the ability to groom future Archmages and Archons. ]"
+          "text": "“Where do you get Magic Crystals?” William asked."
         },
         {
           "id": 84,
           "paragraph_id": 43,
-          "text": "“Where do you get Magic Crystals?” William asked."
+          "text": "[ Magic Crystals are mined from the Earth."
         },
         {
           "id": 85,
-          "paragraph_id": 44,
-          "text": "[ Magic Crystals are mined from the Earth."
+          "paragraph_id": 43,
+          "text": "Some of these mines appear near Ley Lines where magic and spirit power are concentrated. ]"
         },
         {
           "id": 86,
           "paragraph_id": 44,
-          "text": "Some of these mines appear near Ley Lines where magic and spirit power are concentrated. ]"
-        },
-        {
-          "id": 87,
-          "paragraph_id": 45,
           "text": "[ Now, let’s talk about the basic Job Classes like swordsman, and archers."
         },
         {
-          "id": 88,
-          "paragraph_id": 45,
+          "id": 87,
+          "paragraph_id": 44,
           "text": "These Job Classes can also grow through cultivation, but they rely more on repetition."
         },
         {
-          "id": 89,
-          "paragraph_id": 45,
+          "id": 88,
+          "paragraph_id": 44,
           "text": "An archer will only become an expert if they practice shooting their arrows everyday."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 44,
+          "text": "As their experience accumulates, they also gain Skills. ]"
         },
         {
           "id": 90,
           "paragraph_id": 45,
-          "text": "As their experience accumulates, they also gain Skills. ]"
-        },
-        {
-          "id": 91,
-          "paragraph_id": 46,
           "text": "[ These skills gain a level or improve the more the archer uses them."
         },
         {
-          "id": 92,
-          "paragraph_id": 46,
+          "id": 91,
+          "paragraph_id": 45,
           "text": "It is similar to gaining a higher proficiency as your master a skill or technique."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 45,
+          "text": "Most Martial Classes get stronger in this manner. ]"
         },
         {
           "id": 93,
           "paragraph_id": 46,
-          "text": "Most Martial Classes get stronger in this manner. ]"
-        },
-        {
-          "id": 94,
-          "paragraph_id": 47,
           "text": "[ The same could be said for the swordsman."
         },
         {
-          "id": 95,
-          "paragraph_id": 47,
+          "id": 94,
+          "paragraph_id": 46,
           "text": "In order to become an expert, they needed to continuously hone their techniques and gain experience through battle in order to become stronger."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 46,
+          "text": "Cultivation is more like a secondary support to them to make their bodies stronger. ]"
         },
         {
           "id": 96,
           "paragraph_id": 47,
-          "text": "Cultivation is more like a secondary support to them to make their bodies stronger. ]"
+          "text": "[ Unlike Magicians, Swordsmen and the other Martial Classes doesn’t rely on Magic Crystals in order to strengthen their bodies."
         },
         {
           "id": 97,
-          "paragraph_id": 48,
-          "text": "[ Unlike Magicians, Swordsmen and the other Martial Classes doesn’t rely on Magic Crystals in order to strengthen their bodies."
+          "paragraph_id": 47,
+          "text": "They rely on Beast Cores that are taken from the monsters that they have slain. ]"
         },
         {
           "id": 98,
           "paragraph_id": 48,
-          "text": "They rely on Beast Cores that are taken from the monsters that they have slain. ]"
+          "text": "“Um?"
         },
         {
           "id": 99,
-          "paragraph_id": 49,
-          "text": "“Um?"
+          "paragraph_id": 48,
+          "text": "Beast Cores?” William remembered the two Millennial-Grade Beastcores in his possession after slaying the Thunder Horned Wolf and Terrorhand."
         },
         {
           "id": 100,
           "paragraph_id": 49,
-          "text": "Beast Cores?” William remembered the two Millennial-Grade Beastcores in his possession after slaying the Thunder Horned Wolf and Terrorhand."
+          "text": "[ The Power Rankings for Martial Classes are different from Magicians, their ranks are measured by the Adventurer’s guild, Hunter’s Guild, and other corresponding organizations, like the Holy Temples, scattered around the continent. ]"
         },
         {
           "id": 101,
           "paragraph_id": 50,
-          "text": "[ The Power Rankings for Martial Classes are different from Magicians, their ranks are measured by the Adventurer’s guild, Hunter’s Guild, and other corresponding organizations, like the Holy Temples, scattered around the continent. ]"
+          "text": "[ The rankings for the martial classes are Copper, Bronze, Silver, Gold, Platinum, Mithril, Adamantium, Black, and Saint. ]"
         },
         {
           "id": 102,
           "paragraph_id": 51,
-          "text": "[ The rankings for the martial classes are Copper, Bronze, Silver, Gold, Platinum, Mithril, Adamantium, Black, and Saint. ]"
+          "text": "“How do they determine the rankings?” William asked."
         },
         {
           "id": 103,
-          "paragraph_id": 52,
-          "text": "“How do they determine the rankings?” William asked."
+          "paragraph_id": 51,
+          "text": "“Do they increase their rank if they finish missions like the ones in games?”"
         },
         {
           "id": 104,
           "paragraph_id": 52,
-          "text": "“Do they increase their rank if they finish missions like the ones in games?”"
-        },
-        {
-          "id": 105,
-          "paragraph_id": 53,
           "text": "[ Yes and No."
         },
         {
-          "id": 106,
-          "paragraph_id": 53,
+          "id": 105,
+          "paragraph_id": 52,
           "text": "Unlike magicians who have a proper measuring tool to check their magic power, the power level of Martial Classes varies from individual to individual."
+        },
+        {
+          "id": 106,
+          "paragraph_id": 52,
+          "text": "Just like the Host, those who specialize in Martial Skills are able to upgrade their profession once they meet its requirement. ]"
         },
         {
           "id": 107,
           "paragraph_id": 53,
-          "text": "Just like the Host, those who specialize in Martial Skills are able to upgrade their profession once they meet its requirement. ]"
-        },
-        {
-          "id": 108,
-          "paragraph_id": 54,
           "text": "[ For example, an archer could choose to become a ranger, hunter, or a sniper."
         },
         {
-          "id": 109,
-          "paragraph_id": 54,
+          "id": 108,
+          "paragraph_id": 53,
           "text": "In order to do so, they must undergo a trial in a temple like what the Host experienced in the Pantheon of Courage."
+        },
+        {
+          "id": 109,
+          "paragraph_id": 53,
+          "text": "Only by succeeding will they be able to upgrade their professions. ]"
         },
         {
           "id": 110,
           "paragraph_id": 54,
-          "text": "Only by succeeding will they be able to upgrade their professions. ]"
+          "text": "[ An Archer of the Gold rank would always be inferior to a Sniper or Ranger of the same Rank."
         },
         {
           "id": 111,
-          "paragraph_id": 55,
-          "text": "[ An Archer of the Gold rank would always be inferior to a Sniper or Ranger of the same Rank."
+          "paragraph_id": 54,
+          "text": "Host, do you know why this happens? ]"
         },
         {
           "id": 112,
           "paragraph_id": 55,
-          "text": "Host, do you know why this happens? ]"
+          "text": "“Is it because of Skills?”"
         },
         {
           "id": 113,
           "paragraph_id": 56,
-          "text": "“Is it because of Skills?”"
+          "text": "[ Yes. ]"
         },
         {
           "id": 114,
           "paragraph_id": 57,
-          "text": "[ Yes. ]"
-        },
-        {
-          "id": 115,
-          "paragraph_id": 58,
           "text": "[ Also, once a person decides to upgrade their profession, they have the option to choose a deity to follow."
         },
         {
-          "id": 116,
-          "paragraph_id": 58,
+          "id": 115,
+          "paragraph_id": 57,
           "text": "For example, a ranger that worship a deity would gain additional boost to their strength."
+        },
+        {
+          "id": 116,
+          "paragraph_id": 57,
+          "text": "They could either worship the God of the Hunt, God of Marksmanship, God of Nature, and other Gods that align with their profession. ]"
         },
         {
           "id": 117,
           "paragraph_id": 58,
-          "text": "They could either worship the God of the Hunt, God of Marksmanship, God of Nature, and other Gods that align with their profession. ]"
+          "text": "[ Each God has different blessings and specialties. ]"
         },
         {
           "id": 118,
           "paragraph_id": 59,
-          "text": "[ Each God has different blessings and specialties. ]"
+          "text": "“So temples are also used as places to change someone’s profession.”"
         },
         {
           "id": 119,
           "paragraph_id": 60,
-          "text": "“So temples are also used as places to change someone’s profession.”"
-        },
-        {
-          "id": 120,
-          "paragraph_id": 61,
           "text": "[ Yes."
         },
         {
-          "id": 121,
-          "paragraph_id": 61,
+          "id": 120,
+          "paragraph_id": 60,
           "text": "Some temples only worship a specific God, while others allow the worship of multiple Gods."
         },
         {
-          "id": 122,
-          "paragraph_id": 61,
+          "id": 121,
+          "paragraph_id": 60,
           "text": "This is why there are several temples scattered not only in the Hellan Kingdom, but in all continents of the world."
+        },
+        {
+          "id": 122,
+          "paragraph_id": 60,
+          "text": "However, there are some individuals that also chose not to worship any Gods, and just advance their rank as they see fit. ]"
         },
         {
           "id": 123,
           "paragraph_id": 61,
-          "text": "However, there are some individuals that also chose not to worship any Gods, and just advance their rank as they see fit. ]"
-        },
-        {
-          "id": 124,
-          "paragraph_id": 62,
           "text": "William wanted to know more about the world, so he decided to learn more information from the system."
         },
         {
-          "id": 125,
-          "paragraph_id": 62,
+          "id": 124,
+          "paragraph_id": 61,
           "text": "He believed that understanding how the professions work in this world would allow him to gain some insights on the path he had to choose."
         }
       ],
-      "word_count": 1768
+      "word_count": 1766
     },
     {
       "chapter_index": 89,
@@ -31319,7 +31285,6 @@
         "“This is the outer perimeter of the Strathmore Forest,” John answered. “It is the entrance to one of the Forbidden Lands in the Southern Continent.”",
         "“Strathmore Forest? Wait! Don’t tell me this place is...” William looked at John in shock. He might not have come to this place, but he had heard many stories about it.",
         "Strathmore Forest, the Forbidden Land that was located in the Southern Continent, and was said to house one of the handful of Calamity Class Beasts in the entire world. This Beast that had lived for Thousands of years had already stepped into the ranks of DemiGods. It was none other than the home of the Nightmare Behemoth, Qiong Qi.",
-        "(A/N: Read it as Ki Yong Ki.)",
         "“Relax, we are only at the outside perimeter,” John stated. “The Strathmore Forest extends for hundreds of miles and the Big Boss is located at the farthest end. He wouldn’t be so bored as to find trouble with two little ants like us. Besides, only those below the age of twenty can enter the Forbidden Lands.”",
         "“Uncle John, I’m only eleven years old.”",
         "“I know.”",
@@ -31771,460 +31736,455 @@
         {
           "id": 78,
           "paragraph_id": 43,
-          "text": "(A/N: Read it as Ki Yong Ki.)"
-        },
-        {
-          "id": 79,
-          "paragraph_id": 44,
           "text": "“Relax, we are only at the outside perimeter,” John stated."
         },
         {
-          "id": 80,
-          "paragraph_id": 44,
+          "id": 79,
+          "paragraph_id": 43,
           "text": "“The Strathmore Forest extends for hundreds of miles and the Big Boss is located at the farthest end."
         },
         {
-          "id": 81,
-          "paragraph_id": 44,
+          "id": 80,
+          "paragraph_id": 43,
           "text": "He wouldn’t be so bored as to find trouble with two little ants like us."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 43,
+          "text": "Besides, only those below the age of twenty can enter the Forbidden Lands.”"
         },
         {
           "id": 82,
           "paragraph_id": 44,
-          "text": "Besides, only those below the age of twenty can enter the Forbidden Lands.”"
+          "text": "“Uncle John, I’m only eleven years old.”"
         },
         {
           "id": 83,
           "paragraph_id": 45,
-          "text": "“Uncle John, I’m only eleven years old.”"
+          "text": "“I know.”"
         },
         {
           "id": 84,
           "paragraph_id": 46,
-          "text": "“I know.”"
+          "text": "“..."
         },
         {
           "id": 85,
-          "paragraph_id": 47,
-          "text": "“..."
+          "paragraph_id": 46,
+          "text": "Can I go home now?”"
         },
         {
           "id": 86,
           "paragraph_id": 47,
-          "text": "Can I go home now?”"
-        },
-        {
-          "id": 87,
-          "paragraph_id": 48,
           "text": "“Of course not,” John firmly gripped William’s shoulder."
         },
         {
-          "id": 88,
-          "paragraph_id": 48,
+          "id": 87,
+          "paragraph_id": 47,
           "text": "“Don’t worry, we won’t be going to the depths of the forest."
         },
         {
-          "id": 89,
-          "paragraph_id": 48,
+          "id": 88,
+          "paragraph_id": 47,
           "text": "We’ll just play at the outer perimeter."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 47,
+          "text": "Aren’t you excited?”"
         },
         {
           "id": 90,
           "paragraph_id": 48,
-          "text": "Aren’t you excited?”"
+          "text": "“Yaaaay."
         },
         {
           "id": 91,
-          "paragraph_id": 49,
-          "text": "“Yaaaay."
+          "paragraph_id": 48,
+          "text": "I’m so excited.” William said in a sarcastic tone."
         },
         {
           "id": 92,
           "paragraph_id": 49,
-          "text": "I’m so excited.” William said in a sarcastic tone."
+          "text": "John chuckled and took out a small bow and a quiver filled with arrows from his storage ring and handed it to William."
         },
         {
           "id": 93,
           "paragraph_id": 50,
-          "text": "John chuckled and took out a small bow and a quiver filled with arrows from his storage ring and handed it to William."
+          "text": "“Have you used a bow before?” John asked."
         },
         {
           "id": 94,
           "paragraph_id": 51,
-          "text": "“Have you used a bow before?” John asked."
+          "text": "“No,” William replied."
         },
         {
           "id": 95,
           "paragraph_id": 52,
-          "text": "“No,” William replied."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 53,
           "text": "“The reason why I brought you here is to teach you archery,” John explained."
         },
         {
-          "id": 97,
-          "paragraph_id": 53,
+          "id": 96,
+          "paragraph_id": 52,
           "text": "“Bear in mind that we will not leave here until I am satisfied with your performance."
+        },
+        {
+          "id": 97,
+          "paragraph_id": 52,
+          "text": "Do I make myself clear?”"
         },
         {
           "id": 98,
           "paragraph_id": 53,
-          "text": "Do I make myself clear?”"
-        },
-        {
-          "id": 99,
-          "paragraph_id": 54,
           "text": "“Yes.” William nodded his head."
         },
         {
-          "id": 100,
-          "paragraph_id": 54,
+          "id": 99,
+          "paragraph_id": 53,
           "text": "To be honest, he had always wanted to learn archery."
+        },
+        {
+          "id": 100,
+          "paragraph_id": 53,
+          "text": "When he was still back on Earth, he would often go near the Archery Club to peek at Belle’s archery practice."
         },
         {
           "id": 101,
           "paragraph_id": 54,
-          "text": "When he was still back on Earth, he would often go near the Archery Club to peek at Belle’s archery practice."
+          "text": "Not only was she the number one beauty in the academy, she was also a very talented archer that had won many awards and gold medals from competitions all over the country."
         },
         {
           "id": 102,
-          "paragraph_id": 55,
-          "text": "Not only was she the number one beauty in the academy, she was also a very talented archer that had won many awards and gold medals from competitions all over the country."
+          "paragraph_id": 54,
+          "text": "William had often thought of joining the archery club in order to be close to her, but his ailment prevented him from doing so."
         },
         {
           "id": 103,
           "paragraph_id": 55,
-          "text": "William had often thought of joining the archery club in order to be close to her, but his ailment prevented him from doing so."
+          "text": "The image of the black haired beauty made William grip the bow in his hand tightly."
         },
         {
           "id": 104,
-          "paragraph_id": 56,
-          "text": "The image of the black haired beauty made William grip the bow in his hand tightly."
+          "paragraph_id": 55,
+          "text": "Although he wasn’t able to learn archery on Earth, it was not too late to learn it on Hestia."
         },
         {
           "id": 105,
           "paragraph_id": 56,
-          "text": "Although he wasn’t able to learn archery on Earth, it was not too late to learn it on Hestia."
+          "text": "“I like your eyes,” John praised as he looked at William’s light-green eyes that were burning with determination."
         },
         {
           "id": 106,
-          "paragraph_id": 57,
-          "text": "“I like your eyes,” John praised as he looked at William’s light-green eyes that were burning with determination."
+          "paragraph_id": 56,
+          "text": "“In order to learn archery, you must first learn how to hold the bow."
         },
         {
           "id": 107,
           "paragraph_id": 57,
-          "text": "“In order to learn archery, you must first learn how to hold the bow."
+          "text": "John demonstrated the proper bow stance using his own bow and showed William the step by step process on how to aim and fire an arrow."
         },
         {
           "id": 108,
           "paragraph_id": 58,
-          "text": "John demonstrated the proper bow stance using his own bow and showed William the step by step process on how to aim and fire an arrow."
+          "text": "William immediately asked the system to change his subclass to Archer."
         },
         {
           "id": 109,
-          "paragraph_id": 59,
-          "text": "William immediately asked the system to change his subclass to Archer."
+          "paragraph_id": 58,
+          "text": "He had a feeling that he could gain experience points for his Archer Class the way he did for his Monk Class as he continued his training."
         },
         {
           "id": 110,
           "paragraph_id": 59,
-          "text": "He had a feeling that he could gain experience points for his Archer Class the way he did for his Monk Class as he continued his training."
+          "text": "A month after John and William arrived at the outskirts of the Strathmore Forest..."
         },
         {
           "id": 111,
           "paragraph_id": 60,
-          "text": "A month after John and William arrived at the outskirts of the Strathmore Forest..."
+          "text": "*Thunk!*"
         },
         {
           "id": 112,
           "paragraph_id": 61,
-          "text": "*Thunk!*"
+          "text": "The sound of an arrow hitting its target echoed in the distance."
         },
         {
           "id": 113,
           "paragraph_id": 62,
-          "text": "The sound of an arrow hitting its target echoed in the distance."
+          "text": "The wooden arrow hit the mark that John had painted on a tree that served as William’s target practice."
         },
         {
           "id": 114,
           "paragraph_id": 63,
-          "text": "The wooden arrow hit the mark that John had painted on a tree that served as William’s target practice."
+          "text": "William had a smug expression on his face as he looked at John in anticipation."
         },
         {
           "id": 115,
-          "paragraph_id": 64,
-          "text": "William had a smug expression on his face as he looked at John in anticipation."
+          "paragraph_id": 63,
+          "text": "“How is it?”"
         },
         {
           "id": 116,
           "paragraph_id": 64,
-          "text": "“How is it?”"
+          "text": "“Disappointing,” John replied as he gave the arrow a side-long glance."
         },
         {
           "id": 117,
-          "paragraph_id": 65,
-          "text": "“Disappointing,” John replied as he gave the arrow a side-long glance."
+          "paragraph_id": 64,
+          "text": "“Your shooting is a textbook example of how to hit a target.”"
         },
         {
           "id": 118,
           "paragraph_id": 65,
-          "text": "“Your shooting is a textbook example of how to hit a target.”"
+          "text": "“Uncle, what’s wrong with that?” William was perplexed."
         },
         {
           "id": 119,
-          "paragraph_id": 66,
-          "text": "“Uncle, what’s wrong with that?” William was perplexed."
+          "paragraph_id": 65,
+          "text": "“Isn’t the objective to hit the target?”"
         },
         {
           "id": 120,
           "paragraph_id": 66,
-          "text": "“Isn’t the objective to hit the target?”"
-        },
-        {
-          "id": 121,
-          "paragraph_id": 67,
           "text": "“Indeed."
         },
         {
-          "id": 122,
-          "paragraph_id": 67,
+          "id": 121,
+          "paragraph_id": 66,
           "text": "However, you are not using your own ability to hit the target,” John frowned."
         },
         {
-          "id": 123,
-          "paragraph_id": 67,
+          "id": 122,
+          "paragraph_id": 66,
           "text": "“I don’t know how you’re doing it, but this is not the right way to learn archery."
+        },
+        {
+          "id": 123,
+          "paragraph_id": 66,
+          "text": "It’s like you’re using some kind of cheat and it will not be beneficial for your growth in the long run.”"
         },
         {
           "id": 124,
           "paragraph_id": 67,
-          "text": "It’s like you’re using some kind of cheat and it will not be beneficial for your growth in the long run.”"
+          "text": "William averted his gaze because he was feeling guilty."
         },
         {
           "id": 125,
-          "paragraph_id": 68,
-          "text": "William averted his gaze because he was feeling guilty."
+          "paragraph_id": 67,
+          "text": "John was right, he was using the passive abilities that he had learned while learning how to shoot arrows."
         },
         {
           "id": 126,
           "paragraph_id": 68,
-          "text": "John was right, he was using the passive abilities that he had learned while learning how to shoot arrows."
+          "text": "[ I agree with John."
         },
         {
           "id": 127,
-          "paragraph_id": 69,
-          "text": "[ I agree with John."
+          "paragraph_id": 68,
+          "text": "Using your passive skills will not be beneficial to you in the long run. ]"
         },
         {
           "id": 128,
           "paragraph_id": 69,
-          "text": "Using your passive skills will not be beneficial to you in the long run. ]"
+          "text": "William sighed as he opened his Archer Skill tree to look at the three skills that he had learned during his one month of archery training."
         },
         {
           "id": 129,
           "paragraph_id": 70,
-          "text": "William sighed as he opened his Archer Skill tree to look at the three skills that he had learned during his one month of archery training."
+          "text": "[ Precision Aiming 10 / 10 ]"
         },
         {
           "id": 130,
           "paragraph_id": 71,
-          "text": "[ Precision Aiming 10 / 10 ]"
+          "text": "— When you focus your concentration on aiming, your attack becomes very accurate."
         },
         {
           "id": 131,
           "paragraph_id": 72,
-          "text": "— When you focus your concentration on aiming, your attack becomes very accurate."
+          "text": "— Adds +10 Enhancement Bonus to Dexterity"
         },
         {
           "id": 132,
           "paragraph_id": 73,
-          "text": "— Adds +10 Enhancement Bonus to Dexterity"
+          "text": "[ Improved Concentration 1 / 10 ]"
         },
         {
           "id": 133,
           "paragraph_id": 74,
-          "text": "[ Improved Concentration 1 / 10 ]"
+          "text": "— Greatly enhances your concentration when aiming at your targets"
         },
         {
           "id": 134,
           "paragraph_id": 75,
-          "text": "— Greatly enhances your concentration when aiming at your targets"
+          "text": "— Adds +2 Enhancement Bonus to Dexterity"
         },
         {
           "id": 135,
           "paragraph_id": 76,
-          "text": "— Adds +2 Enhancement Bonus to Dexterity"
+          "text": "[ Long Distance Aiming 5 / 5 ]"
         },
         {
           "id": 136,
           "paragraph_id": 77,
-          "text": "[ Long Distance Aiming 5 / 5 ]"
+          "text": "— Allows you to focus your aim at great distances."
         },
         {
           "id": 137,
           "paragraph_id": 78,
-          "text": "— Allows you to focus your aim at great distances."
+          "text": "— Increase range of sight by 250 meters."
         },
         {
           "id": 138,
           "paragraph_id": 79,
-          "text": "— Increase range of sight by 250 meters."
+          "text": "— Requirements: Bow or Crossbow weapons."
         },
         {
           "id": 139,
           "paragraph_id": 80,
-          "text": "— Requirements: Bow or Crossbow weapons."
+          "text": "After thinking long and hard, William asked the system if he could help him with the current situation."
         },
         {
           "id": 140,
           "paragraph_id": 81,
-          "text": "After thinking long and hard, William asked the system if he could help him with the current situation."
+          "text": "[ Host the solution is really simple. ]"
         },
         {
           "id": 141,
           "paragraph_id": 82,
-          "text": "[ Host the solution is really simple. ]"
+          "text": "‘Oh?"
         },
         {
           "id": 142,
-          "paragraph_id": 83,
-          "text": "‘Oh?"
+          "paragraph_id": 82,
+          "text": "I’m listening.’"
         },
         {
           "id": 143,
           "paragraph_id": 83,
-          "text": "I’m listening.’"
+          "text": "[ All we need to do is disable the abilities of the Archer Class."
         },
         {
           "id": 144,
-          "paragraph_id": 84,
-          "text": "[ All we need to do is disable the abilities of the Archer Class."
+          "paragraph_id": 83,
+          "text": "You can still gain experience points as you continue your training, but you will be unable to use the skills under the Archer Skill Tree. ]"
         },
         {
           "id": 145,
           "paragraph_id": 84,
-          "text": "You can still gain experience points as you continue your training, but you will be unable to use the skills under the Archer Skill Tree. ]"
+          "text": "‘Perfect!"
         },
         {
           "id": 146,
-          "paragraph_id": 85,
-          "text": "‘Perfect!"
+          "paragraph_id": 84,
+          "text": "Let’s do that!’"
         },
         {
           "id": 147,
           "paragraph_id": 85,
-          "text": "Let’s do that!’"
+          "text": "[ Understood. ]"
         },
         {
           "id": 148,
           "paragraph_id": 86,
-          "text": "[ Understood. ]"
+          "text": "[ Disabling Archer Skill Tree ]"
         },
         {
           "id": 149,
           "paragraph_id": 87,
-          "text": "[ Disabling Archer Skill Tree ]"
+          "text": "[ Disabling Successful ]"
         },
         {
           "id": 150,
           "paragraph_id": 88,
-          "text": "[ Disabling Successful ]"
+          "text": "‘System, disable the abilities of the Shepherd Job Class as well.’"
         },
         {
           "id": 151,
           "paragraph_id": 89,
-          "text": "‘System, disable the abilities of the Shepherd Job Class as well.’"
+          "text": "[ Understood. ]"
         },
         {
           "id": 152,
           "paragraph_id": 90,
-          "text": "[ Understood. ]"
+          "text": "[ Disabling Shepherd Job Class Successful ]"
         },
         {
           "id": 153,
           "paragraph_id": 91,
-          "text": "[ Disabling Shepherd Job Class Successful ]"
+          "text": "William could feel significant changes in his body due to the loss of the passive skills that increased his stats."
         },
         {
           "id": 154,
           "paragraph_id": 92,
-          "text": "William could feel significant changes in his body due to the loss of the passive skills that increased his stats."
+          "text": "The young boy nocked an arrow on his bow and aimed at the marked target in the distance."
         },
         {
           "id": 155,
-          "paragraph_id": 93,
-          "text": "The young boy nocked an arrow on his bow and aimed at the marked target in the distance."
+          "paragraph_id": 92,
+          "text": "This time, he could barely see the target using his normal vision."
         },
         {
           "id": 156,
           "paragraph_id": 93,
-          "text": "This time, he could barely see the target using his normal vision."
-        },
-        {
-          "id": 157,
-          "paragraph_id": 94,
           "text": "When William released the arrow, John noticed significant changes in its trajectory."
         },
         {
-          "id": 158,
-          "paragraph_id": 94,
+          "id": 157,
+          "paragraph_id": 93,
           "text": "He was an expert Hunter and the young boy’s latest attempt made his eyes widen in surprise."
+        },
+        {
+          "id": 158,
+          "paragraph_id": 93,
+          "text": "Just like he expected, the arrow landed way off its designated target..."
         },
         {
           "id": 159,
           "paragraph_id": 94,
-          "text": "Just like he expected, the arrow landed way off its designated target..."
+          "text": "You could even say that it didn’t even make it through its target because it landed fifty meters away from the tree."
         },
         {
           "id": 160,
           "paragraph_id": 95,
-          "text": "You could even say that it didn’t even make it through its target because it landed fifty meters away from the tree."
+          "text": "However, instead of nagging at William, John happily patted the boy’s shoulder and gave him a thumbs up."
         },
         {
           "id": 161,
           "paragraph_id": 96,
-          "text": "However, instead of nagging at William, John happily patted the boy’s shoulder and gave him a thumbs up."
-        },
-        {
-          "id": 162,
-          "paragraph_id": 97,
           "text": "“Good!"
         },
         {
-          "id": 163,
-          "paragraph_id": 97,
+          "id": 162,
+          "paragraph_id": 96,
           "text": "Now, take another shot."
+        },
+        {
+          "id": 163,
+          "paragraph_id": 96,
+          "text": "Remember, practice makes perfect!” John said as he urged William to take another shot."
         },
         {
           "id": 164,
           "paragraph_id": 97,
-          "text": "Remember, practice makes perfect!” John said as he urged William to take another shot."
-        },
-        {
-          "id": 165,
-          "paragraph_id": 98,
           "text": "The boy complied and shot another arrow."
         },
         {
-          "id": 166,
-          "paragraph_id": 98,
+          "id": 165,
+          "paragraph_id": 97,
           "text": "Just like his previous attempt, the arrow still fell short from his target."
+        },
+        {
+          "id": 166,
+          "paragraph_id": 97,
+          "text": "Even so, William had a smile on his face."
         },
         {
           "id": 167,
           "paragraph_id": 98,
-          "text": "Even so, William had a smile on his face."
-        },
-        {
-          "id": 168,
-          "paragraph_id": 99,
           "text": "Somehow, he felt that with every failed attempt he made, he was getting closer to standing on equal ground with the young lady who had made his heart skip a beat."
         }
       ],
-      "word_count": 1938
+      "word_count": 1931
     },
     {
       "chapter_index": 99,

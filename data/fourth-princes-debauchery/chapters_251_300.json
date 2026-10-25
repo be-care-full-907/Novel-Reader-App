@@ -2815,8 +2815,7 @@
         "*ROAAAARRRR!!!*",
         "The monsters had arrived.",
         "I have not recommended my other novel here in a while, but the current arc just finished, so it’s a good time for it.",
-        "Check it if you have time. Science/Magic is completely different from Fourth Prince, but as the author I ask you to give it a chance (It’s not R-18, by the way).",
-        "Also, remember my P4TRE0N:"
+        "Check it if you have time. Science/Magic is completely different from Fourth Prince, but as the author I ask you to give it a chance (It’s not R-18, by the way)."
       ],
       "sentences": [
         {
@@ -3398,14 +3397,9 @@
           "id": 115,
           "paragraph_id": 61,
           "text": "Science/Magic is completely different from Fourth Prince, but as the author I ask you to give it a chance (It’s not R-18, by the way)."
-        },
-        {
-          "id": 116,
-          "paragraph_id": 62,
-          "text": "Also, remember my P4TRE0N:"
         }
       ],
-      "word_count": 1091
+      "word_count": 1087
     },
     {
       "chapter_index": 256,
@@ -24481,7 +24475,7 @@
         "Watching the expression of fear on his face, my smile turned wider.",
         "\"Now, it’s time for us to speak, brother.\"",
         "I’m going to enjoy this.",
-        "Remember to support me on P4TRE0N (If you can). My P4TRE0N is pa-treon.com/aidnovels",
+        "Remember to support me on P4TRE0N (If you can). My P4TRE0N is",
         "Also, check my other novel, [Science/Magic]. Perhaps you will like it."
       ],
       "sentences": [
@@ -25123,7 +25117,7 @@
         {
           "id": 127,
           "paragraph_id": 71,
-          "text": "My P4TRE0N is pa-treon.com/aidnovels"
+          "text": "My P4TRE0N is"
         },
         {
           "id": 128,
@@ -25136,7 +25130,7 @@
           "text": "Perhaps you will like it."
         }
       ],
-      "word_count": 1220
+      "word_count": 1219
     },
     {
       "chapter_index": 285,

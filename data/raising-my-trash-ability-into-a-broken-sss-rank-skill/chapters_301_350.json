@@ -3853,8 +3853,7 @@
         "CHAK-CHAK",
         "CHAK-CHAK",
         "Woooo-wooooo",
-        "❖❖❖",
-        "Thanks for reading..."
+        "❖❖❖"
       ],
       "sentences": [
         {
@@ -4176,14 +4175,9 @@
           "id": 63,
           "paragraph_id": 52,
           "text": "❖❖❖"
-        },
-        {
-          "id": 64,
-          "paragraph_id": 53,
-          "text": "Thanks for reading..."
         }
       ],
-      "word_count": 1235
+      "word_count": 1232
     },
     {
       "chapter_index": 310,

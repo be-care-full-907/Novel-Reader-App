@@ -44781,7 +44781,6 @@
         "That was all it took.",
         "...The spark hit the powder keg.",
         "Within thirty seconds, the quiet atmosphere of the courtyard completely evaporated, turning into a war zone.",
-        "[Author’s Note]",
         "I’ll be adding the Bonus Chapters of Last week’s goal today, the Bonus Chapters for the castle will come tomorrow...",
         "Thank you!"
       ],
@@ -45394,20 +45393,15 @@
         {
           "id": 121,
           "paragraph_id": 93,
-          "text": "[Author’s Note]"
+          "text": "I’ll be adding the Bonus Chapters of Last week’s goal today, the Bonus Chapters for the castle will come tomorrow..."
         },
         {
           "id": 122,
           "paragraph_id": 94,
-          "text": "I’ll be adding the Bonus Chapters of Last week’s goal today, the Bonus Chapters for the castle will come tomorrow..."
-        },
-        {
-          "id": 123,
-          "paragraph_id": 95,
           "text": "Thank you!"
         }
       ],
-      "word_count": 2158
+      "word_count": 2156
     }
   ]
 }

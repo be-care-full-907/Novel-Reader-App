@@ -18360,7 +18360,6 @@
         "A bright translucent blue system notification tab violently materialized directly in front of Silas’s vision.",
         "[Notice: Gold Core Advancement Triggered!]",
         "[Congratulations! You have officially broken through to ’Core Advancement Stage 2’!]",
-        "[Author’s Note]",
         "Haah~ I just finished... so yeah, I want to write ahead for tomorrow so I can post the Chapters immediately after reset and then focus on the new month mass release I plan for us to do. I’m glad we were able to hit our goals and I have to thank you guys for the never ending support... So as for the Bonus Chapters I’m owing, they’ll pop up in the new month mass release.",
         "I’ve done 5 now, expect another 5 after reset and then the Bonus Chapters come during the next month."
       ],
@@ -19368,30 +19367,25 @@
         {
           "id": 200,
           "paragraph_id": 156,
-          "text": "[Author’s Note]"
-        },
-        {
-          "id": 201,
-          "paragraph_id": 157,
           "text": "Haah~ I just finished... so yeah, I want to write ahead for tomorrow so I can post the Chapters immediately after reset and then focus on the new month mass release I plan for us to do."
         },
         {
-          "id": 202,
-          "paragraph_id": 157,
+          "id": 201,
+          "paragraph_id": 156,
           "text": "I’m glad we were able to hit our goals and I have to thank you guys for the never ending support..."
+        },
+        {
+          "id": 202,
+          "paragraph_id": 156,
+          "text": "So as for the Bonus Chapters I’m owing, they’ll pop up in the new month mass release."
         },
         {
           "id": 203,
           "paragraph_id": 157,
-          "text": "So as for the Bonus Chapters I’m owing, they’ll pop up in the new month mass release."
-        },
-        {
-          "id": 204,
-          "paragraph_id": 158,
           "text": "I’ve done 5 now, expect another 5 after reset and then the Bonus Chapters come during the next month."
         }
       ],
-      "word_count": 2548
+      "word_count": 2546
     },
     {
       "chapter_index": 272,
@@ -23601,7 +23595,6 @@
         "Elevating both of his primary casters to S-Rank would give the Blessed Land an god-tier magical backline... further guaranteeing that next week’s official Lord War against \"The Unmovable Wall\" would end in a complete overwhelming landslide victory.",
         "Silas leaned his head back against his leather chair, staring up at the ceiling rafters with a thoughtful smirk.",
         "\"Now then...\" Silas mused, his mind shifting to his next objective. \"...how exactly should I approach Lord Sky to trade for those three hundred units of Obsidian-Slate stone...?\"",
-        "[Author’s Note]",
         "Happy new month in advance and I’m grateful for the support heh, let me go plan my mass release. See you guys tomorrow.",
         "Tch, might as well gift a castle or two this new month."
       ],
@@ -24399,25 +24392,20 @@
         {
           "id": 158,
           "paragraph_id": 125,
-          "text": "[Author’s Note]"
+          "text": "Happy new month in advance and I’m grateful for the support heh, let me go plan my mass release."
         },
         {
           "id": 159,
-          "paragraph_id": 126,
-          "text": "Happy new month in advance and I’m grateful for the support heh, let me go plan my mass release."
+          "paragraph_id": 125,
+          "text": "See you guys tomorrow."
         },
         {
           "id": 160,
           "paragraph_id": 126,
-          "text": "See you guys tomorrow."
-        },
-        {
-          "id": 161,
-          "paragraph_id": 127,
           "text": "Tch, might as well gift a castle or two this new month."
         }
       ],
-      "word_count": 2169
+      "word_count": 2167
     },
     {
       "chapter_index": 277,

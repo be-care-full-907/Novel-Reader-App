@@ -91,7 +91,6 @@
         "In this case, the Centennial Ranked Monster they were facing counted as a monster stronger than them. But, aside from this 50% boost, there was also an additional boost that came from his Basic Shepherd Job Class.",
         "His first skill, Wolf in Sheep’s Clothing, gives an additional +10 to all stats to the member of his Legion.",
         "His other stat boosting skill, Way of the Shepherd, gave a 20% increase to the stats of the members of his King’s Legion as well.",
-        "(A/N: To give an example, the stats of Chronos, who is one of the team leaders of William’s Herd, would have these stats once all the buffs are applied.)",
         "Name: Chronos",
         "Race: Angorian War Ibex",
         "Level: 40",
@@ -651,95 +650,90 @@
         {
           "id": 108,
           "paragraph_id": 81,
-          "text": "(A/N: To give an example, the stats of Chronos, who is one of the team leaders of William’s Herd, would have these stats once all the buffs are applied.)"
+          "text": "Name: Chronos"
         },
         {
           "id": 109,
           "paragraph_id": 82,
-          "text": "Name: Chronos"
+          "text": "Race: Angorian War Ibex"
         },
         {
           "id": 110,
           "paragraph_id": 83,
-          "text": "Race: Angorian War Ibex"
+          "text": "Level: 40"
         },
         {
           "id": 111,
           "paragraph_id": 84,
-          "text": "Level: 40"
+          "text": "Health Points: 47,600 / 47,600"
         },
         {
           "id": 112,
           "paragraph_id": 85,
-          "text": "Health Points: 47,600 / 47,600"
+          "text": "Mana Points: 9,350 / 9,350"
         },
         {
           "id": 113,
           "paragraph_id": 86,
-          "text": "Mana Points: 9,350 / 9,350"
+          "text": "[ Strength: 101 (+207) ]"
         },
         {
           "id": 114,
           "paragraph_id": 87,
-          "text": "[ Strength: 101 (+207) ]"
+          "text": "[ Agility: 158 (+213) ]"
         },
         {
           "id": 115,
           "paragraph_id": 88,
-          "text": "[ Agility: 158 (+213) ]"
+          "text": "[ Vitality: 80 (+158) ]"
         },
         {
           "id": 116,
           "paragraph_id": 89,
-          "text": "[ Vitality: 80 (+158) ]"
+          "text": "[ Intelligence: 50 (+137) ]"
         },
         {
           "id": 117,
           "paragraph_id": 90,
-          "text": "[ Intelligence: 50 (+137) ]"
+          "text": "[ Dexterity: 40 (+130) ]"
         },
         {
           "id": 118,
           "paragraph_id": 91,
-          "text": "[ Dexterity: 40 (+130) ]"
+          "text": "Due to the additional buffs, Chronos had jumped from a Class C Beast to the initial stages of a Class A Beast."
         },
         {
           "id": 119,
-          "paragraph_id": 92,
-          "text": "Due to the additional buffs, Chronos had jumped from a Class C Beast to the initial stages of a Class A Beast."
+          "paragraph_id": 91,
+          "text": "This incredible skill lineup would make any member of Wiliam’s King’s Legion Wolves in Sheep’s Clothing."
         },
         {
           "id": 120,
           "paragraph_id": 92,
-          "text": "This incredible skill lineup would make any member of Wiliam’s King’s Legion Wolves in Sheep’s Clothing."
+          "text": "The stronger members of William’s Legion also received these buffs, which made them more formidable."
         },
         {
           "id": 121,
-          "paragraph_id": 93,
-          "text": "The stronger members of William’s Legion also received these buffs, which made them more formidable."
+          "paragraph_id": 92,
+          "text": "Psoglav had entered the Pseudo-Centennial Rank Category due to the massive boost in its own stats."
         },
         {
           "id": 122,
           "paragraph_id": 93,
-          "text": "Psoglav had entered the Pseudo-Centennial Rank Category due to the massive boost in its own stats."
+          "text": "The Demonic Dog laughed out loud as he faced the thousands of Hobgoblins as if they were five-year old kids waiting to get spanked."
         },
         {
           "id": 123,
           "paragraph_id": 94,
-          "text": "The Demonic Dog laughed out loud as he faced the thousands of Hobgoblins as if they were five-year old kids waiting to get spanked."
-        },
-        {
-          "id": 124,
-          "paragraph_id": 95,
           "text": "William and the Hobgoblin Witch Doctor glared at each other before giving the order to attack."
         },
         {
-          "id": 125,
-          "paragraph_id": 95,
+          "id": 124,
+          "paragraph_id": 94,
           "text": "The two sides collided and the blood of friends and foes alike stained the floor of the Boss Room in a dark-red hue."
         }
       ],
-      "word_count": 1655
+      "word_count": 1626
     },
     {
       "chapter_index": 402,
@@ -783,7 +777,6 @@
         "Stormcaller rumbled in William’s hand and icycle shards flew in the air. The Hobgoblin Chieftain, and Leaders who were guarding the Hobgoblin Witch Doctor clashed with William and his goats.",
         "‘Go, Will,’ Ella said as she stomped her hooves at the Hobgoblin Chieftain who brandished its scimitars at her. ‘Leave these Hobgoblins to us. Take down their leader first.’",
         "“Understood. Take care, Mama,” William replied as he jumped off her back and charged towards the Contracted Monster that was surrounded by Hobgoblins on all sides.",
-        "(A/N: Yes. This is how Ella and William usually communicate. Outsiders only hear “Meeeh”. So, are you an outsider or not? Kekekeke!)",
         "Stormcaller shone brightly as lightning bolts emerged from its tip. William thrust his spear and blasted away the Hobgoblins that were blocking his way.",
         "The smell of charred flesh permeated the air, but that didn’t stop the Hobgoblins from closing the gap as they charged at William with blood-shot eyes.",
         "“Icycle Realm!” William roared and everything around him was surrounded in razor sharp icicle spikes that jutted out of the ground.",
@@ -1091,90 +1084,65 @@
         {
           "id": 59,
           "paragraph_id": 37,
-          "text": "(A/N: Yes."
+          "text": "Stormcaller shone brightly as lightning bolts emerged from its tip."
         },
         {
           "id": 60,
           "paragraph_id": 37,
-          "text": "This is how Ella and William usually communicate."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 37,
-          "text": "Outsiders only hear “Meeeh”."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 37,
-          "text": "So, are you an outsider or not?"
-        },
-        {
-          "id": 63,
-          "paragraph_id": 37,
-          "text": "Kekekeke!)"
-        },
-        {
-          "id": 64,
-          "paragraph_id": 38,
-          "text": "Stormcaller shone brightly as lightning bolts emerged from its tip."
-        },
-        {
-          "id": 65,
-          "paragraph_id": 38,
           "text": "William thrust his spear and blasted away the Hobgoblins that were blocking his way."
         },
         {
-          "id": 66,
-          "paragraph_id": 39,
+          "id": 61,
+          "paragraph_id": 38,
           "text": "The smell of charred flesh permeated the air, but that didn’t stop the Hobgoblins from closing the gap as they charged at William with blood-shot eyes."
         },
         {
-          "id": 67,
-          "paragraph_id": 40,
+          "id": 62,
+          "paragraph_id": 39,
           "text": "“Icycle Realm!” William roared and everything around him was surrounded in razor sharp icicle spikes that jutted out of the ground."
         },
         {
-          "id": 68,
-          "paragraph_id": 41,
+          "id": 63,
+          "paragraph_id": 40,
           "text": "The Icycle Realm is William’s Territory spell."
         },
         {
-          "id": 69,
-          "paragraph_id": 41,
+          "id": 64,
+          "paragraph_id": 40,
           "text": "Similar to a Battle Domain, it allowed William to create a field of razor sharp icicles that would soon explode and turn into sharp projectiles that would pierce, slash, and cut anything they come in contact with, except for William and his allies."
         },
         {
-          "id": 70,
-          "paragraph_id": 42,
+          "id": 65,
+          "paragraph_id": 41,
           "text": "The Hobgoblin Defenders screamed in pain as sharp icicles pierced their bodies."
         },
         {
-          "id": 71,
-          "paragraph_id": 42,
+          "id": 66,
+          "paragraph_id": 41,
           "text": "Using this brief lapse in their formation, William brandished his spear and cut their heads off from their bodies."
         },
         {
-          "id": 72,
-          "paragraph_id": 43,
+          "id": 67,
+          "paragraph_id": 42,
           "text": "The Hobgoblin Witch Doctor pointed its gnarled fingers at William, while chanting a spell."
         },
         {
-          "id": 73,
-          "paragraph_id": 43,
+          "id": 68,
+          "paragraph_id": 42,
           "text": "William smiled evilly as he held the spear in his hands and aimed it at the defenders that had formed a wall in front of the Hobgoblin Witch Doctor in the distance."
         },
         {
-          "id": 74,
-          "paragraph_id": 44,
+          "id": 69,
+          "paragraph_id": 43,
           "text": "“Quick Shot Shepherd Fourth Form...” William shouted."
         },
         {
-          "id": 75,
-          "paragraph_id": 44,
+          "id": 70,
+          "paragraph_id": 43,
           "text": "“Grand Bazooka!”"
         }
       ],
-      "word_count": 1255
+      "word_count": 1233
     },
     {
       "chapter_index": 403,
@@ -9109,7 +9077,6 @@
         "— Threat Level: Class D (Mid)",
         "— Danderous Goblin Dogs are disease-ridden dogs that nobody wants to get in contact with. Their horrible smell and rabid bites make them one of the most annoying creatures that Adventurers don’t want to engage unless it is as a last resort.",
         "The reason why William chose the Danderous Goblin Dogs as the latest addition to the Goblin Army was because he wanted these dogs to serve as mounts for his Goblin Army.",
-        "(A/N: Yes, it is Danderous and not Dangerous. It’s a word play for the word Dander. Ask Google senpai for answers.)",
         "Although they were only a meter tall right now, these dogs were capable of evolving into stronger beasts that were known as Scavenger Goblin Dogs that were a meter-and-a-half tall. This was a Class B Beast that was known for its quick movements over almost any terrain.",
         "Lastly, it also had one final evolution called the Vicious Nether Hound, that made them Class A Beasts. These hounds were true bonafide predators that roamed within the plains of Hell. Standing over two-meters tall, they served as the war mounts of high-tiered Demons.",
         "William currently didn’t have the right Dungeon to evolve them to their final form. The Vicious Nether Hounds could only be born in the rich miasma that came from Hell. Then and only then would these powerful Demonic Dogs show their full potential.",
@@ -9408,110 +9375,95 @@
         {
           "id": 57,
           "paragraph_id": 34,
-          "text": "(A/N: Yes, it is Danderous and not Dangerous."
+          "text": "Although they were only a meter tall right now, these dogs were capable of evolving into stronger beasts that were known as Scavenger Goblin Dogs that were a meter-and-a-half tall."
         },
         {
           "id": 58,
           "paragraph_id": 34,
-          "text": "It’s a word play for the word Dander."
+          "text": "This was a Class B Beast that was known for its quick movements over almost any terrain."
         },
         {
           "id": 59,
-          "paragraph_id": 34,
-          "text": "Ask Google senpai for answers.)"
+          "paragraph_id": 35,
+          "text": "Lastly, it also had one final evolution called the Vicious Nether Hound, that made them Class A Beasts."
         },
         {
           "id": 60,
           "paragraph_id": 35,
-          "text": "Although they were only a meter tall right now, these dogs were capable of evolving into stronger beasts that were known as Scavenger Goblin Dogs that were a meter-and-a-half tall."
+          "text": "These hounds were true bonafide predators that roamed within the plains of Hell."
         },
         {
           "id": 61,
           "paragraph_id": 35,
-          "text": "This was a Class B Beast that was known for its quick movements over almost any terrain."
+          "text": "Standing over two-meters tall, they served as the war mounts of high-tiered Demons."
         },
         {
           "id": 62,
           "paragraph_id": 36,
-          "text": "Lastly, it also had one final evolution called the Vicious Nether Hound, that made them Class A Beasts."
+          "text": "William currently didn’t have the right Dungeon to evolve them to their final form."
         },
         {
           "id": 63,
           "paragraph_id": 36,
-          "text": "These hounds were true bonafide predators that roamed within the plains of Hell."
+          "text": "The Vicious Nether Hounds could only be born in the rich miasma that came from Hell."
         },
         {
           "id": 64,
           "paragraph_id": 36,
-          "text": "Standing over two-meters tall, they served as the war mounts of high-tiered Demons."
+          "text": "Then and only then would these powerful Demonic Dogs show their full potential."
         },
         {
           "id": 65,
           "paragraph_id": 37,
-          "text": "William currently didn’t have the right Dungeon to evolve them to their final form."
+          "text": "With the Atlantis Dungeon right at their doorstep, William was sure that the Danderous Goblin Dogs would at least evolve to their second form, which was the Scavenger Goblin Dogs."
         },
         {
           "id": 66,
           "paragraph_id": 37,
-          "text": "The Vicious Nether Hounds could only be born in the rich miasma that came from Hell."
+          "text": "This was the best that William could do in preparation for the war that he was about to participate in."
         },
         {
           "id": 67,
-          "paragraph_id": 37,
-          "text": "Then and only then would these powerful Demonic Dogs show their full potential."
+          "paragraph_id": 38,
+          "text": "The cost of adding one Dungeon floor was worth 500 Dungeon Points."
         },
         {
           "id": 68,
           "paragraph_id": 38,
-          "text": "With the Atlantis Dungeon right at their doorstep, William was sure that the Danderous Goblin Dogs would at least evolve to their second form, which was the Scavenger Goblin Dogs."
+          "text": "It cost an additional 1,500 Dungeon Points to make the Dungeon spawn twenty Goblin Dogs a day."
         },
         {
           "id": 69,
           "paragraph_id": 38,
-          "text": "This was the best that William could do in preparation for the war that he was about to participate in."
+          "text": "William planned to increase the spawn rate of the 31st Floor after gathering more Dungeon Points from Atlantis."
         },
         {
           "id": 70,
           "paragraph_id": 39,
-          "text": "The cost of adding one Dungeon floor was worth 500 Dungeon Points."
+          "text": "He had seen the other Goblin Monsters that he could add inside his dungeon and he was quite interested in trying them out."
         },
         {
           "id": 71,
           "paragraph_id": 39,
-          "text": "It cost an additional 1,500 Dungeon Points to make the Dungeon spawn twenty Goblin Dogs a day."
-        },
-        {
-          "id": 72,
-          "paragraph_id": 39,
-          "text": "William planned to increase the spawn rate of the 31st Floor after gathering more Dungeon Points from Atlantis."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 40,
-          "text": "He had seen the other Goblin Monsters that he could add inside his dungeon and he was quite interested in trying them out."
-        },
-        {
-          "id": 74,
-          "paragraph_id": 40,
           "text": "One of them was the Goblin Paladin, which cost 1,000,000 Dungeon Points."
         },
         {
-          "id": 75,
-          "paragraph_id": 41,
+          "id": 72,
+          "paragraph_id": 40,
           "text": "The price was truly outrageous, but it allowed William to have a Powerful Goblin Sovereign that would be in the middle stages of the Millennial Rank."
         },
         {
-          "id": 76,
-          "paragraph_id": 42,
+          "id": 73,
+          "paragraph_id": 41,
           "text": "‘One step at a time,’ William thought as he watched his Dungeon Points increase from time to time."
         },
         {
-          "id": 77,
-          "paragraph_id": 42,
+          "id": 74,
+          "paragraph_id": 41,
           "text": "Although 1,000,000 Dungeon Points was still far from his reach, he had no doubt that one day, his Powerful Goblin Army would make anyone tremble in their wake."
         }
       ],
-      "word_count": 1134
+      "word_count": 1113
     },
     {
       "chapter_index": 418,
@@ -12588,7 +12540,6 @@
         "“... T-This?” Est stuttered. “This is the secret you wanted to share with me?”",
         "“Unbelievable,” Isaac muttered as she scanned her surroundings.",
         "William chuckled when he saw Est’s and Isaac’s reactions after he brought them inside the Thousand Beast Domain. Since they would be fighting side by side in the future, he deemed that it was necessary to share some of his secrets with them.",
-        "(A/N: Forgive me when I switch pronouns every now and then. I’m sure that you already understand the reason why.)",
         "“This Domain is yours?” Est gave William a serious expression. “How did you get it?”",
         "William crossed his arms over his chest before answering Est’s question. “If I told you that I bought it, would you believe me?”",
         "“No.” Est firmly shook her head. “I never heard of anyone selling a Domain. How about you, Isaac?”",
@@ -12620,7 +12571,6 @@
         "“Um?”",
         "“I’m asking where mine is? You gave Ashe and Wendy this power, what about me?”",
         "The smile on William’s face froze because he had completely forgotten about Est. He was so excited to show these powers to his BFF because he wanted to brag. However he had made a terrible mistake in doing so.",
-        "(A/N: BFF means Best Friends Forever, or just simply a very close friend.)",
         "Beads of sweat formed on William’s forehead because he had overlooked the necessary requirements in order to bestow a Subclass to one of his lovers.",
         "“What’s wrong?” Est asked as she walked towards William. “Don’t tell me that I can’t have these powers as well.”",
         "“W-Well, there is a right time for everything,” William stuttered as he unconsciously took a step back. “T-There is an important requirement that must be met before you can acquire these powers.”",
@@ -12833,585 +12783,570 @@
         {
           "id": 37,
           "paragraph_id": 17,
-          "text": "(A/N: Forgive me when I switch pronouns every now and then."
+          "text": "“This Domain is yours?” Est gave William a serious expression."
         },
         {
           "id": 38,
           "paragraph_id": 17,
-          "text": "I’m sure that you already understand the reason why.)"
+          "text": "“How did you get it?”"
         },
         {
           "id": 39,
           "paragraph_id": 18,
-          "text": "“This Domain is yours?” Est gave William a serious expression."
+          "text": "William crossed his arms over his chest before answering Est’s question."
         },
         {
           "id": 40,
           "paragraph_id": 18,
-          "text": "“How did you get it?”"
+          "text": "“If I told you that I bought it, would you believe me?”"
         },
         {
           "id": 41,
           "paragraph_id": 19,
-          "text": "William crossed his arms over his chest before answering Est’s question."
+          "text": "“No.” Est firmly shook her head."
         },
         {
           "id": 42,
           "paragraph_id": 19,
-          "text": "“If I told you that I bought it, would you believe me?”"
+          "text": "“I never heard of anyone selling a Domain."
         },
         {
           "id": 43,
-          "paragraph_id": 20,
-          "text": "“No.” Est firmly shook her head."
+          "paragraph_id": 19,
+          "text": "How about you, Isaac?”"
         },
         {
           "id": 44,
           "paragraph_id": 20,
-          "text": "“I never heard of anyone selling a Domain."
+          "text": "Isaac shook her head as well."
         },
         {
           "id": 45,
           "paragraph_id": 20,
-          "text": "How about you, Isaac?”"
+          "text": "Although she could tell that William wasn’t lying, she refused to believe that a Domain could be bought just like that."
         },
         {
           "id": 46,
           "paragraph_id": 21,
-          "text": "Isaac shook her head as well."
+          "text": "“Well, since you don’t believe me, there’s nothing I can do about it.” William smirked."
         },
         {
           "id": 47,
           "paragraph_id": 21,
-          "text": "Although she could tell that William wasn’t lying, she refused to believe that a Domain could be bought just like that."
+          "text": "He himself knew how ridiculous his words sounded, so he didn’t bother to persuade the two to believe him."
         },
         {
           "id": 48,
           "paragraph_id": 22,
-          "text": "“Well, since you don’t believe me, there’s nothing I can do about it.” William smirked."
+          "text": "“Actually, there’s one more thing that I’d like to show you,” William held Est’s hand while offering the other to Isaac."
         },
         {
           "id": 49,
           "paragraph_id": 22,
-          "text": "He himself knew how ridiculous his words sounded, so he didn’t bother to persuade the two to believe him."
+          "text": "“What you are going to see next is more unbelievable than this."
         },
         {
           "id": 50,
-          "paragraph_id": 23,
-          "text": "“Actually, there’s one more thing that I’d like to show you,” William held Est’s hand while offering the other to Isaac."
+          "paragraph_id": 22,
+          "text": "I hope that the two of you are ready.”"
         },
         {
           "id": 51,
           "paragraph_id": 23,
-          "text": "“What you are going to see next is more unbelievable than this."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 23,
-          "text": "I hope that the two of you are ready.”"
-        },
-        {
-          "id": 53,
-          "paragraph_id": 24,
           "text": "Atlantis Dungeon..."
         },
         {
-          "id": 54,
-          "paragraph_id": 25,
+          "id": 52,
+          "paragraph_id": 24,
           "text": "“What kind of sorcery is this?!” Est rubbed her face with her hands."
+        },
+        {
+          "id": 53,
+          "paragraph_id": 25,
+          "text": "William took her and Isaac to the Fourth Floor of the Dungeon of Atlantis where the Goblin Warriors were currently fighting against Slimes."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 26,
+          "text": "Of course, these Slimes didn’t pose any threat to them."
         },
         {
           "id": 55,
           "paragraph_id": 26,
-          "text": "William took her and Isaac to the Fourth Floor of the Dungeon of Atlantis where the Goblin Warriors were currently fighting against Slimes."
+          "text": "They were merely farming Dungeon Points as per William’s orders, so that he could upgrade the Goblin Crypt, and increase the number of its floors."
         },
         {
           "id": 56,
           "paragraph_id": 27,
-          "text": "Of course, these Slimes didn’t pose any threat to them."
+          "text": "“William, are you still Human?” Isaac inquired."
         },
         {
           "id": 57,
           "paragraph_id": 27,
-          "text": "They were merely farming Dungeon Points as per William’s orders, so that he could upgrade the Goblin Crypt, and increase the number of its floors."
+          "text": "“Just how are you doing this?”"
         },
         {
           "id": 58,
           "paragraph_id": 28,
-          "text": "“William, are you still Human?” Isaac inquired."
+          "text": "“You’re so silly, Isaac.” William happily patted Isaac’s shoulder."
         },
         {
           "id": 59,
           "paragraph_id": 28,
-          "text": "“Just how are you doing this?”"
+          "text": "“Of course I’m not a Human."
         },
         {
           "id": 60,
-          "paragraph_id": 29,
-          "text": "“You’re so silly, Isaac.” William happily patted Isaac’s shoulder."
+          "paragraph_id": 28,
+          "text": "I’m a Half-Elf."
         },
         {
           "id": 61,
-          "paragraph_id": 29,
-          "text": "“Of course I’m not a Human."
+          "paragraph_id": 28,
+          "text": "I thought you already knew this.”"
         },
         {
           "id": 62,
           "paragraph_id": 29,
-          "text": "I’m a Half-Elf."
+          "text": "Isaac looked at William with a dumbfounded expression."
         },
         {
           "id": 63,
           "paragraph_id": 29,
-          "text": "I thought you already knew this.”"
+          "text": "“Of course, I know that you’re a Half-Elf."
         },
         {
           "id": 64,
-          "paragraph_id": 30,
-          "text": "Isaac looked at William with a dumbfounded expression."
+          "paragraph_id": 29,
+          "text": "What I mean is, no mortal can do the things you can do."
         },
         {
           "id": 65,
-          "paragraph_id": 30,
-          "text": "“Of course, I know that you’re a Half-Elf."
+          "paragraph_id": 29,
+          "text": "Are you sure you’re still a mortal?”"
         },
         {
           "id": 66,
           "paragraph_id": 30,
-          "text": "What I mean is, no mortal can do the things you can do."
+          "text": "William nodded his head."
         },
         {
           "id": 67,
           "paragraph_id": 30,
-          "text": "Are you sure you’re still a mortal?”"
-        },
-        {
-          "id": 68,
-          "paragraph_id": 31,
-          "text": "William nodded his head."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 31,
           "text": "“I am mortal, but I’m no ordinary mortal."
         },
         {
-          "id": 70,
-          "paragraph_id": 31,
+          "id": 68,
+          "paragraph_id": 30,
           "text": "Have you seen a Half-Elf as handsome as I?"
+        },
+        {
+          "id": 69,
+          "paragraph_id": 30,
+          "text": "Have you seen a Half-Elf as awesome as I?"
+        },
+        {
+          "id": 70,
+          "paragraph_id": 30,
+          "text": "Have you seen a Half-“"
         },
         {
           "id": 71,
           "paragraph_id": 31,
-          "text": "Have you seen a Half-Elf as awesome as I?"
+          "text": "“Okay."
         },
         {
           "id": 72,
           "paragraph_id": 31,
-          "text": "Have you seen a Half-“"
+          "text": "Okay, I understand.” Isaac silenced William with a stopping gesture."
         },
         {
           "id": 73,
-          "paragraph_id": 32,
-          "text": "“Okay."
+          "paragraph_id": 31,
+          "text": "“Are there any other secrets you want to share with us?"
         },
         {
           "id": 74,
-          "paragraph_id": 32,
-          "text": "Okay, I understand.” Isaac silenced William with a stopping gesture."
+          "paragraph_id": 31,
+          "text": "At this point, I think I can believe anything.”"
         },
         {
           "id": 75,
           "paragraph_id": 32,
-          "text": "“Are there any other secrets you want to share with us?"
+          "text": "“Me, too,” Est commented from the side."
         },
         {
           "id": 76,
           "paragraph_id": 32,
-          "text": "At this point, I think I can believe anything.”"
+          "text": "“Do you have other things to share?”"
         },
         {
           "id": 77,
           "paragraph_id": 33,
-          "text": "“Me, too,” Est commented from the side."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 33,
-          "text": "“Do you have other things to share?”"
-        },
-        {
-          "id": 79,
-          "paragraph_id": 34,
           "text": "William grinned mischievously as he glanced at Ashe and Wendy who were standing not far from him."
         },
         {
-          "id": 80,
-          "paragraph_id": 35,
+          "id": 78,
+          "paragraph_id": 34,
           "text": "The two girls understood the hint and decided to show Est and Isaac the results of their Dungeon training."
         },
         {
-          "id": 81,
-          "paragraph_id": 36,
+          "id": 79,
+          "paragraph_id": 35,
           "text": "“Rock Bullet,” Ashe said as she pointed her finger at a Slime."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 36,
+          "text": "Immediately a small rock materialized out of thin air and flew in the direction of the Slime, making it explode."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 37,
+          "text": "Isaac’s pupils shrunk when her twin sister cast an Earth Magic Skill in front of her."
         },
         {
           "id": 82,
           "paragraph_id": 37,
-          "text": "Immediately a small rock materialized out of thin air and flew in the direction of the Slime, making it explode."
+          "text": "Ashe wasn’t able to stop herself from grinning when she saw her twin’s reaction."
         },
         {
           "id": 83,
           "paragraph_id": 38,
-          "text": "Isaac’s pupils shrunk when her twin sister cast an Earth Magic Skill in front of her."
+          "text": "Wendy created two hand seals using both of her hands and merged them together."
         },
         {
           "id": 84,
           "paragraph_id": 38,
-          "text": "Ashe wasn’t able to stop herself from grinning when she saw her twin’s reaction."
+          "text": "Immediately four Runic Blades appeared around her."
         },
         {
           "id": 85,
-          "paragraph_id": 39,
-          "text": "Wendy created two hand seals using both of her hands and merged them together."
+          "paragraph_id": 38,
+          "text": "They glowed in an eerie light that made Est look at them with curiosity."
         },
         {
           "id": 86,
           "paragraph_id": 39,
-          "text": "Immediately four Runic Blades appeared around her."
+          "text": "After observing the floating swords for two minutes, she returned her attention to William and asked the question that was on her mind."
         },
         {
           "id": 87,
-          "paragraph_id": 39,
-          "text": "They glowed in an eerie light that made Est look at them with curiosity."
+          "paragraph_id": 40,
+          "text": "“How?” Est asked."
         },
         {
           "id": 88,
-          "paragraph_id": 40,
-          "text": "After observing the floating swords for two minutes, she returned her attention to William and asked the question that was on her mind."
+          "paragraph_id": 41,
+          "text": "Est had already been baffled when she saw Ashe use an Earth Magic Skill."
         },
         {
           "id": 89,
           "paragraph_id": 41,
-          "text": "“How?” Est asked."
+          "text": "She knew that her retainer didn’t have Dual Affinities in Magic, so she couldn’t understand how the latter was able to do what she did."
         },
         {
           "id": 90,
           "paragraph_id": 42,
-          "text": "Est had already been baffled when she saw Ashe use an Earth Magic Skill."
+          "text": "As for Wendy, although the Runic Blades were good, Est only thought that the blonde girl had combined Metal and Air Magic together to form this new kind of Magic."
         },
         {
           "id": 91,
           "paragraph_id": 42,
-          "text": "She knew that her retainer didn’t have Dual Affinities in Magic, so she couldn’t understand how the latter was able to do what she did."
+          "text": "She looked at the red-headed boy with a heated gaze and demanded an answer."
         },
         {
           "id": 92,
           "paragraph_id": 43,
-          "text": "As for Wendy, although the Runic Blades were good, Est only thought that the blonde girl had combined Metal and Air Magic together to form this new kind of Magic."
+          "text": "“This is the Power of Love,” William answered calmly."
         },
         {
           "id": 93,
           "paragraph_id": 43,
-          "text": "She looked at the red-headed boy with a heated gaze and demanded an answer."
+          "text": "“Only those who love me will be able to wield these powers."
         },
         {
           "id": 94,
-          "paragraph_id": 44,
-          "text": "“This is the Power of Love,” William answered calmly."
+          "paragraph_id": 43,
+          "text": "What do you think?"
         },
         {
           "id": 95,
-          "paragraph_id": 44,
-          "text": "“Only those who love me will be able to wield these powers."
+          "paragraph_id": 43,
+          "text": "Pretty awesome, right?”"
         },
         {
           "id": 96,
           "paragraph_id": 44,
-          "text": "What do you think?"
+          "text": "“Yes.” Est nodded."
         },
         {
           "id": 97,
           "paragraph_id": 44,
-          "text": "Pretty awesome, right?”"
+          "text": "“Where’s mine?”"
         },
         {
           "id": 98,
           "paragraph_id": 45,
-          "text": "“Yes.” Est nodded."
+          "text": "“Um?”"
         },
         {
           "id": 99,
-          "paragraph_id": 45,
-          "text": "“Where’s mine?”"
+          "paragraph_id": 46,
+          "text": "“I’m asking where mine is?"
         },
         {
           "id": 100,
           "paragraph_id": 46,
-          "text": "“Um?”"
+          "text": "You gave Ashe and Wendy this power, what about me?”"
         },
         {
           "id": 101,
           "paragraph_id": 47,
-          "text": "“I’m asking where mine is?"
+          "text": "The smile on William’s face froze because he had completely forgotten about Est."
         },
         {
           "id": 102,
           "paragraph_id": 47,
-          "text": "You gave Ashe and Wendy this power, what about me?”"
+          "text": "He was so excited to show these powers to his BFF because he wanted to brag."
         },
         {
           "id": 103,
-          "paragraph_id": 48,
-          "text": "The smile on William’s face froze because he had completely forgotten about Est."
+          "paragraph_id": 47,
+          "text": "However he had made a terrible mistake in doing so."
         },
         {
           "id": 104,
           "paragraph_id": 48,
-          "text": "He was so excited to show these powers to his BFF because he wanted to brag."
+          "text": "Beads of sweat formed on William’s forehead because he had overlooked the necessary requirements in order to bestow a Subclass to one of his lovers."
         },
         {
           "id": 105,
-          "paragraph_id": 48,
-          "text": "However he had made a terrible mistake in doing so."
+          "paragraph_id": 49,
+          "text": "“What’s wrong?” Est asked as she walked towards William."
         },
         {
           "id": 106,
           "paragraph_id": 49,
-          "text": "(A/N: BFF means Best Friends Forever, or just simply a very close friend.)"
+          "text": "“Don’t tell me that I can’t have these powers as well.”"
         },
         {
           "id": 107,
           "paragraph_id": 50,
-          "text": "Beads of sweat formed on William’s forehead because he had overlooked the necessary requirements in order to bestow a Subclass to one of his lovers."
+          "text": "“W-Well, there is a right time for everything,” William stuttered as he unconsciously took a step back."
         },
         {
           "id": 108,
-          "paragraph_id": 51,
-          "text": "“What’s wrong?” Est asked as she walked towards William."
+          "paragraph_id": 50,
+          "text": "“T-There is an important requirement that must be met before you can acquire these powers.”"
         },
         {
           "id": 109,
           "paragraph_id": 51,
-          "text": "“Don’t tell me that I can’t have these powers as well.”"
+          "text": "“And that is?”"
         },
         {
           "id": 110,
           "paragraph_id": 52,
-          "text": "“W-Well, there is a right time for everything,” William stuttered as he unconsciously took a step back."
+          "text": "“I-It is a very difficult requirement."
         },
         {
           "id": 111,
           "paragraph_id": 52,
-          "text": "“T-There is an important requirement that must be met before you can acquire these powers.”"
+          "text": "The current you is unable to clear the conditions for these powers to activate.”"
         },
         {
           "id": 112,
           "paragraph_id": 53,
-          "text": "“And that is?”"
+          "text": "Est stopped walking then glanced at Ashe and Wendy."
         },
         {
           "id": 113,
-          "paragraph_id": 54,
-          "text": "“I-It is a very difficult requirement."
+          "paragraph_id": 53,
+          "text": "She then looked at William with a raised eyebrow as if telling him “These two managed to pass the requirement and I can’t?”"
         },
         {
           "id": 114,
           "paragraph_id": 54,
-          "text": "The current you is unable to clear the conditions for these powers to activate.”"
-        },
-        {
-          "id": 115,
-          "paragraph_id": 55,
-          "text": "Est stopped walking then glanced at Ashe and Wendy."
-        },
-        {
-          "id": 116,
-          "paragraph_id": 55,
-          "text": "She then looked at William with a raised eyebrow as if telling him “These two managed to pass the requirement and I can’t?”"
-        },
-        {
-          "id": 117,
-          "paragraph_id": 56,
           "text": "“About that, I also want to know.” Wendy suddenly held William’s arm before looking up at him with a curious expression."
         },
         {
-          "id": 118,
-          "paragraph_id": 56,
+          "id": 115,
+          "paragraph_id": 54,
           "text": "“You said that there are requirements, right?"
         },
         {
-          "id": 119,
-          "paragraph_id": 56,
+          "id": 116,
+          "paragraph_id": 54,
           "text": "What are those requirements?"
+        },
+        {
+          "id": 117,
+          "paragraph_id": 54,
+          "text": "Can anyone have them?”"
+        },
+        {
+          "id": 118,
+          "paragraph_id": 55,
+          "text": "“No.” William shook his head."
+        },
+        {
+          "id": 119,
+          "paragraph_id": 55,
+          "text": "“Only my lovers get this benefit.”"
         },
         {
           "id": 120,
           "paragraph_id": 56,
-          "text": "Can anyone have them?”"
-        },
-        {
-          "id": 121,
-          "paragraph_id": 57,
-          "text": "“No.” William shook his head."
-        },
-        {
-          "id": 122,
-          "paragraph_id": 57,
-          "text": "“Only my lovers get this benefit.”"
-        },
-        {
-          "id": 123,
-          "paragraph_id": 58,
           "text": "“Aren’t I your lover?” Est asked in a challenging tone."
         },
         {
-          "id": 124,
-          "paragraph_id": 58,
+          "id": 121,
+          "paragraph_id": 56,
           "text": "“Wait."
         },
         {
-          "id": 125,
-          "paragraph_id": 58,
+          "id": 122,
+          "paragraph_id": 56,
           "text": "Are you telling me that you don’t recognize me as your lover?"
+        },
+        {
+          "id": 123,
+          "paragraph_id": 56,
+          "text": "Is that it?”"
+        },
+        {
+          "id": 124,
+          "paragraph_id": 57,
+          "text": "Est walked towards William."
+        },
+        {
+          "id": 125,
+          "paragraph_id": 57,
+          "text": "She only stopped when she was only a meter away from the red-headed boy and crossed her arms over her chest."
         },
         {
           "id": 126,
           "paragraph_id": 58,
-          "text": "Is that it?”"
+          "text": "“Est, it’s not what you think,” William replied as he tried to think of a way to bullsh*t his way out of this mess."
         },
         {
           "id": 127,
           "paragraph_id": 59,
-          "text": "Est walked towards William."
+          "text": "What happened with Wendy was a complete accident and he was not confident that the same could be replicated with Est."
         },
         {
           "id": 128,
-          "paragraph_id": 59,
-          "text": "She only stopped when she was only a meter away from the red-headed boy and crossed her arms over her chest."
+          "paragraph_id": 60,
+          "text": "Issei had already told him that he was still underaged, so the power of his King’s Chesspiece wouldn’t allow him to add more Familia Members."
         },
         {
           "id": 129,
           "paragraph_id": 60,
-          "text": "“Est, it’s not what you think,” William replied as he tried to think of a way to bullsh*t his way out of this mess."
+          "text": "Unless Est and him rolled in the sheets in their dreams, or something similar, it would be impossible to add his silver-haired lover to the list of his Familia Members."
         },
         {
           "id": 130,
           "paragraph_id": 61,
-          "text": "What happened with Wendy was a complete accident and he was not confident that the same could be replicated with Est."
-        },
-        {
-          "id": 131,
-          "paragraph_id": 62,
-          "text": "Issei had already told him that he was still underaged, so the power of his King’s Chesspiece wouldn’t allow him to add more Familia Members."
-        },
-        {
-          "id": 132,
-          "paragraph_id": 62,
-          "text": "Unless Est and him rolled in the sheets in their dreams, or something similar, it would be impossible to add his silver-haired lover to the list of his Familia Members."
-        },
-        {
-          "id": 133,
-          "paragraph_id": 63,
           "text": "Left with no choice, William took Est to a place where the two of them could talk in private."
         },
         {
-          "id": 134,
-          "paragraph_id": 63,
+          "id": 131,
+          "paragraph_id": 61,
           "text": "He explained why he wasn’t able to bestow a Subclass on her."
+        },
+        {
+          "id": 132,
+          "paragraph_id": 61,
+          "text": "Est listened patiently to William’s explanation."
+        },
+        {
+          "id": 133,
+          "paragraph_id": 62,
+          "text": "Est’s face turned beet-red when she finally understood why William was unable to give her what she wanted."
+        },
+        {
+          "id": 134,
+          "paragraph_id": 62,
+          "text": "Although she loved William, her heart wasn’t ready for something that stimulating."
         },
         {
           "id": 135,
           "paragraph_id": 63,
-          "text": "Est listened patiently to William’s explanation."
+          "text": "Est’s mother, Elizabeth, didn’t let Est grow as an ignorant child and taught her about the Birds and the Bees."
         },
         {
           "id": 136,
-          "paragraph_id": 64,
-          "text": "Est’s face turned beet-red when she finally understood why William was unable to give her what she wanted."
+          "paragraph_id": 63,
+          "text": "She did this to ensure that she wouldn’t be taken advantage of when she finally regained her true form."
         },
         {
           "id": 137,
           "paragraph_id": 64,
-          "text": "Although she loved William, her heart wasn’t ready for something that stimulating."
+          "text": "“You’re right, we’re still too young for this,” Est said as she lowered her head."
         },
         {
           "id": 138,
-          "paragraph_id": 65,
-          "text": "Est’s mother, Elizabeth, didn’t let Est grow as an ignorant child and taught her about the Birds and the Bees."
+          "paragraph_id": 64,
+          "text": "“Thank you for telling me.”"
         },
         {
           "id": 139,
           "paragraph_id": 65,
-          "text": "She did this to ensure that she wouldn’t be taken advantage of when she finally regained her true form."
-        },
-        {
-          "id": 140,
-          "paragraph_id": 66,
-          "text": "“You’re right, we’re still too young for this,” Est said as she lowered her head."
-        },
-        {
-          "id": 141,
-          "paragraph_id": 66,
-          "text": "“Thank you for telling me.”"
-        },
-        {
-          "id": 142,
-          "paragraph_id": 67,
           "text": "William sighed as he hugged the very first friend he had made outside of Lont."
         },
         {
-          "id": 143,
-          "paragraph_id": 67,
+          "id": 140,
+          "paragraph_id": 65,
           "text": "“Don’t worry."
         },
         {
-          "id": 144,
-          "paragraph_id": 67,
+          "id": 141,
+          "paragraph_id": 65,
           "text": "When that time comes, I promise that I will take responsibility."
+        },
+        {
+          "id": 142,
+          "paragraph_id": 65,
+          "text": "Also, I will do my best to lift the curse that has been given to you by the Goddess Astrid.”"
+        },
+        {
+          "id": 143,
+          "paragraph_id": 66,
+          "text": "“Un,” Est replied."
+        },
+        {
+          "id": 144,
+          "paragraph_id": 66,
+          "text": "“I believe you.”"
         },
         {
           "id": 145,
           "paragraph_id": 67,
-          "text": "Also, I will do my best to lift the curse that has been given to you by the Goddess Astrid.”"
+          "text": "“Thank you.”"
         },
         {
           "id": 146,
           "paragraph_id": 68,
-          "text": "“Un,” Est replied."
+          "text": "“I’ll wait for you, Will."
         },
         {
           "id": 147,
           "paragraph_id": 68,
-          "text": "“I believe you.”"
+          "text": "Just, don’t make me wait too long, okay?”"
         },
         {
           "id": 148,
           "paragraph_id": 69,
-          "text": "“Thank you.”"
-        },
-        {
-          "id": 149,
-          "paragraph_id": 70,
-          "text": "“I’ll wait for you, Will."
-        },
-        {
-          "id": 150,
-          "paragraph_id": 70,
-          "text": "Just, don’t make me wait too long, okay?”"
-        },
-        {
-          "id": 151,
-          "paragraph_id": 71,
           "text": "“I will do my best."
         },
         {
-          "id": 152,
-          "paragraph_id": 71,
+          "id": 149,
+          "paragraph_id": 69,
           "text": "Let the Gods decide the rest.”"
         }
       ],
-      "word_count": 1846
+      "word_count": 1813
     },
     {
       "chapter_index": 424,
@@ -14382,7 +14317,6 @@
         "Paul immediately recognized his Crown Prince and shouted the slogan of their Kingdom.",
         "“Let the Sun of Zelan always shine brightly!” Paul shouted.",
         "“”Let the Sun of Zelan always shine brightly!”” the teenagers shouted in unison to hail their Crown Prince.",
-        "(A/N: In the Zelan Dynasty, they refer to their Monarch as the Sun.)",
         "“Paul!” Prince Alaric shouted in joy as he ran towards his loyal retainer. He had felt very guilty for leaving him behind during their escape from the capital.",
         "“It’s good to see that you are safe, Your Highness,” Paul dismounted from his horse and kneeled in front of Prince Alaric.",
         "The other teenagers also dismounted and kneeled. Some of them were crying. Finally, they had found their Crown Prince. He was their last pillar of support after their leader, Arslan, had stayed behind to allow all of them to escape."
@@ -14831,45 +14765,40 @@
         {
           "id": 88,
           "paragraph_id": 44,
-          "text": "(A/N: In the Zelan Dynasty, they refer to their Monarch as the Sun.)"
+          "text": "“Paul!” Prince Alaric shouted in joy as he ran towards his loyal retainer."
         },
         {
           "id": 89,
-          "paragraph_id": 45,
-          "text": "“Paul!” Prince Alaric shouted in joy as he ran towards his loyal retainer."
+          "paragraph_id": 44,
+          "text": "He had felt very guilty for leaving him behind during their escape from the capital."
         },
         {
           "id": 90,
           "paragraph_id": 45,
-          "text": "He had felt very guilty for leaving him behind during their escape from the capital."
+          "text": "“It’s good to see that you are safe, Your Highness,” Paul dismounted from his horse and kneeled in front of Prince Alaric."
         },
         {
           "id": 91,
           "paragraph_id": 46,
-          "text": "“It’s good to see that you are safe, Your Highness,” Paul dismounted from his horse and kneeled in front of Prince Alaric."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 47,
           "text": "The other teenagers also dismounted and kneeled."
         },
         {
-          "id": 93,
-          "paragraph_id": 47,
+          "id": 92,
+          "paragraph_id": 46,
           "text": "Some of them were crying."
         },
         {
-          "id": 94,
-          "paragraph_id": 47,
+          "id": 93,
+          "paragraph_id": 46,
           "text": "Finally, they had found their Crown Prince."
         },
         {
-          "id": 95,
-          "paragraph_id": 47,
+          "id": 94,
+          "paragraph_id": 46,
           "text": "He was their last pillar of support after their leader, Arslan, had stayed behind to allow all of them to escape."
         }
       ],
-      "word_count": 1350
+      "word_count": 1337
     },
     {
       "chapter_index": 427,
@@ -15423,7 +15352,6 @@
         "These were some of the acids that came from William’s world. Ten Gallons of each acid only cost One God Point. Because he could buy it cheaply, the red-headed boy bought ten gallons of each type of acid to aid his experiments.",
         "Since William had no idea of what he was doing, he decided to just mix them all together and see what was going to happen!",
         "“200 mL of Hydroiodic Acid, Hydrobromic Acid, Perchloric Acid, Hydrochloric Acid, Sulfuric Acid, p-Toluenesulfonic Acid, Nitric Acid, Chloric Acid plus the Lollipop is enough to wipe out a party of Syokois, but it is too unstable...”",
-        "(A/N: mL are Milliliters. 1000 mL is equivalent to 1 Liter.)",
         "William rubbed his chin as he looked at the pool of goo in front of him.",
         "Syokois were fish-type humanoids that inhabit the Sixth and Seventh Floor of the Dungeon. This was the latest Floor that William’s Army had conquered. According to the System, there was a Boss every five floors of the Dungeon, so William’s Legion was working hard to find the passage that would lead them to the lower floors.",
         "Est, Ashe, Wendy, Ian, Dave, and Conrad had also joined the expedition team to train themselves for the upcoming battle that they would face. Since Dave and Conrad were part of William’s King’s Legion, they were now also able to gain Experience Points to strengthen themselves at a faster rate.",
@@ -15706,570 +15634,560 @@
         {
           "id": 43,
           "paragraph_id": 29,
-          "text": "(A/N: mL are Milliliters."
+          "text": "William rubbed his chin as he looked at the pool of goo in front of him."
         },
         {
           "id": 44,
-          "paragraph_id": 29,
-          "text": "1000 mL is equivalent to 1 Liter.)"
+          "paragraph_id": 30,
+          "text": "Syokois were fish-type humanoids that inhabit the Sixth and Seventh Floor of the Dungeon."
         },
         {
           "id": 45,
           "paragraph_id": 30,
-          "text": "William rubbed his chin as he looked at the pool of goo in front of him."
+          "text": "This was the latest Floor that William’s Army had conquered."
         },
         {
           "id": 46,
-          "paragraph_id": 31,
-          "text": "Syokois were fish-type humanoids that inhabit the Sixth and Seventh Floor of the Dungeon."
+          "paragraph_id": 30,
+          "text": "According to the System, there was a Boss every five floors of the Dungeon, so William’s Legion was working hard to find the passage that would lead them to the lower floors."
         },
         {
           "id": 47,
           "paragraph_id": 31,
-          "text": "This was the latest Floor that William’s Army had conquered."
+          "text": "Est, Ashe, Wendy, Ian, Dave, and Conrad had also joined the expedition team to train themselves for the upcoming battle that they would face."
         },
         {
           "id": 48,
           "paragraph_id": 31,
-          "text": "According to the System, there was a Boss every five floors of the Dungeon, so William’s Legion was working hard to find the passage that would lead them to the lower floors."
+          "text": "Since Dave and Conrad were part of William’s King’s Legion, they were now also able to gain Experience Points to strengthen themselves at a faster rate."
         },
         {
           "id": 49,
           "paragraph_id": 32,
-          "text": "Est, Ashe, Wendy, Ian, Dave, and Conrad had also joined the expedition team to train themselves for the upcoming battle that they would face."
+          "text": "The two teenagers didn’t understand what was happening to them, but they could somehow feel that their bodies and techniques were getting stronger with each monster that they killed."
         },
         {
           "id": 50,
-          "paragraph_id": 32,
-          "text": "Since Dave and Conrad were part of William’s King’s Legion, they were now also able to gain Experience Points to strengthen themselves at a faster rate."
+          "paragraph_id": 33,
+          "text": "Unfortunately, Est and Isaac weren’t able to gain this ability to be able to benefit from the Experience Points."
         },
         {
           "id": 51,
           "paragraph_id": 33,
-          "text": "The two teenagers didn’t understand what was happening to them, but they could somehow feel that their bodies and techniques were getting stronger with each monster that they killed."
+          "text": "William solved this matter by giving them several High-Grade Beast Cores to help them increase their ranks after battling inside the dungeon to their heart’s content."
         },
         {
           "id": 52,
           "paragraph_id": 34,
-          "text": "Unfortunately, Est and Isaac weren’t able to gain this ability to be able to benefit from the Experience Points."
+          "text": "Although they were being left behind by the others, Est, and Isaac didn’t feel troubled by it."
         },
         {
           "id": 53,
           "paragraph_id": 34,
-          "text": "William solved this matter by giving them several High-Grade Beast Cores to help them increase their ranks after battling inside the dungeon to their heart’s content."
+          "text": "Of course they were a bit jealous."
         },
         {
           "id": 54,
-          "paragraph_id": 35,
-          "text": "Although they were being left behind by the others, Est, and Isaac didn’t feel troubled by it."
+          "paragraph_id": 34,
+          "text": "However, knowing that their comrades at arms were getting stronger was a good thing for them as well."
         },
         {
           "id": 55,
           "paragraph_id": 35,
-          "text": "Of course they were a bit jealous."
+          "text": "“Should I lessen the quantity of each acid, or should I just use two to three types of acid at a time?” William muttered as he poked the pool of acid on the ground with a stick."
         },
         {
           "id": 56,
-          "paragraph_id": 35,
-          "text": "However, knowing that their comrades at arms were getting stronger was a good thing for them as well."
+          "paragraph_id": 36,
+          "text": "“Syokois are Class D (Low) Beasts and don’t wear armor, so I can’t tell if this is a success or not.” William narrowed his eyes."
         },
         {
           "id": 57,
           "paragraph_id": 36,
-          "text": "“Should I lessen the quantity of each acid, or should I just use two to three types of acid at a time?” William muttered as he poked the pool of acid on the ground with a stick."
+          "text": "“Lily’s acid can’t melt steel, but if I condense twenty lollipops into one, they would be able to do that."
         },
         {
           "id": 58,
-          "paragraph_id": 37,
-          "text": "“Syokois are Class D (Low) Beasts and don’t wear armor, so I can’t tell if this is a success or not.” William narrowed his eyes."
+          "paragraph_id": 36,
+          "text": "However, I can only create a few of them if I go with this route."
         },
         {
           "id": 59,
-          "paragraph_id": 37,
-          "text": "“Lily’s acid can’t melt steel, but if I condense twenty lollipops into one, they would be able to do that."
+          "paragraph_id": 36,
+          "text": "It is not enough to equip the Angray Birds...”"
         },
         {
           "id": 60,
           "paragraph_id": 37,
-          "text": "However, I can only create a few of them if I go with this route."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 37,
-          "text": "It is not enough to equip the Angray Birds...”"
-        },
-        {
-          "id": 62,
-          "paragraph_id": 38,
           "text": "William was so lost in thought that he didn’t notice that someone had already approached him from the back."
         },
         {
-          "id": 63,
-          "paragraph_id": 39,
+          "id": 61,
+          "paragraph_id": 38,
           "text": "A pair of soft and delicate hands covered his eyes and a teasing tone whispered in his ears."
         },
         {
-          "id": 64,
-          "paragraph_id": 40,
+          "id": 62,
+          "paragraph_id": 39,
           "text": "“Guess who?”"
+        },
+        {
+          "id": 63,
+          "paragraph_id": 40,
+          "text": "William smirked internally as he decided to play along with his lover."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 41,
+          "text": "“I wonder who this is?"
         },
         {
           "id": 65,
           "paragraph_id": 41,
-          "text": "William smirked internally as he decided to play along with his lover."
+          "text": "Based on how soft the hands are, I’m sure they don’t belong to Wendy,” William said as if he properly assessed the pair of hands that blocked his vision."
         },
         {
           "id": 66,
-          "paragraph_id": 42,
-          "text": "“I wonder who this is?"
+          "paragraph_id": 41,
+          "text": "“Her hands are very rough and could even be used as a brush to wash clothes."
         },
         {
           "id": 67,
-          "paragraph_id": 42,
-          "text": "Based on how soft the hands are, I’m sure they don’t belong to Wendy,” William said as if he properly assessed the pair of hands that blocked his vision."
+          "paragraph_id": 41,
+          "text": "This pair of hands definitely doesn’t belong to her.”"
         },
         {
           "id": 68,
           "paragraph_id": 42,
-          "text": "“Her hands are very rough and could even be used as a brush to wash clothes."
+          "text": "A snort reached William’s ears before the pair of hands that blocked his eyes disappeared."
         },
         {
           "id": 69,
           "paragraph_id": 42,
-          "text": "This pair of hands definitely doesn’t belong to her.”"
+          "text": "However, they went straight to the Half-Elf’s ears pulling them hard to the side."
         },
         {
           "id": 70,
           "paragraph_id": 43,
-          "text": "A snort reached William’s ears before the pair of hands that blocked his eyes disappeared."
+          "text": "“M-Mercy!"
         },
         {
           "id": 71,
           "paragraph_id": 43,
-          "text": "However, they went straight to the Half-Elf’s ears pulling them hard to the side."
-        },
-        {
-          "id": 72,
-          "paragraph_id": 44,
-          "text": "“M-Mercy!"
-        },
-        {
-          "id": 73,
-          "paragraph_id": 44,
           "text": "I was just joking!” William hurriedly held the hands that were pulling his ears."
         },
         {
-          "id": 74,
-          "paragraph_id": 44,
+          "id": 72,
+          "paragraph_id": 43,
           "text": "“Such delicate and beautiful hands, how could they possibly be used as a brush for washing laundry?"
+        },
+        {
+          "id": 73,
+          "paragraph_id": 43,
+          "text": "I’m sure they belong to the most beautiful lady in the Southern Continent."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 43,
+          "text": "None other than my First Wife, Wendy Cy Armstrong, who will soon be called Wendy Von Ainsworth!”"
         },
         {
           "id": 75,
           "paragraph_id": 44,
-          "text": "I’m sure they belong to the most beautiful lady in the Southern Continent."
+          "text": "“Hmp!”"
         },
         {
           "id": 76,
-          "paragraph_id": 44,
-          "text": "None other than my First Wife, Wendy Cy Armstrong, who will soon be called Wendy Von Ainsworth!”"
+          "paragraph_id": 45,
+          "text": "Wendy finally let go of William’s ears and crossed her arms over her chest."
         },
         {
           "id": 77,
           "paragraph_id": 45,
-          "text": "“Hmp!”"
+          "text": "She eyed her boyfriend who was rubbing his ears and looking at her with a face filled with injustice."
         },
         {
           "id": 78,
           "paragraph_id": 46,
-          "text": "Wendy finally let go of William’s ears and crossed her arms over her chest."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 46,
-          "text": "She eyed her boyfriend who was rubbing his ears and looking at her with a face filled with injustice."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 47,
           "text": "“Will, I want to ask you a question,” Wendy said with a serious expression."
         },
         {
-          "id": 81,
-          "paragraph_id": 48,
+          "id": 79,
+          "paragraph_id": 47,
           "text": "William noticed the seriousness in Wendy’s gaze so he decided to stop joking around and looked at her with a calm expression."
         },
         {
-          "id": 82,
-          "paragraph_id": 49,
+          "id": 80,
+          "paragraph_id": 48,
           "text": "“Ask.”"
+        },
+        {
+          "id": 81,
+          "paragraph_id": 49,
+          "text": "“I want to hear an honest answer from you.”"
+        },
+        {
+          "id": 82,
+          "paragraph_id": 50,
+          "text": "William nodded."
         },
         {
           "id": 83,
           "paragraph_id": 50,
-          "text": "“I want to hear an honest answer from you.”"
+          "text": "“Be at ease."
         },
         {
           "id": 84,
-          "paragraph_id": 51,
-          "text": "William nodded."
+          "paragraph_id": 50,
+          "text": "I swear upon my handsome face that I will give you an honest answer.”"
         },
         {
           "id": 85,
           "paragraph_id": 51,
-          "text": "“Be at ease."
+          "text": "Hearing her lover’s promise, Wendy walked up to him and wrapped her arms around William’s body as she stared straight into his eyes."
         },
         {
           "id": 86,
-          "paragraph_id": 51,
-          "text": "I swear upon my handsome face that I will give you an honest answer.”"
+          "paragraph_id": 52,
+          "text": "“Who do you love the most between the three of us?” Wendy asked."
         },
         {
           "id": 87,
           "paragraph_id": 52,
-          "text": "Hearing her lover’s promise, Wendy walked up to him and wrapped her arms around William’s body as she stared straight into his eyes."
+          "text": "“Est, Ashe, or Me?”"
         },
         {
           "id": 88,
           "paragraph_id": 53,
-          "text": "“Who do you love the most between the three of us?” Wendy asked."
+          "text": "“Of course I love you most,” William answered in a heartbeat."
         },
         {
           "id": 89,
           "paragraph_id": 53,
-          "text": "“Est, Ashe, or Me?”"
+          "text": "“Afterall, you are my First Wife.”"
         },
         {
           "id": 90,
           "paragraph_id": 54,
-          "text": "“Of course I love you most,” William answered in a heartbeat."
+          "text": "Wendy felt relieved because he could see the seriousness in William’s eyes."
         },
         {
           "id": 91,
           "paragraph_id": 54,
-          "text": "“Afterall, you are my First Wife.”"
+          "text": "She then rested her head on his shoulders and smiled sweetly."
         },
         {
           "id": 92,
           "paragraph_id": 55,
-          "text": "Wendy felt relieved because he could see the seriousness in William’s eyes."
+          "text": "It was at that moment when two Rainbow Birds circled above their heads."
         },
         {
           "id": 93,
-          "paragraph_id": 55,
-          "text": "She then rested her head on his shoulders and smiled sweetly."
+          "paragraph_id": 56,
+          "text": "Suddenly, two familiar voices reached their ears."
         },
         {
           "id": 94,
-          "paragraph_id": 56,
-          "text": "It was at that moment when two Rainbow Birds circled above their heads."
+          "paragraph_id": 57,
+          "text": "“Will."
         },
         {
           "id": 95,
           "paragraph_id": 57,
-          "text": "Suddenly, two familiar voices reached their ears."
+          "text": "Whom do you *hic* love the most?"
         },
         {
           "id": 96,
-          "paragraph_id": 58,
-          "text": "“Will."
+          "paragraph_id": 57,
+          "text": "Is it Wendy, Est, or Me?” the Red-Colored Bird asked, perfectly replicating Ashe’s drunken voice."
         },
         {
           "id": 97,
           "paragraph_id": 58,
-          "text": "Whom do you *hic* love the most?"
+          "text": "“Of course I love you the most,” the Blue-Colored Bird replied, perfectly replicating William’s voice.”"
         },
         {
           "id": 98,
-          "paragraph_id": 58,
-          "text": "Is it Wendy, Est, or Me?” the Red-Colored Bird asked, perfectly replicating Ashe’s drunken voice."
+          "paragraph_id": 59,
+          "text": "William’s body stiffened when he heard this exchange."
         },
         {
           "id": 99,
           "paragraph_id": 59,
-          "text": "“Of course I love you the most,” the Blue-Colored Bird replied, perfectly replicating William’s voice.”"
+          "text": "Beads of sweat started to form on his forehead as he cursed the two annoying birds who just dropped a bomb over their heads."
         },
         {
           "id": 100,
           "paragraph_id": 60,
-          "text": "William’s body stiffened when he heard this exchange."
+          "text": "“Really?"
         },
         {
           "id": 101,
           "paragraph_id": 60,
-          "text": "Beads of sweat started to form on his forehead as he cursed the two annoying birds who just dropped a bomb over their heads."
+          "text": "Are you telling me the truth?” the red bird asked."
         },
         {
           "id": 102,
           "paragraph_id": 61,
-          "text": "“Really?"
+          "text": "“Yes.” the blue bird replied."
         },
         {
           "id": 103,
-          "paragraph_id": 61,
-          "text": "Are you telling me the truth?” the red bird asked."
+          "paragraph_id": 62,
+          "text": "Wendy giggled as she looked at the two birds in the sky."
         },
         {
           "id": 104,
-          "paragraph_id": 62,
-          "text": "“Yes.” the blue bird replied."
+          "paragraph_id": 63,
+          "text": "“Those birds are quite lovely,” Wendy said."
         },
         {
           "id": 105,
           "paragraph_id": 63,
-          "text": "Wendy giggled as she looked at the two birds in the sky."
+          "text": "“They can even imitate voices."
         },
         {
           "id": 106,
-          "paragraph_id": 64,
-          "text": "“Those birds are quite lovely,” Wendy said."
+          "paragraph_id": 63,
+          "text": "Did you teach them to say those things?”"
         },
         {
           "id": 107,
           "paragraph_id": 64,
-          "text": "“They can even imitate voices."
+          "text": "“Y-Yes,” William replied."
         },
         {
           "id": 108,
           "paragraph_id": 64,
-          "text": "Did you teach them to say those things?”"
+          "text": "“I was trying to teach them how to talk, so I made them speak these lines.”"
         },
         {
           "id": 109,
           "paragraph_id": 65,
-          "text": "“Y-Yes,” William replied."
-        },
-        {
-          "id": 110,
-          "paragraph_id": 65,
-          "text": "“I was trying to teach them how to talk, so I made them speak these lines.”"
-        },
-        {
-          "id": 111,
-          "paragraph_id": 66,
           "text": "“How interesting.”"
         },
         {
-          "id": 112,
-          "paragraph_id": 67,
+          "id": 110,
+          "paragraph_id": 66,
           "text": "“R-Right?”"
+        },
+        {
+          "id": 111,
+          "paragraph_id": 67,
+          "text": "Suddenly, Ashe, Est, and Isaac appeared beside William and Wendy."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 68,
+          "text": "“So, this is where the two of you are,” Est said."
         },
         {
           "id": 113,
           "paragraph_id": 68,
-          "text": "Suddenly, Ashe, Est, and Isaac appeared beside William and Wendy."
+          "text": "“We just found the path that leads to the Eighth Floor and we are planning to explore it."
         },
         {
           "id": 114,
-          "paragraph_id": 69,
-          "text": "“So, this is where the two of you are,” Est said."
+          "paragraph_id": 68,
+          "text": "I came to find Wendy, but I didn’t think that you’d also be here, Will.”"
         },
         {
           "id": 115,
           "paragraph_id": 69,
-          "text": "“We just found the path that leads to the Eighth Floor and we are planning to explore it."
+          "text": "William gave Est a thumbs up in his heart for her impeccable timing."
         },
         {
           "id": 116,
           "paragraph_id": 69,
-          "text": "I came to find Wendy, but I didn’t think that you’d also be here, Will.”"
+          "text": "With this, he would be able to wiggle himself out of this mess..."
         },
         {
           "id": 117,
           "paragraph_id": 70,
-          "text": "William gave Est a thumbs up in his heart for her impeccable timing."
-        },
-        {
-          "id": 118,
-          "paragraph_id": 70,
-          "text": "With this, he would be able to wiggle himself out of this mess..."
-        },
-        {
-          "id": 119,
-          "paragraph_id": 71,
           "text": "But then, the two Rainbow Birds raised the volume of their voices as they circled around Ashe, Est, and Isaac."
         },
         {
-          "id": 120,
-          "paragraph_id": 72,
+          "id": 118,
+          "paragraph_id": 71,
           "text": "“Will, I want to ask you a question,” the Blue-Colored Bird said using Wendy’s voice."
         },
         {
-          "id": 121,
-          "paragraph_id": 73,
+          "id": 119,
+          "paragraph_id": 72,
           "text": "“Ask.” the Red-Colored Bird said using William’s suave voice."
+        },
+        {
+          "id": 120,
+          "paragraph_id": 73,
+          "text": "“I want to hear an honest answer from you.”"
+        },
+        {
+          "id": 121,
+          "paragraph_id": 74,
+          "text": "“Be at ease."
         },
         {
           "id": 122,
           "paragraph_id": 74,
-          "text": "“I want to hear an honest answer from you.”"
+          "text": "I swear upon my handsome face that I will give you an honest answer.”"
         },
         {
           "id": 123,
           "paragraph_id": 75,
-          "text": "“Be at ease."
+          "text": "If earlier, only beads of sweat formed on William’s forehead, now, a river was flowing freely."
         },
         {
           "id": 124,
           "paragraph_id": 75,
-          "text": "I swear upon my handsome face that I will give you an honest answer.”"
+          "text": "Wendy also tilted her head to the side as she heard the familiar conversation of the two birds circling around them."
         },
         {
           "id": 125,
           "paragraph_id": 76,
-          "text": "If earlier, only beads of sweat formed on William’s forehead, now, a river was flowing freely."
+          "text": "“Who do you love the most between the three of us?” the Blue Bird asked."
         },
         {
           "id": 126,
           "paragraph_id": 76,
-          "text": "Wendy also tilted her head to the side as she heard the familiar conversation of the two birds circling around them."
+          "text": "“Est, Ashe, or Me?”"
         },
         {
           "id": 127,
           "paragraph_id": 77,
-          "text": "“Who do you love the most between the three of us?” the Blue Bird asked."
+          "text": "“Of course I love you most,” the Red Bird answered in a heartbeat."
         },
         {
           "id": 128,
           "paragraph_id": 77,
-          "text": "“Est, Ashe, or Me?”"
+          "text": "“Afterall, you are my First Wife.”"
         },
         {
           "id": 129,
           "paragraph_id": 78,
-          "text": "“Of course I love you most,” the Red Bird answered in a heartbeat."
+          "text": "After saying those last words, the two birds flew away like their lives depended on it."
         },
         {
           "id": 130,
           "paragraph_id": 78,
-          "text": "“Afterall, you are my First Wife.”"
+          "text": "William had summoned Stormcaller and was about to unleash a Lightning War Art in order to erase the two troublemakers from the face of the Dungeon."
         },
         {
           "id": 131,
           "paragraph_id": 79,
-          "text": "After saying those last words, the two birds flew away like their lives depended on it."
+          "text": "‘Motherfckers!"
         },
         {
           "id": 132,
           "paragraph_id": 79,
-          "text": "William had summoned Stormcaller and was about to unleash a Lightning War Art in order to erase the two troublemakers from the face of the Dungeon."
+          "text": "After all I did for the two of you,’ William gnashed his teeth in anger as lightning swirled around Stormcaller’s body."
         },
         {
           "id": 133,
-          "paragraph_id": 80,
-          "text": "‘Motherfckers!"
+          "paragraph_id": 79,
+          "text": "“Lightning God War Art...”"
         },
         {
           "id": 134,
           "paragraph_id": 80,
-          "text": "After all I did for the two of you,’ William gnashed his teeth in anger as lightning swirled around Stormcaller’s body."
+          "text": "“Will, what are you doing?” Wendy’s icy gaze made William completely stop from continuing his attack."
         },
         {
           "id": 135,
-          "paragraph_id": 80,
-          "text": "“Lightning God War Art...”"
+          "paragraph_id": 81,
+          "text": "“Wendy, I’m just training my skills by killing two dumb birds."
         },
         {
           "id": 136,
           "paragraph_id": 81,
-          "text": "“Will, what are you doing?” Wendy’s icy gaze made William completely stop from continuing his attack."
+          "text": "I mean, practicing my technique using those two birds as my targets,” William replied."
         },
         {
           "id": 137,
-          "paragraph_id": 82,
-          "text": "“Wendy, I’m just training my skills by killing two dumb birds."
+          "paragraph_id": 81,
+          "text": "“It is better to hit moving targets, don’t you think?”"
         },
         {
           "id": 138,
           "paragraph_id": 82,
-          "text": "I mean, practicing my technique using those two birds as my targets,” William replied."
+          "text": "“Mmm, this is true.” Wendy nodded her head."
         },
         {
           "id": 139,
           "paragraph_id": 82,
-          "text": "“It is better to hit moving targets, don’t you think?”"
+          "text": "“However, I’d like for you to answer a question from me first.”"
         },
         {
           "id": 140,
           "paragraph_id": 83,
-          "text": "“Mmm, this is true.” Wendy nodded her head."
+          "text": "“I have a question, too,” Ashe said as she lovingly held William’s right arm in a tight grip."
         },
         {
           "id": 141,
           "paragraph_id": 83,
-          "text": "“However, I’d like for you to answer a question from me first.”"
+          "text": "“You will answer this question of mine, yes?”"
         },
         {
           "id": 142,
           "paragraph_id": 84,
-          "text": "“I have a question, too,” Ashe said as she lovingly held William’s right arm in a tight grip."
-        },
-        {
-          "id": 143,
-          "paragraph_id": 84,
-          "text": "“You will answer this question of mine, yes?”"
-        },
-        {
-          "id": 144,
-          "paragraph_id": 85,
           "text": "“Will, me, too,” Est said as she walked towards William with the “You’d better fess up or you will regret it” glare."
         },
         {
-          "id": 145,
-          "paragraph_id": 86,
+          "id": 143,
+          "paragraph_id": 85,
           "text": "Wendy had already grabbed William’s left arm in a vice-grip that wouldn’t lose to her Valkyrie Form’s arm lock."
+        },
+        {
+          "id": 144,
+          "paragraph_id": 86,
+          "text": "Isaac, who was standing at the side, turned her back towards the four of them and looked at the sky."
+        },
+        {
+          "id": 145,
+          "paragraph_id": 87,
+          "text": "‘Rest in peace,’ Isaac said internally."
         },
         {
           "id": 146,
           "paragraph_id": 87,
-          "text": "Isaac, who was standing at the side, turned her back towards the four of them and looked at the sky."
+          "text": "She knew that blood was about to spill and she had no intention of preventing it from happening."
         },
         {
           "id": 147,
           "paragraph_id": 88,
-          "text": "‘Rest in peace,’ Isaac said internally."
+          "text": "“G-Girls, listen to me,” William said with a face filled with righteousness."
         },
         {
           "id": 148,
           "paragraph_id": 88,
-          "text": "She knew that blood was about to spill and she had no intention of preventing it from happening."
+          "text": "“This is just a misunderstanding."
         },
         {
           "id": 149,
-          "paragraph_id": 89,
-          "text": "“G-Girls, listen to me,” William said with a face filled with righteousness."
+          "paragraph_id": 88,
+          "text": "Allow me to give the three of you a proper explana—Ahhhhh!”"
         },
         {
           "id": 150,
           "paragraph_id": 89,
-          "text": "“This is just a misunderstanding."
+          "text": "That day, a loud scream rang out on the Seventh Floor of the Dungeon of Atlantis."
         },
         {
           "id": 151,
           "paragraph_id": 89,
-          "text": "Allow me to give the three of you a proper explana—Ahhhhh!”"
+          "text": "It was the sound that was similar to a pig being slaughtered and it traveled throughout the entire dungeon, allowing everyone to hear it."
         },
         {
           "id": 152,
           "paragraph_id": 90,
-          "text": "That day, a loud scream rang out on the Seventh Floor of the Dungeon of Atlantis."
+          "text": "William’s Herd, Legion, as well as Dave and Conrad, heard William’s dying screams."
         },
         {
           "id": 153,
           "paragraph_id": 90,
-          "text": "It was the sound that was similar to a pig being slaughtered and it traveled throughout the entire dungeon, allowing everyone to hear it."
-        },
-        {
-          "id": 154,
-          "paragraph_id": 91,
-          "text": "William’s Herd, Legion, as well as Dave and Conrad, heard William’s dying screams."
-        },
-        {
-          "id": 155,
-          "paragraph_id": 91,
           "text": "Just like Isaac, they lit a candle in their heart and prayed for the Half-Elf who was currently being murdered by three beautiful ladies by his side."
         }
       ],
-      "word_count": 2066
+      "word_count": 2055
     },
     {
       "chapter_index": 429,
@@ -22507,7 +22425,6 @@
       "paragraphs": [
         "“Is that the gateway that leads to the Labyrinth of the Minotaur Race?” William asked as he looked at the gigantic gate that was forty-meters tall and twenty meters in width.",
         "“Yes,” Erchitu replied with pride. “That gate is called the Gate of Beginnings. It is the gate that leads to the labyrinth where the Minotaur Race has built their sanctuary.”",
-        "(A/N: William and Erchitu are talking to each other through telepathy.)",
         "Erchitu was ten meters tall. It was as big as the Diabolical Hell Ape, and the Ourobro, Lufie, that protected the Town of Lont...",
         "The gate was four times its size. It was large enough for King Kong and Godzilla to pass through without any problems.",
         "“Um, is King Minos forty meters tall?” William inquired.",
@@ -22578,470 +22495,465 @@
         {
           "id": 4,
           "paragraph_id": 2,
-          "text": "(A/N: William and Erchitu are talking to each other through telepathy.)"
+          "text": "Erchitu was ten meters tall."
         },
         {
           "id": 5,
-          "paragraph_id": 3,
-          "text": "Erchitu was ten meters tall."
+          "paragraph_id": 2,
+          "text": "It was as big as the Diabolical Hell Ape, and the Ourobro, Lufie, that protected the Town of Lont..."
         },
         {
           "id": 6,
           "paragraph_id": 3,
-          "text": "It was as big as the Diabolical Hell Ape, and the Ourobro, Lufie, that protected the Town of Lont..."
+          "text": "The gate was four times its size."
         },
         {
           "id": 7,
-          "paragraph_id": 4,
-          "text": "The gate was four times its size."
+          "paragraph_id": 3,
+          "text": "It was large enough for King Kong and Godzilla to pass through without any problems."
         },
         {
           "id": 8,
           "paragraph_id": 4,
-          "text": "It was large enough for King Kong and Godzilla to pass through without any problems."
+          "text": "“Um, is King Minos forty meters tall?” William inquired."
         },
         {
           "id": 9,
           "paragraph_id": 5,
-          "text": "“Um, is King Minos forty meters tall?” William inquired."
+          "text": "Erchitu shook his head."
         },
         {
           "id": 10,
-          "paragraph_id": 6,
-          "text": "Erchitu shook his head."
+          "paragraph_id": 5,
+          "text": "“King Minos is only half my size, but even ten of me would not be able to be his match.”"
         },
         {
           "id": 11,
           "paragraph_id": 6,
-          "text": "“King Minos is only half my size, but even ten of me would not be able to be his match.”"
+          "text": "“He’s that strong?”"
         },
         {
           "id": 12,
           "paragraph_id": 7,
-          "text": "“He’s that strong?”"
+          "text": "“Naturally."
         },
         {
           "id": 13,
-          "paragraph_id": 8,
-          "text": "“Naturally."
+          "paragraph_id": 7,
+          "text": "He is afterall, our Sovereign.”"
         },
         {
           "id": 14,
           "paragraph_id": 8,
-          "text": "He is afterall, our Sovereign.”"
-        },
-        {
-          "id": 15,
-          "paragraph_id": 9,
           "text": "William nodded his head in understanding."
         },
         {
-          "id": 16,
-          "paragraph_id": 9,
+          "id": 15,
+          "paragraph_id": 8,
           "text": "If he was able to gain the help of the Minotaur Race then fighting against the Elves would be easier."
+        },
+        {
+          "id": 16,
+          "paragraph_id": 8,
+          "text": "However, this could not be done at this point in time."
         },
         {
           "id": 17,
           "paragraph_id": 9,
-          "text": "However, this could not be done at this point in time."
-        },
-        {
-          "id": 18,
-          "paragraph_id": 10,
           "text": "A powerful seal had been placed on the Giant Gates and no one could open it from the outside."
         },
         {
-          "id": 19,
-          "paragraph_id": 10,
+          "id": 18,
+          "paragraph_id": 9,
           "text": "Even if one were to use powerful spells and strong physical attacks, the gates wouldn’t budge nor would it be destroyed."
+        },
+        {
+          "id": 19,
+          "paragraph_id": 9,
+          "text": "That was how powerful the enchantments on it were."
         },
         {
           "id": 20,
           "paragraph_id": 10,
-          "text": "That was how powerful the enchantments on it were."
+          "text": "After several attempts, the Elves decided that there was no use in trying to destroy the gate and massacre the Minotaur Race while they were weakened."
         },
         {
           "id": 21,
           "paragraph_id": 11,
-          "text": "After several attempts, the Elves decided that there was no use in trying to destroy the gate and massacre the Minotaur Race while they were weakened."
+          "text": "They left the Gate of Beginnings alone as they focused on stabilizing their control over the Zelan Dynasty."
         },
         {
           "id": 22,
           "paragraph_id": 12,
-          "text": "They left the Gate of Beginnings alone as they focused on stabilizing their control over the Zelan Dynasty."
+          "text": "Suddenly, William’s System informed him that several presences were headed in his direction."
         },
         {
           "id": 23,
-          "paragraph_id": 13,
-          "text": "Suddenly, William’s System informed him that several presences were headed in his direction."
+          "paragraph_id": 12,
+          "text": "The Half-Elf casually opened his map and saw thousands of red dots encircling his position."
         },
         {
           "id": 24,
           "paragraph_id": 13,
-          "text": "The Half-Elf casually opened his map and saw thousands of red dots encircling his position."
+          "text": "“Erchitu, they are here,” William said as he gazed at the forest in the distance."
         },
         {
           "id": 25,
           "paragraph_id": 14,
-          "text": "“Erchitu, they are here,” William said as he gazed at the forest in the distance."
+          "text": "The Giant White Ox turned his head to look in the direction where William was looking at and nodded."
         },
         {
           "id": 26,
           "paragraph_id": 15,
-          "text": "The Giant White Ox turned his head to look in the direction where William was looking at and nodded."
+          "text": "Five minutes later, a handsome Elf with long blonde hair and gray eyes walked out of the forest alone and looked at William in disdain."
         },
         {
           "id": 27,
           "paragraph_id": 16,
-          "text": "Five minutes later, a handsome Elf with long blonde hair and gray eyes walked out of the forest alone and looked at William in disdain."
+          "text": "“Who are you and what are you doing in the territory of the Elves?”"
         },
         {
           "id": 28,
           "paragraph_id": 17,
-          "text": "“Who are you and what are you doing in the territory of the Elves?”"
+          "text": "“I am your father."
         },
         {
           "id": 29,
-          "paragraph_id": 18,
-          "text": "“I am your father."
+          "paragraph_id": 17,
+          "text": "Don’t you even know your father’s name?”"
         },
         {
           "id": 30,
           "paragraph_id": 18,
-          "text": "Don’t you even know your father’s name?”"
-        },
-        {
-          "id": 31,
-          "paragraph_id": 19,
           "text": "Elandorr narrowed his eyes at the filthy Half-Elf who dared to taunt him."
         },
         {
-          "id": 32,
-          "paragraph_id": 19,
+          "id": 31,
+          "paragraph_id": 18,
           "text": "Just like his father, the young commander of the Elves hated Half Elves."
+        },
+        {
+          "id": 32,
+          "paragraph_id": 18,
+          "text": "For him, they were a stain in the bloodline of their race and must be purged from the face of the world."
         },
         {
           "id": 33,
           "paragraph_id": 19,
-          "text": "For him, they were a stain in the bloodline of their race and must be purged from the face of the world."
+          "text": "“So, you’re not going to name yourself?” Elandorr asked."
         },
         {
           "id": 34,
-          "paragraph_id": 20,
-          "text": "“So, you’re not going to name yourself?” Elandorr asked."
+          "paragraph_id": 19,
+          "text": "He eyed William as well as the Giant White Ox beside him."
         },
         {
           "id": 35,
           "paragraph_id": 20,
-          "text": "He eyed William as well as the Giant White Ox beside him."
+          "text": "William smirked as he used his appraisal skill on the arrogant Elf who was scanning his surroundings to see if there were any traps or ambushes that waited for him and his Elven Elites."
         },
         {
           "id": 36,
           "paragraph_id": 21,
-          "text": "William smirked as he used his appraisal skill on the arrogant Elf who was scanning his surroundings to see if there were any traps or ambushes that waited for him and his Elven Elites."
+          "text": "“Since you want to know my name so badly then allow me to introduce myself,” William replied as he flipped his hair in an arrogant manner."
         },
         {
           "id": 37,
-          "paragraph_id": 22,
-          "text": "“Since you want to know my name so badly then allow me to introduce myself,” William replied as he flipped his hair in an arrogant manner."
+          "paragraph_id": 21,
+          "text": "“I am the son of Lady Arwen, the Saintess of the World Tree, and the Savior of the Elven Race, Maxwell Von Ainsworth.”"
         },
         {
           "id": 38,
           "paragraph_id": 22,
-          "text": "“I am the son of Lady Arwen, the Saintess of the World Tree, and the Savior of the Elven Race, Maxwell Von Ainsworth.”"
+          "text": "William paused as he raised his chin arrogantly, “My name is William Von Ainsworth.”"
         },
         {
           "id": 39,
           "paragraph_id": 23,
-          "text": "William paused as he raised his chin arrogantly, “My name is William Von Ainsworth.”"
-        },
-        {
-          "id": 40,
-          "paragraph_id": 24,
           "text": "Elandorr frowned as he appraised the Half-Elf in front of him."
         },
         {
-          "id": 41,
-          "paragraph_id": 24,
+          "id": 40,
+          "paragraph_id": 23,
           "text": "Princess Eowyn had approached him a few days ago and informed him that the son of the Saintess was a citizen of the Hellan Kingdom."
+        },
+        {
+          "id": 41,
+          "paragraph_id": 23,
+          "text": "She had also told him William’s name and described his facial features so Elandorr half-believed the Half-Elf’s declaration."
         },
         {
           "id": 42,
           "paragraph_id": 24,
-          "text": "She had also told him William’s name and described his facial features so Elandorr half-believed the Half-Elf’s declaration."
+          "text": "Murmurs started to spread among the Elves hidden in the trees."
         },
         {
           "id": 43,
-          "paragraph_id": 25,
-          "text": "Murmurs started to spread among the Elves hidden in the trees."
+          "paragraph_id": 24,
+          "text": "There had been rumors that their Saintess, Lady Arwen, had given birth many years ago, but there had been no proof of this claim whatsoever."
         },
         {
           "id": 44,
           "paragraph_id": 25,
-          "text": "There had been rumors that their Saintess, Lady Arwen, had given birth many years ago, but there had been no proof of this claim whatsoever."
+          "text": "This matter was only known to the Elders and Patriarchs of the Elven Clans."
         },
         {
           "id": 45,
-          "paragraph_id": 26,
-          "text": "This matter was only known to the Elders and Patriarchs of the Elven Clans."
+          "paragraph_id": 25,
+          "text": "This was also why Arwen made the hard decision to call for her husband’s twin, Morgan, and have him take William with him back to the Southern Continent."
         },
         {
           "id": 46,
           "paragraph_id": 26,
-          "text": "This was also why Arwen made the hard decision to call for her husband’s twin, Morgan, and have him take William with him back to the Southern Continent."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 27,
           "text": "Not all the Elves looked at her son favorably."
         },
         {
-          "id": 48,
-          "paragraph_id": 27,
+          "id": 47,
+          "paragraph_id": 26,
           "text": "Some of them even want to take his life."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 26,
+          "text": "In order to guarantee his safety, Arwen gave birth within the Aenarion Family’s Hidden Domain, where none of the other Elves were allowed to set foot."
         },
         {
           "id": 49,
           "paragraph_id": 27,
-          "text": "In order to guarantee his safety, Arwen gave birth within the Aenarion Family’s Hidden Domain, where none of the other Elves were allowed to set foot."
+          "text": "The Elven King also helped shield Arwen and her child from pursuers and even secretly assigned Royal Guards to escort Morgan back to the Southern Continent."
         },
         {
           "id": 50,
-          "paragraph_id": 28,
-          "text": "The Elven King also helped shield Arwen and her child from pursuers and even secretly assigned Royal Guards to escort Morgan back to the Southern Continent."
+          "paragraph_id": 27,
+          "text": "Because of the Elven King’s protection, those who wished William dead had no choice but to abandon their plans."
         },
         {
           "id": 51,
           "paragraph_id": 28,
-          "text": "Because of the Elven King’s protection, those who wished William dead had no choice but to abandon their plans."
+          "text": "They didn’t dare provoke both the Elven Royal Family and the Aenarion Family, who was the current head of the Elven Council."
         },
         {
           "id": 52,
-          "paragraph_id": 29,
-          "text": "They didn’t dare provoke both the Elven Royal Family and the Aenarion Family, who was the current head of the Elven Council."
+          "paragraph_id": 28,
+          "text": "Because of this, William had safely departed the Silvermoon Continent and left alone to live in Lont ever since."
         },
         {
           "id": 53,
           "paragraph_id": 29,
-          "text": "Because of this, William had safely departed the Silvermoon Continent and left alone to live in Lont ever since."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 30,
           "text": "“Oh?"
         },
         {
-          "id": 55,
-          "paragraph_id": 30,
+          "id": 54,
+          "paragraph_id": 29,
           "text": "So, you’re telling us that you’re the son of our Saintess?"
         },
         {
-          "id": 56,
-          "paragraph_id": 30,
+          "id": 55,
+          "paragraph_id": 29,
           "text": "Do you think I’m a fool?” Elandorr snorted."
         },
         {
-          "id": 57,
-          "paragraph_id": 30,
+          "id": 56,
+          "paragraph_id": 29,
           "text": "“The Saintess never had a child."
         },
         {
-          "id": 58,
-          "paragraph_id": 30,
+          "id": 57,
+          "paragraph_id": 29,
           "text": "You dare to slander her good name?"
+        },
+        {
+          "id": 58,
+          "paragraph_id": 29,
+          "text": "You’ve got guts, you filthy half blood!”"
         },
         {
           "id": 59,
           "paragraph_id": 30,
-          "text": "You’ve got guts, you filthy half blood!”"
-        },
-        {
-          "id": 60,
-          "paragraph_id": 31,
           "text": "William chuckled."
         },
         {
-          "id": 61,
-          "paragraph_id": 31,
+          "id": 60,
+          "paragraph_id": 30,
           "text": "“So, this is how you repay the son of your savior?"
         },
         {
-          "id": 62,
-          "paragraph_id": 31,
+          "id": 61,
+          "paragraph_id": 30,
           "text": "I thought the Elves were a righteous and proud race."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 30,
+          "text": "I didn’t know that they were a bunch of hypocrites.”"
         },
         {
           "id": 63,
           "paragraph_id": 31,
-          "text": "I didn’t know that they were a bunch of hypocrites.”"
+          "text": "“Taunt us all you want, but we will not believe your lies,” Elandorr replied."
         },
         {
           "id": 64,
           "paragraph_id": 32,
-          "text": "“Taunt us all you want, but we will not believe your lies,” Elandorr replied."
+          "text": "Even if William was the real son of their Saintess he wouldn’t acknowledge it."
         },
         {
           "id": 65,
-          "paragraph_id": 33,
-          "text": "Even if William was the real son of their Saintess he wouldn’t acknowledge it."
+          "paragraph_id": 32,
+          "text": "In fact, one of the missions given by his Patriarch was to kill William the moment he saw him."
         },
         {
           "id": 66,
           "paragraph_id": 33,
-          "text": "In fact, one of the missions given by his Patriarch was to kill William the moment he saw him."
+          "text": "“Wait.”"
         },
         {
           "id": 67,
           "paragraph_id": 34,
-          "text": "“Wait.”"
+          "text": "A soft voice called out from within the forest."
         },
         {
           "id": 68,
-          "paragraph_id": 35,
-          "text": "A soft voice called out from within the forest."
+          "paragraph_id": 34,
+          "text": "Soon, a beautiful Elf with long, honey-blonde, hair and blue eyes stepped out of the forest and looked at William with a curious glance."
         },
         {
           "id": 69,
           "paragraph_id": 35,
-          "text": "Soon, a beautiful Elf with long, honey-blonde, hair and blue eyes stepped out of the forest and looked at William with a curious glance."
+          "text": "“Are you the Knight Commander of the Angorian War Sovereign?” Princess Eowyn asked."
         },
         {
           "id": 70,
           "paragraph_id": 36,
-          "text": "“Are you the Knight Commander of the Angorian War Sovereign?” Princess Eowyn asked."
+          "text": "She had also been part of the emergency meeting and decided to come along with Elandorr on this operation."
         },
         {
           "id": 71,
-          "paragraph_id": 37,
-          "text": "She had also been part of the emergency meeting and decided to come along with Elandorr on this operation."
+          "paragraph_id": 36,
+          "text": "The Sword Saints that guarded her stood behind her back as they, too, eyed William with curiosity."
         },
         {
           "id": 72,
           "paragraph_id": 37,
-          "text": "The Sword Saints that guarded her stood behind her back as they, too, eyed William with curiosity."
+          "text": "“Yes.” William nodded."
         },
         {
           "id": 73,
-          "paragraph_id": 38,
-          "text": "“Yes.” William nodded."
+          "paragraph_id": 37,
+          "text": "“Have you heard of me?”"
         },
         {
           "id": 74,
           "paragraph_id": 38,
-          "text": "“Have you heard of me?”"
+          "text": "Elandorr stepped in front of Princess Eowyn and blocked William’s line of sight."
         },
         {
           "id": 75,
           "paragraph_id": 39,
-          "text": "Elandorr stepped in front of Princess Eowyn and blocked William’s line of sight."
-        },
-        {
-          "id": 76,
-          "paragraph_id": 40,
           "text": "“How dare you be rude to our Princess?!” Elandorr shouted."
         },
         {
-          "id": 77,
-          "paragraph_id": 40,
+          "id": 76,
+          "paragraph_id": 39,
           "text": "“Kneel and show your respect to the Princess of the Elves."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 39,
+          "text": "Only then will I show you mercy and let you keep your dog’s life.”"
         },
         {
           "id": 78,
           "paragraph_id": 40,
-          "text": "Only then will I show you mercy and let you keep your dog’s life.”"
+          "text": "William shook his head as he looked at Elandorr with a fed-up expression."
         },
         {
           "id": 79,
           "paragraph_id": 41,
-          "text": "William shook his head as he looked at Elandorr with a fed-up expression."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 42,
           "text": "“Didn’t your Mama ever tell you to not butt in when two people are talking?” William asked."
         },
         {
-          "id": 81,
-          "paragraph_id": 42,
+          "id": 80,
+          "paragraph_id": 41,
           "text": "“Or are you telling me that you have no Mama?"
+        },
+        {
+          "id": 81,
+          "paragraph_id": 41,
+          "text": "Sucks to be you then.”"
         },
         {
           "id": 82,
           "paragraph_id": 42,
-          "text": "Sucks to be you then.”"
-        },
-        {
-          "id": 83,
-          "paragraph_id": 43,
           "text": "Elandorr wasn’t someone that was easy to provoke."
         },
         {
-          "id": 84,
-          "paragraph_id": 43,
+          "id": 83,
+          "paragraph_id": 42,
           "text": "The reason he was preventing William from talking to the Princess was because he wanted to eliminate the Half-Elf as soon as possible."
+        },
+        {
+          "id": 84,
+          "paragraph_id": 42,
+          "text": "If Princess Eowyn acknowledged him as the son of their Saintess, it would be very difficult for him to kill William in front of the Elven Army."
         },
         {
           "id": 85,
           "paragraph_id": 43,
-          "text": "If Princess Eowyn acknowledged him as the son of their Saintess, it would be very difficult for him to kill William in front of the Elven Army."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 44,
           "text": "“I’ve had enough of your nonsense!” Elandorr raised his hand and gave the signal to attack."
         },
         {
-          "id": 87,
-          "paragraph_id": 44,
+          "id": 86,
+          "paragraph_id": 43,
           "text": "“Kill him!"
+        },
+        {
+          "id": 87,
+          "paragraph_id": 43,
+          "text": "Protect the princess!”"
         },
         {
           "id": 88,
           "paragraph_id": 44,
-          "text": "Protect the princess!”"
-        },
-        {
-          "id": 89,
-          "paragraph_id": 45,
           "text": "Several whistling sounds erupted from the forest, as all the Elves unleashed their arrows."
         },
         {
-          "id": 90,
-          "paragraph_id": 45,
+          "id": 89,
+          "paragraph_id": 44,
           "text": "Elandorr was their Commander, and their patriarchs had told them that his word was law."
+        },
+        {
+          "id": 90,
+          "paragraph_id": 44,
+          "text": "Also, the Princess was only a Supervisor on this mission, she didn’t have the authority to order any of the Elves, aside from her entourage, from following her."
         },
         {
           "id": 91,
           "paragraph_id": 45,
-          "text": "Also, the Princess was only a Supervisor on this mission, she didn’t have the authority to order any of the Elves, aside from her entourage, from following her."
+          "text": "“And so it begins,” William said softly as a fearless smile appeared on his lips."
         },
         {
           "id": 92,
-          "paragraph_id": 46,
-          "text": "“And so it begins,” William said softly as a fearless smile appeared on his lips."
+          "paragraph_id": 45,
+          "text": "“Erchitu, are you ready to rumble?”"
         },
         {
           "id": 93,
           "paragraph_id": 46,
-          "text": "“Erchitu, are you ready to rumble?”"
-        },
-        {
-          "id": 94,
-          "paragraph_id": 47,
           "text": "Erchitu snorted and stood in front of William."
         },
         {
-          "id": 95,
-          "paragraph_id": 47,
+          "id": 94,
+          "paragraph_id": 46,
           "text": "The two of them didn’t come here to talk."
         },
         {
-          "id": 96,
-          "paragraph_id": 47,
+          "id": 95,
+          "paragraph_id": 46,
           "text": "They came here to beat the crap out of the Elves and make them understand that there were some people that they shouldn’t provoke, no matter what."
         }
       ],
-      "word_count": 1335
+      "word_count": 1324
     },
     {
       "chapter_index": 440,

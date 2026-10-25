@@ -650,7 +650,6 @@
         "\"You still haven't answered my question,\" Chiffon insisted. \"What Virtue do you represent?\"",
         "William pulled his feisty wife in his arms and patted her head. \"It's fine. She's not hostile to us. You can feel it too, right?\"",
         "\"Will, you don't understand,\" Chiffon replied. \"Each of the Seven Sins carry a power that can break the laws of the world. Celeste is one of the Seven Virtues, meaning, she also has that kind of power. If you deal with them in a casual manner, they might stab you in the back.\"",
-        "(A/N: Not if Will stabs them in the back first kekeke.)",
         "Seeing that his wife wouldn't take no for an answer, William sighed and nodded his head.",
         "\"I'm sorry about this, but can you just tell us what Virtue you represent?\" William asked. \"I am your sister's Disciple. I swear on my name and hers that I will not tell a soul about it.\"",
         "Celeste knew that there was no other way to fix the issue because the pink-haired girl was adamant to know what her Divinity was. Left with no choice, she decided to compromise and revealed the Virtue she wielded.",
@@ -1142,75 +1141,70 @@
         {
           "id": 96,
           "paragraph_id": 46,
-          "text": "(A/N: Not if Will stabs them in the back first kekeke.)"
+          "text": "Seeing that his wife wouldn't take no for an answer, William sighed and nodded his head."
         },
         {
           "id": 97,
           "paragraph_id": 47,
-          "text": "Seeing that his wife wouldn't take no for an answer, William sighed and nodded his head."
-        },
-        {
-          "id": 98,
-          "paragraph_id": 48,
           "text": "\"I'm sorry about this, but can you just tell us what Virtue you represent?\" William asked."
         },
         {
-          "id": 99,
-          "paragraph_id": 48,
+          "id": 98,
+          "paragraph_id": 47,
           "text": "\"I am your sister's Disciple."
+        },
+        {
+          "id": 99,
+          "paragraph_id": 47,
+          "text": "I swear on my name and hers that I will not tell a soul about it.\""
         },
         {
           "id": 100,
           "paragraph_id": 48,
-          "text": "I swear on my name and hers that I will not tell a soul about it.\""
+          "text": "Celeste knew that there was no other way to fix the issue because the pink-haired girl was adamant to know what her Divinity was."
         },
         {
           "id": 101,
-          "paragraph_id": 49,
-          "text": "Celeste knew that there was no other way to fix the issue because the pink-haired girl was adamant to know what her Divinity was."
+          "paragraph_id": 48,
+          "text": "Left with no choice, she decided to compromise and revealed the Virtue she wielded."
         },
         {
           "id": 102,
           "paragraph_id": 49,
-          "text": "Left with no choice, she decided to compromise and revealed the Virtue she wielded."
+          "text": "\"Allow me to formally introduce myself,\" Celeste gave a simple curtsy as she eyed William from where she stood."
         },
         {
           "id": 103,
           "paragraph_id": 50,
-          "text": "\"Allow me to formally introduce myself,\" Celeste gave a simple curtsy as she eyed William from where she stood."
-        },
-        {
-          "id": 104,
-          "paragraph_id": 51,
           "text": "\"Aside from my given name, I also go by the name Castitas.\" Celeste smiled."
         },
         {
-          "id": 105,
-          "paragraph_id": 51,
+          "id": 104,
+          "paragraph_id": 50,
           "text": "\"I am the maiden that represents the Virtue of Chastity, Celeste Dy Wisteria."
+        },
+        {
+          "id": 105,
+          "paragraph_id": 50,
+          "text": "It is my pleasure and honor to meet the son of the Saintess of the World Tree, and the Hero of the Elves, as well as the one and only Disciple of my sister, Celine."
         },
         {
           "id": 106,
           "paragraph_id": 51,
-          "text": "It is my pleasure and honor to meet the son of the Saintess of the World Tree, and the Hero of the Elves, as well as the one and only Disciple of my sister, Celine."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 52,
           "text": "\"I have long wanted to meet you, William Von Ainsworth."
         },
         {
-          "id": 108,
-          "paragraph_id": 52,
+          "id": 107,
+          "paragraph_id": 51,
           "text": "I pray that our relationship will be a good one..."
         },
         {
-          "id": 109,
-          "paragraph_id": 52,
+          "id": 108,
+          "paragraph_id": 51,
           "text": "Not only for your sake, but for my sister's as well.\""
         }
       ],
-      "word_count": 1451
+      "word_count": 1440
     },
     {
       "chapter_index": 653,
@@ -14361,7 +14355,6 @@
         "\"What is Rebecca's current rank?\" Thea, the Sect Master of the Misty Sect, asked Eleanor.",
         "Rebecca's Master had been paying close attention to Rebecca's progress and she was quite satisfied with her current rank.",
         "\"Right now, Rebecca has just broken through the 7th Circle,\" Eleanor replied. \"She's currently stabilizing her rank in preparation for her duel with William.\"",
-        "(A/N: 7th Circle Magician is equivalent to the Adamantium / Centennial Rank. Take note that a mage is stronger than an ordinary warrior. If magicians were to fight with people with the same rank, their chances of winning were extremely high.)",
         "Thea nodded her head. Although it didn't show on her face, she was also satisfied with Rebecca's development.",
         "There were only a handful of individuals that could reach that rank in her age group, which proved that her magic prowess was truly outstanding.",
         "\"After she has stabilized her rank, hand her the Sect's artifact,\" Thea ordered. \"Teach her how to use it properly, so she will be competent when she uses it in her duel.\"",
@@ -14591,265 +14584,250 @@
         {
           "id": 40,
           "paragraph_id": 22,
-          "text": "(A/N: 7th Circle Magician is equivalent to the Adamantium / Centennial Rank."
+          "text": "Thea nodded her head."
         },
         {
           "id": 41,
           "paragraph_id": 22,
-          "text": "Take note that a mage is stronger than an ordinary warrior."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 22,
-          "text": "If magicians were to fight with people with the same rank, their chances of winning were extremely high.)"
-        },
-        {
-          "id": 43,
-          "paragraph_id": 23,
-          "text": "Thea nodded her head."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 23,
           "text": "Although it didn't show on her face, she was also satisfied with Rebecca's development."
         },
         {
-          "id": 45,
-          "paragraph_id": 24,
+          "id": 42,
+          "paragraph_id": 23,
           "text": "There were only a handful of individuals that could reach that rank in her age group, which proved that her magic prowess was truly outstanding."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 24,
+          "text": "\"After she has stabilized her rank, hand her the Sect's artifact,\" Thea ordered."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 24,
+          "text": "\"Teach her how to use it properly, so she will be competent when she uses it in her duel.\""
+        },
+        {
+          "id": 45,
+          "paragraph_id": 25,
+          "text": "Eleanor nodded her head."
         },
         {
           "id": 46,
           "paragraph_id": 25,
-          "text": "\"After she has stabilized her rank, hand her the Sect's artifact,\" Thea ordered."
+          "text": "\"Leave this task to me, Sect Master."
         },
         {
           "id": 47,
           "paragraph_id": 25,
-          "text": "\"Teach her how to use it properly, so she will be competent when she uses it in her duel.\""
+          "text": "I will not fail you!\""
         },
         {
           "id": 48,
           "paragraph_id": 26,
-          "text": "Eleanor nodded her head."
+          "text": "\"As you should,\" Thea replied crispily."
         },
         {
           "id": 49,
           "paragraph_id": 26,
-          "text": "\"Leave this task to me, Sect Master."
+          "text": "\"Failure is not an option."
         },
         {
           "id": 50,
           "paragraph_id": 26,
-          "text": "I will not fail you!\""
+          "text": "Also, make sure to tell the Wardens to bring thirty High-Grade Snow Crystals, and spread them around the arena."
         },
         {
           "id": 51,
-          "paragraph_id": 27,
-          "text": "\"As you should,\" Thea replied crispily."
+          "paragraph_id": 26,
+          "text": "That will strengthen the power of Ice Magic and ensure that Rebecca will have the upper hand.\""
         },
         {
           "id": 52,
           "paragraph_id": 27,
-          "text": "\"Failure is not an option."
+          "text": "\"It will be done as you command,\" the Head Warden pledged."
         },
         {
           "id": 53,
           "paragraph_id": 27,
-          "text": "Also, make sure to tell the Wardens to bring thirty High-Grade Snow Crystals, and spread them around the arena."
+          "text": "\"Sect Master, I have a proposal to make.\""
         },
         {
           "id": 54,
-          "paragraph_id": 27,
-          "text": "That will strengthen the power of Ice Magic and ensure that Rebecca will have the upper hand.\""
+          "paragraph_id": 28,
+          "text": "Thea nodded."
         },
         {
           "id": 55,
           "paragraph_id": 28,
-          "text": "\"It will be done as you command,\" the Head Warden pledged."
+          "text": "\"Speak.\""
         },
         {
           "id": 56,
-          "paragraph_id": 28,
-          "text": "\"Sect Master, I have a proposal to make.\""
+          "paragraph_id": 29,
+          "text": "The Head Warden smiled as she gave her suggestion."
         },
         {
           "id": 57,
           "paragraph_id": 29,
-          "text": "Thea nodded."
-        },
-        {
-          "id": 58,
-          "paragraph_id": 29,
-          "text": "\"Speak.\""
-        },
-        {
-          "id": 59,
-          "paragraph_id": 30,
-          "text": "The Head Warden smiled as she gave her suggestion."
-        },
-        {
-          "id": 60,
-          "paragraph_id": 30,
           "text": "\"Since the battle is inevitable, how about we raise the stakes and coerce William to have a bet with us?\""
         },
         {
-          "id": 61,
-          "paragraph_id": 31,
+          "id": 58,
+          "paragraph_id": 30,
           "text": "Thea frowned but she still waited for the Head Warden to finish her explanation."
         },
         {
-          "id": 62,
-          "paragraph_id": 32,
+          "id": 59,
+          "paragraph_id": 31,
           "text": "Seeing that everyone's attention was on her, the Head Warden was feeling ecstatic."
         },
         {
-          "id": 63,
-          "paragraph_id": 32,
+          "id": 60,
+          "paragraph_id": 31,
           "text": "She had only thought of this idea a few minutes ago, but the more she thought about it, the more appealing it was."
+        },
+        {
+          "id": 61,
+          "paragraph_id": 32,
+          "text": "Because of this, she decided to make the proposal to Thea and see whether she would also consider this idea for the Sect's benefit."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 33,
+          "text": "\"Let's ask him to make a bet with us,\" The Head Warden said."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 33,
+          "text": "\"If he wins then he can ask our Sect to do three things for him."
         },
         {
           "id": 64,
           "paragraph_id": 33,
-          "text": "Because of this, she decided to make the proposal to Thea and see whether she would also consider this idea for the Sect's benefit."
+          "text": "Regardless of what it is, as long as it doesn't break our morals, we will agree to it."
         },
         {
           "id": 65,
           "paragraph_id": 34,
-          "text": "\"Let's ask him to make a bet with us,\" The Head Warden said."
+          "text": "\"In return, if he loses then he would give us ownership of one of the Floors of Babylon that are currently under his command."
         },
         {
           "id": 66,
           "paragraph_id": 34,
-          "text": "\"If he wins then he can ask our Sect to do three things for him."
+          "text": "Since we are doing our best to ensure Rebecca's victory, why not profit from it as well."
         },
         {
           "id": 67,
           "paragraph_id": 34,
-          "text": "Regardless of what it is, as long as it doesn't break our morals, we will agree to it."
+          "text": "What do you think, Sect Master?\""
         },
         {
           "id": 68,
           "paragraph_id": 35,
-          "text": "\"In return, if he loses then he would give us ownership of one of the Floors of Babylon that are currently under his command."
+          "text": "The Elders of the Misty sect were surprised by the Head Warden's boldness."
         },
         {
           "id": 69,
           "paragraph_id": 35,
-          "text": "Since we are doing our best to ensure Rebecca's victory, why not profit from it as well."
+          "text": "Some of them gasped in shock, while others remained silent, contemplating the pros and cons of her proposal."
         },
         {
           "id": 70,
-          "paragraph_id": 35,
-          "text": "What do you think, Sect Master?\""
+          "paragraph_id": 36,
+          "text": "Thea was also moved by the Head Warden's words."
         },
         {
           "id": 71,
           "paragraph_id": 36,
-          "text": "The Elders of the Misty sect were surprised by the Head Warden's boldness."
+          "text": "Having a floor in the Tower of Babylon was akin to having an ownership of an entire Kingdom."
         },
         {
           "id": 72,
           "paragraph_id": 36,
-          "text": "Some of them gasped in shock, while others remained silent, contemplating the pros and cons of her proposal."
+          "text": "If their Misty Sect could gain ownership of one then their prestige and status would rise among their peers."
         },
         {
           "id": 73,
           "paragraph_id": 37,
-          "text": "Thea was also moved by the Head Warden's words."
+          "text": "\"Let me think about this for a few days,\" Thea replied."
         },
         {
           "id": 74,
           "paragraph_id": 37,
-          "text": "Having a floor in the Tower of Babylon was akin to having an ownership of an entire Kingdom."
+          "text": "\"For now, let us end our meeting and resume our duties."
         },
         {
           "id": 75,
           "paragraph_id": 37,
-          "text": "If their Misty Sect could gain ownership of one then their prestige and status would rise among their peers."
+          "text": "I ask the Elders to supervise the preparations so that we won't be embarrassed in front of our guests."
         },
         {
           "id": 76,
           "paragraph_id": 38,
-          "text": "\"Let me think about this for a few days,\" Thea replied."
+          "text": "\"Head Warden, please, make sure that our security is enough to handle the influx of people and prevent anyone from committing any crimes during their stay."
         },
         {
           "id": 77,
           "paragraph_id": 38,
-          "text": "\"For now, let us end our meeting and resume our duties."
+          "text": "I authorize you to deal with criminals as you please.\""
         },
         {
           "id": 78,
-          "paragraph_id": 38,
-          "text": "I ask the Elders to supervise the preparations so that we won't be embarrassed in front of our guests."
+          "paragraph_id": 39,
+          "text": "The Elders and the Head Wardens nodded their heads before leaving the room."
         },
         {
           "id": 79,
           "paragraph_id": 39,
-          "text": "\"Head Warden, please, make sure that our security is enough to handle the influx of people and prevent anyone from committing any crimes during their stay."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 39,
-          "text": "I authorize you to deal with criminals as you please.\""
-        },
-        {
-          "id": 81,
-          "paragraph_id": 40,
-          "text": "The Elders and the Head Wardens nodded their heads before leaving the room."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 40,
           "text": "Thea remained behind as she pondered the possibility of owning one of the Floors of Babylon."
         },
         {
-          "id": 83,
-          "paragraph_id": 41,
+          "id": 80,
+          "paragraph_id": 40,
           "text": "She didn't know how strong William was, but she was confident that the preparations they had in mind would be enough to deal with him."
         },
         {
-          "id": 84,
-          "paragraph_id": 42,
+          "id": 81,
+          "paragraph_id": 41,
           "text": "Somewhere in the Aberdeen Mountains, a Majestic Creature briefly opened its eyes."
         },
         {
-          "id": 85,
-          "paragraph_id": 43,
+          "id": 82,
+          "paragraph_id": 42,
           "text": "It was the Guardian of the Misty Sect, and a being that had been in the Central Continent for thousands of years."
         },
         {
-          "id": 86,
-          "paragraph_id": 44,
+          "id": 83,
+          "paragraph_id": 43,
           "text": "After scanning its domain, it once again closed its eyes to sleep."
+        },
+        {
+          "id": 84,
+          "paragraph_id": 44,
+          "text": "A powerful blizzard appeared out of nowhere and covered the mountains in a veil of white."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 44,
+          "text": "For the members of the Misty Sect, the blizzard was a delightful sight."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 45,
+          "text": "To others, this scene was enough to make them tremble in fright."
         },
         {
           "id": 87,
           "paragraph_id": 45,
-          "text": "A powerful blizzard appeared out of nowhere and covered the mountains in a veil of white."
+          "text": "For the one that slept on top of the Aberdeen Mountains was a being of old..."
         },
         {
           "id": 88,
           "paragraph_id": 45,
-          "text": "For the members of the Misty Sect, the blizzard was a delightful sight."
-        },
-        {
-          "id": 89,
-          "paragraph_id": 46,
-          "text": "To others, this scene was enough to make them tremble in fright."
-        },
-        {
-          "id": 90,
-          "paragraph_id": 46,
-          "text": "For the one that slept on top of the Aberdeen Mountains was a being of old..."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 46,
           "text": "No matter how fierce the blizzard blew, it was not afraid of the cold."
         }
       ],
-      "word_count": 1424
+      "word_count": 1383
     },
     {
       "chapter_index": 675,
@@ -21407,7 +21385,6 @@
         "\"Big Brother, forget about that country bumpkin Princess. I will give you my heart, body, and soul, so take me, and enjoy me to your heart's content,\" Vanessa whispered. Her voice was filled with temptation and seduction.",
         "She was secretly thanking William for leaving her cousin in his current depressed state. If Prince Jason was at his peak state, even she had to think thrice before trying to spike his drink. Since she had already succeeded, Princess Vanessa decided to take the initiative and claim her cousin as her own.",
         "Princess Vanessa firmly held Prince Jason's hand and took him to the bedroom.",
-        "(A/N: The rooms that were reserved for the Royal Family in the Whispering Tavern have their own bedroom where they can rest after drinking until they get wasted.)",
         "Soon, the sounds of ragged breathing and rustling of clothes echoed inside the room. Prince Jason did his best to hold on to the little bit of sanity inside him, because he knew that once he crossed the line, it would be difficult for him to get out of the current situation.",
         "Unfortunately, Princess Vanessa came prepared. Aside from the pill that he had added to the wine bottle, the fragrance and the lipstick she wore were specially made to befuddle someone's senses.",
         "This three pronged attack made Prince Jason's struggle futile. Princess Vanessa kissed him passionately over and over, until Prince Jason's final shred of resistance snapped.",
@@ -21603,360 +21580,355 @@
         {
           "id": 31,
           "paragraph_id": 17,
-          "text": "(A/N: The rooms that were reserved for the Royal Family in the Whispering Tavern have their own bedroom where they can rest after drinking until they get wasted.)"
+          "text": "Soon, the sounds of ragged breathing and rustling of clothes echoed inside the room."
         },
         {
           "id": 32,
-          "paragraph_id": 18,
-          "text": "Soon, the sounds of ragged breathing and rustling of clothes echoed inside the room."
+          "paragraph_id": 17,
+          "text": "Prince Jason did his best to hold on to the little bit of sanity inside him, because he knew that once he crossed the line, it would be difficult for him to get out of the current situation."
         },
         {
           "id": 33,
           "paragraph_id": 18,
-          "text": "Prince Jason did his best to hold on to the little bit of sanity inside him, because he knew that once he crossed the line, it would be difficult for him to get out of the current situation."
+          "text": "Unfortunately, Princess Vanessa came prepared."
         },
         {
           "id": 34,
-          "paragraph_id": 19,
-          "text": "Unfortunately, Princess Vanessa came prepared."
+          "paragraph_id": 18,
+          "text": "Aside from the pill that he had added to the wine bottle, the fragrance and the lipstick she wore were specially made to befuddle someone's senses."
         },
         {
           "id": 35,
           "paragraph_id": 19,
-          "text": "Aside from the pill that he had added to the wine bottle, the fragrance and the lipstick she wore were specially made to befuddle someone's senses."
+          "text": "This three pronged attack made Prince Jason's struggle futile."
         },
         {
           "id": 36,
-          "paragraph_id": 20,
-          "text": "This three pronged attack made Prince Jason's struggle futile."
+          "paragraph_id": 19,
+          "text": "Princess Vanessa kissed him passionately over and over, until Prince Jason's final shred of resistance snapped."
         },
         {
           "id": 37,
           "paragraph_id": 20,
-          "text": "Princess Vanessa kissed him passionately over and over, until Prince Jason's final shred of resistance snapped."
+          "text": "The proud Prince of the Kraetor Empire had finally fallen and was completely at the Princess' mercy."
         },
         {
           "id": 38,
           "paragraph_id": 21,
-          "text": "The proud Prince of the Kraetor Empire had finally fallen and was completely at the Princess' mercy."
-        },
-        {
-          "id": 39,
-          "paragraph_id": 22,
           "text": "Even though it was her first time, there was no hesitation in her mind."
         },
         {
-          "id": 40,
-          "paragraph_id": 22,
+          "id": 39,
+          "paragraph_id": 21,
           "text": "She was the one that straddled Prince Jason and offered her maidenhood to him."
+        },
+        {
+          "id": 40,
+          "paragraph_id": 21,
+          "text": "Just like a priestess offering a sacrifice to her god, blood was spilt and it dyed the bed sheets with the color of her innocence."
         },
         {
           "id": 41,
           "paragraph_id": 22,
-          "text": "Just like a priestess offering a sacrifice to her god, blood was spilt and it dyed the bed sheets with the color of her innocence."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 23,
           "text": "\"You're finally mine,\" Princess Vanessa whispered in Prince Jason's ears."
         },
         {
-          "id": 43,
-          "paragraph_id": 23,
+          "id": 42,
+          "paragraph_id": 22,
           "text": "She didn't care if her cousin was not in his normal state of mind."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 22,
+          "text": "This had been her goal for a very long time, and the feeling of conquest made her feel that she had everything under her control."
         },
         {
           "id": 44,
           "paragraph_id": 23,
-          "text": "This had been her goal for a very long time, and the feeling of conquest made her feel that she had everything under her control."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 24,
           "text": "She surrendered herself to the pleasure and moved her hips without pause."
         },
         {
-          "id": 46,
-          "paragraph_id": 24,
+          "id": 45,
+          "paragraph_id": 23,
           "text": "It was as if she was yearning for something."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 23,
+          "text": "Something that would bind her beloved to her and prevent him from slipping from her grasp."
         },
         {
           "id": 47,
           "paragraph_id": 24,
-          "text": "Something that would bind her beloved to her and prevent him from slipping from her grasp."
+          "text": "Soon, she heard a low grunt, and something hot and powerful spurted inside her."
         },
         {
           "id": 48,
-          "paragraph_id": 25,
-          "text": "Soon, she heard a low grunt, and something hot and powerful spurted inside her."
+          "paragraph_id": 24,
+          "text": "For a brief moment, her mind went blank due to the feeling of euphoria that grasped her body."
         },
         {
           "id": 49,
           "paragraph_id": 25,
-          "text": "For a brief moment, her mind went blank due to the feeling of euphoria that grasped her body."
+          "text": "As she panted for breath, she looked into Prince Jason's eyes which seemed to have recovered a bit of their sanity."
         },
         {
           "id": 50,
           "paragraph_id": 26,
-          "text": "As she panted for breath, she looked into Prince Jason's eyes which seemed to have recovered a bit of their sanity."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 27,
           "text": "\"I love you,\" Princess Vanessa said as she looked straight into his eyes."
         },
         {
-          "id": 52,
-          "paragraph_id": 27,
+          "id": 51,
+          "paragraph_id": 26,
           "text": "\"I have loved you for a very long time."
         },
         {
-          "id": 53,
-          "paragraph_id": 27,
+          "id": 52,
+          "paragraph_id": 26,
           "text": "I know you don't love me, but I don't care about that."
         },
         {
-          "id": 54,
-          "paragraph_id": 27,
+          "id": 53,
+          "paragraph_id": 26,
           "text": "Even if you don't want to take responsibility, I will not say a word."
         },
         {
-          "id": 55,
-          "paragraph_id": 27,
+          "id": 54,
+          "paragraph_id": 26,
           "text": "However, tonight, make me yours."
+        },
+        {
+          "id": 55,
+          "paragraph_id": 26,
+          "text": "Make me feel what it's like to be loved, even if it's fake.\""
         },
         {
           "id": 56,
           "paragraph_id": 27,
-          "text": "Make me feel what it's like to be loved, even if it's fake.\""
+          "text": "Princess Vanessa's almost pleading tone reached Prince Jason's ears, and a complicated emotion flickered inside the depths of his heart."
         },
         {
           "id": 57,
           "paragraph_id": 28,
-          "text": "Princess Vanessa's almost pleading tone reached Prince Jason's ears, and a complicated emotion flickered inside the depths of his heart."
+          "text": "After pouring out her feelings, Princess Vanessa hugged Prince Jason's neck and once again moved her hips."
         },
         {
           "id": 58,
           "paragraph_id": 29,
-          "text": "After pouring out her feelings, Princess Vanessa hugged Prince Jason's neck and once again moved her hips."
+          "text": "Once was not enough."
         },
         {
           "id": 59,
           "paragraph_id": 30,
-          "text": "Once was not enough."
+          "text": "She wanted to feel him more."
         },
         {
           "id": 60,
           "paragraph_id": 31,
-          "text": "She wanted to feel him more."
+          "text": "She wanted to take his everything."
         },
         {
           "id": 61,
           "paragraph_id": 32,
-          "text": "She wanted to take his everything."
+          "text": "It was at that moment when a sigh escaped Prince Jason's lips."
         },
         {
           "id": 62,
           "paragraph_id": 33,
-          "text": "It was at that moment when a sigh escaped Prince Jason's lips."
+          "text": "Suddenly, Princess Vanessa felt a hand draw her head to rest against his chest, while Prince Jason's other arm wrapped around her waist, holding her in place."
         },
         {
           "id": 63,
           "paragraph_id": 34,
-          "text": "Suddenly, Princess Vanessa felt a hand draw her head to rest against his chest, while Prince Jason's other arm wrapped around her waist, holding her in place."
+          "text": "Soon, a powerful thrust made her cry out loud."
         },
         {
           "id": 64,
-          "paragraph_id": 35,
-          "text": "Soon, a powerful thrust made her cry out loud."
+          "paragraph_id": 34,
+          "text": "Her body shuddered as Prince Jason started to take the initiative and explore her depths."
         },
         {
           "id": 65,
           "paragraph_id": 35,
-          "text": "Her body shuddered as Prince Jason started to take the initiative and explore her depths."
-        },
-        {
-          "id": 66,
-          "paragraph_id": 36,
           "text": "Princess Vanessa didn't resist and allowed the storm to wash over her."
         },
         {
-          "id": 67,
-          "paragraph_id": 36,
+          "id": 66,
+          "paragraph_id": 35,
           "text": "Their roles were reversed, and now, she was the one that was completely at his mercy."
+        },
+        {
+          "id": 67,
+          "paragraph_id": 35,
+          "text": "The princess' young, and lithe body was pressed over Prince Jason's strong and powerful chest, accepting everything that he was willing to give her."
         },
         {
           "id": 68,
           "paragraph_id": 36,
-          "text": "The princess' young, and lithe body was pressed over Prince Jason's strong and powerful chest, accepting everything that he was willing to give her."
+          "text": "A few minutes later, both of them reached the peak and Princess Vanessa's body shuddered uncontrollably."
         },
         {
           "id": 69,
-          "paragraph_id": 37,
-          "text": "A few minutes later, both of them reached the peak and Princess Vanessa's body shuddered uncontrollably."
+          "paragraph_id": 36,
+          "text": "She felt like fainting, but she held on using her willpower and bit Prince's Jason shoulder, drawing blood."
         },
         {
           "id": 70,
           "paragraph_id": 37,
-          "text": "She felt like fainting, but she held on using her willpower and bit Prince's Jason shoulder, drawing blood."
+          "text": "As the two of them panted for breath they once again stared at each other's eyes."
         },
         {
           "id": 71,
           "paragraph_id": 38,
-          "text": "As the two of them panted for breath they once again stared at each other's eyes."
+          "text": "Several heartbeats later, the sound of kissing spread inside the room."
         },
         {
           "id": 72,
           "paragraph_id": 39,
-          "text": "Several heartbeats later, the sound of kissing spread inside the room."
+          "text": "This time, Princess Vanessa tasted its sweetness."
         },
         {
           "id": 73,
-          "paragraph_id": 40,
-          "text": "This time, Princess Vanessa tasted its sweetness."
+          "paragraph_id": 39,
+          "text": "It was no longer a one-sided kiss, but a kiss that both of them shared."
         },
         {
           "id": 74,
           "paragraph_id": 40,
-          "text": "It was no longer a one-sided kiss, but a kiss that both of them shared."
+          "text": "As a tear slid down the side of her face, the Princess of the Kraetor Empire finally felt at peace."
         },
         {
           "id": 75,
           "paragraph_id": 41,
-          "text": "As a tear slid down the side of her face, the Princess of the Kraetor Empire finally felt at peace."
-        },
-        {
-          "id": 76,
-          "paragraph_id": 42,
           "text": "Although it was only a fleeting happiness, her heart, and body, was satisfied."
         },
         {
-          "id": 77,
-          "paragraph_id": 42,
+          "id": 76,
+          "paragraph_id": 41,
           "text": "Not long after, she fell asleep."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 41,
+          "text": "Prince Jason looked at the sleeping princess' face for half a minute, before he, too, closed his eyes to sleep."
         },
         {
           "id": 78,
           "paragraph_id": 42,
-          "text": "Prince Jason looked at the sleeping princess' face for half a minute, before he, too, closed his eyes to sleep."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 43,
           "text": "Prince Maximilian sipped the wine in his glass and looked at the moon outside the balcony."
         },
         {
-          "id": 80,
-          "paragraph_id": 43,
+          "id": 79,
+          "paragraph_id": 42,
           "text": "His room was right beside Prince Jason's."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 42,
+          "text": "A few hours ago, he ordered the manager to close the tavern and chase out the remaining guests."
         },
         {
           "id": 81,
           "paragraph_id": 43,
-          "text": "A few hours ago, he ordered the manager to close the tavern and chase out the remaining guests."
+          "text": "Simply put, he had reserved the entire tavern for the night in the name of the Royal Family."
         },
         {
           "id": 82,
-          "paragraph_id": 44,
-          "text": "Simply put, he had reserved the entire tavern for the night in the name of the Royal Family."
+          "paragraph_id": 43,
+          "text": "The manager didn't dare to reject his order and reluctantly closed his business to accommodate the Royal Family."
         },
         {
           "id": 83,
           "paragraph_id": 44,
-          "text": "The manager didn't dare to reject his order and reluctantly closed his business to accommodate the Royal Family."
+          "text": "\"Congratulations, Vanessa,\" Prince Maximilian said softly."
         },
         {
           "id": 84,
-          "paragraph_id": 45,
-          "text": "\"Congratulations, Vanessa,\" Prince Maximilian said softly."
+          "paragraph_id": 44,
+          "text": "\"Although it was only for a night, you were able to realize the dream that you have chased for so many years.\""
         },
         {
           "id": 85,
           "paragraph_id": 45,
-          "text": "\"Although it was only for a night, you were able to realize the dream that you have chased for so many years.\""
-        },
-        {
-          "id": 86,
-          "paragraph_id": 46,
           "text": "A complicated sigh escaped Prince Maximilian's lips."
         },
         {
-          "id": 87,
-          "paragraph_id": 46,
+          "id": 86,
+          "paragraph_id": 45,
           "text": "This was the only thing he could do for his family."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 45,
+          "text": "Although he and Prince Jason were always at each other's throats, the Crown Prince was someone that could see the bigger picture."
         },
         {
           "id": 88,
           "paragraph_id": 46,
-          "text": "Although he and Prince Jason were always at each other's throats, the Crown Prince was someone that could see the bigger picture."
+          "text": "Prince Maximilian didn't want to admit it, but he felt very jealous of Prince Jason."
         },
         {
           "id": 89,
-          "paragraph_id": 47,
-          "text": "Prince Maximilian didn't want to admit it, but he felt very jealous of Prince Jason."
+          "paragraph_id": 46,
+          "text": "He had seen how devoted Princess Vanessa was, and sometimes Prince Maximilian wondered what it would be like to have a beautiful lady pine after him, the way Princess Vanessa did for Prince Jason."
         },
         {
           "id": 90,
           "paragraph_id": 47,
-          "text": "He had seen how devoted Princess Vanessa was, and sometimes Prince Maximilian wondered what it would be like to have a beautiful lady pine after him, the way Princess Vanessa did for Prince Jason."
+          "text": "\"I have given you another chance, Jason,\" Prince Maximilian muttered."
         },
         {
           "id": 91,
-          "paragraph_id": 48,
-          "text": "\"I have given you another chance, Jason,\" Prince Maximilian muttered."
+          "paragraph_id": 47,
+          "text": "\"If you still throw this opportunity away, don't blame me for making my move.\""
         },
         {
           "id": 92,
           "paragraph_id": 48,
-          "text": "\"If you still throw this opportunity away, don't blame me for making my move.\""
-        },
-        {
-          "id": 93,
-          "paragraph_id": 49,
           "text": "The Crown Prince drank everything in his wine glass and went back inside to sleep."
         },
         {
-          "id": 94,
-          "paragraph_id": 49,
+          "id": 93,
+          "paragraph_id": 48,
           "text": "He had guarded the two of them while they were busy calling the birds and the bees."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 48,
+          "text": "Now that their lovemaking was over, it was time for him to leave."
         },
         {
           "id": 95,
           "paragraph_id": 49,
-          "text": "Now that their lovemaking was over, it was time for him to leave."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 50,
           "text": "Whatever happened when morning came, he didn't give a hoot."
         },
         {
-          "id": 97,
-          "paragraph_id": 50,
+          "id": 96,
+          "paragraph_id": 49,
           "text": "He had already played his part, and he had played it well."
+        },
+        {
+          "id": 97,
+          "paragraph_id": 49,
+          "text": "However, he still needed to report this to his grandfather to prepare for any contingencies."
         },
         {
           "id": 98,
           "paragraph_id": 50,
-          "text": "However, he still needed to report this to his grandfather to prepare for any contingencies."
+          "text": "Although the adults already knew Princess Vanessa's feelings for Prince Jason, the aftereffects of their union would still require the power of the Royal Family to keep it under wraps."
         },
         {
           "id": 99,
           "paragraph_id": 51,
-          "text": "Although the adults already knew Princess Vanessa's feelings for Prince Jason, the aftereffects of their union would still require the power of the Royal Family to keep it under wraps."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 52,
           "text": "\"It's hard to be a good person,\" Prince Maximilian shook his head as he left the Whispering Wind Tavern."
         },
         {
-          "id": 101,
-          "paragraph_id": 52,
+          "id": 100,
+          "paragraph_id": 51,
           "text": "\"I wonder how William is able to keep his relationships with his lovers in order.\""
         }
       ],
-      "word_count": 1663
+      "word_count": 1635
     },
     {
       "chapter_index": 687,

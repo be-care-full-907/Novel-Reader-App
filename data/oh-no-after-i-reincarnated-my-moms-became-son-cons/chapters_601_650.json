@@ -31609,7 +31609,6 @@
         "I dont need to worry then, right? Plus, even if they did run into danger, Vyvyan can use magic, so there shouldnt be any major concern, Lorana told herself. And so, Lorana didnt concern herself any further.",
         "The two girls left with cheerful smiles. The weather outside hadnt warmed up yet. The evening mist and frost in autumn couldnt be melted by the sun that had just come up, but it couldnt stop the girls happy laughter and footsteps. The young girls woke up the forest on behalf of the birds with their cheerful laughter.",
         "They cheerfully ran through the forest. Their pants and shoes were soon wet, but that didnt stop their light steps. Vyvyan laughed while holding Elizabeths hand. She had never been to human cities and towns, She was eager to see the human city and towns she was about to visit. She couldnt stop imagining what they were like. She imagined countless Elizabeths walking back and forth on the stone ground inside the city. She imagined speaking to humans in a language she didnt know, but that was just her imagination. She was much more eager to see a real city. She had only ever seen the elven Imperial City, but it was a small city where residents used trees for homes",
-        "(Author Note: Duargana only truly flourished after Inard and then Vyvyan succeeded the throne, because what Elizabeth shared with them expanded their understanding of humanity. As a result, they decided to remodel their own city after seeing humanitys. Thus, it was during their rule that stone buildings came into existence. The elves unique tree house Imperial City began with Inards rule and reached completion in Vyvyans reign.)",
         "The sun gradually came up and replaced the cold that seeped into the forest with warmth. The two finally reached the border of the forest after walking sun-dappled path. The leaves there could no longer cover the sun. A road finally appeared. The two walked to the road, and then made a turn. Elizabeth tightly held Vyvyans hand then pointed to a corner below. In an excited tone, she said, See that, Vyvyan? Thats the city. Thats where I live. See that? In that corner there.",
         "Mm!",
         "Vyvyan immediately noticed it with her elven sight. A pointy small church was in the centre of a wheat field outside the city. The ochre wheat blew in the wind as though a pack of wolves were running through. The city walls made of stone behind the wheat field separated itself from the large area of land as though it was a wheat field god planted human crops on.",
@@ -31620,7 +31619,6 @@
         "Wow! This is humanitys city?!",
         "After hoping off the carriage and reaching the street, Vyvyan was shocked by the sight her eyes beheld. She had never seen so many people before. The elven Imperial City was considered the most populated place in the elven lands, but this single street in a small village, where people were coming and going, considerably more crowded than the elven Imperial City.",
         "It was a very novel and shocking discovery to Vyvyan. Elizabeth proudly smiled: This is just a small village. The Imperial Capital where I live is prospering a lot more in comparison. The city is surrounded by big plains, and we grow the entire nations wheat crops there, so we can feed lots and lots of people.",
-        "(Author note: The Royal Capital, Hilles City, wasnt yet referred to as such when Elizabeth ran away. It was just called the Rosvenor Imperial Nations Imperial City and it wasnt on the scale of Elizabeths empire at its peak.)",
         "How nice.",
         "Vyvyan enviously surveyed the crowds. There were very few places in the forest where elves could plant crops, so they didnt have many foods to choose from. That, therefore, limited their population. Vyvyan asked, Elizabeth, isnt it very squishy in your Imperial City?",
         "Elizabeth chuckled; then, grabbed a tight hold of Vyvyans hand: Its all right. Though it sometimes is, were accustomed to it. Lets hold hands. Dont get lost here, or itll be very hard to find each other. Moreover, its very dangerous for you here in human lands.",
@@ -31906,325 +31904,295 @@
         {
           "id": 55,
           "paragraph_id": 14,
-          "text": "(Author Note: Duargana only truly flourished after Inard and then Vyvyan succeeded the throne, because what Elizabeth shared with them expanded their understanding of humanity."
+          "text": "The sun gradually came up and replaced the cold that seeped into the forest with warmth."
         },
         {
           "id": 56,
           "paragraph_id": 14,
-          "text": "As a result, they decided to remodel their own city after seeing humanitys."
+          "text": "The two finally reached the border of the forest after walking sun-dappled path."
         },
         {
           "id": 57,
           "paragraph_id": 14,
-          "text": "Thus, it was during their rule that stone buildings came into existence."
+          "text": "The leaves there could no longer cover the sun."
         },
         {
           "id": 58,
           "paragraph_id": 14,
-          "text": "The elves unique tree house Imperial City began with Inards rule and reached completion in Vyvyans reign.)"
-        },
-        {
-          "id": 59,
-          "paragraph_id": 15,
-          "text": "The sun gradually came up and replaced the cold that seeped into the forest with warmth."
-        },
-        {
-          "id": 60,
-          "paragraph_id": 15,
-          "text": "The two finally reached the border of the forest after walking sun-dappled path."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 15,
-          "text": "The leaves there could no longer cover the sun."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 15,
           "text": "A road finally appeared."
         },
         {
-          "id": 63,
-          "paragraph_id": 15,
+          "id": 59,
+          "paragraph_id": 14,
           "text": "The two walked to the road, and then made a turn."
         },
         {
-          "id": 64,
-          "paragraph_id": 15,
+          "id": 60,
+          "paragraph_id": 14,
           "text": "Elizabeth tightly held Vyvyans hand then pointed to a corner below."
         },
         {
-          "id": 65,
-          "paragraph_id": 15,
+          "id": 61,
+          "paragraph_id": 14,
           "text": "In an excited tone, she said, See that, Vyvyan?"
+        },
+        {
+          "id": 62,
+          "paragraph_id": 14,
+          "text": "Thats the city."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 14,
+          "text": "Thats where I live."
+        },
+        {
+          "id": 64,
+          "paragraph_id": 14,
+          "text": "See that?"
+        },
+        {
+          "id": 65,
+          "paragraph_id": 14,
+          "text": "In that corner there."
         },
         {
           "id": 66,
           "paragraph_id": 15,
-          "text": "Thats the city."
+          "text": "Mm!"
         },
         {
           "id": 67,
-          "paragraph_id": 15,
-          "text": "Thats where I live."
+          "paragraph_id": 16,
+          "text": "Vyvyan immediately noticed it with her elven sight."
         },
         {
           "id": 68,
-          "paragraph_id": 15,
-          "text": "See that?"
+          "paragraph_id": 16,
+          "text": "A pointy small church was in the centre of a wheat field outside the city."
         },
         {
           "id": 69,
-          "paragraph_id": 15,
-          "text": "In that corner there."
+          "paragraph_id": 16,
+          "text": "The ochre wheat blew in the wind as though a pack of wolves were running through."
         },
         {
           "id": 70,
           "paragraph_id": 16,
-          "text": "Mm!"
+          "text": "The city walls made of stone behind the wheat field separated itself from the large area of land as though it was a wheat field god planted human crops on."
         },
         {
           "id": 71,
           "paragraph_id": 17,
-          "text": "Vyvyan immediately noticed it with her elven sight."
+          "text": "Lets go."
         },
         {
           "id": 72,
           "paragraph_id": 17,
-          "text": "A pointy small church was in the centre of a wheat field outside the city."
+          "text": "It looks very close, but we actually still need to run for some distance."
         },
         {
           "id": 73,
           "paragraph_id": 17,
-          "text": "The ochre wheat blew in the wind as though a pack of wolves were running through."
+          "text": "It would be best if we had a ride."
         },
         {
           "id": 74,
           "paragraph_id": 17,
-          "text": "The city walls made of stone behind the wheat field separated itself from the large area of land as though it was a wheat field god planted human crops on."
+          "text": "Otherwise, well have to walk a long way."
         },
         {
           "id": 75,
           "paragraph_id": 18,
-          "text": "Lets go."
+          "text": "Mm!"
         },
         {
           "id": 76,
-          "paragraph_id": 18,
-          "text": "It looks very close, but we actually still need to run for some distance."
+          "paragraph_id": 19,
+          "text": "They tightly held hands."
         },
         {
           "id": 77,
-          "paragraph_id": 18,
-          "text": "It would be best if we had a ride."
+          "paragraph_id": 19,
+          "text": "The blue sky overhead looked far and as though it also brought the singing of an angel from heaven."
         },
         {
           "id": 78,
-          "paragraph_id": 18,
-          "text": "Otherwise, well have to walk a long way."
+          "paragraph_id": 19,
+          "text": "The breeze blew the leaves up into the air."
         },
         {
           "id": 79,
           "paragraph_id": 19,
-          "text": "Mm!"
+          "text": "The humming birds hummed a tune of nature."
         },
         {
           "id": 80,
-          "paragraph_id": 20,
-          "text": "They tightly held hands."
+          "paragraph_id": 19,
+          "text": "The white clouds in the sky resembled a lazy drunk wandering poet, going wherever the clouds took them."
         },
         {
           "id": 81,
-          "paragraph_id": 20,
-          "text": "The blue sky overhead looked far and as though it also brought the singing of an angel from heaven."
+          "paragraph_id": 19,
+          "text": "The sun in the blue sky made the temperature just right as if gods gentle eyes were looking after all species."
         },
         {
           "id": 82,
-          "paragraph_id": 20,
-          "text": "The breeze blew the leaves up into the air."
+          "paragraph_id": 19,
+          "text": "Nature was gods creation; consequently, the curved path of youth the two girls ran on mustve been gods ultimate song."
         },
         {
           "id": 83,
           "paragraph_id": 20,
-          "text": "The humming birds hummed a tune of nature."
+          "text": "The two were very lucky."
         },
         {
           "id": 84,
           "paragraph_id": 20,
-          "text": "The white clouds in the sky resembled a lazy drunk wandering poet, going wherever the clouds took them."
+          "text": "They soon managed to hitch a ride with a small horse carriage heading to the village to purchase wheat."
         },
         {
           "id": 85,
           "paragraph_id": 20,
-          "text": "The sun in the blue sky made the temperature just right as if gods gentle eyes were looking after all species."
+          "text": "The village sold wheat and apples."
         },
         {
           "id": 86,
           "paragraph_id": 20,
-          "text": "Nature was gods creation; consequently, the curved path of youth the two girls ran on mustve been gods ultimate song."
+          "text": "The carriage looked as though it had come and gone from the village several times."
         },
         {
           "id": 87,
-          "paragraph_id": 21,
-          "text": "The two were very lucky."
+          "paragraph_id": 20,
+          "text": "The inside of the carriage was filled with the aroma of wheat and sweetness of apples."
         },
         {
           "id": 88,
-          "paragraph_id": 21,
-          "text": "They soon managed to hitch a ride with a small horse carriage heading to the village to purchase wheat."
+          "paragraph_id": 20,
+          "text": "The refreshing and welcome breeze it picked up calmed Elizabeth."
         },
         {
           "id": 89,
-          "paragraph_id": 21,
-          "text": "The village sold wheat and apples."
+          "paragraph_id": 20,
+          "text": "She sat on the goods cabin and looked ahead with a blissful smile."
         },
         {
           "id": 90,
-          "paragraph_id": 21,
-          "text": "The carriage looked as though it had come and gone from the village several times."
+          "paragraph_id": 20,
+          "text": "Vyvyan fell asleep until Elizabeth woke her up once they got to the village."
         },
         {
           "id": 91,
           "paragraph_id": 21,
-          "text": "The inside of the carriage was filled with the aroma of wheat and sweetness of apples."
+          "text": "Wow!"
         },
         {
           "id": 92,
           "paragraph_id": 21,
-          "text": "The refreshing and welcome breeze it picked up calmed Elizabeth."
+          "text": "This is humanitys city?!"
         },
         {
           "id": 93,
-          "paragraph_id": 21,
-          "text": "She sat on the goods cabin and looked ahead with a blissful smile."
+          "paragraph_id": 22,
+          "text": "After hoping off the carriage and reaching the street, Vyvyan was shocked by the sight her eyes beheld."
         },
         {
           "id": 94,
-          "paragraph_id": 21,
-          "text": "Vyvyan fell asleep until Elizabeth woke her up once they got to the village."
+          "paragraph_id": 22,
+          "text": "She had never seen so many people before."
         },
         {
           "id": 95,
           "paragraph_id": 22,
-          "text": "Wow!"
+          "text": "The elven Imperial City was considered the most populated place in the elven lands, but this single street in a small village, where people were coming and going, considerably more crowded than the elven Imperial City."
         },
         {
           "id": 96,
-          "paragraph_id": 22,
-          "text": "This is humanitys city?!"
+          "paragraph_id": 23,
+          "text": "It was a very novel and shocking discovery to Vyvyan."
         },
         {
           "id": 97,
           "paragraph_id": 23,
-          "text": "After hoping off the carriage and reaching the street, Vyvyan was shocked by the sight her eyes beheld."
+          "text": "Elizabeth proudly smiled: This is just a small village."
         },
         {
           "id": 98,
           "paragraph_id": 23,
-          "text": "She had never seen so many people before."
+          "text": "The Imperial Capital where I live is prospering a lot more in comparison."
         },
         {
           "id": 99,
           "paragraph_id": 23,
-          "text": "The elven Imperial City was considered the most populated place in the elven lands, but this single street in a small village, where people were coming and going, considerably more crowded than the elven Imperial City."
+          "text": "The city is surrounded by big plains, and we grow the entire nations wheat crops there, so we can feed lots and lots of people."
         },
         {
           "id": 100,
           "paragraph_id": 24,
-          "text": "It was a very novel and shocking discovery to Vyvyan."
+          "text": "How nice."
         },
         {
           "id": 101,
-          "paragraph_id": 24,
-          "text": "Elizabeth proudly smiled: This is just a small village."
+          "paragraph_id": 25,
+          "text": "Vyvyan enviously surveyed the crowds."
         },
         {
           "id": 102,
-          "paragraph_id": 24,
-          "text": "The Imperial Capital where I live is prospering a lot more in comparison."
+          "paragraph_id": 25,
+          "text": "There were very few places in the forest where elves could plant crops, so they didnt have many foods to choose from."
         },
         {
           "id": 103,
-          "paragraph_id": 24,
-          "text": "The city is surrounded by big plains, and we grow the entire nations wheat crops there, so we can feed lots and lots of people."
+          "paragraph_id": 25,
+          "text": "That, therefore, limited their population."
         },
         {
           "id": 104,
           "paragraph_id": 25,
-          "text": "(Author note: The Royal Capital, Hilles City, wasnt yet referred to as such when Elizabeth ran away."
+          "text": "Vyvyan asked, Elizabeth, isnt it very squishy in your Imperial City?"
         },
         {
           "id": 105,
-          "paragraph_id": 25,
-          "text": "It was just called the Rosvenor Imperial Nations Imperial City and it wasnt on the scale of Elizabeths empire at its peak.)"
+          "paragraph_id": 26,
+          "text": "Elizabeth chuckled; then, grabbed a tight hold of Vyvyans hand: Its all right."
         },
         {
           "id": 106,
           "paragraph_id": 26,
-          "text": "How nice."
+          "text": "Though it sometimes is, were accustomed to it."
         },
         {
           "id": 107,
-          "paragraph_id": 27,
-          "text": "Vyvyan enviously surveyed the crowds."
+          "paragraph_id": 26,
+          "text": "Lets hold hands."
         },
         {
           "id": 108,
-          "paragraph_id": 27,
-          "text": "There were very few places in the forest where elves could plant crops, so they didnt have many foods to choose from."
+          "paragraph_id": 26,
+          "text": "Dont get lost here, or itll be very hard to find each other."
         },
         {
           "id": 109,
-          "paragraph_id": 27,
-          "text": "That, therefore, limited their population."
+          "paragraph_id": 26,
+          "text": "Moreover, its very dangerous for you here in human lands."
         },
         {
           "id": 110,
           "paragraph_id": 27,
-          "text": "Vyvyan asked, Elizabeth, isnt it very squishy in your Imperial City?"
+          "text": "Mm, I know!"
         },
         {
           "id": 111,
           "paragraph_id": 28,
-          "text": "Elizabeth chuckled; then, grabbed a tight hold of Vyvyans hand: Its all right."
+          "text": "Vyvyan and Elizabeth interlocked their fingers."
         },
         {
           "id": 112,
           "paragraph_id": 28,
-          "text": "Though it sometimes is, were accustomed to it."
-        },
-        {
-          "id": 113,
-          "paragraph_id": 28,
-          "text": "Lets hold hands."
-        },
-        {
-          "id": 114,
-          "paragraph_id": 28,
-          "text": "Dont get lost here, or itll be very hard to find each other."
-        },
-        {
-          "id": 115,
-          "paragraph_id": 28,
-          "text": "Moreover, its very dangerous for you here in human lands."
-        },
-        {
-          "id": 116,
-          "paragraph_id": 29,
-          "text": "Mm, I know!"
-        },
-        {
-          "id": 117,
-          "paragraph_id": 30,
-          "text": "Vyvyan and Elizabeth interlocked their fingers."
-        },
-        {
-          "id": 118,
-          "paragraph_id": 30,
           "text": "The two gave each other a smile, and then began to walk along the street wearing smiles."
         }
       ],
-      "word_count": 1341
+      "word_count": 1235
     },
     {
       "chapter_index": 648,

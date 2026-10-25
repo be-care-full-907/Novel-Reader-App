@@ -59748,10 +59748,8 @@
         "First, I will meet with Rembrandt-san and rethink.",
         "Okay.",
         "The Rembrandt couple have found us and hastened their pace. Seeing that, I try to hold down my impatient feelings.",
-        "Author Note:",
         "Makoto’s thoughts are jumbled up.",
         "It may be hard to read, but please do pardon me for that.",
-        "Translator Note:",
         "Hell yeah it was hard!",
         "You guys may not know, but I usually add things in order for things to connect properly. So yeah, translated may be easy to follow, but it wasn’t in Japanese :`(",
         "And yeah, I know everyone wanted blood, and I was expecting it too. But this actual consideration chapter really struck me. It reminded me of how many crazy Mcs with genocidal tendencies I have read..."
@@ -61430,55 +61428,45 @@
         {
           "id": 334,
           "paragraph_id": 231,
-          "text": "Author Note:"
+          "text": "Makoto’s thoughts are jumbled up."
         },
         {
           "id": 335,
           "paragraph_id": 232,
-          "text": "Makoto’s thoughts are jumbled up."
+          "text": "It may be hard to read, but please do pardon me for that."
         },
         {
           "id": 336,
           "paragraph_id": 233,
-          "text": "It may be hard to read, but please do pardon me for that."
+          "text": "Hell yeah it was hard!"
         },
         {
           "id": 337,
           "paragraph_id": 234,
-          "text": "Translator Note:"
-        },
-        {
-          "id": 338,
-          "paragraph_id": 235,
-          "text": "Hell yeah it was hard!"
-        },
-        {
-          "id": 339,
-          "paragraph_id": 236,
           "text": "You guys may not know, but I usually add things in order for things to connect properly."
         },
         {
-          "id": 340,
-          "paragraph_id": 236,
+          "id": 338,
+          "paragraph_id": 234,
           "text": "So yeah, translated may be easy to follow, but it wasn’t in Japanese :`("
         },
         {
-          "id": 341,
-          "paragraph_id": 237,
+          "id": 339,
+          "paragraph_id": 235,
           "text": "And yeah, I know everyone wanted blood, and I was expecting it too."
         },
         {
-          "id": 342,
-          "paragraph_id": 237,
+          "id": 340,
+          "paragraph_id": 235,
           "text": "But this actual consideration chapter really struck me."
         },
         {
-          "id": 343,
-          "paragraph_id": 237,
+          "id": 341,
+          "paragraph_id": 235,
           "text": "It reminded me of how many crazy Mcs with genocidal tendencies I have read..."
         }
       ],
-      "word_count": 4269
+      "word_count": 4265
     },
     {
       "chapter_index": 136,
@@ -82348,7 +82336,6 @@
       "title": "Chapter 145: Lime and Mondo",
       "url": "https://novelping.com/book/tsuki-ga-michibiku-isekai-douchuu/chapter-151",
       "paragraphs": [
-        "Translator Note:",
         "Hello guys. As you can see, I did get the job. I know you guys are worried about the speed of the translation and everything. Don’t go all nuts about looking for another one to translate. If there’s really someone there that wants to do it, at least contact me.",
         "Now, let me tell you why this one took so long. Right now I’m in a learning period. Getting the hang of new functions and how to do everything. So well, I have a lot to take in and by the time I return home (which is REALLY late), I am already totally drained.",
         "When I learn the ropes, I might be able to squeeze out chapters faster. But right now, that isn’t the case.",
@@ -82487,1355 +82474,1350 @@
         {
           "id": 0,
           "paragraph_id": 0,
-          "text": "Translator Note:"
-        },
-        {
-          "id": 1,
-          "paragraph_id": 1,
           "text": "Hello guys."
         },
         {
-          "id": 2,
-          "paragraph_id": 1,
+          "id": 1,
+          "paragraph_id": 0,
           "text": "As you can see, I did get the job."
         },
         {
-          "id": 3,
-          "paragraph_id": 1,
+          "id": 2,
+          "paragraph_id": 0,
           "text": "I know you guys are worried about the speed of the translation and everything."
         },
         {
-          "id": 4,
-          "paragraph_id": 1,
+          "id": 3,
+          "paragraph_id": 0,
           "text": "Don’t go all nuts about looking for another one to translate."
+        },
+        {
+          "id": 4,
+          "paragraph_id": 0,
+          "text": "If there’s really someone there that wants to do it, at least contact me."
         },
         {
           "id": 5,
           "paragraph_id": 1,
-          "text": "If there’s really someone there that wants to do it, at least contact me."
-        },
-        {
-          "id": 6,
-          "paragraph_id": 2,
           "text": "Now, let me tell you why this one took so long."
         },
         {
-          "id": 7,
-          "paragraph_id": 2,
+          "id": 6,
+          "paragraph_id": 1,
           "text": "Right now I’m in a learning period."
         },
         {
-          "id": 8,
-          "paragraph_id": 2,
+          "id": 7,
+          "paragraph_id": 1,
           "text": "Getting the hang of new functions and how to do everything."
+        },
+        {
+          "id": 8,
+          "paragraph_id": 1,
+          "text": "So well, I have a lot to take in and by the time I return home (which is REALLY late), I am already totally drained."
         },
         {
           "id": 9,
           "paragraph_id": 2,
-          "text": "So well, I have a lot to take in and by the time I return home (which is REALLY late), I am already totally drained."
+          "text": "When I learn the ropes, I might be able to squeeze out chapters faster."
         },
         {
           "id": 10,
-          "paragraph_id": 3,
-          "text": "When I learn the ropes, I might be able to squeeze out chapters faster."
+          "paragraph_id": 2,
+          "text": "But right now, that isn’t the case."
         },
         {
           "id": 11,
           "paragraph_id": 3,
-          "text": "But right now, that isn’t the case."
-        },
-        {
-          "id": 12,
-          "paragraph_id": 4,
           "text": "(Okay, we safely finished one lap of patrolling."
         },
         {
-          "id": 13,
-          "paragraph_id": 4,
+          "id": 12,
+          "paragraph_id": 3,
           "text": "There might still be one hidden somewhere, but it seems the Merchant Guild will be taking the investigation regarding that."
+        },
+        {
+          "id": 13,
+          "paragraph_id": 3,
+          "text": "Our master Raidou should be able to continue his operation, but is there any new order from your side?)"
         },
         {
           "id": 14,
           "paragraph_id": 4,
-          "text": "Our master Raidou should be able to continue his operation, but is there any new order from your side?)"
-        },
-        {
-          "id": 15,
-          "paragraph_id": 5,
           "text": "(P-Please wait for a moment..."
         },
         {
-          "id": 16,
-          "paragraph_id": 5,
+          "id": 15,
+          "paragraph_id": 4,
           "text": "Sorry for the wait."
         },
         {
-          "id": 17,
-          "paragraph_id": 5,
+          "id": 16,
+          "paragraph_id": 4,
           "text": "Then, continue by going to the northwest section and enter suppression."
         },
         {
-          "id": 18,
-          "paragraph_id": 5,
+          "id": 17,
+          "paragraph_id": 4,
           "text": "Please begin the investigation of the reason for the thought transmission jamming."
+        },
+        {
+          "id": 18,
+          "paragraph_id": 4,
+          "text": "By the time the sun goes down, return to base and report the situation and the results of your investigation)"
         },
         {
           "id": 19,
           "paragraph_id": 5,
-          "text": "By the time the sun goes down, return to base and report the situation and the results of your investigation)"
+          "text": "(Received clearly."
         },
         {
           "id": 20,
-          "paragraph_id": 6,
-          "text": "(Received clearly."
+          "paragraph_id": 5,
+          "text": "Well then)"
         },
         {
           "id": 21,
           "paragraph_id": 6,
-          "text": "Well then)"
+          "text": "(Yeah, the need for a regular report is unnecessary since the job doesn’t require it."
         },
         {
           "id": 22,
-          "paragraph_id": 7,
-          "text": "(Yeah, the need for a regular report is unnecessary since the job doesn’t require it."
+          "paragraph_id": 6,
+          "text": "Wish you well)"
         },
         {
           "id": 23,
           "paragraph_id": 7,
-          "text": "Wish you well)"
+          "text": "The thought transmission finishes."
         },
         {
           "id": 24,
           "paragraph_id": 8,
-          "text": "The thought transmission finishes."
+          "text": "I can’t talk, so I let Shiki handle the report of the situation and the instructions for the next action."
         },
         {
           "id": 25,
           "paragraph_id": 9,
-          "text": "I can’t talk, so I let Shiki handle the report of the situation and the instructions for the next action."
+          "text": "I also tapped into the conversation, so I know the contents of it."
         },
         {
           "id": 26,
-          "paragraph_id": 10,
-          "text": "I also tapped into the conversation, so I know the contents of it."
+          "paragraph_id": 9,
+          "text": "No need for Shiki to explain me."
         },
         {
           "id": 27,
           "paragraph_id": 10,
-          "text": "No need for Shiki to explain me."
-        },
-        {
-          "id": 28,
-          "paragraph_id": 11,
           "text": "“Next place is northwest huh."
         },
         {
-          "id": 29,
-          "paragraph_id": 11,
+          "id": 28,
+          "paragraph_id": 10,
           "text": "We just have to walk straight to the west."
+        },
+        {
+          "id": 29,
+          "paragraph_id": 10,
+          "text": "It is one of the few places where merchants sell products targeted to residents with low income and social status, right?” (Makoto)"
         },
         {
           "id": 30,
           "paragraph_id": 11,
-          "text": "It is one of the few places where merchants sell products targeted to residents with low income and social status, right?” (Makoto)"
-        },
-        {
-          "id": 31,
-          "paragraph_id": 12,
           "text": "“Yeah."
         },
         {
-          "id": 32,
-          "paragraph_id": 12,
+          "id": 31,
+          "paragraph_id": 11,
           "text": "The Academy most likely wants to liberate the establishments related to the Academy itself and the places where rich people are gathered in."
         },
         {
-          "id": 33,
-          "paragraph_id": 12,
+          "id": 32,
+          "paragraph_id": 11,
           "text": "They probably want to get as much support from the rich as possible."
         },
         {
-          "id": 34,
-          "paragraph_id": 12,
+          "id": 33,
+          "paragraph_id": 11,
           "text": "In the current state, it is assured that the Academy Principal’s standing is plummeting."
         },
         {
-          "id": 35,
-          "paragraph_id": 12,
+          "id": 34,
+          "paragraph_id": 11,
           "text": "Looking at his impatient state, I even thought that instead of having one of the people aiming at the Principal’s seat, it would be fine to have Waka-sama take over."
         },
         {
-          "id": 36,
-          "paragraph_id": 12,
+          "id": 35,
+          "paragraph_id": 11,
           "text": "He looks only at numbers, and using the treasured corps he created, they easily got partially destroyed; making him fall into a completely shaken state."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 11,
+          "text": "Even in the clique strifes that seem to be his specialty, he was unable to control it concurrently, so it is easy to see his limits” (Shiki)"
         },
         {
           "id": 37,
           "paragraph_id": 12,
-          "text": "Even in the clique strifes that seem to be his specialty, he was unable to control it concurrently, so it is easy to see his limits” (Shiki)"
+          "text": "“He doesn’t want to give us any big job huh” (Makoto)"
         },
         {
           "id": 38,
           "paragraph_id": 13,
-          "text": "“He doesn’t want to give us any big job huh” (Makoto)"
+          "text": "“When we finish the northwest, the next thing he will probably make us do is a joint operation with the purple coats” (Shiki)"
         },
         {
           "id": 39,
           "paragraph_id": 14,
-          "text": "“When we finish the northwest, the next thing he will probably make us do is a joint operation with the purple coats” (Shiki)"
-        },
-        {
-          "id": 40,
-          "paragraph_id": 15,
           "text": "“Even when I am temporary, I am still a teacher of the Academy, so he will use me as if he owns me."
         },
         {
-          "id": 41,
-          "paragraph_id": 15,
+          "id": 40,
+          "paragraph_id": 14,
           "text": "I will bring out the name of the Kuzunoha Company every now and then, but I don’t have any intentions of badmouthing the Academy."
         },
         {
-          "id": 42,
-          "paragraph_id": 15,
+          "id": 41,
+          "paragraph_id": 14,
           "text": "In reality, the achievement of pinpointing the variant’s reason of appearing will most likely be taken by the Academy Principal."
+        },
+        {
+          "id": 42,
+          "paragraph_id": 14,
+          "text": "Looking at how things are going” (Makoto)"
         },
         {
           "id": 43,
           "paragraph_id": 15,
-          "text": "Looking at how things are going” (Makoto)"
-        },
-        {
-          "id": 44,
-          "paragraph_id": 16,
           "text": "“Yeah, since the demerits of having us as the ones pinpointing it would be big after all."
         },
         {
-          "id": 45,
-          "paragraph_id": 16,
+          "id": 44,
+          "paragraph_id": 15,
           "text": "If he were able to break the deadlock with his own abilities it would be one thing, but that’s clearly the wrong way of doing things."
         },
         {
-          "id": 46,
-          "paragraph_id": 16,
+          "id": 45,
+          "paragraph_id": 15,
           "text": "It would be fine if he would just have a random guest of any power to see that he is asking the assistance of Waka-sama."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 15,
+          "text": "I have heard from Tomoe-dono, it seems you were shouted at” (Shiki)"
         },
         {
           "id": 47,
           "paragraph_id": 16,
-          "text": "I have heard from Tomoe-dono, it seems you were shouted at” (Shiki)"
+          "text": "Shiki and I were smiling bitterly at the orders of the Academy Principal."
         },
         {
           "id": 48,
           "paragraph_id": 17,
-          "text": "Shiki and I were smiling bitterly at the orders of the Academy Principal."
+          "text": "We are bringing out the name of the company occasionally, but in every place we go, I properly tell them that I am a teacher of the Academy, and I also announce that I am there under the orders of the Academy Principal."
         },
         {
           "id": 49,
           "paragraph_id": 18,
-          "text": "We are bringing out the name of the company occasionally, but in every place we go, I properly tell them that I am a teacher of the Academy, and I also announce that I am there under the orders of the Academy Principal."
+          "text": "I don’t think the name of the Academy will fall just because we are the ones acting."
         },
         {
           "id": 50,
           "paragraph_id": 19,
-          "text": "I don’t think the name of the Academy will fall just because we are the ones acting."
+          "text": "Because I only want them to have a good impression of the Kuzunoha Company, and I don’t intent to badmouth other places while I’m at it."
         },
         {
           "id": 51,
           "paragraph_id": 20,
-          "text": "Because I only want them to have a good impression of the Kuzunoha Company, and I don’t intent to badmouth other places while I’m at it."
+          "text": "The most I am doing is making it so that the other big companies don’t stand out."
         },
         {
           "id": 52,
           "paragraph_id": 21,
-          "text": "The most I am doing is making it so that the other big companies don’t stand out."
+          "text": "We are aware that our actions exemplify the Academy’s existence and we also accept it."
         },
         {
           "id": 53,
           "paragraph_id": 22,
-          "text": "We are aware that our actions exemplify the Academy’s existence and we also accept it."
+          "text": "“Waka, we have finished collecting the ornaments that are thought to be the key” (Tomoe)"
         },
         {
           "id": 54,
           "paragraph_id": 23,
-          "text": "“Waka, we have finished collecting the ornaments that are thought to be the key” (Tomoe)"
+          "text": "“Good work, Tomoe."
         },
         {
           "id": 55,
-          "paragraph_id": 24,
-          "text": "“Good work, Tomoe."
+          "paragraph_id": 23,
+          "text": "Was there any problem on your side?”(Makoto)"
         },
         {
           "id": 56,
           "paragraph_id": 24,
-          "text": "Was there any problem on your side?”(Makoto)"
-        },
-        {
-          "id": 57,
-          "paragraph_id": 25,
           "text": "“..."
         },
         {
-          "id": 58,
-          "paragraph_id": 25,
+          "id": 57,
+          "paragraph_id": 24,
           "text": "No, nothing."
+        },
+        {
+          "id": 58,
+          "paragraph_id": 24,
+          "text": "I did act slightly to make sure the companies don’t do any unnecessary things, but it was all finished in a good note” (Tomoe)"
         },
         {
           "id": 59,
           "paragraph_id": 25,
-          "text": "I did act slightly to make sure the companies don’t do any unnecessary things, but it was all finished in a good note” (Tomoe)"
+          "text": "“Act slightly?” (Makoto)"
         },
         {
           "id": 60,
           "paragraph_id": 26,
-          "text": "“Act slightly?” (Makoto)"
+          "text": "“I gave water, food and blankets to the Merchant Guild representative, the one called Zara."
         },
         {
           "id": 61,
-          "paragraph_id": 27,
-          "text": "“I gave water, food and blankets to the Merchant Guild representative, the one called Zara."
+          "paragraph_id": 26,
+          "text": "I told him to use them well” (Tomoe)"
         },
         {
           "id": 62,
           "paragraph_id": 27,
-          "text": "I told him to use them well” (Tomoe)"
+          "text": "“Will that serve as a diversion of some sort?"
         },
         {
           "id": 63,
-          "paragraph_id": 28,
-          "text": "“Will that serve as a diversion of some sort?"
+          "paragraph_id": 27,
+          "text": "Or more like, that food, did it come from Asora?” (Makoto)"
         },
         {
           "id": 64,
           "paragraph_id": 28,
-          "text": "Or more like, that food, did it come from Asora?” (Makoto)"
-        },
-        {
-          "id": 65,
-          "paragraph_id": 29,
           "text": "“Instead of having a company from who-knows-where, it would be better for the Merchant Guild to bring those articles out using their own name, since that will cause less troubles."
         },
         {
-          "id": 66,
-          "paragraph_id": 29,
+          "id": 65,
+          "paragraph_id": 28,
           "text": "It will be beneficial for them as well and I “requested” him to mention our name a bit."
         },
         {
-          "id": 67,
-          "paragraph_id": 29,
+          "id": 66,
+          "paragraph_id": 28,
           "text": "The food, water, and blankets, were all things that I randomly bought from slightly faraway towns in the few days I travelled."
         },
         {
-          "id": 68,
-          "paragraph_id": 29,
+          "id": 67,
+          "paragraph_id": 28,
           "text": "Even if we have a lot of food, I won’t be giving out the food of Asora."
         },
         {
-          "id": 69,
-          "paragraph_id": 29,
+          "id": 68,
+          "paragraph_id": 28,
           "text": "I did mix some fruits though."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 28,
+          "text": "The fruits are proof enough that we are the ones providing things” (Tomoe)"
         },
         {
           "id": 70,
           "paragraph_id": 29,
-          "text": "The fruits are proof enough that we are the ones providing things” (Tomoe)"
+          "text": "“You even bought things."
         },
         {
           "id": 71,
-          "paragraph_id": 30,
-          "text": "“You even bought things."
+          "paragraph_id": 29,
+          "text": "Sorry” (Makoto)"
         },
         {
           "id": 72,
           "paragraph_id": 30,
-          "text": "Sorry” (Makoto)"
-        },
-        {
-          "id": 73,
-          "paragraph_id": 31,
           "text": "“Don’t worry."
         },
         {
-          "id": 74,
-          "paragraph_id": 31,
+          "id": 73,
+          "paragraph_id": 30,
           "text": "I just had the scattered Forest Onis buy those."
         },
         {
-          "id": 75,
-          "paragraph_id": 31,
+          "id": 74,
+          "paragraph_id": 30,
           "text": "It would be troublesome if this were detected as the self-advertisement of a company after all."
+        },
+        {
+          "id": 75,
+          "paragraph_id": 30,
+          "text": "This is to make it so that our company is the one that stands out the most” (Tomoe)"
         },
         {
           "id": 76,
           "paragraph_id": 31,
-          "text": "This is to make it so that our company is the one that stands out the most” (Tomoe)"
+          "text": "“Tell me how much it cost later okay?"
         },
         {
           "id": 77,
-          "paragraph_id": 32,
-          "text": "“Tell me how much it cost later okay?"
+          "paragraph_id": 31,
+          "text": "But, I am surprised that that representative accepted that kind of condition” (Makoto)"
         },
         {
           "id": 78,
           "paragraph_id": 32,
-          "text": "But, I am surprised that that representative accepted that kind of condition” (Makoto)"
-        },
-        {
-          "id": 79,
-          "paragraph_id": 33,
           "text": "“‘Don’t inquire, bring out the name of a company’ Just with that, he was able to obtain great quantities of food, water, and covers they were lacking for their beddings."
         },
         {
-          "id": 80,
-          "paragraph_id": 33,
+          "id": 79,
+          "paragraph_id": 32,
           "text": "Even if the person is not a merchant, the decision would be clear."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 32,
+          "text": "He may be the Merchant Guild representative, but he is no doubt a hyuman” (Tomoe)"
         },
         {
           "id": 81,
           "paragraph_id": 33,
-          "text": "He may be the Merchant Guild representative, but he is no doubt a hyuman” (Tomoe)"
+          "text": "With her characteristic smile, Tomoe laughed with a ‘Fufu’."
         },
         {
           "id": 82,
           "paragraph_id": 34,
-          "text": "With her characteristic smile, Tomoe laughed with a ‘Fufu’."
+          "text": "I wonder if it’s really such a simple thing."
         },
         {
           "id": 83,
           "paragraph_id": 35,
-          "text": "I wonder if it’s really such a simple thing."
+          "text": "Representative Zara gave me the impression that he is the type that will put a condition of his own in any proposal that he is given."
         },
         {
           "id": 84,
           "paragraph_id": 36,
-          "text": "Representative Zara gave me the impression that he is the type that will put a condition of his own in any proposal that he is given."
+          "text": "No matter how weakened he is."
         },
         {
           "id": 85,
-          "paragraph_id": 37,
-          "text": "No matter how weakened he is."
+          "paragraph_id": 36,
+          "text": "No, maybe Rembrandt-san helped out."
         },
         {
           "id": 86,
           "paragraph_id": 37,
-          "text": "No, maybe Rembrandt-san helped out."
+          "text": "In that case, maybe after receiving the words of his old friend, he accepted the conditions of Tomoe."
         },
         {
           "id": 87,
           "paragraph_id": 38,
-          "text": "In that case, maybe after receiving the words of his old friend, he accepted the conditions of Tomoe."
+          "text": "“..."
         },
         {
           "id": 88,
-          "paragraph_id": 39,
-          "text": "“..."
+          "paragraph_id": 38,
+          "text": "Waka, it wasn’t such a complicated thing you know?” (Tomoe)"
         },
         {
           "id": 89,
           "paragraph_id": 39,
-          "text": "Waka, it wasn’t such a complicated thing you know?” (Tomoe)"
+          "text": "“..."
         },
         {
           "id": 90,
-          "paragraph_id": 40,
-          "text": "“..."
+          "paragraph_id": 39,
+          "text": "You, are you an esper?” (Makoto)"
         },
         {
           "id": 91,
           "paragraph_id": 40,
-          "text": "You, are you an esper?” (Makoto)"
-        },
-        {
-          "id": 92,
-          "paragraph_id": 41,
           "text": "“Your expression was showing several words."
         },
         {
-          "id": 93,
-          "paragraph_id": 41,
+          "id": 92,
+          "paragraph_id": 40,
           "text": "Fufu, at his back there are people he has to shelter no matter what, and without enough food, and in this situation where it is not clear when it will be resolved; even if the situation has improved, if we were to offer to pull him, what would happen?"
         },
         {
-          "id": 94,
-          "paragraph_id": 41,
+          "id": 93,
+          "paragraph_id": 40,
           "text": "Unable to use thought transmission, he can’t even decide things properly."
         },
         {
-          "id": 95,
-          "paragraph_id": 41,
+          "id": 94,
+          "paragraph_id": 40,
           "text": "Now then, in front of him there’s starving people, big amounts of food, and blankets for the people that are only wearing the same clothes they happened to be wearing since the events began."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 40,
+          "text": "No matter if we give it, or we don’t, the ‘negotiation’ is just an easy deal” (Tomoe)"
         },
         {
           "id": 96,
           "paragraph_id": 41,
-          "text": "No matter if we give it, or we don’t, the ‘negotiation’ is just an easy deal” (Tomoe)"
-        },
-        {
-          "id": 97,
-          "paragraph_id": 42,
           "text": "“I see."
         },
         {
-          "id": 98,
-          "paragraph_id": 42,
+          "id": 97,
+          "paragraph_id": 41,
           "text": "Is that how it is."
         },
         {
-          "id": 99,
-          "paragraph_id": 42,
+          "id": 98,
+          "paragraph_id": 41,
           "text": "Wait, you, did you just say the food in front of him?"
+        },
+        {
+          "id": 99,
+          "paragraph_id": 41,
+          "text": "Don’t tell me, you used teleportation in front of representative Zara?!” (Makoto)"
         },
         {
           "id": 100,
           "paragraph_id": 42,
-          "text": "Don’t tell me, you used teleportation in front of representative Zara?!” (Makoto)"
+          "text": "Isn’t that bad?"
         },
         {
           "id": 101,
           "paragraph_id": 43,
-          "text": "Isn’t that bad?"
+          "text": "Because you know, we already said random things like usage limits and burdens."
         },
         {
           "id": 102,
           "paragraph_id": 44,
-          "text": "Because you know, we already said random things like usage limits and burdens."
+          "text": "“In the first place, you already told him that we use teleportation right?” (Tomoe)"
         },
         {
           "id": 103,
           "paragraph_id": 45,
-          "text": "“In the first place, you already told him that we use teleportation right?” (Tomoe)"
+          "text": "“But that was before we created a lot of settings for it, you know?!” (Makoto)"
         },
         {
           "id": 104,
           "paragraph_id": 46,
-          "text": "“But that was before we created a lot of settings for it, you know?!” (Makoto)"
-        },
-        {
-          "id": 105,
-          "paragraph_id": 47,
           "text": "“No problem."
         },
         {
-          "id": 106,
-          "paragraph_id": 47,
+          "id": 105,
+          "paragraph_id": 46,
           "text": "Because those things are provided by the Kuzunoha Company and given by the Merchant Guild."
         },
         {
-          "id": 107,
-          "paragraph_id": 47,
+          "id": 106,
+          "paragraph_id": 46,
           "text": "We asked him and he had no choice but to cooperate for the sake of the residents."
         },
         {
-          "id": 108,
-          "paragraph_id": 47,
+          "id": 107,
+          "paragraph_id": 46,
           "text": "Even if he wails about the origins of the objects that were teleported, the Merchant Guild will still take part in it."
         },
         {
-          "id": 109,
-          "paragraph_id": 47,
+          "id": 108,
+          "paragraph_id": 46,
           "text": "The ones that were piling up the food in this place were the Lizardmen."
         },
         {
-          "id": 110,
-          "paragraph_id": 47,
+          "id": 109,
+          "paragraph_id": 46,
           "text": "He knows the Mist Lizards are still here, so the representative-dono heartily accepted to cooperate."
         },
         {
-          "id": 111,
-          "paragraph_id": 47,
+          "id": 110,
+          "paragraph_id": 46,
           "text": "In the end it was only a verbal promise, but if he is able to shake his head and go against us in the future..."
+        },
+        {
+          "id": 111,
+          "paragraph_id": 46,
+          "text": "I can only say that he would have quite the guts” (Tomoe)"
         },
         {
           "id": 112,
           "paragraph_id": 47,
-          "text": "I can only say that he would have quite the guts” (Tomoe)"
+          "text": "“B-But you know...” (Makoto)"
         },
         {
           "id": 113,
           "paragraph_id": 48,
-          "text": "“B-But you know...” (Makoto)"
+          "text": "I can’t help but feel if it’s really okay to do something so reckless."
         },
         {
           "id": 114,
           "paragraph_id": 49,
-          "text": "I can’t help but feel if it’s really okay to do something so reckless."
+          "text": "“Also, Waka, hiding secrets is truly a hard thing to do for the people that hold the secret and for the people that have to hide it” (Tomoe)"
         },
         {
           "id": 115,
           "paragraph_id": 50,
-          "text": "“Also, Waka, hiding secrets is truly a hard thing to do for the people that hold the secret and for the people that have to hide it” (Tomoe)"
+          "text": "“Y-Yeah...” (Makoto)"
         },
         {
           "id": 116,
           "paragraph_id": 51,
-          "text": "“Y-Yeah...” (Makoto)"
+          "text": "Isn’t it obvious for the people that hold secrets to hide them?"
         },
         {
           "id": 117,
           "paragraph_id": 52,
-          "text": "Isn’t it obvious for the people that hold secrets to hide them?"
+          "text": "“Actually, it is a lot easier to have someone hide it for you” (Tomoe)"
         },
         {
           "id": 118,
           "paragraph_id": 53,
-          "text": "“Actually, it is a lot easier to have someone hide it for you” (Tomoe)"
+          "text": "“...”"
         },
         {
           "id": 119,
           "paragraph_id": 54,
-          "text": "“...”"
+          "text": "I don’t understand."
         },
         {
           "id": 120,
           "paragraph_id": 55,
-          "text": "I don’t understand."
+          "text": "“Root probably does something similar when playing diplomacy."
         },
         {
           "id": 121,
-          "paragraph_id": 56,
-          "text": "“Root probably does something similar when playing diplomacy."
+          "paragraph_id": 55,
+          "text": "But what’s essential is to make the other person believe that he can’t let others know of that secret” (Tomoe)"
         },
         {
           "id": 122,
           "paragraph_id": 56,
-          "text": "But what’s essential is to make the other person believe that he can’t let others know of that secret” (Tomoe)"
+          "text": "“..."
         },
         {
           "id": 123,
-          "paragraph_id": 57,
-          "text": "“..."
+          "paragraph_id": 56,
+          "text": "And?” (Makoto)"
         },
         {
           "id": 124,
           "paragraph_id": 57,
-          "text": "And?” (Makoto)"
+          "text": "“Saying it in an extreme way, have someone with a certain position know something other people don’t know, but if he acts in a way so that other people don’t learn about it, it is the same as if no one knows” (Tomoe)"
         },
         {
           "id": 125,
           "paragraph_id": 58,
-          "text": "“Saying it in an extreme way, have someone with a certain position know something other people don’t know, but if he acts in a way so that other people don’t learn about it, it is the same as if no one knows” (Tomoe)"
+          "text": "Hmm, even if you tell me that knowing is the same as not knowing, I just can’t grasp it."
         },
         {
           "id": 126,
           "paragraph_id": 59,
-          "text": "Hmm, even if you tell me that knowing is the same as not knowing, I just can’t grasp it."
+          "text": "“Are you saying that, instead of us hiding it, it would be better to make it a public secret?” (Makoto)"
         },
         {
           "id": 127,
           "paragraph_id": 60,
-          "text": "“Are you saying that, instead of us hiding it, it would be better to make it a public secret?” (Makoto)"
+          "text": "“It is slightly different, but in a broader sense, that’s how it is."
         },
         {
           "id": 128,
-          "paragraph_id": 61,
-          "text": "“It is slightly different, but in a broader sense, that’s how it is."
+          "paragraph_id": 60,
+          "text": "Root made some good groundwork for our teleportation and he would make the continuation” (Tomoe)"
         },
         {
           "id": 129,
           "paragraph_id": 61,
-          "text": "Root made some good groundwork for our teleportation and he would make the continuation” (Tomoe)"
+          "text": "Then aren’t I right?"
         },
         {
           "id": 130,
           "paragraph_id": 62,
-          "text": "Then aren’t I right?"
+          "text": "I will do my best in understanding a percent of the story they might come up with."
         },
         {
           "id": 131,
           "paragraph_id": 63,
-          "text": "I will do my best in understanding a percent of the story they might come up with."
-        },
-        {
-          "id": 132,
-          "paragraph_id": 64,
           "text": "“..."
         },
         {
-          "id": 133,
-          "paragraph_id": 64,
+          "id": 132,
+          "paragraph_id": 63,
           "text": "Understood."
         },
         {
-          "id": 134,
-          "paragraph_id": 64,
+          "id": 133,
+          "paragraph_id": 63,
           "text": "Then, for now let’s continue the subjugation."
+        },
+        {
+          "id": 134,
+          "paragraph_id": 63,
+          "text": "If I remember correctly, at that side there’s Lime and Mondo, right?” (Makoto)"
         },
         {
           "id": 135,
           "paragraph_id": 64,
-          "text": "If I remember correctly, at that side there’s Lime and Mondo, right?” (Makoto)"
-        },
-        {
-          "id": 136,
-          "paragraph_id": 65,
           "text": "“Yes."
         },
         {
-          "id": 137,
-          "paragraph_id": 65,
+          "id": 136,
+          "paragraph_id": 64,
           "text": "There might not be any left for me."
         },
         {
-          "id": 138,
-          "paragraph_id": 65,
+          "id": 137,
+          "paragraph_id": 64,
           "text": "I wanted to unsheathe my katana since it has been a while, but it seems like it would be better to just wait for another opportunity."
         },
         {
-          "id": 139,
-          "paragraph_id": 65,
+          "id": 138,
+          "paragraph_id": 64,
           "text": "I am jealous of Mio and Shiki..."
         },
         {
-          "id": 140,
-          "paragraph_id": 65,
+          "id": 139,
+          "paragraph_id": 64,
           "text": "N?"
         },
         {
-          "id": 141,
-          "paragraph_id": 65,
+          "id": 140,
+          "paragraph_id": 64,
           "text": "For some reason Mio is looking strangely happy."
+        },
+        {
+          "id": 141,
+          "paragraph_id": 64,
+          "text": "Did something happen?” (Tomoe)"
         },
         {
           "id": 142,
           "paragraph_id": 65,
-          "text": "Did something happen?” (Tomoe)"
+          "text": "Tomoe shows sadness at the fact that she can’t unsheathe her sword."
         },
         {
           "id": 143,
           "paragraph_id": 66,
-          "text": "Tomoe shows sadness at the fact that she can’t unsheathe her sword."
+          "text": "At the place she was gazing at, she saw that Mio who’s in a jolly mood."
         },
         {
           "id": 144,
-          "paragraph_id": 67,
-          "text": "At the place she was gazing at, she saw that Mio who’s in a jolly mood."
+          "paragraph_id": 66,
+          "text": "Tomoe makes a wondering expression and voices out her question."
         },
         {
           "id": 145,
           "paragraph_id": 67,
-          "text": "Tomoe makes a wondering expression and voices out her question."
-        },
-        {
-          "id": 146,
-          "paragraph_id": 68,
           "text": "“Ah, that."
         },
         {
-          "id": 147,
-          "paragraph_id": 68,
+          "id": 146,
+          "paragraph_id": 67,
           "text": "I had Shiki and Mio do a competition of sorts."
+        },
+        {
+          "id": 147,
+          "paragraph_id": 67,
+          "text": "About which of them would be able to clean up more variants” (Makoto)"
         },
         {
           "id": 148,
           "paragraph_id": 68,
-          "text": "About which of them would be able to clean up more variants” (Makoto)"
+          "text": "“Hoh?"
         },
         {
           "id": 149,
-          "paragraph_id": 69,
-          "text": "“Hoh?"
+          "paragraph_id": 68,
+          "text": "Looking at her state, it must have been Mio’s win” (Tomoe)"
         },
         {
           "id": 150,
           "paragraph_id": 69,
-          "text": "Looking at her state, it must have been Mio’s win” (Tomoe)"
-        },
-        {
-          "id": 151,
-          "paragraph_id": 70,
           "text": "“Yeah."
         },
         {
-          "id": 152,
-          "paragraph_id": 70,
+          "id": 151,
+          "paragraph_id": 69,
           "text": "4-2, Mio’s win."
+        },
+        {
+          "id": 152,
+          "paragraph_id": 69,
+          "text": "I made it so they can’t interfere with each other, but it was a pretty good competition” (Makoto)"
         },
         {
           "id": 153,
           "paragraph_id": 70,
-          "text": "I made it so they can’t interfere with each other, but it was a pretty good competition” (Makoto)"
-        },
-        {
-          "id": 154,
-          "paragraph_id": 71,
           "text": "“I see..."
         },
         {
-          "id": 155,
-          "paragraph_id": 71,
+          "id": 154,
+          "paragraph_id": 70,
           "text": "Even so, she is so happy I feel like she would fly at any moment."
+        },
+        {
+          "id": 155,
+          "paragraph_id": 70,
+          "text": "I can’t comprehend why” (Tomoe)"
         },
         {
           "id": 156,
           "paragraph_id": 71,
-          "text": "I can’t comprehend why” (Tomoe)"
+          "text": "“Hm?"
         },
         {
           "id": 157,
-          "paragraph_id": 72,
-          "text": "“Hm?"
+          "paragraph_id": 71,
+          "text": "Maybe because I told them I would grant one wish to the winner” (Makoto)"
         },
         {
           "id": 158,
           "paragraph_id": 72,
-          "text": "Maybe because I told them I would grant one wish to the winner” (Makoto)"
+          "text": "“?!!!”"
         },
         {
           "id": 159,
           "paragraph_id": 73,
-          "text": "“?!!!”"
+          "text": "Instantly, the face of Tomoe turns dreadful."
         },
         {
           "id": 160,
           "paragraph_id": 74,
-          "text": "Instantly, the face of Tomoe turns dreadful."
+          "text": "Ah, I feel like it would have been better to just wash away that question."
         },
         {
           "id": 161,
           "paragraph_id": 75,
-          "text": "Ah, I feel like it would have been better to just wash away that question."
+          "text": "“W-What’s wrong Tomoe?” (Makoto)"
         },
         {
           "id": 162,
           "paragraph_id": 76,
-          "text": "“W-What’s wrong Tomoe?” (Makoto)"
+          "text": "“Waka, what’s up with that luxurious reward?!"
         },
         {
           "id": 163,
-          "paragraph_id": 77,
-          "text": "“Waka, what’s up with that luxurious reward?!"
+          "paragraph_id": 76,
+          "text": "I didn’t hear anything about this!!” (Tomoe)"
         },
         {
           "id": 164,
           "paragraph_id": 77,
-          "text": "I didn’t hear anything about this!!” (Tomoe)"
+          "text": "“No well, you were at the Guild after all."
         },
         {
           "id": 165,
-          "paragraph_id": 78,
-          "text": "“No well, you were at the Guild after all."
+          "paragraph_id": 77,
+          "text": "Well then...” (Makoto)"
         },
         {
           "id": 166,
           "paragraph_id": 78,
-          "text": "Well then...” (Makoto)"
+          "text": "Work work."
         },
         {
           "id": 167,
           "paragraph_id": 79,
-          "text": "Work work."
+          "text": "We have to depart soon."
         },
         {
           "id": 168,
           "paragraph_id": 80,
-          "text": "We have to depart soon."
-        },
-        {
-          "id": 169,
-          "paragraph_id": 81,
           "text": "“Wait, Waka!"
         },
         {
-          "id": 170,
-          "paragraph_id": 81,
+          "id": 169,
+          "paragraph_id": 80,
           "text": "The talk is not over yet!"
         },
         {
-          "id": 171,
-          "paragraph_id": 81,
+          "id": 170,
+          "paragraph_id": 80,
           "text": "No, it has actually begun just now!"
+        },
+        {
+          "id": 171,
+          "paragraph_id": 80,
+          "text": "Where are you heading to?!” (Tomoe)"
         },
         {
           "id": 172,
           "paragraph_id": 81,
-          "text": "Where are you heading to?!” (Tomoe)"
-        },
-        {
-          "id": 173,
-          "paragraph_id": 82,
           "text": "“The northwest section."
         },
         {
-          "id": 174,
-          "paragraph_id": 82,
+          "id": 173,
+          "paragraph_id": 81,
           "text": "That talk, I will tell it to you while we are moving."
+        },
+        {
+          "id": 174,
+          "paragraph_id": 81,
+          "text": "Don’t lift your voice so much!” (Makoto)"
         },
         {
           "id": 175,
           "paragraph_id": 82,
-          "text": "Don’t lift your voice so much!” (Makoto)"
-        },
-        {
-          "id": 176,
-          "paragraph_id": 83,
           "text": "“I request an acceptable explanation."
         },
         {
-          "id": 177,
-          "paragraph_id": 83,
+          "id": 176,
+          "paragraph_id": 82,
           "text": "Even if I accept it, I might not accept it though!"
         },
         {
-          "id": 178,
-          "paragraph_id": 83,
+          "id": 177,
+          "paragraph_id": 82,
           "text": "In other words, I also get a wish okay?!"
+        },
+        {
+          "id": 178,
+          "paragraph_id": 82,
+          "text": "Waka?!” (Tomoe)"
         },
         {
           "id": 179,
           "paragraph_id": 83,
-          "text": "Waka?!” (Tomoe)"
+          "text": "It has turned quite crazy."
         },
         {
           "id": 180,
           "paragraph_id": 84,
-          "text": "It has turned quite crazy."
+          "text": "Oh well, it is better than being all tense."
         },
         {
           "id": 181,
           "paragraph_id": 85,
-          "text": "Oh well, it is better than being all tense."
+          "text": "Lime and Mondo are at the northwest section, so it shouldn’t be that bad there."
         },
         {
           "id": 182,
           "paragraph_id": 86,
-          "text": "Lime and Mondo are at the northwest section, so it shouldn’t be that bad there."
+          "text": "I should just go with a pace where I can return to the Academy by the time the sun goes down."
         },
         {
           "id": 183,
           "paragraph_id": 87,
-          "text": "I should just go with a pace where I can return to the Academy by the time the sun goes down."
+          "text": "◇◆◇◆◇◆◇◆"
         },
         {
           "id": 184,
           "paragraph_id": 88,
-          "text": "◇◆◇◆◇◆◇◆"
+          "text": "“Hey, there it goes, Mondo”"
         },
         {
           "id": 185,
           "paragraph_id": 89,
-          "text": "“Hey, there it goes, Mondo”"
+          "text": "“Understood!”"
         },
         {
           "id": 186,
           "paragraph_id": 90,
-          "text": "“Understood!”"
+          "text": "At both sides of the street that has no stone pavings, showing the whole naked ground, there’s a thin man that’s blowing away a gray monster while raising a shout, and at the direction it is headed to, there’s a darkish skinned male approaching."
         },
         {
           "id": 187,
           "paragraph_id": 91,
-          "text": "At both sides of the street that has no stone pavings, showing the whole naked ground, there’s a thin man that’s blowing away a gray monster while raising a shout, and at the direction it is headed to, there’s a darkish skinned male approaching."
+          "text": "The big one-eyed monster with a large ball-shaped body was bigger than both men, but the man called Mondo grabbed it with one hand and killed its momentum."
         },
         {
           "id": 188,
           "paragraph_id": 92,
-          "text": "The big one-eyed monster with a large ball-shaped body was bigger than both men, but the man called Mondo grabbed it with one hand and killed its momentum."
+          "text": "The instant Mondo seized the monster, he smashed it to the ground, and after a pale light, its shape changed..."
         },
         {
           "id": 189,
           "paragraph_id": 93,
-          "text": "The instant Mondo seized the monster, he smashed it to the ground, and after a pale light, its shape changed..."
+          "text": "Into a single tree."
         },
         {
           "id": 190,
           "paragraph_id": 94,
-          "text": "Into a single tree."
+          "text": "Mondo is a Forest Oni, considered as one of the ancestors of the Elfs."
         },
         {
           "id": 191,
           "paragraph_id": 95,
-          "text": "Mondo is a Forest Oni, considered as one of the ancestors of the Elfs."
+          "text": "He activated his special ability [Tree Punishment]."
         },
         {
           "id": 192,
           "paragraph_id": 96,
-          "text": "He activated his special ability [Tree Punishment]."
+          "text": "A technique that turns the target into a tree."
         },
         {
           "id": 193,
           "paragraph_id": 97,
-          "text": "A technique that turns the target into a tree."
+          "text": "A dreadful skill that had scared even the master of Asora, Makoto, in the past."
         },
         {
           "id": 194,
           "paragraph_id": 98,
-          "text": "A dreadful skill that had scared even the master of Asora, Makoto, in the past."
+          "text": "The variant that turned into a bright green tree can’t oppose at all."
         },
         {
           "id": 195,
-          "paragraph_id": 99,
-          "text": "The variant that turned into a bright green tree can’t oppose at all."
+          "paragraph_id": 98,
+          "text": "It decided the battle in an instant."
         },
         {
           "id": 196,
           "paragraph_id": 99,
-          "text": "It decided the battle in an instant."
+          "text": "“The reforestation work is moving along well” (Lime)"
         },
         {
           "id": 197,
           "paragraph_id": 100,
-          "text": "“The reforestation work is moving along well” (Lime)"
-        },
-        {
-          "id": 198,
-          "paragraph_id": 101,
           "text": "“With this, it makes 8 huh."
         },
         {
-          "id": 199,
-          "paragraph_id": 101,
+          "id": 198,
+          "paragraph_id": 100,
           "text": "There’s still quite a few left."
+        },
+        {
+          "id": 199,
+          "paragraph_id": 100,
+          "text": "It feels like... our pace is not increasing” (Mondo)"
         },
         {
           "id": 200,
           "paragraph_id": 101,
-          "text": "It feels like... our pace is not increasing” (Mondo)"
-        },
-        {
-          "id": 201,
-          "paragraph_id": 102,
           "text": "“We are doing it in a careful way in order to avoid attention, so it can’t be helped."
         },
         {
-          "id": 202,
-          "paragraph_id": 102,
+          "id": 201,
+          "paragraph_id": 101,
           "text": "I had a call from Tomoe-neesan just now."
+        },
+        {
+          "id": 202,
+          "paragraph_id": 101,
+          "text": "Seems the Boss and everyone else are heading here” (Lime)"
         },
         {
           "id": 203,
           "paragraph_id": 102,
-          "text": "Seems the Boss and everyone else are heading here” (Lime)"
+          "text": "“I see... it seems my incompetent disciples are causing him problems, so it will pain me to meet them” (Mondo)"
         },
         {
           "id": 204,
           "paragraph_id": 103,
-          "text": "“I see... it seems my incompetent disciples are causing him problems, so it will pain me to meet them” (Mondo)"
-        },
-        {
-          "id": 205,
-          "paragraph_id": 104,
           "text": "“The Akua-Eris Combi huh."
         },
         {
-          "id": 206,
-          "paragraph_id": 104,
+          "id": 205,
+          "paragraph_id": 103,
           "text": "Then, if they are taken into account as a combi, the responsibility would be divided, and that wouldn’t be good for Akua."
         },
         {
-          "id": 207,
-          "paragraph_id": 104,
+          "id": 206,
+          "paragraph_id": 103,
           "text": "Boss says all kinds of things, but he is not actually that worried."
         },
         {
-          "id": 208,
-          "paragraph_id": 104,
+          "id": 207,
+          "paragraph_id": 103,
           "text": "As proof, he let all the Forest Onis migrate to Asora, right?"
         },
         {
-          "id": 209,
-          "paragraph_id": 104,
+          "id": 208,
+          "paragraph_id": 103,
           "text": "He doesn’t mind it much."
+        },
+        {
+          "id": 209,
+          "paragraph_id": 103,
+          "text": "He is actually enjoying himself” (Lime)"
         },
         {
           "id": 210,
           "paragraph_id": 104,
-          "text": "He is actually enjoying himself” (Lime)"
-        },
-        {
-          "id": 211,
-          "paragraph_id": 105,
           "text": "“Lime, having you tell me that, it really relieves me."
         },
         {
-          "id": 212,
-          "paragraph_id": 105,
+          "id": 211,
+          "paragraph_id": 104,
           "text": "I at least want to show him results that can satisfy him."
+        },
+        {
+          "id": 212,
+          "paragraph_id": 104,
+          "text": "Please accompany for a bit more” (Mondo)"
         },
         {
           "id": 213,
           "paragraph_id": 105,
-          "text": "Please accompany for a bit more” (Mondo)"
-        },
-        {
-          "id": 214,
-          "paragraph_id": 106,
           "text": "“Of course."
         },
         {
-          "id": 215,
-          "paragraph_id": 106,
+          "id": 214,
+          "paragraph_id": 105,
           "text": "I can do great bouts with you."
         },
         {
-          "id": 216,
-          "paragraph_id": 106,
+          "id": 215,
+          "paragraph_id": 105,
           "text": "You are the perfect rival to climb the rankings of Asora."
+        },
+        {
+          "id": 216,
+          "paragraph_id": 105,
+          "text": "I will cooperate with you in whatever you want” (Lime)"
         },
         {
           "id": 217,
           "paragraph_id": 106,
-          "text": "I will cooperate with you in whatever you want” (Lime)"
+          "text": "“Yeah, for a brief period of time, we had a superior battle formation and great order, but with the participation of the Gorgons and Winged-kin, it instantly spiked down."
         },
         {
           "id": 218,
-          "paragraph_id": 107,
-          "text": "“Yeah, for a brief period of time, we had a superior battle formation and great order, but with the participation of the Gorgons and Winged-kin, it instantly spiked down."
+          "paragraph_id": 106,
+          "text": "We have to train once again” (Mondo)"
         },
         {
           "id": 219,
           "paragraph_id": 107,
-          "text": "We have to train once again” (Mondo)"
-        },
-        {
-          "id": 220,
-          "paragraph_id": 108,
           "text": "“It seems there’s limitations in the stone-turning ability and the flying ability."
         },
         {
-          "id": 221,
-          "paragraph_id": 108,
+          "id": 220,
+          "paragraph_id": 107,
           "text": "Those are close to cheating."
         },
         {
-          "id": 222,
-          "paragraph_id": 108,
+          "id": 221,
+          "paragraph_id": 107,
           "text": "Even if those abilities don’t have use limitations like your [Tree Punishment], there’s still certain rules to them."
         },
         {
-          "id": 223,
-          "paragraph_id": 108,
+          "id": 222,
+          "paragraph_id": 107,
           "text": "If the rules change, it will probably return to a position close to before."
+        },
+        {
+          "id": 223,
+          "paragraph_id": 107,
+          "text": "Well, that’s just an estimation though” (Lime)"
         },
         {
           "id": 224,
           "paragraph_id": 108,
-          "text": "Well, that’s just an estimation though” (Lime)"
+          "text": "“Really” (Mondo)"
         },
         {
           "id": 225,
           "paragraph_id": 109,
-          "text": "“Really” (Mondo)"
+          "text": "Lime and Mondo had finished evacuating the residents in the area a long time ago and have also finished the evacuation of the merchants."
         },
         {
           "id": 226,
           "paragraph_id": 110,
-          "text": "Lime and Mondo had finished evacuating the residents in the area a long time ago and have also finished the evacuation of the merchants."
+          "text": "At the second day, they stopped a part of the variants that appeared in the evacuation points and finished gathering the necklaces in a fast pace."
         },
         {
           "id": 227,
           "paragraph_id": 111,
-          "text": "At the second day, they stopped a part of the variants that appeared in the evacuation points and finished gathering the necklaces in a fast pace."
+          "text": "The motivation of Mondo who has returned from Asora, and the skillfulness of Lime blended perfectly together."
         },
         {
           "id": 228,
           "paragraph_id": 112,
-          "text": "The motivation of Mondo who has returned from Asora, and the skillfulness of Lime blended perfectly together."
+          "text": "And then, at the third day."
         },
         {
           "id": 229,
           "paragraph_id": 113,
-          "text": "And then, at the third day."
+          "text": "Receiving a transmission to change into offensive, they didn’t make any flashy actions, but have begun their movements to suppress the variants and establish stability in the evacuation points."
         },
         {
           "id": 230,
           "paragraph_id": 114,
-          "text": "Receiving a transmission to change into offensive, they didn’t make any flashy actions, but have begun their movements to suppress the variants and establish stability in the evacuation points."
+          "text": "In this section there’s no other power."
         },
         {
           "id": 231,
           "paragraph_id": 115,
-          "text": "In this section there’s no other power."
+          "text": "There ́s 3 evacuation points, and with Lime’s personal connections and the sure-kill technique [Tree Punishment] of Mondo, they were able to splendidly protect the points."
         },
         {
           "id": 232,
           "paragraph_id": 116,
-          "text": "There ́s 3 evacuation points, and with Lime’s personal connections and the sure-kill technique [Tree Punishment] of Mondo, they were able to splendidly protect the points."
+          "text": "Their communication is done in secrecy and the goods are being supplied with the use of teleportation."
         },
         {
           "id": 233,
-          "paragraph_id": 117,
-          "text": "Their communication is done in secrecy and the goods are being supplied with the use of teleportation."
+          "paragraph_id": 116,
+          "text": "It can be said that they are doing a good job."
         },
         {
           "id": 234,
           "paragraph_id": 117,
-          "text": "It can be said that they are doing a good job."
+          "text": "The locations of the evacuation points are somewhat close to each other, so it is more convenient when protecting a big amount of people."
         },
         {
           "id": 235,
           "paragraph_id": 118,
-          "text": "The locations of the evacuation points are somewhat close to each other, so it is more convenient when protecting a big amount of people."
+          "text": "Moreover, compared to the evacuation points of other sections, the ones there were spacious and the density of residents is low."
         },
         {
           "id": 236,
           "paragraph_id": 119,
-          "text": "Moreover, compared to the evacuation points of other sections, the ones there were spacious and the density of residents is low."
+          "text": "Quickly selecting the evacuation points that were easy to protect was a good move from those two."
         },
         {
           "id": 237,
           "paragraph_id": 120,
-          "text": "Quickly selecting the evacuation points that were easy to protect was a good move from those two."
+          "text": "Taking into account the saved people and the people that were able to safely escape, the northwest section is comfortable and it created low amounts of stress."
         },
         {
           "id": 238,
           "paragraph_id": 121,
-          "text": "Taking into account the saved people and the people that were able to safely escape, the northwest section is comfortable and it created low amounts of stress."
+          "text": "At the opposite site there’s the northeast section where the Merchant Guild is located in, and because of the residents seeking refuge there, the density at that place is high and the stress must be quite high too."
         },
         {
           "id": 239,
-          "paragraph_id": 122,
-          "text": "At the opposite site there’s the northeast section where the Merchant Guild is located in, and because of the residents seeking refuge there, the density at that place is high and the stress must be quite high too."
+          "paragraph_id": 121,
+          "text": "It is also the reason why representative Zara is being driven into a corner."
         },
         {
           "id": 240,
           "paragraph_id": 122,
-          "text": "It is also the reason why representative Zara is being driven into a corner."
+          "text": "Because the two have saved them, the merchants and the residents that have moderate earnings are relying quite a lot in the two."
         },
         {
           "id": 241,
-          "paragraph_id": 123,
-          "text": "Because the two have saved them, the merchants and the residents that have moderate earnings are relying quite a lot in the two."
+          "paragraph_id": 122,
+          "text": "Depending on the point-of-view, one can even call it dependence."
         },
         {
           "id": 242,
           "paragraph_id": 123,
-          "text": "Depending on the point-of-view, one can even call it dependence."
+          "text": "The name of Kuzunoha Company is resonating in their hearts a lot more than Makoto thinks."
         },
         {
           "id": 243,
           "paragraph_id": 124,
-          "text": "The name of Kuzunoha Company is resonating in their hearts a lot more than Makoto thinks."
-        },
-        {
-          "id": 244,
-          "paragraph_id": 125,
           "text": "“But what is the objective of the one that released these things here?"
         },
         {
-          "id": 245,
-          "paragraph_id": 125,
+          "id": 244,
+          "paragraph_id": 124,
           "text": "That person knew Waka-sama was here in this town, and still did this."
         },
         {
-          "id": 246,
-          "paragraph_id": 125,
+          "id": 245,
+          "paragraph_id": 124,
           "text": "It would only be enough to cause an uproar."
+        },
+        {
+          "id": 246,
+          "paragraph_id": 124,
+          "text": "The thought transmission jamming and the appearance of variants; the person that can think of this kind of things should be able to understand a simple fact like that” (Mondo)"
         },
         {
           "id": 247,
           "paragraph_id": 125,
-          "text": "The thought transmission jamming and the appearance of variants; the person that can think of this kind of things should be able to understand a simple fact like that” (Mondo)"
-        },
-        {
-          "id": 248,
-          "paragraph_id": 126,
           "text": "“Who knows."
         },
         {
-          "id": 249,
-          "paragraph_id": 126,
+          "id": 248,
+          "paragraph_id": 125,
           "text": "I don’t understand the thinking of the demon race."
         },
         {
-          "id": 250,
-          "paragraph_id": 126,
+          "id": 249,
+          "paragraph_id": 125,
           "text": "Well, I will just move as the arms and legs of Boss and the others, that’s all I need to think about."
         },
         {
-          "id": 251,
-          "paragraph_id": 126,
+          "id": 250,
+          "paragraph_id": 125,
           "text": "They will tell us if necessary."
         },
         {
-          "id": 252,
-          "paragraph_id": 126,
+          "id": 251,
+          "paragraph_id": 125,
           "text": "Also, those personages definitely won’t do anything that might endanger us or Asora."
         },
         {
-          "id": 253,
-          "paragraph_id": 126,
+          "id": 252,
+          "paragraph_id": 125,
           "text": "Rather, they have even stopped us from doing dangerous things when trying to be of help."
+        },
+        {
+          "id": 253,
+          "paragraph_id": 125,
+          "text": "Even in this occasion, when the Lizards were added as members, they trembled in joy” (Lime)"
         },
         {
           "id": 254,
           "paragraph_id": 126,
-          "text": "Even in this occasion, when the Lizards were added as members, they trembled in joy” (Lime)"
-        },
-        {
-          "id": 255,
-          "paragraph_id": 127,
           "text": "“..."
         },
         {
-          "id": 256,
-          "paragraph_id": 127,
+          "id": 255,
+          "paragraph_id": 126,
           "text": "Yeah, I understand that."
         },
         {
-          "id": 257,
-          "paragraph_id": 127,
+          "id": 256,
+          "paragraph_id": 126,
           "text": "Because I felt the same way as those Mist Lizards."
+        },
+        {
+          "id": 257,
+          "paragraph_id": 126,
+          "text": "Lime, it would be nice if the time you can tell your wish to Waka-sama comes near” (Mondo)"
         },
         {
           "id": 258,
           "paragraph_id": 127,
-          "text": "Lime, it would be nice if the time you can tell your wish to Waka-sama comes near” (Mondo)"
-        },
-        {
-          "id": 259,
-          "paragraph_id": 128,
           "text": "“That depends on Tomoe-neesan."
         },
         {
-          "id": 260,
-          "paragraph_id": 128,
+          "id": 259,
+          "paragraph_id": 127,
           "text": "It’s that kind of promise after all."
         },
         {
-          "id": 261,
-          "paragraph_id": 128,
+          "id": 260,
+          "paragraph_id": 127,
           "text": "Well, I will just wait patiently."
         },
         {
-          "id": 262,
-          "paragraph_id": 128,
+          "id": 261,
+          "paragraph_id": 127,
           "text": "I have received the time to do so."
+        },
+        {
+          "id": 262,
+          "paragraph_id": 127,
+          "text": "No need to hurry” (Lime)"
         },
         {
           "id": 263,
           "paragraph_id": 128,
-          "text": "No need to hurry” (Lime)"
+          "text": "Lime looks at the distance."
         },
         {
           "id": 264,
           "paragraph_id": 129,
-          "text": "Lime looks at the distance."
+          "text": "“Then, how about we clean up one or two more, partner?"
         },
         {
           "id": 265,
-          "paragraph_id": 130,
-          "text": "“Then, how about we clean up one or two more, partner?"
+          "paragraph_id": 129,
+          "text": "Let’s make our brethren at Asora envious of us” (Mondo)"
         },
         {
           "id": 266,
           "paragraph_id": 130,
-          "text": "Let’s make our brethren at Asora envious of us” (Mondo)"
+          "text": "“Yeah!” (Lime)"
         },
         {
           "id": 267,
           "paragraph_id": 131,
-          "text": "“Yeah!” (Lime)"
+          "text": "The two enlarge their perception range, looking for variants and choosing the ones they can safely hunt without catching the attention of the evacuation points."
         },
         {
           "id": 268,
           "paragraph_id": 132,
-          "text": "The two enlarge their perception range, looking for variants and choosing the ones they can safely hunt without catching the attention of the evacuation points."
-        },
-        {
-          "id": 269,
-          "paragraph_id": 133,
           "text": "And then, by the time Makoto and the others arrived, the two had turned several variants more into trees, and went to welcome their arrival."
         }
       ],
-      "word_count": 3262
+      "word_count": 3260
     },
     {
       "chapter_index": 146,
@@ -90237,7 +90219,6 @@
       "title": "Chapter 150: Root’s miscalculation",
       "url": "https://novelping.com/book/tsuki-ga-michibiku-isekai-douchuu/chapter-156",
       "paragraphs": [
-        "Translator Note:",
         "Hello there guys, short chapter here. I am in the midst of exam periods, so I will get it out of the way and say it is short here and now. I save you the trouble of saying short in comments🙂",
         "The main reason I have been pumping out chapters despite being exams is because I like these chapters.",
         "Also, last chapter was really interesting for me, I don’t understand why there was so much hate. There was a lot of psychology and revelations I didn’t know about. Maybe I am the only one that didn’t know and all of you actually knew all that without the need to say it.",
@@ -90355,960 +90336,955 @@
         {
           "id": 0,
           "paragraph_id": 0,
-          "text": "Translator Note:"
-        },
-        {
-          "id": 1,
-          "paragraph_id": 1,
           "text": "Hello there guys, short chapter here."
         },
         {
-          "id": 2,
-          "paragraph_id": 1,
+          "id": 1,
+          "paragraph_id": 0,
           "text": "I am in the midst of exam periods, so I will get it out of the way and say it is short here and now."
+        },
+        {
+          "id": 2,
+          "paragraph_id": 0,
+          "text": "I save you the trouble of saying short in comments🙂"
         },
         {
           "id": 3,
           "paragraph_id": 1,
-          "text": "I save you the trouble of saying short in comments🙂"
+          "text": "The main reason I have been pumping out chapters despite being exams is because I like these chapters."
         },
         {
           "id": 4,
           "paragraph_id": 2,
-          "text": "The main reason I have been pumping out chapters despite being exams is because I like these chapters."
-        },
-        {
-          "id": 5,
-          "paragraph_id": 3,
           "text": "Also, last chapter was really interesting for me, I don’t understand why there was so much hate."
         },
         {
-          "id": 6,
-          "paragraph_id": 3,
+          "id": 5,
+          "paragraph_id": 2,
           "text": "There was a lot of psychology and revelations I didn’t know about."
+        },
+        {
+          "id": 6,
+          "paragraph_id": 2,
+          "text": "Maybe I am the only one that didn’t know and all of you actually knew all that without the need to say it."
         },
         {
           "id": 7,
           "paragraph_id": 3,
-          "text": "Maybe I am the only one that didn’t know and all of you actually knew all that without the need to say it."
+          "text": "Anyways, I wanted to use this corner to thank all the great support from all this time."
         },
         {
           "id": 8,
-          "paragraph_id": 4,
-          "text": "Anyways, I wanted to use this corner to thank all the great support from all this time."
+          "paragraph_id": 3,
+          "text": "All donators as well, thank you very much!"
         },
         {
           "id": 9,
           "paragraph_id": 4,
-          "text": "All donators as well, thank you very much!"
+          "text": "Tomoe, Shiki and I were approached by the top class guests: the Limia King, Princess Lily, and Sairitz-san; they requested us for the teleport of both countries, Limia and Gritonia."
         },
         {
           "id": 10,
           "paragraph_id": 5,
-          "text": "Tomoe, Shiki and I were approached by the top class guests: the Limia King, Princess Lily, and Sairitz-san; they requested us for the teleport of both countries, Limia and Gritonia."
+          "text": "After that, won’t that leave the church people here?"
         },
         {
           "id": 11,
-          "paragraph_id": 6,
-          "text": "After that, won’t that leave the church people here?"
+          "paragraph_id": 5,
+          "text": "It seems the Aion people have already left the neighboring towns and headed towards Stella Fort after all."
         },
         {
           "id": 12,
           "paragraph_id": 6,
-          "text": "It seems the Aion people have already left the neighboring towns and headed towards Stella Fort after all."
+          "text": "‘We also used the teleport when assisting the Merchant Guild so it is already close to its limit’, is the total lie Tomoe said with an apologetic expression."
         },
         {
           "id": 13,
-          "paragraph_id": 7,
-          "text": "‘We also used the teleport when assisting the Merchant Guild so it is already close to its limit’, is the total lie Tomoe said with an apologetic expression."
+          "paragraph_id": 6,
+          "text": "The Limia King and Princess Lily lowered their heads, lined up words that can only be taken as threats, and requested for the teleport no matter the method needed."
         },
         {
           "id": 14,
           "paragraph_id": 7,
-          "text": "The Limia King and Princess Lily lowered their heads, lined up words that can only be taken as threats, and requested for the teleport no matter the method needed."
+          "text": "Sairitz-san soothed the situation every now and then, but Tomoe evasively apologized."
         },
         {
           "id": 15,
-          "paragraph_id": 8,
-          "text": "Sairitz-san soothed the situation every now and then, but Tomoe evasively apologized."
+          "paragraph_id": 7,
+          "text": "When those two changed their target to me, I seriously got scared."
         },
         {
           "id": 16,
           "paragraph_id": 8,
-          "text": "When those two changed their target to me, I seriously got scared."
+          "text": "As expected, when there’s their country at stake, their intensity is different."
         },
         {
           "id": 17,
           "paragraph_id": 9,
-          "text": "As expected, when there’s their country at stake, their intensity is different."
+          "text": "It’s like, their grit."
         },
         {
           "id": 18,
           "paragraph_id": 10,
-          "text": "It’s like, their grit."
+          "text": "Princess Lily looks slightly older than me, and yet, her aura was completely different from mine."
         },
         {
           "id": 19,
           "paragraph_id": 11,
-          "text": "Princess Lily looks slightly older than me, and yet, her aura was completely different from mine."
+          "text": "I don’t know if it’s their linage or their education, but they are incredible people."
         },
         {
           "id": 20,
           "paragraph_id": 12,
-          "text": "I don’t know if it’s their linage or their education, but they are incredible people."
+          "text": "Strangely, it was scary, but I didn’t feel that weakness I felt when I was dealing with Zara-san."
         },
         {
           "id": 21,
           "paragraph_id": 13,
-          "text": "Strangely, it was scary, but I didn’t feel that weakness I felt when I was dealing with Zara-san."
+          "text": "In a corner of my self, I still held composure and was able to ignore it."
         },
         {
           "id": 22,
           "paragraph_id": 14,
-          "text": "In a corner of my self, I still held composure and was able to ignore it."
-        },
-        {
-          "id": 23,
-          "paragraph_id": 15,
           "text": "(Waka, it is already enough."
         },
         {
-          "id": 24,
-          "paragraph_id": 15,
+          "id": 23,
+          "paragraph_id": 14,
           "text": "Please nod."
+        },
+        {
+          "id": 24,
+          "paragraph_id": 14,
+          "text": "You did well) (Tomoe)"
         },
         {
           "id": 25,
           "paragraph_id": 15,
-          "text": "You did well) (Tomoe)"
+          "text": "Tomoe’s thought transmission."
         },
         {
           "id": 26,
           "paragraph_id": 16,
-          "text": "Tomoe’s thought transmission."
+          "text": "At the moment I was thinking about throwing it back to Tomoe, she came and told me."
         },
         {
           "id": 27,
           "paragraph_id": 17,
-          "text": "At the moment I was thinking about throwing it back to Tomoe, she came and told me."
+          "text": "That’s a great help."
         },
         {
           "id": 28,
           "paragraph_id": 18,
-          "text": "That’s a great help."
-        },
-        {
-          "id": 29,
-          "paragraph_id": 19,
           "text": "[Understood."
         },
         {
-          "id": 30,
-          "paragraph_id": 19,
+          "id": 29,
+          "paragraph_id": 18,
           "text": "This is an emergency situation, so it can’t be helped."
+        },
+        {
+          "id": 30,
+          "paragraph_id": 18,
+          "text": "Tomoe, can you do it?]"
         },
         {
           "id": 31,
           "paragraph_id": 19,
-          "text": "Tomoe, can you do it?]"
+          "text": "After a lot of pushing and pulling, I finally nodded."
         },
         {
           "id": 32,
           "paragraph_id": 20,
-          "text": "After a lot of pushing and pulling, I finally nodded."
+          "text": "It is something that I can do to begin with, and being unable to do it is Tomoe’s total lie."
         },
         {
           "id": 33,
           "paragraph_id": 21,
-          "text": "It is something that I can do to begin with, and being unable to do it is Tomoe’s total lie."
+          "text": "Things will probably line up later."
         },
         {
           "id": 34,
           "paragraph_id": 22,
-          "text": "Things will probably line up later."
+          "text": "“..."
         },
         {
           "id": 35,
-          "paragraph_id": 23,
-          "text": "“..."
+          "paragraph_id": 22,
+          "text": "Waka, it isn’t something impossible, and if you tell me to do it, this Tomoe will do so as you wish, but if one teleport is done, the sword won’t be able to handle another one” (Tomoe)"
         },
         {
           "id": 36,
           "paragraph_id": 23,
-          "text": "Waka, it isn’t something impossible, and if you tell me to do it, this Tomoe will do so as you wish, but if one teleport is done, the sword won’t be able to handle another one” (Tomoe)"
+          "text": "[What do you mean by that?]"
         },
         {
           "id": 37,
           "paragraph_id": 24,
-          "text": "[What do you mean by that?]"
-        },
-        {
-          "id": 38,
-          "paragraph_id": 25,
           "text": "“It will most likely break."
         },
         {
-          "id": 39,
-          "paragraph_id": 25,
+          "id": 38,
+          "paragraph_id": 24,
           "text": "And it will probably be impossible to repair."
         },
         {
-          "id": 40,
-          "paragraph_id": 25,
+          "id": 39,
+          "paragraph_id": 24,
           "text": "Is it really okay?"
+        },
+        {
+          "id": 40,
+          "paragraph_id": 24,
+          "text": "To sacrifice this sword that has been supporting Kuzunoha Company until now?” (Tomoe)"
         },
         {
           "id": 41,
           "paragraph_id": 25,
-          "text": "To sacrifice this sword that has been supporting Kuzunoha Company until now?” (Tomoe)"
+          "text": "I see..."
         },
         {
           "id": 42,
           "paragraph_id": 26,
-          "text": "I see..."
+          "text": "Changing the teleport basis to a tool."
         },
         {
           "id": 43,
           "paragraph_id": 27,
-          "text": "Changing the teleport basis to a tool."
+          "text": "In other words, when the tool is broken, it will make the person believe that you will be unable to use it anymore."
         },
         {
           "id": 44,
           "paragraph_id": 28,
-          "text": "In other words, when the tool is broken, it will make the person believe that you will be unable to use it anymore."
+          "text": "I finally understood the true reason as to why they made such a pretext like placing the teleport power to a short katana."
         },
         {
           "id": 45,
           "paragraph_id": 29,
-          "text": "I finally understood the true reason as to why they made such a pretext like placing the teleport power to a short katana."
+          "text": "So we will not be using teleport from now on?"
         },
         {
           "id": 46,
-          "paragraph_id": 30,
-          "text": "So we will not be using teleport from now on?"
+          "paragraph_id": 29,
+          "text": "Or she already has another pretext to use teleport later on?"
         },
         {
           "id": 47,
           "paragraph_id": 30,
-          "text": "Or she already has another pretext to use teleport later on?"
+          "text": "At any rate, I will follow the play of Tomoe."
         },
         {
           "id": 48,
           "paragraph_id": 31,
-          "text": "At any rate, I will follow the play of Tomoe."
-        },
-        {
-          "id": 49,
-          "paragraph_id": 32,
           "text": "[I don’t mind."
         },
         {
-          "id": 50,
-          "paragraph_id": 32,
+          "id": 49,
+          "paragraph_id": 31,
           "text": "This is a request from the people holding back the demon race in the war."
         },
         {
-          "id": 51,
-          "paragraph_id": 32,
+          "id": 50,
+          "paragraph_id": 31,
           "text": "If we are able to be of help, I want to cooperate."
+        },
+        {
+          "id": 51,
+          "paragraph_id": 31,
+          "text": "I don’t know if there’s a substitute for that sword, but if destiny so wishes, we will meet again]"
         },
         {
           "id": 52,
           "paragraph_id": 32,
-          "text": "I don’t know if there’s a substitute for that sword, but if destiny so wishes, we will meet again]"
+          "text": "“..."
         },
         {
           "id": 53,
-          "paragraph_id": 33,
-          "text": "“..."
+          "paragraph_id": 32,
+          "text": "Understood” (Tomoe)"
         },
         {
           "id": 54,
           "paragraph_id": 33,
-          "text": "Understood” (Tomoe)"
+          "text": "With a face as if facing mental agony, Tomoe acts as if she is troubled, and she separates a bit from Limia King, Princess Lily, Sairitz-san, and Root who at some point in time was already beside those three."
         },
         {
           "id": 55,
           "paragraph_id": 34,
-          "text": "With a face as if facing mental agony, Tomoe acts as if she is troubled, and she separates a bit from Limia King, Princess Lily, Sairitz-san, and Root who at some point in time was already beside those three."
+          "text": "Things like: ‘The distance to the capital is way too much’ and ‘If it’s the Empire, it will only reach until the town Robin which is close to the highway’ are the details she was creating."
         },
         {
           "id": 56,
           "paragraph_id": 35,
-          "text": "Things like: ‘The distance to the capital is way too much’ and ‘If it’s the Empire, it will only reach until the town Robin which is close to the highway’ are the details she was creating."
+          "text": "After a while, Tomoe unsheathes the short katana, and while placing major emphasis, she opened a mist gate."
         },
         {
           "id": 57,
           "paragraph_id": 36,
-          "text": "After a while, Tomoe unsheathes the short katana, and while placing major emphasis, she opened a mist gate."
+          "text": "Limia’s King and the knight entered that gate and disappear."
         },
         {
           "id": 58,
-          "paragraph_id": 37,
-          "text": "Limia’s King and the knight entered that gate and disappear."
+          "paragraph_id": 36,
+          "text": "For some reason, the prince stayed."
         },
         {
           "id": 59,
           "paragraph_id": 37,
-          "text": "For some reason, the prince stayed."
+          "text": "After that, Princess Lily and several people that seem to be her close aides disappear inside a gate that was created separately."
         },
         {
           "id": 60,
-          "paragraph_id": 38,
-          "text": "After that, Princess Lily and several people that seem to be her close aides disappear inside a gate that was created separately."
+          "paragraph_id": 37,
+          "text": "At this side, a number of people that looked like chamberlain stayed."
         },
         {
           "id": 61,
           "paragraph_id": 38,
-          "text": "At this side, a number of people that looked like chamberlain stayed."
+          "text": "And then, the sword broke."
         },
         {
           "id": 62,
           "paragraph_id": 39,
-          "text": "And then, the sword broke."
+          "text": "With a grim face, Tomoe falls on her knees."
         },
         {
           "id": 63,
           "paragraph_id": 40,
-          "text": "With a grim face, Tomoe falls on her knees."
+          "text": "What a nice act."
         },
         {
           "id": 64,
-          "paragraph_id": 41,
-          "text": "What a nice act."
+          "paragraph_id": 40,
+          "text": "That’s a fake sword right there."
         },
         {
           "id": 65,
           "paragraph_id": 41,
-          "text": "That’s a fake sword right there."
+          "text": "Of course, I won’t be saying it."
         },
         {
           "id": 66,
           "paragraph_id": 42,
-          "text": "Of course, I won’t be saying it."
+          "text": "The eyes of Sairitz-san, the prince, and the chamberlains showed slight signs of relief as they look at Tomoe."
         },
         {
           "id": 67,
           "paragraph_id": 43,
-          "text": "The eyes of Sairitz-san, the prince, and the chamberlains showed slight signs of relief as they look at Tomoe."
+          "text": "Maybe it is relief that we won’t be able to use teleport anymore."
         },
         {
           "id": 68,
           "paragraph_id": 44,
-          "text": "Maybe it is relief that we won’t be able to use teleport anymore."
+          "text": "Well, we have the teleport ability and the power to fight against variants, so thinking about both of those points, it is probably a pretty scary thing."
         },
         {
           "id": 69,
           "paragraph_id": 45,
-          "text": "Well, we have the teleport ability and the power to fight against variants, so thinking about both of those points, it is probably a pretty scary thing."
+          "text": "I wanted to ask the bitter-faced Tomoe what’s with those feelings of hers as a bit of opposition, but I decided to just go to where she is and place a hand on her shoulder."
         },
         {
           "id": 70,
           "paragraph_id": 46,
-          "text": "I wanted to ask the bitter-faced Tomoe what’s with those feelings of hers as a bit of opposition, but I decided to just go to where she is and place a hand on her shoulder."
+          "text": "[Are you okay, Tomoe?"
         },
         {
           "id": 71,
-          "paragraph_id": 47,
-          "text": "[Are you okay, Tomoe?"
+          "paragraph_id": 46,
+          "text": "I am sorry]"
         },
         {
           "id": 72,
           "paragraph_id": 47,
-          "text": "I am sorry]"
-        },
-        {
-          "id": 73,
-          "paragraph_id": 48,
           "text": "(Kukuku, those guys are getting relieved."
         },
         {
-          "id": 74,
-          "paragraph_id": 48,
+          "id": 73,
+          "paragraph_id": 47,
           "text": "Seriously, it is because they are so naive that the demon race is playing them like a fiddle."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 47,
+          "text": "How stupid) (Tomoe)"
         },
         {
           "id": 75,
           "paragraph_id": 48,
-          "text": "How stupid) (Tomoe)"
+          "text": "It was a waste to even try to act worried."
         },
         {
           "id": 76,
           "paragraph_id": 49,
-          "text": "It was a waste to even try to act worried."
+          "text": "In the end, she asked me to leave her alone for a while and I gave her the permission to."
         },
         {
           "id": 77,
-          "paragraph_id": 50,
-          "text": "In the end, she asked me to leave her alone for a while and I gave her the permission to."
+          "paragraph_id": 49,
+          "text": "After that, we reached the courtyard where Tomoe separated from us."
         },
         {
           "id": 78,
           "paragraph_id": 50,
-          "text": "After that, we reached the courtyard where Tomoe separated from us."
+          "text": "When she said ‘alone’, she secretly told me in thought transmission that she will be in Asora, so Tomoe is in Asora right now."
         },
         {
           "id": 79,
           "paragraph_id": 51,
-          "text": "When she said ‘alone’, she secretly told me in thought transmission that she will be in Asora, so Tomoe is in Asora right now."
+          "text": "And that’s why, if we teleport now, it would be bad."
         },
         {
           "id": 80,
           "paragraph_id": 52,
-          "text": "And that’s why, if we teleport now, it would be bad."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 53,
           "text": "“The battle’s outcome will hinge on how much power the heroes possess."
         },
         {
-          "id": 82,
-          "paragraph_id": 53,
+          "id": 81,
+          "paragraph_id": 52,
           "text": "Well, the demon race has already taken that into account, and that’s why they are aiming for a short decisive battle."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 52,
+          "text": "As long as there’s no special situation occurring, the events will advance as the demon race planned” (Shiki)"
         },
         {
           "id": 83,
           "paragraph_id": 53,
-          "text": "As long as there’s no special situation occurring, the events will advance as the demon race planned” (Shiki)"
+          "text": "“Is there a good hand we can play while we are in Rotsgard?” (Makoto)"
         },
         {
           "id": 84,
           "paragraph_id": 54,
-          "text": "“Is there a good hand we can play while we are in Rotsgard?” (Makoto)"
+          "text": "“Yes."
         },
         {
           "id": 85,
-          "paragraph_id": 55,
-          "text": "“Yes."
+          "paragraph_id": 54,
+          "text": "It may be bad for us to head there ourselves, but if it’s, for example, the winged-kin and the Gorgon who no one knows their connection with us; and there’s also the choice on sending the Arkes to provide support” (Shiki)"
         },
         {
           "id": 86,
           "paragraph_id": 55,
-          "text": "It may be bad for us to head there ourselves, but if it’s, for example, the winged-kin and the Gorgon who no one knows their connection with us; and there’s also the choice on sending the Arkes to provide support” (Shiki)"
-        },
-        {
-          "id": 87,
-          "paragraph_id": 56,
           "text": "“That’s not a viable option."
         },
         {
-          "id": 88,
-          "paragraph_id": 56,
+          "id": 87,
+          "paragraph_id": 55,
           "text": "To send someone from Asora to a battlefield where none of us is in, that’s an absolute no."
         },
         {
-          "id": 89,
-          "paragraph_id": 56,
+          "id": 88,
+          "paragraph_id": 55,
           "text": "Also, the winged-kin fly in the sky you know?"
+        },
+        {
+          "id": 89,
+          "paragraph_id": 55,
+          "text": "Won’t they turn into good targets?” (Makoto)"
         },
         {
           "id": 90,
           "paragraph_id": 56,
-          "text": "Won’t they turn into good targets?” (Makoto)"
-        },
-        {
-          "id": 91,
-          "paragraph_id": 57,
           "text": "“..."
         },
         {
-          "id": 92,
-          "paragraph_id": 57,
+          "id": 91,
+          "paragraph_id": 56,
           "text": "Waka-sama, the winged-kin is quite the strong race."
         },
         {
-          "id": 93,
-          "paragraph_id": 57,
+          "id": 92,
+          "paragraph_id": 56,
           "text": "Maybe they can even bring down a country by themselves."
         },
         {
-          "id": 94,
-          "paragraph_id": 57,
+          "id": 93,
+          "paragraph_id": 56,
           "text": "Try watching a fight of them against the other races."
         },
         {
-          "id": 95,
-          "paragraph_id": 57,
+          "id": 94,
+          "paragraph_id": 56,
           "text": "It is just that their ability to fight against Waka-sama is despairingly low."
         },
         {
-          "id": 96,
-          "paragraph_id": 57,
+          "id": 95,
+          "paragraph_id": 56,
           "text": "Also, the Gorgons, if they were sent out to the battlefield, they possess a terrifying ability that can end the battle."
         },
         {
-          "id": 97,
-          "paragraph_id": 57,
+          "id": 96,
+          "paragraph_id": 56,
           "text": "At worst, we can arbitrarily dispel the petrification of the ones we want to."
         },
         {
-          "id": 98,
-          "paragraph_id": 57,
+          "id": 97,
+          "paragraph_id": 56,
           "text": "No problems there."
         },
         {
-          "id": 99,
-          "paragraph_id": 57,
+          "id": 98,
+          "paragraph_id": 56,
           "text": "It is not a petrification that brings instant-death."
+        },
+        {
+          "id": 99,
+          "paragraph_id": 56,
+          "text": "They are very special ability-users after all” (Shiki)"
         },
         {
           "id": 100,
           "paragraph_id": 57,
-          "text": "They are very special ability-users after all” (Shiki)"
+          "text": "When I reject the idea of using only the people residing in Asora as fighting force, Shiki comes at me in a slightly serious manner."
         },
         {
           "id": 101,
           "paragraph_id": 58,
-          "text": "When I reject the idea of using only the people residing in Asora as fighting force, Shiki comes at me in a slightly serious manner."
+          "text": "Are the winged-kin actually strong?"
         },
         {
           "id": 102,
           "paragraph_id": 59,
-          "text": "Are the winged-kin actually strong?"
+          "text": "Not only can’t they take my arrows, they even fly all the way into the sky and hide over the clouds."
         },
         {
           "id": 103,
-          "paragraph_id": 60,
-          "text": "Not only can’t they take my arrows, they even fly all the way into the sky and hide over the clouds."
+          "paragraph_id": 59,
+          "text": "Those kind of weak beings."
         },
         {
           "id": 104,
           "paragraph_id": 60,
-          "text": "Those kind of weak beings."
+          "text": "Even the Gorgons, if you create a barrier against petrification, their only weapon left would be their moving hair."
         },
         {
           "id": 105,
           "paragraph_id": 61,
-          "text": "Even the Gorgons, if you create a barrier against petrification, their only weapon left would be their moving hair."
+          "text": "I really can’t agree to sending only them to fight, and on top of that, it is a battlefield."
         },
         {
           "id": 106,
           "paragraph_id": 62,
-          "text": "I really can’t agree to sending only them to fight, and on top of that, it is a battlefield."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 63,
           "text": "“Hmph..."
         },
         {
-          "id": 108,
-          "paragraph_id": 63,
+          "id": 107,
+          "paragraph_id": 62,
           "text": "If Shiki says so, I will check it out some other time."
         },
         {
-          "id": 109,
-          "paragraph_id": 63,
+          "id": 108,
+          "paragraph_id": 62,
           "text": "But this time is a pretty serious attack from the demon race right?"
         },
         {
-          "id": 110,
-          "paragraph_id": 63,
+          "id": 109,
+          "paragraph_id": 62,
           "text": "Also, there’s the chance that the hero will see them as mamonos and attack them."
+        },
+        {
+          "id": 110,
+          "paragraph_id": 62,
+          "text": "I don’t want that to happen” (Makoto)"
         },
         {
           "id": 111,
           "paragraph_id": 63,
-          "text": "I don’t want that to happen” (Makoto)"
-        },
-        {
-          "id": 112,
-          "paragraph_id": 64,
           "text": "“Hm..."
         },
         {
-          "id": 113,
-          "paragraph_id": 64,
+          "id": 112,
+          "paragraph_id": 63,
           "text": "If you say so, it can’t be helped."
+        },
+        {
+          "id": 113,
+          "paragraph_id": 63,
+          "text": "Thinking about the success rate and the demerits on our side, I thought it would be a good plan though” (Shiki)"
         },
         {
           "id": 114,
           "paragraph_id": 64,
-          "text": "Thinking about the success rate and the demerits on our side, I thought it would be a good plan though” (Shiki)"
-        },
-        {
-          "id": 115,
-          "paragraph_id": 65,
           "text": "“I don’t want to simply abandon the hero, but we can’t just straightforwardly go there."
         },
         {
-          "id": 116,
-          "paragraph_id": 65,
+          "id": 115,
+          "paragraph_id": 64,
           "text": "How troublesome."
         },
         {
-          "id": 117,
-          "paragraph_id": 65,
+          "id": 116,
+          "paragraph_id": 64,
           "text": "Uhm, hey Shiki, we were talking about the Kingdom all this time but, what about the Empire?"
+        },
+        {
+          "id": 117,
+          "paragraph_id": 64,
+          "text": "If that’s the true decoy, then there’s not much need to worry about that side?” (Makoto)"
         },
         {
           "id": 118,
           "paragraph_id": 65,
-          "text": "If that’s the true decoy, then there’s not much need to worry about that side?” (Makoto)"
+          "text": "I notice that we have only been talking about the Kingdom."
         },
         {
           "id": 119,
           "paragraph_id": 66,
-          "text": "I notice that we have only been talking about the Kingdom."
+          "text": "Right, there’s two heroes."
         },
         {
           "id": 120,
           "paragraph_id": 67,
-          "text": "Right, there’s two heroes."
-        },
-        {
-          "id": 121,
-          "paragraph_id": 68,
           "text": "“That’s the point I can’t see clearly yet."
         },
         {
-          "id": 122,
-          "paragraph_id": 68,
+          "id": 121,
+          "paragraph_id": 67,
           "text": "Honestly speaking, I don’t know."
+        },
+        {
+          "id": 122,
+          "paragraph_id": 67,
+          "text": "I do have something in mind, but I wonder if that’s actually correct” (Shiki)"
         },
         {
           "id": 123,
           "paragraph_id": 68,
-          "text": "I do have something in mind, but I wonder if that’s actually correct” (Shiki)"
+          "text": "“Can you tell me please?” (Makoto)"
         },
         {
           "id": 124,
           "paragraph_id": 69,
-          "text": "“Can you tell me please?” (Makoto)"
-        },
-        {
-          "id": 125,
-          "paragraph_id": 70,
           "text": "“For the demon race to do a two-sided attack, they still have too few fighting force."
         },
         {
-          "id": 126,
-          "paragraph_id": 70,
+          "id": 125,
+          "paragraph_id": 69,
           "text": "Moreover, the forces at the Empire are dispersed."
         },
         {
-          "id": 127,
-          "paragraph_id": 70,
+          "id": 126,
+          "paragraph_id": 69,
           "text": "I don’t feel like they are aiming for the capital at that side."
         },
         {
-          "id": 128,
-          "paragraph_id": 70,
+          "id": 127,
+          "paragraph_id": 69,
           "text": "But if the Empire discovers that the battle there is a decoy, the Empire’s hero has a dragon that is boasted for their high mobility, so he will most likely go there to provide support."
         },
         {
-          "id": 129,
-          "paragraph_id": 70,
+          "id": 128,
+          "paragraph_id": 69,
           "text": "The demons that haven’t brought down the Limia capital will be caught in a pincer attack by the Limia hero and the Empire hero."
         },
         {
-          "id": 130,
-          "paragraph_id": 70,
+          "id": 129,
+          "paragraph_id": 69,
           "text": "It seems the Empire’s hero is good against many enemies, so his power isn’t something they can ignore."
         },
         {
-          "id": 131,
-          "paragraph_id": 70,
+          "id": 130,
+          "paragraph_id": 69,
           "text": "The longer the fight prolongs, the chances the people stationed at Stella Fort for the attack will regroup with the capital, and not only will the demons have inferior numbers, they might even be wiped out."
+        },
+        {
+          "id": 131,
+          "paragraph_id": 69,
+          "text": "If that were to happen, everything will turn out as pointless” (Shiki)"
         },
         {
           "id": 132,
           "paragraph_id": 70,
-          "text": "If that were to happen, everything will turn out as pointless” (Shiki)"
+          "text": "“Yeah” (Makoto)"
         },
         {
           "id": 133,
           "paragraph_id": 71,
-          "text": "“Yeah” (Makoto)"
-        },
-        {
-          "id": 134,
-          "paragraph_id": 72,
           "text": "“So there should be a reason why they dispersed their forces at the Empire, but I don’t know the reason clearly yet."
         },
         {
-          "id": 135,
-          "paragraph_id": 72,
+          "id": 134,
+          "paragraph_id": 71,
           "text": "I am thinking that maybe the Dragon Slayer Waka-sama talked about before is slipped in one of the units heading to the Empire."
         },
         {
-          "id": 136,
-          "paragraph_id": 72,
+          "id": 135,
+          "paragraph_id": 71,
           "text": "If they were to use her to completely hold the hero back, I don’t know the reason for dispersing the forces, but I would understand how it would work to reinforce the plan to attack Limia."
         },
         {
-          "id": 137,
-          "paragraph_id": 72,
+          "id": 136,
+          "paragraph_id": 71,
           "text": "But the Dragon Slayer siding with the demon race is something that is not well known yet."
         },
         {
-          "id": 138,
-          "paragraph_id": 72,
+          "id": 137,
+          "paragraph_id": 71,
           "text": "If she were to fight in this kind of battle, the truth that she is a traitor will spread through the whole world."
+        },
+        {
+          "id": 138,
+          "paragraph_id": 71,
+          "text": "I wonder if that person would actually do something like that, is what I am mulling over right now” (Shiki)"
         },
         {
           "id": 139,
           "paragraph_id": 72,
-          "text": "I wonder if that person would actually do something like that, is what I am mulling over right now” (Shiki)"
+          "text": "“Sofia huh~ I don’t know about her at all."
         },
         {
           "id": 140,
-          "paragraph_id": 73,
-          "text": "“Sofia huh~ I don’t know about her at all."
+          "paragraph_id": 72,
+          "text": "I have only met her once, so there’s no way I would know what she is thinking” (Makoto)"
         },
         {
           "id": 141,
           "paragraph_id": 73,
-          "text": "I have only met her once, so there’s no way I would know what she is thinking” (Makoto)"
+          "text": "What we both have in common is that we have a superior dragon accompanying us."
         },
         {
           "id": 142,
           "paragraph_id": 74,
-          "text": "What we both have in common is that we have a superior dragon accompanying us."
+          "text": "But her way of thinking is something I can’t read."
         },
         {
           "id": 143,
           "paragraph_id": 75,
-          "text": "But her way of thinking is something I can’t read."
-        },
-        {
-          "id": 144,
-          "paragraph_id": 76,
           "text": "“Depends on where Rona will be appearing huh."
         },
         {
-          "id": 145,
-          "paragraph_id": 76,
+          "id": 144,
+          "paragraph_id": 75,
           "text": "If it’s in the Empire, the Empire will really be a decoy, and the dispersal of their forces is to draw out the Empire."
+        },
+        {
+          "id": 145,
+          "paragraph_id": 75,
+          "text": "Is one way of thinking, but...” (Shiki)"
         },
         {
           "id": 146,
           "paragraph_id": 76,
-          "text": "Is one way of thinking, but...” (Shiki)"
+          "text": "It seems like both the Kingdom and the Empire are in a pretty precarious situation."
         },
         {
           "id": 147,
           "paragraph_id": 77,
-          "text": "It seems like both the Kingdom and the Empire are in a pretty precarious situation."
+          "text": "Limia’s side seems worse, so I think that something should be done."
         },
         {
           "id": 148,
           "paragraph_id": 78,
-          "text": "Limia’s side seems worse, so I think that something should be done."
+          "text": "They are fellow Japanese after all."
         },
         {
           "id": 149,
           "paragraph_id": 79,
-          "text": "They are fellow Japanese after all."
+          "text": "To think that something like this was happening in the world while we were moving in Rotsgard."
         },
         {
           "id": 150,
           "paragraph_id": 80,
-          "text": "To think that something like this was happening in the world while we were moving in Rotsgard."
+          "text": "I feel like this matter will become big."
         },
         {
           "id": 151,
           "paragraph_id": 81,
-          "text": "I feel like this matter will become big."
+          "text": "◇◆◇◆◇◆◇◆"
         },
         {
           "id": 152,
           "paragraph_id": 82,
-          "text": "◇◆◇◆◇◆◇◆"
+          "text": "“The miraculous move Makoto-kun did unawarely, the restoration of the thought transmission at that timing; I thought the hero killing plan of the demon race would progress perfectly, but it seems like it will be slightly stormy” (Root)"
         },
         {
           "id": 153,
           "paragraph_id": 83,
-          "text": "“The miraculous move Makoto-kun did unawarely, the restoration of the thought transmission at that timing; I thought the hero killing plan of the demon race would progress perfectly, but it seems like it will be slightly stormy” (Root)"
+          "text": "On a tower at the corner of the Academy, Root looks at Makoto and Shiki who are close to the gate."
         },
         {
           "id": 154,
           "paragraph_id": 84,
-          "text": "On a tower at the corner of the Academy, Root looks at Makoto and Shiki who are close to the gate."
+          "text": "Quite the eyesight."
         },
         {
           "id": 155,
           "paragraph_id": 85,
-          "text": "Quite the eyesight."
+          "text": "Normally, it would be impossible to see them from that distance."
         },
         {
           "id": 156,
           "paragraph_id": 86,
-          "text": "Normally, it would be impossible to see them from that distance."
+          "text": "The most that someone with good eyes would be able to do is see those two as a speck."
         },
         {
           "id": 157,
           "paragraph_id": 87,
-          "text": "The most that someone with good eyes would be able to do is see those two as a speck."
+          "text": "At night, it would be even more difficult."
         },
         {
           "id": 158,
           "paragraph_id": 88,
-          "text": "At night, it would be even more difficult."
-        },
-        {
-          "id": 159,
-          "paragraph_id": 89,
           "text": "“With that one move, it would be like denying his connection with the demon race."
         },
         {
-          "id": 160,
-          "paragraph_id": 89,
+          "id": 159,
+          "paragraph_id": 88,
           "text": "On top of that, showing the power of the Kuzunoha Company to the various countries, they are now seen as a threat."
+        },
+        {
+          "id": 160,
+          "paragraph_id": 88,
+          "text": "Well, they did obtain a big advantage which is to have everyone in Rotsgard like Kuzunoha Company” (Root)"
         },
         {
           "id": 161,
           "paragraph_id": 89,
-          "text": "Well, they did obtain a big advantage which is to have everyone in Rotsgard like Kuzunoha Company” (Root)"
+          "text": "If the timing were faster, or a bit slower, it would have been possible that it would turn harder for Kuzunoha Company to deny their connection with the demon race."
         },
         {
           "id": 162,
           "paragraph_id": 90,
-          "text": "If the timing were faster, or a bit slower, it would have been possible that it would turn harder for Kuzunoha Company to deny their connection with the demon race."
+          "text": "The actions of Tomoe also influenced, but the setting she created from the very beginning was a bit slow, is how Root saw it in his point of view."
         },
         {
           "id": 163,
           "paragraph_id": 91,
-          "text": "The actions of Tomoe also influenced, but the setting she created from the very beginning was a bit slow, is how Root saw it in his point of view."
+          "text": "Makoto’s timing was good and it was at pinpoint."
         },
         {
           "id": 164,
-          "paragraph_id": 92,
-          "text": "Makoto’s timing was good and it was at pinpoint."
+          "paragraph_id": 91,
+          "text": "Not only that, it wasn’t his own proposition but something an authority forcefully pushed onto him."
         },
         {
           "id": 165,
           "paragraph_id": 92,
-          "text": "Not only that, it wasn’t his own proposition but something an authority forcefully pushed onto him."
+          "text": "It was a timing that many people thought as something that wasn’t his aim and intention."
         },
         {
           "id": 166,
           "paragraph_id": 93,
-          "text": "It was a timing that many people thought as something that wasn’t his aim and intention."
+          "text": "A chance that even the person himself can’t determine, a moment that he didn’t even know would be coming."
         },
         {
           "id": 167,
           "paragraph_id": 94,
-          "text": "A chance that even the person himself can’t determine, a moment that he didn’t even know would be coming."
+          "text": "It isn’t something that can be aimed for."
         },
         {
           "id": 168,
           "paragraph_id": 95,
-          "text": "It isn’t something that can be aimed for."
+          "text": "It is something that can’t be done unless you have been born in ‘that kind’ of star."
         },
         {
           "id": 169,
           "paragraph_id": 96,
-          "text": "It is something that can’t be done unless you have been born in ‘that kind’ of star."
+          "text": "Root can’t do anything but laugh."
         },
         {
           "id": 170,
           "paragraph_id": 97,
-          "text": "Root can’t do anything but laugh."
+          "text": "But well, there was also another emotion mixed in aside from his irresistible urge to laugh."
         },
         {
           "id": 171,
           "paragraph_id": 98,
-          "text": "But well, there was also another emotion mixed in aside from his irresistible urge to laugh."
-        },
-        {
-          "id": 172,
-          "paragraph_id": 99,
           "text": "“It is Makoto-kun after all."
         },
         {
-          "id": 173,
-          "paragraph_id": 99,
+          "id": 172,
+          "paragraph_id": 98,
           "text": "Even if he is below a star where he draws a jackpot from time to time, he perpetrates all those things."
+        },
+        {
+          "id": 173,
+          "paragraph_id": 98,
+          "text": "Even at this time, it even made me think that he drew a joker along with that ace” (Root)"
         },
         {
           "id": 174,
           "paragraph_id": 99,
-          "text": "Even at this time, it even made me think that he drew a joker along with that ace” (Root)"
+          "text": "That’s right."
         },
         {
           "id": 175,
           "paragraph_id": 100,
-          "text": "That’s right."
+          "text": "He had no basis, but Makoto is not lucky."
         },
         {
           "id": 176,
           "paragraph_id": 101,
-          "text": "He had no basis, but Makoto is not lucky."
+          "text": "Root knows that well."
         },
         {
           "id": 177,
           "paragraph_id": 102,
-          "text": "Root knows that well."
+          "text": "That’s why Root doesn’t think that Makoto just earned that unexpected achievement."
         },
         {
           "id": 178,
           "paragraph_id": 103,
-          "text": "That’s why Root doesn’t think that Makoto just earned that unexpected achievement."
+          "text": "Ending in a fight with a superior dragon without aiming for it, encountering a calamity spider, unable to understand the words of the people he met, having a normal appearance and still be looked down for it; no matter where you see it, he was always involved in something."
         },
         {
           "id": 179,
           "paragraph_id": 104,
-          "text": "Ending in a fight with a superior dragon without aiming for it, encountering a calamity spider, unable to understand the words of the people he met, having a normal appearance and still be looked down for it; no matter where you see it, he was always involved in something."
+          "text": "Root thinks: he has ‘that kind’ of fate."
         },
         {
           "id": 180,
           "paragraph_id": 105,
-          "text": "Root thinks: he has ‘that kind’ of fate."
+          "text": "“Furthermore, he has changed all of those into pluses and has reached up to this point."
         },
         {
           "id": 181,
-          "paragraph_id": 106,
-          "text": "“Furthermore, he has changed all of those into pluses and has reached up to this point."
+          "paragraph_id": 105,
+          "text": "This time, just what will you do next~!!” (Root)"
         },
         {
           "id": 182,
           "paragraph_id": 106,
-          "text": "This time, just what will you do next~!!” (Root)"
+          "text": "Suddenly opening wide those eyes of enjoyment, he turns towards the empty sky."
         },
         {
           "id": 183,
           "paragraph_id": 107,
-          "text": "Suddenly opening wide those eyes of enjoyment, he turns towards the empty sky."
-        },
-        {
-          "id": 184,
-          "paragraph_id": 108,
           "text": "“Impossible!"
         },
         {
-          "id": 185,
-          "paragraph_id": 108,
+          "id": 184,
+          "paragraph_id": 107,
           "text": "You shouldn’t be able to move yet!"
+        },
+        {
+          "id": 185,
+          "paragraph_id": 107,
+          "text": "Woman, you also push yourself way too hard!!” (Root)"
         },
         {
           "id": 186,
           "paragraph_id": 108,
-          "text": "Woman, you also push yourself way too hard!!” (Root)"
+          "text": "The expression of agitation and astonishment that Root was showing right now would surprise Makoto if he were to see it."
         },
         {
           "id": 187,
           "paragraph_id": 109,
-          "text": "The expression of agitation and astonishment that Root was showing right now would surprise Makoto if he were to see it."
+          "text": "A rift appears in the clouds that have been covering the sky the whole day and a sunlight shines through it."
         },
         {
           "id": 188,
           "paragraph_id": 110,
-          "text": "A rift appears in the clouds that have been covering the sky the whole day and a sunlight shines through it."
+          "text": "A golden light falls from the night sky."
         },
         {
           "id": 189,
           "paragraph_id": 111,
-          "text": "A golden light falls from the night sky."
-        },
-        {
-          "id": 190,
-          "paragraph_id": 112,
           "text": "A section of Rotsgard town was basked by a divine light that would make anyone that sees it unconsciously feel solemnity."
         }
       ],
-      "word_count": 2577
+      "word_count": 2575
     }
   ]
 }

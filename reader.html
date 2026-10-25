@@ -1824,6 +1824,23 @@
 
         function sanitizeLoadedChapter(c) {
           if (!c) return c;
+          const isMetaOrAd = (text) => {
+            if (!text) return true;
+            const t = text.trim();
+            const tl = t.toLowerCase();
+            // Author / Translator notes
+            if (/^[<\[(]?\s*(?:author['’s\s]*notes?|a\/?n|translator['’s\s]*notes?|t\/?n|tl['’s\s]*notes?|editor['’s\s]*notes?|e\/?n)\s*(?:[:\-=–—>\]\)]|$)/i.test(t)) return true;
+            // Discord links or invites (excluding legitimate story dialogue)
+            if ((tl.includes('discord') || tl.includes('disc.gg')) && !/\b(?:sow|cause|bring|unneeded|family|civil)\s+discord\b/i.test(t)) {
+              if (/(?:https?:\/\/)?(?:www\.)?discord\.(?:gg|com\/invite)\/\S+/i.test(t) || /\b(?:join|invite to)\s+(?:our|the|my)?\s*discord\b/i.test(t) || /\bdiscord\s+(?:server|link|invite)\b/i.test(t)) return true;
+            }
+            // Patreon / donations
+            if (/(?:https?:\/\/)?(?:www\.)?(?:patreon\.com|ko-fi|paypal\.me|p[\s.\-_*]*a[\s.\-_*]*t[\s.\-_*]*r[\s.\-_*]*e[\s.\-_*]*o[\s.\-_*]*n)\b/i.test(t) || /\b(?:support\s+(?:me|the\s+author)|read\s+ahead\s+on)\s+(?:my\s+)?p[\s.\-_*]*a[\s.\-_*]*t[\s.\-_*]*r[\s.\-_*]*e[\s.\-_*]*o[\s.\-_*]*n\b/i.test(t)) return true;
+            // Voting & power stones begging
+            if (t.length < 300 && /\b(?:power\s*stones?|golden\s*tickets?|magic\s*castles?|vote\s+for\s+(?:this|the|my)\s+(?:book|story|novel)|don['’]?t\s+forget\s+to\s+vote)\b/i.test(t)) return true;
+            return false;
+          };
+
           if (c.paragraphs && Array.isArray(c.paragraphs)) {
             c.paragraphs = c.paragraphs.map(p => {
               if (!p) return "";
@@ -1835,13 +1852,26 @@
                       .replace(/(\d+)\\(\d+)/g, '$1/$2')
                       .replace(/\\([a-zA-Z0-9_\-])/g, '$1')
                       .replace(/\\+\s*$/g, '')
-                      .replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '')
+                      .replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b['\"”’\.\,\)]*/gi, '')
                       .replace(/\+{6,}%?/g, '')
                       .replace(/\*{4,}/g, '');
-            }).filter(p => p && !p.toLowerCase().includes('discord.gg/') && !p.toLowerCase().includes('patreon.com/aidnovel'));
+            }).filter(p => p && !isMetaOrAd(p));
+
+            // Tail cleanup: self promo book lists and trailing filler
+            const tailWin = Math.min(12, c.paragraphs.length);
+            const startTail = c.paragraphs.length - tailWin;
+            for (let i = c.paragraphs.length - 1; i >= startTail; i--) {
+              if (/^[-—~=*#\s]*(?:my\s+other\s+novels?|check\s+(?:out\s+)?my\s+other\s+novels?|other\s+works?|<author['’s\s]*notes?>|\[author['’s\s]*notes?\])/i.test(c.paragraphs[i].trim())) {
+                c.paragraphs = c.paragraphs.slice(0, i);
+                break;
+              }
+            }
+            while (c.paragraphs.length && /^[-—~=*#\s]*(?:to\s+be\s+continued|tbc|end\s+of\s+chapter\s*\d*|thanks?\s+for\s+reading.*|adios|new\s+chapter\s+is\s+coming\s+soon|chapter\s+price\s*:\s*\d+\s*coins?|if\s+you\s+guys\s+haven['’]?t\s+read\s+all\s+four.*)[-—~=*#\s]*$/i.test(c.paragraphs[c.paragraphs.length - 1].trim())) {
+              c.paragraphs.pop();
+            }
           }
           if (c.sentences && Array.isArray(c.sentences)) {
-            c.sentences.forEach(s => {
+            c.sentences = c.sentences.map(s => {
               if (s && s.text) {
                 s.text = s.text.replace(/\\"/g, '"')
                                .replace(/\\'/g, "'")
@@ -1851,11 +1881,12 @@
                                .replace(/(\d+)\\(\d+)/g, '$1/$2')
                                .replace(/\\([a-zA-Z0-9_\-])/g, '$1')
                                .replace(/\\+\s*$/g, '')
-                               .replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '')
-                      .replace(/\+{6,}%?/g, '')
-                      .replace(/\*{4,}/g, '');
+                               .replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b['\"”’\.\,\)]*/gi, '')
+                               .replace(/\+{6,}%?/g, '')
+                               .replace(/\*{4,}/g, '');
               }
-            });
+              return s;
+            }).filter(s => s && s.text && !isMetaOrAd(s.text));
           }
           return c;
         }

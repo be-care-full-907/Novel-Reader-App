@@ -163,6 +163,51 @@ STANDALONE_AD_PATTERNS = [
     re.compile(r'^options$', re.I),
 ]
 
+# Discord Links & Invites
+DISCORD_URL_REGEX = re.compile(
+    r'(?:https?://)?(?:www\.)?(?:discord\.(?:gg|com/invite)/[a-zA-Z0-9_\-]+|discord\s*/\s*gg\s*/[a-zA-Z0-9_\-]+)',
+    re.I
+)
+DISCORD_INVITE_PARAGRAPH = re.compile(
+    r'(?i)^(?:.*?\b(?:join|invite\s+link\s+to|link\s+to|check\s+(?:out\s+)?(?:the\s+)?pictures?\s+on)\s+(?:our|the|my)?\s*discord\b.*|.*?\bdiscord\s+(?:server|link|invite|channel)\b.*)$'
+)
+# Protect regular English usage of the word "discord" (e.g. "sow discord", "civil discord")
+DISCORD_STORY_CONTEXT = re.compile(
+    r'(?i)\b(?:sow(?:ing|s|ed)?|cause(?:d|s)?|bring|brought|unneeded|family|civil|internal|marital|disrupts?|creates?)\s+discord\b|\bdiscord\s+(?:between|among|disrupts)\b'
+)
+
+# Patreon, Ko-Fi, PayPal, and Donation Promos
+DONATION_URL_REGEX = re.compile(
+    r'(?i)(?:https?://)?(?:www\.)?(?:patreon\.com/[a-zA-Z0-9_\-]+|ko-fi(?:\.com)?/[a-zA-Z0-9_\-]+|paypal\.me/[a-zA-Z0-9_\-]+|p[\s.\-_*]*[a4][\s.\-_*]*t[\s.\-_*]*r[\s.\-_*]*[e3][\s.\-_*]*[o0][\s.\-_*]*n(?:\.com)?/[a-zA-Z0-9_\-]+)'
+)
+DONATION_PROMO_PARAGRAPH = re.compile(
+    r'(?i)^(?:.*?\b(?:support\s+(?:me|the\s+author)|read\s+ahead\s+on|access\s+to\s+the\s+.*?\s+on)\s+(?:my\s+)?p[\s.\-_*]*[a4][\s.\-_*]*t[\s.\-_*]*r[\s.\-_*]*[e3][\s.\-_*]*[o0][\s.\-_*]*n\b.*|.*?\bp[\s.\-_*]*[a4][\s.\-_*]*t[\s.\-_*]*r[\s.\-_*]*[e3][\s.\-_*]*[o0][\s.\-_*]*n\s*(?:is)?\s*:.*)$'
+)
+
+# Author's Notes / Translator's Notes / Editor's Notes (A/N, T/N, E/N)
+AUTHOR_NOTE_PREFIX = re.compile(
+    r'(?i)^[<\[(]?\s*(?:author[\'’s\s]*notes?|a/?n|translator[\'’s\s]*notes?|t/?n|tl[\'’s\s]*notes?|editor[\'’s\s]*notes?|e/?n)\s*[:\-=–—>\]\)]\s*(.*)',
+    re.DOTALL
+)
+AUTHOR_NOTE_HEADER = re.compile(
+    r'(?i)^[<\[(]?\s*(?:author[\'’s\s]*notes?|a/?n|translator[\'’s\s]*notes?|t/?n|tl[\'’s\s]*notes?|editor[\'’s\s]*notes?|e/?n)\s*[>\])]?\s*$'
+)
+
+# Voting, Power Stones, Golden Tickets, Review Requests
+VOTE_PROMO_PARAGRAPH = re.compile(
+    r'(?i)^(?:.*?\b(?:power\s*stones?|golden\s*tickets?|magic\s*castles?)\b.*|.*?\b(?:vote\s+for\s+(?:this|the|my)\s+(?:book|story|novel)|rate\s+(?:and|&)\s*review|write\s+a\s+review)\b.*|don[\'’]?t\s+forget\s+to\s+vote.*|rank\s*\d+\s*=.*chapter\s+mass\s+release.*)$'
+)
+
+# Tail cleanup: Self-promotions ("My other novels", book lists) and author note headers at chapter end
+TAIL_CUT_TRIGGER_REGEX = re.compile(
+    r'(?i)^[-—~=*#\s]*(?:my\s+other\s+novels?|check\s+(?:out\s+)?my\s+other\s+novels?|other\s+works?|author[\'’s\s]*other\s+(?:novels?|books?)|<author[\'’s\s]*notes?>|\[author[\'’s\s]*notes?\]).*$'
+)
+
+# Trailing filler paragraphs dropped from chapter ends
+TAIL_TRAILING_POP_REGEX = re.compile(
+    r'(?i)^[-—~=*#\s]*(?:to\s+be\s+continued|tbc|end\s+of\s+chapter\s*\d*|thanks?\s+for\s+reading.*|adios|happy\s+new\s+month.*|new\s+chapter\s+is\s+coming\s+soon|come\s+back\s+and\s+continue\s+reading\s+tomorrow.*|chapter\s+price\s*:\s*\d+\s*coins?|unlock\s+the\s+complete\s+chapter.*|if\s+you\s+guys\s+haven[\'’]?t\s+read\s+all\s+four.*)[-—~=*#\s]*$'
+)
+
 
 def clean_paragraph_text(text: str) -> str:
     """
@@ -231,9 +276,13 @@ def clean_paragraph_text(text: str) -> str:
         text = re.sub(r'\s[\ufffd]+', ' "', text)
         text = text.replace('\ufffd', '')
 
-    # 9. Strip inline injected watermarks
+    # 9. Strip inline injected watermarks, discord links, and donation URLs
     for iw in INLINE_WATERMARK_PATTERNS:
         text = iw.sub('', text)
+    if 'discord' in text.lower():
+        text = DISCORD_URL_REGEX.sub('', text)
+    if any(k in text.lower() for k in ['patreon', 'ko-fi', 'paypal', 'p4tre0n', 'p.a.t.r.e.o.n', 'pat-reon', 'pa-treon']):
+        text = DONATION_URL_REGEX.sub('', text)
 
     # Stealth domain suffixes attached to sentence ends: e.g. "said.freewebnovel.com" -> "said."
     text = re.sub(r'([\.\!\?\"\'”’\)])\s*(?:https?://)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*', r'\1', text, flags=re.I)
@@ -265,28 +314,40 @@ def clean_paragraph_text(text: str) -> str:
 
 
 def is_ad_or_watermark_paragraph(text: str) -> bool:
-    """Returns True if the entire paragraph is an ad, promotional link, or scraper watermark."""
+    """Returns True if the entire paragraph is an ad, promotional link, author note, or scraper watermark."""
     if not text:
         return True
 
-    clean_p = text.strip().lower()
+    clean_p = text.strip()
+    clean_p_lower = clean_p.lower()
 
-    if len(clean_p) < 160 and re.search(r'https?:\s*//(?:www\.)?ko-fi\.com/\S+|ko-fi\.com/\S+', clean_p):
+    # Fast Author Note checks
+    if AUTHOR_NOTE_HEADER.match(clean_p) or AUTHOR_NOTE_PREFIX.match(clean_p):
         return True
 
-    # Catch discord links with or without http, spaced http: //, and common typos (discrod)
-    if len(clean_p) < 160 and re.search(r'(?:https?:\s*//)?(?:www\.)?disc[or]{2}d(?:\.gg|app\.com)/\S+|disc[or]{2}d\s*:\s*\S+', clean_p):
+    # Discord link / invite check (guarding legitimate narrative uses of 'discord')
+    if ('discord' in clean_p_lower or 'disc.gg' in clean_p_lower) and not DISCORD_STORY_CONTEXT.search(clean_p):
+        if DISCORD_URL_REGEX.search(clean_p) or DISCORD_INVITE_PARAGRAPH.match(clean_p):
+            return True
+
+    # Patreon / Ko-Fi / PayPal / donation check
+    if any(k in clean_p_lower for k in ['patreon', 'ko-fi', 'paypal', 'p4tre0n', 'p.a.t.r.e.o.n', 'pat-reon', 'pa-treon']):
+        if DONATION_URL_REGEX.search(clean_p) or DONATION_PROMO_PARAGRAPH.match(clean_p):
+            return True
+
+    # Voting / Power Stones / Golden Tickets begging
+    if len(clean_p) < 300 and VOTE_PROMO_PARAGRAPH.match(clean_p):
         return True
 
-    # Catch patreon links or mentions with or without http
-    if len(clean_p) < 160 and re.search(r'(?:https?:\s*//)?(?:www\.)?p[4a]tre[0o]n(?:\.com)?/\S+|pa[-_ ]*tre[0o]n\s*:\s*\S+', clean_p):
+    # General short link checks
+    if len(clean_p_lower) < 160 and re.search(r'https?:\s*//(?:www\.)?ko-fi\.com/\S+|ko-fi\.com/\S+', clean_p_lower):
         return True
 
-    if 'jksmangafreewebnovel.com' in clean_p:
+    if 'jksmangafreewebnovel.com' in clean_p_lower:
         return True
 
     for pat in STANDALONE_AD_PATTERNS:
-        if pat.search(clean_p):
+        if pat.search(clean_p_lower):
             return True
 
     return False
@@ -297,6 +358,8 @@ def clean_chapter_data(chapter: dict) -> dict:
     Cleans an entire chapter dictionary in-place and returns it:
     - Cleans title
     - Cleans and filters paragraphs
+    - Trims tail promo lists and author note blocks
+    - Pops trailing filler phrases ("To Be Continued", "Thanks for reading", etc.)
     - Removes duplicate title in paragraph 0
     - Re-tokenizes sentences for TTS
     - Updates word_count
@@ -314,6 +377,20 @@ def clean_chapter_data(chapter: dict) -> dict:
         if is_ad_or_watermark_paragraph(cleaned_p):
             continue
         cleaned_paragraphs.append(cleaned_p)
+
+    # 1. Tail cut: strip self-promo lists (e.g. "My other novels", book lists)
+    # or author note headers found within the last 12 paragraphs of the chapter
+    tail_window = min(12, len(cleaned_paragraphs))
+    start_tail_idx = len(cleaned_paragraphs) - tail_window
+    for i in range(len(cleaned_paragraphs) - 1, start_tail_idx - 1, -1):
+        p_strip = cleaned_paragraphs[i].strip()
+        if TAIL_CUT_TRIGGER_REGEX.match(p_strip):
+            cleaned_paragraphs = cleaned_paragraphs[:i]
+            break
+
+    # 2. Pop trailing filler items (e.g. "To Be Continued", "New chapter coming soon", "Thanks for reading...", coins/unlock)
+    while cleaned_paragraphs and TAIL_TRAILING_POP_REGEX.match(cleaned_paragraphs[-1].strip()):
+        cleaned_paragraphs.pop()
 
     # Check for duplicate chapter title in paragraph 0
     if cleaned_paragraphs and title:

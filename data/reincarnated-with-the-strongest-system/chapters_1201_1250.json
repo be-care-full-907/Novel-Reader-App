@@ -2790,7 +2790,6 @@
         "\"Why don't you let me deal with him in your stead?\"",
         "A familiar voice sounded above William, which made the Half-Elf look upwards.",
         "There, he found four people floating dozens of meters above his head, and the one at the center was none other than the God, Ammon, who was also Astrid's twin. It had been a while since William saw him, and his appearance made everyone in the battlefield pause whatever they were doing.",
-        "(A/N: To those who don't remember Astrid, she is Est's, Ashe's, and Isaac's Patron Goddess).",
         "\"A-Ammon!\" Morax stuttered in fear. \"Beleth, Purson, and Asmodeus, you're also here!\"",
         "\"We've come to ensure that you won't be able to escape this time around, Morax,\" Beleth said. \"You have a lot to answer to.\"",
         "\"That's right,\" Purson agreed. \"Don't think you will be able to escape this time.\"",
@@ -2892,565 +2891,560 @@
         {
           "id": 7,
           "paragraph_id": 5,
-          "text": "(A/N: To those who don't remember Astrid, she is Est's, Ashe's, and Isaac's Patron Goddess)."
+          "text": "\"A-Ammon!\" Morax stuttered in fear."
         },
         {
           "id": 8,
-          "paragraph_id": 6,
-          "text": "\"A-Ammon!\" Morax stuttered in fear."
+          "paragraph_id": 5,
+          "text": "\"Beleth, Purson, and Asmodeus, you're also here!\""
         },
         {
           "id": 9,
           "paragraph_id": 6,
-          "text": "\"Beleth, Purson, and Asmodeus, you're also here!\""
+          "text": "\"We've come to ensure that you won't be able to escape this time around, Morax,\" Beleth said."
         },
         {
           "id": 10,
-          "paragraph_id": 7,
-          "text": "\"We've come to ensure that you won't be able to escape this time around, Morax,\" Beleth said."
+          "paragraph_id": 6,
+          "text": "\"You have a lot to answer to.\""
         },
         {
           "id": 11,
           "paragraph_id": 7,
-          "text": "\"You have a lot to answer to.\""
+          "text": "\"That's right,\" Purson agreed."
         },
         {
           "id": 12,
-          "paragraph_id": 8,
-          "text": "\"That's right,\" Purson agreed."
+          "paragraph_id": 7,
+          "text": "\"Don't think you will be able to escape this time.\""
         },
         {
           "id": 13,
           "paragraph_id": 8,
-          "text": "\"Don't think you will be able to escape this time.\""
+          "text": "\"Take him,\" Asmodeus stated."
         },
         {
           "id": 14,
-          "paragraph_id": 9,
-          "text": "\"Take him,\" Asmodeus stated."
+          "paragraph_id": 8,
+          "text": "\"We can't stay here for long.\""
         },
         {
           "id": 15,
           "paragraph_id": 9,
-          "text": "\"We can't stay here for long.\""
+          "text": "The two Gods nodded and made a gesture."
         },
         {
           "id": 16,
-          "paragraph_id": 10,
-          "text": "The two Gods nodded and made a gesture."
+          "paragraph_id": 9,
+          "text": "Immediately, Morax's body was bound by several chains, sealing his fate."
         },
         {
           "id": 17,
           "paragraph_id": 10,
-          "text": "Immediately, Morax's body was bound by several chains, sealing his fate."
+          "text": "\"Hey, aren't you going to ask about my opinion?\" William glanced at the Gods who were forcefully taking his prey."
         },
         {
           "id": 18,
           "paragraph_id": 11,
-          "text": "\"Hey, aren't you going to ask about my opinion?\" William glanced at the Gods who were forcefully taking his prey."
-        },
-        {
-          "id": 19,
-          "paragraph_id": 12,
           "text": "\"No,\" Asmodeus replied."
         },
         {
-          "id": 20,
-          "paragraph_id": 12,
+          "id": 19,
+          "paragraph_id": 11,
           "text": "\"This is something between the Lords of Hell, but since we have inconvenienced you, we will make sure to compensate you at a later time."
         },
         {
-          "id": 21,
-          "paragraph_id": 12,
+          "id": 20,
+          "paragraph_id": 11,
           "text": "Our favor doesn't come cheap, Half-Elf."
+        },
+        {
+          "id": 21,
+          "paragraph_id": 11,
+          "text": "But, we will make an exception this time around, and help you deal with...\""
         },
         {
           "id": 22,
           "paragraph_id": 12,
-          "text": "But, we will make an exception this time around, and help you deal with...\""
+          "text": "\"No need to continue,\" Aamon interjected."
         },
         {
           "id": 23,
-          "paragraph_id": 13,
-          "text": "\"No need to continue,\" Aamon interjected."
+          "paragraph_id": 12,
+          "text": "\"The time is not right.\""
         },
         {
           "id": 24,
           "paragraph_id": 13,
-          "text": "\"The time is not right.\""
+          "text": "Asmodeus smiled and nodded his head in agreement."
         },
         {
           "id": 25,
-          "paragraph_id": 14,
-          "text": "Asmodeus smiled and nodded his head in agreement."
+          "paragraph_id": 13,
+          "text": "Even beings as powerful as Gods were bound by certain rules, and right now, they are able to descend on Hestia due to Morax's capture."
         },
         {
           "id": 26,
           "paragraph_id": 14,
-          "text": "Even beings as powerful as Gods were bound by certain rules, and right now, they are able to descend on Hestia due to Morax's capture."
+          "text": "\"We'll be going first,\" Beleth commented."
         },
         {
           "id": 27,
-          "paragraph_id": 15,
-          "text": "\"We'll be going first,\" Beleth commented."
+          "paragraph_id": 14,
+          "text": "\"You handle the rest, Aamon.\""
         },
         {
           "id": 28,
           "paragraph_id": 15,
-          "text": "\"You handle the rest, Aamon.\""
+          "text": "Aamon gave his comrade a brief nod."
         },
         {
           "id": 29,
-          "paragraph_id": 16,
-          "text": "Aamon gave his comrade a brief nod."
+          "paragraph_id": 15,
+          "text": "He then watched as the Lords of Hell dragged the screaming Morax, who would suffer a fate worse than death."
         },
         {
           "id": 30,
           "paragraph_id": 16,
-          "text": "He then watched as the Lords of Hell dragged the screaming Morax, who would suffer a fate worse than death."
+          "text": "After the four Gods disappeared, Aamon looked at William with a complicated gaze."
         },
         {
           "id": 31,
           "paragraph_id": 17,
-          "text": "After the four Gods disappeared, Aamon looked at William with a complicated gaze."
+          "text": "\"Let's have a private talk,\" Aamon said."
         },
         {
           "id": 32,
           "paragraph_id": 18,
-          "text": "\"Let's have a private talk,\" Aamon said."
-        },
-        {
-          "id": 33,
-          "paragraph_id": 19,
           "text": "William frowned, but he still nodded his head."
         },
         {
-          "id": 34,
-          "paragraph_id": 19,
+          "id": 33,
+          "paragraph_id": 18,
           "text": "Right now, he was dealing with a God."
+        },
+        {
+          "id": 34,
+          "paragraph_id": 18,
+          "text": "Even though he had merged with Sun Wukong, fighting against a bonafide God was still out of their reach."
         },
         {
           "id": 35,
           "paragraph_id": 19,
-          "text": "Even though he had merged with Sun Wukong, fighting against a bonafide God was still out of their reach."
+          "text": "With a snap of his finger, time stood still."
         },
         {
           "id": 36,
-          "paragraph_id": 20,
-          "text": "With a snap of his finger, time stood still."
+          "paragraph_id": 19,
+          "text": "Everyone, aside from the two of them, were frozen in time, and were unable to listen to their discussion."
         },
         {
           "id": 37,
           "paragraph_id": 20,
-          "text": "Everyone, aside from the two of them, were frozen in time, and were unable to listen to their discussion."
+          "text": "\"First, let me thank you for defeating Morax,\" Aamon replied."
         },
         {
           "id": 38,
-          "paragraph_id": 21,
-          "text": "\"First, let me thank you for defeating Morax,\" Aamon replied."
+          "paragraph_id": 20,
+          "text": "\"We have long been searching for his traces, and now that we finally captured him, we will be able to make him pay for everything that he has done."
         },
         {
           "id": 39,
           "paragraph_id": 21,
-          "text": "\"We have long been searching for his traces, and now that we finally captured him, we will be able to make him pay for everything that he has done."
+          "text": "\"Second, I would like to apologize because we basically took him from you without caring for your opinion."
         },
         {
           "id": 40,
-          "paragraph_id": 22,
-          "text": "\"Second, I would like to apologize because we basically took him from you without caring for your opinion."
+          "paragraph_id": 21,
+          "text": "Morax is a criminal within the Temple of the Gods, and we cannot allow him to remain in the mortal realm.\""
         },
         {
           "id": 41,
           "paragraph_id": 22,
-          "text": "Morax is a criminal within the Temple of the Gods, and we cannot allow him to remain in the mortal realm.\""
+          "text": "William listened with his arms crossed over his chest."
         },
         {
           "id": 42,
-          "paragraph_id": 23,
-          "text": "William listened with his arms crossed over his chest."
+          "paragraph_id": 22,
+          "text": "Although he wanted to interrogate Morax and ask him a few questions, that was now impossible to do because the Gods had already called dibs on him."
         },
         {
           "id": 43,
           "paragraph_id": 23,
-          "text": "Although he wanted to interrogate Morax and ask him a few questions, that was now impossible to do because the Gods had already called dibs on him."
+          "text": "\"Lastly, thank you for taking care of my daughter,\" Aamon stated."
         },
         {
           "id": 44,
           "paragraph_id": 24,
-          "text": "\"Lastly, thank you for taking care of my daughter,\" Aamon stated."
+          "text": "\"Daughter?\" William asked in confusion."
         },
         {
           "id": 45,
-          "paragraph_id": 25,
-          "text": "\"Daughter?\" William asked in confusion."
+          "paragraph_id": 24,
+          "text": "\"Who's your daughter?\""
         },
         {
           "id": 46,
           "paragraph_id": 25,
-          "text": "\"Who's your daughter?\""
+          "text": "Aamon smiled."
         },
         {
           "id": 47,
-          "paragraph_id": 26,
-          "text": "Aamon smiled."
+          "paragraph_id": 25,
+          "text": "He knew that the Half-Elf wasn't aware of who his daughter was, so he took this opportunity to tell the black-haired teenager who she was."
         },
         {
           "id": 48,
           "paragraph_id": 26,
-          "text": "He knew that the Half-Elf wasn't aware of who his daughter was, so he took this opportunity to tell the black-haired teenager who she was."
-        },
-        {
-          "id": 49,
-          "paragraph_id": 27,
           "text": "\"Shannon,\" Aamon answered."
         },
         {
-          "id": 50,
-          "paragraph_id": 27,
+          "id": 49,
+          "paragraph_id": 26,
           "text": "\"She is my daughter."
+        },
+        {
+          "id": 50,
+          "paragraph_id": 26,
+          "text": "If you harm her in any way I will kill you.\""
         },
         {
           "id": 51,
           "paragraph_id": 27,
-          "text": "If you harm her in any way I will kill you.\""
+          "text": "\"Oh...\" William blinked."
         },
         {
           "id": 52,
-          "paragraph_id": 28,
-          "text": "\"Oh...\" William blinked."
+          "paragraph_id": 27,
+          "text": "\"Now that you mention it, the two of you have similar hair colors, but she doesn't look like you.\""
         },
         {
           "id": 53,
           "paragraph_id": 28,
-          "text": "\"Now that you mention it, the two of you have similar hair colors, but she doesn't look like you.\""
+          "text": "\"She takes after her mother.\""
         },
         {
           "id": 54,
           "paragraph_id": 29,
-          "text": "\"She takes after her mother.\""
+          "text": "\"Good for her.\""
         },
         {
           "id": 55,
           "paragraph_id": 30,
-          "text": "\"Good for her.\""
+          "text": "The Grand Marquis of Hell's smile stiffened because he had the impression that William said \"Good for her\" because he meant that if Shannon took after him, she would not look good."
         },
         {
           "id": 56,
           "paragraph_id": 31,
-          "text": "The Grand Marquis of Hell's smile stiffened because he had the impression that William said \"Good for her\" because he meant that if Shannon took after him, she would not look good."
-        },
-        {
-          "id": 57,
-          "paragraph_id": 32,
           "text": "Aamon and Shannon both had silver-white hair."
         },
         {
-          "id": 58,
-          "paragraph_id": 32,
+          "id": 57,
+          "paragraph_id": 31,
           "text": "However, Shannon's eyes were purple, and Aamon's eyes were blue."
+        },
+        {
+          "id": 58,
+          "paragraph_id": 31,
+          "text": "Also, her face was more delicate, compared to Aamon's sharp features, which—despite making him quite handsome—gave him a more devilish vibe."
         },
         {
           "id": 59,
           "paragraph_id": 32,
-          "text": "Also, her face was more delicate, compared to Aamon's sharp features, which—despite making him quite handsome—gave him a more devilish vibe."
+          "text": "\"William, just remember, my daughter is off limits,\" Aamon replied."
         },
         {
           "id": 60,
           "paragraph_id": 33,
-          "text": "\"William, just remember, my daughter is off limits,\" Aamon replied."
+          "text": "\"Do I look like someone who had the time to chase the skirts of fox girls?\""
         },
         {
           "id": 61,
           "paragraph_id": 34,
-          "text": "\"Do I look like someone who had the time to chase the skirts of fox girls?\""
-        },
-        {
-          "id": 62,
-          "paragraph_id": 35,
           "text": "\"I'm just giving you a reminder."
         },
         {
-          "id": 63,
-          "paragraph_id": 35,
+          "id": 62,
+          "paragraph_id": 34,
           "text": "Her mother is a bit conservative, so she would prefer her daughter to be wed first before..."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 34,
+          "text": "Why am I explaining this to you?\""
         },
         {
           "id": 64,
           "paragraph_id": 35,
-          "text": "Why am I explaining this to you?\""
+          "text": "Aamon glared at William who just shrugged his shoulders."
         },
         {
           "id": 65,
-          "paragraph_id": 36,
-          "text": "Aamon glared at William who just shrugged his shoulders."
+          "paragraph_id": 35,
+          "text": "The Half-Elf had the \"it's not my business\" expression on his face, which made the God have the strong urge to slap him."
         },
         {
           "id": 66,
           "paragraph_id": 36,
-          "text": "The Half-Elf had the \"it's not my business\" expression on his face, which made the God have the strong urge to slap him."
+          "text": "\"Well, that is all that I want to say,\" Aamon said as he glanced at James, who quickly averted his gaze and pretended that he was frozen as well."
         },
         {
           "id": 67,
           "paragraph_id": 37,
-          "text": "\"Well, that is all that I want to say,\" Aamon said as he glanced at James, who quickly averted his gaze and pretended that he was frozen as well."
+          "text": "The corner of the handsome God's lips twitched, but he no longer pursued the matter."
         },
         {
           "id": 68,
-          "paragraph_id": 38,
-          "text": "The corner of the handsome God's lips twitched, but he no longer pursued the matter."
+          "paragraph_id": 37,
+          "text": "He just disappeared completely to return to Hell and deal with the traitorous Morax once and for all."
         },
         {
           "id": 69,
           "paragraph_id": 38,
-          "text": "He just disappeared completely to return to Hell and deal with the traitorous Morax once and for all."
+          "text": "The flow of time returned, and everyone blinked in confusion because the people that had arrived earlier disappeared without a trace."
         },
         {
           "id": 70,
           "paragraph_id": 39,
-          "text": "The flow of time returned, and everyone blinked in confusion because the people that had arrived earlier disappeared without a trace."
+          "text": "James rubbed his chin as he appraised Astrape, Bronte, Titania, the Nymphs."
         },
         {
           "id": 71,
-          "paragraph_id": 40,
-          "text": "James rubbed his chin as he appraised Astrape, Bronte, Titania, the Nymphs."
+          "paragraph_id": 39,
+          "text": "A moment later, the old man nodded his head in satisfaction and gave William two thumbs up in his heart."
         },
         {
           "id": 72,
           "paragraph_id": 40,
-          "text": "A moment later, the old man nodded his head in satisfaction and gave William two thumbs up in his heart."
+          "text": "\"Gramps, don't go anywhere yet,\" William said as he walked towards his Grandpa."
         },
         {
           "id": 73,
-          "paragraph_id": 41,
-          "text": "\"Gramps, don't go anywhere yet,\" William said as he walked towards his Grandpa."
+          "paragraph_id": 40,
+          "text": "\"There is an important matter that I need to tell you in regards to our family.\""
         },
         {
           "id": 74,
           "paragraph_id": 41,
-          "text": "\"There is an important matter that I need to tell you in regards to our family.\""
+          "text": "\"Oh?\" James arched an eyebrow."
         },
         {
           "id": 75,
-          "paragraph_id": 42,
-          "text": "\"Oh?\" James arched an eyebrow."
+          "paragraph_id": 41,
+          "text": "Judging by the expression on William's face, he had a feeling that it was something serious."
         },
         {
           "id": 76,
           "paragraph_id": 42,
-          "text": "Judging by the expression on William's face, he had a feeling that it was something serious."
+          "text": "\"Let me first deal with these giants,\" William stated."
         },
         {
           "id": 77,
-          "paragraph_id": 43,
-          "text": "\"Let me first deal with these giants,\" William stated."
+          "paragraph_id": 42,
+          "text": "\"We'll talk after I'm done.\""
         },
         {
           "id": 78,
           "paragraph_id": 43,
-          "text": "\"We'll talk after I'm done.\""
-        },
-        {
-          "id": 79,
-          "paragraph_id": 44,
           "text": "James nodded."
         },
         {
-          "id": 80,
-          "paragraph_id": 44,
+          "id": 79,
+          "paragraph_id": 43,
           "text": "\"Okay."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 43,
+          "text": "I need to have a chat with your other grandfather, and also visit your father while I am here, so I'll wait for you in the Sacred Grove.\""
         },
         {
           "id": 81,
           "paragraph_id": 44,
-          "text": "I need to have a chat with your other grandfather, and also visit your father while I am here, so I'll wait for you in the Sacred Grove.\""
+          "text": "\"Understood.\""
         },
         {
           "id": 82,
           "paragraph_id": 45,
-          "text": "\"Understood.\""
+          "text": "\"See you later.\""
         },
         {
           "id": 83,
           "paragraph_id": 46,
-          "text": "\"See you later.\""
+          "text": "James guided Sleipnir towards the Sacred Grove to see his daughter-in-law, as well as check on the condition of his son, who had merged with the World Tree."
         },
         {
           "id": 84,
-          "paragraph_id": 47,
-          "text": "James guided Sleipnir towards the Sacred Grove to see his daughter-in-law, as well as check on the condition of his son, who had merged with the World Tree."
+          "paragraph_id": 46,
+          "text": "It had been several years since the old coot saw his in-laws in the Silvermoon Continent, and thought that this was a perfect opportunity to catch up."
         },
         {
           "id": 85,
           "paragraph_id": 47,
-          "text": "It had been several years since the old coot saw his in-laws in the Silvermoon Continent, and thought that this was a perfect opportunity to catch up."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 48,
           "text": "William glanced at James' retreating back before flying towards the sky."
         },
         {
-          "id": 87,
-          "paragraph_id": 48,
+          "id": 86,
+          "paragraph_id": 47,
           "text": "Hundreds of giants had died in the battle earlier, while several had surrendered."
+        },
+        {
+          "id": 87,
+          "paragraph_id": 47,
+          "text": "The Pseudo-God, Zotor, also died in battle as he led his subordinates to charge at the World Tree, while the Half-Elf was busy dealing with Morax."
         },
         {
           "id": 88,
           "paragraph_id": 48,
-          "text": "The Pseudo-God, Zotor, also died in battle as he led his subordinates to charge at the World Tree, while the Half-Elf was busy dealing with Morax."
+          "text": "\"It's a shame, but it can't be helped,\" William muttered as he raised his hand."
         },
         {
           "id": 89,
           "paragraph_id": 49,
-          "text": "\"It's a shame, but it can't be helped,\" William muttered as he raised his hand."
+          "text": "A moment later, the dead Pseudo-God rose from the dead, with its eyes burning with a bluish hue."
         },
         {
           "id": 90,
-          "paragraph_id": 50,
-          "text": "A moment later, the dead Pseudo-God rose from the dead, with its eyes burning with a bluish hue."
+          "paragraph_id": 49,
+          "text": "After Zotor had been raised from the dead, his rank dropped to the peak of the Demigod Rank."
         },
         {
           "id": 91,
           "paragraph_id": 50,
-          "text": "After Zotor had been raised from the dead, his rank dropped to the peak of the Demigod Rank."
+          "text": "The other giants that had died were also raised from the dead."
         },
         {
           "id": 92,
-          "paragraph_id": 51,
-          "text": "The other giants that had died were also raised from the dead."
+          "paragraph_id": 50,
+          "text": "Fortunately, their ranks didn't regress."
         },
         {
           "id": 93,
           "paragraph_id": 51,
-          "text": "Fortunately, their ranks didn't regress."
+          "text": "Twenty-two Demigods had died in the battle, and William turned them all into revenants, retaining their strength."
         },
         {
           "id": 94,
           "paragraph_id": 52,
-          "text": "Twenty-two Demigods had died in the battle, and William turned them all into revenants, retaining their strength."
+          "text": "The remaining eight Demigods cowered, as the black-haired teenager gave them all a side-long glance."
         },
         {
           "id": 95,
-          "paragraph_id": 53,
-          "text": "The remaining eight Demigods cowered, as the black-haired teenager gave them all a side-long glance."
+          "paragraph_id": 52,
+          "text": "His eyes were void with mercy, and they knew that if they resisted him, all of them would still serve him after their deaths."
         },
         {
           "id": 96,
           "paragraph_id": 53,
-          "text": "His eyes were void with mercy, and they knew that if they resisted him, all of them would still serve him after their deaths."
+          "text": "A moment later, William instantly teleported in front of one of the giants and placed his hand over its forehead."
         },
         {
           "id": 97,
-          "paragraph_id": 54,
-          "text": "A moment later, William instantly teleported in front of one of the giants and placed his hand over its forehead."
+          "paragraph_id": 53,
+          "text": "A moment later, the giant' body shuddered and a mark appeared on its forehead."
         },
         {
           "id": 98,
           "paragraph_id": 54,
-          "text": "A moment later, the giant' body shuddered and a mark appeared on its forehead."
+          "text": "The giant's hair color changed to black, and their eyes also became as black as coals."
         },
         {
           "id": 99,
-          "paragraph_id": 55,
-          "text": "The giant's hair color changed to black, and their eyes also became as black as coals."
+          "paragraph_id": 54,
+          "text": "William had used the power of darkness to corrupt it, and make it one of his loyal subjects."
         },
         {
           "id": 100,
           "paragraph_id": 55,
-          "text": "William had used the power of darkness to corrupt it, and make it one of his loyal subjects."
+          "text": "The Half-Elf repeated the same thing to the other giants, who had no choice but to accept his mark of darkness."
         },
         {
           "id": 101,
-          "paragraph_id": 56,
-          "text": "The Half-Elf repeated the same thing to the other giants, who had no choice but to accept his mark of darkness."
+          "paragraph_id": 55,
+          "text": "They knew that even in death, they would not escape their fate, so they decided to submit and live for the time being."
         },
         {
           "id": 102,
           "paragraph_id": 56,
-          "text": "They knew that even in death, they would not escape their fate, so they decided to submit and live for the time being."
+          "text": "Several hours passed, as William gazed at his new army that were all kneeling in front of him."
         },
         {
           "id": 103,
           "paragraph_id": 57,
-          "text": "Several hours passed, as William gazed at his new army that were all kneeling in front of him."
+          "text": "One Peak Demigod."
         },
         {
           "id": 104,
           "paragraph_id": 58,
-          "text": "One Peak Demigod."
+          "text": "Thirty Demigods."
         },
         {
           "id": 105,
           "paragraph_id": 59,
-          "text": "Thirty Demigods."
+          "text": "And Hundreds of Myriad-Ranked Giants."
         },
         {
           "id": 106,
           "paragraph_id": 60,
-          "text": "And Hundreds of Myriad-Ranked Giants."
+          "text": "More than half of them were revenants, but it didn't matter to him."
         },
         {
           "id": 107,
-          "paragraph_id": 61,
-          "text": "More than half of them were revenants, but it didn't matter to him."
+          "paragraph_id": 60,
+          "text": "The force under his command right now surpassed all the factions in the world of Hestia."
         },
         {
           "id": 108,
           "paragraph_id": 61,
-          "text": "The force under his command right now surpassed all the factions in the world of Hestia."
+          "text": "William waved his hand and sent all the giants inside his Thousand Beast Domain."
         },
         {
           "id": 109,
-          "paragraph_id": 62,
-          "text": "William waved his hand and sent all the giants inside his Thousand Beast Domain."
+          "paragraph_id": 61,
+          "text": "He had no intention of letting Felix's Faction, the Alliance's, and the Holy Order of Light know anything about the forces under his command."
         },
         {
           "id": 110,
           "paragraph_id": 62,
-          "text": "He had no intention of letting Felix's Faction, the Alliance's, and the Holy Order of Light know anything about the forces under his command."
+          "text": "The Guardians of the Silvermoon Continent looked at this scene with complicated looks on their faces."
         },
         {
           "id": 111,
-          "paragraph_id": 63,
-          "text": "The Guardians of the Silvermoon Continent looked at this scene with complicated looks on their faces."
+          "paragraph_id": 62,
+          "text": "They knew that if William truly wanted to make them submit, all he had to do was to corrupt, or kill them all to be raised as part of his Undead Legion."
         },
         {
           "id": 112,
           "paragraph_id": 63,
-          "text": "They knew that if William truly wanted to make them submit, all he had to do was to corrupt, or kill them all to be raised as part of his Undead Legion."
-        },
-        {
-          "id": 113,
-          "paragraph_id": 64,
           "text": "William returned to the Sacred Grove without even sparing the Guardians a glance."
         },
         {
-          "id": 114,
-          "paragraph_id": 64,
+          "id": 113,
+          "paragraph_id": 63,
           "text": "It was not because he wasn't interested in adding them to his army."
+        },
+        {
+          "id": 114,
+          "paragraph_id": 63,
+          "text": "He just didn't want to make his mother sad, so he allowed them to remain free to protect the Elven Lands and the Sacred Grove from harm."
         },
         {
           "id": 115,
           "paragraph_id": 64,
-          "text": "He just didn't want to make his mother sad, so he allowed them to remain free to protect the Elven Lands and the Sacred Grove from harm."
+          "text": "\"I think it is time for all of us to make a decision,\" Myrendor said as he glanced at his comrades."
         },
         {
           "id": 116,
           "paragraph_id": 65,
-          "text": "\"I think it is time for all of us to make a decision,\" Myrendor said as he glanced at his comrades."
-        },
-        {
-          "id": 117,
-          "paragraph_id": 66,
           "text": "Drauum and the rest of the Guardians nodded their heads in understanding."
         },
         {
-          "id": 118,
-          "paragraph_id": 66,
+          "id": 117,
+          "paragraph_id": 65,
           "text": "Now that the world was embroiled in war, they no longer had the leisure to sit on the fence, and remain as spectators."
         }
       ],
-      "word_count": 1621
+      "word_count": 1606
     },
     {
       "chapter_index": 1208,
@@ -11127,7 +11121,6 @@
         "The Half-Elf knew that after today, the two Virtuous Ladies would realize how impossible it was to beat Medusa in a short period of time. This would force them to reconsider his offer of having their blood drunk by him, which would make them fall into his hands.",
         "Shana and Melody had nowhere to run, or hide, because everything inside the Domain was under his control. Even if they were to turn themselves invisible, or change their form into a bug, William would still be able to know where they were.",
         "\"Will, you seem like you are having fun,\" Haleth said as she sat beside William. \"Did something good happen?\"",
-        "(A/N: To those who forgot who Haleth is, she is the Vice-Commander of the Army in the Port City of Alabaster. She was the Half-Elf who had a one-sided crush on William.)",
         "\"Yes,\" William replied as he pulled Haleth towards him. \"I might be eating a piglet tonight.\"",
         "\"A piglet?\" Haleth blinked in confusion. \"W-Wait! Are you planning to eat Gullinbursti? You can't do that, Will!\"",
         "The black-haired teenager smirked before planting a kiss on the pretty Half-Elf's cheeks, making the latter blush.",
@@ -11721,95 +11714,85 @@
         {
           "id": 116,
           "paragraph_id": 71,
-          "text": "(A/N: To those who forgot who Haleth is, she is the Vice-Commander of the Army in the Port City of Alabaster."
+          "text": "\"Yes,\" William replied as he pulled Haleth towards him."
         },
         {
           "id": 117,
           "paragraph_id": 71,
-          "text": "She was the Half-Elf who had a one-sided crush on William.)"
+          "text": "\"I might be eating a piglet tonight.\""
         },
         {
           "id": 118,
           "paragraph_id": 72,
-          "text": "\"Yes,\" William replied as he pulled Haleth towards him."
+          "text": "\"A piglet?\" Haleth blinked in confusion."
         },
         {
           "id": 119,
           "paragraph_id": 72,
-          "text": "\"I might be eating a piglet tonight.\""
+          "text": "\"W-Wait!"
         },
         {
           "id": 120,
-          "paragraph_id": 73,
-          "text": "\"A piglet?\" Haleth blinked in confusion."
+          "paragraph_id": 72,
+          "text": "Are you planning to eat Gullinbursti?"
         },
         {
           "id": 121,
-          "paragraph_id": 73,
-          "text": "\"W-Wait!"
+          "paragraph_id": 72,
+          "text": "You can't do that, Will!\""
         },
         {
           "id": 122,
           "paragraph_id": 73,
-          "text": "Are you planning to eat Gullinbursti?"
+          "text": "The black-haired teenager smirked before planting a kiss on the pretty Half-Elf's cheeks, making the latter blush."
         },
         {
           "id": 123,
-          "paragraph_id": 73,
-          "text": "You can't do that, Will!\""
+          "paragraph_id": 74,
+          "text": "\"Don't worry, I'm not going to eat Gullinbursti,\" William replied."
         },
         {
           "id": 124,
           "paragraph_id": 74,
-          "text": "The black-haired teenager smirked before planting a kiss on the pretty Half-Elf's cheeks, making the latter blush."
+          "text": "\"I plan to sink my fangs into a different piglet."
         },
         {
           "id": 125,
-          "paragraph_id": 75,
-          "text": "\"Don't worry, I'm not going to eat Gullinbursti,\" William replied."
+          "paragraph_id": 74,
+          "text": "One that doesn't understand that she's a pig at the moment.\""
         },
         {
           "id": 126,
           "paragraph_id": 75,
-          "text": "\"I plan to sink my fangs into a different piglet."
+          "text": "\"Um, I don't really know what you're planning to eat, but do it in moderation, okay?\" Haleth said as she gave William a hug."
         },
         {
           "id": 127,
           "paragraph_id": 75,
-          "text": "One that doesn't understand that she's a pig at the moment.\""
+          "text": "\"I don't want you to get an upset stomach.\""
         },
         {
           "id": 128,
           "paragraph_id": 76,
-          "text": "\"Um, I don't really know what you're planning to eat, but do it in moderation, okay?\" Haleth said as she gave William a hug."
+          "text": "William hugged the Half-Elf, whom he had accepted as his concubine, back."
         },
         {
           "id": 129,
           "paragraph_id": 76,
-          "text": "\"I don't want you to get an upset stomach.\""
+          "text": "The two shared a passionate kiss and ignored the \"piglet\" who was hiding somewhere in the Thousand Beast Domain."
         },
         {
           "id": 130,
           "paragraph_id": 77,
-          "text": "William hugged the Half-Elf, whom he had accepted as his concubine, back."
-        },
-        {
-          "id": 131,
-          "paragraph_id": 77,
-          "text": "The two shared a passionate kiss and ignored the \"piglet\" who was hiding somewhere in the Thousand Beast Domain."
-        },
-        {
-          "id": 132,
-          "paragraph_id": 78,
           "text": "The black-haired teenager knew that sooner or later, that piglet would be served to him on a silver platter."
         },
         {
-          "id": 133,
-          "paragraph_id": 79,
+          "id": 131,
+          "paragraph_id": 78,
           "text": "All that he needed to do was wait patiently until it had been cooked to perfection."
         }
       ],
-      "word_count": 1810
+      "word_count": 1778
     },
     {
       "chapter_index": 1223,
@@ -24861,7 +24844,6 @@
         "Vesta, Kira, and Athrun, fought on the ground, alongside William's Herd, that were composed of the goats that had taken demi-human forms. Chronos and Aslan led the charge and annihilated all the enemies that blocked their path.",
         "Medusa, rode on a two-meter tall golden pig, while waving a mace in her hand. She, alongside Gullinbursti, and Sharur were out for blood, and despite William's intention to not let them join the battle, the Little Gorgon managed to convince the black-haired teenager to allow them to fight.",
         "William agreed to their request and ordered Ragnar, Fenrir, and the Blood Eagle, Scadrez, to watch over the Little Gorgon who was out for blood.",
-        "(A/N: Ragnar was Ashe's Beast Companion who transforms into a Cerberus during battle. Fenrir is the Trollhound that had served William during the war in the Southern Continent.)",
         "Chloee, Charmaine, and the rest of the Valkyries were fighting in the air. They didn't fight far from William and were poised to help him at any moment if something unexpected happened.",
         "Princess Aila, Shannon, Haleth, and Anh, watched the battle in the Villa. Princess Aila wasn't suited for battle, and William didn't want her to get hurt.",
         "Haleth, on the other hand, was a warrior mage, but William didn't allow her to join the battle because he was afraid that the latter would be overwhelmed by the opponents because she was only at the Mithril Rank, which was weaker than a Centennial Beast.",
@@ -24972,205 +24954,195 @@
         {
           "id": 15,
           "paragraph_id": 11,
-          "text": "(A/N: Ragnar was Ashe's Beast Companion who transforms into a Cerberus during battle."
+          "text": "Chloee, Charmaine, and the rest of the Valkyries were fighting in the air."
         },
         {
           "id": 16,
           "paragraph_id": 11,
-          "text": "Fenrir is the Trollhound that had served William during the war in the Southern Continent.)"
+          "text": "They didn't fight far from William and were poised to help him at any moment if something unexpected happened."
         },
         {
           "id": 17,
           "paragraph_id": 12,
-          "text": "Chloee, Charmaine, and the rest of the Valkyries were fighting in the air."
+          "text": "Princess Aila, Shannon, Haleth, and Anh, watched the battle in the Villa."
         },
         {
           "id": 18,
           "paragraph_id": 12,
-          "text": "They didn't fight far from William and were poised to help him at any moment if something unexpected happened."
+          "text": "Princess Aila wasn't suited for battle, and William didn't want her to get hurt."
         },
         {
           "id": 19,
           "paragraph_id": 13,
-          "text": "Princess Aila, Shannon, Haleth, and Anh, watched the battle in the Villa."
-        },
-        {
-          "id": 20,
-          "paragraph_id": 13,
-          "text": "Princess Aila wasn't suited for battle, and William didn't want her to get hurt."
-        },
-        {
-          "id": 21,
-          "paragraph_id": 14,
           "text": "Haleth, on the other hand, was a warrior mage, but William didn't allow her to join the battle because he was afraid that the latter would be overwhelmed by the opponents because she was only at the Mithril Rank, which was weaker than a Centennial Beast."
         },
         {
-          "id": 22,
-          "paragraph_id": 15,
+          "id": 20,
+          "paragraph_id": 14,
           "text": "As for Shannon, her divinity was simply too powerful and it might cause friendly fire if she were to unleash it."
         },
         {
-          "id": 23,
-          "paragraph_id": 16,
+          "id": 21,
+          "paragraph_id": 15,
           "text": "Because of this, they just observed the battle from the safety of the Thousand Beast Domain, alongside the non-combatants that had stayed behind."
         },
         {
-          "id": 24,
-          "paragraph_id": 17,
+          "id": 22,
+          "paragraph_id": 16,
           "text": "Sepheron was busy attacking the Shadow Monsters who were trying to help Felix in his battle against William."
         },
         {
-          "id": 25,
-          "paragraph_id": 18,
+          "id": 23,
+          "paragraph_id": 17,
           "text": "The Black Phoenix's Dark Flames, incinerated all opposition, allowing its Master to fight without worry."
         },
         {
-          "id": 26,
-          "paragraph_id": 19,
+          "id": 24,
+          "paragraph_id": 18,
           "text": "\"Hell Fire!\" Felix roared as he unleashed a cone of purplish flames, which was an ability that he had gained from absorbing the powers of one of the Princesses that he had bedded."
+        },
+        {
+          "id": 25,
+          "paragraph_id": 19,
+          "text": "William dodged the attack, and was forced to dodge again and again after Felix unleashed a barrage of high-level spells that he had also obtained from the women that had fallen into his hands."
+        },
+        {
+          "id": 26,
+          "paragraph_id": 20,
+          "text": "\"What do you think?\" Felix asked as he gazed at the Half-Elf who had distanced himself from him."
         },
         {
           "id": 27,
           "paragraph_id": 20,
-          "text": "William dodged the attack, and was forced to dodge again and again after Felix unleashed a barrage of high-level spells that he had also obtained from the women that had fallen into his hands."
+          "text": "\"This is the difference in our power."
         },
         {
           "id": 28,
-          "paragraph_id": 21,
-          "text": "\"What do you think?\" Felix asked as he gazed at the Half-Elf who had distanced himself from him."
+          "paragraph_id": 20,
+          "text": "I have absorbed the abilities of many women, and with this, I will send you to your grave.\""
         },
         {
           "id": 29,
           "paragraph_id": 21,
-          "text": "\"This is the difference in our power."
+          "text": "\"Is that so?\" William asked back."
         },
         {
           "id": 30,
           "paragraph_id": 21,
-          "text": "I have absorbed the abilities of many women, and with this, I will send you to your grave.\""
+          "text": "\"If that is the only thing you can do then I guess it's time for me to end this.\""
         },
         {
           "id": 31,
           "paragraph_id": 22,
-          "text": "\"Is that so?\" William asked back."
-        },
-        {
-          "id": 32,
-          "paragraph_id": 22,
-          "text": "\"If that is the only thing you can do then I guess it's time for me to end this.\""
-        },
-        {
-          "id": 33,
-          "paragraph_id": 23,
           "text": "William's Status Page lit up, and two names that were under his Familia Members glowed golden as he activated the powers that they had bestowed upon him."
         },
         {
-          "id": 34,
-          "paragraph_id": 24,
+          "id": 32,
+          "paragraph_id": 23,
           "text": "\"Lira Vi Vevila\""
         },
         {
-          "id": 35,
-          "paragraph_id": 25,
+          "id": 33,
+          "paragraph_id": 24,
           "text": "\"Ephemera Fortuna\""
         },
         {
-          "id": 36,
-          "paragraph_id": 26,
+          "id": 34,
+          "paragraph_id": 25,
           "text": "At the same time William had activated the power of her two Familia Members, the two young ladies, who were inside the Palace of Light, felt their connection to William strengthen."
         },
         {
-          "id": 37,
-          "paragraph_id": 27,
+          "id": 35,
+          "paragraph_id": 26,
           "text": "A moment later, the black-haired teenager felt the power of the two Virtuous Lady's Divinities flowing inside his body, allowing him to use their powers to a certain extent."
         },
         {
-          "id": 38,
-          "paragraph_id": 28,
+          "id": 36,
+          "paragraph_id": 27,
           "text": "\"Exceed Break,\" William declared."
         },
         {
-          "id": 39,
-          "paragraph_id": 29,
+          "id": 37,
+          "paragraph_id": 28,
           "text": "<< Exceed Break >"
         },
         {
-          "id": 40,
-          "paragraph_id": 30,
+          "id": 38,
+          "paragraph_id": 29,
           "text": "- Allows you to increase your normal speed by up to 500%"
+        },
+        {
+          "id": 39,
+          "paragraph_id": 30,
+          "text": "- Allows you to decrease your enemy's speed by up to 500%"
+        },
+        {
+          "id": 40,
+          "paragraph_id": 31,
+          "text": "Ephemera's Divinity increased William's attack and defense, depending on the conviction of his heart, and what he perceived as justice."
         },
         {
           "id": 41,
           "paragraph_id": 31,
-          "text": "- Allows you to decrease your enemy's speed by up to 500%"
+          "text": "As long as he believed that his cause was for the sake of Justice, his attack and defense would increase drastically."
         },
         {
           "id": 42,
           "paragraph_id": 32,
-          "text": "Ephemera's Divinity increased William's attack and defense, depending on the conviction of his heart, and what he perceived as justice."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 32,
-          "text": "As long as he believed that his cause was for the sake of Justice, his attack and defense would increase drastically."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 33,
           "text": "In just the blink of an eye, William reappeared in front of Felix and smashed Ruyi Jingu Bang against the green-haired Demon's face, sending him crashing towards the ground."
         },
         {
-          "id": 45,
-          "paragraph_id": 34,
+          "id": 43,
+          "paragraph_id": 33,
           "text": "Because William had increased his speed, and lowered Felix's speed, the latter was finding it hard to dodge, or block the black-haired teenager's attack, resulting in a one-sided beating."
         },
         {
-          "id": 46,
-          "paragraph_id": 35,
+          "id": 44,
+          "paragraph_id": 34,
           "text": "\"Enough!\" Felix shouted and the Crimson Crown on his head created a Dome of Darkness that blocked William's blow."
+        },
+        {
+          "id": 45,
+          "paragraph_id": 35,
+          "text": "However, the forces of his stroke sent the Dome of Darkness flying like a baseball ball getting hit by a baseball bat."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 36,
+          "text": "William was about to follow up his attack, but a giant, black lightning-bolt flew in his direction."
         },
         {
           "id": 47,
           "paragraph_id": 36,
-          "text": "However, the forces of his stroke sent the Dome of Darkness flying like a baseball ball getting hit by a baseball bat."
+          "text": "It was so fast that William didn't have the means to evade it, so he used Ruyi Jingu Bang to block it."
         },
         {
           "id": 48,
           "paragraph_id": 37,
-          "text": "William was about to follow up his attack, but a giant, black lightning-bolt flew in his direction."
+          "text": "The attack held powerful Divinity so William crashed to the ground and skidded for several meters before the black lightning bolt dispersed."
         },
         {
           "id": 49,
-          "paragraph_id": 37,
-          "text": "It was so fast that William didn't have the means to evade it, so he used Ruyi Jingu Bang to block it."
+          "paragraph_id": 38,
+          "text": "\"So, you have come,\" William said in a voice that reeked of killing intent."
         },
         {
           "id": 50,
           "paragraph_id": 38,
-          "text": "The attack held powerful Divinity so William crashed to the ground and skidded for several meters before the black lightning bolt dispersed."
+          "text": "\"Show yourself, Ahriman!\""
         },
         {
           "id": 51,
           "paragraph_id": 39,
-          "text": "\"So, you have come,\" William said in a voice that reeked of killing intent."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 39,
-          "text": "\"Show yourself, Ahriman!\""
-        },
-        {
-          "id": 53,
-          "paragraph_id": 40,
           "text": "Dark clouds formed in the sky creating a ten-meter tall avatar of darkness whose eyes glowed bloody red."
         },
         {
-          "id": 54,
-          "paragraph_id": 41,
+          "id": 52,
+          "paragraph_id": 40,
           "text": "Now that the one responsible for his wives' deaths had arrived, William knew that the real battle was just about to start."
         }
       ],
-      "word_count": 1077
+      "word_count": 1049
     },
     {
       "chapter_index": 1248,

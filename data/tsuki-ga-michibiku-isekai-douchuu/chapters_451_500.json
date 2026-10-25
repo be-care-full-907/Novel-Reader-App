@@ -2548,12 +2548,8 @@
         "“Wavelength.” (Makoto)",
         "Wavelength? What does that mean?",
         "...That you are menta—let’s not.",
-        "“It is not like there’s something made solely for me somewhere in the world, but more like a...Power Stone?” (Tomoki)",
-        "“A power stone, huh.” (Makoto)",
-        "“I wasn’t interested even if I was told about it being like a power stone, and I didn’t get it at all. Did that serve as a hint? If it were in the precious items of the Academy or in the exhibited items of the museums, it would have been easy.” (Tomoki)",
         "I see.",
         "Don’t underestimate me who was sandwiched in between my older sister and little sister.",
-        "Power stone, huh. I get it to a certain degree.",
         "And wavelength.",
         "I think it refers to affinity.",
         "It is not something exclusive to heroes.",
@@ -3318,205 +3314,170 @@
         {
           "id": 147,
           "paragraph_id": 106,
-          "text": "“It is not like there’s something made solely for me somewhere in the world, but more like a...Power Stone?” (Tomoki)"
+          "text": "I see."
         },
         {
           "id": 148,
           "paragraph_id": 107,
-          "text": "“A power stone, huh.” (Makoto)"
+          "text": "Don’t underestimate me who was sandwiched in between my older sister and little sister."
         },
         {
           "id": 149,
           "paragraph_id": 108,
-          "text": "“I wasn’t interested even if I was told about it being like a power stone, and I didn’t get it at all."
-        },
-        {
-          "id": 150,
-          "paragraph_id": 108,
-          "text": "Did that serve as a hint?"
-        },
-        {
-          "id": 151,
-          "paragraph_id": 108,
-          "text": "If it were in the precious items of the Academy or in the exhibited items of the museums, it would have been easy.” (Tomoki)"
-        },
-        {
-          "id": 152,
-          "paragraph_id": 109,
-          "text": "I see."
-        },
-        {
-          "id": 153,
-          "paragraph_id": 110,
-          "text": "Don’t underestimate me who was sandwiched in between my older sister and little sister."
-        },
-        {
-          "id": 154,
-          "paragraph_id": 111,
-          "text": "Power stone, huh."
-        },
-        {
-          "id": 155,
-          "paragraph_id": 111,
-          "text": "I get it to a certain degree."
-        },
-        {
-          "id": 156,
-          "paragraph_id": 112,
           "text": "And wavelength."
         },
         {
-          "id": 157,
-          "paragraph_id": 113,
+          "id": 150,
+          "paragraph_id": 109,
           "text": "I think it refers to affinity."
         },
         {
-          "id": 158,
-          "paragraph_id": 114,
+          "id": 151,
+          "paragraph_id": 110,
           "text": "It is not something exclusive to heroes."
         },
         {
-          "id": 159,
-          "paragraph_id": 115,
+          "id": 152,
+          "paragraph_id": 111,
           "text": "In other words...there’s a stone that conforms to Tomoki, or something that can fit Tomoki."
         },
         {
-          "id": 160,
-          "paragraph_id": 116,
+          "id": 153,
+          "paragraph_id": 112,
           "text": "Rather than seeing the quality, I would say it is more important to gather quantity here."
         },
         {
-          "id": 161,
-          "paragraph_id": 117,
+          "id": 154,
+          "paragraph_id": 113,
           "text": "Then, I should gather stones that are found in the wasteland, things that could be found even in Japan, and stones that can only be found in this world."
         },
         {
-          "id": 162,
-          "paragraph_id": 118,
+          "id": 155,
+          "paragraph_id": 114,
           "text": "Ones that don’t have magic power and have a decent amount of quality, right?"
         },
         {
-          "id": 163,
-          "paragraph_id": 119,
+          "id": 156,
+          "paragraph_id": 115,
           "text": "The size..."
+        },
+        {
+          "id": 157,
+          "paragraph_id": 116,
+          "text": "“No delineation for the size?” (Makoto)"
+        },
+        {
+          "id": 158,
+          "paragraph_id": 117,
+          "text": "“It would be troubling if it isn’t something in a size that I can wear.” (Tomoki)"
+        },
+        {
+          "id": 159,
+          "paragraph_id": 118,
+          "text": "“To make it into equipment, huh."
+        },
+        {
+          "id": 160,
+          "paragraph_id": 118,
+          "text": "But the important thing is the stone itself though.” (Makoto)"
+        },
+        {
+          "id": 161,
+          "paragraph_id": 119,
+          "text": "“Yeah."
+        },
+        {
+          "id": 162,
+          "paragraph_id": 119,
+          "text": "At worst, if you can at least find the stone, we can prepare the stuff like the pedestal, the head, the chain and stuff like that on our side.” (Tomoki)"
+        },
+        {
+          "id": 163,
+          "paragraph_id": 120,
+          "text": "“Got it."
         },
         {
           "id": 164,
           "paragraph_id": 120,
-          "text": "“No delineation for the size?” (Makoto)"
+          "text": "Then, see you in 3 days.” (Makoto)"
         },
         {
           "id": 165,
           "paragraph_id": 121,
-          "text": "“It would be troubling if it isn’t something in a size that I can wear.” (Tomoki)"
+          "text": "“Nice."
         },
         {
           "id": 166,
-          "paragraph_id": 122,
-          "text": "“To make it into equipment, huh."
+          "paragraph_id": 121,
+          "text": "I like that confidence."
         },
         {
           "id": 167,
-          "paragraph_id": 122,
-          "text": "But the important thing is the stone itself though.” (Makoto)"
+          "paragraph_id": 121,
+          "text": "I see, you really are a merchant.” (Tomoki)"
         },
         {
           "id": 168,
-          "paragraph_id": 123,
-          "text": "“Yeah."
+          "paragraph_id": 122,
+          "text": "Hearing my words and looking at my face, Tomoki raised the corners of his mouth and grinned."
         },
         {
           "id": 169,
           "paragraph_id": 123,
-          "text": "At worst, if you can at least find the stone, we can prepare the stuff like the pedestal, the head, the chain and stuff like that on our side.” (Tomoki)"
+          "text": "Did I make a confident expression?"
         },
         {
           "id": 170,
           "paragraph_id": 124,
-          "text": "“Got it."
-        },
-        {
-          "id": 171,
-          "paragraph_id": 124,
-          "text": "Then, see you in 3 days.” (Makoto)"
-        },
-        {
-          "id": 172,
-          "paragraph_id": 125,
-          "text": "“Nice."
-        },
-        {
-          "id": 173,
-          "paragraph_id": 125,
-          "text": "I like that confidence."
-        },
-        {
-          "id": 174,
-          "paragraph_id": 125,
-          "text": "I see, you really are a merchant.” (Tomoki)"
-        },
-        {
-          "id": 175,
-          "paragraph_id": 126,
-          "text": "Hearing my words and looking at my face, Tomoki raised the corners of his mouth and grinned."
-        },
-        {
-          "id": 176,
-          "paragraph_id": 127,
-          "text": "Did I make a confident expression?"
-        },
-        {
-          "id": 177,
-          "paragraph_id": 128,
           "text": "Even if that’s the case, it is natural to do so."
         },
         {
-          "id": 178,
-          "paragraph_id": 129,
+          "id": 171,
+          "paragraph_id": 125,
           "text": "I am the representative of the Kuzunoha Company; the merchant, Raidou."
         },
         {
-          "id": 179,
-          "paragraph_id": 130,
+          "id": 172,
+          "paragraph_id": 126,
           "text": "“...Ah.” (Makoto)"
         },
         {
-          "id": 180,
-          "paragraph_id": 131,
+          "id": 173,
+          "paragraph_id": 127,
           "text": "“?”"
         },
         {
-          "id": 181,
-          "paragraph_id": 132,
+          "id": 174,
+          "paragraph_id": 128,
           "text": "“No, it is nothing."
         },
         {
-          "id": 182,
-          "paragraph_id": 132,
+          "id": 175,
+          "paragraph_id": 128,
           "text": "Then, in 3 days."
         },
         {
-          "id": 183,
-          "paragraph_id": 132,
+          "id": 176,
+          "paragraph_id": 128,
           "text": "Right, come to the Kuzunoha Company’s store at noon.” (Makoto)"
         },
         {
-          "id": 184,
-          "paragraph_id": 133,
+          "id": 177,
+          "paragraph_id": 129,
           "text": "I thought for a moment that it has been quite a while since I have had normal merchant work."
         },
         {
-          "id": 185,
-          "paragraph_id": 134,
+          "id": 178,
+          "paragraph_id": 130,
           "text": "It really has been a while since I have interacted personally with a customer for a business deal."
         },
         {
-          "id": 186,
-          "paragraph_id": 135,
+          "id": 179,
+          "paragraph_id": 131,
           "text": "I was a bit grateful towards Tomoki for that."
         }
       ],
-      "word_count": 2168
+      "word_count": 2081
     },
     {
       "chapter_index": 454,
@@ -3663,7 +3624,6 @@
         "Now then, I wonder what kind of reaction it will bring to a Hero, a human, or a resident of the Origin World, if they were to hold a stone with no magic power.",
         "“...You really have gathered only gems and crystals with no magic power.” (Tomoki)",
         "“Yeah, that was the request after all. How does it look in your eyes?” (Makoto)",
-        "“This is...aah, is this what you were referring to as Power Stones, Tomoki-sama?”",
         "“That’s right.” (Tomoki)",
         "“I honestly can’t tell. I think they have ornamental value, but to serve as protection or a trigger to open up paths...I can’t see that at all.”",
         "“Figures. In this world where there’s magic power and magic, wanting normal stones is weird.” (Tomoki)",
@@ -3674,7 +3634,6 @@
         "I learned the reason why gems in this world don’t have that high of a value for the residents of this world after this event, but hearing it from the mouth of an actual resident is great.",
         "Nobles prefer accessories that have magic power and practical use instead of just being shiny; be it rings or necklaces.",
         "I guide Tomoki and his partner in order while feeling slightly annoyed.",
-        "The zone where there were big lumps of gems that even in Japan had stories of being power stones didn’t make Tomoki stop his feet.",
         "The girl stopped her feet every now and then and showed surprise and admiration though.",
         "Hmm.",
         "He also ignored the birthstones.",
@@ -4675,445 +4634,435 @@
         {
           "id": 187,
           "paragraph_id": 140,
-          "text": "“This is...aah, is this what you were referring to as Power Stones, Tomoki-sama?”"
+          "text": "“That’s right.” (Tomoki)"
         },
         {
           "id": 188,
           "paragraph_id": 141,
-          "text": "“That’s right.” (Tomoki)"
+          "text": "“I honestly can’t tell."
         },
         {
           "id": 189,
-          "paragraph_id": 142,
-          "text": "“I honestly can’t tell."
+          "paragraph_id": 141,
+          "text": "I think they have ornamental value, but to serve as protection or a trigger to open up paths...I can’t see that at all.”"
         },
         {
           "id": 190,
           "paragraph_id": 142,
-          "text": "I think they have ornamental value, but to serve as protection or a trigger to open up paths...I can’t see that at all.”"
+          "text": "“Figures."
         },
         {
           "id": 191,
-          "paragraph_id": 143,
-          "text": "“Figures."
+          "paragraph_id": 142,
+          "text": "In this world where there’s magic power and magic, wanting normal stones is weird.” (Tomoki)"
         },
         {
           "id": 192,
           "paragraph_id": 143,
-          "text": "In this world where there’s magic power and magic, wanting normal stones is weird.” (Tomoki)"
-        },
-        {
-          "id": 193,
-          "paragraph_id": 144,
           "text": "“However, Tomoki-sama needs it."
         },
         {
-          "id": 194,
-          "paragraph_id": 144,
+          "id": 193,
+          "paragraph_id": 143,
           "text": "You are finding worth in stones that have no magic power or history."
         },
         {
-          "id": 195,
-          "paragraph_id": 144,
+          "id": 194,
+          "paragraph_id": 143,
           "text": "It is most likely a world that only the chosen ones can see."
+        },
+        {
+          "id": 195,
+          "paragraph_id": 143,
+          "text": "I am jealous.”"
         },
         {
           "id": 196,
           "paragraph_id": 144,
-          "text": "I am jealous.”"
-        },
-        {
-          "id": 197,
-          "paragraph_id": 145,
           "text": "“It was just an oracle."
         },
         {
-          "id": 198,
-          "paragraph_id": 145,
+          "id": 197,
+          "paragraph_id": 144,
           "text": "It probably has no point for anyone aside from people who have come from another world."
         },
         {
-          "id": 199,
-          "paragraph_id": 145,
+          "id": 198,
+          "paragraph_id": 144,
           "text": "Right, since we are here, tell me which stone you like, Kuroe."
         },
         {
-          "id": 200,
-          "paragraph_id": 145,
+          "id": 199,
+          "paragraph_id": 144,
           "text": "I will properly send you an amulet with magic power in it."
+        },
+        {
+          "id": 200,
+          "paragraph_id": 144,
+          "text": "The least I can do to thank you.” (Tomoki)"
         },
         {
           "id": 201,
           "paragraph_id": 145,
-          "text": "The least I can do to thank you.” (Tomoki)"
+          "text": "Non-stop flirting."
         },
         {
           "id": 202,
           "paragraph_id": 146,
-          "text": "Non-stop flirting."
+          "text": "I am surprised from the bottom of my heart that she can spit out such sweet words when Tomoki is saying he has conquered 5-10 people."
         },
         {
           "id": 203,
           "paragraph_id": 147,
-          "text": "I am surprised from the bottom of my heart that she can spit out such sweet words when Tomoki is saying he has conquered 5-10 people."
+          "text": "I learned the reason why gems in this world don’t have that high of a value for the residents of this world after this event, but hearing it from the mouth of an actual resident is great."
         },
         {
           "id": 204,
           "paragraph_id": 148,
-          "text": "I learned the reason why gems in this world don’t have that high of a value for the residents of this world after this event, but hearing it from the mouth of an actual resident is great."
+          "text": "Nobles prefer accessories that have magic power and practical use instead of just being shiny; be it rings or necklaces."
         },
         {
           "id": 205,
           "paragraph_id": 149,
-          "text": "Nobles prefer accessories that have magic power and practical use instead of just being shiny; be it rings or necklaces."
+          "text": "I guide Tomoki and his partner in order while feeling slightly annoyed."
         },
         {
           "id": 206,
           "paragraph_id": 150,
-          "text": "I guide Tomoki and his partner in order while feeling slightly annoyed."
+          "text": "The girl stopped her feet every now and then and showed surprise and admiration though."
         },
         {
           "id": 207,
           "paragraph_id": 151,
-          "text": "The zone where there were big lumps of gems that even in Japan had stories of being power stones didn’t make Tomoki stop his feet."
+          "text": "Hmm."
         },
         {
           "id": 208,
           "paragraph_id": 152,
-          "text": "The girl stopped her feet every now and then and showed surprise and admiration though."
+          "text": "He also ignored the birthstones."
         },
         {
           "id": 209,
           "paragraph_id": 153,
-          "text": "Hmm."
+          "text": "This part was actually the one I thought would be a hit."
         },
         {
           "id": 210,
           "paragraph_id": 154,
-          "text": "He also ignored the birthstones."
+          "text": "I myself didn’t get any reaction when I touched a diamond, but I thought that a Hero would be different."
         },
         {
           "id": 211,
           "paragraph_id": 155,
-          "text": "This part was actually the one I thought would be a hit."
+          "text": "He even ignored the zone of the stones that can only be found in this world."
         },
         {
           "id": 212,
           "paragraph_id": 156,
-          "text": "I myself didn’t get any reaction when I touched a diamond, but I thought that a Hero would be different."
+          "text": "Rugui and Eris made questionable reactions to the soft emerald and a number of other gems, but Tomoki and Kuroe didn’t react at all."
         },
         {
           "id": 213,
           "paragraph_id": 157,
-          "text": "He even ignored the zone of the stones that can only be found in this world."
+          "text": "Tomoki must be touching each and every one of them because it is the key to finding the stone he is searching for."
         },
         {
           "id": 214,
           "paragraph_id": 158,
-          "text": "Rugui and Eris made questionable reactions to the soft emerald and a number of other gems, but Tomoki and Kuroe didn’t react at all."
+          "text": "In that case, what’s left are the crystals, corals, ambers, and the slightly different category ones."
         },
         {
           "id": 215,
           "paragraph_id": 159,
-          "text": "Tomoki must be touching each and every one of them because it is the key to finding the stone he is searching for."
+          "text": "I might have messed up here."
         },
         {
           "id": 216,
-          "paragraph_id": 160,
-          "text": "In that case, what’s left are the crystals, corals, ambers, and the slightly different category ones."
+          "paragraph_id": 159,
+          "text": "At the time when I was feeling discouraged wondering that this may be the pattern where there’s no hits..."
         },
         {
           "id": 217,
-          "paragraph_id": 161,
-          "text": "I might have messed up here."
+          "paragraph_id": 160,
+          "text": "Tomoki’s legs stopped."
         },
         {
           "id": 218,
           "paragraph_id": 161,
-          "text": "At the time when I was feeling discouraged wondering that this may be the pattern where there’s no hits..."
+          "text": "““!!””"
         },
         {
           "id": 219,
           "paragraph_id": 162,
-          "text": "Tomoki’s legs stopped."
+          "text": "I could tell Rugui and Eris were strengthening their guards."
         },
         {
           "id": 220,
           "paragraph_id": 163,
-          "text": "““!!””"
+          "text": "I could clearly tell as well."
         },
         {
           "id": 221,
           "paragraph_id": 164,
-          "text": "I could tell Rugui and Eris were strengthening their guards."
+          "text": "The moment he took that stone in his hand, the presence of Tomoki increased by a step."
         },
         {
           "id": 222,
           "paragraph_id": 165,
-          "text": "I could clearly tell as well."
+          "text": "I don’t know if a step or two is the proper way to describe this presence."
         },
         {
           "id": 223,
           "paragraph_id": 166,
-          "text": "The moment he took that stone in his hand, the presence of Tomoki increased by a step."
+          "text": "However, it was clear that it shot up."
         },
         {
           "id": 224,
           "paragraph_id": 167,
-          "text": "I don’t know if a step or two is the proper way to describe this presence."
+          "text": "That alone, I could tell."
         },
         {
           "id": 225,
           "paragraph_id": 168,
-          "text": "However, it was clear that it shot up."
+          "text": "He simply held the stone."
         },
         {
           "id": 226,
           "paragraph_id": 169,
-          "text": "That alone, I could tell."
+          "text": "Oi oi oi."
         },
         {
           "id": 227,
           "paragraph_id": 170,
-          "text": "He simply held the stone."
+          "text": "Is this the benefit of a Hero?"
         },
         {
           "id": 228,
           "paragraph_id": 171,
-          "text": "Oi oi oi."
+          "text": "It might not go as far as Root, but I would say he matches Zef-san plenty enough."
         },
         {
           "id": 229,
           "paragraph_id": 172,
-          "text": "Is this the benefit of a Hero?"
+          "text": "It might not be a completely accurate evaluation just from the impression I am being given here, but it is still a pretty horrifying sight."
         },
         {
           "id": 230,
           "paragraph_id": 173,
-          "text": "It might not go as far as Root, but I would say he matches Zef-san plenty enough."
+          "text": "Moreover, it is from the zone that I didn’t have much hopes for."
         },
         {
           "id": 231,
           "paragraph_id": 174,
-          "text": "It might not be a completely accurate evaluation just from the impression I am being given here, but it is still a pretty horrifying sight."
+          "text": "That zone is..."
         },
         {
           "id": 232,
           "paragraph_id": 175,
-          "text": "Moreover, it is from the zone that I didn’t have much hopes for."
+          "text": "Aventurine, tiger eye, and rose quartz, I think."
         },
         {
           "id": 233,
           "paragraph_id": 176,
-          "text": "That zone is..."
+          "text": "What Tomoki is holding is...a rose quartz."
         },
         {
           "id": 234,
           "paragraph_id": 177,
-          "text": "Aventurine, tiger eye, and rose quartz, I think."
+          "text": "It is called the deep crimson crystal or the rose quartz, but it is a stone that’s not that expensive."
         },
         {
           "id": 235,
           "paragraph_id": 178,
-          "text": "What Tomoki is holding is...a rose quartz."
+          "text": "I think Nee-san had an amulet of that."
         },
         {
           "id": 236,
           "paragraph_id": 179,
-          "text": "It is called the deep crimson crystal or the rose quartz, but it is a stone that’s not that expensive."
+          "text": "It gives me the image of a stone a girl would have, and it doesn’t suit Tomoki..."
         },
         {
           "id": 237,
           "paragraph_id": 180,
-          "text": "I think Nee-san had an amulet of that."
+          "text": "At any rate, I should investigate in detail just what kind of stone it is."
         },
         {
           "id": 238,
           "paragraph_id": 181,
-          "text": "It gives me the image of a stone a girl would have, and it doesn’t suit Tomoki..."
+          "text": "Also...I might have a stone like that too."
         },
         {
           "id": 239,
           "paragraph_id": 182,
-          "text": "At any rate, I should investigate in detail just what kind of stone it is."
+          "text": "...Ah, following that logic, Senpai must obviously have a stone too."
         },
         {
           "id": 240,
           "paragraph_id": 183,
-          "text": "Also...I might have a stone like that too."
+          "text": "For Senpai, I think it would be a diamond, emerald, or sapphire; the classic ones."
         },
         {
           "id": 241,
           "paragraph_id": 184,
-          "text": "...Ah, following that logic, Senpai must obviously have a stone too."
+          "text": "“...Raidou.” (Tomoki)"
         },
         {
           "id": 242,
           "paragraph_id": 185,
-          "text": "For Senpai, I think it would be a diamond, emerald, or sapphire; the classic ones."
+          "text": "“Looks like that’s the one.” (Makoto)"
         },
         {
           "id": 243,
           "paragraph_id": 186,
-          "text": "“...Raidou.” (Tomoki)"
+          "text": "The eyes of Tomoki were not separating from the rose quartz."
         },
         {
           "id": 244,
           "paragraph_id": 187,
-          "text": "“Looks like that’s the one.” (Makoto)"
+          "text": "His blazing eyes were staring intently at the stone."
         },
         {
           "id": 245,
           "paragraph_id": 188,
-          "text": "The eyes of Tomoki were not separating from the rose quartz."
+          "text": "Kuroe is...aah, her face has gone completely blank at how Tomoki has obtained an abnormal degree of power just from holding a stone that doesn’t have even a trace of magic power."
         },
         {
           "id": 246,
           "paragraph_id": 189,
-          "text": "His blazing eyes were staring intently at the stone."
+          "text": "It is a natural response."
         },
         {
           "id": 247,
           "paragraph_id": 190,
-          "text": "Kuroe is...aah, her face has gone completely blank at how Tomoki has obtained an abnormal degree of power just from holding a stone that doesn’t have even a trace of magic power."
+          "text": "I don’t know if it is a reaction only humans can get or if it is possible even for hyumans."
         },
         {
           "id": 248,
           "paragraph_id": 191,
-          "text": "It is a natural response."
+          "text": "I won’t be able to know unless I ask the Goddess or someone like that."
         },
         {
           "id": 249,
           "paragraph_id": 192,
-          "text": "I don’t know if it is a reaction only humans can get or if it is possible even for hyumans."
-        },
-        {
-          "id": 250,
-          "paragraph_id": 193,
-          "text": "I won’t be able to know unless I ask the Goddess or someone like that."
-        },
-        {
-          "id": 251,
-          "paragraph_id": 194,
           "text": "“That was a great help."
         },
         {
-          "id": 252,
-          "paragraph_id": 194,
+          "id": 250,
+          "paragraph_id": 192,
           "text": "I will take this pink one."
         },
         {
-          "id": 253,
-          "paragraph_id": 194,
+          "id": 251,
+          "paragraph_id": 192,
           "text": "Please send me the bill for the cost of all the stones here including the transportation cost, and your price for the work.” (Tomoki)"
         },
         {
-          "id": 254,
-          "paragraph_id": 195,
+          "id": 252,
+          "paragraph_id": 193,
           "text": "“It was unexpected that it was a rose quartz."
         },
         {
-          "id": 255,
-          "paragraph_id": 195,
+          "id": 253,
+          "paragraph_id": 193,
           "text": "But I am relieved that we managed to get what you requested."
+        },
+        {
+          "id": 254,
+          "paragraph_id": 193,
+          "text": "Keep the war in moderation.” (Makoto)"
+        },
+        {
+          "id": 255,
+          "paragraph_id": 194,
+          "text": "“Rose quartz, huh.” (Tomoki)"
         },
         {
           "id": 256,
           "paragraph_id": 195,
-          "text": "Keep the war in moderation.” (Makoto)"
+          "text": "“Yeah, it is also called the deep crimson crystal.” (Makoto)"
         },
         {
           "id": 257,
           "paragraph_id": 196,
-          "text": "“Rose quartz, huh.” (Tomoki)"
+          "text": "“You have my gratitude, Raidou."
         },
         {
           "id": 258,
-          "paragraph_id": 197,
-          "text": "“Yeah, it is also called the deep crimson crystal.” (Makoto)"
+          "paragraph_id": 196,
+          "text": "But...” (Tomoki)"
         },
         {
           "id": 259,
-          "paragraph_id": 198,
-          "text": "“You have my gratitude, Raidou."
+          "paragraph_id": 197,
+          "text": "“?”"
         },
         {
           "id": 260,
           "paragraph_id": 198,
-          "text": "But...” (Tomoki)"
+          "text": "Tomoki’s grateful smile changed into that of a ferocious warrior as he looked straight at me."
         },
         {
           "id": 261,
           "paragraph_id": 199,
-          "text": "“?”"
+          "text": "“There’s no moderation in war.” (Tomoki)"
         },
         {
           "id": 262,
           "paragraph_id": 200,
-          "text": "Tomoki’s grateful smile changed into that of a ferocious warrior as he looked straight at me."
+          "text": "“Right."
         },
         {
           "id": 263,
-          "paragraph_id": 201,
-          "text": "“There’s no moderation in war.” (Tomoki)"
+          "paragraph_id": 200,
+          "text": "That’s why I hate war.” (Makoto)"
         },
         {
           "id": 264,
-          "paragraph_id": 202,
-          "text": "“Right."
+          "paragraph_id": 201,
+          "text": "Killing and being killed with a straight face, every single one of them."
         },
         {
           "id": 265,
           "paragraph_id": 202,
-          "text": "That’s why I hate war.” (Makoto)"
+          "text": "I am tired of that."
         },
         {
           "id": 266,
           "paragraph_id": 203,
-          "text": "Killing and being killed with a straight face, every single one of them."
+          "text": "In that point, I feel the same for hyumans and demons."
         },
         {
           "id": 267,
           "paragraph_id": 204,
-          "text": "I am tired of that."
+          "text": "We managed to see a part of the effects from Tomoki obtaining the stone he wanted."
         },
         {
           "id": 268,
           "paragraph_id": 205,
-          "text": "In that point, I feel the same for hyumans and demons."
+          "text": "We see off Tomoki and Kuroe, and thank Rugui and Eris for their good job."
         },
         {
           "id": 269,
           "paragraph_id": 206,
-          "text": "We managed to see a part of the effects from Tomoki obtaining the stone he wanted."
+          "text": "Well, I would say the job has ended well."
         },
         {
           "id": 270,
           "paragraph_id": 207,
-          "text": "We see off Tomoki and Kuroe, and thank Rugui and Eris for their good job."
+          "text": "In the evening..."
         },
         {
           "id": 271,
           "paragraph_id": 208,
-          "text": "Well, I would say the job has ended well."
+          "text": "I got a call from Hibiki-senpai requesting me to do almost the same thing I did with Tomoki."
         },
         {
           "id": 272,
           "paragraph_id": 209,
-          "text": "In the evening..."
-        },
-        {
-          "id": 273,
-          "paragraph_id": 210,
-          "text": "I got a call from Hibiki-senpai requesting me to do almost the same thing I did with Tomoki."
-        },
-        {
-          "id": 274,
-          "paragraph_id": 211,
           "text": "Oof..."
         }
       ],
-      "word_count": 2920
+      "word_count": 2882
     },
     {
       "chapter_index": 455,
@@ -5266,7 +5215,6 @@
         "“Chrysoprase is categorized as a crystal?” (Makoto)",
         "“? Yeah, the dwarfs said that it has similar characteristics.” (Tomoe)",
         "A creamy green stone, chrysoprase.",
-        "It is apparently decently rare, but it is a stone that can be bought at a power stone shop just like rose quartz.",
         "The reason I immediately thought of that stone when thinking of the stone of Senpai was because my sisters had gotten this knowledge from a strange magazine and spoke about how dreamy it was.",
         "...They soon got bored about it, so I only have surface knowledge about it.",
         "Senpai had that chrysoprase, I had prior knowledge about it, and I am in a situation where I can show it; you could say it is a miraculous chain of events.",
@@ -6300,420 +6248,415 @@
         {
           "id": 193,
           "paragraph_id": 146,
-          "text": "It is apparently decently rare, but it is a stone that can be bought at a power stone shop just like rose quartz."
+          "text": "The reason I immediately thought of that stone when thinking of the stone of Senpai was because my sisters had gotten this knowledge from a strange magazine and spoke about how dreamy it was."
         },
         {
           "id": 194,
           "paragraph_id": 147,
-          "text": "The reason I immediately thought of that stone when thinking of the stone of Senpai was because my sisters had gotten this knowledge from a strange magazine and spoke about how dreamy it was."
+          "text": "...They soon got bored about it, so I only have surface knowledge about it."
         },
         {
           "id": 195,
           "paragraph_id": 148,
-          "text": "...They soon got bored about it, so I only have surface knowledge about it."
+          "text": "Senpai had that chrysoprase, I had prior knowledge about it, and I am in a situation where I can show it; you could say it is a miraculous chain of events."
         },
         {
           "id": 196,
           "paragraph_id": 149,
-          "text": "Senpai had that chrysoprase, I had prior knowledge about it, and I am in a situation where I can show it; you could say it is a miraculous chain of events."
+          "text": "This is Hibiki-senpai."
         },
         {
           "id": 197,
           "paragraph_id": 150,
-          "text": "This is Hibiki-senpai."
+          "text": "“So it really isn’t that rare of a thing, huh.” (Makoto)"
         },
         {
           "id": 198,
           "paragraph_id": 151,
-          "text": "“So it really isn’t that rare of a thing, huh.” (Makoto)"
+          "text": "“Right."
         },
         {
           "id": 199,
-          "paragraph_id": 152,
-          "text": "“Right."
+          "paragraph_id": 151,
+          "text": "If it is of good quality, it would go for a decent amount of coin, but most of them are not expensive to a point where you wouldn’t be able to get a hand on one.” (Tomoe)"
         },
         {
           "id": 200,
           "paragraph_id": 152,
-          "text": "If it is of good quality, it would go for a decent amount of coin, but most of them are not expensive to a point where you wouldn’t be able to get a hand on one.” (Tomoe)"
+          "text": "I would say around a few thousand or ten thousand?"
         },
         {
           "id": 201,
           "paragraph_id": 153,
-          "text": "I would say around a few thousand or ten thousand?"
+          "text": "If looking at the low end, it would go for hundreds to thousands of yen; a reasonably priced stone."
         },
         {
           "id": 202,
           "paragraph_id": 154,
-          "text": "If looking at the low end, it would go for hundreds to thousands of yen; a reasonably priced stone."
+          "text": "“So you think that that Hibiki is going to react to a common stone like this just as Tomoki did with the crimson crystal?” (Tomoe)"
         },
         {
           "id": 203,
           "paragraph_id": 155,
-          "text": "“So you think that that Hibiki is going to react to a common stone like this just as Tomoki did with the crimson crystal?” (Tomoe)"
+          "text": "No, it is not like I think cheap stones suit Tomoki."
         },
         {
           "id": 204,
           "paragraph_id": 156,
-          "text": "No, it is not like I think cheap stones suit Tomoki."
+          "text": "“Chrysoprase is apparently just a protective amulet even if normal people have it on them.” (Makoto)"
         },
         {
           "id": 205,
           "paragraph_id": 157,
-          "text": "“Chrysoprase is apparently just a protective amulet even if normal people have it on them.” (Makoto)"
+          "text": "“Fumu.” (Tomoe)"
         },
         {
           "id": 206,
           "paragraph_id": 158,
-          "text": "“Fumu.” (Tomoe)"
+          "text": "“But when rulers or brave heroes put it on, they protect their wearer with immense power; a stone that chooses their owner.” (Makoto)"
         },
         {
           "id": 207,
           "paragraph_id": 159,
-          "text": "“But when rulers or brave heroes put it on, they protect their wearer with immense power; a stone that chooses their owner.” (Makoto)"
+          "text": "“A mere pebble that doesn’t have magic power chooses their owner and lends them power?” (Tomoe)"
         },
         {
           "id": 208,
           "paragraph_id": 160,
-          "text": "“A mere pebble that doesn’t have magic power chooses their owner and lends them power?” (Tomoe)"
+          "text": "Tomoe isn’t saying it outright, but her eyes were saying ‘how impudent’."
         },
         {
           "id": 209,
           "paragraph_id": 161,
-          "text": "Tomoe isn’t saying it outright, but her eyes were saying ‘how impudent’."
+          "text": "“Or maybe it is a stone that you can’t bring out its evolution unless it is from an outstanding person."
         },
         {
           "id": 210,
-          "paragraph_id": 162,
-          "text": "“Or maybe it is a stone that you can’t bring out its evolution unless it is from an outstanding person."
+          "paragraph_id": 161,
+          "text": "By the way, even when I touched it, it didn’t even twitch at all.” (Makoto)"
         },
         {
           "id": 211,
           "paragraph_id": 162,
-          "text": "By the way, even when I touched it, it didn’t even twitch at all.” (Makoto)"
+          "text": "“I have seen it with my own eyes.” (Tomoe)"
         },
         {
           "id": 212,
           "paragraph_id": 163,
-          "text": "“I have seen it with my own eyes.” (Tomoe)"
+          "text": "“Right.” (Makoto)"
         },
         {
           "id": 213,
           "paragraph_id": 164,
-          "text": "“Right.” (Makoto)"
-        },
-        {
-          "id": 214,
-          "paragraph_id": 165,
           "text": "“Tomorrow...no, today at noon, Hibiki will be arriving at Rotsgard."
         },
         {
-          "id": 215,
-          "paragraph_id": 165,
+          "id": 214,
+          "paragraph_id": 164,
           "text": "If this really is Hibiki’s stone, I will once again be hating her in secret."
+        },
+        {
+          "id": 215,
+          "paragraph_id": 164,
+          "text": "Thinking: ‘How pretentious’.” (Tomoe)"
         },
         {
           "id": 216,
           "paragraph_id": 165,
-          "text": "Thinking: ‘How pretentious’.” (Tomoe)"
+          "text": "“That’s no secret at all.” (Makoto)"
         },
         {
           "id": 217,
           "paragraph_id": 166,
-          "text": "“That’s no secret at all.” (Makoto)"
+          "text": "“Kuku, is that so?” (Tomoe)"
         },
         {
           "id": 218,
           "paragraph_id": 167,
-          "text": "“Kuku, is that so?” (Tomoe)"
+          "text": "Hibiki-senpai, huh."
         },
         {
           "id": 219,
           "paragraph_id": 168,
-          "text": "Hibiki-senpai, huh."
+          "text": "With the words of Tsukuyomi-sama, I have looked after the two Heroes to a decent degree."
         },
         {
           "id": 220,
           "paragraph_id": 169,
-          "text": "With the words of Tsukuyomi-sama, I have looked after the two Heroes to a decent degree."
+          "text": "But..."
         },
         {
           "id": 221,
           "paragraph_id": 170,
-          "text": "But..."
+          "text": "But maybe the one he wanted me to look after was Tomoki."
         },
         {
           "id": 222,
           "paragraph_id": 171,
-          "text": "But maybe the one he wanted me to look after was Tomoki."
+          "text": "Leaving aside whether Senpai was caught in it or not, she is here on her own will."
         },
         {
           "id": 223,
           "paragraph_id": 172,
-          "text": "Leaving aside whether Senpai was caught in it or not, she is here on her own will."
+          "text": "She is certainly trying to live."
         },
         {
           "id": 224,
           "paragraph_id": 173,
-          "text": "She is certainly trying to live."
+          "text": "But Tomoki..."
         },
         {
           "id": 225,
           "paragraph_id": 174,
-          "text": "But Tomoki..."
+          "text": "It somehow feels like...it is different for him."
         },
         {
           "id": 226,
           "paragraph_id": 175,
-          "text": "It somehow feels like...it is different for him."
+          "text": "From Tomoki’s attitude, I have told him before that maybe he was bullied a long time ago."
         },
         {
           "id": 227,
           "paragraph_id": 176,
-          "text": "From Tomoki’s attitude, I have told him before that maybe he was bullied a long time ago."
+          "text": "That might have been the truth."
         },
         {
           "id": 228,
           "paragraph_id": 177,
-          "text": "That might have been the truth."
+          "text": "And then, at the worst timing possible, the Goddess spoke to him, and he ended up ‘running away’ to this world."
         },
         {
           "id": 229,
           "paragraph_id": 178,
-          "text": "And then, at the worst timing possible, the Goddess spoke to him, and he ended up ‘running away’ to this world."
+          "text": "“Waka?” (Tomoe)"
         },
         {
           "id": 230,
           "paragraph_id": 179,
-          "text": "“Waka?” (Tomoe)"
+          "text": "“Tomoki, that guy...” (Makoto)"
         },
         {
           "id": 231,
           "paragraph_id": 180,
-          "text": "“Tomoki, that guy...” (Makoto)"
+          "text": "“...Yes?” (Tomoe)"
         },
         {
           "id": 232,
           "paragraph_id": 181,
-          "text": "“...Yes?” (Tomoe)"
+          "text": "“I wonder what kind of life he is seeking that he went as far as throwing away his humanity.” (Makoto)"
         },
         {
           "id": 233,
           "paragraph_id": 182,
-          "text": "“I wonder what kind of life he is seeking that he went as far as throwing away his humanity.” (Makoto)"
+          "text": "“...!"
         },
         {
           "id": 234,
-          "paragraph_id": 183,
-          "text": "“...!"
+          "paragraph_id": 182,
+          "text": "So you noticed.” (Tomoe)"
         },
         {
           "id": 235,
           "paragraph_id": 183,
-          "text": "So you noticed.” (Tomoe)"
-        },
-        {
-          "id": 236,
-          "paragraph_id": 184,
           "text": "“I can tell."
         },
         {
-          "id": 237,
-          "paragraph_id": 184,
+          "id": 236,
+          "paragraph_id": 183,
           "text": "I simply didn’t ask before because it wasn’t that big of a thing to ask about to others."
+        },
+        {
+          "id": 237,
+          "paragraph_id": 183,
+          "text": "He had a whole lot of things mixed on him and has become a sort of chimera.” (Makoto)"
         },
         {
           "id": 238,
           "paragraph_id": 184,
-          "text": "He had a whole lot of things mixed on him and has become a sort of chimera.” (Makoto)"
+          "text": "“But despite that, there wasn’t any hesitation in him."
         },
         {
           "id": 239,
-          "paragraph_id": 185,
-          "text": "“But despite that, there wasn’t any hesitation in him."
+          "paragraph_id": 184,
+          "text": "That guy has resolved himself and is stubbornly trying to redo his life perfectly...or at least that seems to be his intention.” (Tomoe)"
         },
         {
           "id": 240,
           "paragraph_id": 185,
-          "text": "That guy has resolved himself and is stubbornly trying to redo his life perfectly...or at least that seems to be his intention.” (Tomoe)"
+          "text": "“I think the one I should be looking after isn’t Senpai but Tomoki."
         },
         {
           "id": 241,
-          "paragraph_id": 186,
-          "text": "“I think the one I should be looking after isn’t Senpai but Tomoki."
+          "paragraph_id": 185,
+          "text": "He was an acquaintance of Senpai, and my meeting with him was a bad one, so I was thinking about only helping him a bit if it is just to gather information.” (Makoto)"
         },
         {
           "id": 242,
           "paragraph_id": 186,
-          "text": "He was an acquaintance of Senpai, and my meeting with him was a bad one, so I was thinking about only helping him a bit if it is just to gather information.” (Makoto)"
+          "text": "“...”"
         },
         {
           "id": 243,
           "paragraph_id": 187,
-          "text": "“...”"
+          "text": "“It seems like he has shaved off his lifespan by quite a great deal."
         },
         {
           "id": 244,
-          "paragraph_id": 188,
-          "text": "“It seems like he has shaved off his lifespan by quite a great deal."
+          "paragraph_id": 187,
+          "text": "From how it looks, I would say he doesn’t have long.” (Makoto)"
         },
         {
           "id": 245,
           "paragraph_id": 188,
-          "text": "From how it looks, I would say he doesn’t have long.” (Makoto)"
+          "text": "“...Yeah."
         },
         {
           "id": 246,
-          "paragraph_id": 189,
-          "text": "“...Yeah."
+          "paragraph_id": 188,
+          "text": "Must be one of the reasons he is hurrying the conclusion of the war.” (Tomoe)"
         },
         {
           "id": 247,
           "paragraph_id": 189,
-          "text": "Must be one of the reasons he is hurrying the conclusion of the war.” (Tomoe)"
+          "text": "Tomoe softly wraps her body around my arm."
         },
         {
           "id": 248,
           "paragraph_id": 190,
-          "text": "Tomoe softly wraps her body around my arm."
+          "text": "Looks like you have gotten emotional enough to worry, Tomoe."
         },
         {
           "id": 249,
           "paragraph_id": 191,
-          "text": "Looks like you have gotten emotional enough to worry, Tomoe."
+          "text": "“Stupid body modifications, obtaining stupid powers; what part of that is perfect?” (Makoto)"
         },
         {
           "id": 250,
           "paragraph_id": 192,
-          "text": "“Stupid body modifications, obtaining stupid powers; what part of that is perfect?” (Makoto)"
+          "text": "In the first place, there’s no perfect in life."
         },
         {
           "id": 251,
           "paragraph_id": 193,
-          "text": "In the first place, there’s no perfect in life."
+          "text": "You could say you led a fulfilling life with few regrets on your deathbed."
         },
         {
           "id": 252,
           "paragraph_id": 194,
-          "text": "You could say you led a fulfilling life with few regrets on your deathbed."
+          "text": "But that’s all you could get."
         },
         {
           "id": 253,
           "paragraph_id": 195,
-          "text": "But that’s all you could get."
+          "text": "“Waka, there’s only one thing I want to say.” (Tomoe)"
         },
         {
           "id": 254,
           "paragraph_id": 196,
-          "text": "“Waka, there’s only one thing I want to say.” (Tomoe)"
+          "text": "“Tomoki’s desire for revenge?” (Makoto)"
         },
         {
           "id": 255,
           "paragraph_id": 197,
-          "text": "“Tomoki’s desire for revenge?” (Makoto)"
-        },
-        {
-          "id": 256,
-          "paragraph_id": 198,
           "text": "“...!"
         },
         {
-          "id": 257,
-          "paragraph_id": 198,
+          "id": 256,
+          "paragraph_id": 197,
           "text": "Yes."
+        },
+        {
+          "id": 257,
+          "paragraph_id": 197,
+          "text": "He looked like he was totally burning with the desire to get back at you.” (Tomoe)"
         },
         {
           "id": 258,
           "paragraph_id": 198,
-          "text": "He looked like he was totally burning with the desire to get back at you.” (Tomoe)"
+          "text": "“Couldn’t read him in detail?” (Makoto)"
         },
         {
           "id": 259,
           "paragraph_id": 199,
-          "text": "“Couldn’t read him in detail?” (Makoto)"
+          "text": "“It seems like he has taken countermeasures for that."
         },
         {
           "id": 260,
-          "paragraph_id": 200,
-          "text": "“It seems like he has taken countermeasures for that."
+          "paragraph_id": 199,
+          "text": "I am sorry.” (Tomoe)"
         },
         {
           "id": 261,
           "paragraph_id": 200,
-          "text": "I am sorry.” (Tomoe)"
-        },
-        {
-          "id": 262,
-          "paragraph_id": 201,
           "text": "“Don’t worry about it."
         },
         {
-          "id": 263,
-          "paragraph_id": 201,
+          "id": 262,
+          "paragraph_id": 200,
           "text": "I could somewhat tell...that we were both talking with masks on."
         },
         {
-          "id": 264,
-          "paragraph_id": 201,
+          "id": 263,
+          "paragraph_id": 200,
           "text": "The type where, when you are an adult, you hide the things that would be bad to show in the moment."
+        },
+        {
+          "id": 264,
+          "paragraph_id": 200,
+          "text": "If I could utilize that properly, I would be a skilled merchant.” (Makoto)"
         },
         {
           "id": 265,
           "paragraph_id": 201,
-          "text": "If I could utilize that properly, I would be a skilled merchant.” (Makoto)"
+          "text": "Like Rembrandt-san."
         },
         {
           "id": 266,
           "paragraph_id": 202,
-          "text": "Like Rembrandt-san."
+          "text": "If it were him, he would be able to skillfully hold the reins of the vengeful spirit and hatred of people like Tomoki and bring them to their demise."
         },
         {
           "id": 267,
           "paragraph_id": 203,
-          "text": "If it were him, he would be able to skillfully hold the reins of the vengeful spirit and hatred of people like Tomoki and bring them to their demise."
+          "text": "Regarding the demise part, I can only see it as Tomoki already sprinting his way to that path, so I feel like he would self-destruct by himself anyways."
         },
         {
           "id": 268,
           "paragraph_id": 204,
-          "text": "Regarding the demise part, I can only see it as Tomoki already sprinting his way to that path, so I feel like he would self-destruct by himself anyways."
+          "text": "“Even if, at some point in time, we get involved in the war happening right now, I would like you to rely on us just like you do with your business.” (Tomoe)"
         },
         {
           "id": 269,
           "paragraph_id": 205,
-          "text": "“Even if, at some point in time, we get involved in the war happening right now, I would like you to rely on us just like you do with your business.” (Tomoe)"
+          "text": "“?"
         },
         {
           "id": 270,
-          "paragraph_id": 206,
-          "text": "“?"
+          "paragraph_id": 205,
+          "text": "I am relying on you guys to the point where I feel bad about it though?” (Makoto)"
         },
         {
           "id": 271,
           "paragraph_id": 206,
-          "text": "I am relying on you guys to the point where I feel bad about it though?” (Makoto)"
+          "text": "“No no, the more dangerous something is, the higher the chances of our Waka running wild after all."
         },
         {
           "id": 272,
-          "paragraph_id": 207,
-          "text": "“No no, the more dangerous something is, the higher the chances of our Waka running wild after all."
+          "paragraph_id": 206,
+          "text": "Have to voice it out properly.” (Tomoe)"
         },
         {
           "id": 273,
           "paragraph_id": 207,
-          "text": "Have to voice it out properly.” (Tomoe)"
+          "text": "The expression of Tomoe when saying this was not joking at all; it was painted in the color of seriousness."
         },
         {
           "id": 274,
           "paragraph_id": 208,
-          "text": "The expression of Tomoe when saying this was not joking at all; it was painted in the color of seriousness."
-        },
-        {
-          "id": 275,
-          "paragraph_id": 209,
           "text": "I felt sad that I am being thought of as someone hopeless that runs into bad routes just like Tomoki."
         }
       ],
-      "word_count": 3406
+      "word_count": 3383
     },
     {
       "chapter_index": 456,
@@ -6858,7 +6801,6 @@
         "“...Eh?” (Makoto)",
         "“A miracle stone that has no magic power. That Goddess began throwing a tantrum like that of a grade schooler saying ‘we don’t have this’, ‘we don’t have that’. Give me a break. She made us rush into the very depths of enemy territory, and now she suddenly tells me to search for a power stone. What kind of joke is this?” (Hibiki)",
         "“Hahaha. No, that’s not it, Senpai. You have come from that battlefield, so this isn’t the time to be looking after students, you know? It would be better to return as soon as possible...” (Makoto)",
-        "So Senpai also imagined a power stone from the details of what she was told, huh.",
         "That I managed to reach the same conclusion as Hibiki-senpai, even if it is something simple like this, it makes me a bit happy.",
         "Also, why is it that so many people take my jokes seriously?",
         "“The current state of the war is because of the big charge of the Empire; I am just decoration.” (Hibiki)",
@@ -7863,350 +7805,345 @@
         {
           "id": 188,
           "paragraph_id": 138,
-          "text": "So Senpai also imagined a power stone from the details of what she was told, huh."
+          "text": "That I managed to reach the same conclusion as Hibiki-senpai, even if it is something simple like this, it makes me a bit happy."
         },
         {
           "id": 189,
           "paragraph_id": 139,
-          "text": "That I managed to reach the same conclusion as Hibiki-senpai, even if it is something simple like this, it makes me a bit happy."
+          "text": "Also, why is it that so many people take my jokes seriously?"
         },
         {
           "id": 190,
           "paragraph_id": 140,
-          "text": "Also, why is it that so many people take my jokes seriously?"
+          "text": "“The current state of the war is because of the big charge of the Empire; I am just decoration.” (Hibiki)"
         },
         {
           "id": 191,
           "paragraph_id": 141,
-          "text": "“The current state of the war is because of the big charge of the Empire; I am just decoration.” (Hibiki)"
+          "text": "“No way that’s the case.” (Makoto)"
         },
         {
           "id": 192,
           "paragraph_id": 142,
-          "text": "“No way that’s the case.” (Makoto)"
-        },
-        {
-          "id": 193,
-          "paragraph_id": 143,
           "text": "“Fufu, right."
         },
         {
-          "id": 194,
-          "paragraph_id": 143,
+          "id": 193,
+          "paragraph_id": 142,
           "text": "Tomoki has returned, so this time it is my turn."
+        },
+        {
+          "id": 194,
+          "paragraph_id": 142,
+          "text": "This time around, we have talked it out.” (Hibiki)"
         },
         {
           "id": 195,
           "paragraph_id": 143,
-          "text": "This time around, we have talked it out.” (Hibiki)"
+          "text": "“Between Senpai and Tomoki?” (Makoto)"
         },
         {
           "id": 196,
           "paragraph_id": 144,
-          "text": "“Between Senpai and Tomoki?” (Makoto)"
+          "text": "“Between the Empire and the Kingdom.” (Hibiki)"
         },
         {
           "id": 197,
           "paragraph_id": 145,
-          "text": "“Between the Empire and the Kingdom.” (Hibiki)"
+          "text": "“...”"
         },
         {
           "id": 198,
           "paragraph_id": 146,
-          "text": "“...”"
-        },
-        {
-          "id": 199,
-          "paragraph_id": 147,
           "text": "“The Empire is serious."
         },
         {
-          "id": 200,
-          "paragraph_id": 147,
+          "id": 199,
+          "paragraph_id": 146,
           "text": "We plan on putting an end to the battle against the demons."
         },
         {
-          "id": 201,
-          "paragraph_id": 147,
+          "id": 200,
+          "paragraph_id": 146,
           "text": "I have felt it with my skin."
+        },
+        {
+          "id": 201,
+          "paragraph_id": 146,
+          "text": "Limia was one step late, but we are seriously sending supplies and reinforcements.” (Hibiki)"
         },
         {
           "id": 202,
           "paragraph_id": 147,
-          "text": "Limia was one step late, but we are seriously sending supplies and reinforcements.” (Hibiki)"
+          "text": "“So you are going to be settling this, huh.” (Makoto)"
         },
         {
           "id": 203,
           "paragraph_id": 148,
-          "text": "“So you are going to be settling this, huh.” (Makoto)"
+          "text": "“We will technically be using the momentum of the Empire to its full extent, but...we will settle this.” (Hibiki)"
         },
         {
           "id": 204,
           "paragraph_id": 149,
-          "text": "“We will technically be using the momentum of the Empire to its full extent, but...we will settle this.” (Hibiki)"
+          "text": "Looks like I will have to hurry if I am going to go ahead with the plan of accepting demon refugees."
         },
         {
           "id": 205,
           "paragraph_id": 150,
-          "text": "Looks like I will have to hurry if I am going to go ahead with the plan of accepting demon refugees."
+          "text": "I plan to have Kaleneon be the core of this plan, but I should shape up the details with Sari on the Asora side."
         },
         {
           "id": 206,
           "paragraph_id": 151,
-          "text": "I plan to have Kaleneon be the core of this plan, but I should shape up the details with Sari on the Asora side."
+          "text": "I exchanged glances with Shiki, and he nodded silently."
         },
         {
           "id": 207,
           "paragraph_id": 152,
-          "text": "I exchanged glances with Shiki, and he nodded silently."
+          "text": "So the preparations are done."
         },
         {
           "id": 208,
           "paragraph_id": 153,
-          "text": "So the preparations are done."
+          "text": "How reliable."
         },
         {
           "id": 209,
           "paragraph_id": 154,
-          "text": "How reliable."
+          "text": "“Hm, I apologize for having come a bit earlier than planned."
         },
         {
           "id": 210,
-          "paragraph_id": 155,
-          "text": "“Hm, I apologize for having come a bit earlier than planned."
+          "paragraph_id": 154,
+          "text": "This is the first time I have traveled this much of a distance, so my plans were slightly off the mark.” (Hibiki)"
         },
         {
           "id": 211,
           "paragraph_id": 155,
-          "text": "This is the first time I have traveled this much of a distance, so my plans were slightly off the mark.” (Hibiki)"
+          "text": "“No no, don’t worry about it.” (Makoto)"
         },
         {
           "id": 212,
           "paragraph_id": 156,
-          "text": "“No no, don’t worry about it.” (Makoto)"
+          "text": "“I am already here anyway, so I will go with you to the company, okay?” (Hibiki)"
         },
         {
           "id": 213,
           "paragraph_id": 157,
-          "text": "“I am already here anyway, so I will go with you to the company, okay?” (Hibiki)"
+          "text": "“Eh?” (Makoto)"
         },
         {
           "id": 214,
           "paragraph_id": 158,
-          "text": "“Eh?” (Makoto)"
+          "text": "Senpai said something outrageous as if nothing."
         },
         {
           "id": 215,
           "paragraph_id": 159,
-          "text": "Senpai said something outrageous as if nothing."
+          "text": "The voices of the students grow noisier."
         },
         {
           "id": 216,
           "paragraph_id": 160,
-          "text": "The voices of the students grow noisier."
+          "text": "This gallery of students that just came out as if they own the place."
         },
         {
           "id": 217,
           "paragraph_id": 161,
-          "text": "This gallery of students that just came out as if they own the place."
+          "text": "I picked up a number of words I didn’t want to hear through Sakai."
         },
         {
           "id": 218,
           "paragraph_id": 162,
-          "text": "I picked up a number of words I didn’t want to hear through Sakai."
+          "text": "“Raidou-sensei really is friends with the Hero-samas.”"
         },
         {
           "id": 219,
           "paragraph_id": 163,
-          "text": "“Raidou-sensei really is friends with the Hero-samas.”"
+          "text": "“The Empire’s Hero-sama and now even the Kingdom’s Hero-sama; moreover, they act so close.”"
         },
         {
           "id": 220,
           "paragraph_id": 164,
-          "text": "“The Empire’s Hero-sama and now even the Kingdom’s Hero-sama; moreover, they act so close.”"
+          "text": "“Hmm, isn’t he being relied on?”"
         },
         {
           "id": 221,
           "paragraph_id": 165,
-          "text": "“Hmm, isn’t he being relied on?”"
+          "text": "“That black hair is so beautiful...”"
         },
         {
           "id": 222,
           "paragraph_id": 166,
-          "text": "“That black hair is so beautiful...”"
+          "text": "“Could it be that Raidou-sensei is also a hero?!”"
         },
         {
           "id": 223,
           "paragraph_id": 167,
-          "text": "“Could it be that Raidou-sensei is also a hero?!”"
+          "text": "“No way that’s the case!"
         },
         {
           "id": 224,
-          "paragraph_id": 168,
-          "text": "“No way that’s the case!"
+          "paragraph_id": 167,
+          "text": "But...”"
         },
         {
           "id": 225,
           "paragraph_id": 168,
-          "text": "But...”"
+          "text": "“Yeah, he may be a legendary warrior that can stand side by side with them.”"
         },
         {
           "id": 226,
           "paragraph_id": 169,
-          "text": "“Yeah, he may be a legendary warrior that can stand side by side with them.”"
+          "text": "“I did hear that the battle against the demons is heating up.”"
         },
         {
           "id": 227,
           "paragraph_id": 170,
-          "text": "“I did hear that the battle against the demons is heating up.”"
+          "text": "“No matter what the future may bring, the heroes will always leave new seeds of hope.”"
         },
         {
           "id": 228,
           "paragraph_id": 171,
-          "text": "“No matter what the future may bring, the heroes will always leave new seeds of hope.”"
+          "text": "““?!””"
         },
         {
           "id": 229,
           "paragraph_id": 172,
-          "text": "““?!””"
+          "text": "“That’s right, I have heard that they would make a vow with their irreplaceable friend to please raise the eggs of future heroes.”"
         },
         {
           "id": 230,
           "paragraph_id": 173,
-          "text": "“That’s right, I have heard that they would make a vow with their irreplaceable friend to please raise the eggs of future heroes.”"
+          "text": "““?!?!””"
         },
         {
           "id": 231,
           "paragraph_id": 174,
-          "text": "““?!?!””"
+          "text": "“I didn’t know that Raidou-sensei was that, but...there’s no doubt.”"
         },
         {
           "id": 232,
           "paragraph_id": 175,
-          "text": "“I didn’t know that Raidou-sensei was that, but...there’s no doubt.”"
+          "text": "“T-Then...”"
         },
         {
           "id": 233,
           "paragraph_id": 176,
-          "text": "“T-Then...”"
+          "text": "“Yeah, Raidou-sensei is the one who raises the future heroes...being a legendary warrior himself yet a teacher.”"
         },
         {
           "id": 234,
           "paragraph_id": 177,
-          "text": "“Yeah, Raidou-sensei is the one who raises the future heroes...being a legendary warrior himself yet a teacher.”"
+          "text": "“Hero...Teacher!!”"
         },
         {
           "id": 235,
           "paragraph_id": 178,
-          "text": "“Hero...Teacher!!”"
+          "text": "...I want to puke."
         },
         {
           "id": 236,
           "paragraph_id": 179,
-          "text": "...I want to puke."
+          "text": "Why is it that sh*tty rumors that go from 0 to 100 are the ones that spread like a disease."
         },
         {
           "id": 237,
           "paragraph_id": 180,
-          "text": "Why is it that sh*tty rumors that go from 0 to 100 are the ones that spread like a disease."
+          "text": "Since the time with Tomoki, there has been the budding theory that Raidou = Hero Teacher."
         },
         {
           "id": 238,
           "paragraph_id": 181,
-          "text": "Since the time with Tomoki, there has been the budding theory that Raidou = Hero Teacher."
+          "text": "In the first place, a Hero Teacher is something I haven’t seen or heard in this world’s history."
         },
         {
           "id": 239,
           "paragraph_id": 182,
-          "text": "In the first place, a Hero Teacher is something I haven’t seen or heard in this world’s history."
+          "text": "We are heading to dark times just like in the confession rush days."
         },
         {
           "id": 240,
           "paragraph_id": 183,
-          "text": "We are heading to dark times just like in the confession rush days."
+          "text": "T-This is so unreasonable!"
         },
         {
           "id": 241,
           "paragraph_id": 184,
-          "text": "T-This is so unreasonable!"
+          "text": "“Since when did you class change into the Hero Teacher Raidou, Makoto-kun?” (Hibiki)"
         },
         {
           "id": 242,
           "paragraph_id": 185,
-          "text": "“Since when did you class change into the Hero Teacher Raidou, Makoto-kun?” (Hibiki)"
+          "text": "Senpai whispers to my ear."
         },
         {
           "id": 243,
           "paragraph_id": 186,
-          "text": "Senpai whispers to my ear."
+          "text": "“You are doing this while fully aware, aren’t you, Hero-dono?” (Shiki)"
         },
         {
           "id": 244,
           "paragraph_id": 187,
-          "text": "“You are doing this while fully aware, aren’t you, Hero-dono?” (Shiki)"
+          "text": "The way too familiar conduct of Hibiki-senpai which would invite even more misunderstanding."
         },
         {
           "id": 245,
           "paragraph_id": 188,
-          "text": "The way too familiar conduct of Hibiki-senpai which would invite even more misunderstanding."
+          "text": "Shiki retorts, but doesn’t seem to have any intention of fixing things."
         },
         {
           "id": 246,
           "paragraph_id": 189,
-          "text": "Shiki retorts, but doesn’t seem to have any intention of fixing things."
+          "text": "Oof."
         },
         {
           "id": 247,
           "paragraph_id": 190,
-          "text": "Oof."
+          "text": "“And then, Raidou-dono who had to part ways from the Hero-dono of the Kingdom to walk the path of a teacher...has finally reunited with her again!”"
         },
         {
           "id": 248,
           "paragraph_id": 191,
-          "text": "“And then, Raidou-dono who had to part ways from the Hero-dono of the Kingdom to walk the path of a teacher...has finally reunited with her again!”"
-        },
-        {
-          "id": 249,
-          "paragraph_id": 192,
           "text": "“Eh?!"
         },
         {
-          "id": 250,
-          "paragraph_id": 192,
+          "id": 249,
+          "paragraph_id": 191,
           "text": "I heard rumors that the Kingdom’s Hero-sama was engaged with the Empire’s Hero-sama though."
+        },
+        {
+          "id": 250,
+          "paragraph_id": 191,
+          "text": "Could it be...?!”"
         },
         {
           "id": 251,
           "paragraph_id": 192,
-          "text": "Could it be...?!”"
+          "text": "“Does that mean...?!”"
         },
         {
           "id": 252,
           "paragraph_id": 193,
-          "text": "“Does that mean...?!”"
+          "text": "Aah, geez."
         },
         {
           "id": 253,
           "paragraph_id": 194,
-          "text": "Aah, geez."
+          "text": "Heroes are always the center of conversations."
         },
         {
           "id": 254,
           "paragraph_id": 195,
-          "text": "Heroes are always the center of conversations."
+          "text": "Being dragged into all of this by the people themselves is quite the pain, oi."
         },
         {
           "id": 255,
           "paragraph_id": 196,
-          "text": "Being dragged into all of this by the people themselves is quite the pain, oi."
-        },
-        {
-          "id": 256,
-          "paragraph_id": 197,
           "text": "Thinking about how I am going to be called something I don’t want to again, I get dejected."
         }
       ],
-      "word_count": 2870
+      "word_count": 2854
     },
     {
       "chapter_index": 457,
@@ -46445,12 +46382,8 @@
         "“Wavelength.” (Makoto)",
         "Wavelength? What does that mean?",
         "...That you are menta—let’s not.",
-        "“It is not like there’s something made solely for me somewhere in the world, but more like a...Power Stone?” (Tomoki)",
-        "“A power stone, huh.” (Makoto)",
-        "“I wasn’t interested even if I was told about it being like a power stone, and I didn’t get it at all. Did that serve as a hint? If it were in the precious items of the Academy or in the exhibited items of the museums, it would have been easy.” (Tomoki)",
         "I see.",
         "Don’t underestimate me who was sandwiched in between my older sister and little sister.",
-        "Power stone, huh. I get it to a certain degree.",
         "And wavelength.",
         "I think it refers to affinity.",
         "It is not something exclusive to heroes.",
@@ -47215,205 +47148,170 @@
         {
           "id": 147,
           "paragraph_id": 106,
-          "text": "“It is not like there’s something made solely for me somewhere in the world, but more like a...Power Stone?” (Tomoki)"
+          "text": "I see."
         },
         {
           "id": 148,
           "paragraph_id": 107,
-          "text": "“A power stone, huh.” (Makoto)"
+          "text": "Don’t underestimate me who was sandwiched in between my older sister and little sister."
         },
         {
           "id": 149,
           "paragraph_id": 108,
-          "text": "“I wasn’t interested even if I was told about it being like a power stone, and I didn’t get it at all."
-        },
-        {
-          "id": 150,
-          "paragraph_id": 108,
-          "text": "Did that serve as a hint?"
-        },
-        {
-          "id": 151,
-          "paragraph_id": 108,
-          "text": "If it were in the precious items of the Academy or in the exhibited items of the museums, it would have been easy.” (Tomoki)"
-        },
-        {
-          "id": 152,
-          "paragraph_id": 109,
-          "text": "I see."
-        },
-        {
-          "id": 153,
-          "paragraph_id": 110,
-          "text": "Don’t underestimate me who was sandwiched in between my older sister and little sister."
-        },
-        {
-          "id": 154,
-          "paragraph_id": 111,
-          "text": "Power stone, huh."
-        },
-        {
-          "id": 155,
-          "paragraph_id": 111,
-          "text": "I get it to a certain degree."
-        },
-        {
-          "id": 156,
-          "paragraph_id": 112,
           "text": "And wavelength."
         },
         {
-          "id": 157,
-          "paragraph_id": 113,
+          "id": 150,
+          "paragraph_id": 109,
           "text": "I think it refers to affinity."
         },
         {
-          "id": 158,
-          "paragraph_id": 114,
+          "id": 151,
+          "paragraph_id": 110,
           "text": "It is not something exclusive to heroes."
         },
         {
-          "id": 159,
-          "paragraph_id": 115,
+          "id": 152,
+          "paragraph_id": 111,
           "text": "In other words...there’s a stone that conforms to Tomoki, or something that can fit Tomoki."
         },
         {
-          "id": 160,
-          "paragraph_id": 116,
+          "id": 153,
+          "paragraph_id": 112,
           "text": "Rather than seeing the quality, I would say it is more important to gather quantity here."
         },
         {
-          "id": 161,
-          "paragraph_id": 117,
+          "id": 154,
+          "paragraph_id": 113,
           "text": "Then, I should gather stones that are found in the wasteland, things that could be found even in Japan, and stones that can only be found in this world."
         },
         {
-          "id": 162,
-          "paragraph_id": 118,
+          "id": 155,
+          "paragraph_id": 114,
           "text": "Ones that don’t have magic power and have a decent amount of quality, right?"
         },
         {
-          "id": 163,
-          "paragraph_id": 119,
+          "id": 156,
+          "paragraph_id": 115,
           "text": "The size..."
+        },
+        {
+          "id": 157,
+          "paragraph_id": 116,
+          "text": "“No delineation for the size?” (Makoto)"
+        },
+        {
+          "id": 158,
+          "paragraph_id": 117,
+          "text": "“It would be troubling if it isn’t something in a size that I can wear.” (Tomoki)"
+        },
+        {
+          "id": 159,
+          "paragraph_id": 118,
+          "text": "“To make it into equipment, huh."
+        },
+        {
+          "id": 160,
+          "paragraph_id": 118,
+          "text": "But the important thing is the stone itself though.” (Makoto)"
+        },
+        {
+          "id": 161,
+          "paragraph_id": 119,
+          "text": "“Yeah."
+        },
+        {
+          "id": 162,
+          "paragraph_id": 119,
+          "text": "At worst, if you can at least find the stone, we can prepare the stuff like the pedestal, the head, the chain and stuff like that on our side.” (Tomoki)"
+        },
+        {
+          "id": 163,
+          "paragraph_id": 120,
+          "text": "“Got it."
         },
         {
           "id": 164,
           "paragraph_id": 120,
-          "text": "“No delineation for the size?” (Makoto)"
+          "text": "Then, see you in 3 days.” (Makoto)"
         },
         {
           "id": 165,
           "paragraph_id": 121,
-          "text": "“It would be troubling if it isn’t something in a size that I can wear.” (Tomoki)"
+          "text": "“Nice."
         },
         {
           "id": 166,
-          "paragraph_id": 122,
-          "text": "“To make it into equipment, huh."
+          "paragraph_id": 121,
+          "text": "I like that confidence."
         },
         {
           "id": 167,
-          "paragraph_id": 122,
-          "text": "But the important thing is the stone itself though.” (Makoto)"
+          "paragraph_id": 121,
+          "text": "I see, you really are a merchant.” (Tomoki)"
         },
         {
           "id": 168,
-          "paragraph_id": 123,
-          "text": "“Yeah."
+          "paragraph_id": 122,
+          "text": "Hearing my words and looking at my face, Tomoki raised the corners of his mouth and grinned."
         },
         {
           "id": 169,
           "paragraph_id": 123,
-          "text": "At worst, if you can at least find the stone, we can prepare the stuff like the pedestal, the head, the chain and stuff like that on our side.” (Tomoki)"
+          "text": "Did I make a confident expression?"
         },
         {
           "id": 170,
           "paragraph_id": 124,
-          "text": "“Got it."
-        },
-        {
-          "id": 171,
-          "paragraph_id": 124,
-          "text": "Then, see you in 3 days.” (Makoto)"
-        },
-        {
-          "id": 172,
-          "paragraph_id": 125,
-          "text": "“Nice."
-        },
-        {
-          "id": 173,
-          "paragraph_id": 125,
-          "text": "I like that confidence."
-        },
-        {
-          "id": 174,
-          "paragraph_id": 125,
-          "text": "I see, you really are a merchant.” (Tomoki)"
-        },
-        {
-          "id": 175,
-          "paragraph_id": 126,
-          "text": "Hearing my words and looking at my face, Tomoki raised the corners of his mouth and grinned."
-        },
-        {
-          "id": 176,
-          "paragraph_id": 127,
-          "text": "Did I make a confident expression?"
-        },
-        {
-          "id": 177,
-          "paragraph_id": 128,
           "text": "Even if that’s the case, it is natural to do so."
         },
         {
-          "id": 178,
-          "paragraph_id": 129,
+          "id": 171,
+          "paragraph_id": 125,
           "text": "I am the representative of the Kuzunoha Company; the merchant, Raidou."
         },
         {
-          "id": 179,
-          "paragraph_id": 130,
+          "id": 172,
+          "paragraph_id": 126,
           "text": "“...Ah.” (Makoto)"
         },
         {
-          "id": 180,
-          "paragraph_id": 131,
+          "id": 173,
+          "paragraph_id": 127,
           "text": "“?”"
         },
         {
-          "id": 181,
-          "paragraph_id": 132,
+          "id": 174,
+          "paragraph_id": 128,
           "text": "“No, it is nothing."
         },
         {
-          "id": 182,
-          "paragraph_id": 132,
+          "id": 175,
+          "paragraph_id": 128,
           "text": "Then, in 3 days."
         },
         {
-          "id": 183,
-          "paragraph_id": 132,
+          "id": 176,
+          "paragraph_id": 128,
           "text": "Right, come to the Kuzunoha Company’s store at noon.” (Makoto)"
         },
         {
-          "id": 184,
-          "paragraph_id": 133,
+          "id": 177,
+          "paragraph_id": 129,
           "text": "I thought for a moment that it has been quite a while since I have had normal merchant work."
         },
         {
-          "id": 185,
-          "paragraph_id": 134,
+          "id": 178,
+          "paragraph_id": 130,
           "text": "It really has been a while since I have interacted personally with a customer for a business deal."
         },
         {
-          "id": 186,
-          "paragraph_id": 135,
+          "id": 179,
+          "paragraph_id": 131,
           "text": "I was a bit grateful towards Tomoki for that."
         }
       ],
-      "word_count": 2168
+      "word_count": 2081
     },
     {
       "chapter_index": 495,
@@ -47560,7 +47458,6 @@
         "Now then, I wonder what kind of reaction it will bring to a Hero, a human, or a resident of the Origin World, if they were to hold a stone with no magic power.",
         "“...You really have gathered only gems and crystals with no magic power.” (Tomoki)",
         "“Yeah, that was the request after all. How does it look in your eyes?” (Makoto)",
-        "“This is...aah, is this what you were referring to as Power Stones, Tomoki-sama?”",
         "“That’s right.” (Tomoki)",
         "“I honestly can’t tell. I think they have ornamental value, but to serve as protection or a trigger to open up paths...I can’t see that at all.”",
         "“Figures. In this world where there’s magic power and magic, wanting normal stones is weird.” (Tomoki)",
@@ -47571,7 +47468,6 @@
         "I learned the reason why gems in this world don’t have that high of a value for the residents of this world after this event, but hearing it from the mouth of an actual resident is great.",
         "Nobles prefer accessories that have magic power and practical use instead of just being shiny; be it rings or necklaces.",
         "I guide Tomoki and his partner in order while feeling slightly annoyed.",
-        "The zone where there were big lumps of gems that even in Japan had stories of being power stones didn’t make Tomoki stop his feet.",
         "The girl stopped her feet every now and then and showed surprise and admiration though.",
         "Hmm.",
         "He also ignored the birthstones.",
@@ -48572,445 +48468,435 @@
         {
           "id": 187,
           "paragraph_id": 140,
-          "text": "“This is...aah, is this what you were referring to as Power Stones, Tomoki-sama?”"
+          "text": "“That’s right.” (Tomoki)"
         },
         {
           "id": 188,
           "paragraph_id": 141,
-          "text": "“That’s right.” (Tomoki)"
+          "text": "“I honestly can’t tell."
         },
         {
           "id": 189,
-          "paragraph_id": 142,
-          "text": "“I honestly can’t tell."
+          "paragraph_id": 141,
+          "text": "I think they have ornamental value, but to serve as protection or a trigger to open up paths...I can’t see that at all.”"
         },
         {
           "id": 190,
           "paragraph_id": 142,
-          "text": "I think they have ornamental value, but to serve as protection or a trigger to open up paths...I can’t see that at all.”"
+          "text": "“Figures."
         },
         {
           "id": 191,
-          "paragraph_id": 143,
-          "text": "“Figures."
+          "paragraph_id": 142,
+          "text": "In this world where there’s magic power and magic, wanting normal stones is weird.” (Tomoki)"
         },
         {
           "id": 192,
           "paragraph_id": 143,
-          "text": "In this world where there’s magic power and magic, wanting normal stones is weird.” (Tomoki)"
-        },
-        {
-          "id": 193,
-          "paragraph_id": 144,
           "text": "“However, Tomoki-sama needs it."
         },
         {
-          "id": 194,
-          "paragraph_id": 144,
+          "id": 193,
+          "paragraph_id": 143,
           "text": "You are finding worth in stones that have no magic power or history."
         },
         {
-          "id": 195,
-          "paragraph_id": 144,
+          "id": 194,
+          "paragraph_id": 143,
           "text": "It is most likely a world that only the chosen ones can see."
+        },
+        {
+          "id": 195,
+          "paragraph_id": 143,
+          "text": "I am jealous.”"
         },
         {
           "id": 196,
           "paragraph_id": 144,
-          "text": "I am jealous.”"
-        },
-        {
-          "id": 197,
-          "paragraph_id": 145,
           "text": "“It was just an oracle."
         },
         {
-          "id": 198,
-          "paragraph_id": 145,
+          "id": 197,
+          "paragraph_id": 144,
           "text": "It probably has no point for anyone aside from people who have come from another world."
         },
         {
-          "id": 199,
-          "paragraph_id": 145,
+          "id": 198,
+          "paragraph_id": 144,
           "text": "Right, since we are here, tell me which stone you like, Kuroe."
         },
         {
-          "id": 200,
-          "paragraph_id": 145,
+          "id": 199,
+          "paragraph_id": 144,
           "text": "I will properly send you an amulet with magic power in it."
+        },
+        {
+          "id": 200,
+          "paragraph_id": 144,
+          "text": "The least I can do to thank you.” (Tomoki)"
         },
         {
           "id": 201,
           "paragraph_id": 145,
-          "text": "The least I can do to thank you.” (Tomoki)"
+          "text": "Non-stop flirting."
         },
         {
           "id": 202,
           "paragraph_id": 146,
-          "text": "Non-stop flirting."
+          "text": "I am surprised from the bottom of my heart that she can spit out such sweet words when Tomoki is saying he has conquered 5-10 people."
         },
         {
           "id": 203,
           "paragraph_id": 147,
-          "text": "I am surprised from the bottom of my heart that she can spit out such sweet words when Tomoki is saying he has conquered 5-10 people."
+          "text": "I learned the reason why gems in this world don’t have that high of a value for the residents of this world after this event, but hearing it from the mouth of an actual resident is great."
         },
         {
           "id": 204,
           "paragraph_id": 148,
-          "text": "I learned the reason why gems in this world don’t have that high of a value for the residents of this world after this event, but hearing it from the mouth of an actual resident is great."
+          "text": "Nobles prefer accessories that have magic power and practical use instead of just being shiny; be it rings or necklaces."
         },
         {
           "id": 205,
           "paragraph_id": 149,
-          "text": "Nobles prefer accessories that have magic power and practical use instead of just being shiny; be it rings or necklaces."
+          "text": "I guide Tomoki and his partner in order while feeling slightly annoyed."
         },
         {
           "id": 206,
           "paragraph_id": 150,
-          "text": "I guide Tomoki and his partner in order while feeling slightly annoyed."
+          "text": "The girl stopped her feet every now and then and showed surprise and admiration though."
         },
         {
           "id": 207,
           "paragraph_id": 151,
-          "text": "The zone where there were big lumps of gems that even in Japan had stories of being power stones didn’t make Tomoki stop his feet."
+          "text": "Hmm."
         },
         {
           "id": 208,
           "paragraph_id": 152,
-          "text": "The girl stopped her feet every now and then and showed surprise and admiration though."
+          "text": "He also ignored the birthstones."
         },
         {
           "id": 209,
           "paragraph_id": 153,
-          "text": "Hmm."
+          "text": "This part was actually the one I thought would be a hit."
         },
         {
           "id": 210,
           "paragraph_id": 154,
-          "text": "He also ignored the birthstones."
+          "text": "I myself didn’t get any reaction when I touched a diamond, but I thought that a Hero would be different."
         },
         {
           "id": 211,
           "paragraph_id": 155,
-          "text": "This part was actually the one I thought would be a hit."
+          "text": "He even ignored the zone of the stones that can only be found in this world."
         },
         {
           "id": 212,
           "paragraph_id": 156,
-          "text": "I myself didn’t get any reaction when I touched a diamond, but I thought that a Hero would be different."
+          "text": "Rugui and Eris made questionable reactions to the soft emerald and a number of other gems, but Tomoki and Kuroe didn’t react at all."
         },
         {
           "id": 213,
           "paragraph_id": 157,
-          "text": "He even ignored the zone of the stones that can only be found in this world."
+          "text": "Tomoki must be touching each and every one of them because it is the key to finding the stone he is searching for."
         },
         {
           "id": 214,
           "paragraph_id": 158,
-          "text": "Rugui and Eris made questionable reactions to the soft emerald and a number of other gems, but Tomoki and Kuroe didn’t react at all."
+          "text": "In that case, what’s left are the crystals, corals, ambers, and the slightly different category ones."
         },
         {
           "id": 215,
           "paragraph_id": 159,
-          "text": "Tomoki must be touching each and every one of them because it is the key to finding the stone he is searching for."
+          "text": "I might have messed up here."
         },
         {
           "id": 216,
-          "paragraph_id": 160,
-          "text": "In that case, what’s left are the crystals, corals, ambers, and the slightly different category ones."
+          "paragraph_id": 159,
+          "text": "At the time when I was feeling discouraged wondering that this may be the pattern where there’s no hits..."
         },
         {
           "id": 217,
-          "paragraph_id": 161,
-          "text": "I might have messed up here."
+          "paragraph_id": 160,
+          "text": "Tomoki’s legs stopped."
         },
         {
           "id": 218,
           "paragraph_id": 161,
-          "text": "At the time when I was feeling discouraged wondering that this may be the pattern where there’s no hits..."
+          "text": "““!!””"
         },
         {
           "id": 219,
           "paragraph_id": 162,
-          "text": "Tomoki’s legs stopped."
+          "text": "I could tell Rugui and Eris were strengthening their guards."
         },
         {
           "id": 220,
           "paragraph_id": 163,
-          "text": "““!!””"
+          "text": "I could clearly tell as well."
         },
         {
           "id": 221,
           "paragraph_id": 164,
-          "text": "I could tell Rugui and Eris were strengthening their guards."
+          "text": "The moment he took that stone in his hand, the presence of Tomoki increased by a step."
         },
         {
           "id": 222,
           "paragraph_id": 165,
-          "text": "I could clearly tell as well."
+          "text": "I don’t know if a step or two is the proper way to describe this presence."
         },
         {
           "id": 223,
           "paragraph_id": 166,
-          "text": "The moment he took that stone in his hand, the presence of Tomoki increased by a step."
+          "text": "However, it was clear that it shot up."
         },
         {
           "id": 224,
           "paragraph_id": 167,
-          "text": "I don’t know if a step or two is the proper way to describe this presence."
+          "text": "That alone, I could tell."
         },
         {
           "id": 225,
           "paragraph_id": 168,
-          "text": "However, it was clear that it shot up."
+          "text": "He simply held the stone."
         },
         {
           "id": 226,
           "paragraph_id": 169,
-          "text": "That alone, I could tell."
+          "text": "Oi oi oi."
         },
         {
           "id": 227,
           "paragraph_id": 170,
-          "text": "He simply held the stone."
+          "text": "Is this the benefit of a Hero?"
         },
         {
           "id": 228,
           "paragraph_id": 171,
-          "text": "Oi oi oi."
+          "text": "It might not go as far as Root, but I would say he matches Zef-san plenty enough."
         },
         {
           "id": 229,
           "paragraph_id": 172,
-          "text": "Is this the benefit of a Hero?"
+          "text": "It might not be a completely accurate evaluation just from the impression I am being given here, but it is still a pretty horrifying sight."
         },
         {
           "id": 230,
           "paragraph_id": 173,
-          "text": "It might not go as far as Root, but I would say he matches Zef-san plenty enough."
+          "text": "Moreover, it is from the zone that I didn’t have much hopes for."
         },
         {
           "id": 231,
           "paragraph_id": 174,
-          "text": "It might not be a completely accurate evaluation just from the impression I am being given here, but it is still a pretty horrifying sight."
+          "text": "That zone is..."
         },
         {
           "id": 232,
           "paragraph_id": 175,
-          "text": "Moreover, it is from the zone that I didn’t have much hopes for."
+          "text": "Aventurine, tiger eye, and rose quartz, I think."
         },
         {
           "id": 233,
           "paragraph_id": 176,
-          "text": "That zone is..."
+          "text": "What Tomoki is holding is...a rose quartz."
         },
         {
           "id": 234,
           "paragraph_id": 177,
-          "text": "Aventurine, tiger eye, and rose quartz, I think."
+          "text": "It is called the deep crimson crystal or the rose quartz, but it is a stone that’s not that expensive."
         },
         {
           "id": 235,
           "paragraph_id": 178,
-          "text": "What Tomoki is holding is...a rose quartz."
+          "text": "I think Nee-san had an amulet of that."
         },
         {
           "id": 236,
           "paragraph_id": 179,
-          "text": "It is called the deep crimson crystal or the rose quartz, but it is a stone that’s not that expensive."
+          "text": "It gives me the image of a stone a girl would have, and it doesn’t suit Tomoki..."
         },
         {
           "id": 237,
           "paragraph_id": 180,
-          "text": "I think Nee-san had an amulet of that."
+          "text": "At any rate, I should investigate in detail just what kind of stone it is."
         },
         {
           "id": 238,
           "paragraph_id": 181,
-          "text": "It gives me the image of a stone a girl would have, and it doesn’t suit Tomoki..."
+          "text": "Also...I might have a stone like that too."
         },
         {
           "id": 239,
           "paragraph_id": 182,
-          "text": "At any rate, I should investigate in detail just what kind of stone it is."
+          "text": "...Ah, following that logic, Senpai must obviously have a stone too."
         },
         {
           "id": 240,
           "paragraph_id": 183,
-          "text": "Also...I might have a stone like that too."
+          "text": "For Senpai, I think it would be a diamond, emerald, or sapphire; the classic ones."
         },
         {
           "id": 241,
           "paragraph_id": 184,
-          "text": "...Ah, following that logic, Senpai must obviously have a stone too."
+          "text": "“...Raidou.” (Tomoki)"
         },
         {
           "id": 242,
           "paragraph_id": 185,
-          "text": "For Senpai, I think it would be a diamond, emerald, or sapphire; the classic ones."
+          "text": "“Looks like that’s the one.” (Makoto)"
         },
         {
           "id": 243,
           "paragraph_id": 186,
-          "text": "“...Raidou.” (Tomoki)"
+          "text": "The eyes of Tomoki were not separating from the rose quartz."
         },
         {
           "id": 244,
           "paragraph_id": 187,
-          "text": "“Looks like that’s the one.” (Makoto)"
+          "text": "His blazing eyes were staring intently at the stone."
         },
         {
           "id": 245,
           "paragraph_id": 188,
-          "text": "The eyes of Tomoki were not separating from the rose quartz."
+          "text": "Kuroe is...aah, her face has gone completely blank at how Tomoki has obtained an abnormal degree of power just from holding a stone that doesn’t have even a trace of magic power."
         },
         {
           "id": 246,
           "paragraph_id": 189,
-          "text": "His blazing eyes were staring intently at the stone."
+          "text": "It is a natural response."
         },
         {
           "id": 247,
           "paragraph_id": 190,
-          "text": "Kuroe is...aah, her face has gone completely blank at how Tomoki has obtained an abnormal degree of power just from holding a stone that doesn’t have even a trace of magic power."
+          "text": "I don’t know if it is a reaction only humans can get or if it is possible even for hyumans."
         },
         {
           "id": 248,
           "paragraph_id": 191,
-          "text": "It is a natural response."
+          "text": "I won’t be able to know unless I ask the Goddess or someone like that."
         },
         {
           "id": 249,
           "paragraph_id": 192,
-          "text": "I don’t know if it is a reaction only humans can get or if it is possible even for hyumans."
-        },
-        {
-          "id": 250,
-          "paragraph_id": 193,
-          "text": "I won’t be able to know unless I ask the Goddess or someone like that."
-        },
-        {
-          "id": 251,
-          "paragraph_id": 194,
           "text": "“That was a great help."
         },
         {
-          "id": 252,
-          "paragraph_id": 194,
+          "id": 250,
+          "paragraph_id": 192,
           "text": "I will take this pink one."
         },
         {
-          "id": 253,
-          "paragraph_id": 194,
+          "id": 251,
+          "paragraph_id": 192,
           "text": "Please send me the bill for the cost of all the stones here including the transportation cost, and your price for the work.” (Tomoki)"
         },
         {
-          "id": 254,
-          "paragraph_id": 195,
+          "id": 252,
+          "paragraph_id": 193,
           "text": "“It was unexpected that it was a rose quartz."
         },
         {
-          "id": 255,
-          "paragraph_id": 195,
+          "id": 253,
+          "paragraph_id": 193,
           "text": "But I am relieved that we managed to get what you requested."
+        },
+        {
+          "id": 254,
+          "paragraph_id": 193,
+          "text": "Keep the war in moderation.” (Makoto)"
+        },
+        {
+          "id": 255,
+          "paragraph_id": 194,
+          "text": "“Rose quartz, huh.” (Tomoki)"
         },
         {
           "id": 256,
           "paragraph_id": 195,
-          "text": "Keep the war in moderation.” (Makoto)"
+          "text": "“Yeah, it is also called the deep crimson crystal.” (Makoto)"
         },
         {
           "id": 257,
           "paragraph_id": 196,
-          "text": "“Rose quartz, huh.” (Tomoki)"
+          "text": "“You have my gratitude, Raidou."
         },
         {
           "id": 258,
-          "paragraph_id": 197,
-          "text": "“Yeah, it is also called the deep crimson crystal.” (Makoto)"
+          "paragraph_id": 196,
+          "text": "But...” (Tomoki)"
         },
         {
           "id": 259,
-          "paragraph_id": 198,
-          "text": "“You have my gratitude, Raidou."
+          "paragraph_id": 197,
+          "text": "“?”"
         },
         {
           "id": 260,
           "paragraph_id": 198,
-          "text": "But...” (Tomoki)"
+          "text": "Tomoki’s grateful smile changed into that of a ferocious warrior as he looked straight at me."
         },
         {
           "id": 261,
           "paragraph_id": 199,
-          "text": "“?”"
+          "text": "“There’s no moderation in war.” (Tomoki)"
         },
         {
           "id": 262,
           "paragraph_id": 200,
-          "text": "Tomoki’s grateful smile changed into that of a ferocious warrior as he looked straight at me."
+          "text": "“Right."
         },
         {
           "id": 263,
-          "paragraph_id": 201,
-          "text": "“There’s no moderation in war.” (Tomoki)"
+          "paragraph_id": 200,
+          "text": "That’s why I hate war.” (Makoto)"
         },
         {
           "id": 264,
-          "paragraph_id": 202,
-          "text": "“Right."
+          "paragraph_id": 201,
+          "text": "Killing and being killed with a straight face, every single one of them."
         },
         {
           "id": 265,
           "paragraph_id": 202,
-          "text": "That’s why I hate war.” (Makoto)"
+          "text": "I am tired of that."
         },
         {
           "id": 266,
           "paragraph_id": 203,
-          "text": "Killing and being killed with a straight face, every single one of them."
+          "text": "In that point, I feel the same for hyumans and demons."
         },
         {
           "id": 267,
           "paragraph_id": 204,
-          "text": "I am tired of that."
+          "text": "We managed to see a part of the effects from Tomoki obtaining the stone he wanted."
         },
         {
           "id": 268,
           "paragraph_id": 205,
-          "text": "In that point, I feel the same for hyumans and demons."
+          "text": "We see off Tomoki and Kuroe, and thank Rugui and Eris for their good job."
         },
         {
           "id": 269,
           "paragraph_id": 206,
-          "text": "We managed to see a part of the effects from Tomoki obtaining the stone he wanted."
+          "text": "Well, I would say the job has ended well."
         },
         {
           "id": 270,
           "paragraph_id": 207,
-          "text": "We see off Tomoki and Kuroe, and thank Rugui and Eris for their good job."
+          "text": "In the evening..."
         },
         {
           "id": 271,
           "paragraph_id": 208,
-          "text": "Well, I would say the job has ended well."
+          "text": "I got a call from Hibiki-senpai requesting me to do almost the same thing I did with Tomoki."
         },
         {
           "id": 272,
           "paragraph_id": 209,
-          "text": "In the evening..."
-        },
-        {
-          "id": 273,
-          "paragraph_id": 210,
-          "text": "I got a call from Hibiki-senpai requesting me to do almost the same thing I did with Tomoki."
-        },
-        {
-          "id": 274,
-          "paragraph_id": 211,
           "text": "Oof..."
         }
       ],
-      "word_count": 2920
+      "word_count": 2882
     },
     {
       "chapter_index": 496,
@@ -49163,7 +49049,6 @@
         "“Chrysoprase is categorized as a crystal?” (Makoto)",
         "“? Yeah, the dwarfs said that it has similar characteristics.” (Tomoe)",
         "A creamy green stone, chrysoprase.",
-        "It is apparently decently rare, but it is a stone that can be bought at a power stone shop just like rose quartz.",
         "The reason I immediately thought of that stone when thinking of the stone of Senpai was because my sisters had gotten this knowledge from a strange magazine and spoke about how dreamy it was.",
         "...They soon got bored about it, so I only have surface knowledge about it.",
         "Senpai had that chrysoprase, I had prior knowledge about it, and I am in a situation where I can show it; you could say it is a miraculous chain of events.",
@@ -50197,420 +50082,415 @@
         {
           "id": 193,
           "paragraph_id": 146,
-          "text": "It is apparently decently rare, but it is a stone that can be bought at a power stone shop just like rose quartz."
+          "text": "The reason I immediately thought of that stone when thinking of the stone of Senpai was because my sisters had gotten this knowledge from a strange magazine and spoke about how dreamy it was."
         },
         {
           "id": 194,
           "paragraph_id": 147,
-          "text": "The reason I immediately thought of that stone when thinking of the stone of Senpai was because my sisters had gotten this knowledge from a strange magazine and spoke about how dreamy it was."
+          "text": "...They soon got bored about it, so I only have surface knowledge about it."
         },
         {
           "id": 195,
           "paragraph_id": 148,
-          "text": "...They soon got bored about it, so I only have surface knowledge about it."
+          "text": "Senpai had that chrysoprase, I had prior knowledge about it, and I am in a situation where I can show it; you could say it is a miraculous chain of events."
         },
         {
           "id": 196,
           "paragraph_id": 149,
-          "text": "Senpai had that chrysoprase, I had prior knowledge about it, and I am in a situation where I can show it; you could say it is a miraculous chain of events."
+          "text": "This is Hibiki-senpai."
         },
         {
           "id": 197,
           "paragraph_id": 150,
-          "text": "This is Hibiki-senpai."
+          "text": "“So it really isn’t that rare of a thing, huh.” (Makoto)"
         },
         {
           "id": 198,
           "paragraph_id": 151,
-          "text": "“So it really isn’t that rare of a thing, huh.” (Makoto)"
+          "text": "“Right."
         },
         {
           "id": 199,
-          "paragraph_id": 152,
-          "text": "“Right."
+          "paragraph_id": 151,
+          "text": "If it is of good quality, it would go for a decent amount of coin, but most of them are not expensive to a point where you wouldn’t be able to get a hand on one.” (Tomoe)"
         },
         {
           "id": 200,
           "paragraph_id": 152,
-          "text": "If it is of good quality, it would go for a decent amount of coin, but most of them are not expensive to a point where you wouldn’t be able to get a hand on one.” (Tomoe)"
+          "text": "I would say around a few thousand or ten thousand?"
         },
         {
           "id": 201,
           "paragraph_id": 153,
-          "text": "I would say around a few thousand or ten thousand?"
+          "text": "If looking at the low end, it would go for hundreds to thousands of yen; a reasonably priced stone."
         },
         {
           "id": 202,
           "paragraph_id": 154,
-          "text": "If looking at the low end, it would go for hundreds to thousands of yen; a reasonably priced stone."
+          "text": "“So you think that that Hibiki is going to react to a common stone like this just as Tomoki did with the crimson crystal?” (Tomoe)"
         },
         {
           "id": 203,
           "paragraph_id": 155,
-          "text": "“So you think that that Hibiki is going to react to a common stone like this just as Tomoki did with the crimson crystal?” (Tomoe)"
+          "text": "No, it is not like I think cheap stones suit Tomoki."
         },
         {
           "id": 204,
           "paragraph_id": 156,
-          "text": "No, it is not like I think cheap stones suit Tomoki."
+          "text": "“Chrysoprase is apparently just a protective amulet even if normal people have it on them.” (Makoto)"
         },
         {
           "id": 205,
           "paragraph_id": 157,
-          "text": "“Chrysoprase is apparently just a protective amulet even if normal people have it on them.” (Makoto)"
+          "text": "“Fumu.” (Tomoe)"
         },
         {
           "id": 206,
           "paragraph_id": 158,
-          "text": "“Fumu.” (Tomoe)"
+          "text": "“But when rulers or brave heroes put it on, they protect their wearer with immense power; a stone that chooses their owner.” (Makoto)"
         },
         {
           "id": 207,
           "paragraph_id": 159,
-          "text": "“But when rulers or brave heroes put it on, they protect their wearer with immense power; a stone that chooses their owner.” (Makoto)"
+          "text": "“A mere pebble that doesn’t have magic power chooses their owner and lends them power?” (Tomoe)"
         },
         {
           "id": 208,
           "paragraph_id": 160,
-          "text": "“A mere pebble that doesn’t have magic power chooses their owner and lends them power?” (Tomoe)"
+          "text": "Tomoe isn’t saying it outright, but her eyes were saying ‘how impudent’."
         },
         {
           "id": 209,
           "paragraph_id": 161,
-          "text": "Tomoe isn’t saying it outright, but her eyes were saying ‘how impudent’."
+          "text": "“Or maybe it is a stone that you can’t bring out its evolution unless it is from an outstanding person."
         },
         {
           "id": 210,
-          "paragraph_id": 162,
-          "text": "“Or maybe it is a stone that you can’t bring out its evolution unless it is from an outstanding person."
+          "paragraph_id": 161,
+          "text": "By the way, even when I touched it, it didn’t even twitch at all.” (Makoto)"
         },
         {
           "id": 211,
           "paragraph_id": 162,
-          "text": "By the way, even when I touched it, it didn’t even twitch at all.” (Makoto)"
+          "text": "“I have seen it with my own eyes.” (Tomoe)"
         },
         {
           "id": 212,
           "paragraph_id": 163,
-          "text": "“I have seen it with my own eyes.” (Tomoe)"
+          "text": "“Right.” (Makoto)"
         },
         {
           "id": 213,
           "paragraph_id": 164,
-          "text": "“Right.” (Makoto)"
-        },
-        {
-          "id": 214,
-          "paragraph_id": 165,
           "text": "“Tomorrow...no, today at noon, Hibiki will be arriving at Rotsgard."
         },
         {
-          "id": 215,
-          "paragraph_id": 165,
+          "id": 214,
+          "paragraph_id": 164,
           "text": "If this really is Hibiki’s stone, I will once again be hating her in secret."
+        },
+        {
+          "id": 215,
+          "paragraph_id": 164,
+          "text": "Thinking: ‘How pretentious’.” (Tomoe)"
         },
         {
           "id": 216,
           "paragraph_id": 165,
-          "text": "Thinking: ‘How pretentious’.” (Tomoe)"
+          "text": "“That’s no secret at all.” (Makoto)"
         },
         {
           "id": 217,
           "paragraph_id": 166,
-          "text": "“That’s no secret at all.” (Makoto)"
+          "text": "“Kuku, is that so?” (Tomoe)"
         },
         {
           "id": 218,
           "paragraph_id": 167,
-          "text": "“Kuku, is that so?” (Tomoe)"
+          "text": "Hibiki-senpai, huh."
         },
         {
           "id": 219,
           "paragraph_id": 168,
-          "text": "Hibiki-senpai, huh."
+          "text": "With the words of Tsukuyomi-sama, I have looked after the two Heroes to a decent degree."
         },
         {
           "id": 220,
           "paragraph_id": 169,
-          "text": "With the words of Tsukuyomi-sama, I have looked after the two Heroes to a decent degree."
+          "text": "But..."
         },
         {
           "id": 221,
           "paragraph_id": 170,
-          "text": "But..."
+          "text": "But maybe the one he wanted me to look after was Tomoki."
         },
         {
           "id": 222,
           "paragraph_id": 171,
-          "text": "But maybe the one he wanted me to look after was Tomoki."
+          "text": "Leaving aside whether Senpai was caught in it or not, she is here on her own will."
         },
         {
           "id": 223,
           "paragraph_id": 172,
-          "text": "Leaving aside whether Senpai was caught in it or not, she is here on her own will."
+          "text": "She is certainly trying to live."
         },
         {
           "id": 224,
           "paragraph_id": 173,
-          "text": "She is certainly trying to live."
+          "text": "But Tomoki..."
         },
         {
           "id": 225,
           "paragraph_id": 174,
-          "text": "But Tomoki..."
+          "text": "It somehow feels like...it is different for him."
         },
         {
           "id": 226,
           "paragraph_id": 175,
-          "text": "It somehow feels like...it is different for him."
+          "text": "From Tomoki’s attitude, I have told him before that maybe he was bullied a long time ago."
         },
         {
           "id": 227,
           "paragraph_id": 176,
-          "text": "From Tomoki’s attitude, I have told him before that maybe he was bullied a long time ago."
+          "text": "That might have been the truth."
         },
         {
           "id": 228,
           "paragraph_id": 177,
-          "text": "That might have been the truth."
+          "text": "And then, at the worst timing possible, the Goddess spoke to him, and he ended up ‘running away’ to this world."
         },
         {
           "id": 229,
           "paragraph_id": 178,
-          "text": "And then, at the worst timing possible, the Goddess spoke to him, and he ended up ‘running away’ to this world."
+          "text": "“Waka?” (Tomoe)"
         },
         {
           "id": 230,
           "paragraph_id": 179,
-          "text": "“Waka?” (Tomoe)"
+          "text": "“Tomoki, that guy...” (Makoto)"
         },
         {
           "id": 231,
           "paragraph_id": 180,
-          "text": "“Tomoki, that guy...” (Makoto)"
+          "text": "“...Yes?” (Tomoe)"
         },
         {
           "id": 232,
           "paragraph_id": 181,
-          "text": "“...Yes?” (Tomoe)"
+          "text": "“I wonder what kind of life he is seeking that he went as far as throwing away his humanity.” (Makoto)"
         },
         {
           "id": 233,
           "paragraph_id": 182,
-          "text": "“I wonder what kind of life he is seeking that he went as far as throwing away his humanity.” (Makoto)"
+          "text": "“...!"
         },
         {
           "id": 234,
-          "paragraph_id": 183,
-          "text": "“...!"
+          "paragraph_id": 182,
+          "text": "So you noticed.” (Tomoe)"
         },
         {
           "id": 235,
           "paragraph_id": 183,
-          "text": "So you noticed.” (Tomoe)"
-        },
-        {
-          "id": 236,
-          "paragraph_id": 184,
           "text": "“I can tell."
         },
         {
-          "id": 237,
-          "paragraph_id": 184,
+          "id": 236,
+          "paragraph_id": 183,
           "text": "I simply didn’t ask before because it wasn’t that big of a thing to ask about to others."
+        },
+        {
+          "id": 237,
+          "paragraph_id": 183,
+          "text": "He had a whole lot of things mixed on him and has become a sort of chimera.” (Makoto)"
         },
         {
           "id": 238,
           "paragraph_id": 184,
-          "text": "He had a whole lot of things mixed on him and has become a sort of chimera.” (Makoto)"
+          "text": "“But despite that, there wasn’t any hesitation in him."
         },
         {
           "id": 239,
-          "paragraph_id": 185,
-          "text": "“But despite that, there wasn’t any hesitation in him."
+          "paragraph_id": 184,
+          "text": "That guy has resolved himself and is stubbornly trying to redo his life perfectly...or at least that seems to be his intention.” (Tomoe)"
         },
         {
           "id": 240,
           "paragraph_id": 185,
-          "text": "That guy has resolved himself and is stubbornly trying to redo his life perfectly...or at least that seems to be his intention.” (Tomoe)"
+          "text": "“I think the one I should be looking after isn’t Senpai but Tomoki."
         },
         {
           "id": 241,
-          "paragraph_id": 186,
-          "text": "“I think the one I should be looking after isn’t Senpai but Tomoki."
+          "paragraph_id": 185,
+          "text": "He was an acquaintance of Senpai, and my meeting with him was a bad one, so I was thinking about only helping him a bit if it is just to gather information.” (Makoto)"
         },
         {
           "id": 242,
           "paragraph_id": 186,
-          "text": "He was an acquaintance of Senpai, and my meeting with him was a bad one, so I was thinking about only helping him a bit if it is just to gather information.” (Makoto)"
+          "text": "“...”"
         },
         {
           "id": 243,
           "paragraph_id": 187,
-          "text": "“...”"
+          "text": "“It seems like he has shaved off his lifespan by quite a great deal."
         },
         {
           "id": 244,
-          "paragraph_id": 188,
-          "text": "“It seems like he has shaved off his lifespan by quite a great deal."
+          "paragraph_id": 187,
+          "text": "From how it looks, I would say he doesn’t have long.” (Makoto)"
         },
         {
           "id": 245,
           "paragraph_id": 188,
-          "text": "From how it looks, I would say he doesn’t have long.” (Makoto)"
+          "text": "“...Yeah."
         },
         {
           "id": 246,
-          "paragraph_id": 189,
-          "text": "“...Yeah."
+          "paragraph_id": 188,
+          "text": "Must be one of the reasons he is hurrying the conclusion of the war.” (Tomoe)"
         },
         {
           "id": 247,
           "paragraph_id": 189,
-          "text": "Must be one of the reasons he is hurrying the conclusion of the war.” (Tomoe)"
+          "text": "Tomoe softly wraps her body around my arm."
         },
         {
           "id": 248,
           "paragraph_id": 190,
-          "text": "Tomoe softly wraps her body around my arm."
+          "text": "Looks like you have gotten emotional enough to worry, Tomoe."
         },
         {
           "id": 249,
           "paragraph_id": 191,
-          "text": "Looks like you have gotten emotional enough to worry, Tomoe."
+          "text": "“Stupid body modifications, obtaining stupid powers; what part of that is perfect?” (Makoto)"
         },
         {
           "id": 250,
           "paragraph_id": 192,
-          "text": "“Stupid body modifications, obtaining stupid powers; what part of that is perfect?” (Makoto)"
+          "text": "In the first place, there’s no perfect in life."
         },
         {
           "id": 251,
           "paragraph_id": 193,
-          "text": "In the first place, there’s no perfect in life."
+          "text": "You could say you led a fulfilling life with few regrets on your deathbed."
         },
         {
           "id": 252,
           "paragraph_id": 194,
-          "text": "You could say you led a fulfilling life with few regrets on your deathbed."
+          "text": "But that’s all you could get."
         },
         {
           "id": 253,
           "paragraph_id": 195,
-          "text": "But that’s all you could get."
+          "text": "“Waka, there’s only one thing I want to say.” (Tomoe)"
         },
         {
           "id": 254,
           "paragraph_id": 196,
-          "text": "“Waka, there’s only one thing I want to say.” (Tomoe)"
+          "text": "“Tomoki’s desire for revenge?” (Makoto)"
         },
         {
           "id": 255,
           "paragraph_id": 197,
-          "text": "“Tomoki’s desire for revenge?” (Makoto)"
-        },
-        {
-          "id": 256,
-          "paragraph_id": 198,
           "text": "“...!"
         },
         {
-          "id": 257,
-          "paragraph_id": 198,
+          "id": 256,
+          "paragraph_id": 197,
           "text": "Yes."
+        },
+        {
+          "id": 257,
+          "paragraph_id": 197,
+          "text": "He looked like he was totally burning with the desire to get back at you.” (Tomoe)"
         },
         {
           "id": 258,
           "paragraph_id": 198,
-          "text": "He looked like he was totally burning with the desire to get back at you.” (Tomoe)"
+          "text": "“Couldn’t read him in detail?” (Makoto)"
         },
         {
           "id": 259,
           "paragraph_id": 199,
-          "text": "“Couldn’t read him in detail?” (Makoto)"
+          "text": "“It seems like he has taken countermeasures for that."
         },
         {
           "id": 260,
-          "paragraph_id": 200,
-          "text": "“It seems like he has taken countermeasures for that."
+          "paragraph_id": 199,
+          "text": "I am sorry.” (Tomoe)"
         },
         {
           "id": 261,
           "paragraph_id": 200,
-          "text": "I am sorry.” (Tomoe)"
-        },
-        {
-          "id": 262,
-          "paragraph_id": 201,
           "text": "“Don’t worry about it."
         },
         {
-          "id": 263,
-          "paragraph_id": 201,
+          "id": 262,
+          "paragraph_id": 200,
           "text": "I could somewhat tell...that we were both talking with masks on."
         },
         {
-          "id": 264,
-          "paragraph_id": 201,
+          "id": 263,
+          "paragraph_id": 200,
           "text": "The type where, when you are an adult, you hide the things that would be bad to show in the moment."
+        },
+        {
+          "id": 264,
+          "paragraph_id": 200,
+          "text": "If I could utilize that properly, I would be a skilled merchant.” (Makoto)"
         },
         {
           "id": 265,
           "paragraph_id": 201,
-          "text": "If I could utilize that properly, I would be a skilled merchant.” (Makoto)"
+          "text": "Like Rembrandt-san."
         },
         {
           "id": 266,
           "paragraph_id": 202,
-          "text": "Like Rembrandt-san."
+          "text": "If it were him, he would be able to skillfully hold the reins of the vengeful spirit and hatred of people like Tomoki and bring them to their demise."
         },
         {
           "id": 267,
           "paragraph_id": 203,
-          "text": "If it were him, he would be able to skillfully hold the reins of the vengeful spirit and hatred of people like Tomoki and bring them to their demise."
+          "text": "Regarding the demise part, I can only see it as Tomoki already sprinting his way to that path, so I feel like he would self-destruct by himself anyways."
         },
         {
           "id": 268,
           "paragraph_id": 204,
-          "text": "Regarding the demise part, I can only see it as Tomoki already sprinting his way to that path, so I feel like he would self-destruct by himself anyways."
+          "text": "“Even if, at some point in time, we get involved in the war happening right now, I would like you to rely on us just like you do with your business.” (Tomoe)"
         },
         {
           "id": 269,
           "paragraph_id": 205,
-          "text": "“Even if, at some point in time, we get involved in the war happening right now, I would like you to rely on us just like you do with your business.” (Tomoe)"
+          "text": "“?"
         },
         {
           "id": 270,
-          "paragraph_id": 206,
-          "text": "“?"
+          "paragraph_id": 205,
+          "text": "I am relying on you guys to the point where I feel bad about it though?” (Makoto)"
         },
         {
           "id": 271,
           "paragraph_id": 206,
-          "text": "I am relying on you guys to the point where I feel bad about it though?” (Makoto)"
+          "text": "“No no, the more dangerous something is, the higher the chances of our Waka running wild after all."
         },
         {
           "id": 272,
-          "paragraph_id": 207,
-          "text": "“No no, the more dangerous something is, the higher the chances of our Waka running wild after all."
+          "paragraph_id": 206,
+          "text": "Have to voice it out properly.” (Tomoe)"
         },
         {
           "id": 273,
           "paragraph_id": 207,
-          "text": "Have to voice it out properly.” (Tomoe)"
+          "text": "The expression of Tomoe when saying this was not joking at all; it was painted in the color of seriousness."
         },
         {
           "id": 274,
           "paragraph_id": 208,
-          "text": "The expression of Tomoe when saying this was not joking at all; it was painted in the color of seriousness."
-        },
-        {
-          "id": 275,
-          "paragraph_id": 209,
           "text": "I felt sad that I am being thought of as someone hopeless that runs into bad routes just like Tomoki."
         }
       ],
-      "word_count": 3406
+      "word_count": 3383
     },
     {
       "chapter_index": 497,
@@ -50755,7 +50635,6 @@
         "“...Eh?” (Makoto)",
         "“A miracle stone that has no magic power. That Goddess began throwing a tantrum like that of a grade schooler saying ‘we don’t have this’, ‘we don’t have that’. Give me a break. She made us rush into the very depths of enemy territory, and now she suddenly tells me to search for a power stone. What kind of joke is this?” (Hibiki)",
         "“Hahaha. No, that’s not it, Senpai. You have come from that battlefield, so this isn’t the time to be looking after students, you know? It would be better to return as soon as possible...” (Makoto)",
-        "So Senpai also imagined a power stone from the details of what she was told, huh.",
         "That I managed to reach the same conclusion as Hibiki-senpai, even if it is something simple like this, it makes me a bit happy.",
         "Also, why is it that so many people take my jokes seriously?",
         "“The current state of the war is because of the big charge of the Empire; I am just decoration.” (Hibiki)",
@@ -51760,350 +51639,345 @@
         {
           "id": 188,
           "paragraph_id": 138,
-          "text": "So Senpai also imagined a power stone from the details of what she was told, huh."
+          "text": "That I managed to reach the same conclusion as Hibiki-senpai, even if it is something simple like this, it makes me a bit happy."
         },
         {
           "id": 189,
           "paragraph_id": 139,
-          "text": "That I managed to reach the same conclusion as Hibiki-senpai, even if it is something simple like this, it makes me a bit happy."
+          "text": "Also, why is it that so many people take my jokes seriously?"
         },
         {
           "id": 190,
           "paragraph_id": 140,
-          "text": "Also, why is it that so many people take my jokes seriously?"
+          "text": "“The current state of the war is because of the big charge of the Empire; I am just decoration.” (Hibiki)"
         },
         {
           "id": 191,
           "paragraph_id": 141,
-          "text": "“The current state of the war is because of the big charge of the Empire; I am just decoration.” (Hibiki)"
+          "text": "“No way that’s the case.” (Makoto)"
         },
         {
           "id": 192,
           "paragraph_id": 142,
-          "text": "“No way that’s the case.” (Makoto)"
-        },
-        {
-          "id": 193,
-          "paragraph_id": 143,
           "text": "“Fufu, right."
         },
         {
-          "id": 194,
-          "paragraph_id": 143,
+          "id": 193,
+          "paragraph_id": 142,
           "text": "Tomoki has returned, so this time it is my turn."
+        },
+        {
+          "id": 194,
+          "paragraph_id": 142,
+          "text": "This time around, we have talked it out.” (Hibiki)"
         },
         {
           "id": 195,
           "paragraph_id": 143,
-          "text": "This time around, we have talked it out.” (Hibiki)"
+          "text": "“Between Senpai and Tomoki?” (Makoto)"
         },
         {
           "id": 196,
           "paragraph_id": 144,
-          "text": "“Between Senpai and Tomoki?” (Makoto)"
+          "text": "“Between the Empire and the Kingdom.” (Hibiki)"
         },
         {
           "id": 197,
           "paragraph_id": 145,
-          "text": "“Between the Empire and the Kingdom.” (Hibiki)"
+          "text": "“...”"
         },
         {
           "id": 198,
           "paragraph_id": 146,
-          "text": "“...”"
-        },
-        {
-          "id": 199,
-          "paragraph_id": 147,
           "text": "“The Empire is serious."
         },
         {
-          "id": 200,
-          "paragraph_id": 147,
+          "id": 199,
+          "paragraph_id": 146,
           "text": "We plan on putting an end to the battle against the demons."
         },
         {
-          "id": 201,
-          "paragraph_id": 147,
+          "id": 200,
+          "paragraph_id": 146,
           "text": "I have felt it with my skin."
+        },
+        {
+          "id": 201,
+          "paragraph_id": 146,
+          "text": "Limia was one step late, but we are seriously sending supplies and reinforcements.” (Hibiki)"
         },
         {
           "id": 202,
           "paragraph_id": 147,
-          "text": "Limia was one step late, but we are seriously sending supplies and reinforcements.” (Hibiki)"
+          "text": "“So you are going to be settling this, huh.” (Makoto)"
         },
         {
           "id": 203,
           "paragraph_id": 148,
-          "text": "“So you are going to be settling this, huh.” (Makoto)"
+          "text": "“We will technically be using the momentum of the Empire to its full extent, but...we will settle this.” (Hibiki)"
         },
         {
           "id": 204,
           "paragraph_id": 149,
-          "text": "“We will technically be using the momentum of the Empire to its full extent, but...we will settle this.” (Hibiki)"
+          "text": "Looks like I will have to hurry if I am going to go ahead with the plan of accepting demon refugees."
         },
         {
           "id": 205,
           "paragraph_id": 150,
-          "text": "Looks like I will have to hurry if I am going to go ahead with the plan of accepting demon refugees."
+          "text": "I plan to have Kaleneon be the core of this plan, but I should shape up the details with Sari on the Asora side."
         },
         {
           "id": 206,
           "paragraph_id": 151,
-          "text": "I plan to have Kaleneon be the core of this plan, but I should shape up the details with Sari on the Asora side."
+          "text": "I exchanged glances with Shiki, and he nodded silently."
         },
         {
           "id": 207,
           "paragraph_id": 152,
-          "text": "I exchanged glances with Shiki, and he nodded silently."
+          "text": "So the preparations are done."
         },
         {
           "id": 208,
           "paragraph_id": 153,
-          "text": "So the preparations are done."
+          "text": "How reliable."
         },
         {
           "id": 209,
           "paragraph_id": 154,
-          "text": "How reliable."
+          "text": "“Hm, I apologize for having come a bit earlier than planned."
         },
         {
           "id": 210,
-          "paragraph_id": 155,
-          "text": "“Hm, I apologize for having come a bit earlier than planned."
+          "paragraph_id": 154,
+          "text": "This is the first time I have traveled this much of a distance, so my plans were slightly off the mark.” (Hibiki)"
         },
         {
           "id": 211,
           "paragraph_id": 155,
-          "text": "This is the first time I have traveled this much of a distance, so my plans were slightly off the mark.” (Hibiki)"
+          "text": "“No no, don’t worry about it.” (Makoto)"
         },
         {
           "id": 212,
           "paragraph_id": 156,
-          "text": "“No no, don’t worry about it.” (Makoto)"
+          "text": "“I am already here anyway, so I will go with you to the company, okay?” (Hibiki)"
         },
         {
           "id": 213,
           "paragraph_id": 157,
-          "text": "“I am already here anyway, so I will go with you to the company, okay?” (Hibiki)"
+          "text": "“Eh?” (Makoto)"
         },
         {
           "id": 214,
           "paragraph_id": 158,
-          "text": "“Eh?” (Makoto)"
+          "text": "Senpai said something outrageous as if nothing."
         },
         {
           "id": 215,
           "paragraph_id": 159,
-          "text": "Senpai said something outrageous as if nothing."
+          "text": "The voices of the students grow noisier."
         },
         {
           "id": 216,
           "paragraph_id": 160,
-          "text": "The voices of the students grow noisier."
+          "text": "This gallery of students that just came out as if they own the place."
         },
         {
           "id": 217,
           "paragraph_id": 161,
-          "text": "This gallery of students that just came out as if they own the place."
+          "text": "I picked up a number of words I didn’t want to hear through Sakai."
         },
         {
           "id": 218,
           "paragraph_id": 162,
-          "text": "I picked up a number of words I didn’t want to hear through Sakai."
+          "text": "“Raidou-sensei really is friends with the Hero-samas.”"
         },
         {
           "id": 219,
           "paragraph_id": 163,
-          "text": "“Raidou-sensei really is friends with the Hero-samas.”"
+          "text": "“The Empire’s Hero-sama and now even the Kingdom’s Hero-sama; moreover, they act so close.”"
         },
         {
           "id": 220,
           "paragraph_id": 164,
-          "text": "“The Empire’s Hero-sama and now even the Kingdom’s Hero-sama; moreover, they act so close.”"
+          "text": "“Hmm, isn’t he being relied on?”"
         },
         {
           "id": 221,
           "paragraph_id": 165,
-          "text": "“Hmm, isn’t he being relied on?”"
+          "text": "“That black hair is so beautiful...”"
         },
         {
           "id": 222,
           "paragraph_id": 166,
-          "text": "“That black hair is so beautiful...”"
+          "text": "“Could it be that Raidou-sensei is also a hero?!”"
         },
         {
           "id": 223,
           "paragraph_id": 167,
-          "text": "“Could it be that Raidou-sensei is also a hero?!”"
+          "text": "“No way that’s the case!"
         },
         {
           "id": 224,
-          "paragraph_id": 168,
-          "text": "“No way that’s the case!"
+          "paragraph_id": 167,
+          "text": "But...”"
         },
         {
           "id": 225,
           "paragraph_id": 168,
-          "text": "But...”"
+          "text": "“Yeah, he may be a legendary warrior that can stand side by side with them.”"
         },
         {
           "id": 226,
           "paragraph_id": 169,
-          "text": "“Yeah, he may be a legendary warrior that can stand side by side with them.”"
+          "text": "“I did hear that the battle against the demons is heating up.”"
         },
         {
           "id": 227,
           "paragraph_id": 170,
-          "text": "“I did hear that the battle against the demons is heating up.”"
+          "text": "“No matter what the future may bring, the heroes will always leave new seeds of hope.”"
         },
         {
           "id": 228,
           "paragraph_id": 171,
-          "text": "“No matter what the future may bring, the heroes will always leave new seeds of hope.”"
+          "text": "““?!””"
         },
         {
           "id": 229,
           "paragraph_id": 172,
-          "text": "““?!””"
+          "text": "“That’s right, I have heard that they would make a vow with their irreplaceable friend to please raise the eggs of future heroes.”"
         },
         {
           "id": 230,
           "paragraph_id": 173,
-          "text": "“That’s right, I have heard that they would make a vow with their irreplaceable friend to please raise the eggs of future heroes.”"
+          "text": "““?!?!””"
         },
         {
           "id": 231,
           "paragraph_id": 174,
-          "text": "““?!?!””"
+          "text": "“I didn’t know that Raidou-sensei was that, but...there’s no doubt.”"
         },
         {
           "id": 232,
           "paragraph_id": 175,
-          "text": "“I didn’t know that Raidou-sensei was that, but...there’s no doubt.”"
+          "text": "“T-Then...”"
         },
         {
           "id": 233,
           "paragraph_id": 176,
-          "text": "“T-Then...”"
+          "text": "“Yeah, Raidou-sensei is the one who raises the future heroes...being a legendary warrior himself yet a teacher.”"
         },
         {
           "id": 234,
           "paragraph_id": 177,
-          "text": "“Yeah, Raidou-sensei is the one who raises the future heroes...being a legendary warrior himself yet a teacher.”"
+          "text": "“Hero...Teacher!!”"
         },
         {
           "id": 235,
           "paragraph_id": 178,
-          "text": "“Hero...Teacher!!”"
+          "text": "...I want to puke."
         },
         {
           "id": 236,
           "paragraph_id": 179,
-          "text": "...I want to puke."
+          "text": "Why is it that sh*tty rumors that go from 0 to 100 are the ones that spread like a disease."
         },
         {
           "id": 237,
           "paragraph_id": 180,
-          "text": "Why is it that sh*tty rumors that go from 0 to 100 are the ones that spread like a disease."
+          "text": "Since the time with Tomoki, there has been the budding theory that Raidou = Hero Teacher."
         },
         {
           "id": 238,
           "paragraph_id": 181,
-          "text": "Since the time with Tomoki, there has been the budding theory that Raidou = Hero Teacher."
+          "text": "In the first place, a Hero Teacher is something I haven’t seen or heard in this world’s history."
         },
         {
           "id": 239,
           "paragraph_id": 182,
-          "text": "In the first place, a Hero Teacher is something I haven’t seen or heard in this world’s history."
+          "text": "We are heading to dark times just like in the confession rush days."
         },
         {
           "id": 240,
           "paragraph_id": 183,
-          "text": "We are heading to dark times just like in the confession rush days."
+          "text": "T-This is so unreasonable!"
         },
         {
           "id": 241,
           "paragraph_id": 184,
-          "text": "T-This is so unreasonable!"
+          "text": "“Since when did you class change into the Hero Teacher Raidou, Makoto-kun?” (Hibiki)"
         },
         {
           "id": 242,
           "paragraph_id": 185,
-          "text": "“Since when did you class change into the Hero Teacher Raidou, Makoto-kun?” (Hibiki)"
+          "text": "Senpai whispers to my ear."
         },
         {
           "id": 243,
           "paragraph_id": 186,
-          "text": "Senpai whispers to my ear."
+          "text": "“You are doing this while fully aware, aren’t you, Hero-dono?” (Shiki)"
         },
         {
           "id": 244,
           "paragraph_id": 187,
-          "text": "“You are doing this while fully aware, aren’t you, Hero-dono?” (Shiki)"
+          "text": "The way too familiar conduct of Hibiki-senpai which would invite even more misunderstanding."
         },
         {
           "id": 245,
           "paragraph_id": 188,
-          "text": "The way too familiar conduct of Hibiki-senpai which would invite even more misunderstanding."
+          "text": "Shiki retorts, but doesn’t seem to have any intention of fixing things."
         },
         {
           "id": 246,
           "paragraph_id": 189,
-          "text": "Shiki retorts, but doesn’t seem to have any intention of fixing things."
+          "text": "Oof."
         },
         {
           "id": 247,
           "paragraph_id": 190,
-          "text": "Oof."
+          "text": "“And then, Raidou-dono who had to part ways from the Hero-dono of the Kingdom to walk the path of a teacher...has finally reunited with her again!”"
         },
         {
           "id": 248,
           "paragraph_id": 191,
-          "text": "“And then, Raidou-dono who had to part ways from the Hero-dono of the Kingdom to walk the path of a teacher...has finally reunited with her again!”"
-        },
-        {
-          "id": 249,
-          "paragraph_id": 192,
           "text": "“Eh?!"
         },
         {
-          "id": 250,
-          "paragraph_id": 192,
+          "id": 249,
+          "paragraph_id": 191,
           "text": "I heard rumors that the Kingdom’s Hero-sama was engaged with the Empire’s Hero-sama though."
+        },
+        {
+          "id": 250,
+          "paragraph_id": 191,
+          "text": "Could it be...?!”"
         },
         {
           "id": 251,
           "paragraph_id": 192,
-          "text": "Could it be...?!”"
+          "text": "“Does that mean...?!”"
         },
         {
           "id": 252,
           "paragraph_id": 193,
-          "text": "“Does that mean...?!”"
+          "text": "Aah, geez."
         },
         {
           "id": 253,
           "paragraph_id": 194,
-          "text": "Aah, geez."
+          "text": "Heroes are always the center of conversations."
         },
         {
           "id": 254,
           "paragraph_id": 195,
-          "text": "Heroes are always the center of conversations."
+          "text": "Being dragged into all of this by the people themselves is quite the pain, oi."
         },
         {
           "id": 255,
           "paragraph_id": 196,
-          "text": "Being dragged into all of this by the people themselves is quite the pain, oi."
-        },
-        {
-          "id": 256,
-          "paragraph_id": 197,
           "text": "Thinking about how I am going to be called something I don’t want to again, I get dejected."
         }
       ],
-      "word_count": 2870
+      "word_count": 2854
     },
     {
       "chapter_index": 498,

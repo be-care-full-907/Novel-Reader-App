@@ -41552,7 +41552,6 @@
         "It sounded like the voice of a man whose understanding of physics had just been shattered!",
         "He looked up from the ledger. His blue eyes were wide in shock as he stared directly at the Royal Elf.",
         "\"Brida is a forty-two?\" Silas asked.",
-        "[Author’s Note]",
         "[Thanks for hitting the goal]"
       ],
       "sentences": [
@@ -42384,15 +42383,10 @@
         {
           "id": 165,
           "paragraph_id": 115,
-          "text": "[Author’s Note]"
-        },
-        {
-          "id": 166,
-          "paragraph_id": 116,
           "text": "[Thanks for hitting the goal]"
         }
       ],
-      "word_count": 2151
+      "word_count": 2149
     },
     {
       "chapter_index": 45,

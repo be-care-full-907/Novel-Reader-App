@@ -26818,7 +26818,6 @@
         "Yukina!",
         "Yes, Yukian was currently with Mu Ai.",
         "Like usual, Yukina was wearing a beautiful blue kimono and geta.",
-        "[A/N: geta is a wooden sandal. Japanese traditional sandals.]",
         "She did not bring her sword this time; instead, she brought a folding fan.",
         "\"Hi, handsome. We meet again.\" Yukina said as she smiled at him.",
         "Unlike Yukina, Xiao Tian did not have a friendly expression. \"What do you want? Do you want to kidnap her?\"",
@@ -27329,105 +27328,95 @@
         {
           "id": 99,
           "paragraph_id": 85,
-          "text": "[A/N: geta is a wooden sandal."
+          "text": "She did not bring her sword this time; instead, she brought a folding fan."
         },
         {
           "id": 100,
-          "paragraph_id": 85,
-          "text": "Japanese traditional sandals.]"
+          "paragraph_id": 86,
+          "text": "\"Hi, handsome."
         },
         {
           "id": 101,
           "paragraph_id": 86,
-          "text": "She did not bring her sword this time; instead, she brought a folding fan."
+          "text": "We meet again.\" Yukina said as she smiled at him."
         },
         {
           "id": 102,
           "paragraph_id": 87,
-          "text": "\"Hi, handsome."
+          "text": "Unlike Yukina, Xiao Tian did not have a friendly expression."
         },
         {
           "id": 103,
           "paragraph_id": 87,
-          "text": "We meet again.\" Yukina said as she smiled at him."
+          "text": "\"What do you want?"
         },
         {
           "id": 104,
-          "paragraph_id": 88,
-          "text": "Unlike Yukina, Xiao Tian did not have a friendly expression."
+          "paragraph_id": 87,
+          "text": "Do you want to kidnap her?\""
         },
         {
           "id": 105,
           "paragraph_id": 88,
-          "text": "\"What do you want?"
+          "text": "\"Handsome, accusing someone is bad manners."
         },
         {
           "id": 106,
           "paragraph_id": 88,
-          "text": "Do you want to kidnap her?\""
+          "text": "I only want to play with her."
         },
         {
           "id": 107,
-          "paragraph_id": 89,
-          "text": "\"Handsome, accusing someone is bad manners."
+          "paragraph_id": 88,
+          "text": "I have no ill will toward her.\" Yukina was telling the truth."
         },
         {
           "id": 108,
           "paragraph_id": 89,
-          "text": "I only want to play with her."
-        },
-        {
-          "id": 109,
-          "paragraph_id": 89,
-          "text": "I have no ill will toward her.\" Yukina was telling the truth."
-        },
-        {
-          "id": 110,
-          "paragraph_id": 90,
           "text": "She was someone who loved beautiful things."
         },
         {
-          "id": 111,
-          "paragraph_id": 91,
+          "id": 109,
+          "paragraph_id": 90,
           "text": "And in her eyes, Mu Ai was so adorable, a beautiful kid."
+        },
+        {
+          "id": 110,
+          "paragraph_id": 91,
+          "text": "This was the reason why she gave Mu Ai an ice cream because she wanted to make Mu Ai happy."
+        },
+        {
+          "id": 111,
+          "paragraph_id": 92,
+          "text": "Xiao Tian shifted his gaze from Yukina to Mu Ai."
         },
         {
           "id": 112,
           "paragraph_id": 92,
-          "text": "This was the reason why she gave Mu Ai an ice cream because she wanted to make Mu Ai happy."
+          "text": "\"Little Ai, come here.\""
         },
         {
           "id": 113,
           "paragraph_id": 93,
-          "text": "Xiao Tian shifted his gaze from Yukina to Mu Ai."
+          "text": "\"But I still want to play with this aunty.\" Mu Ai uttered."
         },
         {
           "id": 114,
-          "paragraph_id": 93,
-          "text": "\"Little Ai, come here.\""
+          "paragraph_id": 94,
+          "text": "\"Handsome, I really have no bad intentions."
         },
         {
           "id": 115,
           "paragraph_id": 94,
-          "text": "\"But I still want to play with this aunty.\" Mu Ai uttered."
-        },
-        {
-          "id": 116,
-          "paragraph_id": 95,
-          "text": "\"Handsome, I really have no bad intentions."
-        },
-        {
-          "id": 117,
-          "paragraph_id": 95,
           "text": "How about you sit with us?"
         },
         {
-          "id": 118,
-          "paragraph_id": 95,
+          "id": 116,
+          "paragraph_id": 94,
           "text": "With this, we can deepen our relationship later.\" Yukina said."
         }
       ],
-      "word_count": 1242
+      "word_count": 1233
     },
     {
       "chapter_index": 1747,

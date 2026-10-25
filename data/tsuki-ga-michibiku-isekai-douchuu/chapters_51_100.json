@@ -20705,7 +20705,6 @@
         "Hibiki’s reputation, instead of falling, actually rose. Normally when you meet that black spider it’s the end for you. It’s a high level threat that even the adventurer guild gathers high ranked adventurers that are affiliated with the country to make a magic division and bombard it with long ranged attacks to make it retreat.",
         "This talk surprised the kingdom and it pushed the name of hero Otonashi Hibiki higher.",
         "All of this happened a day before Makoto liberated the black spider from its hunger.",
-        "Author note:",
         "There is a certain difference in time between when the heroes got summoned.",
         "More concretely speaking, the order is: male hero, female hero and then Makoto. Think of each one having a difference of 1 month.",
         "Hibiki’s party leg count: 2",
@@ -21815,35 +21814,30 @@
         {
           "id": 220,
           "paragraph_id": 112,
-          "text": "Author note:"
+          "text": "There is a certain difference in time between when the heroes got summoned."
         },
         {
           "id": 221,
           "paragraph_id": 113,
-          "text": "There is a certain difference in time between when the heroes got summoned."
+          "text": "More concretely speaking, the order is: male hero, female hero and then Makoto."
         },
         {
           "id": 222,
-          "paragraph_id": 114,
-          "text": "More concretely speaking, the order is: male hero, female hero and then Makoto."
+          "paragraph_id": 113,
+          "text": "Think of each one having a difference of 1 month."
         },
         {
           "id": 223,
           "paragraph_id": 114,
-          "text": "Think of each one having a difference of 1 month."
+          "text": "Hibiki’s party leg count: 2"
         },
         {
           "id": 224,
           "paragraph_id": 115,
-          "text": "Hibiki’s party leg count: 2"
-        },
-        {
-          "id": 225,
-          "paragraph_id": 116,
           "text": "Makoto’s leg count: Enough to rebuild Tokyo Tower."
         }
       ],
-      "word_count": 3031
+      "word_count": 3029
     },
     {
       "chapter_index": 65,

@@ -11883,7 +11883,6 @@
         "The Etheryn's eyes glowed.",
         "\"We cannot let him escape.\"",
         "*Etheryn*",
-        "A/N: This is the picture of the entire race, the one in the blue who is also the closest is",
         "'the ugly one' who hurt Vyriana."
       ],
       "sentences": [
@@ -12395,15 +12394,10 @@
         {
           "id": 101,
           "paragraph_id": 72,
-          "text": "A/N: This is the picture of the entire race, the one in the blue who is also the closest is"
-        },
-        {
-          "id": 102,
-          "paragraph_id": 73,
           "text": "'the ugly one' who hurt Vyriana."
         }
       ],
-      "word_count": 1028
+      "word_count": 1008
     },
     {
       "chapter_index": 1769,

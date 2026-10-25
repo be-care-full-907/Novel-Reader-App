@@ -10776,7 +10776,6 @@
         "The members of the Spirit and Magic Divisions, who excelled in healing magic, went to attend the injured people. Those who specialized in Earth Magic hurriedly repaired and reinforced the town walls.",
         "The captain of the guards that were guarding Dawsbury, was currently talking to Grent, Layla, and a woman with reddish brown hair, who seemed to be the Head Instructor of the First Year Spirit Division.",
         "According to the captain, they barely managed to repel the first wave of the Dungeon Outbreak. Only Class E and Class D monsters had emerged from the dungeon, but their numbers were staggering.",
-        "(A/N: A quick recap on the classes of the High-Tier Beasts. Centennial Beasts (Class S), Millennial Beasts (Class SS), Myriad Beasts (Class SSR), and the final class is Calamity Class Beasts. Calamities are just a step away or already in the stage of a Demigod.)",
         "Grent, Layla, and the woman with reddish brown hair, Miranda, nodded their heads in understanding. This was a common phase during a Dungeon Outbreak and veterans already knew what to expect.",
         "Usually, during an outbreak, the people in the towns would immediately be evacuated while the Kingdom’s army would be dispatched to subjugate the dungeon and destroy its core. However, the Hellan Kingdom was still recovering from the Beast Tide that happened four years ago.",
         "Many strong fighters had died to protect the kingdom and four years was not enough to fill their ranks again. Although many new recruits had joined the kingdom’s army after the Beast Tide, they were still lacking in battle experience.",
@@ -10863,490 +10862,475 @@
         {
           "id": 7,
           "paragraph_id": 4,
-          "text": "(A/N: A quick recap on the classes of the High-Tier Beasts."
+          "text": "Grent, Layla, and the woman with reddish brown hair, Miranda, nodded their heads in understanding."
         },
         {
           "id": 8,
           "paragraph_id": 4,
-          "text": "Centennial Beasts (Class S), Millennial Beasts (Class SS), Myriad Beasts (Class SSR), and the final class is Calamity Class Beasts."
+          "text": "This was a common phase during a Dungeon Outbreak and veterans already knew what to expect."
         },
         {
           "id": 9,
-          "paragraph_id": 4,
-          "text": "Calamities are just a step away or already in the stage of a Demigod.)"
+          "paragraph_id": 5,
+          "text": "Usually, during an outbreak, the people in the towns would immediately be evacuated while the Kingdom’s army would be dispatched to subjugate the dungeon and destroy its core."
         },
         {
           "id": 10,
           "paragraph_id": 5,
-          "text": "Grent, Layla, and the woman with reddish brown hair, Miranda, nodded their heads in understanding."
+          "text": "However, the Hellan Kingdom was still recovering from the Beast Tide that happened four years ago."
         },
         {
           "id": 11,
-          "paragraph_id": 5,
-          "text": "This was a common phase during a Dungeon Outbreak and veterans already knew what to expect."
+          "paragraph_id": 6,
+          "text": "Many strong fighters had died to protect the kingdom and four years was not enough to fill their ranks again."
         },
         {
           "id": 12,
           "paragraph_id": 6,
-          "text": "Usually, during an outbreak, the people in the towns would immediately be evacuated while the Kingdom’s army would be dispatched to subjugate the dungeon and destroy its core."
-        },
-        {
-          "id": 13,
-          "paragraph_id": 6,
-          "text": "However, the Hellan Kingdom was still recovering from the Beast Tide that happened four years ago."
-        },
-        {
-          "id": 14,
-          "paragraph_id": 7,
-          "text": "Many strong fighters had died to protect the kingdom and four years was not enough to fill their ranks again."
-        },
-        {
-          "id": 15,
-          "paragraph_id": 7,
           "text": "Although many new recruits had joined the kingdom’s army after the Beast Tide, they were still lacking in battle experience."
         },
         {
-          "id": 16,
-          "paragraph_id": 8,
+          "id": 13,
+          "paragraph_id": 7,
           "text": "These new recruits were the same people that were dispatched to protect the town of Dawsbury from the Dungeon Outbreak."
+        },
+        {
+          "id": 14,
+          "paragraph_id": 8,
+          "text": "“I estimate that the next wave will happen in four hours, perhaps even sooner,” the captain reported."
+        },
+        {
+          "id": 15,
+          "paragraph_id": 8,
+          "text": "“How do we proceed from here?”"
+        },
+        {
+          "id": 16,
+          "paragraph_id": 9,
+          "text": "The captain had already been briefed that reinforcements from the Royal Academy would be sent to assist them."
         },
         {
           "id": 17,
           "paragraph_id": 9,
-          "text": "“I estimate that the next wave will happen in four hours, perhaps even sooner,” the captain reported."
+          "text": "However, he was disappointed when he saw that the ones who came to support them were only First Year Students and their instructors."
         },
         {
           "id": 18,
-          "paragraph_id": 9,
-          "text": "“How do we proceed from here?”"
+          "paragraph_id": 10,
+          "text": "The three heads of the different divisions could easily read the captain’s thoughts through his body language."
         },
         {
           "id": 19,
           "paragraph_id": 10,
-          "text": "The captain had already been briefed that reinforcements from the Royal Academy would be sent to assist them."
+          "text": "But, they pretended not to notice."
         },
         {
           "id": 20,
           "paragraph_id": 10,
-          "text": "However, he was disappointed when he saw that the ones who came to support them were only First Year Students and their instructors."
+          "text": "This was not the time for internal conflict and the most important matter was to decide on their next course of action."
         },
         {
           "id": 21,
           "paragraph_id": 11,
-          "text": "The three heads of the different divisions could easily read the captain’s thoughts through his body language."
+          "text": "“We will resist the second wave while using the town’s defenses,” Grent stated."
         },
         {
           "id": 22,
           "paragraph_id": 11,
-          "text": "But, they pretended not to notice."
+          "text": "“After that, the instructors will head inside the dungeon in order to destroy the Dungeon Core."
         },
         {
           "id": 23,
           "paragraph_id": 11,
-          "text": "This was not the time for internal conflict and the most important matter was to decide on their next course of action."
+          "text": "How many floors does this dungeon have?”"
         },
         {
           "id": 24,
           "paragraph_id": 12,
-          "text": "“We will resist the second wave while using the town’s defenses,” Grent stated."
+          "text": "“Twenty Floors,” the Guard Captain replied."
         },
         {
           "id": 25,
           "paragraph_id": 12,
-          "text": "“After that, the instructors will head inside the dungeon in order to destroy the Dungeon Core."
+          "text": "“Most of the monsters inside it are a combination of dog and flying type monsters."
         },
         {
           "id": 26,
           "paragraph_id": 12,
-          "text": "How many floors does this dungeon have?”"
+          "text": "However, there is one big problem."
         },
         {
           "id": 27,
-          "paragraph_id": 13,
-          "text": "“Twenty Floors,” the Guard Captain replied."
+          "paragraph_id": 12,
+          "text": "The monsters we fought earlier have a bit of miasma inside them."
         },
         {
           "id": 28,
-          "paragraph_id": 13,
-          "text": "“Most of the monsters inside it are a combination of dog and flying type monsters."
+          "paragraph_id": 12,
+          "text": "I’m afraid that, in the next wave, the miasma inside their bodies will be more potent than the last wave."
         },
         {
           "id": 29,
           "paragraph_id": 13,
-          "text": "However, there is one big problem."
+          "text": "The expressions of the three instructors immediately became serious."
         },
         {
           "id": 30,
           "paragraph_id": 13,
-          "text": "The monsters we fought earlier have a bit of miasma inside them."
+          "text": "Miasma was a poisonous mist that was usually found in the forbidden areas of the continent."
         },
         {
           "id": 31,
           "paragraph_id": 13,
-          "text": "I’m afraid that, in the next wave, the miasma inside their bodies will be more potent than the last wave."
+          "text": "According to the scholars, long exposure to miasma would create negative side effects in the body."
         },
         {
           "id": 32,
           "paragraph_id": 14,
-          "text": "The expressions of the three instructors immediately became serious."
+          "text": "Depending on its level of toxicity, miasma was known to corrupt the minds of people and bring out their powerful negative emotions."
         },
         {
           "id": 33,
           "paragraph_id": 14,
-          "text": "Miasma was a poisonous mist that was usually found in the forbidden areas of the continent."
+          "text": "Once these emotions took hold of their body, they would enter a state similar to the berserked state where they wouldn’t be able to differentiate between friend and foe."
         },
         {
           "id": 34,
-          "paragraph_id": 14,
-          "text": "According to the scholars, long exposure to miasma would create negative side effects in the body."
+          "paragraph_id": 15,
+          "text": "In this state, they would be more like feral beasts whose only purpose was to destroy until they breathed their last breath."
         },
         {
           "id": 35,
           "paragraph_id": 15,
-          "text": "Depending on its level of toxicity, miasma was known to corrupt the minds of people and bring out their powerful negative emotions."
-        },
-        {
-          "id": 36,
-          "paragraph_id": 15,
-          "text": "Once these emotions took hold of their body, they would enter a state similar to the berserked state where they wouldn’t be able to differentiate between friend and foe."
-        },
-        {
-          "id": 37,
-          "paragraph_id": 16,
-          "text": "In this state, they would be more like feral beasts whose only purpose was to destroy until they breathed their last breath."
-        },
-        {
-          "id": 38,
-          "paragraph_id": 16,
           "text": "Corruption from miasma could be treated in the early stages, however, if treatment was not administered in time, the will of the infected person or beast would corrode."
         },
         {
-          "id": 39,
-          "paragraph_id": 17,
+          "id": 36,
+          "paragraph_id": 16,
           "text": "This would continue until they lost their former selves and became mindless beasts."
+        },
+        {
+          "id": 37,
+          "paragraph_id": 17,
+          "text": "“This is bad, the children may not be able to handle miasma poisoning,” Layla frowned."
+        },
+        {
+          "id": 38,
+          "paragraph_id": 17,
+          "text": "“What should we do?”"
+        },
+        {
+          "id": 39,
+          "paragraph_id": 18,
+          "text": "“Spirit users are more resistant to miasma."
         },
         {
           "id": 40,
           "paragraph_id": 18,
-          "text": "“This is bad, the children may not be able to handle miasma poisoning,” Layla frowned."
+          "text": "However, long exposure to it will still corrode our minds,” Miranda commented."
         },
         {
           "id": 41,
           "paragraph_id": 18,
-          "text": "“What should we do?”"
+          "text": "“Although I have students who can cure miasma poisoning, they won’t be enough to tend to all the First Years before they run out of Spirit Power.”"
         },
         {
           "id": 42,
           "paragraph_id": 19,
-          "text": "“Spirit users are more resistant to miasma."
+          "text": "Grent crossed his arms over his chest as he pondered their next course of action."
         },
         {
           "id": 43,
           "paragraph_id": 19,
-          "text": "However, long exposure to it will still corrode our minds,” Miranda commented."
+          "text": "After an hour of brainstorming, a plan was finally formulated."
         },
         {
           "id": 44,
-          "paragraph_id": 19,
-          "text": "“Although I have students who can cure miasma poisoning, they won’t be enough to tend to all the First Years before they run out of Spirit Power.”"
+          "paragraph_id": 20,
+          "text": "All the children would stay inside the town and help resist the Dungeon Outbreak from the safety of its walls."
         },
         {
           "id": 45,
           "paragraph_id": 20,
-          "text": "Grent crossed his arms over his chest as he pondered their next course of action."
+          "text": "The magicians, archers, and spirit users, would use long range attacks to whittle down their numbers."
         },
         {
           "id": 46,
-          "paragraph_id": 20,
-          "text": "After an hour of brainstorming, a plan was finally formulated."
+          "paragraph_id": 21,
+          "text": "If any monsters managed to get past their bombardment, the martial classes would defend the walls and repel the advancing monsters."
         },
         {
           "id": 47,
           "paragraph_id": 21,
-          "text": "All the children would stay inside the town and help resist the Dungeon Outbreak from the safety of its walls."
-        },
-        {
-          "id": 48,
-          "paragraph_id": 21,
-          "text": "The magicians, archers, and spirit users, would use long range attacks to whittle down their numbers."
-        },
-        {
-          "id": 49,
-          "paragraph_id": 22,
-          "text": "If any monsters managed to get past their bombardment, the martial classes would defend the walls and repel the advancing monsters."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 22,
           "text": "The magicians and spirit users would then play the role of support from behind."
         },
         {
-          "id": 51,
-          "paragraph_id": 23,
+          "id": 48,
+          "paragraph_id": 22,
           "text": "Those who were starting to feel faint from miasma poisoning would immediately be taken to the rear of the defenders where the healers would tend to the miasma that had invaded their bodies."
         },
         {
-          "id": 52,
-          "paragraph_id": 24,
+          "id": 49,
+          "paragraph_id": 23,
           "text": "All the students were briefed of the plan and immediately went to their designated positions."
         },
         {
-          "id": 53,
-          "paragraph_id": 24,
+          "id": 50,
+          "paragraph_id": 23,
           "text": "William, and the archers of the Martial Class, stood on the town’s walls and looked in the direction where a black mist was rising up into the air."
         },
         {
-          "id": 54,
-          "paragraph_id": 25,
+          "id": 51,
+          "paragraph_id": 24,
           "text": "According to the captain, that was where the Roaring Quarters dungeon was located."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 25,
+          "text": "Est stood beside him along with the bulk of the Magic Division Classes."
+        },
+        {
+          "id": 53,
+          "paragraph_id": 25,
+          "text": "A quarter of the Spirit Division was in the rear responsible for healing, and the rest were on top of the walls looking in the direction of the dungeon with bated breaths."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 26,
+          "text": "The students numbered less than a thousand, and the professors that came along with them only numbered in the thirties."
         },
         {
           "id": 55,
           "paragraph_id": 26,
-          "text": "Est stood beside him along with the bulk of the Magic Division Classes."
+          "text": "If you added the kingdom’s army that had been dispatched to the scene, their combined forces amounted to less than 1,400 people."
         },
         {
           "id": 56,
-          "paragraph_id": 26,
-          "text": "A quarter of the Spirit Division was in the rear responsible for healing, and the rest were on top of the walls looking in the direction of the dungeon with bated breaths."
+          "paragraph_id": 27,
+          "text": "“This is like the calm before the storm,” Est said as he looked in the distance."
         },
         {
           "id": 57,
           "paragraph_id": 27,
-          "text": "The students numbered less than a thousand, and the professors that came along with them only numbered in the thirties."
+          "text": "“You told me in the past that Lont had experienced two Beast Tides."
         },
         {
           "id": 58,
           "paragraph_id": 27,
-          "text": "If you added the kingdom’s army that had been dispatched to the scene, their combined forces amounted to less than 1,400 people."
+          "text": "You were also present in both of them."
         },
         {
           "id": 59,
-          "paragraph_id": 28,
-          "text": "“This is like the calm before the storm,” Est said as he looked in the distance."
+          "paragraph_id": 27,
+          "text": "Based on what you have experienced, what are our chances against a Beast Tide with our current forces?”"
         },
         {
           "id": 60,
           "paragraph_id": 28,
-          "text": "“You told me in the past that Lont had experienced two Beast Tides."
+          "text": "The other students who heard Est’s question were shocked when they heard that William participated in a battle against the Beast Tide."
         },
         {
           "id": 61,
           "paragraph_id": 28,
-          "text": "You were also present in both of them."
+          "text": "The majority of them didn’t believe Est’s claim and looked at William in disdain."
         },
         {
           "id": 62,
-          "paragraph_id": 28,
-          "text": "Based on what you have experienced, what are our chances against a Beast Tide with our current forces?”"
+          "paragraph_id": 29,
+          "text": "The Beast Tide happened four years ago, and William was only fourteen years old."
         },
         {
           "id": 63,
           "paragraph_id": 29,
-          "text": "The other students who heard Est’s question were shocked when they heard that William participated in a battle against the Beast Tide."
+          "text": "That meant that during the monster tide, he was only ten years old."
         },
         {
           "id": 64,
           "paragraph_id": 29,
-          "text": "The majority of them didn’t believe Est’s claim and looked at William in disdain."
+          "text": "How could a ten year old possibly participate in a battle of that magnitude?"
         },
         {
           "id": 65,
           "paragraph_id": 30,
-          "text": "The Beast Tide happened four years ago, and William was only fourteen years old."
+          "text": "William wasn’t aware of their malicious looks filled with disdain because he was busy reminiscing about the past."
         },
         {
           "id": 66,
           "paragraph_id": 30,
-          "text": "That meant that during the monster tide, he was only ten years old."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 30,
-          "text": "How could a ten year old possibly participate in a battle of that magnitude?"
-        },
-        {
-          "id": 68,
-          "paragraph_id": 31,
-          "text": "William wasn’t aware of their malicious looks filled with disdain because he was busy reminiscing about the past."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 31,
           "text": "He didn’t know how strong the instructors were, but he liked to believe that the majority of them were capable of facing off against Class B and Class A Beasts on their own."
         },
         {
-          "id": 70,
-          "paragraph_id": 32,
+          "id": 67,
+          "paragraph_id": 31,
           "text": "Because if they were unable to do that then their chances of surviving this battle were close to zero."
         },
         {
-          "id": 71,
-          "paragraph_id": 33,
+          "id": 68,
+          "paragraph_id": 32,
           "text": "“This force may be enough to contend against a Beast Tide,” William replied after careful consideration."
         },
         {
-          "id": 72,
-          "paragraph_id": 33,
+          "id": 69,
+          "paragraph_id": 32,
           "text": "This was on the condition that the students were only going to fight against the small fries, and let the instructors fight against the stronger opponents."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 33,
+          "text": "If the instructors were not strong enough to turn the tide of battle then the end game would result in their complete annihilation."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 34,
+          "text": "“However, we are not facing a Beast Tide, but a Dungeon Outbreak.” William made sure that he made this point across."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 34,
+          "text": "“This is my first time participating in this kind of battle, so I can’t compare the magnitude of the enemy’s forces with what I have experienced in the past."
         },
         {
           "id": 73,
           "paragraph_id": 34,
-          "text": "If the instructors were not strong enough to turn the tide of battle then the end game would result in their complete annihilation."
+          "text": "Also, we are dealing with monsters infected with miasma."
         },
         {
           "id": 74,
-          "paragraph_id": 35,
-          "text": "“However, we are not facing a Beast Tide, but a Dungeon Outbreak.” William made sure that he made this point across."
+          "paragraph_id": 34,
+          "text": "This will definitely not be an easy battle.”"
         },
         {
           "id": 75,
           "paragraph_id": 35,
-          "text": "“This is my first time participating in this kind of battle, so I can’t compare the magnitude of the enemy’s forces with what I have experienced in the past."
+          "text": "Est nodded his head in understanding."
         },
         {
           "id": 76,
           "paragraph_id": 35,
-          "text": "Also, we are dealing with monsters infected with miasma."
+          "text": "To be honest, Est felt safer when he was standing beside William than standing beside any of the instructors."
         },
         {
           "id": 77,
           "paragraph_id": 35,
-          "text": "This will definitely not be an easy battle.”"
+          "text": "For some reason, he thought that everything would be fine if William was around."
         },
         {
           "id": 78,
           "paragraph_id": 36,
-          "text": "Est nodded his head in understanding."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 36,
-          "text": "To be honest, Est felt safer when he was standing beside William than standing beside any of the instructors."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 36,
-          "text": "For some reason, he thought that everything would be fine if William was around."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 37,
           "text": "This kind of mentality had been born inside the Trial of Courage where he fought side by side with the red-headed-boy and defeated an enemy whom he had deemed impossible to kill."
         },
         {
-          "id": 82,
-          "paragraph_id": 38,
+          "id": 79,
+          "paragraph_id": 37,
           "text": "Most of the students were feeling anxious, but he was not."
         },
         {
-          "id": 83,
-          "paragraph_id": 38,
+          "id": 80,
+          "paragraph_id": 37,
           "text": "Est glanced at the young boy who had created a miracle for him, and prayed that he would be safe in the battle against the upcoming Dungeon Outbreak."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 38,
+          "text": "“Meeeeeeeeeh!” Ella bleated as her ears perked up."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 39,
+          "text": "“Everyone get ready,” William said as he nocked an arrow to his bow."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 39,
+          "text": "“The monsters are on their way."
         },
         {
           "id": 84,
           "paragraph_id": 39,
-          "text": "“Meeeeeeeeeh!” Ella bleated as her ears perked up."
+          "text": "Archers load your arrows!”"
         },
         {
           "id": 85,
           "paragraph_id": 40,
-          "text": "“Everyone get ready,” William said as he nocked an arrow to his bow."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 40,
-          "text": "“The monsters are on their way."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 40,
-          "text": "Archers load your arrows!”"
-        },
-        {
-          "id": 88,
-          "paragraph_id": 41,
           "text": "“Magicians, start chanting your spells!” Est ordered."
         },
         {
-          "id": 89,
-          "paragraph_id": 42,
+          "id": 86,
+          "paragraph_id": 41,
           "text": "The archers under William followed their Head Prefect without a question, while the magicians reluctantly chanted their spells."
         },
         {
-          "id": 90,
-          "paragraph_id": 42,
+          "id": 87,
+          "paragraph_id": 41,
           "text": "The Spirit Division Class didn’t do anything because they couldn’t see anything from their vantage point."
         },
         {
-          "id": 91,
-          "paragraph_id": 43,
+          "id": 88,
+          "paragraph_id": 42,
           "text": "The Head Prefect and Vice-Prefect of the Spirit Division thought that William was only joking with them, so they decided to ignore his words and didn’t instruct those under them to prepare their long range spells."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 43,
+          "text": "They were waiting for William to make a fool of himself and see the consequences of his stupidity."
+        },
+        {
+          "id": 90,
+          "paragraph_id": 44,
+          "text": "It was at that moment when they felt the ground tremble as if a minor earthquake was happening."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 44,
+          "text": "From the mouth of the dungeon, a black tide burst forth en masse."
         },
         {
           "id": 92,
           "paragraph_id": 44,
-          "text": "They were waiting for William to make a fool of himself and see the consequences of his stupidity."
+          "text": "Roars of beasts and the shrieks of flying beasts reverberated in the air as they charged towards the town of Dawsbury with the intention of trampling it to the ground."
         },
         {
           "id": 93,
           "paragraph_id": 45,
-          "text": "It was at that moment when they felt the ground tremble as if a minor earthquake was happening."
+          "text": "“Start chanting your long range spells!” the Head Prefect of the Spirit Division Class cried out in panic."
         },
         {
           "id": 94,
-          "paragraph_id": 45,
-          "text": "From the mouth of the dungeon, a black tide burst forth en masse."
+          "paragraph_id": 46,
+          "text": "“Archers, take aim!” Wililam ordered as he pulled the string of his bow to the fullest."
         },
         {
           "id": 95,
-          "paragraph_id": 45,
-          "text": "Roars of beasts and the shrieks of flying beasts reverberated in the air as they charged towards the town of Dawsbury with the intention of trampling it to the ground."
+          "paragraph_id": 46,
+          "text": "He watched and waited until the monsters reached their strike range."
         },
         {
           "id": 96,
           "paragraph_id": 46,
-          "text": "“Start chanting your long range spells!” the Head Prefect of the Spirit Division Class cried out in panic."
+          "text": "The moment the first wave had passed the mark, William immediately ordered them to attack."
         },
         {
           "id": 97,
           "paragraph_id": 47,
-          "text": "“Archers, take aim!” Wililam ordered as he pulled the string of his bow to the fullest."
-        },
-        {
-          "id": 98,
-          "paragraph_id": 47,
-          "text": "He watched and waited until the monsters reached their strike range."
-        },
-        {
-          "id": 99,
-          "paragraph_id": 47,
-          "text": "The moment the first wave had passed the mark, William immediately ordered them to attack."
-        },
-        {
-          "id": 100,
-          "paragraph_id": 48,
           "text": "“Open Fire!” William roared as his arrow flew straight and true towards the head of a two-meter tall dog-type monster."
         },
         {
-          "id": 101,
-          "paragraph_id": 49,
+          "id": 98,
+          "paragraph_id": 48,
           "text": "The sound of the wind whistling echoed above the town’s wall as hundreds of arrows rained on the monsters."
         },
         {
-          "id": 102,
-          "paragraph_id": 49,
+          "id": 99,
+          "paragraph_id": 48,
           "text": "Not long after, the long range magic attacks of the magicians joined the downpour and decimated all the creatures in their path."
         },
         {
-          "id": 103,
-          "paragraph_id": 50,
+          "id": 100,
+          "paragraph_id": 49,
           "text": "This was how the battle began and no one knew what the ending would be."
         }
       ],
-      "word_count": 1778
+      "word_count": 1733
     },
     {
       "chapter_index": 168,
@@ -11939,7 +11923,6 @@
         "“As you command, My Lady.” Oliver bowed and flapped his wings. He flew out of the window and soared towards the sky. His destination, a certain place where a certain narcissistic Half-Elf had been deployed.",
         "A smirk appeared on Oliver’s monkey face as he increased his speed.",
         "‘Mistress, you look really cute when you act like a kuudere,’ Oliver mused as he turned his head to look at the town of Lont that was gradually getting farther away. ‘Don’t worry. I’ll keep your Little Prince safe. After all, I still need to ensure that he will pick you as his bride when he grows up. I won’t hand him over to Celeste.’",
-        "(A/N: Kuudere are those who are often cold, blunt, and cynical. They may seem very emotionless and stoic on the outside, but on the inside they’re very caring, at least when it comes to the ones they love. Thank you, google senpai!)",
         "With another flap of his wings, a sonic boom echoed in the air. Oliver’s speed drastically increased as he traveled at the speed of sound.",
         "Half an hour later, the town of Dawsbury finally appeared on the horizon. Oliver arrived just in time to see the little Half-Elf get struck by a lightning bolt that sent him flying a few meters away from where he stood."
       ],
@@ -12397,40 +12380,25 @@
         {
           "id": 90,
           "paragraph_id": 39,
-          "text": "(A/N: Kuudere are those who are often cold, blunt, and cynical."
+          "text": "With another flap of his wings, a sonic boom echoed in the air."
         },
         {
           "id": 91,
           "paragraph_id": 39,
-          "text": "They may seem very emotionless and stoic on the outside, but on the inside they’re very caring, at least when it comes to the ones they love."
+          "text": "Oliver’s speed drastically increased as he traveled at the speed of sound."
         },
         {
           "id": 92,
-          "paragraph_id": 39,
-          "text": "Thank you, google senpai!)"
+          "paragraph_id": 40,
+          "text": "Half an hour later, the town of Dawsbury finally appeared on the horizon."
         },
         {
           "id": 93,
           "paragraph_id": 40,
-          "text": "With another flap of his wings, a sonic boom echoed in the air."
-        },
-        {
-          "id": 94,
-          "paragraph_id": 40,
-          "text": "Oliver’s speed drastically increased as he traveled at the speed of sound."
-        },
-        {
-          "id": 95,
-          "paragraph_id": 41,
-          "text": "Half an hour later, the town of Dawsbury finally appeared on the horizon."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 41,
           "text": "Oliver arrived just in time to see the little Half-Elf get struck by a lightning bolt that sent him flying a few meters away from where he stood."
         }
       ],
-      "word_count": 1366
+      "word_count": 1324
     },
     {
       "chapter_index": 170,
@@ -13963,7 +13931,6 @@
         "The poor dog became a volleyball ball that got passed around by the War Ibexes that were venting out their frustration. In a desperate attempt to fight back, Orthux split its body into two.",
         "Unfortunately, its actions only made the goats more excited as they, too, split into two teams. Aslan’s and Chrono’s teams took one dog each and resumed their volleyball session.",
         "William didn’t know whether he should laugh or cry at the pitiful guardian dog that was being bullied by the goats he had raised since they were kids.",
-        "(A/N: Fun fact. A young goat is also called a kid.)",
         "Since the immediate threat was already being taken care of, William approached the two black orbs and checked their condition with his Appraisal Skill.",
         "[ Corrupted Dungeon Core ]",
         "— A dungeon core that was corrupted by Miasma",
@@ -14505,50 +14472,40 @@
         {
           "id": 106,
           "paragraph_id": 63,
-          "text": "(A/N: Fun fact."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 63,
-          "text": "A young goat is also called a kid.)"
-        },
-        {
-          "id": 108,
-          "paragraph_id": 64,
           "text": "Since the immediate threat was already being taken care of, William approached the two black orbs and checked their condition with his Appraisal Skill."
         },
         {
-          "id": 109,
-          "paragraph_id": 65,
+          "id": 107,
+          "paragraph_id": 64,
           "text": "[ Corrupted Dungeon Core ]"
         },
         {
-          "id": 110,
-          "paragraph_id": 66,
+          "id": 108,
+          "paragraph_id": 65,
           "text": "— A dungeon core that was corrupted by Miasma"
         },
         {
-          "id": 111,
-          "paragraph_id": 67,
+          "id": 109,
+          "paragraph_id": 66,
           "text": "— Corruption Progress: 95%"
+        },
+        {
+          "id": 110,
+          "paragraph_id": 67,
+          "text": "‘System, how do we resolve this issue?’ William inquired."
+        },
+        {
+          "id": 111,
+          "paragraph_id": 68,
+          "text": "[ To answer the host’s question, there is only one way to handle a corrupted dungeon core and that is to destroy it."
         },
         {
           "id": 112,
           "paragraph_id": 68,
-          "text": "‘System, how do we resolve this issue?’ William inquired."
-        },
-        {
-          "id": 113,
-          "paragraph_id": 69,
-          "text": "[ To answer the host’s question, there is only one way to handle a corrupted dungeon core and that is to destroy it."
-        },
-        {
-          "id": 114,
-          "paragraph_id": 69,
           "text": "However, even if the host did nothing, these two cores will shatter automatically once the miasma has corrupted it completely... ]"
         }
       ],
-      "word_count": 1658
+      "word_count": 1647
     },
     {
       "chapter_index": 173,
@@ -18301,7 +18258,6 @@
         "“Are you sure you’re fit to join us?” Priscilla asked. “You don’t have to force yourself, Sir William.”",
         "“Sir William?” William turned his head to look at his Vice-Prefect. It was the first time Priscilla called him Sir William. Usually, she just referred to him as Head Prefect.",
         "Priscilla nodded her head. “We have all come to an agreement that the Head Prefect will be referred to as Sir William from now on. Please, don’t reject it, Sir William.”",
-        "(A/N: Usually, Sir is a term used to address Knights in the Hellan Kingdom.)",
         "William scanned the faces of the First Years. They were all nodding their heads in agreement. Since that was what they decided, the red-headed boy decided to just go with the flow and smiled.",
         "“Today, I have an important announcement to make,” William said as he faced the First Years who were listening to him attentively. “I will introduce all of you to my new family members.”",
         "The students had already noticed the three little creatures that were accompanying William. Even so, they didn’t say anything and stared at them with curiosity.",
@@ -18414,535 +18370,530 @@
         {
           "id": 12,
           "paragraph_id": 6,
-          "text": "(A/N: Usually, Sir is a term used to address Knights in the Hellan Kingdom.)"
-        },
-        {
-          "id": 13,
-          "paragraph_id": 7,
           "text": "William scanned the faces of the First Years."
         },
         {
-          "id": 14,
-          "paragraph_id": 7,
+          "id": 13,
+          "paragraph_id": 6,
           "text": "They were all nodding their heads in agreement."
+        },
+        {
+          "id": 14,
+          "paragraph_id": 6,
+          "text": "Since that was what they decided, the red-headed boy decided to just go with the flow and smiled."
         },
         {
           "id": 15,
           "paragraph_id": 7,
-          "text": "Since that was what they decided, the red-headed boy decided to just go with the flow and smiled."
+          "text": "“Today, I have an important announcement to make,” William said as he faced the First Years who were listening to him attentively."
         },
         {
           "id": 16,
-          "paragraph_id": 8,
-          "text": "“Today, I have an important announcement to make,” William said as he faced the First Years who were listening to him attentively."
+          "paragraph_id": 7,
+          "text": "“I will introduce all of you to my new family members.”"
         },
         {
           "id": 17,
           "paragraph_id": 8,
-          "text": "“I will introduce all of you to my new family members.”"
+          "text": "The students had already noticed the three little creatures that were accompanying William."
         },
         {
           "id": 18,
-          "paragraph_id": 9,
-          "text": "The students had already noticed the three little creatures that were accompanying William."
+          "paragraph_id": 8,
+          "text": "Even so, they didn’t say anything and stared at them with curiosity."
         },
         {
           "id": 19,
           "paragraph_id": 9,
-          "text": "Even so, they didn’t say anything and stared at them with curiosity."
-        },
-        {
-          "id": 20,
-          "paragraph_id": 10,
           "text": "“This beautiful golden snake over here is Dia, she is a girl so she’s shy around people,” William introduced the snake that was looped around his neck as usual."
         },
         {
-          "id": 21,
-          "paragraph_id": 10,
+          "id": 20,
+          "paragraph_id": 9,
           "text": "“This puppy on my left is Thor and the one on my right is Ragnar."
+        },
+        {
+          "id": 21,
+          "paragraph_id": 9,
+          "text": "Aren’t they cool looking?”"
         },
         {
           "id": 22,
           "paragraph_id": 10,
-          "text": "Aren’t they cool looking?”"
-        },
-        {
-          "id": 23,
-          "paragraph_id": 11,
           "text": "Thor and Ragnar both raised their chins in an arrogant manner."
         },
         {
-          "id": 24,
-          "paragraph_id": 11,
+          "id": 23,
+          "paragraph_id": 10,
           "text": "The way they acted was very similar to William when he was feeling narcissistic."
+        },
+        {
+          "id": 24,
+          "paragraph_id": 10,
+          "text": "Perhaps, they had inherited his traits due to the fact that his blood was flowing inside their bodies."
         },
         {
           "id": 25,
           "paragraph_id": 11,
-          "text": "Perhaps, they had inherited his traits due to the fact that his blood was flowing inside their bodies."
-        },
-        {
-          "id": 26,
-          "paragraph_id": 12,
           "text": "“From now on, they will be joining our Martial Division,” William stated."
         },
         {
-          "id": 27,
-          "paragraph_id": 12,
+          "id": 26,
+          "paragraph_id": 11,
           "text": "“I hope that all of you will get along with them."
+        },
+        {
+          "id": 27,
+          "paragraph_id": 11,
+          "text": "Now, let us begin our training!”"
         },
         {
           "id": 28,
           "paragraph_id": 12,
-          "text": "Now, let us begin our training!”"
-        },
-        {
-          "id": 29,
-          "paragraph_id": 13,
           "text": "Like always, William and the students started their training with stretching exercises."
         },
         {
-          "id": 30,
-          "paragraph_id": 13,
+          "id": 29,
+          "paragraph_id": 12,
           "text": "Afterward, they started to run towards the Flag that was fluttering in the distance."
+        },
+        {
+          "id": 30,
+          "paragraph_id": 12,
+          "text": "The Shepherd knew that he had just recovered so strenuous exercises were bad for him."
         },
         {
           "id": 31,
           "paragraph_id": 13,
-          "text": "The Shepherd knew that he had just recovered so strenuous exercises were bad for him."
-        },
-        {
-          "id": 32,
-          "paragraph_id": 14,
           "text": "Because of this, he chose to ride Ella’s back and oversee the training."
         },
         {
-          "id": 33,
-          "paragraph_id": 14,
+          "id": 32,
+          "paragraph_id": 13,
           "text": "Thor and Ragnar, on the other hand, ran alongside Ella and seemed to enjoy the morning activity."
+        },
+        {
+          "id": 33,
+          "paragraph_id": 13,
+          "text": "At first, William was quite worried that the puppies wouldn’t be able to keep up, but he had underestimated them too much."
         },
         {
           "id": 34,
           "paragraph_id": 14,
-          "text": "At first, William was quite worried that the puppies wouldn’t be able to keep up, but he had underestimated them too much."
+          "text": "Even though they were still young, Thor and Ragnar were Mythical Beasts."
         },
         {
           "id": 35,
-          "paragraph_id": 15,
-          "text": "Even though they were still young, Thor and Ragnar were Mythical Beasts."
+          "paragraph_id": 14,
+          "text": "Just like baby dragons, they were on a level higher compared to creatures newly born to the mortal realm."
         },
         {
           "id": 36,
           "paragraph_id": 15,
-          "text": "Just like baby dragons, they were on a level higher compared to creatures newly born to the mortal realm."
+          "text": "The two puppies ran alongside Ella with their little legs as their tongues lolled at the side of their mouths."
         },
         {
           "id": 37,
-          "paragraph_id": 16,
-          "text": "The two puppies ran alongside Ella with their little legs as their tongues lolled at the side of their mouths."
+          "paragraph_id": 15,
+          "text": "Dia of course, stayed on William’s neck as she watched everything around her with curiosity."
         },
         {
           "id": 38,
           "paragraph_id": 16,
-          "text": "Dia of course, stayed on William’s neck as she watched everything around her with curiosity."
+          "text": "After arriving at their destination, the Martial students divided themselves into ten teams and started to do their combat exercises."
         },
         {
           "id": 39,
-          "paragraph_id": 17,
-          "text": "After arriving at their destination, the Martial students divided themselves into ten teams and started to do their combat exercises."
+          "paragraph_id": 16,
+          "text": "William’s plan was to train capable commanders who would lead a team under their wing."
         },
         {
           "id": 40,
           "paragraph_id": 17,
-          "text": "William’s plan was to train capable commanders who would lead a team under their wing."
+          "text": "This way, they would be able to mobilize as independent teams that would handle specialized roles."
         },
         {
           "id": 41,
           "paragraph_id": 18,
-          "text": "This way, they would be able to mobilize as independent teams that would handle specialized roles."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 19,
           "text": "Take Dave as an example."
         },
         {
-          "id": 43,
-          "paragraph_id": 19,
+          "id": 42,
+          "paragraph_id": 18,
           "text": "He was the officer in charge of the logistics of the entire Martial Division."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 18,
+          "text": "Naturally, his team would focus on managing the supplies of their “small army”."
         },
         {
           "id": 44,
           "paragraph_id": 19,
-          "text": "Naturally, his team would focus on managing the supplies of their “small army”."
+          "text": "Priscilla’s team was a scouting team, while Spencer’s and Drake’s teams would serve as the vanguard of the Martial Division."
         },
         {
           "id": 45,
           "paragraph_id": 20,
-          "text": "Priscilla’s team was a scouting team, while Spencer’s and Drake’s teams would serve as the vanguard of the Martial Division."
+          "text": "The other teams also had “temporary captains” who would either be promoted to commanders or assistant commanders in the future."
         },
         {
           "id": 46,
           "paragraph_id": 21,
-          "text": "The other teams also had “temporary captains” who would either be promoted to commanders or assistant commanders in the future."
+          "text": "Grent and Andy were also there, like usual, to oversee the training."
         },
         {
           "id": 47,
-          "paragraph_id": 22,
-          "text": "Grent and Andy were also there, like usual, to oversee the training."
+          "paragraph_id": 21,
+          "text": "The combat training they were focusing on was all about how to utilize their strengths and fight as a team instead of an individual."
         },
         {
           "id": 48,
           "paragraph_id": 22,
-          "text": "The combat training they were focusing on was all about how to utilize their strengths and fight as a team instead of an individual."
-        },
-        {
-          "id": 49,
-          "paragraph_id": 23,
           "text": "The Dungeon Outbreak had taught them that there was strength in numbers."
         },
         {
-          "id": 50,
-          "paragraph_id": 23,
+          "id": 49,
+          "paragraph_id": 22,
           "text": "Even Spencer and Drake who had the “Soloist” mentality had started to change their perspective."
         },
         {
-          "id": 51,
-          "paragraph_id": 23,
+          "id": 50,
+          "paragraph_id": 22,
           "text": "This was what William wanted to see."
         },
         {
-          "id": 52,
-          "paragraph_id": 23,
+          "id": 51,
+          "paragraph_id": 22,
           "text": "The reason?"
+        },
+        {
+          "id": 52,
+          "paragraph_id": 22,
+          "text": "He was quite lazy deep inside and just wanted to pass the responsibility to other people!"
         },
         {
           "id": 53,
           "paragraph_id": 23,
-          "text": "He was quite lazy deep inside and just wanted to pass the responsibility to other people!"
+          "text": "When the morning training ended, everyone returned to the dormitory to take a break and prepare for their lessons for the day."
         },
         {
           "id": 54,
           "paragraph_id": 24,
-          "text": "When the morning training ended, everyone returned to the dormitory to take a break and prepare for their lessons for the day."
-        },
-        {
-          "id": 55,
-          "paragraph_id": 25,
           "text": "“Second Master, is there any news about Big Brother and Big Sister?” William inquired."
         },
         {
-          "id": 56,
-          "paragraph_id": 25,
+          "id": 55,
+          "paragraph_id": 24,
           "text": "Although he looked calm, William was actually feeling very worried about them."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 24,
+          "text": "It had been three days since he got the news that they went missing and he was quite anxious about their current situation."
         },
         {
           "id": 57,
           "paragraph_id": 25,
-          "text": "It had been three days since he got the news that they went missing and he was quite anxious about their current situation."
-        },
-        {
-          "id": 58,
-          "paragraph_id": 26,
           "text": "“There’s still no news.” Oliver answered."
         },
         {
-          "id": 59,
-          "paragraph_id": 26,
+          "id": 58,
+          "paragraph_id": 25,
           "text": "“Don’t worry."
         },
         {
-          "id": 60,
-          "paragraph_id": 26,
+          "id": 59,
+          "paragraph_id": 25,
           "text": "Matthew and Leah are stronger than you."
         },
         {
-          "id": 61,
-          "paragraph_id": 26,
+          "id": 60,
+          "paragraph_id": 25,
           "text": "Also, your grandfather has arrived at the dungeon."
+        },
+        {
+          "id": 61,
+          "paragraph_id": 25,
+          "text": "It will only be a matter of time before he saves them.”"
         },
         {
           "id": 62,
           "paragraph_id": 26,
-          "text": "It will only be a matter of time before he saves them.”"
+          "text": "“I hope that you are right, Second Master.” William sighed as he looked outside the window of his room."
         },
         {
           "id": 63,
-          "paragraph_id": 27,
-          "text": "“I hope that you are right, Second Master.” William sighed as he looked outside the window of his room."
+          "paragraph_id": 26,
+          "text": "“I hope that you are right.”"
         },
         {
           "id": 64,
           "paragraph_id": 27,
-          "text": "“I hope that you are right.”"
+          "text": "The sound of monster shrieks echoed along the dungeon walls as Matthew and Leah fought side by side."
         },
         {
           "id": 65,
-          "paragraph_id": 28,
-          "text": "The sound of monster shrieks echoed along the dungeon walls as Matthew and Leah fought side by side."
+          "paragraph_id": 27,
+          "text": "Contrary to his scholarly image, Matthew was in fact a Battlemage that specialized in hand to hand combat, while wielding the power of fire."
         },
         {
           "id": 66,
           "paragraph_id": 28,
-          "text": "Contrary to his scholarly image, Matthew was in fact a Battlemage that specialized in hand to hand combat, while wielding the power of fire."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 29,
           "text": "Leah, on the other hand, was a summoner who had made a contract with a powerful Water Spirit."
         },
         {
-          "id": 68,
-          "paragraph_id": 29,
+          "id": 67,
+          "paragraph_id": 28,
           "text": "The weapon she wielded was an elemental whip that her father secretly gifted to her on her sixteenth birthday."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 28,
+          "text": "It moved around as if it had a life of its own, slicing off the body parts of the monsters that it came in contact with in half."
         },
         {
           "id": 69,
           "paragraph_id": 29,
-          "text": "It moved around as if it had a life of its own, slicing off the body parts of the monsters that it came in contact with in half."
+          "text": "After the battle ended, the bodies of the Lamias turned into particles of light, leaving black beast cores behind."
         },
         {
           "id": 70,
-          "paragraph_id": 30,
-          "text": "After the battle ended, the bodies of the Lamias turned into particles of light, leaving black beast cores behind."
+          "paragraph_id": 29,
+          "text": "Leah gathered these beast cores with the thought of purifying them after they had escaped from the dungeon."
         },
         {
           "id": 71,
           "paragraph_id": 30,
-          "text": "Leah gathered these beast cores with the thought of purifying them after they had escaped from the dungeon."
+          "text": "A day in the outside world was equivalent to two days inside the Lair of the Ancient Queen."
         },
         {
           "id": 72,
-          "paragraph_id": 31,
-          "text": "A day in the outside world was equivalent to two days inside the Lair of the Ancient Queen."
+          "paragraph_id": 30,
+          "text": "It had been six days since Matthew and Leah were trapped inside the dungeon, and they were having a hard time ascending to the upper floors where the exit of the dungeon was located."
         },
         {
           "id": 73,
           "paragraph_id": 31,
-          "text": "It had been six days since Matthew and Leah were trapped inside the dungeon, and they were having a hard time ascending to the upper floors where the exit of the dungeon was located."
+          "text": "Since the Dungeon was currently in the midst of a Dungeon Outbreak, the spawn rate of the monsters had increased tenfold."
         },
         {
           "id": 74,
-          "paragraph_id": 32,
-          "text": "Since the Dungeon was currently in the midst of a Dungeon Outbreak, the spawn rate of the monsters had increased tenfold."
+          "paragraph_id": 31,
+          "text": "Matthew and Leah had to fight against the groups of monsters that they met along the way, which made their advance a very slow process."
         },
         {
           "id": 75,
           "paragraph_id": 32,
-          "text": "Matthew and Leah had to fight against the groups of monsters that they met along the way, which made their advance a very slow process."
+          "text": "Also, after each battle they would have to immediately leave the vicinity so that they wouldn’t attract other groups of monsters."
         },
         {
           "id": 76,
-          "paragraph_id": 33,
-          "text": "Also, after each battle they would have to immediately leave the vicinity so that they wouldn’t attract other groups of monsters."
+          "paragraph_id": 32,
+          "text": "This left both of them exhausted."
         },
         {
           "id": 77,
           "paragraph_id": 33,
-          "text": "This left both of them exhausted."
+          "text": "“Let’s find a place to rest for the time being,” Leah suggested."
         },
         {
           "id": 78,
-          "paragraph_id": 34,
-          "text": "“Let’s find a place to rest for the time being,” Leah suggested."
+          "paragraph_id": 33,
+          "text": "“We can time our escape for when the monsters inside the dungeon decide to raid the surface.”"
         },
         {
           "id": 79,
           "paragraph_id": 34,
-          "text": "“We can time our escape for when the monsters inside the dungeon decide to raid the surface.”"
+          "text": "“Okay,” Matthew nodded his head in agreement."
         },
         {
           "id": 80,
-          "paragraph_id": 35,
-          "text": "“Okay,” Matthew nodded his head in agreement."
+          "paragraph_id": 34,
+          "text": "He was nearing his limit and it would be a good idea if they found a safe place to rest to recover their strength."
         },
         {
           "id": 81,
           "paragraph_id": 35,
-          "text": "He was nearing his limit and it would be a good idea if they found a safe place to rest to recover their strength."
+          "text": "It took them a while to find a good location, and the two immediately drank the potions they had prepared before they went to the Duchy of Aberdeen to fight against the Dungeon Outbreak."
         },
         {
           "id": 82,
           "paragraph_id": 36,
-          "text": "It took them a while to find a good location, and the two immediately drank the potions they had prepared before they went to the Duchy of Aberdeen to fight against the Dungeon Outbreak."
+          "text": "Both of them knew how dire their situation was, but neither of them felt that escaping the dungeon was impossible."
         },
         {
           "id": 83,
           "paragraph_id": 37,
-          "text": "Both of them knew how dire their situation was, but neither of them felt that escaping the dungeon was impossible."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 38,
           "text": "The two hugged each other while paying attention to their surroundings as they meditated."
         },
         {
-          "id": 85,
-          "paragraph_id": 38,
+          "id": 84,
+          "paragraph_id": 37,
           "text": "It was then that they heard a rumbling noise not far from their location."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 37,
+          "text": "What followed next was an earth shaking roar that made both teenagers open their eyes in surprise."
         },
         {
           "id": 86,
           "paragraph_id": 38,
-          "text": "What followed next was an earth shaking roar that made both teenagers open their eyes in surprise."
+          "text": "The dungeon floor shook as cries of alarm-that came from over a hundred dungeon monsters-reverberated in the air."
         },
         {
           "id": 87,
-          "paragraph_id": 39,
-          "text": "The dungeon floor shook as cries of alarm-that came from over a hundred dungeon monsters-reverberated in the air."
+          "paragraph_id": 38,
+          "text": "And then... everything became quiet."
         },
         {
           "id": 88,
           "paragraph_id": 39,
-          "text": "And then... everything became quiet."
+          "text": "It was so quiet that they could hear the sound of footsteps coming towards their location."
         },
         {
           "id": 89,
-          "paragraph_id": 40,
-          "text": "It was so quiet that they could hear the sound of footsteps coming towards their location."
+          "paragraph_id": 39,
+          "text": "Matthew and Leah exchanged a glance as they readied themselves to engage in combat."
         },
         {
           "id": 90,
           "paragraph_id": 40,
-          "text": "Matthew and Leah exchanged a glance as they readied themselves to engage in combat."
+          "text": "It was then when a familiar old man appeared in front of them with a wide grin on his face."
         },
         {
           "id": 91,
           "paragraph_id": 41,
-          "text": "It was then when a familiar old man appeared in front of them with a wide grin on his face."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 42,
           "text": "“Am I disturbing the two of you?” James asked with a mischievous expression."
         },
         {
-          "id": 93,
-          "paragraph_id": 42,
+          "id": 92,
+          "paragraph_id": 41,
           "text": "“Matthew, you’re doing well."
+        },
+        {
+          "id": 93,
+          "paragraph_id": 41,
+          "text": "Just do it a bit more and give me a great grandchild as soon as possible.”"
         },
         {
           "id": 94,
           "paragraph_id": 42,
-          "text": "Just do it a bit more and give me a great grandchild as soon as possible.”"
+          "text": "Leah’s face flushed when she heard her Grandpa James’ words."
         },
         {
           "id": 95,
-          "paragraph_id": 43,
-          "text": "Leah’s face flushed when she heard her Grandpa James’ words."
+          "paragraph_id": 42,
+          "text": "Matthew on the other hand gave his grandpa the “You got it Gramps” look which made the old man’s grin widen."
         },
         {
           "id": 96,
           "paragraph_id": 43,
-          "text": "Matthew on the other hand gave his grandpa the “You got it Gramps” look which made the old man’s grin widen."
+          "text": "Mordred also had a smile on his face as he looked at the pair of lovebirds."
         },
         {
           "id": 97,
-          "paragraph_id": 44,
-          "text": "Mordred also had a smile on his face as he looked at the pair of lovebirds."
+          "paragraph_id": 43,
+          "text": "Seeing his son holding Leah in a protective embrace reminded him of the days when he was still courting Anna to be his wife."
         },
         {
           "id": 98,
           "paragraph_id": 44,
-          "text": "Seeing his son holding Leah in a protective embrace reminded him of the days when he was still courting Anna to be his wife."
+          "text": "John just leaned against the dungeon wall, while Jekyll was flossing his teeth."
         },
         {
           "id": 99,
-          "paragraph_id": 45,
-          "text": "John just leaned against the dungeon wall, while Jekyll was flossing his teeth."
+          "paragraph_id": 44,
+          "text": "It seemed that he had eaten a lot of monsters along the way and the dentist felt that this was a good opportunity to do some maintenance."
         },
         {
           "id": 100,
           "paragraph_id": 45,
-          "text": "It seemed that he had eaten a lot of monsters along the way and the dentist felt that this was a good opportunity to do some maintenance."
-        },
-        {
-          "id": 101,
-          "paragraph_id": 46,
           "text": "“Are you here to save us, Grandpa James?” Leah asked."
         },
         {
-          "id": 102,
-          "paragraph_id": 46,
+          "id": 101,
+          "paragraph_id": 45,
           "text": "Her face was still beet red, but she wasn’t the type to shy away from people whom she recognized as family."
+        },
+        {
+          "id": 102,
+          "paragraph_id": 45,
+          "text": "She had long regarded the Ainsworth Family as her own family."
         },
         {
           "id": 103,
           "paragraph_id": 46,
-          "text": "She had long regarded the Ainsworth Family as her own family."
+          "text": "“That’s the plan,” James answered."
         },
         {
           "id": 104,
-          "paragraph_id": 47,
-          "text": "“That’s the plan,” James answered."
+          "paragraph_id": 46,
+          "text": "“However, the King has made an interesting decree and I think that it is worth it to work my old bone a little bit longer.”"
         },
         {
           "id": 105,
           "paragraph_id": 47,
-          "text": "“However, the King has made an interesting decree and I think that it is worth it to work my old bone a little bit longer.”"
+          "text": "“Gramps, don’t tell me...” Matthew looked at his Grandpa with excitement."
         },
         {
           "id": 106,
           "paragraph_id": 48,
-          "text": "“Gramps, don’t tell me...” Matthew looked at his Grandpa with excitement."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 49,
           "text": "James chuckled as he extended his hand to help the two teenagers to stand."
         },
         {
-          "id": 108,
-          "paragraph_id": 49,
+          "id": 107,
+          "paragraph_id": 48,
           "text": "“Do you want to tag along?"
+        },
+        {
+          "id": 108,
+          "paragraph_id": 48,
+          "text": "Me and the boys are planning to turn this dungeon upside down.”"
         },
         {
           "id": 109,
           "paragraph_id": 49,
-          "text": "Me and the boys are planning to turn this dungeon upside down.”"
+          "text": "Matthew and Leah exchanged a glance and smiled."
         },
         {
           "id": 110,
-          "paragraph_id": 50,
-          "text": "Matthew and Leah exchanged a glance and smiled."
+          "paragraph_id": 49,
+          "text": "They were quite curious about how James was planning to subjugate the dungeon with just the six of them."
         },
         {
           "id": 111,
           "paragraph_id": 50,
-          "text": "They were quite curious about how James was planning to subjugate the dungeon with just the six of them."
+          "text": "On that same day, the dungeon outbreak on the Duchy of Aberdeen ended which surprised the King and the army that was stationed outside the dungeon."
         },
         {
           "id": 112,
-          "paragraph_id": 51,
-          "text": "On that same day, the dungeon outbreak on the Duchy of Aberdeen ended which surprised the King and the army that was stationed outside the dungeon."
+          "paragraph_id": 50,
+          "text": "James swaggered out of the dungeon exit with a haughty look as Matthew, Leah, and the experts of Lont walked behind him."
         },
         {
           "id": 113,
           "paragraph_id": 51,
-          "text": "James swaggered out of the dungeon exit with a haughty look as Matthew, Leah, and the experts of Lont walked behind him."
+          "text": "“Tell the King that James of Lont had subjugated the dungeon,” James announced in a booming voice."
         },
         {
           "id": 114,
-          "paragraph_id": 52,
-          "text": "“Tell the King that James of Lont had subjugated the dungeon,” James announced in a booming voice."
+          "paragraph_id": 51,
+          "text": "“I will be waiting in anticipation for the rewards that he promised.”"
         },
         {
           "id": 115,
           "paragraph_id": 52,
-          "text": "“I will be waiting in anticipation for the rewards that he promised.”"
-        },
-        {
-          "id": 116,
-          "paragraph_id": 53,
           "text": "He left along with Matthew and Leah with the intention of heading towards the academy."
         },
         {
-          "id": 117,
-          "paragraph_id": 53,
+          "id": 116,
+          "paragraph_id": 52,
           "text": "They were planning to pick up William and bring him back to Lont for a few days to participate in Matthew’s and Leah’s wedding ceremony."
         }
       ],
-      "word_count": 1800
+      "word_count": 1786
     },
     {
       "chapter_index": 180,
@@ -19547,7 +19498,6 @@
         "“You can’t gauge how strong he is?” the Elf interrupted Kenneth’s report. “How can you not gauge his strength? Aren’t you always with him?”",
         "“Yes.” Kenneth nodded. “I am always around him. When I used the clan’s artifact to measure his strength, the results said that he was a Class D individual.”",
         "“Only Class D?” The Elf frowned. “Isn’t that a bit too weak? Then again, he’s a Half Elf. I guess this is to be expected of a filthy half breed.”",
-        "(A/N: Filthy Mudblood much?)",
         "Kenneth tasted something sour in his mouth when the Elf referred to William as a filthy half breed using a contemptuous tone. Even so, he took hold of his emotions and put on a calm expression.",
         "“So, why did you say that you couldn’t gauge his powers?”",
         "“It’s because the feats that he has accomplished don’t match his power level.”",
@@ -19649,360 +19599,355 @@
         {
           "id": 13,
           "paragraph_id": 4,
-          "text": "(A/N: Filthy Mudblood much?)"
+          "text": "Kenneth tasted something sour in his mouth when the Elf referred to William as a filthy half breed using a contemptuous tone."
         },
         {
           "id": 14,
-          "paragraph_id": 5,
-          "text": "Kenneth tasted something sour in his mouth when the Elf referred to William as a filthy half breed using a contemptuous tone."
+          "paragraph_id": 4,
+          "text": "Even so, he took hold of his emotions and put on a calm expression."
         },
         {
           "id": 15,
           "paragraph_id": 5,
-          "text": "Even so, he took hold of his emotions and put on a calm expression."
+          "text": "“So, why did you say that you couldn’t gauge his powers?”"
         },
         {
           "id": 16,
           "paragraph_id": 6,
-          "text": "“So, why did you say that you couldn’t gauge his powers?”"
+          "text": "“It’s because the feats that he has accomplished don’t match his power level.”"
         },
         {
           "id": 17,
           "paragraph_id": 7,
-          "text": "“It’s because the feats that he has accomplished don’t match his power level.”"
-        },
-        {
-          "id": 18,
-          "paragraph_id": 8,
           "text": "Kenneth started to narrate everything that he had gathered about William."
         },
         {
-          "id": 19,
-          "paragraph_id": 8,
+          "id": 18,
+          "paragraph_id": 7,
           "text": "From the battle against Psoglav until the end of the Dungeon Outbreak."
+        },
+        {
+          "id": 19,
+          "paragraph_id": 7,
+          "text": "The Elf listened patiently until Kenneth finished his tale."
         },
         {
           "id": 20,
           "paragraph_id": 8,
-          "text": "The Elf listened patiently until Kenneth finished his tale."
-        },
-        {
-          "id": 21,
-          "paragraph_id": 9,
           "text": "“Isn’t it very obvious?” the Elf asked in contempt."
         },
         {
-          "id": 22,
-          "paragraph_id": 9,
+          "id": 21,
+          "paragraph_id": 8,
           "text": "“Or must I spell it out to you so that you can understand?"
         },
         {
-          "id": 23,
-          "paragraph_id": 9,
+          "id": 22,
+          "paragraph_id": 8,
           "text": "The boy’s strength is only subpar and his real strength relies on that goat he calls Ella."
+        },
+        {
+          "id": 23,
+          "paragraph_id": 8,
+          "text": "If you leave the goat out of the equation, he is just an ordinary half breed that won’t be able to achieve anything, even if he trained for years.”"
         },
         {
           "id": 24,
           "paragraph_id": 9,
-          "text": "If you leave the goat out of the equation, he is just an ordinary half breed that won’t be able to achieve anything, even if he trained for years.”"
+          "text": "Kenneth wanted to refute the Elf’s words, but the latter didn’t give him an opportunity to do that."
         },
         {
           "id": 25,
           "paragraph_id": 10,
-          "text": "Kenneth wanted to refute the Elf’s words, but the latter didn’t give him an opportunity to do that."
-        },
-        {
-          "id": 26,
-          "paragraph_id": 11,
           "text": "“Based on your report I can tell that the hybrid only relies on external forces to increase his battle prowess."
         },
         {
-          "id": 27,
-          "paragraph_id": 11,
+          "id": 26,
+          "paragraph_id": 10,
           "text": "Such a person doesn’t amount to much when fighting alone."
         },
         {
-          "id": 28,
-          "paragraph_id": 11,
+          "id": 27,
+          "paragraph_id": 10,
           "text": "Continue your monitoring and report any changes that you see,” the Elf ordered."
+        },
+        {
+          "id": 28,
+          "paragraph_id": 10,
+          "text": "“Remember, your purpose for going to the Southern Continent is to see whether he is the one rumored about in the Prophecy."
         },
         {
           "id": 29,
           "paragraph_id": 11,
-          "text": "“Remember, your purpose for going to the Southern Continent is to see whether he is the one rumored about in the Prophecy."
-        },
-        {
-          "id": 30,
-          "paragraph_id": 12,
           "text": "“The clan has already dispatched others like you to different places in the Central Continent where rumors of strong individuals that had a hint of dark magic could be found."
         },
         {
-          "id": 31,
-          "paragraph_id": 12,
+          "id": 30,
+          "paragraph_id": 11,
           "text": "We need to find the Prince of Darkness and bring him to the Silvermoon Continent before he awakens his power."
         },
         {
-          "id": 32,
-          "paragraph_id": 12,
+          "id": 31,
+          "paragraph_id": 11,
           "text": "This is the order from the Patriarch of our Clan."
+        },
+        {
+          "id": 32,
+          "paragraph_id": 11,
+          "text": "It still annoys me that we have to waste our resources to monitor a shepherd in the Southern Continent.”"
         },
         {
           "id": 33,
           "paragraph_id": 12,
-          "text": "It still annoys me that we have to waste our resources to monitor a shepherd in the Southern Continent.”"
+          "text": "“He is not an ordinary Shepherd,” Kenneth said through gritted teeth."
         },
         {
           "id": 34,
-          "paragraph_id": 13,
-          "text": "“He is not an ordinary Shepherd,” Kenneth said through gritted teeth."
+          "paragraph_id": 12,
+          "text": "“Don’t forget whose son he is.”"
         },
         {
           "id": 35,
           "paragraph_id": 13,
-          "text": "“Don’t forget whose son he is.”"
-        },
-        {
-          "id": 36,
-          "paragraph_id": 14,
           "text": "The elf quieted down after hearing Kenneth’s words."
         },
         {
-          "id": 37,
-          "paragraph_id": 14,
+          "id": 36,
+          "paragraph_id": 13,
           "text": "He also knew William’s identity and that was the reason why Kenneth was sent to personally monitor him in the academy."
+        },
+        {
+          "id": 37,
+          "paragraph_id": 13,
+          "text": "The son of the Saintess and the Dungeon Conqueror was an existence that shouldn’t go unchecked."
         },
         {
           "id": 38,
           "paragraph_id": 14,
-          "text": "The son of the Saintess and the Dungeon Conqueror was an existence that shouldn’t go unchecked."
+          "text": "“Just carry out your mission and report as soon as you find anything worth reporting,” the Elf ordered before the transmission was cut."
         },
         {
           "id": 39,
           "paragraph_id": 15,
-          "text": "“Just carry out your mission and report as soon as you find anything worth reporting,” the Elf ordered before the transmission was cut."
+          "text": "“You still haven’t changed, Father.” Kenneth firmly gripped the mirror in his hand as he clenched his teeth in anger."
         },
         {
           "id": 40,
-          "paragraph_id": 16,
-          "text": "“You still haven’t changed, Father.” Kenneth firmly gripped the mirror in his hand as he clenched his teeth in anger."
+          "paragraph_id": 15,
+          "text": "When Kenneth heard that William was one of the candidates that was named by the Patriarch, he immediately volunteered to be the one to monitor him."
         },
         {
           "id": 41,
           "paragraph_id": 16,
-          "text": "When Kenneth heard that William was one of the candidates that was named by the Patriarch, he immediately volunteered to be the one to monitor him."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 17,
           "text": "He had long heard about the Half-Elf that was born from the union of the Saintess and the Hero of the Elves."
         },
         {
-          "id": 43,
-          "paragraph_id": 17,
+          "id": 42,
+          "paragraph_id": 16,
           "text": "Kenneth wanted to see what kind of person William was."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 16,
+          "text": "He didn’t care if William was the Prince of Darkness or not."
         },
         {
           "id": 44,
           "paragraph_id": 17,
-          "text": "He didn’t care if William was the Prince of Darkness or not."
+          "text": "What he cared about was Lady Arwen, his teacher, who resided in the Holy City of Nytfe Aethel."
         },
         {
           "id": 45,
-          "paragraph_id": 18,
-          "text": "What he cared about was Lady Arwen, his teacher, who resided in the Holy City of Nytfe Aethel."
+          "paragraph_id": 17,
+          "text": "Before he left the Silvermoon Continent, he promised her that he would watch over William and keep him safe."
         },
         {
           "id": 46,
           "paragraph_id": 18,
-          "text": "Before he left the Silvermoon Continent, he promised her that he would watch over William and keep him safe."
+          "text": "Arwen only giggled when she heard his promise."
         },
         {
           "id": 47,
-          "paragraph_id": 19,
-          "text": "Arwen only giggled when she heard his promise."
+          "paragraph_id": 18,
+          "text": "He still remembered her parting words on the day he was about to ride the ship bound to the Southern Continent."
         },
         {
           "id": 48,
           "paragraph_id": 19,
-          "text": "He still remembered her parting words on the day he was about to ride the ship bound to the Southern Continent."
-        },
-        {
-          "id": 49,
-          "paragraph_id": 20,
           "text": "“My son is a wolf in sheep’s clothing,” Arwen said with a smug look on her face."
         },
         {
-          "id": 50,
-          "paragraph_id": 20,
+          "id": 49,
+          "paragraph_id": 19,
           "text": "“Go and meet him."
         },
         {
-          "id": 51,
-          "paragraph_id": 20,
+          "id": 50,
+          "paragraph_id": 19,
           "text": "Perhaps, you will learn a thing or two by staying by his side."
         },
         {
-          "id": 52,
-          "paragraph_id": 20,
+          "id": 51,
+          "paragraph_id": 19,
           "text": "May the Blessings of the World Tree always shine upon you."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 19,
+          "text": "Take care of yourself and let’s meet again a few years from now.”"
         },
         {
           "id": 53,
           "paragraph_id": 20,
-          "text": "Take care of yourself and let’s meet again a few years from now.”"
+          "text": "Kenneth returned the round mirror to his storage ring as he remembered his teacher’s smiling face."
         },
         {
           "id": 54,
-          "paragraph_id": 21,
-          "text": "Kenneth returned the round mirror to his storage ring as he remembered his teacher’s smiling face."
+          "paragraph_id": 20,
+          "text": "Arwen and William had similar enough smiles that Kenneth sometimes found himself in a daze when the Half-Elf smiled at him."
         },
         {
           "id": 55,
           "paragraph_id": 21,
-          "text": "Arwen and William had similar enough smiles that Kenneth sometimes found himself in a daze when the Half-Elf smiled at him."
-        },
-        {
-          "id": 56,
-          "paragraph_id": 22,
           "text": "‘I hope that you’re not the Prince of Darkness, William.’ Kenneth sighed in his heart."
         },
         {
-          "id": 57,
-          "paragraph_id": 22,
+          "id": 56,
+          "paragraph_id": 21,
           "text": "‘Because if you are, all the elves in the Silvermoon continent will do everything in their power to catch you."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 21,
+          "text": "I don’t want to see that happen.’"
         },
         {
           "id": 58,
           "paragraph_id": 22,
-          "text": "I don’t want to see that happen.’"
+          "text": "Kenneth walked towards the window as he gazed upon the East."
         },
         {
           "id": 59,
-          "paragraph_id": 23,
-          "text": "Kenneth walked towards the window as he gazed upon the East."
+          "paragraph_id": 22,
+          "text": "Dark clouds loomed in the distance, as if to mark the coming of a storm."
         },
         {
           "id": 60,
           "paragraph_id": 23,
-          "text": "Dark clouds loomed in the distance, as if to mark the coming of a storm."
+          "text": "Oliver, who was hiding inside William’s shadow, was not aware that the letter he had sent back to his Master had been intercepted by the Rayleigh Clan who specialized in intelligence gathering and the making of prophecies."
         },
         {
           "id": 61,
           "paragraph_id": 24,
-          "text": "Oliver, who was hiding inside William’s shadow, was not aware that the letter he had sent back to his Master had been intercepted by the Rayleigh Clan who specialized in intelligence gathering and the making of prophecies."
+          "text": "It was for this very reason that William had become a priority candidate on their list."
         },
         {
           "id": 62,
-          "paragraph_id": 25,
-          "text": "It was for this very reason that William had become a priority candidate on their list."
+          "paragraph_id": 24,
+          "text": "If the Parrot Monkey had known that his arbitrary action years ago had set many things in motion in the Silvermoon Continent, he would definitely kick himself out of anger because of his stupidity."
         },
         {
           "id": 63,
           "paragraph_id": 25,
-          "text": "If the Parrot Monkey had known that his arbitrary action years ago had set many things in motion in the Silvermoon Continent, he would definitely kick himself out of anger because of his stupidity."
+          "text": "Not only did he endanger William’s life, he had also unintentionally broken the peaceful life that Celine had sought for during the years of her enslavement."
         },
         {
           "id": 64,
           "paragraph_id": 26,
-          "text": "Not only did he endanger William’s life, he had also unintentionally broken the peaceful life that Celine had sought for during the years of her enslavement."
+          "text": "After William got the instructor’s permission to take a few days leave from the academy, he hurriedly returned to his dormitory room only to find Kenneth staring outside the window."
         },
         {
           "id": 65,
           "paragraph_id": 27,
-          "text": "After William got the instructor’s permission to take a few days leave from the academy, he hurriedly returned to his dormitory room only to find Kenneth staring outside the window."
+          "text": "“I am about to return to my hometown for a few days to participate in a wedding ceremony."
         },
         {
           "id": 66,
-          "paragraph_id": 28,
-          "text": "“I am about to return to my hometown for a few days to participate in a wedding ceremony."
+          "paragraph_id": 27,
+          "text": "Would you like to come with me?” William asked."
         },
         {
           "id": 67,
           "paragraph_id": 28,
-          "text": "Would you like to come with me?” William asked."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 29,
           "text": "“No.” Kenneth shook his head."
         },
         {
-          "id": 69,
-          "paragraph_id": 29,
+          "id": 68,
+          "paragraph_id": 28,
           "text": "“I will just wait for your return."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 28,
+          "text": "There are still many things I need to do because our ‘Sir William’ doesn’t want to do his duties.”"
         },
         {
           "id": 70,
           "paragraph_id": 29,
-          "text": "There are still many things I need to do because our ‘Sir William’ doesn’t want to do his duties.”"
-        },
-        {
-          "id": 71,
-          "paragraph_id": 30,
           "text": "William coughed lightly because he was guilty as charged."
         },
         {
-          "id": 72,
-          "paragraph_id": 30,
+          "id": 71,
+          "paragraph_id": 29,
           "text": "“Well then, please, do your best Mr."
         },
         {
-          "id": 73,
-          "paragraph_id": 30,
+          "id": 72,
+          "paragraph_id": 29,
           "text": "Secretary."
         },
         {
-          "id": 74,
-          "paragraph_id": 30,
+          "id": 73,
+          "paragraph_id": 29,
           "text": "Your Sir William is very unreliable."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 29,
+          "text": "Go ahead and look for suitable candidates that can join our ranks.”"
         },
         {
           "id": 75,
           "paragraph_id": 30,
-          "text": "Go ahead and look for suitable candidates that can join our ranks.”"
+          "text": "Kenneth gave him a side-long glance and snorted."
         },
         {
           "id": 76,
-          "paragraph_id": 31,
-          "text": "Kenneth gave him a side-long glance and snorted."
+          "paragraph_id": 30,
+          "text": "“Go and return as soon as you can.”"
         },
         {
           "id": 77,
           "paragraph_id": 31,
-          "text": "“Go and return as soon as you can.”"
+          "text": "“Okay.” William smirked and patted Kenneth’s shoulder before leaving the room."
         },
         {
           "id": 78,
           "paragraph_id": 32,
-          "text": "“Okay.” William smirked and patted Kenneth’s shoulder before leaving the room."
+          "text": "In truth, Kenneth wanted to go with him, but he couldn’t afford to meet Celine at this point in time."
         },
         {
           "id": 79,
-          "paragraph_id": 33,
-          "text": "In truth, Kenneth wanted to go with him, but he couldn’t afford to meet Celine at this point in time."
+          "paragraph_id": 32,
+          "text": "The elves of the Silvermoon continent had been keeping a close eye on two important individuals and they were none other than Celeste and Celine."
         },
         {
           "id": 80,
           "paragraph_id": 33,
-          "text": "The elves of the Silvermoon continent had been keeping a close eye on two important individuals and they were none other than Celeste and Celine."
+          "text": "The twins that were mentioned in the grand prophecy of the Silvermoon Continent."
         },
         {
           "id": 81,
-          "paragraph_id": 34,
-          "text": "The twins that were mentioned in the grand prophecy of the Silvermoon Continent."
+          "paragraph_id": 33,
+          "text": "Although Celeste was most likely the bride stated in the prophecy, none of the elves dared to make their move on her in the small chance that they were wrong in their assumption."
         },
         {
           "id": 82,
           "paragraph_id": 34,
-          "text": "Although Celeste was most likely the bride stated in the prophecy, none of the elves dared to make their move on her in the small chance that they were wrong in their assumption."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 35,
           "text": "Because if they made a mistake, there was a chance that their entire race would be wiped out from the face of the world."
         }
       ],
-      "word_count": 1234
+      "word_count": 1230
     },
     {
       "chapter_index": 182,
@@ -21948,7 +21893,6 @@
         "After the Beast Tide, several refugees sought protection from the only town that had survived in the Western Region. Because of this, the population of the two towns grew and had even reached half of their original population.",
         "Naturally, as subjects of the Overlord of Lont, the people there also decided to join the festivities in order to show their support to their current steward. However, just as everyone was completing the finishing touches, a messenger from the King arrived in Lont and told Mordred that the king would bestow a peerage upon James.",
         "This noble title was the reward that the king had decided to bestow on James for his participation in the Beast Tide invasion at Windkeep Citadel and his help in subjugating the Dungeon Outbreak in the Duchy of Aberdeen. However, since James had passed his rule on his son, Mordred, the peerage naturally fell into his hands.",
-        "(A/N: The Baronet of Lont is Mordred since James had retired from his position.)",
         "Naturally, Mordred would need to go to the capital in order to formalize the bestowment of his peerage. However, he was not in a hurry. He would accompany William, Matthew, Leah, and the rest, back to the capital and just meet the king afterwards.",
         "The Western Region was still in a state of recovery. Even though some of the lands had been claimed, there were still a few without any owners. The king needed some trusted people to oversee these lands. He wanted these lands to be cultivated in order to help the kingdom recover financially through trades of goods and resources.",
         "The towns of Lont, Fushia, and Xynnar, combined, were big enough for someone with the title of Viscount to manage. This was also a major factor that affected the King’s decision. If he were to make Mordred a Marquesse then he would definitely encounter staunt opposition from the nobles of the kingdom.",
@@ -22071,560 +22015,555 @@
         {
           "id": 12,
           "paragraph_id": 5,
-          "text": "(A/N: The Baronet of Lont is Mordred since James had retired from his position.)"
-        },
-        {
-          "id": 13,
-          "paragraph_id": 6,
           "text": "Naturally, Mordred would need to go to the capital in order to formalize the bestowment of his peerage."
         },
         {
-          "id": 14,
-          "paragraph_id": 6,
+          "id": 13,
+          "paragraph_id": 5,
           "text": "However, he was not in a hurry."
+        },
+        {
+          "id": 14,
+          "paragraph_id": 5,
+          "text": "He would accompany William, Matthew, Leah, and the rest, back to the capital and just meet the king afterwards."
         },
         {
           "id": 15,
           "paragraph_id": 6,
-          "text": "He would accompany William, Matthew, Leah, and the rest, back to the capital and just meet the king afterwards."
-        },
-        {
-          "id": 16,
-          "paragraph_id": 7,
           "text": "The Western Region was still in a state of recovery."
         },
         {
-          "id": 17,
-          "paragraph_id": 7,
+          "id": 16,
+          "paragraph_id": 6,
           "text": "Even though some of the lands had been claimed, there were still a few without any owners."
         },
         {
-          "id": 18,
-          "paragraph_id": 7,
+          "id": 17,
+          "paragraph_id": 6,
           "text": "The king needed some trusted people to oversee these lands."
+        },
+        {
+          "id": 18,
+          "paragraph_id": 6,
+          "text": "He wanted these lands to be cultivated in order to help the kingdom recover financially through trades of goods and resources."
         },
         {
           "id": 19,
           "paragraph_id": 7,
-          "text": "He wanted these lands to be cultivated in order to help the kingdom recover financially through trades of goods and resources."
-        },
-        {
-          "id": 20,
-          "paragraph_id": 8,
           "text": "The towns of Lont, Fushia, and Xynnar, combined, were big enough for someone with the title of Viscount to manage."
         },
         {
-          "id": 21,
-          "paragraph_id": 8,
+          "id": 20,
+          "paragraph_id": 7,
           "text": "This was also a major factor that affected the King’s decision."
+        },
+        {
+          "id": 21,
+          "paragraph_id": 7,
+          "text": "If he were to make Mordred a Marquesse then he would definitely encounter staunt opposition from the nobles of the kingdom."
         },
         {
           "id": 22,
           "paragraph_id": 8,
-          "text": "If he were to make Mordred a Marquesse then he would definitely encounter staunt opposition from the nobles of the kingdom."
+          "text": "His original plan was to make Mordred an Earl, but after giving it more thought, he decided to play it safe and just settled for Viscount."
         },
         {
           "id": 23,
           "paragraph_id": 9,
-          "text": "His original plan was to make Mordred an Earl, but after giving it more thought, he decided to play it safe and just settled for Viscount."
-        },
-        {
-          "id": 24,
-          "paragraph_id": 10,
           "text": "When this news arrived in Lont, William gave his gramps two thumbs up in his heart."
         },
         {
-          "id": 25,
-          "paragraph_id": 10,
+          "id": 24,
+          "paragraph_id": 9,
           "text": "He was amazed at how James was able to secure benefits while doing as he pleased."
+        },
+        {
+          "id": 25,
+          "paragraph_id": 9,
+          "text": "Naturally, the townspeople became ecstatic with the news because Mordred’s inherited rank was only that of a baronet."
         },
         {
           "id": 26,
           "paragraph_id": 10,
-          "text": "Naturally, the townspeople became ecstatic with the news because Mordred’s inherited rank was only that of a baronet."
+          "text": "Leah didn’t want to have a grand wedding, but her future husband’s position was a bit special."
         },
         {
           "id": 27,
-          "paragraph_id": 11,
-          "text": "Leah didn’t want to have a grand wedding, but her future husband’s position was a bit special."
+          "paragraph_id": 10,
+          "text": "Because of this, she didn’t have a choice and allowed herself to be dressed up by an overenthusiastic Anna and Helen."
         },
         {
           "id": 28,
           "paragraph_id": 11,
-          "text": "Because of this, she didn’t have a choice and allowed herself to be dressed up by an overenthusiastic Anna and Helen."
+          "text": "“How envious,” Wendy said as she looked at the white dress that Leah would be wearing for her wedding."
         },
         {
           "id": 29,
           "paragraph_id": 12,
-          "text": "“How envious,” Wendy said as she looked at the white dress that Leah would be wearing for her wedding."
+          "text": "“Why are you envious?” Spencer asked."
         },
         {
           "id": 30,
-          "paragraph_id": 13,
-          "text": "“Why are you envious?” Spencer asked."
+          "paragraph_id": 12,
+          "text": "“When you get married, your wedding will be grander than this.”"
         },
         {
           "id": 31,
           "paragraph_id": 13,
-          "text": "“When you get married, your wedding will be grander than this.”"
+          "text": "Wendy gave William a side-long glance, while blushing."
         },
         {
           "id": 32,
-          "paragraph_id": 14,
-          "text": "Wendy gave William a side-long glance, while blushing."
+          "paragraph_id": 13,
+          "text": "This gave Spencer a headache because his sister’s feelings for William remained strong even though the latter asked her to start their relationship as friends."
         },
         {
           "id": 33,
           "paragraph_id": 14,
-          "text": "This gave Spencer a headache because his sister’s feelings for William remained strong even though the latter asked her to start their relationship as friends."
-        },
-        {
-          "id": 34,
-          "paragraph_id": 15,
           "text": "William, on the other hand, was feeling at peace."
         },
         {
-          "id": 35,
-          "paragraph_id": 15,
+          "id": 34,
+          "paragraph_id": 14,
           "text": "After he had his talk with Celine, the guilt in his heart had been cleared up."
+        },
+        {
+          "id": 35,
+          "paragraph_id": 14,
+          "text": "He had also considered Wendy’s feelings for him, and had a private talk with her before they left Celine’s house."
         },
         {
           "id": 36,
           "paragraph_id": 15,
-          "text": "He had also considered Wendy’s feelings for him, and had a private talk with her before they left Celine’s house."
-        },
-        {
-          "id": 37,
-          "paragraph_id": 16,
           "text": "“If your feelings don’t change after my duel with Rebecca then we can discuss taking the next step in our relationship,” William said with a serious expression."
         },
         {
-          "id": 38,
-          "paragraph_id": 16,
+          "id": 37,
+          "paragraph_id": 15,
           "text": "“Until then, it would be best if we get to know each other first."
         },
         {
-          "id": 39,
-          "paragraph_id": 16,
+          "id": 38,
+          "paragraph_id": 15,
           "text": "Also, bear in mind that I might have multiple wives in the future."
+        },
+        {
+          "id": 39,
+          "paragraph_id": 15,
+          "text": "If you are fine with having a scumbag like me as your boyfriend then I will seriously consider making you my girlfriend.”"
         },
         {
           "id": 40,
           "paragraph_id": 16,
-          "text": "If you are fine with having a scumbag like me as your boyfriend then I will seriously consider making you my girlfriend.”"
+          "text": "William had made it clear to her that he was not a gentleman who would only have one love in his life."
         },
         {
           "id": 41,
-          "paragraph_id": 17,
-          "text": "William had made it clear to her that he was not a gentleman who would only have one love in his life."
+          "paragraph_id": 16,
+          "text": "This way, Wendy would know exactly what she could expect if she decided to have a serious relationship with William."
         },
         {
           "id": 42,
           "paragraph_id": 17,
-          "text": "This way, Wendy would know exactly what she could expect if she decided to have a serious relationship with William."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 18,
           "text": "Instead of answering William."
         },
         {
-          "id": 44,
-          "paragraph_id": 18,
+          "id": 43,
+          "paragraph_id": 17,
           "text": "She just nodded her head."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 17,
+          "text": "Wendy also wanted to know if the feelings she had for William were real, or if it was just the result of having been saved by him while inside the Goblin Crypt."
         },
         {
           "id": 45,
           "paragraph_id": 18,
-          "text": "Wendy also wanted to know if the feelings she had for William were real, or if it was just the result of having been saved by him while inside the Goblin Crypt."
+          "text": "“Spencer is right, I’m sure that the man that Wendy is going to marry is a very lucky guy,” William commented with a smile."
         },
         {
           "id": 46,
           "paragraph_id": 19,
-          "text": "“Spencer is right, I’m sure that the man that Wendy is going to marry is a very lucky guy,” William commented with a smile."
+          "text": "Wendy blushed and averted her gaze, which made Spencer click his tongue in irritation."
         },
         {
           "id": 47,
-          "paragraph_id": 20,
-          "text": "Wendy blushed and averted her gaze, which made Spencer click his tongue in irritation."
+          "paragraph_id": 19,
+          "text": "He was really dissatisfied with Wendy’s current infatuation with William."
         },
         {
           "id": 48,
           "paragraph_id": 20,
-          "text": "He was really dissatisfied with Wendy’s current infatuation with William."
+          "text": "The next day..."
         },
         {
           "id": 49,
           "paragraph_id": 21,
-          "text": "The next day..."
+          "text": "Hundreds of people stopped their daily routines and lined up in the center of the town of Lont."
         },
         {
           "id": 50,
-          "paragraph_id": 22,
-          "text": "Hundreds of people stopped their daily routines and lined up in the center of the town of Lont."
+          "paragraph_id": 21,
+          "text": "Matthew was standing on a raised platform along with Owen as he stared at the Northern Gate of Lont."
         },
         {
           "id": 51,
           "paragraph_id": 22,
-          "text": "Matthew was standing on a raised platform along with Owen as he stared at the Northern Gate of Lont."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 23,
           "text": "William and Eve rode Ella’s back as the little girl dug her hands inside the basket in front of her that was filled with flowers."
         },
         {
-          "id": 53,
-          "paragraph_id": 23,
+          "id": 52,
+          "paragraph_id": 22,
           "text": "She threw them on the ground while giggling."
+        },
+        {
+          "id": 53,
+          "paragraph_id": 22,
+          "text": "Which made the scene quite endearing."
         },
         {
           "id": 54,
           "paragraph_id": 23,
-          "text": "Which made the scene quite endearing."
+          "text": "Right behind Ella, several teenage beauties from Lont walked while throwing flower petals as well."
         },
         {
           "id": 55,
-          "paragraph_id": 24,
-          "text": "Right behind Ella, several teenage beauties from Lont walked while throwing flower petals as well."
+          "paragraph_id": 23,
+          "text": "Not far from them, a beautiful young lady wearing a white dress walked while carrying a bouquet."
         },
         {
           "id": 56,
           "paragraph_id": 24,
-          "text": "Not far from them, a beautiful young lady wearing a white dress walked while carrying a bouquet."
+          "text": "Her midnight blue hair was tied up in a princess-style braid as she walked elegantly to where her man was waiting for her."
         },
         {
           "id": 57,
-          "paragraph_id": 25,
-          "text": "Her midnight blue hair was tied up in a princess-style braid as she walked elegantly to where her man was waiting for her."
+          "paragraph_id": 24,
+          "text": "Although her face was covered by a veil, everyone knew how beautiful she was."
         },
         {
           "id": 58,
           "paragraph_id": 25,
-          "text": "Although her face was covered by a veil, everyone knew how beautiful she was."
-        },
-        {
-          "id": 59,
-          "paragraph_id": 26,
           "text": "When she finally reached the platform, Matthew extended his hand to hold her in his embrace."
         },
         {
-          "id": 60,
-          "paragraph_id": 26,
+          "id": 59,
+          "paragraph_id": 25,
           "text": "Owen, the Life Magus of Lont, was the Master of Ceremonies."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 25,
+          "text": "He raised his hand in order to quiet the crowd, so he could start the marriage ceremony."
         },
         {
           "id": 61,
           "paragraph_id": 26,
-          "text": "He raised his hand in order to quiet the crowd, so he could start the marriage ceremony."
+          "text": "“We are gathered here today to witness the union of Leah Terrel, and Matthew Von Ainsworth,” Owen said."
         },
         {
           "id": 62,
-          "paragraph_id": 27,
-          "text": "“We are gathered here today to witness the union of Leah Terrel, and Matthew Von Ainsworth,” Owen said."
+          "paragraph_id": 26,
+          "text": "“With the power vested in me by My Sacred Order, I ask you, Matthew Von Ainsworth, do you pledge to honor Leah Terrel with your life, to love, and cherish, today and every day, for the rest of your life?"
         },
         {
           "id": 63,
           "paragraph_id": 27,
-          "text": "“With the power vested in me by My Sacred Order, I ask you, Matthew Von Ainsworth, do you pledge to honor Leah Terrel with your life, to love, and cherish, today and every day, for the rest of your life?"
+          "text": "“I do,” Matthew answered."
         },
         {
           "id": 64,
           "paragraph_id": 28,
-          "text": "“I do,” Matthew answered."
+          "text": "“I ask you, Leah Terrel, do you pledge to honor Matthew Von Ainsworth with your life, to love, and cherish, today and everyday, for the rest of your life?”"
         },
         {
           "id": 65,
           "paragraph_id": 29,
-          "text": "“I ask you, Leah Terrel, do you pledge to honor Matthew Von Ainsworth with your life, to love, and cherish, today and everyday, for the rest of your life?”"
+          "text": "“I do,” Leah answered."
         },
         {
           "id": 66,
           "paragraph_id": 30,
-          "text": "“I do,” Leah answered."
+          "text": "Owen raised the ceremonial staff in his hand."
         },
         {
           "id": 67,
           "paragraph_id": 31,
-          "text": "Owen raised the ceremonial staff in his hand."
+          "text": "“Bow to the Heavens and Earth,” Owen ordered."
         },
         {
           "id": 68,
           "paragraph_id": 32,
-          "text": "“Bow to the Heavens and Earth,” Owen ordered."
+          "text": "Leah and Matthew bowed towards the North."
         },
         {
           "id": 69,
           "paragraph_id": 33,
-          "text": "Leah and Matthew bowed towards the North."
+          "text": "“Bow to honor the Gods,” Owen ordered."
         },
         {
           "id": 70,
           "paragraph_id": 34,
-          "text": "“Bow to honor the Gods,” Owen ordered."
+          "text": "Leah and Matthew bowed towards the South."
         },
         {
           "id": 71,
           "paragraph_id": 35,
-          "text": "Leah and Matthew bowed towards the South."
+          "text": "“Lastly, bow towards each other,” Owen ordered."
         },
         {
           "id": 72,
           "paragraph_id": 36,
-          "text": "“Lastly, bow towards each other,” Owen ordered."
+          "text": "Matthew and Leah bowed to each other."
         },
         {
           "id": 73,
           "paragraph_id": 37,
-          "text": "Matthew and Leah bowed to each other."
+          "text": "“With the Gods and the citizens of Lont as my witness, I now pronounce you husband and wife,” Owen declared with a smile."
         },
         {
           "id": 74,
-          "paragraph_id": 38,
-          "text": "“With the Gods and the citizens of Lont as my witness, I now pronounce you husband and wife,” Owen declared with a smile."
+          "paragraph_id": 37,
+          "text": "“You may now kiss the bride.”"
         },
         {
           "id": 75,
           "paragraph_id": 38,
-          "text": "“You may now kiss the bride.”"
+          "text": "Matthew gently parted Leah’s veil and gave her a long and passionate kiss."
         },
         {
           "id": 76,
           "paragraph_id": 39,
-          "text": "Matthew gently parted Leah’s veil and gave her a long and passionate kiss."
+          "text": "A round of cheering and whistling reverberated through the town as the citizens showered their future lords with their blessings."
         },
         {
           "id": 77,
           "paragraph_id": 40,
-          "text": "A round of cheering and whistling reverberated through the town as the citizens showered their future lords with their blessings."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 41,
           "text": "James laughed out loud while patting Mordred’s shoulder."
         },
         {
-          "id": 79,
-          "paragraph_id": 41,
+          "id": 78,
+          "paragraph_id": 40,
           "text": "Mordred held Anna’s hand as the latter leaned her head on her husband’s shoulder."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 40,
+          "text": "Tears streamed down from her eyes, not out of sadness, but of happiness, for her eldest son had finally found the love of his life, like she did, many years ago."
         },
         {
           "id": 80,
           "paragraph_id": 41,
-          "text": "Tears streamed down from her eyes, not out of sadness, but of happiness, for her eldest son had finally found the love of his life, like she did, many years ago."
+          "text": "William watched this scene with a big smile on his face as he held his adorable cousin in a protective embrace."
         },
         {
           "id": 81,
           "paragraph_id": 42,
-          "text": "William watched this scene with a big smile on his face as he held his adorable cousin in a protective embrace."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 43,
           "text": "Not far from him, Celine, stood wearing a beautiful dress and veil."
         },
         {
-          "id": 83,
-          "paragraph_id": 43,
+          "id": 82,
+          "paragraph_id": 42,
           "text": "She usually doesn’t join such festivities, but this time she made an exception."
+        },
+        {
+          "id": 83,
+          "paragraph_id": 42,
+          "text": "James and the people of Lont had been good to her, so she deemed that it was necessary to participate in Matthew’s wedding ceremony."
         },
         {
           "id": 84,
           "paragraph_id": 43,
-          "text": "James and the people of Lont had been good to her, so she deemed that it was necessary to participate in Matthew’s wedding ceremony."
+          "text": "Wendy, Spencer, and Ian, joined the others as they applauded the newlyweds."
         },
         {
           "id": 85,
           "paragraph_id": 44,
-          "text": "Wendy, Spencer, and Ian, joined the others as they applauded the newlyweds."
+          "text": "Everything was going smoothly when suddenly, dark clouds covered the sky, and thunder roared in the heavens."
         },
         {
           "id": 86,
-          "paragraph_id": 45,
-          "text": "Everything was going smoothly when suddenly, dark clouds covered the sky, and thunder roared in the heavens."
+          "paragraph_id": 44,
+          "text": "A strong gust of wind blew over the town of Lont which immediately put a stop to the cheering."
         },
         {
           "id": 87,
           "paragraph_id": 45,
-          "text": "A strong gust of wind blew over the town of Lont which immediately put a stop to the cheering."
+          "text": "Everyone looked up in the sky and saw three giant black bats with blood-red eyes staring at them as they flapped their wings."
         },
         {
           "id": 88,
-          "paragraph_id": 46,
-          "text": "Everyone looked up in the sky and saw three giant black bats with blood-red eyes staring at them as they flapped their wings."
+          "paragraph_id": 45,
+          "text": "Standing on top the bats were three people wearing hooded robes."
         },
         {
           "id": 89,
           "paragraph_id": 46,
-          "text": "Standing on top the bats were three people wearing hooded robes."
+          "text": "Just one glance and one could tell that they didn’t come to give well wishes to the bride and groom."
         },
         {
           "id": 90,
           "paragraph_id": 47,
-          "text": "Just one glance and one could tell that they didn’t come to give well wishes to the bride and groom."
+          "text": "“A wedding?"
         },
         {
           "id": 91,
-          "paragraph_id": 48,
-          "text": "“A wedding?"
+          "paragraph_id": 47,
+          "text": "Looks like we came at the wrong time,” one of the hooded people, who was standing on the giant bat on the right, said with a cheerful voice."
         },
         {
           "id": 92,
           "paragraph_id": 48,
-          "text": "Looks like we came at the wrong time,” one of the hooded people, who was standing on the giant bat on the right, said with a cheerful voice."
-        },
-        {
-          "id": 93,
-          "paragraph_id": 49,
           "text": "“Actually, we came at the right time,” the man in the middle chuckled."
         },
         {
-          "id": 94,
-          "paragraph_id": 49,
+          "id": 93,
+          "paragraph_id": 48,
           "text": "“I like weddings."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 48,
+          "text": "It is the perfect opportunity to snatch the bride and ravage her in front of her groom.”"
         },
         {
           "id": 95,
           "paragraph_id": 49,
-          "text": "It is the perfect opportunity to snatch the bride and ravage her in front of her groom.”"
+          "text": "The hooded person standing on the left raised his hand and a dark orb of magic manifested above him."
         },
         {
           "id": 96,
           "paragraph_id": 50,
-          "text": "The hooded person standing on the left raised his hand and a dark orb of magic manifested above him."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 51,
           "text": "“We will all give you two choices,” the hooded person shouted."
         },
         {
-          "id": 98,
-          "paragraph_id": 51,
+          "id": 97,
+          "paragraph_id": 50,
           "text": "“The first is to submit to us and follow our bidding."
         },
         {
-          "id": 99,
-          "paragraph_id": 51,
+          "id": 98,
+          "paragraph_id": 50,
           "text": "The other?"
         },
         {
-          "id": 100,
-          "paragraph_id": 51,
+          "id": 99,
+          "paragraph_id": 50,
           "text": "Die without a full corpse!"
+        },
+        {
+          "id": 100,
+          "paragraph_id": 50,
+          "text": "Now choose!”"
         },
         {
           "id": 101,
           "paragraph_id": 51,
-          "text": "Now choose!”"
+          "text": "Matthew stepped in front of Leah in order to block the lascivious gaze of the hooded man looking at his wife."
         },
         {
           "id": 102,
           "paragraph_id": 52,
-          "text": "Matthew stepped in front of Leah in order to block the lascivious gaze of the hooded man looking at his wife."
-        },
-        {
-          "id": 103,
-          "paragraph_id": 53,
           "text": "Owen stepped forward and positioned himself in front of Matthew."
         },
         {
-          "id": 104,
-          "paragraph_id": 53,
+          "id": 103,
+          "paragraph_id": 52,
           "text": "Deep down, the old man was sneering."
         },
         {
-          "id": 105,
-          "paragraph_id": 53,
+          "id": 104,
+          "paragraph_id": 52,
           "text": "He wondered if the three idiots’ heads had been kicked in by donkeys."
         },
         {
-          "id": 106,
-          "paragraph_id": 53,
+          "id": 105,
+          "paragraph_id": 52,
           "text": "Fortunately, the wedding had just ended."
+        },
+        {
+          "id": 106,
+          "paragraph_id": 52,
+          "text": "If they came while they were in the middle of the ceremony, the three bastards would have definitely suffered a fate worse than death."
         },
         {
           "id": 107,
           "paragraph_id": 53,
-          "text": "If they came while they were in the middle of the ceremony, the three bastards would have definitely suffered a fate worse than death."
-        },
-        {
-          "id": 108,
-          "paragraph_id": 54,
           "text": "Celine looked at the three intruders in disdain."
         },
         {
-          "id": 109,
-          "paragraph_id": 54,
+          "id": 108,
+          "paragraph_id": 53,
           "text": "If they had attacked any of the other towns in the Western Region then their chances of succeeding were very high."
+        },
+        {
+          "id": 109,
+          "paragraph_id": 53,
+          "text": "The only problem was that they were only a bunch of small fries that had unknowingly stepped inside a Lion’s Den."
         },
         {
           "id": 110,
           "paragraph_id": 54,
-          "text": "The only problem was that they were only a bunch of small fries that had unknowingly stepped inside a Lion’s Den."
+          "text": "“Father, let me handle them,” Mordred said with a devilish smile."
         },
         {
           "id": 111,
           "paragraph_id": 55,
-          "text": "“Father, let me handle them,” Mordred said with a devilish smile."
-        },
-        {
-          "id": 112,
-          "paragraph_id": 56,
           "text": "“Hahaha, there are three of them,” James replied."
         },
         {
-          "id": 113,
-          "paragraph_id": 56,
+          "id": 112,
+          "paragraph_id": 55,
           "text": "“You can handle one."
+        },
+        {
+          "id": 113,
+          "paragraph_id": 55,
+          "text": "I’ll handle two.”"
         },
         {
           "id": 114,
           "paragraph_id": 56,
-          "text": "I’ll handle two.”"
+          "text": "William, who was seated on Ella’s back, had the same devilish smile that was on Mordred’s and James’ faces."
         },
         {
           "id": 115,
-          "paragraph_id": 57,
-          "text": "William, who was seated on Ella’s back, had the same devilish smile that was on Mordred’s and James’ faces."
+          "paragraph_id": 56,
+          "text": "The thunder and lightning in the heavens rumbled and made William feel that it was a good opportunity to vent out some frustrations."
         },
         {
           "id": 116,
           "paragraph_id": 57,
-          "text": "The thunder and lightning in the heavens rumbled and made William feel that it was a good opportunity to vent out some frustrations."
+          "text": "‘System, change my Job Class to Prince of Thunder.’"
         },
         {
           "id": 117,
           "paragraph_id": 58,
-          "text": "‘System, change my Job Class to Prince of Thunder.’"
+          "text": "[ Job class has been successfully changed! ]"
         },
         {
           "id": 118,
           "paragraph_id": 59,
-          "text": "[ Job class has been successfully changed! ]"
+          "text": "[ I am looking forward to seeing some fireworks! ]"
         },
         {
           "id": 119,
           "paragraph_id": 60,
-          "text": "[ I am looking forward to seeing some fireworks! ]"
+          "text": "William’s smile grew wider when he felt the power of lightning within the dark clouds answer his call."
         },
         {
           "id": 120,
-          "paragraph_id": 61,
-          "text": "William’s smile grew wider when he felt the power of lightning within the dark clouds answer his call."
+          "paragraph_id": 60,
+          "text": "He had long awaited the day when he could test the power of the prestige class, but his lack of mana, and encounters, prevented him from doing so."
         },
         {
           "id": 121,
           "paragraph_id": 61,
-          "text": "He had long awaited the day when he could test the power of the prestige class, but his lack of mana, and encounters, prevented him from doing so."
-        },
-        {
-          "id": 122,
-          "paragraph_id": 62,
           "text": "With such a golden opportunity in front of him, William was dying to send the three morons to kingdom come."
         }
       ],
-      "word_count": 1867
+      "word_count": 1853
     },
     {
       "chapter_index": 186,
@@ -23373,7 +23312,6 @@
       "paragraphs": [
         "“Start talking,” James said as he looked at the three people who were acting in an arrogant manner when they first arrived.",
         "Their hair was a mess, their clothes in tatters, and burn marks could be seen on their skin. Although they survived William’s A.O.E attack, they still suffered due to its ferocity.",
-        "(A/N: Area of Effect - AOE.)",
         "“You fools! You will all regret this!” the skinny man with brown hair and eyes glared at James and the men behind him. “You think this little town can handle the wrath of our organization? If you let us go now, we can still turn a blind eye to this incident!”",
         "“He is right,” the man with an eyepatch looked at James with a serious expression. “It will be folly to antagonize our organization. Our members are not something a bunch of country bumpkins could trifle with!”",
         "Only the dark mage looked at James with a frown. As a wielder of magic, he was very sensitive to strong presences and right now... he was in front of not only one, but several strong people.",
@@ -23458,650 +23396,645 @@
         {
           "id": 3,
           "paragraph_id": 2,
-          "text": "(A/N: Area of Effect - AOE.)"
-        },
-        {
-          "id": 4,
-          "paragraph_id": 3,
           "text": "“You fools!"
         },
         {
-          "id": 5,
-          "paragraph_id": 3,
+          "id": 4,
+          "paragraph_id": 2,
           "text": "You will all regret this!” the skinny man with brown hair and eyes glared at James and the men behind him."
         },
         {
-          "id": 6,
-          "paragraph_id": 3,
+          "id": 5,
+          "paragraph_id": 2,
           "text": "“You think this little town can handle the wrath of our organization?"
+        },
+        {
+          "id": 6,
+          "paragraph_id": 2,
+          "text": "If you let us go now, we can still turn a blind eye to this incident!”"
         },
         {
           "id": 7,
           "paragraph_id": 3,
-          "text": "If you let us go now, we can still turn a blind eye to this incident!”"
-        },
-        {
-          "id": 8,
-          "paragraph_id": 4,
           "text": "“He is right,” the man with an eyepatch looked at James with a serious expression."
         },
         {
-          "id": 9,
-          "paragraph_id": 4,
+          "id": 8,
+          "paragraph_id": 3,
           "text": "“It will be folly to antagonize our organization."
+        },
+        {
+          "id": 9,
+          "paragraph_id": 3,
+          "text": "Our members are not something a bunch of country bumpkins could trifle with!”"
         },
         {
           "id": 10,
           "paragraph_id": 4,
-          "text": "Our members are not something a bunch of country bumpkins could trifle with!”"
+          "text": "Only the dark mage looked at James with a frown."
         },
         {
           "id": 11,
-          "paragraph_id": 5,
-          "text": "Only the dark mage looked at James with a frown."
+          "paragraph_id": 4,
+          "text": "As a wielder of magic, he was very sensitive to strong presences and right now... he was in front of not only one, but several strong people."
         },
         {
           "id": 12,
           "paragraph_id": 5,
-          "text": "As a wielder of magic, he was very sensitive to strong presences and right now... he was in front of not only one, but several strong people."
+          "text": "People that were far stronger than him."
         },
         {
           "id": 13,
           "paragraph_id": 6,
-          "text": "People that were far stronger than him."
-        },
-        {
-          "id": 14,
-          "paragraph_id": 7,
           "text": "“I see, so you don’t want to talk,” James replied with a smile."
         },
         {
-          "id": 15,
-          "paragraph_id": 7,
+          "id": 14,
+          "paragraph_id": 6,
           "text": "“That’s fine."
+        },
+        {
+          "id": 15,
+          "paragraph_id": 6,
+          "text": "Jekyll, I’ll let you handle them.”"
         },
         {
           "id": 16,
           "paragraph_id": 7,
-          "text": "Jekyll, I’ll let you handle them.”"
+          "text": "“Hahaha, this is going to be fun,” Jekyll commented as he looked at the three people with a wide grin."
         },
         {
           "id": 17,
           "paragraph_id": 8,
-          "text": "“Hahaha, this is going to be fun,” Jekyll commented as he looked at the three people with a wide grin."
+          "text": "James and the others left the room and allowed the “Dentist” of Lont to handle the interrogation."
         },
         {
           "id": 18,
-          "paragraph_id": 9,
-          "text": "James and the others left the room and allowed the “Dentist” of Lont to handle the interrogation."
+          "paragraph_id": 8,
+          "text": "Among them, no one could compare to Jekyll when it came to making people talk, including Ezio."
         },
         {
           "id": 19,
           "paragraph_id": 9,
-          "text": "Among them, no one could compare to Jekyll when it came to making people talk, including Ezio."
+          "text": "They were confident that they would get their answers in less than an hour after Jekyll was finished with them."
         },
         {
           "id": 20,
           "paragraph_id": 10,
-          "text": "They were confident that they would get their answers in less than an hour after Jekyll was finished with them."
-        },
-        {
-          "id": 21,
-          "paragraph_id": 11,
           "text": "The two people looked at Jekyll with a sneer."
         },
         {
-          "id": 22,
-          "paragraph_id": 11,
+          "id": 21,
+          "paragraph_id": 10,
           "text": "They were still thinking that the prim, proper, handsome, smiling man in front of them was just there to intimidate them."
+        },
+        {
+          "id": 22,
+          "paragraph_id": 10,
+          "text": "This was not the first time they had experienced an interrogation and most of those interrogators all had the same ending and that was death."
         },
         {
           "id": 23,
           "paragraph_id": 11,
-          "text": "This was not the first time they had experienced an interrogation and most of those interrogators all had the same ending and that was death."
+          "text": "Jekyll calmly took a chair and sat in front of the captives with a smile."
         },
         {
           "id": 24,
           "paragraph_id": 12,
-          "text": "Jekyll calmly took a chair and sat in front of the captives with a smile."
+          "text": "“Tell me, when was the last time you boys brushed your teeth?” Jekyll asked."
         },
         {
           "id": 25,
           "paragraph_id": 13,
-          "text": "“Tell me, when was the last time you boys brushed your teeth?” Jekyll asked."
-        },
-        {
-          "id": 26,
-          "paragraph_id": 14,
           "text": "The man wearing an eyepatch spat on Jekyll and his spit landed on the dentist’s well-ironed pants."
         },
         {
-          "id": 27,
-          "paragraph_id": 14,
+          "id": 26,
+          "paragraph_id": 13,
           "text": "The skinny man laughed due to his comrade’s actions and did the same."
+        },
+        {
+          "id": 27,
+          "paragraph_id": 13,
+          "text": "His spit landed on Jekyll’s clothes, which made the dentist’s smile widen."
         },
         {
           "id": 28,
           "paragraph_id": 14,
-          "text": "His spit landed on Jekyll’s clothes, which made the dentist’s smile widen."
+          "text": "“I guess I need to give the two of you a crash course on proper dental hygiene,” Jekyll commented with a smile."
         },
         {
           "id": 29,
           "paragraph_id": 15,
-          "text": "“I guess I need to give the two of you a crash course on proper dental hygiene,” Jekyll commented with a smile."
-        },
-        {
-          "id": 30,
-          "paragraph_id": 16,
           "text": "Soon, loud, begging, cries for forgiveness resounded inside the room."
         },
         {
-          "id": 31,
-          "paragraph_id": 16,
+          "id": 30,
+          "paragraph_id": 15,
           "text": "The Dark Magician closed his eyes and gritted his teeth because he couldn’t stomach what he was seeing."
+        },
+        {
+          "id": 31,
+          "paragraph_id": 15,
+          "text": "If possible, he also wanted to cover his ears, but his arms were firmly tied behind his back."
         },
         {
           "id": 32,
           "paragraph_id": 16,
-          "text": "If possible, he also wanted to cover his ears, but his arms were firmly tied behind his back."
+          "text": "The only way he could keep his sanity was to close his eyes and use his willpower to endure the horrible screams beside him."
         },
         {
           "id": 33,
-          "paragraph_id": 17,
-          "text": "The only way he could keep his sanity was to close his eyes and use his willpower to endure the horrible screams beside him."
+          "paragraph_id": 16,
+          "text": "He was already regretting coming to this backward place with the intention of lording over the newly built territories on the Western Edges of the Hellan Kingdom."
         },
         {
           "id": 34,
           "paragraph_id": 17,
-          "text": "He was already regretting coming to this backward place with the intention of lording over the newly built territories on the Western Edges of the Hellan Kingdom."
+          "text": "“I hope Jekyll doesn’t break them,” Owen said as he blew circles of smoke with his pipe."
         },
         {
           "id": 35,
-          "paragraph_id": 18,
-          "text": "“I hope Jekyll doesn’t break them,” Owen said as he blew circles of smoke with his pipe."
+          "paragraph_id": 17,
+          "text": "“I don’t want to waste my potions on these low lives.”"
         },
         {
           "id": 36,
           "paragraph_id": 18,
-          "text": "“I don’t want to waste my potions on these low lives.”"
+          "text": "James just smiled at the stingy Life Magus’ complaint."
         },
         {
           "id": 37,
           "paragraph_id": 19,
-          "text": "James just smiled at the stingy Life Magus’ complaint."
+          "text": "“How are the townspeople?” James inquired."
         },
         {
           "id": 38,
-          "paragraph_id": 20,
-          "text": "“How are the townspeople?” James inquired."
+          "paragraph_id": 19,
+          "text": "“Have they calmed down?”"
         },
         {
           "id": 39,
           "paragraph_id": 20,
-          "text": "“Have they calmed down?”"
-        },
-        {
-          "id": 40,
-          "paragraph_id": 21,
           "text": "“Don’t worry about them,” Owen waved his hand casually."
         },
         {
-          "id": 41,
-          "paragraph_id": 21,
+          "id": 40,
+          "paragraph_id": 20,
           "text": "“They are currently enjoying the grand feast that our hunters prepared."
+        },
+        {
+          "id": 41,
+          "paragraph_id": 20,
+          "text": "I’m sure that this whole incident will just turn into gossip in the future.”"
         },
         {
           "id": 42,
           "paragraph_id": 21,
-          "text": "I’m sure that this whole incident will just turn into gossip in the future.”"
+          "text": "“That’s good.” James nodded."
         },
         {
           "id": 43,
-          "paragraph_id": 22,
-          "text": "“That’s good.” James nodded."
+          "paragraph_id": 21,
+          "text": "“I hope that my grandson and new daughter-in-law will not mind this small incident and enjoy their honeymoon.”"
         },
         {
           "id": 44,
           "paragraph_id": 22,
-          "text": "“I hope that my grandson and new daughter-in-law will not mind this small incident and enjoy their honeymoon.”"
+          "text": "Dwayne, who was drinking some alcohol at the side, grinned."
         },
         {
           "id": 45,
-          "paragraph_id": 23,
-          "text": "Dwayne, who was drinking some alcohol at the side, grinned."
+          "paragraph_id": 22,
+          "text": "“Commander, are you perhaps very excited to hold your great grandchild?”"
         },
         {
           "id": 46,
           "paragraph_id": 23,
-          "text": "“Commander, are you perhaps very excited to hold your great grandchild?”"
+          "text": "“Indeed."
         },
         {
           "id": 47,
-          "paragraph_id": 24,
-          "text": "“Indeed."
+          "paragraph_id": 23,
+          "text": "But, I will still have to wait a few years before that happens.” James sighed."
         },
         {
           "id": 48,
           "paragraph_id": 24,
-          "text": "But, I will still have to wait a few years before that happens.” James sighed."
+          "text": "He had promised Sebas to wait until Leah was at least twenty years old before allowing the two of them to conceive a child."
         },
         {
           "id": 49,
-          "paragraph_id": 25,
-          "text": "He had promised Sebas to wait until Leah was at least twenty years old before allowing the two of them to conceive a child."
+          "paragraph_id": 24,
+          "text": "The overly-protective father didn’t want his daughter to suffer the same fate his wife did when she gave birth to Cedric."
         },
         {
           "id": 50,
           "paragraph_id": 25,
-          "text": "The overly-protective father didn’t want his daughter to suffer the same fate his wife did when she gave birth to Cedric."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 26,
           "text": "James also cared about Leah’s well-being so he readily agreed to Sebas request."
         },
         {
-          "id": 52,
-          "paragraph_id": 26,
+          "id": 51,
+          "paragraph_id": 25,
           "text": "He also understood that both of them were still young."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 25,
+          "text": "They were still studying in the Hellan Royal Academy and having a baby should be postponed for a little while longer."
         },
         {
           "id": 53,
           "paragraph_id": 26,
-          "text": "They were still studying in the Hellan Royal Academy and having a baby should be postponed for a little while longer."
+          "text": "As the three men waited for the result of Jekyll’s interrogation, William and the others were enjoying the feast at the center of the town."
         },
         {
           "id": 54,
-          "paragraph_id": 27,
-          "text": "As the three men waited for the result of Jekyll’s interrogation, William and the others were enjoying the feast at the center of the town."
+          "paragraph_id": 26,
+          "text": "Although the guests from Fushia and Xynnar were shaken, the original inhabitants of Lont treated the incident like it was just a passing cloud in the sky."
         },
         {
           "id": 55,
           "paragraph_id": 27,
-          "text": "Although the guests from Fushia and Xynnar were shaken, the original inhabitants of Lont treated the incident like it was just a passing cloud in the sky."
+          "text": "After experiencing two beast tides, the people of Lont were not easily ruffled by sudden attacks on their hometown."
         },
         {
           "id": 56,
           "paragraph_id": 28,
-          "text": "After experiencing two beast tides, the people of Lont were not easily ruffled by sudden attacks on their hometown."
+          "text": "“Where did you go earlier, Will?” Wendy asked."
         },
         {
           "id": 57,
-          "paragraph_id": 29,
-          "text": "“Where did you go earlier, Will?” Wendy asked."
+          "paragraph_id": 28,
+          "text": "“When those scary men appeared, I looked for you, but you were nowhere to be found.”"
         },
         {
           "id": 58,
           "paragraph_id": 29,
-          "text": "“When those scary men appeared, I looked for you, but you were nowhere to be found.”"
-        },
-        {
-          "id": 59,
-          "paragraph_id": 30,
           "text": "William finished chewing the apple inside his mouth before answering Wendy’s question."
         },
         {
-          "id": 60,
-          "paragraph_id": 30,
+          "id": 59,
+          "paragraph_id": 29,
           "text": "“It was a dangerous situation, and I decided to evacuate in order to protect Eve from harm."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 29,
+          "text": "Those men were stronger than us and it was not a good idea to confront them head on.”"
         },
         {
           "id": 61,
           "paragraph_id": 30,
-          "text": "Those men were stronger than us and it was not a good idea to confront them head on.”"
-        },
-        {
-          "id": 62,
-          "paragraph_id": 31,
           "text": "Spencer, who was seated beside his sister, looked at William with a serious expression."
         },
         {
-          "id": 63,
-          "paragraph_id": 31,
+          "id": 62,
+          "paragraph_id": 30,
           "text": "“Your uncle and grandfather were amazing."
+        },
+        {
+          "id": 63,
+          "paragraph_id": 30,
+          "text": "I heard that they helped in subjugating the dungeon in the Duchy of Aberdeen, but seeing them in action was truly something to behold.”"
         },
         {
           "id": 64,
           "paragraph_id": 31,
-          "text": "I heard that they helped in subjugating the dungeon in the Duchy of Aberdeen, but seeing them in action was truly something to behold.”"
-        },
-        {
-          "id": 65,
-          "paragraph_id": 32,
           "text": "William raised his chin in an arrogant manner, “My grandpa cracks coconuts with his bare hands."
         },
         {
-          "id": 66,
-          "paragraph_id": 32,
+          "id": 65,
+          "paragraph_id": 31,
           "text": "Handling a few small fries is not a big deal to him."
         },
         {
-          "id": 67,
-          "paragraph_id": 32,
+          "id": 66,
+          "paragraph_id": 31,
           "text": "You should have seen how he faced off against a Millennial Beast."
+        },
+        {
+          "id": 67,
+          "paragraph_id": 31,
+          "text": "That scene gave me goosebumps.”"
         },
         {
           "id": 68,
           "paragraph_id": 32,
-          "text": "That scene gave me goosebumps.”"
+          "text": "Ian was already used to William’s narcissistic bragging and turned a deaf ear to his words."
         },
         {
           "id": 69,
-          "paragraph_id": 33,
-          "text": "Ian was already used to William’s narcissistic bragging and turned a deaf ear to his words."
+          "paragraph_id": 32,
+          "text": "He busied himself in eating the delicious dishes that were prepared by the hunters of Lont."
         },
         {
           "id": 70,
           "paragraph_id": 33,
-          "text": "He busied himself in eating the delicious dishes that were prepared by the hunters of Lont."
+          "text": "Although the capital didn’t lack high-class dishes, the local delicacies he was currently eating gave him a more “homely” feeling and they reminded him of his own hometown."
         },
         {
           "id": 71,
           "paragraph_id": 34,
-          "text": "Although the capital didn’t lack high-class dishes, the local delicacies he was currently eating gave him a more “homely” feeling and they reminded him of his own hometown."
+          "text": "‘I hope father and mother are doing well,’ Ian thought as he took another bite of a dish that William had called curry."
         },
         {
           "id": 72,
           "paragraph_id": 35,
-          "text": "‘I hope father and mother are doing well,’ Ian thought as he took another bite of a dish that William had called curry."
+          "text": "The red-headed boy even bragged that he was the one who cooked it yesterday."
         },
         {
           "id": 73,
-          "paragraph_id": 36,
-          "text": "The red-headed boy even bragged that he was the one who cooked it yesterday."
+          "paragraph_id": 35,
+          "text": "He added that curry tasted better if it was eaten at a later time, so he prepared it the night before in order to bring out its true flavor."
         },
         {
           "id": 74,
           "paragraph_id": 36,
-          "text": "He added that curry tasted better if it was eaten at a later time, so he prepared it the night before in order to bring out its true flavor."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 37,
           "text": "“I wish I could stay longer,” Wendy said with a sad expression."
         },
         {
-          "id": 76,
-          "paragraph_id": 37,
+          "id": 75,
+          "paragraph_id": 36,
           "text": "“Aunt Anna, Aunt Hellen, Uncle Mordred and Grandpa James are all good people."
         },
         {
-          "id": 77,
-          "paragraph_id": 37,
+          "id": 76,
+          "paragraph_id": 36,
           "text": "They are very warm and kind."
         },
         {
-          "id": 78,
-          "paragraph_id": 37,
+          "id": 77,
+          "paragraph_id": 36,
           "text": "Also, Lady Celine was really an expert when it comes to wielding a spear."
+        },
+        {
+          "id": 78,
+          "paragraph_id": 36,
+          "text": "I learned a lot from her.”"
         },
         {
           "id": 79,
           "paragraph_id": 37,
-          "text": "I learned a lot from her.”"
-        },
-        {
-          "id": 80,
-          "paragraph_id": 38,
           "text": "William, who was currently tempting Dia to eat the apple in his hand, looked at Wendy with gentle eyes."
         },
         {
-          "id": 81,
-          "paragraph_id": 38,
+          "id": 80,
+          "paragraph_id": 37,
           "text": "“You can always come and visit them anytime you like."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 37,
+          "text": "I’m sure that gramps and the others will welcome you with open arms.”"
         },
         {
           "id": 82,
           "paragraph_id": 38,
-          "text": "I’m sure that gramps and the others will welcome you with open arms.”"
+          "text": "“Can I?” Wendy looked back at him with a serious expression."
         },
         {
           "id": 83,
-          "paragraph_id": 39,
-          "text": "“Can I?” Wendy looked back at him with a serious expression."
+          "paragraph_id": 38,
+          "text": "“Can I really come and visit them anytime?”"
         },
         {
           "id": 84,
           "paragraph_id": 39,
-          "text": "“Can I really come and visit them anytime?”"
+          "text": "“Of course.”"
         },
         {
           "id": 85,
           "paragraph_id": 40,
-          "text": "“Of course.”"
+          "text": "“Good."
         },
         {
           "id": 86,
-          "paragraph_id": 41,
-          "text": "“Good."
+          "paragraph_id": 40,
+          "text": "Then I’ll come and play with Eve again when there is an opportunity.”"
         },
         {
           "id": 87,
           "paragraph_id": 41,
-          "text": "Then I’ll come and play with Eve again when there is an opportunity.”"
+          "text": "Wendy’s mood was lifted due to William’s words and she handed a drumstick to Thor in order to reward him for being a good boy."
         },
         {
           "id": 88,
           "paragraph_id": 42,
-          "text": "Wendy’s mood was lifted due to William’s words and she handed a drumstick to Thor in order to reward him for being a good boy."
+          "text": "Ragnar was currently eating a steak on a wooden plate beside William’s feet."
         },
         {
           "id": 89,
-          "paragraph_id": 43,
-          "text": "Ragnar was currently eating a steak on a wooden plate beside William’s feet."
+          "paragraph_id": 42,
+          "text": "Although they only grew stronger by eating beast cores, it was perfectly fine for them to eat ordinary foods as well."
         },
         {
           "id": 90,
           "paragraph_id": 43,
-          "text": "Although they only grew stronger by eating beast cores, it was perfectly fine for them to eat ordinary foods as well."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 44,
           "text": "“I’m still curious,” Spencer gave William an inquiring gaze."
         },
         {
-          "id": 92,
-          "paragraph_id": 44,
+          "id": 91,
+          "paragraph_id": 43,
           "text": "“Just who are those men?"
         },
         {
-          "id": 93,
-          "paragraph_id": 44,
+          "id": 92,
+          "paragraph_id": 43,
           "text": "Do they have comrades?"
+        },
+        {
+          "id": 93,
+          "paragraph_id": 43,
+          "text": "If yes, this needs to be reported to the capital and fast.”"
         },
         {
           "id": 94,
           "paragraph_id": 44,
-          "text": "If yes, this needs to be reported to the capital and fast.”"
-        },
-        {
-          "id": 95,
-          "paragraph_id": 45,
           "text": "“You don’t have to worry about that,” William replied."
         },
         {
-          "id": 96,
-          "paragraph_id": 45,
+          "id": 95,
+          "paragraph_id": 44,
           "text": "“Uncle Mordred will be going with us back to the capital."
+        },
+        {
+          "id": 96,
+          "paragraph_id": 44,
+          "text": "He will deliver the news to his Majesty while waiting for his peerage to be bestowed upon him.”"
         },
         {
           "id": 97,
           "paragraph_id": 45,
-          "text": "He will deliver the news to his Majesty while waiting for his peerage to be bestowed upon him.”"
+          "text": "“That’s good to hear.” Spencer nodded."
         },
         {
           "id": 98,
           "paragraph_id": 46,
-          "text": "“That’s good to hear.” Spencer nodded."
+          "text": "He once again stared at his Head Prefect for a brief moment before focusing on the food on his plate."
         },
         {
           "id": 99,
-          "paragraph_id": 47,
-          "text": "He once again stared at his Head Prefect for a brief moment before focusing on the food on his plate."
+          "paragraph_id": 46,
+          "text": "Whatever thoughts he had on his mind right now, he hid it behind a calm facade."
         },
         {
           "id": 100,
           "paragraph_id": 47,
-          "text": "Whatever thoughts he had on his mind right now, he hid it behind a calm facade."
+          "text": "After the festivities, James called William to his room that night to talk about important matters."
         },
         {
           "id": 101,
           "paragraph_id": 48,
-          "text": "After the festivities, James called William to his room that night to talk about important matters."
+          "text": "“You’re the one that manipulated that lightning storm, right?” James asked."
         },
         {
           "id": 102,
           "paragraph_id": 49,
-          "text": "“You’re the one that manipulated that lightning storm, right?” James asked."
+          "text": "William nodded his head because there was no use hiding this secret to his grandfather."
         },
         {
           "id": 103,
           "paragraph_id": 50,
-          "text": "William nodded his head because there was no use hiding this secret to his grandfather."
+          "text": "“Is this the first time you have done such a thing?”"
         },
         {
           "id": 104,
           "paragraph_id": 51,
-          "text": "“Is this the first time you have done such a thing?”"
+          "text": "“Yes.”"
         },
         {
           "id": 105,
           "paragraph_id": 52,
-          "text": "“Yes.”"
-        },
-        {
-          "id": 106,
-          "paragraph_id": 53,
           "text": "James sighed and massaged his forehead, “William, what you did was dangerous."
         },
         {
-          "id": 107,
-          "paragraph_id": 53,
+          "id": 106,
+          "paragraph_id": 52,
           "text": "Fortunately, the defenses that we installed in Lont kicked in right away."
         },
         {
-          "id": 108,
-          "paragraph_id": 53,
+          "id": 107,
+          "paragraph_id": 52,
           "text": "Also, the veterans were present so the damage was minimal."
+        },
+        {
+          "id": 108,
+          "paragraph_id": 52,
+          "text": "No one also got injured because Owen and the rest acted fast enough."
         },
         {
           "id": 109,
           "paragraph_id": 53,
-          "text": "No one also got injured because Owen and the rest acted fast enough."
+          "text": "If you had chosen a different occasion to use that ability, I’m afraid that we might have suffered casualties on our side.”"
         },
         {
           "id": 110,
           "paragraph_id": 54,
-          "text": "If you had chosen a different occasion to use that ability, I’m afraid that we might have suffered casualties on our side.”"
-        },
-        {
-          "id": 111,
-          "paragraph_id": 55,
           "text": "James said this in a calm manner, but William’s guilt was enough for him to feel ashamed of his actions."
         },
         {
-          "id": 112,
-          "paragraph_id": 55,
+          "id": 111,
+          "paragraph_id": 54,
           "text": "He didn’t think ahead when he used the skill “Thunder God’s Wrath”."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 54,
+          "text": "All he wanted to do was to take the opportunity to test his ability."
         },
         {
           "id": 113,
           "paragraph_id": 55,
-          "text": "All he wanted to do was to take the opportunity to test his ability."
+          "text": "“I’m sorry, Grandpa,” William replied."
         },
         {
           "id": 114,
-          "paragraph_id": 56,
-          "text": "“I’m sorry, Grandpa,” William replied."
+          "paragraph_id": 55,
+          "text": "“I will be more careful in the future.”"
         },
         {
           "id": 115,
           "paragraph_id": 56,
-          "text": "“I will be more careful in the future.”"
+          "text": "James didn’t punish William because he knew that his grandson was truly repenting for his actions."
         },
         {
           "id": 116,
-          "paragraph_id": 57,
-          "text": "James didn’t punish William because he knew that his grandson was truly repenting for his actions."
+          "paragraph_id": 56,
+          "text": "However, there was one more thing that he had to make sure of no matter what."
         },
         {
           "id": 117,
           "paragraph_id": 57,
-          "text": "However, there was one more thing that he had to make sure of no matter what."
+          "text": "“Were there any witnesses when you used that skill?”"
         },
         {
           "id": 118,
           "paragraph_id": 58,
-          "text": "“Were there any witnesses when you used that skill?”"
+          "text": "“Only Eve, but I doubt that she was aware of what was happening.”"
         },
         {
           "id": 119,
           "paragraph_id": 59,
-          "text": "“Only Eve, but I doubt that she was aware of what was happening.”"
+          "text": "James nodded his head and only reminded William not to recklessly use the power of lightning again, especially when in public."
         },
         {
           "id": 120,
-          "paragraph_id": 60,
-          "text": "James nodded his head and only reminded William not to recklessly use the power of lightning again, especially when in public."
+          "paragraph_id": 59,
+          "text": "After all, this was a secret that they had to keep until William became strong enough to protect himself."
         },
         {
           "id": 121,
           "paragraph_id": 60,
-          "text": "After all, this was a secret that they had to keep until William became strong enough to protect himself."
+          "text": "Three days later, the group-including the newlyweds-returned to the Hellan Capital along with Mordred."
         },
         {
           "id": 122,
-          "paragraph_id": 61,
-          "text": "Three days later, the group-including the newlyweds-returned to the Hellan Capital along with Mordred."
+          "paragraph_id": 60,
+          "text": "Although their honeymoon only lasted a few days, the two people radiated happiness which made William envious."
         },
         {
           "id": 123,
           "paragraph_id": 61,
-          "text": "Although their honeymoon only lasted a few days, the two people radiated happiness which made William envious."
+          "text": "Wendy chatted with Leah from time to time while giving sneaking glances at William from time to time."
         },
         {
           "id": 124,
-          "paragraph_id": 62,
-          "text": "Wendy chatted with Leah from time to time while giving sneaking glances at William from time to time."
+          "paragraph_id": 61,
+          "text": "The two girls would giggle every now and then, which made William feel his stomach churn for some unknown reason."
         },
         {
           "id": 125,
           "paragraph_id": 62,
-          "text": "The two girls would giggle every now and then, which made William feel his stomach churn for some unknown reason."
+          "text": "They were currently on the back of Blitz and were flying towards the nearest town where a teleport gate was stationed."
         },
         {
           "id": 126,
-          "paragraph_id": 63,
-          "text": "They were currently on the back of Blitz and were flying towards the nearest town where a teleport gate was stationed."
+          "paragraph_id": 62,
+          "text": "From there, they would teleport straight to the capital."
         },
         {
           "id": 127,
           "paragraph_id": 63,
-          "text": "From there, they would teleport straight to the capital."
+          "text": "When they arrived at the capital city, Gladiolus, Mordred escorted the children to the academy before going to the castle to meet the king."
         },
         {
           "id": 128,
           "paragraph_id": 64,
-          "text": "When they arrived at the capital city, Gladiolus, Mordred escorted the children to the academy before going to the castle to meet the king."
+          "text": "Before they left, James had given Mordred a confidential letter."
         },
         {
           "id": 129,
-          "paragraph_id": 65,
-          "text": "Before they left, James had given Mordred a confidential letter."
+          "paragraph_id": 64,
+          "text": "The information that they squeezed out from their captives was quite alarming that James decided to share the information with the king."
         },
         {
           "id": 130,
           "paragraph_id": 65,
-          "text": "The information that they squeezed out from their captives was quite alarming that James decided to share the information with the king."
-        },
-        {
-          "id": 131,
-          "paragraph_id": 66,
           "text": "He hoped that the Hellan Kingdom still had some forces left in order to deal with the new threat that they were about to face."
         }
       ],
-      "word_count": 1869
+      "word_count": 1863
     },
     {
       "chapter_index": 188,
