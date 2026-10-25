@@ -250,5 +250,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 1792,
     "description": "Imported novel: Illicit Relationship."
+  },
+  {
+    "id": "rebirth-encyclopedia-system",
+    "title": "Rebirth Encyclopedia System",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/rebirth-encyclopedia-system.jpg",
+    "source_url": "https://novelping.com/book/rebirth-encyclopedia-system",
+    "data_path": "data/rebirth-encyclopedia-system/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Rebirth Encyclopedia System."
   }
 ]
