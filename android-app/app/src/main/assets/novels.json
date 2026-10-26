@@ -274,5 +274,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2000,
     "description": "Imported novel: Re Evolution Online Novel."
+  },
+  {
+    "id": "vampires-slice-of-life",
+    "title": "Vampires Slice Of Life",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/vampires-slice-of-life.jpg",
+    "source_url": "https://novelping.com/book/vampires-slice-of-life",
+    "data_path": "data/vampires-slice-of-life/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 1227,
+    "description": "Imported novel: Vampires Slice Of Life."
   }
 ]
