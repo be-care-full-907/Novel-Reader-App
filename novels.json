@@ -286,5 +286,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 1227,
     "description": "Imported novel: Vampires Slice Of Life."
+  },
+  {
+    "id": "sss-ranked-awakening-all-my-skills-are-at-level-100",
+    "title": "Sss Ranked Awakening All My Skills Are At Level 100",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/sss-ranked-awakening-all-my-skills-are-at-level-100.jpg",
+    "source_url": "https://novelping.com/book/sss-ranked-awakening-all-my-skills-are-at-level-100",
+    "data_path": "data/sss-ranked-awakening-all-my-skills-are-at-level-100/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 738,
+    "description": "Imported novel: Sss Ranked Awakening All My Skills Are At Level 100."
   }
 ]
