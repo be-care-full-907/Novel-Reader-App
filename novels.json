@@ -298,5 +298,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 738,
     "description": "Imported novel: Sss Ranked Awakening All My Skills Are At Level 100."
+  },
+  {
+    "id": "i-can-get-1000000x-returns-from-selling-anything",
+    "title": "I Can Get 1000000X Returns From Selling Anything",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/i-can-get-1000000x-returns-from-selling-anything.jpg",
+    "source_url": "https://novelping.com/book/i-can-get-1000000x-returns-from-selling-anything",
+    "data_path": "data/i-can-get-1000000x-returns-from-selling-anything/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 551,
+    "description": "Imported novel: I Can Get 1000000X Returns From Selling Anything."
   }
 ]
