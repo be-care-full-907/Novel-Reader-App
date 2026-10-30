@@ -1,0 +1,12 @@
+{
+  "novel_id": "dimensional-keeper-all-my-skills-are-at-level-100",
+  "bundles": [
+    {
+      "bundle_file": "chapters_1_50.json",
+      "start_chapter": 1,
+      "end_chapter": 50,
+      "chapter_count": 50,
+      "updated_at": "2026-10-30T18:51:19Z"
+    }
+  ]
+}
