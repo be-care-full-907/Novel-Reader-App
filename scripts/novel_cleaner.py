@@ -53,11 +53,16 @@ EXCESSIVE_QUOTES_D = re.compile(r'"{2,}')
 EXCESSIVE_QUOTES_S = re.compile(r"'{2,}")
 EXCESSIVE_SPACES = re.compile(r' {2,}')
 
-# Plus runs >= 6 -> '' (nothing)
-PLUS_RUNS_REGEX = re.compile(r'\+{6,}%?')
+# Repeated special characters >= 3 times -> '' (blank)
+# E.g. +++, ++++++%, ***, ---, ===, ~~~, ###, $$$, ///, \\\, ____, •••
+# Guards standard sentence punctuation: . (preserves 1-3 dots for ellipsis), !, ?, quotes, commas
+REPEATED_SPECIAL_CHARS = re.compile(r"([^\w\s.!?,\"']|_)\1{2,}%?")
 
-# Inline divider runs (4+ repeated symbols: dashes, underscores, equals, tildes, asterisks)
-INLINE_DIVIDER_RUNS = re.compile(r'(?:[-_~=*\u2014\u2015]{4,}|(?:\s*[-_~=*]\s*){4,})')
+# Spaced symbol divider runs: e.g. * * *, - - -, + + +, = = =
+SPACED_DIVIDER_RUNS = re.compile(r'(?:\s*[-_~=*+#•]\s*){3,}')
+
+# Excessive periods (4 or more dots) normalized to standard ellipsis ...
+EXCESSIVE_PERIODS = re.compile(r'\.{4,}')
 
 # Pure divider line or isolated punctuation/empty quote paragraph
 PURE_DIVIDER_PARAGRAPH = re.compile(r'^(?:[-_~=*#+•\s]{2,}|["\'“”‘’`´«»│|—–\-_.\s]{1,4})$')
@@ -289,11 +294,10 @@ def clean_paragraph_text(text: str) -> str:
     text = re.sub(r'(?<=[a-zA-Z0-9])\.(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b', '.', text, flags=re.I)
     text = re.sub(r'[\s\(\[\'\"]*(?:https?://)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\s\)\]\'\"\.]*', ' ', text, flags=re.I)
 
-    # 10. Replace runs of more than 5 plus signs (e.g. ++++++++++++ or ++++++%) with '' (nothing)
-    text = PLUS_RUNS_REGEX.sub('', text)
-
-    # 11. Strip inline 4+ divider runs (e.g. * * * *, ----------------, ================)
-    text = INLINE_DIVIDER_RUNS.sub('', text)
+    # 10. Replace any special character repeated 3 or more times (e.g. +++, ++++++%, ***, ---, ===, ~~~, ###, $$$, ///, ___) with '' (blank)
+    text = REPEATED_SPECIAL_CHARS.sub('', text)
+    text = SPACED_DIVIDER_RUNS.sub(' ', text)
+    text = EXCESSIVE_PERIODS.sub('...', text)
 
     # 12. Punctuation spam cleanup
     text = EXCESSIVE_COMMAS.sub(',', text)

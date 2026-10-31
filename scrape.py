@@ -576,12 +576,23 @@ def fetch_novelping_archive(novel_id: str) -> Dict[int, Dict]:
     return chapter_map
 
 
-def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool = False) -> Dict[int, Dict]:
+def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool = False, source_site: str = "auto") -> Dict[int, Dict]:
     """
-    Fetches chapter archive mapping: FreeWebNovel FIRST, then NovelPing as fallback.
+    Fetches chapter archive mapping based on selected source_site:
+      - 'freewebnovel' (or 'freenovel'): FreeWebNovel only
+      - 'novelping': NovelPing only
+      - 'auto': FreeWebNovel first, fallback to NovelPing
     Results are cached in target_dir/archive_cache.json only when non-empty and uncorrupted.
     """
-    cache_path = os.path.join(target_dir, "archive_cache.json")
+    site_key = source_site.lower()
+    if site_key in ("freewebnovel", "freenovel"):
+        cache_filename = "archive_cache_freewebnovel.json"
+    elif site_key == "novelping":
+        cache_filename = "archive_cache_novelping.json"
+    else:
+        cache_filename = "archive_cache.json"
+
+    cache_path = os.path.join(target_dir, cache_filename)
     if not force_refresh and os.path.exists(cache_path):
         try:
             with open(cache_path, "r", encoding="utf-8") as f:
@@ -601,33 +612,65 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool
                     is_corrupted = True
 
                 if not is_corrupted:
-                    log(f"Loaded {len(cached)} chapters from local archive cache: {cache_path}")
+                    log(f"Loaded {len(cached)} chapters from local archive cache ({cache_filename})")
                     return {int(k): v for k, v in cached.items()}
                 else:
                     log(f"Cached archive for '{novel_id}' was corrupted or incomplete ({len(cached)} items vs expected ~{expected_max}); refreshing online archive...")
         except Exception:
             pass
 
-    # 1. Try FreeWebNovel FIRST
-    chapter_map = fetch_freewebnovel_archive(novel_id)
-
-    # 2. If FreeWebNovel failed or returned 0 chapters, fallback to NovelPing
-    if not chapter_map:
-        chapter_map = fetch_novelping_archive(novel_id)
-
-    # 3. If both failed, generate synthetic index using FreeWebNovel direct URLs
-    if not chapter_map:
-        cat_info = NOVELS_CATALOG.get(novel_id, {})
-        est = cat_info.get("max_chapters", 2000)
-        log(f"Warning: Neither FreeWebNovel nor NovelPing archive available for '{novel_id}'. Generating synthetic chapter index (1 to {est}) with FreeWebNovel URLs.")
-        chapter_map = {
-            ch: {
-                "chapter_number": ch,
-                "title": f"Chapter {ch}",
-                "url": f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch}"
+    chapter_map = {}
+    if site_key in ("freewebnovel", "freenovel"):
+        log(f"Querying archive exclusively from FreeWebNovel for '{novel_id}'...")
+        chapter_map = fetch_freewebnovel_archive(novel_id)
+        if not chapter_map:
+            cat_info = NOVELS_CATALOG.get(novel_id, {})
+            est = cat_info.get("max_chapters", 2000)
+            log(f"Warning: FreeWebNovel archive unavailable for '{novel_id}'. Generating synthetic FreeWebNovel index (1 to {est}).")
+            chapter_map = {
+                ch: {
+                    "chapter_number": ch,
+                    "title": f"Chapter {ch}",
+                    "url": f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch}"
+                }
+                for ch in range(1, est + 1)
             }
-            for ch in range(1, est + 1)
-        }
+    elif site_key == "novelping":
+        log(f"Querying archive exclusively from NovelPing for '{novel_id}'...")
+        chapter_map = fetch_novelping_archive(novel_id)
+        if not chapter_map:
+            cat_info = NOVELS_CATALOG.get(novel_id, {})
+            est = cat_info.get("max_chapters", 2000)
+            log(f"Warning: NovelPing archive unavailable for '{novel_id}'. Generating synthetic NovelPing index (1 to {est}).")
+            chapter_map = {
+                ch: {
+                    "chapter_number": ch,
+                    "title": f"Chapter {ch}",
+                    "url": f"https://novelping.com/book/{novel_id}/chapter-{ch}"
+                }
+                for ch in range(1, est + 1)
+            }
+    else: # auto
+        # 1. Try FreeWebNovel FIRST
+        chapter_map = fetch_freewebnovel_archive(novel_id)
+
+        # 2. If FreeWebNovel failed or returned 0 chapters, fallback to NovelPing
+        if not chapter_map:
+            chapter_map = fetch_novelping_archive(novel_id)
+
+        # 3. If both failed, generate synthetic index using FreeWebNovel direct URLs
+        if not chapter_map:
+            cat_info = NOVELS_CATALOG.get(novel_id, {})
+            est = cat_info.get("max_chapters", 2000)
+            log(f"Warning: Neither FreeWebNovel nor NovelPing archive available for '{novel_id}'. Generating synthetic chapter index (1 to {est}) with FreeWebNovel URLs.")
+            chapter_map = {
+                ch: {
+                    "chapter_number": ch,
+                    "title": f"Chapter {ch}",
+                    "url": f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch}"
+                }
+                for ch in range(1, est + 1)
+            }
 
     # 4. Save to local archive cache ONLY if valid and non-empty
     if chapter_map:
@@ -642,23 +685,45 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool
     return chapter_map
 
 
-def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int, ch_meta: dict, max_retries: int = 5) -> dict:
-    """Fetches and simultaneously cleans a single chapter with mirror failover (FreeWebNovel first, then NovelPing)."""
+def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int, ch_meta: dict, max_retries: int = 5, source_site: str = "auto") -> dict:
+    """Fetches and simultaneously cleans a single chapter with mirror failover based on source_site."""
+    site_key = source_site.lower()
     candidate_urls = []
     if ch_meta and ch_meta.get("url"):
         candidate_urls.append(ch_meta["url"])
         slug_part = ch_meta["url"].rstrip("/").split("/")[-1].rstrip(".html")
         if slug_part:
-            candidate_urls.append(f"https://freewebnovel.com/novel/{novel_id}/{slug_part}")
-            candidate_urls.append(f"https://novelping.com/book/{novel_id}/{slug_part}")
-    candidate_urls.extend([
-        f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}",
-        f"https://freewebnovel.com/{novel_id}/chapter-{ch_num}.html",
-        f"https://novelping.com/book/{novel_id}/chapter-{ch_num}"
-    ])
+            if site_key in ("freewebnovel", "freenovel"):
+                candidate_urls.append(f"https://freewebnovel.com/novel/{novel_id}/{slug_part}")
+            elif site_key == "novelping":
+                candidate_urls.append(f"https://novelping.com/book/{novel_id}/{slug_part}")
+            else:
+                candidate_urls.append(f"https://freewebnovel.com/novel/{novel_id}/{slug_part}")
+                candidate_urls.append(f"https://novelping.com/book/{novel_id}/{slug_part}")
+
+    if site_key in ("freewebnovel", "freenovel"):
+        candidate_urls.extend([
+            f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}",
+            f"https://freewebnovel.com/{novel_id}/chapter-{ch_num}.html"
+        ])
+    elif site_key == "novelping":
+        candidate_urls.extend([
+            f"https://novelping.com/book/{novel_id}/chapter-{ch_num}",
+            f"https://novelping.com/book/{novel_id}/chapter-{ch_num}.html"
+        ])
+    else: # auto
+        candidate_urls.extend([
+            f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}",
+            f"https://freewebnovel.com/{novel_id}/chapter-{ch_num}.html",
+            f"https://novelping.com/book/{novel_id}/chapter-{ch_num}"
+        ])
 
     seen = set()
     unique_candidates = [u for u in candidate_urls if not (u in seen or seen.add(u))]
+    if site_key in ("freewebnovel", "freenovel"):
+        unique_candidates = [u for u in unique_candidates if "freewebnovel.com" in u]
+    elif site_key == "novelping":
+        unique_candidates = [u for u in unique_candidates if "novelping.com" in u]
 
     last_error = None
     for url in unique_candidates:
@@ -806,7 +871,8 @@ def scrape_novel_range(
     end_ch: int,
     workers: int = 4,
     push: bool = True,
-    chunk_size: int = 50
+    chunk_size: int = 50,
+    source_site: str = "auto"
 ):
     """Scrapes, cleans, and bundles a specified range for a novel."""
     info = NOVELS_CATALOG[novel_id]
@@ -817,10 +883,11 @@ def scrape_novel_range(
     log(f"\n{'='*70}")
     log(f"  SCRAPING: {novel_title}")
     log(f"  Range: Chapters {start_ch} to {end_ch} | Workers: {workers}")
+    log(f"  Source Site: {source_site.upper()}")
     log(f"  Auto-Clean: ON (zero backslashes, zero ads, TTS ready)")
     log(f"{'='*70}\n")
 
-    chapter_map = fetch_archive_with_retry(novel_id, target_dir)
+    chapter_map = fetch_archive_with_retry(novel_id, target_dir, source_site=source_site)
 
     slices: List[Tuple[int, int]] = []
     curr = start_ch
@@ -846,15 +913,16 @@ def scrape_novel_range(
         bundled_chapters = []
         chapters_to_fetch = list(range(s_ch, e_ch + 1))
 
+        default_url_prefix = "https://novelping.com/book" if source_site.lower() == "novelping" else "https://freewebnovel.com/novel"
         with ThreadPoolExecutor(max_workers=workers) as executor:
             future_to_num = {}
             for ch_num in chapters_to_fetch:
                 ch_meta = chapter_map.get(ch_num, {
                     "chapter_number": ch_num,
                     "title": f"Chapter {ch_num}",
-                    "url": f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}"
+                    "url": f"{default_url_prefix}/{novel_id}/chapter-{ch_num}"
                 })
-                f = executor.submit(fetch_chapter_with_retries, scraper, novel_id, ch_num, ch_meta, 5)
+                f = executor.submit(fetch_chapter_with_retries, scraper, novel_id, ch_num, ch_meta, 5, source_site)
                 future_to_num[f] = ch_num
                 time.sleep(0.5)
 
@@ -877,7 +945,7 @@ def scrape_novel_range(
             for ch_num in list(missing):
                 ch_meta = chapter_map.get(ch_num)
                 try:
-                    rescued = fetch_chapter_with_retries(scraper, novel_id, ch_num, ch_meta, max_retries=6)
+                    rescued = fetch_chapter_with_retries(scraper, novel_id, ch_num, ch_meta, max_retries=6, source_site=source_site)
                     bundled_chapters.append(rescued)
                     missing.remove(ch_num)
                     log(f"  ✓ Rescued Ch. {ch_num}!")
@@ -992,6 +1060,19 @@ def interactive_menu():
         print(f"Current local chapters: {count} (Ch {min_ch} to {max_ch})")
         print(f"Online total available: ~{default_end} chapters")
 
+        # Prompt source site
+        print("\nChoose Download Source:")
+        print(" [1] FreeWebNovel (Recommended)")
+        print(" [2] NovelPing")
+        print(" [3] Auto (FreeWebNovel with NovelPing fallback)")
+        site_in = input("Select source site [default 1]: ").strip().lower()
+        if site_in in ('2', 'novelping', 'ping'):
+            source_site = 'novelping'
+        elif site_in in ('3', 'auto'):
+            source_site = 'auto'
+        else:
+            source_site = 'freewebnovel'
+
         # Prompt start
         s_input = input(f"Start Chapter [default {default_start}]: ").strip()
         start_ch = int(s_input) if s_input else default_start
@@ -1009,7 +1090,7 @@ def interactive_menu():
         p_input = input("Commit and push to GitHub origin/main when done? (y/n) [default y]: ").strip().lower()
         push = False if p_input == 'n' else True
 
-        scrape_novel_range(selected_id, start_ch, end_ch, workers=workers, push=push)
+        scrape_novel_range(selected_id, start_ch, end_ch, workers=workers, push=push, source_site=source_site)
 
 
 def main():
@@ -1020,6 +1101,7 @@ def main():
     parser.add_argument("--start", type=int, help="Start chapter index")
     parser.add_argument("--end", type=int, help="End chapter index")
     parser.add_argument("--workers", type=int, default=4, help="Concurrent workers")
+    parser.add_argument("--site", "--source", choices=["auto", "freewebnovel", "freenovel", "novelping"], default="auto", help="Source website to download from (default: auto)")
     parser.add_argument("--no-push", action="store_true", help="Do not push to GitHub")
     parser.add_argument("--all", action="store_true", help="Scrape all incomplete novels")
     parser.add_argument("--add-novel", type=str, help="Add a new novel by URL or slug (e.g. https://freewebnovel.com/novel/shadow-slave)")
@@ -1036,7 +1118,7 @@ def main():
             git_commit_and_push(entry["id"], "novels.json", 0, 0)
         start = args.start if args.start is not None else 1
         end = args.end if args.end is not None else min(50, entry["max_chapters"])
-        scrape_novel_range(entry["id"], start, end, workers=args.workers, push=not args.no_push)
+        scrape_novel_range(entry["id"], start, end, workers=args.workers, push=not args.no_push, source_site=args.site)
         return
 
     if args.all:
@@ -1045,7 +1127,7 @@ def main():
             if count < info["max_chapters"]:
                 start = max_ch + 1 if max_ch > 0 else info["default_start"]
                 end = info["max_chapters"]
-                scrape_novel_range(nid, start, end, workers=args.workers, push=not args.no_push)
+                scrape_novel_range(nid, start, end, workers=args.workers, push=not args.no_push, source_site=args.site)
         return
 
     if args.novel:
@@ -1058,7 +1140,7 @@ def main():
         count, min_ch, max_ch = get_local_novel_status(args.novel)
         start = args.start if args.start is not None else ((max_ch + 1) if max_ch > 0 else info["default_start"])
         end = args.end if args.end is not None else info["max_chapters"]
-        scrape_novel_range(args.novel, start, end, workers=args.workers, push=not args.no_push)
+        scrape_novel_range(args.novel, start, end, workers=args.workers, push=not args.no_push, source_site=args.site)
         return
 
     # No arguments -> Launch Interactive Menu

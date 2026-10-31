@@ -388,12 +388,20 @@ def fetch_novelping_archive(novel_id: str) -> Dict[int, Dict]:
     return chapter_map
 
 
-def fetch_archive_with_retry(novel_id: str, target_dir: str, refresh_cache: bool = False) -> Dict[int, Dict]:
+def fetch_archive_with_retry(novel_id: str, target_dir: str, refresh_cache: bool = False, source_site: str = "auto") -> Dict[int, Dict]:
     """
-    Fetches and caches the chapter archive: FreeWebNovel FIRST, then NovelPing fallback.
+    Fetches and caches the chapter archive based on source_site ('freewebnovel', 'novelping', or 'auto').
     Returns a dictionary mapping: chapter_number -> {chapter_number, title, url}.
     """
-    cache_path = os.path.join(target_dir, "archive_cache.json")
+    site_key = source_site.lower()
+    if site_key in ("freewebnovel", "freenovel"):
+        cache_filename = "archive_cache_freewebnovel.json"
+    elif site_key == "novelping":
+        cache_filename = "archive_cache_novelping.json"
+    else:
+        cache_filename = "archive_cache.json"
+
+    cache_path = os.path.join(target_dir, cache_filename)
     if not refresh_cache and os.path.exists(cache_path):
         try:
             with open(cache_path, "r", encoding="utf-8") as f:
@@ -415,21 +423,28 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, refresh_cache: bool
 
                 if not is_corrupted:
                     chapter_map = {int(k): v for k, v in cached.items()}
-                    log(f"Loaded {len(chapter_map)} chapters from local archive cache: {cache_path}")
+                    log(f"Loaded {len(chapter_map)} chapters from local archive cache ({cache_filename})")
                     return chapter_map
                 else:
                     log(f"Cached archive for '{novel_id}' was corrupted or incomplete ({len(cached)} items); refreshing online archive...")
         except Exception as e:
             log(f"Warning: Failed to read archive cache ({e}), re-fetching...")
 
-    # 1. Try FreeWebNovel FIRST
-    chapter_map = fetch_freewebnovel_archive(novel_id)
-
-    # 2. If FreeWebNovel failed or returned 0 chapters, fallback to NovelPing
-    if not chapter_map:
+    chapter_map = {}
+    if site_key in ("freewebnovel", "freenovel"):
+        log(f"Querying archive exclusively from FreeWebNovel for '{novel_id}'...")
+        chapter_map = fetch_freewebnovel_archive(novel_id)
+    elif site_key == "novelping":
+        log(f"Querying archive exclusively from NovelPing for '{novel_id}'...")
         chapter_map = fetch_novelping_archive(novel_id)
+    else:
+        # 1. Try FreeWebNovel FIRST
+        chapter_map = fetch_freewebnovel_archive(novel_id)
+        # 2. If FreeWebNovel failed or returned 0 chapters, fallback to NovelPing
+        if not chapter_map:
+            chapter_map = fetch_novelping_archive(novel_id)
 
-    # 3. If both failed, generate synthetic index using FreeWebNovel direct URLs
+    # 3. If still empty, synthetic TOC fallback
     if not chapter_map:
         KNOWN_ESTIMATES = {
             "fourth-princes-debauchery": 734,
@@ -450,12 +465,13 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, refresh_cache: bool
             "illicit-relationship": 1792
         }
         est = KNOWN_ESTIMATES.get(novel_id, 2000)
-        log(f"Warning: Neither FreeWebNovel nor NovelPing archive available for '{novel_id}'. Generating synthetic chapter index (1 to {est}) with FreeWebNovel URLs.")
+        log(f"Warning: Neither FreeWebNovel nor NovelPing archive available for '{novel_id}'. Generating synthetic chapter index (1 to {est}).")
+        prefix = "https://novelping.com/book" if site_key == "novelping" else "https://freewebnovel.com/novel"
         chapter_map = {
             ch: {
                 "chapter_number": ch,
                 "title": f"Chapter {ch}",
-                "url": f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch}"
+                "url": f"{prefix}/{novel_id}/chapter-{ch}"
             }
             for ch in range(1, est + 1)
         }
@@ -490,23 +506,45 @@ def is_bundle_complete(bundle_path: str, expected_count: int) -> bool:
     return False
 
 
-def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int, ch_meta: dict, max_retries: int = 5) -> dict:
-    """Fetches a single chapter with retry backoff and URL fallbacks (FreeWebNovel first, then NovelPing)."""
+def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int, ch_meta: dict, max_retries: int = 5, source_site: str = "auto") -> dict:
+    """Fetches a single chapter with retry backoff and URL fallbacks based on source_site."""
+    site_key = source_site.lower()
     candidate_urls = []
     if ch_meta and ch_meta.get("url"):
         candidate_urls.append(ch_meta["url"])
         slug_part = ch_meta["url"].rstrip("/").split("/")[-1].rstrip(".html")
         if slug_part:
-            candidate_urls.append(f"https://freewebnovel.com/novel/{novel_id}/{slug_part}")
-            candidate_urls.append(f"https://novelping.com/book/{novel_id}/{slug_part}")
-    candidate_urls.extend([
-        f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}",
-        f"https://freewebnovel.com/{novel_id}/chapter-{ch_num}.html",
-        f"https://novelping.com/book/{novel_id}/chapter-{ch_num}"
-    ])
+            if site_key in ("freewebnovel", "freenovel"):
+                candidate_urls.append(f"https://freewebnovel.com/novel/{novel_id}/{slug_part}")
+            elif site_key == "novelping":
+                candidate_urls.append(f"https://novelping.com/book/{novel_id}/{slug_part}")
+            else:
+                candidate_urls.append(f"https://freewebnovel.com/novel/{novel_id}/{slug_part}")
+                candidate_urls.append(f"https://novelping.com/book/{novel_id}/{slug_part}")
+
+    if site_key in ("freewebnovel", "freenovel"):
+        candidate_urls.extend([
+            f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}",
+            f"https://freewebnovel.com/{novel_id}/chapter-{ch_num}.html"
+        ])
+    elif site_key == "novelping":
+        candidate_urls.extend([
+            f"https://novelping.com/book/{novel_id}/chapter-{ch_num}",
+            f"https://novelping.com/book/{novel_id}/chapter-{ch_num}.html"
+        ])
+    else: # auto
+        candidate_urls.extend([
+            f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}",
+            f"https://freewebnovel.com/{novel_id}/chapter-{ch_num}.html",
+            f"https://novelping.com/book/{novel_id}/chapter-{ch_num}"
+        ])
 
     seen = set()
     unique_candidates = [u for u in candidate_urls if not (u in seen or seen.add(u))]
+    if site_key in ("freewebnovel", "freenovel"):
+        unique_candidates = [u for u in unique_candidates if "freewebnovel.com" in u]
+    elif site_key == "novelping":
+        unique_candidates = [u for u in unique_candidates if "novelping.com" in u]
 
     last_error = None
     for url in unique_candidates:
@@ -643,7 +681,8 @@ def scrape_novel_bundles(
     push: bool = True,
     push_frequency: str = "bundle",  # "bundle" or "novel"
     chunk_size: int = 50,
-    refresh_archive: bool = False
+    refresh_archive: bool = False,
+    source_site: str = "auto"
 ):
     """
     Scrapes all missing bundles for a given novel and saves them cleanly.
@@ -656,11 +695,12 @@ def scrape_novel_bundles(
     log(f"\n{'='*70}")
     log(f"  STARTING BULK SCRAPER: {novel_title} ({novel_id})")
     log(f"  Target Directory: {target_dir}")
+    log(f"  Source Site: {source_site.upper()}")
     log(f"  Concurrency: {workers} worker threads | Push to GitHub: {push}")
     log(f"{'='*70}\n")
 
     # 1. Fetch / Load Archive
-    chapter_map = fetch_archive_with_retry(novel_id, target_dir, refresh_cache=refresh_archive)
+    chapter_map = fetch_archive_with_retry(novel_id, target_dir, refresh_cache=refresh_archive, source_site=source_site)
     if not chapter_map:
         log(f"Error: No chapters discovered for '{novel_id}'. Skipping.")
         return
@@ -705,16 +745,17 @@ def scrape_novel_bundles(
         chapters_to_fetch = list(range(s_ch, e_ch + 1))
 
         # Concurrent fetching with ThreadPoolExecutor
+        default_url_prefix = "https://novelping.com/book" if source_site.lower() == "novelping" else "https://freewebnovel.com/novel"
         with ThreadPoolExecutor(max_workers=workers) as executor:
             future_to_num = {}
             for ch_num in chapters_to_fetch:
                 ch_meta = chapter_map.get(ch_num, {
                     "chapter_number": ch_num,
                     "title": f"Chapter {ch_num}",
-                    "url": f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}"
+                    "url": f"{default_url_prefix}/{novel_id}/chapter-{ch_num}"
                 })
                 # Submit worker
-                f = executor.submit(fetch_chapter_with_retries, scraper, novel_id, ch_num, ch_meta, 5)
+                f = executor.submit(fetch_chapter_with_retries, scraper, novel_id, ch_num, ch_meta, 5, source_site)
                 future_to_num[f] = ch_num
                 time.sleep(0.6)  # polite stagger to prevent FreeWebNovel/NovelPing rate-limits
 
@@ -738,10 +779,10 @@ def scrape_novel_bundles(
                 ch_meta = chapter_map.get(ch_num, {
                     "chapter_number": ch_num,
                     "title": f"Chapter {ch_num}",
-                    "url": f"https://freewebnovel.com/novel/{novel_id}/chapter-{ch_num}"
+                    "url": f"{default_url_prefix}/{novel_id}/chapter-{ch_num}"
                 })
                 try:
-                    rescued = fetch_chapter_with_retries(scraper, novel_id, ch_num, ch_meta, max_retries=6)
+                    rescued = fetch_chapter_with_retries(scraper, novel_id, ch_num, ch_meta, max_retries=6, source_site=source_site)
                     bundled_chapters.append(rescued)
                     missing.remove(ch_num)
                     log(f"  [RESCUED] Successfully retrieved Ch. {ch_num}!")
@@ -807,6 +848,7 @@ def main():
     parser.add_argument("--no-push", action="store_false", dest="push", help="Do not push changes to GitHub")
     parser.add_argument("--push-freq", type=str, choices=["bundle", "novel"], default="bundle", help="Git push frequency")
     parser.add_argument("--refresh-archive", action="store_true", help="Force refresh archive cache")
+    parser.add_argument("--site", "--source", choices=["auto", "freewebnovel", "freenovel", "novelping"], default="auto", help="Source website to download from (default: auto)")
     args = parser.parse_args()
 
     # Determine list of novel IDs to process
@@ -840,7 +882,8 @@ def main():
                 workers=args.workers,
                 push=args.push,
                 push_frequency=args.push_freq,
-                refresh_archive=args.refresh_archive
+                refresh_archive=args.refresh_archive,
+                source_site=args.site
             )
         except Exception as e:
             log(f"Error processing novel '{novel_id}': {e}")
