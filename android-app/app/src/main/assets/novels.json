@@ -346,5 +346,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2000,
     "description": "Imported novel: Demonic Pornstar System."
+  },
+  {
+    "id": "reincarnation-in-the-three-kingdoms-era-with-a-system",
+    "title": "Reincarnation In The Three Kingdoms Era With A System",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/reincarnation-in-the-three-kingdoms-era-with-a-system.jpg",
+    "source_url": "https://novelping.com/book/reincarnation-in-the-three-kingdoms-era-with-a-system",
+    "data_path": "data/reincarnation-in-the-three-kingdoms-era-with-a-system/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Reincarnation In The Three Kingdoms Era With A System."
   }
 ]
