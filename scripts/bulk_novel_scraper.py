@@ -682,7 +682,8 @@ def scrape_novel_bundles(
     push_frequency: str = "bundle",  # "bundle" or "novel"
     chunk_size: int = 50,
     refresh_archive: bool = False,
-    source_site: str = "auto"
+    source_site: str = "auto",
+    force: bool = False
 ):
     """
     Scrapes all missing bundles for a given novel and saves them cleanly.
@@ -695,12 +696,12 @@ def scrape_novel_bundles(
     log(f"\n{'='*70}")
     log(f"  STARTING BULK SCRAPER: {novel_title} ({novel_id})")
     log(f"  Target Directory: {target_dir}")
-    log(f"  Source Site: {source_site.upper()}")
+    log(f"  Source Site: {source_site.upper()} | Mode: {'RE-SCRAPE & OVERWRITE' if force else 'NORMAL (Skip existing)'}")
     log(f"  Concurrency: {workers} worker threads | Push to GitHub: {push}")
     log(f"{'='*70}\n")
 
     # 1. Fetch / Load Archive
-    chapter_map = fetch_archive_with_retry(novel_id, target_dir, refresh_cache=refresh_archive, source_site=source_site)
+    chapter_map = fetch_archive_with_retry(novel_id, target_dir, refresh_cache=(refresh_archive or force), source_site=source_site)
     if not chapter_map:
         log(f"Error: No chapters discovered for '{novel_id}'. Skipping.")
         return
@@ -732,11 +733,13 @@ def scrape_novel_bundles(
         bundle_path = os.path.join(target_dir, bundle_filename)
 
         # Check if already complete
-        if is_bundle_complete(bundle_path, slice_count):
+        if not force and is_bundle_complete(bundle_path, slice_count):
             log(f"[{idx}/{len(slices)}] Bundle {bundle_filename} already complete on disk. Skipping.")
             # Make sure manifest records it
             update_manifest(target_dir, bundle_filename, s_ch, e_ch, slice_count, novel_id)
             continue
+        elif force and os.path.exists(bundle_path):
+            log(f"[{idx}/{len(slices)}] Re-scraping and overwriting existing bundle {bundle_filename}...")
 
         log(f"\n--- [{idx}/{len(slices)}] Fetching Chapters {s_ch} to {e_ch} ({slice_count} chapters) ---")
         t_slice_start = time.time()
@@ -849,6 +852,7 @@ def main():
     parser.add_argument("--push-freq", type=str, choices=["bundle", "novel"], default="bundle", help="Git push frequency")
     parser.add_argument("--refresh-archive", action="store_true", help="Force refresh archive cache")
     parser.add_argument("--site", "--source", choices=["auto", "freewebnovel", "freenovel", "novelping"], default="auto", help="Source website to download from (default: auto)")
+    parser.add_argument("--force", "--rescrape", "--overwrite", action="store_true", help="Force re-scrape and overwrite existing bundles on disk")
     args = parser.parse_args()
 
     # Determine list of novel IDs to process
@@ -883,7 +887,8 @@ def main():
                 push=args.push,
                 push_frequency=args.push_freq,
                 refresh_archive=args.refresh_archive,
-                source_site=args.site
+                source_site=args.site,
+                force=args.force
             )
         except Exception as e:
             log(f"Error processing novel '{novel_id}': {e}")

@@ -872,7 +872,8 @@ def scrape_novel_range(
     workers: int = 4,
     push: bool = True,
     chunk_size: int = 50,
-    source_site: str = "auto"
+    source_site: str = "auto",
+    force: bool = False
 ):
     """Scrapes, cleans, and bundles a specified range for a novel."""
     info = NOVELS_CATALOG[novel_id]
@@ -883,11 +884,11 @@ def scrape_novel_range(
     log(f"\n{'='*70}")
     log(f"  SCRAPING: {novel_title}")
     log(f"  Range: Chapters {start_ch} to {end_ch} | Workers: {workers}")
-    log(f"  Source Site: {source_site.upper()}")
+    log(f"  Source Site: {source_site.upper()} | Mode: {'RE-SCRAPE & OVERWRITE' if force else 'NORMAL (Skip existing)'}")
     log(f"  Auto-Clean: ON (zero backslashes, zero ads, TTS ready)")
     log(f"{'='*70}\n")
 
-    chapter_map = fetch_archive_with_retry(novel_id, target_dir, source_site=source_site)
+    chapter_map = fetch_archive_with_retry(novel_id, target_dir, force_refresh=force, source_site=source_site)
 
     slices: List[Tuple[int, int]] = []
     curr = start_ch
@@ -903,10 +904,12 @@ def scrape_novel_range(
         bundle_filename = f"chapters_{s_ch}_{e_ch}.json"
         bundle_path = os.path.join(target_dir, bundle_filename)
 
-        if is_bundle_complete(bundle_path, slice_count):
+        if not force and is_bundle_complete(bundle_path, slice_count):
             log(f"[{idx}/{len(slices)}] Bundle {bundle_filename} is already complete on disk. Skipping.")
             update_manifest(target_dir, bundle_filename, s_ch, e_ch, slice_count, novel_id)
             continue
+        elif force and os.path.exists(bundle_path):
+            log(f"[{idx}/{len(slices)}] Re-scraping and overwriting existing bundle {bundle_filename}...")
 
         log(f"\n--- [{idx}/{len(slices)}] Fetching Chapters {s_ch} to {e_ch} ({slice_count} chapters) ---")
         t_start = time.time()
@@ -1082,6 +1085,15 @@ def interactive_menu():
         e_input = input(f"End Chapter [default {suggested_end}, Max {default_end}]: ").strip()
         end_ch = int(e_input) if e_input else suggested_end
 
+        # Detect overlap with existing local bundles (e.g. typing Start Chapter 1 to rescrape)
+        force = False
+        if count > 0 and start_ch <= max_ch:
+            default_f = 'y' if start_ch == 1 else 'n'
+            f_prompt = f"Existing bundles detected for Chapters {start_ch}-{min(end_ch, max_ch)}. Re-scrape & overwrite? (y/n) [default {default_f}]: "
+            f_input = input(f_prompt).strip().lower()
+            if f_input == 'y' or (not f_input and default_f == 'y'):
+                force = True
+
         # Prompt workers
         w_input = input("Concurrency Worker Threads (2-5) [default 4]: ").strip()
         workers = int(w_input) if w_input else 4
@@ -1090,7 +1102,7 @@ def interactive_menu():
         p_input = input("Commit and push to GitHub origin/main when done? (y/n) [default y]: ").strip().lower()
         push = False if p_input == 'n' else True
 
-        scrape_novel_range(selected_id, start_ch, end_ch, workers=workers, push=push, source_site=source_site)
+        scrape_novel_range(selected_id, start_ch, end_ch, workers=workers, push=push, source_site=source_site, force=force)
 
 
 def main():
@@ -1102,6 +1114,7 @@ def main():
     parser.add_argument("--end", type=int, help="End chapter index")
     parser.add_argument("--workers", type=int, default=4, help="Concurrent workers")
     parser.add_argument("--site", "--source", choices=["auto", "freewebnovel", "freenovel", "novelping"], default="auto", help="Source website to download from (default: auto)")
+    parser.add_argument("--force", "--rescrape", "--overwrite", action="store_true", help="Force re-scrape and overwrite existing chapter bundles on disk")
     parser.add_argument("--no-push", action="store_true", help="Do not push to GitHub")
     parser.add_argument("--all", action="store_true", help="Scrape all incomplete novels")
     parser.add_argument("--add-novel", type=str, help="Add a new novel by URL or slug (e.g. https://freewebnovel.com/novel/shadow-slave)")
@@ -1118,16 +1131,16 @@ def main():
             git_commit_and_push(entry["id"], "novels.json", 0, 0)
         start = args.start if args.start is not None else 1
         end = args.end if args.end is not None else min(50, entry["max_chapters"])
-        scrape_novel_range(entry["id"], start, end, workers=args.workers, push=not args.no_push, source_site=args.site)
+        scrape_novel_range(entry["id"], start, end, workers=args.workers, push=not args.no_push, source_site=args.site, force=args.force)
         return
 
     if args.all:
         for nid, info in NOVELS_CATALOG.items():
             count, min_ch, max_ch = get_local_novel_status(nid)
-            if count < info["max_chapters"]:
-                start = max_ch + 1 if max_ch > 0 else info["default_start"]
+            if count < info["max_chapters"] or args.force:
+                start = max_ch + 1 if (max_ch > 0 and not args.force) else info["default_start"]
                 end = info["max_chapters"]
-                scrape_novel_range(nid, start, end, workers=args.workers, push=not args.no_push, source_site=args.site)
+                scrape_novel_range(nid, start, end, workers=args.workers, push=not args.no_push, source_site=args.site, force=args.force)
         return
 
     if args.novel:
@@ -1138,9 +1151,9 @@ def main():
             return
         info = NOVELS_CATALOG[args.novel]
         count, min_ch, max_ch = get_local_novel_status(args.novel)
-        start = args.start if args.start is not None else ((max_ch + 1) if max_ch > 0 else info["default_start"])
+        start = args.start if args.start is not None else (((max_ch + 1) if not args.force else info["default_start"]) if max_ch > 0 else info["default_start"])
         end = args.end if args.end is not None else info["max_chapters"]
-        scrape_novel_range(args.novel, start, end, workers=args.workers, push=not args.no_push, source_site=args.site)
+        scrape_novel_range(args.novel, start, end, workers=args.workers, push=not args.no_push, source_site=args.site, force=args.force)
         return
 
     # No arguments -> Launch Interactive Menu
