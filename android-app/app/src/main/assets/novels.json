@@ -454,5 +454,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2894,
     "description": "Imported novel: Immortality Through Array Formations."
+  },
+  {
+    "id": "i-can-devour-monsters-sss-talents",
+    "title": "I Can Devour Monsters Sss Talents",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/i-can-devour-monsters-sss-talents.jpg",
+    "source_url": "https://novelping.com/book/i-can-devour-monsters-sss-talents",
+    "data_path": "data/i-can-devour-monsters-sss-talents/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 662,
+    "description": "Imported novel: I Can Devour Monsters Sss Talents."
   }
 ]
