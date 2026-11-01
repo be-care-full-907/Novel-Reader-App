@@ -29,12 +29,49 @@ from typing import Dict, List, Tuple, Optional
 SENTENCE_SPLIT_REGEX = re.compile(r'(?<=[.!?…])\s+(?=[A-Z0-9"“‘\[<—])')
 
 # Pre-compiled high-performance regexes
-INVISIBLE_CHARS_REGEX = re.compile(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f\u200b-\u200f\u2028\u2029\ufeff\xad]')
+INVISIBLE_CHARS_REGEX = re.compile(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f\u200b-\u200f\u2028\u2029\u2060\ufeff\xad]')
 UNICODE_ESCAPE_REGEX = re.compile(r'\\u([0-9a-fA-F]{4})')
 RATIO_SLASH_REGEX = re.compile(r'(\d+)\\(\d+)')
 ORPHAN_BACKSLASH_REGEX1 = re.compile(r'\\\s+')
 ORPHAN_BACKSLASH_REGEX2 = re.compile(r'\\([a-zA-Z0-9_\-])')
 ORPHAN_BACKSLASH_REGEX3 = re.compile(r'\\+\s*$')
+
+# Cyrillic homoglyphs used in anti-scraper watermark obfuscation (e.g. novеlping)
+HOMOGLYPH_TRANSLATION = str.maketrans({
+    '\u0435': 'e', '\u0415': 'E',  # Cyrillic ie
+    '\u043e': 'o', '\u041e': 'O',  # Cyrillic o
+    '\u0430': 'a', '\u0410': 'A',  # Cyrillic a
+    '\u0440': 'p', '\u0420': 'P',  # Cyrillic er
+    '\u0441': 'c', '\u0421': 'C',  # Cyrillic es
+    '\u0456': 'i', '\u0406': 'I',  # Cyrillic i
+    '\u0443': 'y', '\u0423': 'Y',  # Cyrillic u
+    '\u0445': 'x', '\u0425': 'X',  # Cyrillic ha
+    '\u0455': 's', '\u0405': 'S',  # Cyrillic dze
+})
+
+# Watermark domain pattern for NovelPing, NovelBin, and FreeWebNovel
+WATERMARK_DOMAIN = r'(?:novel\s*ping|novel\s*bin|freewebnovel)(?:[\s\(\[\{]*(?:\.|\bdot\b)[\s\)\]\}]*com)?'
+
+# NovelPing & pirate site injected anti-scrape watermark clauses
+NOVELPING_WATERMARK_REGEX = re.compile(
+    r'[\s\(\[\'\"“‘]*'
+    r'(?:'
+    rf'This\s+chapter\s+was\s+(?:taken|copied|stolen)\s+from\s+{WATERMARK_DOMAIN}(?:\s+without\s+permission)?'
+    rf'|This\s+chapter\s+is\s+updated\s+first\s+at\s+{WATERMARK_DOMAIN}'
+    rf'|This\s+story\s+is\s+hosted\s+at\s+{WATERMARK_DOMAIN}'
+    rf'|The\s+source\s+of\s+this\s+chapter\s+is\s+{WATERMARK_DOMAIN}'
+    rf'|You\s+are\s+reading\s+on\s+{WATERMARK_DOMAIN}(?:\s*,\s*the\s+official\s+source)?'
+    rf'|Find\s+the\s+original\s+chapter\s+at\s+{WATERMARK_DOMAIN}'
+    rf'|Follow\s+the\s+newest\s+chapters\s+on\s+{WATERMARK_DOMAIN}'
+    rf'|Visit\s+{WATERMARK_DOMAIN}(?:\s+for\s+the\s+full\s+chapter)?'
+    rf'|Get\s+faster\s+updates\s+on\s+{WATERMARK_DOMAIN}'
+    rf'|New\s+chapters\s+come\s+out\s+on\s+{WATERMARK_DOMAIN}(?:\s+first)?'
+    rf'|Enjoying\s+the\s+story\?\s*Read\s+on\s+at\s+{WATERMARK_DOMAIN}'
+    rf'|Read\s+(?:this\s+novel\s+at|the\s+latest\s+chapters\s+at|on\s+at|on)\s+{WATERMARK_DOMAIN}(?:\s+for\s+the\s+best\s+experience)?'
+    r')'
+    r'[\s\)\]\'\"”’\.]*',
+    re.I
+)
 
 # Fullwidth punctuation to standard ASCII (for correct TTS pausing and readability)
 FULLWIDTH_TRANSLATION = str.maketrans({
@@ -265,8 +302,11 @@ def clean_paragraph_text(text: str) -> str:
     text = text.translate(FULLWIDTH_TRANSLATION)
     text = PUNCT_SPACING_REGEX.sub(r'\1 ', text)
 
-    # 6. Invisible / control characters & soft hyphens
+    # 6. Invisible / control characters & soft hyphens (including zero-width joiner \u2060)
     text = INVISIBLE_CHARS_REGEX.sub('', text)
+
+    # 6b. Normalize Cyrillic homoglyphs used in pirate site watermarks (e.g. novеlping)
+    text = text.translate(HOMOGLYPH_TRANSLATION)
 
     # 7. Normalize mathematical monospace / bold unicode characters
     text = unicodedata.normalize('NFKD', text)
@@ -281,7 +321,8 @@ def clean_paragraph_text(text: str) -> str:
         text = re.sub(r'\s[\ufffd]+', ' "', text)
         text = text.replace('\ufffd', '')
 
-    # 9. Strip inline injected watermarks, discord links, and donation URLs
+    # 9. Strip NovelPing & pirate site stealth watermarks, discord links, and donation URLs
+    text = NOVELPING_WATERMARK_REGEX.sub('', text)
     for iw in INLINE_WATERMARK_PATTERNS:
         text = iw.sub('', text)
     if 'discord' in text.lower():
@@ -289,10 +330,10 @@ def clean_paragraph_text(text: str) -> str:
     if any(k in text.lower() for k in ['patreon', 'ko-fi', 'paypal', 'p4tre0n', 'p.a.t.r.e.o.n', 'pat-reon', 'pa-treon']):
         text = DONATION_URL_REGEX.sub('', text)
 
-    # Stealth domain suffixes attached to sentence ends: e.g. "said.freewebnovel.com" -> "said."
-    text = re.sub(r'([\.\!\?\"\'”’\)])\s*(?:https?://)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\'\"”’\.\,\)]*', r'\1', text, flags=re.I)
-    text = re.sub(r'(?<=[a-zA-Z0-9])\.(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b', '.', text, flags=re.I)
-    text = re.sub(r'[\s\(\[\'\"]*(?:https?://)?(?:www\.)?(?:free|allfree|mt)?webnovel\.(?:com|net|org)\b[\s\)\]\'\"\.]*', ' ', text, flags=re.I)
+    # Stealth domain suffixes attached to sentence ends: e.g. "said.novelping.com" -> "said."
+    text = re.sub(r'([\.\!\?\"\'”’\)])\s*(?:https?://)?(?:www\.)?(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)?\.(?:com|net|org)\b[\'\"”’\.\,\)]*', r'\1', text, flags=re.I)
+    text = re.sub(r'(?<=[a-zA-Z0-9])\.(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)\.(?:com|net|org)\b', '.', text, flags=re.I)
+    text = re.sub(r'[\s\(\[\'\"]*(?:https?://)?(?:www\.)?(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)\.(?:com|net|org)\b[\s\)\]\'\"\.]*', ' ', text, flags=re.I)
 
     # 10. Replace any special character repeated 3 or more times (e.g. +++, ++++++%, ***, ---, ===, ~~~, ###, $$$, ///, ___) with '' (blank)
     text = REPEATED_SPECIAL_CHARS.sub('', text)
@@ -324,6 +365,13 @@ def is_ad_or_watermark_paragraph(text: str) -> bool:
 
     clean_p = text.strip()
     clean_p_lower = clean_p.lower()
+
+    # Fast check for pure NovelPing / pirate site watermarks
+    norm_p = clean_p.translate(HOMOGLYPH_TRANSLATION)
+    if 'novelping' in norm_p.lower() or 'freewebnovel' in norm_p.lower() or 'novelbin' in norm_p.lower():
+        cl_check = NOVELPING_WATERMARK_REGEX.sub('', norm_p).strip()
+        if len(cl_check) == 0:
+            return True
 
     # Fast Author Note checks
     if AUTHOR_NOTE_HEADER.match(clean_p) or AUTHOR_NOTE_PREFIX.match(clean_p):

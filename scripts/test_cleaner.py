@@ -106,6 +106,24 @@ if __name__ == "__main__":
     assert is_ad_or_watermark_paragraph("Keep the Magic Castles and Golden Tickets coming!") is True, "Golden tickets begging detected"
     assert is_ad_or_watermark_paragraph("4/4 Keep the Magic Castles and Golden Tickets coming! Looks like we’ll finish top 10 this month!") is True, "Magic castles begging detected"
 
+    # NovelPing & pirate site watermark assertions
+    assert clean_paragraph_text("In the blink of an eye, the hundreds of ice arrows shot together, and the momentum was extremely terrifying.This chapter was taken from novelping dot com without permission.") == "In the blink of an eye, the hundreds of ice arrows shot together, and the momentum was extremely terrifying."
+    assert clean_paragraph_text("Pollen is poisonous! This chapter was taken from nov\u0435lping.com without permission.") == "Pollen is poisonous!"
+    assert clean_paragraph_text("He ignored it, tried to extract endlessly, and successfully extracted 6 energy attributes, which was considered a gain.New chapters come out on novelping.com first.") == "He ignored it, tried to extract endlessly, and successfully extracted 6 energy attributes, which was considered a gain."
+    assert clean_paragraph_text("After he kills these demon flowers, he should be able to rise to level 13.You are reading on novelping . com, the official source.") == "After he kills these demon flowers, he should be able to rise to level 13."
+    assert clean_paragraph_text("Even if he was as strong as him, after fifteen minutes of continuous use, he felt quite exhausted.Find the original chapter at novelping(.)com.") == "Even if he was as strong as him, after fifteen minutes of continuous use, he felt quite exhausted."
+    assert clean_paragraph_text("This dead wood old demon is a bit arrogant! This chapter is updated first at novelping.com.") == "This dead wood old demon is a bit arrogant!"
+    assert clean_paragraph_text("Qin Feng slashed wildly.This story is hosted at nov\u0435lping.com.") == "Qin Feng slashed wildly."
+    assert clean_paragraph_text("Those people are desperately trying to survive.This story is hosted at NovelPing.") == "Those people are desperately trying to survive."
+    assert clean_paragraph_text("Synthetic cards are what he needs most! You are reading on NovelPing, the official source.") == "Synthetic cards are what he needs most!"
+    assert clean_paragraph_text("In a twinkling of an eye, the wristbands became shiny silver, and the holy light radiated out, as if brand new.Read this novel at nov\u0435lping.com for the best experience.") == "In a twinkling of an eye, the wristbands became shiny silver, and the holy light radiated out, as if brand new."
+    assert clean_paragraph_text("Anyway, in one day, he can perform 'One Key Return' three times.This chapter was taken from novel\u2060ping.com without permission.") == "Anyway, in one day, he can perform 'One Key Return' three times."
+    assert clean_paragraph_text("This chapter was taken from novelping(.)com without permission.") == ""
+    assert is_ad_or_watermark_paragraph("This chapter was taken from novelping(.)com without permission.") is True
+    assert is_ad_or_watermark_paragraph("Visit nov\u0435lping.com for the full chapter.") is True
+    assert is_ad_or_watermark_paragraph("Only when the village reaches level 1, the village chief's wooden house has permission to upgrade to level 3.") is False, "Story context with permission must be preserved"
+    assert is_ad_or_watermark_paragraph("Only the villager's wooden house has permission to upgrade to level 2.") is False, "Story context with permission must be preserved"
+
     # End-to-end chapter test with Author Notes, Discord, Voting, and Tail Self-Promo
     test_ch = {
         "title": "Chapter 1: The Beginning",
