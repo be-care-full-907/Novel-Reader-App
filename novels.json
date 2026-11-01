@@ -406,5 +406,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2000,
     "description": "Imported novel: Global Awakening Infinite Gift Pack System."
+  },
+  {
+    "id": "global-floating-islands-i-have-sss-talent",
+    "title": "Global Floating Islands I Have Sss Talent",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/global-floating-islands-i-have-sss-talent.jpg",
+    "source_url": "https://freewebnovel.com/novel/global-floating-islands-i-have-sss-talent",
+    "data_path": "data/global-floating-islands-i-have-sss-talent/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Global Floating Islands I Have Sss Talent."
   }
 ]
