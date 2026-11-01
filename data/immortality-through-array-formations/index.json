@@ -1,0 +1,12 @@
+{
+  "novel_id": "immortality-through-array-formations",
+  "bundles": [
+    {
+      "bundle_file": "chapters_1_50.json",
+      "start_chapter": 1,
+      "end_chapter": 50,
+      "chapter_count": 50,
+      "updated_at": "2026-11-01T16:04:29Z"
+    }
+  ]
+}

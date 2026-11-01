@@ -442,5 +442,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 986,
     "description": "Imported novel: Lust System Harem Of Beautiful Women."
+  },
+  {
+    "id": "immortality-through-array-formations",
+    "title": "Immortality Through Array Formations",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/immortality-through-array-formations.jpg",
+    "source_url": "https://freewebnovel.com/novel/immortality-through-array-formations",
+    "data_path": "data/immortality-through-array-formations/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2894,
+    "description": "Imported novel: Immortality Through Array Formations."
   }
 ]
