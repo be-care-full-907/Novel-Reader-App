@@ -394,5 +394,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 878,
     "description": "Imported novel: Global Game My Divine Skills Reach Full Level Automatically."
+  },
+  {
+    "id": "global-awakening-infinite-gift-pack-system",
+    "title": "Global Awakening Infinite Gift Pack System",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/global-awakening-infinite-gift-pack-system.jpg",
+    "source_url": "https://novelping.com/book/global-awakening-infinite-gift-pack-system",
+    "data_path": "data/global-awakening-infinite-gift-pack-system/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Global Awakening Infinite Gift Pack System."
   }
 ]
