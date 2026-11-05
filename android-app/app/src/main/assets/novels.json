@@ -514,5 +514,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 3728,
     "description": "Imported novel: Global Game Afk In The Zombie Apocalypse Game."
+  },
+  {
+    "id": "one-click-training-system-instantly-millions",
+    "title": "One Click Training System Instantly Millions",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/one-click-training-system-instantly-millions.jpg",
+    "source_url": "https://novelping.com/book/one-click-training-system-instantly-millions",
+    "data_path": "data/one-click-training-system-instantly-millions/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2980,
+    "description": "Imported novel: One Click Training System Instantly Millions."
   }
 ]
