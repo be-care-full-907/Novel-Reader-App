@@ -502,5 +502,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2000,
     "description": "Imported novel: Peerless Genius System."
+  },
+  {
+    "id": "global-game-afk-in-the-zombie-apocalypse-game",
+    "title": "Global Game Afk In The Zombie Apocalypse Game",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/global-game-afk-in-the-zombie-apocalypse-game.jpg",
+    "source_url": "https://novelping.com/book/global-game-afk-in-the-zombie-apocalypse-game",
+    "data_path": "data/global-game-afk-in-the-zombie-apocalypse-game/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 3728,
+    "description": "Imported novel: Global Game Afk In The Zombie Apocalypse Game."
   }
 ]
