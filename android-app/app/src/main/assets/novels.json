@@ -538,5 +538,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2000,
     "description": "Imported novel: Scholars Advanced Technological System."
+  },
+  {
+    "id": "rebate-king-every-beauty-i-spoil-makes-me-a-billionaire",
+    "title": "Rebate King Every Beauty I Spoil Makes Me A Billionaire",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/rebate-king-every-beauty-i-spoil-makes-me-a-billionaire.jpg",
+    "source_url": "https://novelping.com/book/rebate-king-every-beauty-i-spoil-makes-me-a-billionaire",
+    "data_path": "data/rebate-king-every-beauty-i-spoil-makes-me-a-billionaire/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 507,
+    "description": "Imported novel: Rebate King Every Beauty I Spoil Makes Me A Billionaire."
   }
 ]
