@@ -526,5 +526,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2980,
     "description": "Imported novel: One Click Training System Instantly Millions."
+  },
+  {
+    "id": "scholars-advanced-technological-system",
+    "title": "Scholars Advanced Technological System",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/scholars-advanced-technological-system.jpg",
+    "source_url": "https://novelping.com/book/scholars-advanced-technological-system",
+    "data_path": "data/scholars-advanced-technological-system/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Scholars Advanced Technological System."
   }
 ]
