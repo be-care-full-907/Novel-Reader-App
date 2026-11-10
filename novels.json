@@ -574,5 +574,29 @@
     "start_bundle_chapter": 1,
     "total_chapters": 305,
     "description": "Imported novel: Investing In My Three Crippled Wives Get 10000X Times Return."
+  },
+  {
+    "id": "first-day-in-game-i-got-ten-billion-from-infinite-number-of-check-ins",
+    "title": "First Day In Game I Got Ten Billion From Infinite Number Of Check Ins",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/first-day-in-game-i-got-ten-billion-from-infinite-number-of-check-ins.jpg",
+    "source_url": "https://novelping.com/book/first-day-in-game-i-got-ten-billion-from-infinite-number-of-check-ins",
+    "data_path": "data/first-day-in-game-i-got-ten-billion-from-infinite-number-of-check-ins/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 557,
+    "description": "Imported novel: First Day In Game I Got Ten Billion From Infinite Number Of Check Ins."
+  },
+  {
+    "id": "signing-in-for-eight-years-i-was-exposed-as-a-zillionaire",
+    "title": "Signing In For Eight Years I Was Exposed As A Zillionaire",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/signing-in-for-eight-years-i-was-exposed-as-a-zillionaire.jpg",
+    "source_url": "https://novelping.com/book/signing-in-for-eight-years-i-was-exposed-as-a-zillionaire",
+    "data_path": "data/signing-in-for-eight-years-i-was-exposed-as-a-zillionaire/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 1174,
+    "description": "Imported novel: Signing In For Eight Years I Was Exposed As A Zillionaire."
   }
 ]
