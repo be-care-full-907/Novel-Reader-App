@@ -550,5 +550,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 507,
     "description": "Imported novel: Rebate King Every Beauty I Spoil Makes Me A Billionaire."
+  },
+  {
+    "id": "great-doctor-ling-ran",
+    "title": "Great Doctor Ling Ran",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/great-doctor-ling-ran.jpg",
+    "source_url": "https://novelping.com/book/great-doctor-ling-ran",
+    "data_path": "data/great-doctor-ling-ran/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 1445,
+    "description": "Imported novel: Great Doctor Ling Ran."
   }
 ]
