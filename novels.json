@@ -622,5 +622,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 554,
     "description": "Imported novel: Online Game I Have A 100 Drop Rate."
+  },
+  {
+    "id": "pay-to-win-cultivation-i-get-10000x-returns",
+    "title": "Pay To Win Cultivation I Get 10000X Returns",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/pay-to-win-cultivation-i-get-10000x-returns.jpg",
+    "source_url": "https://novelping.com/book/pay-to-win-cultivation-i-get-10000x-returns",
+    "data_path": "data/pay-to-win-cultivation-i-get-10000x-returns/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 910,
+    "description": "Imported novel: Pay To Win Cultivation I Get 10000X Returns."
   }
 ]
