@@ -610,5 +610,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 690,
     "description": "Imported novel: Summoning Millions Of Gods Daily My Strength Equals Theirs Combined."
+  },
+  {
+    "id": "online-game-i-have-a-100-drop-rate",
+    "title": "Online Game I Have A 100 Drop Rate",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/online-game-i-have-a-100-drop-rate.jpg",
+    "source_url": "https://novelping.com/book/online-game-i-have-a-100-drop-rate",
+    "data_path": "data/online-game-i-have-a-100-drop-rate/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 554,
+    "description": "Imported novel: Online Game I Have A 100 Drop Rate."
   }
 ]
