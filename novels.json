@@ -646,5 +646,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2000,
     "description": "Imported novel: After Marrying 5 Yandere Wives I Obtained A 10000X Return System."
+  },
+  {
+    "id": "cultivation-online-novel",
+    "title": "Cultivation Online Novel",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/cultivation-online-novel.jpg",
+    "source_url": "https://novelping.com/book/cultivation-online-novel",
+    "data_path": "data/cultivation-online-novel/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Cultivation Online Novel."
   }
 ]
