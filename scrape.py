@@ -211,6 +211,11 @@ def load_catalog_from_file():
         print(f"Warning: Failed to load novels.json: {e}")
 
 
+def strip_html_suffix(s: str) -> str:
+    """Safely strips .html or .htm suffix without character-class stripping."""
+    return re.sub(r'\.html?$', '', s.strip(), flags=re.I)
+
+
 def parse_novel_input(raw_input: str) -> Optional[dict]:
     """Parses a FreeWebNovel URL, NovelPing URL, or novel slug into a catalog entry."""
     val = raw_input.strip()
@@ -223,22 +228,22 @@ def parse_novel_input(raw_input: str) -> Optional[dict]:
     # 1. FreeWebNovel formats
     m = re.search(r'freewebnovel\.com/novel/([^/?#]+)', val, re.I)
     if m:
-        slug = m.group(1).rstrip(".html")
+        slug = strip_html_suffix(m.group(1))
     if not slug:
         m = re.search(r'freewebnovel\.com/([^/?#]+)(?:/chapter|\.html)?', val, re.I)
         if m and m.group(1).lower() not in ('sort', 'genre', 'search', 'latest-novel'):
-            slug = m.group(1).rstrip(".html")
+            slug = strip_html_suffix(m.group(1))
 
     # 2. NovelPing formats
     if not slug:
         m = re.search(r'novelping\.com/book/([^/?#]+)', val, re.I)
         if m:
-            slug = m.group(1).rstrip(".html")
+            slug = strip_html_suffix(m.group(1))
 
     # 3. Plain URL or slug fallback
     if not slug:
         if val.startswith("http://") or val.startswith("https://"):
-            parts = [p.rstrip(".html") for p in val.split('/') if p]
+            parts = [strip_html_suffix(p) for p in val.split('/') if p]
             if parts:
                 slug = parts[-1]
         else:
@@ -301,6 +306,104 @@ def parse_novel_input(raw_input: str) -> Optional[dict]:
         "total_chapters": est_chapters,
         "description": f"Imported novel: {title}."
     }
+
+
+def prompt_edit_novel_entry(entry: dict) -> Optional[dict]:
+    """
+    Displays the parsed novel details in terminal and allows editing any field before saving to novels.json.
+    Returns the edited entry dict, or None if user chooses to cancel.
+    """
+    current = dict(entry)
+    while True:
+        print("\n" + "=" * 62)
+        print("                 NOVEL ENTRY DETAILS PREVIEW")
+        print("=" * 62)
+        print(f" [1] ID / Slug     : {current.get('id', '')}")
+        print(f" [2] Title         : {current.get('title', '')}")
+        print(f" [3] Author        : {current.get('author', 'Web Novel')}")
+        print(f" [4] Total Chapters: {current.get('total_chapters', 2000)}")
+        print(f" [5] Source URL    : {current.get('source_url', '')}")
+        print(f" [6] Cover URL     : {current.get('cover_url', '')}")
+        print(f" [7] Data Path     : {current.get('data_path', '')}")
+        print(f" [8] Description   : {current.get('description', '')}")
+        print("=" * 62)
+        print("Press [Enter] to confirm and save, 'e' (or 1-8) to edit fields, 'c' to cancel: ", end="", flush=True)
+
+        try:
+            choice = input().strip()
+        except (EOFError, KeyboardInterrupt):
+            print("\nAddition canceled.")
+            return None
+
+        if not choice:
+            return current
+
+        choice_low = choice.lower()
+        if choice_low in ('c', 'cancel', 'q', 'quit'):
+            print("Addition canceled.")
+            return None
+
+        fields_to_edit = []
+        if choice_low in ('e', 'edit', 'all'):
+            fields_to_edit = ['1', '2', '3', '4', '5', '6', '7', '8']
+        elif choice in ('1', '2', '3', '4', '5', '6', '7', '8'):
+            fields_to_edit = [choice]
+        else:
+            print(f"Unknown option '{choice}'. Please select 1-8, 'e' to edit, or press Enter to save.")
+            continue
+
+        for fld in fields_to_edit:
+            if fld == '1':
+                old_val = current.get('id', '')
+                val = input(f"Enter new ID / Slug [{old_val}]: ").strip()
+                if val:
+                    val_slug = re.sub(r'[^a-z0-9_-]', '-', val.lower()).strip('-')
+                    if val_slug:
+                        current['id'] = val_slug
+                        if current.get('data_path') == f"data/{old_val}/":
+                            current['data_path'] = f"data/{val_slug}/"
+                        if old_val in current.get('cover_url', ''):
+                            current['cover_url'] = current['cover_url'].replace(old_val, val_slug)
+            elif fld == '2':
+                old_val = current.get('title', '')
+                val = input(f"Enter Title [{old_val}]: ").strip()
+                if val:
+                    current['title'] = val
+                    if current.get('description') == f"Imported novel: {old_val}.":
+                        current['description'] = f"Imported novel: {val}."
+            elif fld == '3':
+                old_val = current.get('author', 'Web Novel')
+                val = input(f"Enter Author [{old_val}]: ").strip()
+                if val:
+                    current['author'] = val
+            elif fld == '4':
+                old_val = current.get('total_chapters', 2000)
+                val = input(f"Enter Total Chapters [{old_val}]: ").strip()
+                if val and val.isdigit():
+                    current['total_chapters'] = int(val)
+            elif fld == '5':
+                old_val = current.get('source_url', '')
+                val = input(f"Enter Source URL [{old_val}]: ").strip()
+                if val:
+                    current['source_url'] = val
+            elif fld == '6':
+                old_val = current.get('cover_url', '')
+                val = input(f"Enter Cover URL [{old_val}]: ").strip()
+                if val:
+                    current['cover_url'] = val
+            elif fld == '7':
+                old_val = current.get('data_path', '')
+                val = input(f"Enter Data Path [{old_val}]: ").strip()
+                if val:
+                    if not val.endswith('/'): val += '/'
+                    current['data_path'] = val
+            elif fld == '8':
+                old_val = current.get('description', '')
+                val = input(f"Enter Description [{old_val}]: ").strip()
+                if val:
+                    current['description'] = val
+
+    return current
 
 
 def register_new_novel(novel_entry: dict):
@@ -691,7 +794,7 @@ def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int
     candidate_urls = []
     if ch_meta and ch_meta.get("url"):
         candidate_urls.append(ch_meta["url"])
-        slug_part = ch_meta["url"].rstrip("/").split("/")[-1].rstrip(".html")
+        slug_part = strip_html_suffix(ch_meta["url"].rstrip("/").split("/")[-1])
         if slug_part:
             if site_key in ("freewebnovel", "freenovel"):
                 candidate_urls.append(f"https://freewebnovel.com/novel/{novel_id}/{slug_part}")
@@ -1026,10 +1129,13 @@ def interactive_menu():
             if not entry:
                 print("Invalid URL or novel slug format.")
                 continue
+            entry = prompt_edit_novel_entry(entry)
+            if not entry:
+                continue
             register_new_novel(entry)
-            scrape_now = input(f"Scrape Chapters 1-50 for '{entry['title']}' now? (y/n) [default y]: ").strip().lower()
+            scrape_now = input(f"\nScrape Chapters 1-50 for '{entry['title']}' now? (y/n) [default y]: ").strip().lower()
             if scrape_now != 'n':
-                scrape_novel_range(entry["id"], 1, min(50, entry["max_chapters"]), workers=4, push=True)
+                scrape_novel_range(entry["id"], 1, min(50, entry.get("total_chapters", 2000)), workers=4, push=True)
             continue
 
         if choice == 'a':
@@ -1118,6 +1224,7 @@ def main():
     parser.add_argument("--no-push", action="store_true", help="Do not push to GitHub")
     parser.add_argument("--all", action="store_true", help="Scrape all incomplete novels")
     parser.add_argument("--add-novel", type=str, help="Add a new novel by URL or slug (e.g. https://freewebnovel.com/novel/shadow-slave)")
+    parser.add_argument("--edit", action="store_true", help="Interactively edit novel details before saving when using --add-novel")
 
     args = parser.parse_args()
 
@@ -1126,11 +1233,15 @@ def main():
         if not entry:
             print(f"Error: Could not parse novel from '{args.add_novel}'")
             return
+        if args.edit:
+            entry = prompt_edit_novel_entry(entry)
+            if not entry:
+                return
         register_new_novel(entry)
         if not args.no_push:
             git_commit_and_push(entry["id"], "novels.json", 0, 0)
         start = args.start if args.start is not None else 1
-        end = args.end if args.end is not None else min(50, entry["max_chapters"])
+        end = args.end if args.end is not None else min(50, entry.get("total_chapters", 2000))
         scrape_novel_range(entry["id"], start, end, workers=args.workers, push=not args.no_push, source_site=args.site, force=args.force)
         return
 

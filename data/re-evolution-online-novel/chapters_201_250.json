@@ -809,7 +809,7 @@
         "Liam narrowed his eyes and took out the small white pearls. He had two of them. He only needed one right now so he placed the other one back into the inventory.",
         "\"Will this witch's charm work on other girls too? Well, whatever. I should try it.\"",
         "He then looked at the item description for the pearl which was rather vague.",
-        "[Naga Pearl] – Summons the naga who produced this pearl",
+        "[Naga Pearl] - Summons the naga who produced this pearl",
         "\"Ok. Here it goes.\" He let out a deep breath and activated the summon spell attached to the pearl.",
         "Almost immediately, the space in front of him distorted and a silver mist started spreading. Liam became alert and quickly took a couple of steps back.",
         "The silver mist slowly became thicker and thicker and the next instant all the wisps suddenly condensed together forming a figure shaped like a lamia.",
@@ -1110,7 +1110,7 @@
         {
           "id": 57,
           "paragraph_id": 43,
-          "text": "[Naga Pearl] – Summons the naga who produced this pearl"
+          "text": "[Naga Pearl] - Summons the naga who produced this pearl"
         },
         {
           "id": 58,
@@ -10379,7 +10379,7 @@
         "\"Hmmm...\"",
         "The chubby guy noticed that his boss was deeply thinking about something, so he asked again. \"Why? Did anything else catch your eye?\"",
         "\"No. Not that.\" The 'boss' paused and then added. \"Have you noticed how the elite drops look? They all have inscriptions on them. This makes the item more powerful.\"",
-        "\"However....\"",
+        "\"However...\"",
         "The chubby guy immediately gasped. He might be a bit slow compared to his boss but this hint was more than enough for him to see the obvious.",
         "\"So someone can actually forge an Epic ranked item?!\"",
         "\"Yes, nothing else makes sense.\"",
@@ -10808,7 +10808,7 @@
         {
           "id": 81,
           "paragraph_id": 48,
-          "text": "\"However....\""
+          "text": "\"However...\""
         },
         {
           "id": 82,
@@ -19217,9 +19217,6 @@
         "Clap. Clap. Liam clapped his hands and gazed coldly at the thirty demons standing in front of him. \"It is time. Fight. Kill and Survive.\"",
         "He then tore open the portal scroll, a blinding red light enveloping the whole group.",
         "The next second the group of demons, Liam and Talon got teleported from the nether realm to Xion.",
-        "...",
-        "...",
-        "...",
         "\"Boss, will this really work out?\"",
         "\"Wait. Shut up.\" Victor hurriedly shushed his lackey. Approaching the two of them was the stormtroopers guild leader, Sterling.",
         "\"What Victor? What are you both talking about?\" He asked casually, but from his tone and mannerisms, one could say that he was not really being that casual.",
@@ -19417,480 +19414,465 @@
         {
           "id": 26,
           "paragraph_id": 15,
-          "text": "..."
+          "text": "\"Boss, will this really work out?\""
         },
         {
           "id": 27,
           "paragraph_id": 16,
-          "text": "..."
-        },
-        {
-          "id": 28,
-          "paragraph_id": 17,
-          "text": "..."
-        },
-        {
-          "id": 29,
-          "paragraph_id": 18,
-          "text": "\"Boss, will this really work out?\""
-        },
-        {
-          "id": 30,
-          "paragraph_id": 19,
           "text": "\"Wait."
         },
         {
-          "id": 31,
-          "paragraph_id": 19,
+          "id": 28,
+          "paragraph_id": 16,
           "text": "Shut up.\" Victor hurriedly shushed his lackey."
         },
         {
-          "id": 32,
-          "paragraph_id": 19,
+          "id": 29,
+          "paragraph_id": 16,
           "text": "Approaching the two of them was the stormtroopers guild leader, Sterling."
         },
         {
-          "id": 33,
-          "paragraph_id": 20,
+          "id": 30,
+          "paragraph_id": 17,
           "text": "\"What Victor?"
         },
         {
-          "id": 34,
-          "paragraph_id": 20,
+          "id": 31,
+          "paragraph_id": 17,
           "text": "What are you both talking about?\" He asked casually, but from his tone and mannerisms, one could say that he was not really being that casual."
         },
         {
-          "id": 35,
-          "paragraph_id": 21,
+          "id": 32,
+          "paragraph_id": 18,
           "text": "\"Nothing."
         },
         {
-          "id": 36,
-          "paragraph_id": 21,
+          "id": 33,
+          "paragraph_id": 18,
           "text": "Nothing, guild leader.\" Victor awkwardly ruffled his hair."
         },
         {
-          "id": 37,
-          "paragraph_id": 21,
+          "id": 34,
+          "paragraph_id": 18,
           "text": "He did not dare to say anything."
         },
         {
-          "id": 38,
-          "paragraph_id": 22,
+          "id": 35,
+          "paragraph_id": 19,
           "text": "Just a couple of days back, his life was almost over."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 19,
+          "text": "He had no life, no future, nothing, and on top of that he had mountains and mountains of debts."
+        },
+        {
+          "id": 37,
+          "paragraph_id": 20,
+          "text": "But then miraculously his bad luck took a turn for the better."
+        },
+        {
+          "id": 38,
+          "paragraph_id": 21,
+          "text": "Just when he thought that his life was over, out of nowhere, he somehow landed a rare quest."
         },
         {
           "id": 39,
           "paragraph_id": 22,
-          "text": "He had no life, no future, nothing, and on top of that he had mountains and mountains of debts."
+          "text": "Victor had immediately rushed over to the tavern that his ex-guild members liked to hang out and begged and pleaded."
         },
         {
           "id": 40,
           "paragraph_id": 23,
-          "text": "But then miraculously his bad luck took a turn for the better."
+          "text": "Finally, after he mentioned the rare quest, Sterling agreed to hear him out."
         },
         {
           "id": 41,
           "paragraph_id": 24,
-          "text": "Just when he thought that his life was over, out of nowhere, he somehow landed a rare quest."
+          "text": "And once he did, just like he expected, he was given a second chance."
         },
         {
           "id": 42,
           "paragraph_id": 25,
-          "text": "Victor had immediately rushed over to the tavern that his ex-guild members liked to hang out and begged and pleaded."
+          "text": "This rare quest was definitely game-changing."
         },
         {
           "id": 43,
           "paragraph_id": 26,
-          "text": "Finally, after he mentioned the rare quest, Sterling agreed to hear him out."
+          "text": "If they could successfully finish this quest, then they might even be able to get their hands on a Kingdom quest or even more unique questline."
         },
         {
           "id": 44,
           "paragraph_id": 27,
-          "text": "And once he did, just like he expected, he was given a second chance."
+          "text": "Having brought his guild such a good thing, how could he not be accepted?"
         },
         {
           "id": 45,
           "paragraph_id": 28,
-          "text": "This rare quest was definitely game-changing."
-        },
-        {
-          "id": 46,
-          "paragraph_id": 29,
-          "text": "If they could successfully finish this quest, then they might even be able to get their hands on a Kingdom quest or even more unique questline."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 30,
-          "text": "Having brought his guild such a good thing, how could he not be accepted?"
-        },
-        {
-          "id": 48,
-          "paragraph_id": 31,
           "text": "However, Victor still did not dare to act arrogant."
         },
         {
-          "id": 49,
-          "paragraph_id": 31,
+          "id": 46,
+          "paragraph_id": 28,
           "text": "After all, he had lost too much face."
         },
         {
-          "id": 50,
-          "paragraph_id": 31,
+          "id": 47,
+          "paragraph_id": 28,
           "text": "He had to now pay the price for it and earn back all of it slowly and steadily."
         },
         {
-          "id": 51,
-          "paragraph_id": 32,
+          "id": 48,
+          "paragraph_id": 29,
           "text": "\"So is it time?\" Sterling asked him."
         },
         {
-          "id": 52,
-          "paragraph_id": 33,
+          "id": 49,
+          "paragraph_id": 30,
           "text": "\"Yes."
         },
         {
-          "id": 53,
-          "paragraph_id": 33,
+          "id": 50,
+          "paragraph_id": 30,
           "text": "Yes."
         },
         {
-          "id": 54,
-          "paragraph_id": 33,
+          "id": 51,
+          "paragraph_id": 30,
           "text": "It should be, guild master."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 30,
+          "text": "Any second now, I think.\" Victor quickly replied."
+        },
+        {
+          "id": 53,
+          "paragraph_id": 31,
+          "text": "He wiped the sweat off of his forehead and turned to look around, searching for any signs of disturbance."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 32,
+          "text": "Including Victor, about 50 of their guild members were currently standing in a huge football field sized crater with holes like a sieve."
         },
         {
           "id": 55,
           "paragraph_id": 33,
-          "text": "Any second now, I think.\" Victor quickly replied."
+          "text": "From within these holes, lava, smoke, and fumes burst out from time to time spilling on the nearby players and taking away chunks of their health."
         },
         {
           "id": 56,
           "paragraph_id": 34,
-          "text": "He wiped the sweat off of his forehead and turned to look around, searching for any signs of disturbance."
+          "text": "However, despite the hazardous conditions, the guild group still continued to stand in this location and wait."
         },
         {
           "id": 57,
           "paragraph_id": 35,
-          "text": "Including Victor, about 50 of their guild members were currently standing in a huge football field sized crater with holes like a sieve."
+          "text": "And this was all because of Victor's rare quest."
         },
         {
           "id": 58,
           "paragraph_id": 36,
-          "text": "From within these holes, lava, smoke, and fumes burst out from time to time spilling on the nearby players and taking away chunks of their health."
+          "text": "Since the conditions were so bad, and considering his earlier fiasco, obviously many people were not pleased with him."
         },
         {
           "id": 59,
           "paragraph_id": 37,
-          "text": "However, despite the hazardous conditions, the guild group still continued to stand in this location and wait."
+          "text": "But Sterling had personally taken a look at the quest and since he vouched for him, all the elites of the guild also had no other choice but to trust him and wait."
         },
         {
           "id": 60,
           "paragraph_id": 38,
-          "text": "And this was all because of Victor's rare quest."
+          "text": "Time slowly passed and with each second, Victor grew more and more nervous."
         },
         {
           "id": 61,
           "paragraph_id": 39,
-          "text": "Since the conditions were so bad, and considering his earlier fiasco, obviously many people were not pleased with him."
+          "text": "He couldn't help but pray to all the gods in his heart to somehow help him get past this quest and obtain the reward."
         },
         {
           "id": 62,
           "paragraph_id": 40,
-          "text": "But Sterling had personally taken a look at the quest and since he vouched for him, all the elites of the guild also had no other choice but to trust him and wait."
+          "text": "All he needed was this one chance and he would be immediately back on top."
         },
         {
           "id": 63,
           "paragraph_id": 41,
-          "text": "Time slowly passed and with each second, Victor grew more and more nervous."
+          "text": "He could then chase that damned truck Derek to the ends of the earth and get his revenge by repeatedly killing him again and again."
         },
         {
           "id": 64,
           "paragraph_id": 42,
-          "text": "He couldn't help but pray to all the gods in his heart to somehow help him get past this quest and obtain the reward."
+          "text": "Recently, his guild had learned of a grave spawn camping technique that could grind a player to dust and literally strip them naked."
         },
         {
           "id": 65,
           "paragraph_id": 43,
-          "text": "All he needed was this one chance and he would be immediately back on top."
+          "text": "He couldn't wait to do that to that damned guy and pay him back for all the humiliation he felt."
         },
         {
           "id": 66,
           "paragraph_id": 44,
-          "text": "He could then chase that damned truck Derek to the ends of the earth and get his revenge by repeatedly killing him again and again."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 45,
-          "text": "Recently, his guild had learned of a grave spawn camping technique that could grind a player to dust and literally strip them naked."
-        },
-        {
-          "id": 68,
-          "paragraph_id": 46,
-          "text": "He couldn't wait to do that to that damned guy and pay him back for all the humiliation he felt."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 47,
           "text": "\"Please."
         },
         {
-          "id": 70,
-          "paragraph_id": 47,
+          "id": 67,
+          "paragraph_id": 44,
           "text": "Please."
         },
         {
-          "id": 71,
-          "paragraph_id": 47,
+          "id": 68,
+          "paragraph_id": 44,
           "text": "Please."
+        },
+        {
+          "id": 69,
+          "paragraph_id": 44,
+          "text": "Let this go smoothly.\" He let out a long sigh."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 45,
+          "text": "And suddenly, at this exact same moment, the air crackled."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 46,
+          "text": "A big black spot appeared out of nowhere, the size of the spot growing rapidly like an ink blot."
         },
         {
           "id": 72,
           "paragraph_id": 47,
-          "text": "Let this go smoothly.\" He let out a long sigh."
+          "text": "\"It's here!"
         },
         {
           "id": 73,
-          "paragraph_id": 48,
-          "text": "And suddenly, at this exact same moment, the air crackled."
+          "paragraph_id": 47,
+          "text": "HERE!\" Victor shouted at the top of his lungs."
         },
         {
           "id": 74,
-          "paragraph_id": 49,
-          "text": "A big black spot appeared out of nowhere, the size of the spot growing rapidly like an ink blot."
+          "paragraph_id": 48,
+          "text": "Sterling and all the other stormtrooper guild members immediately turned to pay attention to the direction, Victor was looking at and pointing to."
         },
         {
           "id": 75,
-          "paragraph_id": 50,
-          "text": "\"It's here!"
+          "paragraph_id": 49,
+          "text": "They also saw the big black swirling mass of energy."
         },
         {
           "id": 76,
           "paragraph_id": 50,
-          "text": "HERE!\" Victor shouted at the top of his lungs."
+          "text": "And the next second... a leg and an arm appeared from within it."
         },
         {
           "id": 77,
           "paragraph_id": 51,
-          "text": "Sterling and all the other stormtrooper guild members immediately turned to pay attention to the direction, Victor was looking at and pointing to."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 52,
-          "text": "They also saw the big black swirling mass of energy."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 53,
-          "text": "And the next second... a leg and an arm appeared from within it."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 54,
           "text": "\"ATTACK!"
         },
         {
-          "id": 81,
-          "paragraph_id": 54,
+          "id": 78,
+          "paragraph_id": 51,
           "text": "ATTACK!"
         },
         {
-          "id": 82,
-          "paragraph_id": 54,
+          "id": 79,
+          "paragraph_id": 51,
           "text": "ATTACK!\" Victor started shouting."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 51,
+          "text": "He also started running towards the hole with his shield jutting out."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 52,
+          "text": "Seeing this, Sterling frowned because he was supposed to be the leader of the party and shout instructions but there was no time to argue about that now."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 53,
+          "text": "He let it slide just this once and repeated, giving out more detailed instructions."
         },
         {
           "id": 83,
           "paragraph_id": 54,
-          "text": "He also started running towards the hole with his shield jutting out."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 55,
-          "text": "Seeing this, Sterling frowned because he was supposed to be the leader of the party and shout instructions but there was no time to argue about that now."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 56,
-          "text": "He let it slide just this once and repeated, giving out more detailed instructions."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 57,
           "text": "\"Attack."
         },
         {
-          "id": 87,
-          "paragraph_id": 57,
+          "id": 84,
+          "paragraph_id": 54,
           "text": "Tanks! front and center!"
         },
         {
-          "id": 88,
-          "paragraph_id": 57,
+          "id": 85,
+          "paragraph_id": 54,
           "text": "Healers!"
         },
         {
-          "id": 89,
-          "paragraph_id": 57,
+          "id": 86,
+          "paragraph_id": 54,
           "text": "Move to the back!"
         },
         {
-          "id": 90,
-          "paragraph_id": 57,
+          "id": 87,
+          "paragraph_id": 54,
           "text": "Melee take a step back!"
         },
         {
-          "id": 91,
-          "paragraph_id": 57,
+          "id": 88,
+          "paragraph_id": 54,
           "text": "Mages and Archers burst damage!\""
         },
         {
-          "id": 92,
-          "paragraph_id": 58,
+          "id": 89,
+          "paragraph_id": 55,
           "text": "The gathered guild members quickly started sending a volley of attacks."
+        },
+        {
+          "id": 90,
+          "paragraph_id": 55,
+          "text": "They wanted to defeat this enemy before they even appeared and had a chance to fight back."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 56,
+          "text": "And a couple of attacks also landed making them delighted."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 57,
+          "text": "However, the next second their attacks inexplicably started getting deflected, and out of nowhere, a huge golem appeared."
         },
         {
           "id": 93,
           "paragraph_id": 58,
-          "text": "They wanted to defeat this enemy before they even appeared and had a chance to fight back."
+          "text": "\"What the hell is that?\""
         },
         {
           "id": 94,
           "paragraph_id": 59,
-          "text": "And a couple of attacks also landed making them delighted."
-        },
-        {
-          "id": 95,
-          "paragraph_id": 60,
-          "text": "However, the next second their attacks inexplicably started getting deflected, and out of nowhere, a huge golem appeared."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 61,
-          "text": "\"What the hell is that?\""
-        },
-        {
-          "id": 97,
-          "paragraph_id": 62,
           "text": "\"That golem has a mana shield out!"
         },
         {
-          "id": 98,
-          "paragraph_id": 62,
+          "id": 95,
+          "paragraph_id": 59,
           "text": "Attack it!"
+        },
+        {
+          "id": 96,
+          "paragraph_id": 59,
+          "text": "The shield will go down automatically!\""
+        },
+        {
+          "id": 97,
+          "paragraph_id": 60,
+          "text": "The group did not lose their confidence on seeing the golem and everyone frantically started attacking it with vigor and ferocity."
+        },
+        {
+          "id": 98,
+          "paragraph_id": 61,
+          "text": "However, during this time, the portal roared alive and several big and sturdy demon hybrids started stepping out one after the other."
         },
         {
           "id": 99,
           "paragraph_id": 62,
-          "text": "The shield will go down automatically!\""
+          "text": "Each demon looked very strong and powerful and just from looking at them, one could tell that they were not ordinary mobs."
         },
         {
           "id": 100,
           "paragraph_id": 63,
-          "text": "The group did not lose their confidence on seeing the golem and everyone frantically started attacking it with vigor and ferocity."
+          "text": "All the gathered elite players gulped on seeing this terrifying sight."
         },
         {
           "id": 101,
           "paragraph_id": 64,
-          "text": "However, during this time, the portal roared alive and several big and sturdy demon hybrids started stepping out one after the other."
+          "text": "This was it!"
         },
         {
           "id": 102,
-          "paragraph_id": 65,
-          "text": "Each demon looked very strong and powerful and just from looking at them, one could tell that they were not ordinary mobs."
+          "paragraph_id": 64,
+          "text": "The quest was finally alive!"
         },
         {
           "id": 103,
-          "paragraph_id": 66,
-          "text": "All the gathered elite players gulped on seeing this terrifying sight."
+          "paragraph_id": 65,
+          "text": "They all knew about the difficulty of a rare quest and this quest was even special among such rare quests."
         },
         {
           "id": 104,
-          "paragraph_id": 67,
-          "text": "This was it!"
+          "paragraph_id": 66,
+          "text": "They scoured the forums and no one had ever gotten such a quest before."
         },
         {
           "id": 105,
           "paragraph_id": 67,
-          "text": "The quest was finally alive!"
-        },
-        {
-          "id": 106,
-          "paragraph_id": 68,
-          "text": "They all knew about the difficulty of a rare quest and this quest was even special among such rare quests."
-        },
-        {
-          "id": 107,
-          "paragraph_id": 69,
-          "text": "They scoured the forums and no one had ever gotten such a quest before."
-        },
-        {
-          "id": 108,
-          "paragraph_id": 70,
           "text": "The thing was that the quest itself wasn't all that difficult."
         },
         {
-          "id": 109,
-          "paragraph_id": 70,
+          "id": 106,
+          "paragraph_id": 67,
           "text": "All they had to do was defend against a horde of invading demons."
         },
         {
-          "id": 110,
-          "paragraph_id": 71,
+          "id": 107,
+          "paragraph_id": 68,
           "text": "So they weren't too nervous about it."
         },
         {
-          "id": 111,
-          "paragraph_id": 71,
+          "id": 108,
+          "paragraph_id": 68,
           "text": "After all, they had cleared several dungeons and raids and this should not have been all that different."
         },
         {
-          "id": 112,
-          "paragraph_id": 72,
+          "id": 109,
+          "paragraph_id": 69,
           "text": "But unexpectedly, these demons had a golem?"
         },
         {
-          "id": 113,
-          "paragraph_id": 73,
+          "id": 110,
+          "paragraph_id": 70,
           "text": "This took them by surprise but the stormtroopers was a decent guild with a solid framework."
+        },
+        {
+          "id": 111,
+          "paragraph_id": 70,
+          "text": "So they held their ground and focussed without losing hope."
+        },
+        {
+          "id": 112,
+          "paragraph_id": 71,
+          "text": "Even though they were up and against strong and bloodthirsty demons, they continued attacking with gusto."
+        },
+        {
+          "id": 113,
+          "paragraph_id": 72,
+          "text": "And then... the last person stepped out of the portal."
         },
         {
           "id": 114,
           "paragraph_id": 73,
-          "text": "So they held their ground and focussed without losing hope."
+          "text": "Everyone's face instantly fell!"
         },
         {
           "id": 115,
           "paragraph_id": 74,
-          "text": "Even though they were up and against strong and bloodthirsty demons, they continued attacking with gusto."
+          "text": "The players who had been confident up until now suddenly faltered."
         },
         {
           "id": 116,
           "paragraph_id": 75,
-          "text": "And then... the last person stepped out of the portal."
+          "text": "Because, unlike the demons, this last creature resembled a human being and his clothing and armor also pointed to the same."
         },
         {
           "id": 117,
           "paragraph_id": 76,
-          "text": "Everyone's face instantly fell!"
-        },
-        {
-          "id": 118,
-          "paragraph_id": 77,
-          "text": "The players who had been confident up until now suddenly faltered."
-        },
-        {
-          "id": 119,
-          "paragraph_id": 78,
-          "text": "Because, unlike the demons, this last creature resembled a human being and his clothing and armor also pointed to the same."
-        },
-        {
-          "id": 120,
-          "paragraph_id": 79,
           "text": "And, more importantly, on his face, there was a black mask!"
         }
       ],
-      "word_count": 1379
+      "word_count": 1376
     },
     {
       "chapter_index": 231,
@@ -24729,7 +24711,7 @@
         "[Ding. Squad 104 has successfully completed a mission.]",
         "[Ding. You have received 10000 experience points]",
         "Liam dazedly read the notification and re-read it again several times, but no matter how many times he saw it, he still couldn't believe his eyes.",
-        "Because.... if this notification is real... then that means..."
+        "Because... if this notification is real... then that means..."
       ],
       "sentences": [
         {
@@ -25130,7 +25112,7 @@
         {
           "id": 79,
           "paragraph_id": 51,
-          "text": "Because.... if this notification is real... then that means..."
+          "text": "Because... if this notification is real... then that means..."
         }
       ],
       "word_count": 1009
@@ -25748,7 +25730,7 @@
         "Suddenly, all squad leaders, platoon leaders appeared from their rest, and the demon soldiers were littered everywhere.",
         "The entire city was overwhelmed.",
         "And Beluga, the demon sitting behind the counter looked as if he had gone crazy.",
-        "\"What did you say? Our Garrison leader is now him!!!!\"",
+        "\"What did you say? Our Garrison leader is now him!!!\"",
         "However, the crowd in front of the counter did not give him any time to process this information.",
         "\"Beluga, hand me the damned invasion scrolls!\"",
         "\"Beluga, do you want me to jump across and beat it out of you?! You are costing me gold coins!\"",
@@ -25976,7 +25958,7 @@
         {
           "id": 35,
           "paragraph_id": 26,
-          "text": "Our Garrison leader is now him!!!!\""
+          "text": "Our Garrison leader is now him!!!\""
         },
         {
           "id": 36,
@@ -26378,11 +26360,7 @@
         "Ignoring the girl's protests, he dumped the plates into the sink and jumped onto the bed to rest for a while.",
         "The news anchorwoman as well had now moved onto other top players in the game, re-running some of the interviews from last week.",
         "Their rankings were very arbitrary and often changed every day so the news continued running on and on and moved onto other real world affairs after a few minutes.",
-        "***",
-        "Author's Note: Hi guys, thank you so much for supporting me and the book. We are right now at a very juicy part of the story. I hope you are all enjoying it. I have another good news.",
         "Since a lot of readers requested me, starting from March I am planning to release more chapters as bonus chapters for specific goals.",
-        "Every 1000 power stones - 1 bonus chapter",
-        "Every 500 golden tickets - 1 bonus chapter",
         "Every super gift - 3 bonus chapters",
         "Let the March Madness begin! I hope this month we can reach the top 10 rankings!"
       ],
@@ -27025,60 +27003,25 @@
         {
           "id": 127,
           "paragraph_id": 72,
-          "text": "***"
+          "text": "Since a lot of readers requested me, starting from March I am planning to release more chapters as bonus chapters for specific goals."
         },
         {
           "id": 128,
           "paragraph_id": 73,
-          "text": "Author's Note: Hi guys, thank you so much for supporting me and the book."
-        },
-        {
-          "id": 129,
-          "paragraph_id": 73,
-          "text": "We are right now at a very juicy part of the story."
-        },
-        {
-          "id": 130,
-          "paragraph_id": 73,
-          "text": "I hope you are all enjoying it."
-        },
-        {
-          "id": 131,
-          "paragraph_id": 73,
-          "text": "I have another good news."
-        },
-        {
-          "id": 132,
-          "paragraph_id": 74,
-          "text": "Since a lot of readers requested me, starting from March I am planning to release more chapters as bonus chapters for specific goals."
-        },
-        {
-          "id": 133,
-          "paragraph_id": 75,
-          "text": "Every 1000 power stones - 1 bonus chapter"
-        },
-        {
-          "id": 134,
-          "paragraph_id": 76,
-          "text": "Every 500 golden tickets - 1 bonus chapter"
-        },
-        {
-          "id": 135,
-          "paragraph_id": 77,
           "text": "Every super gift - 3 bonus chapters"
         },
         {
-          "id": 136,
-          "paragraph_id": 78,
+          "id": 129,
+          "paragraph_id": 74,
           "text": "Let the March Madness begin!"
         },
         {
-          "id": 137,
-          "paragraph_id": 78,
+          "id": 130,
+          "paragraph_id": 74,
           "text": "I hope this month we can reach the top 10 rankings!"
         }
       ],
-      "word_count": 1649
+      "word_count": 1594
     },
     {
       "chapter_index": 243,
@@ -28143,8 +28086,6 @@
         "The only thing that was a bit worrisome was the complete lack of traps or any other sort of beast or undead creature.",
         "Was obtaining an inheritance really that simple? Was he just going to walk all the way down and get what he wanted?",
         "Before even Liam could finish his thought, a loud rumbling sound echoed.",
-        "***",
-        "Author's Note: 2 daily chapters plus 1 bonus chapter out",
         "Please thank DerEcho for sponsoring the bonus chapter!"
       ],
       "sentences": [
@@ -28501,20 +28442,10 @@
         {
           "id": 70,
           "paragraph_id": 51,
-          "text": "***"
-        },
-        {
-          "id": 71,
-          "paragraph_id": 52,
-          "text": "Author's Note: 2 daily chapters plus 1 bonus chapter out"
-        },
-        {
-          "id": 72,
-          "paragraph_id": 53,
           "text": "Please thank DerEcho for sponsoring the bonus chapter!"
         }
       ],
-      "word_count": 1038
+      "word_count": 1027
     },
     {
       "chapter_index": 246,

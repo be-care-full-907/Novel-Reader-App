@@ -13,13 +13,13 @@
         "Meanwhile, at the same time that Evil was taking action, a secret experiment was being conducted in the Regal Kingdom, in the basement of the castle that Lexia and Luna had visited the other day.",
         "A group of people in black robes surrounded a large magic circle were in discussion, each holding a book in their hands.",
         "The people in robes were sorcerers of the Regal Kingdom.",
-        "\"───How are things going?\"",
+        "\"How are things going?\"",
         "\"! Your Majesty.\"",
         "Then, Orghis, the king of the Regal Kingdom, came down the stairs with a woman in an elegant dress.",
         "The woman was about the same age as Yuuya, with long blond hair curled vertically. Her golden eyes carried a mixture of flamboyance and elegance. The woman, with her strong-willed eyes downcast, was standing behind Orghis.",
         "Then one of the robed men opened his mouth.",
         "\"Everything is going well. Although I had never imagined that such magic existed...\"",
-        "\"That's only natural───since it summons heroes and saints from other worlds.\"",
+        "\"That's only naturalsince it summons heroes and saints from other worlds.\"",
         "The words spoken from Orghis's mouth would not have been missed if Yuuya had been present.",
         "Orghis then took a book from a nearby sorcerer and gave it a quick look over.",
         "\"A long time ago... in the world of fairy tales where the recently rumored legendary dragons made an appearance, there was another existence in this folklore. This was the only person who reached the level of god──the Sage. The Sage was said to have created magic based on his experience of wandering into another world once.",
@@ -36,7 +36,7 @@
         "One of the sorcerers nodded gravely at Orghis' words.",
         "Orghis also lowered his eyes with a bitter look on his face, but his eyes had a look of determination.",
         "\"...But, if we don't do this... we will be destroyed by the Evil. We have no choice but to do this.\"",
-        "\".....\"",
+        "\"...\"",
         "\"As Sword Saint-dono is here, there's nothing to worry about, but in many places... the Holy, which were supposed to oppose the Evil, had disappeared. This means that it's possible that they've been defeated by the Evil, or perhaps...\"",
         "Orghis frowned as he imagined the worst-case scenario.",
         "From the Sword Saint that he had welcomed to the Kingdom, Orghis had heard about the return of the Evil as well as the disappearances of an increasing number of the Holy.",
@@ -89,7 +89,7 @@
         "\"He's a mysterious person. But at the national festival, he's going to have a match with the Sword Saint. We should be able to evaluate him there.\"",
         "\"I'm looking forward to it.\"",
         "\"Yes. Let's enjoy the national festival to our heart's content.\"",
-        "\"Yes. After that, we'll perform this magic───.\"",
+        "\"Yes. After that, we'll perform this magic.\"",
         "In the Regal Kingdom, a great plan was being implemented based on a strong conviction."
       ],
       "sentences": [
@@ -111,7 +111,7 @@
         {
           "id": 3,
           "paragraph_id": 3,
-          "text": "\"───How are things going?\""
+          "text": "\"How are things going?\""
         },
         {
           "id": 4,
@@ -161,7 +161,7 @@
         {
           "id": 13,
           "paragraph_id": 9,
-          "text": "\"That's only natural───since it summons heroes and saints from other worlds.\""
+          "text": "\"That's only naturalsince it summons heroes and saints from other worlds.\""
         },
         {
           "id": 14,
@@ -286,7 +286,7 @@
         {
           "id": 38,
           "paragraph_id": 26,
-          "text": "\".....\""
+          "text": "\"...\""
         },
         {
           "id": 39,
@@ -786,7 +786,7 @@
         {
           "id": 138,
           "paragraph_id": 79,
-          "text": "After that, we'll perform this magic───.\""
+          "text": "After that, we'll perform this magic.\""
         },
         {
           "id": 139,
@@ -913,12 +913,11 @@
         "\"...I think it is.\"",
         "\"You're just assuming that...\"",
         "Rin was involuntarily taken aback by Yukine's confident assertion. However, Yukine didn't seem to be particularly bothered by this, and stood in front of the magic circle and began to read the spell in the book.",
-        "\"───\"",
         "Even Kaede, who had been scared before, looked at Yukine as she read the spell in a serious expression.",
-        "And then───.",
-        "\"────!\"",
+        "And then.",
+        "\"!\"",
         "And then she opened her eyes and read the spell out loud.",
-        "\".....\"",
+        "\"...\"",
         "No change occurred in the magic circle. Yukine closed the book quietly and nodded her head once.",
         "\"...Well, I guess I can't summon it, can I?\"",
         "\"Eeeeehhhhhh!\"",
@@ -932,7 +931,7 @@
         "\"Well, since we're here, why don't the three of us hang out and then go home?\"",
         "\"...Okay.\"",
         "Rin decided to make plans for the rest of the day, and the three of them decided to go out together, and Kaede was finally able to relax.",
-        "But───.",
+        "But.",
         "\"Yu-Yukine-chan, Rin-chan...\"",
         "\"Hmm?\"",
         "\"What's up?\"",
@@ -974,7 +973,7 @@
         "\"Sorry... you had to wait.\"",
         "\"No, I didn't mind waiting. Let's go.\"",
         "The three of them had already forgotten what had just happened and were discussing their plans to have fun. At that moment, Yukine felt a vague sense of discomfort that she couldn't put into words and looked around.",
-        "\".....?\"",
+        "\"...?\"",
         "\"What's wrong?\"",
         "\"...No, it's nothing.\"",
         "No one noticed that there was something wrong with──Yukine's shadow and that her eyes were red. Thus, various incidents were occurring in three different places at the same time."
@@ -1748,483 +1747,478 @@
         {
           "id": 153,
           "paragraph_id": 112,
-          "text": "\"───\""
+          "text": "Even Kaede, who had been scared before, looked at Yukine as she read the spell in a serious expression."
         },
         {
           "id": 154,
           "paragraph_id": 113,
-          "text": "Even Kaede, who had been scared before, looked at Yukine as she read the spell in a serious expression."
+          "text": "And then."
         },
         {
           "id": 155,
           "paragraph_id": 114,
-          "text": "And then───."
+          "text": "\"!\""
         },
         {
           "id": 156,
           "paragraph_id": 115,
-          "text": "\"────!\""
+          "text": "And then she opened her eyes and read the spell out loud."
         },
         {
           "id": 157,
           "paragraph_id": 116,
-          "text": "And then she opened her eyes and read the spell out loud."
+          "text": "\"...\""
         },
         {
           "id": 158,
           "paragraph_id": 117,
-          "text": "\".....\""
+          "text": "No change occurred in the magic circle."
         },
         {
           "id": 159,
-          "paragraph_id": 118,
-          "text": "No change occurred in the magic circle."
+          "paragraph_id": 117,
+          "text": "Yukine closed the book quietly and nodded her head once."
         },
         {
           "id": 160,
           "paragraph_id": 118,
-          "text": "Yukine closed the book quietly and nodded her head once."
+          "text": "\"...Well, I guess I can't summon it, can I?\""
         },
         {
           "id": 161,
           "paragraph_id": 119,
-          "text": "\"...Well, I guess I can't summon it, can I?\""
+          "text": "\"Eeeeehhhhhh!\""
         },
         {
           "id": 162,
           "paragraph_id": 120,
-          "text": "\"Eeeeehhhhhh!\""
+          "text": "\"...You're so honest, aren't you?\""
         },
         {
           "id": 163,
           "paragraph_id": 121,
-          "text": "\"...You're so honest, aren't you?\""
+          "text": "Kaede and Rin were amazed and dumbfounded by the fact that Yukine was so straightforward."
         },
         {
           "id": 164,
           "paragraph_id": 122,
-          "text": "Kaede and Rin were amazed and dumbfounded by the fact that Yukine was so straightforward."
+          "text": "\"...This kind of thing is good because it's unknown."
         },
         {
           "id": 165,
-          "paragraph_id": 123,
-          "text": "\"...This kind of thing is good because it's unknown."
+          "paragraph_id": 122,
+          "text": "It's not so romantic when you can figure it out.\""
         },
         {
           "id": 166,
           "paragraph_id": 123,
-          "text": "It's not so romantic when you can figure it out.\""
+          "text": "\"T-then, what's the point of researching it...?\""
         },
         {
           "id": 167,
           "paragraph_id": 124,
-          "text": "\"T-then, what's the point of researching it...?\""
-        },
-        {
-          "id": 168,
-          "paragraph_id": 125,
           "text": "\"...Anyway, I failed this time."
         },
         {
-          "id": 169,
-          "paragraph_id": 125,
+          "id": 168,
+          "paragraph_id": 124,
           "text": "But it was fun, and I enjoyed the atmosphere, so it's okay."
+        },
+        {
+          "id": 169,
+          "paragraph_id": 124,
+          "text": "I didn't bring any other books to try, so that's it for today's experiment.\""
         },
         {
           "id": 170,
           "paragraph_id": 125,
-          "text": "I didn't bring any other books to try, so that's it for today's experiment.\""
-        },
-        {
-          "id": 171,
-          "paragraph_id": 126,
           "text": "\"Huh."
         },
         {
-          "id": 172,
-          "paragraph_id": 126,
+          "id": 171,
+          "paragraph_id": 125,
           "text": "It ended so quickly."
+        },
+        {
+          "id": 172,
+          "paragraph_id": 125,
+          "text": "Is today's club activity over then?\""
         },
         {
           "id": 173,
           "paragraph_id": 126,
-          "text": "Is today's club activity over then?\""
+          "text": "\"...Yeah.\""
         },
         {
           "id": 174,
           "paragraph_id": 127,
-          "text": "\"...Yeah.\""
+          "text": "\"Well, since we're here, why don't the three of us hang out and then go home?\""
         },
         {
           "id": 175,
           "paragraph_id": 128,
-          "text": "\"Well, since we're here, why don't the three of us hang out and then go home?\""
+          "text": "\"...Okay.\""
         },
         {
           "id": 176,
           "paragraph_id": 129,
-          "text": "\"...Okay.\""
+          "text": "Rin decided to make plans for the rest of the day, and the three of them decided to go out together, and Kaede was finally able to relax."
         },
         {
           "id": 177,
           "paragraph_id": 130,
-          "text": "Rin decided to make plans for the rest of the day, and the three of them decided to go out together, and Kaede was finally able to relax."
+          "text": "But."
         },
         {
           "id": 178,
           "paragraph_id": 131,
-          "text": "But───."
+          "text": "\"Yu-Yukine-chan, Rin-chan...\""
         },
         {
           "id": 179,
           "paragraph_id": 132,
-          "text": "\"Yu-Yukine-chan, Rin-chan...\""
+          "text": "\"Hmm?\""
         },
         {
           "id": 180,
           "paragraph_id": 133,
-          "text": "\"Hmm?\""
+          "text": "\"What's up?\""
         },
         {
           "id": 181,
           "paragraph_id": 134,
-          "text": "\"What's up?\""
+          "text": "\"T-that's...!\""
         },
         {
           "id": 182,
           "paragraph_id": 135,
-          "text": "\"T-that's...!\""
+          "text": "Kaede, who seemed to have noticed something, pointed in that direction shakily."
         },
         {
           "id": 183,
-          "paragraph_id": 136,
-          "text": "Kaede, who seemed to have noticed something, pointed in that direction shakily."
+          "paragraph_id": 135,
+          "text": "Rin and Yukine also looked in the direction of the finger pointing."
         },
         {
           "id": 184,
           "paragraph_id": 136,
-          "text": "Rin and Yukine also looked in the direction of the finger pointing."
+          "text": "\"Eh?\""
         },
         {
           "id": 185,
           "paragraph_id": 137,
-          "text": "\"Eh?\""
+          "text": "To their surprise, the magic circle drawn with a red magic marker had begun to emit a mysterious light."
         },
         {
           "id": 186,
           "paragraph_id": 138,
-          "text": "To their surprise, the magic circle drawn with a red magic marker had begun to emit a mysterious light."
+          "text": "\"W-what's going on here?\""
         },
         {
           "id": 187,
           "paragraph_id": 139,
-          "text": "\"W-what's going on here?\""
+          "text": "\"...Amazing."
         },
         {
           "id": 188,
-          "paragraph_id": 140,
-          "text": "\"...Amazing."
+          "paragraph_id": 139,
+          "text": "This book is real...\""
         },
         {
           "id": 189,
           "paragraph_id": 140,
-          "text": "This book is real...\""
+          "text": "\"That's not the point!\""
         },
         {
           "id": 190,
           "paragraph_id": 141,
-          "text": "\"That's not the point!\""
+          "text": "\"I-it's bad, Rin-chan, Yukine-chan!"
         },
         {
           "id": 191,
-          "paragraph_id": 142,
-          "text": "\"I-it's bad, Rin-chan, Yukine-chan!"
+          "paragraph_id": 141,
+          "text": "The light is getting more intense!\""
         },
         {
           "id": 192,
           "paragraph_id": 142,
-          "text": "The light is getting more intense!\""
+          "text": "Kaede started to panic more than before, but even Rin did not expect this situation and started to panic."
         },
         {
           "id": 193,
           "paragraph_id": 143,
-          "text": "Kaede started to panic more than before, but even Rin did not expect this situation and started to panic."
+          "text": "\"Yu-Yukine!"
         },
         {
           "id": 194,
-          "paragraph_id": 144,
-          "text": "\"Yu-Yukine!"
+          "paragraph_id": 143,
+          "text": "What kind of devil did you say you were summoning?\""
         },
         {
           "id": 195,
           "paragraph_id": 144,
-          "text": "What kind of devil did you say you were summoning?\""
+          "text": "\"...I don't know."
         },
         {
           "id": 196,
-          "paragraph_id": 145,
-          "text": "\"...I don't know."
+          "paragraph_id": 144,
+          "text": "But I drew a magic circle that can summon the most powerful devil in the book.\""
         },
         {
           "id": 197,
           "paragraph_id": 145,
-          "text": "But I drew a magic circle that can summon the most powerful devil in the book.\""
+          "text": "\"I knew it...\""
         },
         {
           "id": 198,
           "paragraph_id": 146,
-          "text": "\"I knew it...\""
+          "text": "Rin's cheeks twitched at Yukine's response."
         },
         {
           "id": 199,
           "paragraph_id": 147,
-          "text": "Rin's cheeks twitched at Yukine's response."
+          "text": "If what Yukine says is true, then the devil that is about to be summoned is a powerful being."
         },
         {
           "id": 200,
-          "paragraph_id": 148,
-          "text": "If what Yukine says is true, then the devil that is about to be summoned is a powerful being."
+          "paragraph_id": 147,
+          "text": "Even the mere idea of a devil being summoned is a serious matter, but when it's a powerful devil, it's a disaster."
         },
         {
           "id": 201,
           "paragraph_id": 148,
-          "text": "Even the mere idea of a devil being summoned is a serious matter, but when it's a powerful devil, it's a disaster."
+          "text": "However, ignoring the three of them, the light of the magic circle increased, and finally, the entire classroom was filled with light."
         },
         {
           "id": 202,
           "paragraph_id": 149,
-          "text": "However, ignoring the three of them, the light of the magic circle increased, and finally, the entire classroom was filled with light."
+          "text": "\"It's so bright...!\""
         },
         {
           "id": 203,
           "paragraph_id": 150,
-          "text": "\"It's so bright...!\""
+          "text": "\"...I wonder what will appear.\""
         },
         {
           "id": 204,
           "paragraph_id": 151,
-          "text": "\"...I wonder what will appear.\""
+          "text": "\"You have to be more serious, Yukine!\""
         },
         {
           "id": 205,
           "paragraph_id": 152,
-          "text": "\"You have to be more serious, Yukine!\""
+          "text": "When the light finally subsided, Kaede and the others fearfully opened their eyes."
         },
         {
           "id": 206,
           "paragraph_id": 153,
-          "text": "When the light finally subsided, Kaede and the others fearfully opened their eyes."
+          "text": "\"...T-that...?\""
         },
         {
           "id": 207,
           "paragraph_id": 154,
-          "text": "\"...T-that...?\""
+          "text": "\"That is...\""
         },
         {
           "id": 208,
           "paragraph_id": 155,
-          "text": "\"That is...\""
+          "text": "\"...It's strange."
         },
         {
           "id": 209,
-          "paragraph_id": 156,
-          "text": "\"...It's strange."
+          "paragraph_id": 155,
+          "text": "There's nothing there!\""
         },
         {
           "id": 210,
           "paragraph_id": 156,
-          "text": "There's nothing there!\""
+          "text": "There was nothing, not even a devil-like figure, in the magic circle where the light had settled."
         },
         {
           "id": 211,
           "paragraph_id": 157,
-          "text": "There was nothing, not even a devil-like figure, in the magic circle where the light had settled."
+          "text": "\"Yukine."
         },
         {
           "id": 212,
-          "paragraph_id": 158,
-          "text": "\"Yukine."
+          "paragraph_id": 157,
+          "text": "Can we see the devil properly?\""
         },
         {
           "id": 213,
           "paragraph_id": 158,
-          "text": "Can we see the devil properly?\""
+          "text": "\"...We should be.\""
         },
         {
           "id": 214,
           "paragraph_id": 159,
-          "text": "\"...We should be.\""
+          "text": "\"Ah, Yukine-chan?\""
         },
         {
           "id": 215,
           "paragraph_id": 160,
-          "text": "\"Ah, Yukine-chan?\""
+          "text": "Yukine nodded at Rin's words and approached the magic circle in question without hesitation."
         },
         {
           "id": 216,
-          "paragraph_id": 161,
-          "text": "Yukine nodded at Rin's words and approached the magic circle in question without hesitation."
+          "paragraph_id": 160,
+          "text": "And she tried to touch the magic circle and lifted the paper on which the magic circle was drawn, but no changes occurred."
         },
         {
           "id": 217,
           "paragraph_id": 161,
-          "text": "And she tried to touch the magic circle and lifted the paper on which the magic circle was drawn, but no changes occurred."
-        },
-        {
-          "id": 218,
-          "paragraph_id": 162,
           "text": "\"...Yes."
         },
         {
-          "id": 219,
-          "paragraph_id": 162,
+          "id": 218,
+          "paragraph_id": 161,
           "text": "It glowed that much, but it seems to have failed."
+        },
+        {
+          "id": 219,
+          "paragraph_id": 161,
+          "text": "Too bad.\""
         },
         {
           "id": 220,
           "paragraph_id": 162,
-          "text": "Too bad.\""
+          "text": "\"W-what do you mean by too bad...?\""
         },
         {
           "id": 221,
           "paragraph_id": 163,
-          "text": "\"W-what do you mean by too bad...?\""
+          "text": "\"Well, I was surprised when the light came out of nowhere, but I guess I can understand the disappointment.\""
         },
         {
           "id": 222,
           "paragraph_id": 164,
-          "text": "\"Well, I was surprised when the light came out of nowhere, but I guess I can understand the disappointment.\""
+          "text": "It's a shame that Yukine's experiment failed, considering that they might be able to meet an unknown being, even if the word \"devil\" conjured up fear."
         },
         {
           "id": 223,
-          "paragraph_id": 165,
-          "text": "It's a shame that Yukine's experiment failed, considering that they might be able to meet an unknown being, even if the word \"devil\" conjured up fear."
+          "paragraph_id": 164,
+          "text": "For a few more moments, Yukine reread the book and checked the magic circle she had drawn, but she could not confirm the devil's existence, so she finished cleaning up and left the club room this time."
         },
         {
           "id": 224,
           "paragraph_id": 165,
-          "text": "For a few more moments, Yukine reread the book and checked the magic circle she had drawn, but she could not confirm the devil's existence, so she finished cleaning up and left the club room this time."
+          "text": "\"I was afraid of what would happen, but this was a unique experience.\""
         },
         {
           "id": 225,
           "paragraph_id": 166,
-          "text": "\"I was afraid of what would happen, but this was a unique experience.\""
+          "text": "\"I was really scared, though...\""
         },
         {
           "id": 226,
           "paragraph_id": 167,
-          "text": "\"I was really scared, though...\""
+          "text": "\"I'm sorry!"
         },
         {
           "id": 227,
-          "paragraph_id": 168,
-          "text": "\"I'm sorry!"
+          "paragraph_id": 167,
+          "text": "I'll buy you an ice cream or something now.\""
         },
         {
           "id": 228,
           "paragraph_id": 168,
-          "text": "I'll buy you an ice cream or something now.\""
+          "text": "\"Ugh..."
         },
         {
           "id": 229,
-          "paragraph_id": 169,
-          "text": "\"Ugh..."
+          "paragraph_id": 168,
+          "text": "Then I will forgive you.\""
         },
         {
           "id": 230,
           "paragraph_id": 169,
-          "text": "Then I will forgive you.\""
+          "text": "\"Sorry... you had to wait.\""
         },
         {
           "id": 231,
           "paragraph_id": 170,
-          "text": "\"Sorry... you had to wait.\""
+          "text": "\"No, I didn't mind waiting."
         },
         {
           "id": 232,
-          "paragraph_id": 171,
-          "text": "\"No, I didn't mind waiting."
+          "paragraph_id": 170,
+          "text": "Let's go.\""
         },
         {
           "id": 233,
           "paragraph_id": 171,
-          "text": "Let's go.\""
+          "text": "The three of them had already forgotten what had just happened and were discussing their plans to have fun."
         },
         {
           "id": 234,
-          "paragraph_id": 172,
-          "text": "The three of them had already forgotten what had just happened and were discussing their plans to have fun."
+          "paragraph_id": 171,
+          "text": "At that moment, Yukine felt a vague sense of discomfort that she couldn't put into words and looked around."
         },
         {
           "id": 235,
           "paragraph_id": 172,
-          "text": "At that moment, Yukine felt a vague sense of discomfort that she couldn't put into words and looked around."
+          "text": "\"...?\""
         },
         {
           "id": 236,
           "paragraph_id": 173,
-          "text": "\".....?\""
+          "text": "\"What's wrong?\""
         },
         {
           "id": 237,
           "paragraph_id": 174,
-          "text": "\"What's wrong?\""
+          "text": "\"...No, it's nothing.\""
         },
         {
           "id": 238,
           "paragraph_id": 175,
-          "text": "\"...No, it's nothing.\""
-        },
-        {
-          "id": 239,
-          "paragraph_id": 176,
           "text": "No one noticed that there was something wrong with──Yukine's shadow and that her eyes were red."
         },
         {
-          "id": 240,
-          "paragraph_id": 176,
+          "id": 239,
+          "paragraph_id": 175,
           "text": "Thus, various incidents were occurring in three different places at the same time."
         }
       ],
-      "word_count": 1927
+      "word_count": 1926
     },
     {
       "chapter_index": 103,
       "title": "Chapter 1 - The Sword Saint\n\nPart 1",
       "url": "https://www.webnovel.com/book/17875881305335005/51788002506096816",
       "paragraphs": [
-        "───The [Orz Forest] was located near the Regal Kingdom. It's a place overflowing with rich nature, and the forest brought a lot of resources and benefits to the Regal Kingdom.",
+        "The [Orz Forest] was located near the Regal Kingdom. It's a place overflowing with rich nature, and the forest brought a lot of resources and benefits to the Regal Kingdom.",
         "At the same time, this forest was known throughout the world as one of the dangerous zones.",
         "The danger level was lower than that of the Great Devil's Nest because the Great Devil's Nest, where Yuuya lives, had been designated as a super-dangerous zone that was even more dangerous than this forest.",
         "However, because this [Orz Forest] had valuable resources more accessible than the Great Devil's Nest, many adventurers and others come and go, and the monsters were naturally thinned out, so it was safe for people to live in a city near the forest.",
         "Furthermore, there was one reason why the Regal Kingdom was a safer place now than ever before.",
-        "That is───.",
+        "That is.",
         "\"Grrrr...\"",
         "\"Guruahh!\"",
         "\"Guruaaaah!\"",
-        "\".....\"",
+        "\"...\"",
         "A woman was standing there, surrounded by several monsters. She had a wolf cut of peach-colored hair and slit pink eyes. She was wearing a silver breastplate, a jet-black cloak, and a single sword.",
         "This place was too dangerous for a person to be visiting alone, and even now, the woman was surrounded by a pack of black tigers, a B class monster with black body hair and white stripes.",
         "If it's a single tiger, an adventurer of B class or higher can defeat it, but the number of black tigers surrounding the woman now numbered over a dozen.",
         "Normally, a party of A-level adventurers or S-level adventurers would be needed to defeat them. However, the black tigers, despite being such dangerous beasts, showed an unusual degree of caution towards the woman in front of them and were reluctant to attack.",
         "\"Grrrr... Gaaaaaaaaah!\"",
         "Then one of the black tigers became impatient and finally attacked the woman.",
-        "Clank───.",
-        "\"Gah───.\"",
+        "Clank.",
+        "\"Gah.\"",
         "But in the next moment... with a clear metallic sound, the head of the black tiger slipped off its body and fell down without knowing the reason. The other black tigers became more cautious because of their companions' death. Still, their anger at the loss of a companion did not subside, and they finally attacked the woman together.",
         "\"Gaaaaaaaahhhhh!\"",
         "\"Gaaaaaaaaaaaaaah!\"",
         "In spite of the fact that she was being attacked by the deafening roars that would make an ordinary person faint, the woman herself continued to stand there, looking as if nothing had happened.",
-        "And then───.",
-        "\"Gugahh───.\"",
-        "\"Gaah───.\"",
+        "And then.",
+        "\"Gugahh.\"",
+        "\"Gaah.\"",
         "The black tigers attacked at once, their heads and bodies cut apart in midair, and they fell down.",
         "The pack of black tigers turned into particles of light and left a drop item on the spot. The woman who was attacked quietly gazed at it, and before long, she sheathed the sword in her hand.",
         "\"Phew... This isn't gonna be much of a training session then.\"",
-        "The woman who said these unbelievable words was the \"Sword Saint\"───Iris Knowblade, who was currently residing in the Regal Kingdom.",
+        "The woman who said these unbelievable words was the \"Sword Saint\"Iris Knowblade, who was currently residing in the Regal Kingdom.",
         "\"...I mean, it's no good because of the things I say...\"",
         "Iris let out a big sigh, disgusted with her own words, actions, and thoughts.",
-        "That's───.",
+        "That's.",
         "\"Sigh...I'm the only one of my classmates who hasn't married yet... and I can't stop training with my sword... so what am I supposed to do...?\"",
         "The strongest and most famous sword saint was worried about her nearing the end of her marriageable age.",
         "Iris has been fascinated with swords ever since she can remember and honed her skills to become a knight eventually. However, the House of Knowblade, where Iris was born, was a great noble family with the title of duke, and Iris's father did not allow Iris to become a knight.",
@@ -2232,10 +2226,10 @@
         "\"I was sent to a girls' school, but it didn't mean much to me.\"",
         "\"Gaaaaaah!\"",
         "Suddenly, remembering her old self, Iris sliced through the new monsters that were attacking her. However, Iris does not seem to have pulled out her sword, and only a clear metallic sound echoes.",
-        "───Her parents intended for her to enter a girls' school to learn how to behave like a lady and to prepare her to marry into another noble house or royalty eventually.",
+        "Her parents intended for her to enter a girls' school to learn how to behave like a lady and to prepare her to marry into another noble house or royalty eventually.",
         "But because she was more interested in swords than romance, and because she hadn't mastered any of the behaviors expected of a noblewoman, her father was unable to find a suitable engagement for his daughter, or even arrange an engagement, with any noble family.",
         "There were even some offers from noblemen who could be a great connection for the Knowblade family, but the Knowblade family would lose their dignity and trust if they sent the inexperienced Iris in marriage, so they tearfully turned down the talks of engagement.",
-        "\"───Guruahh!\"",
+        "\"Guruahh!\"",
         "\"G-gaaaaah!\"",
         "Iris cut down the monsters one after the other, showing a sense of composure that made it hard to believe that she was being attacked by monsters. She was so bizarre that even the monsters even tried to run away, but they could not escape from Iris's blade.",
         "\"I wanted to give up the path of the sword, but there was no proposal for an arranged marriage for me. It's strange when I think about it... I wonder what the reason for that was...?\"",
@@ -2248,7 +2242,7 @@
         "\"Guooooo!\"",
         "\"When I think about it now, it's because of that encounter that I have become the person I am today.\"",
         "Recalling her predecessor, the former \"Sword Saint,\" Iris cut down the fleeing monsters.",
-        "───Since her predecessor was also a woman, she took an interest in Iris, who also wanted to pursue the path of the sword. Iris had a talent for swordsmanship, so she officially became an apprentice, and from there, she became even more devoted to swordsmanship.",
+        "Since her predecessor was also a woman, she took an interest in Iris, who also wanted to pursue the path of the sword. Iris had a talent for swordsmanship, so she officially became an apprentice, and from there, she became even more devoted to swordsmanship.",
         "However, she could not neglect her studies, so she reluctantly continued to attend the girls' school.",
         "Although she devoted herself entirely to the sword, she was blessed with many friends.",
         "The other students were all girls who were ladylike and seemed to have a hard time with the self-defense classes, but they were surprisingly compatible with Iris. The girls learned self-defense from Iris, and Iris learned how to act like a lady from them.",
@@ -2271,9 +2265,9 @@
         "Then, behind such a defenseless Iris, a single monster was quietly creeping up on her.",
         "It was a black snake called an \"Assassin's Snake,\" a rank A monster with a massive body of up to five meters in length, but its skills had completely shut out the sound and presence as it crept closer.",
         "It was difficult to detect because it used skills to hide even its huge body, and many adventurers had fallen victim to its surprise attacks.",
-        "The Assassin Snake quietly and calmly aimed at Iris───.",
+        "The Assassin Snake quietly and calmly aimed at Iris.",
         "\"Shh!\"",
-        "\"───I don't need a man to be rich or cool; I just want someone stronger than me!\"",
+        "\"I don't need a man to be rich or cool; I just want someone stronger than me!\"",
         "When the clear metallic sound was heard again, the assassin snake's neck and torso were split apart, and it died. In Iris's hand, she was holding onto a sword again.",
         "\"I wonder if there is anyone stronger than me...\"",
         "Although Iris had completely misjudged which of her conditions should have been loosened, for Iris, wanting someone stronger than herself was unavoidable.",
@@ -2284,7 +2278,7 @@
         {
           "id": 0,
           "paragraph_id": 0,
-          "text": "───The [Orz Forest] was located near the Regal Kingdom."
+          "text": "The [Orz Forest] was located near the Regal Kingdom."
         },
         {
           "id": 1,
@@ -2314,7 +2308,7 @@
         {
           "id": 6,
           "paragraph_id": 5,
-          "text": "That is───."
+          "text": "That is."
         },
         {
           "id": 7,
@@ -2334,7 +2328,7 @@
         {
           "id": 10,
           "paragraph_id": 9,
-          "text": "\".....\""
+          "text": "\"...\""
         },
         {
           "id": 11,
@@ -2389,12 +2383,12 @@
         {
           "id": 21,
           "paragraph_id": 16,
-          "text": "Clank───."
+          "text": "Clank."
         },
         {
           "id": 22,
           "paragraph_id": 17,
-          "text": "\"Gah───.\""
+          "text": "\"Gah.\""
         },
         {
           "id": 23,
@@ -2429,17 +2423,17 @@
         {
           "id": 29,
           "paragraph_id": 22,
-          "text": "And then───."
+          "text": "And then."
         },
         {
           "id": 30,
           "paragraph_id": 23,
-          "text": "\"Gugahh───.\""
+          "text": "\"Gugahh.\""
         },
         {
           "id": 31,
           "paragraph_id": 24,
-          "text": "\"Gaah───.\""
+          "text": "\"Gaah.\""
         },
         {
           "id": 32,
@@ -2469,7 +2463,7 @@
         {
           "id": 37,
           "paragraph_id": 28,
-          "text": "The woman who said these unbelievable words was the \"Sword Saint\"───Iris Knowblade, who was currently residing in the Regal Kingdom."
+          "text": "The woman who said these unbelievable words was the \"Sword Saint\"Iris Knowblade, who was currently residing in the Regal Kingdom."
         },
         {
           "id": 38,
@@ -2484,7 +2478,7 @@
         {
           "id": 40,
           "paragraph_id": 31,
-          "text": "That's───."
+          "text": "That's."
         },
         {
           "id": 41,
@@ -2544,7 +2538,7 @@
         {
           "id": 52,
           "paragraph_id": 39,
-          "text": "───Her parents intended for her to enter a girls' school to learn how to behave like a lady and to prepare her to marry into another noble house or royalty eventually."
+          "text": "Her parents intended for her to enter a girls' school to learn how to behave like a lady and to prepare her to marry into another noble house or royalty eventually."
         },
         {
           "id": 53,
@@ -2559,7 +2553,7 @@
         {
           "id": 55,
           "paragraph_id": 42,
-          "text": "\"───Guruahh!\""
+          "text": "\"Guruahh!\""
         },
         {
           "id": 56,
@@ -2649,7 +2643,7 @@
         {
           "id": 73,
           "paragraph_id": 55,
-          "text": "───Since her predecessor was also a woman, she took an interest in Iris, who also wanted to pursue the path of the sword."
+          "text": "Since her predecessor was also a woman, she took an interest in Iris, who also wanted to pursue the path of the sword."
         },
         {
           "id": 74,
@@ -2829,7 +2823,7 @@
         {
           "id": 109,
           "paragraph_id": 78,
-          "text": "The Assassin Snake quietly and calmly aimed at Iris───."
+          "text": "The Assassin Snake quietly and calmly aimed at Iris."
         },
         {
           "id": 110,
@@ -2839,7 +2833,7 @@
         {
           "id": 111,
           "paragraph_id": 80,
-          "text": "\"───I don't need a man to be rich or cool; I just want someone stronger than me!\""
+          "text": "\"I don't need a man to be rich or cool; I just want someone stronger than me!\""
         },
         {
           "id": 112,
@@ -2925,7 +2919,7 @@
         "Then, Yuti tilted her head in wonder.",
         "\"Question. Is that also the same as when you fought me?\"",
         "(Yes, that's right. We, the Holy, will only have our status unlocked when we fight against the Evil. In other words, if our opponent is a Holy, or if they have acquired just part of the Evil's power, our status will not be unlocked. The only time it can be unlocked is when I'm fighting the real Evil.)",
-        "\".....\"",
+        "\"...\"",
         "I couldn't say anything else. Although it is possible to gain power from the planet, it is still very difficult, isn't it...?",
         "No, without this kind of restriction, when a person like the Fist Saint comes out with their status unlocked, there is no way to reach their level.",
         "The reason why Master Usagi was defeated by the Fist Saint was probably that Master Usagi's status was halved, while the Fist Saint was able to borrow the power of Evil.",
@@ -3427,7 +3421,7 @@
         {
           "id": 80,
           "paragraph_id": 41,
-          "text": "\".....\""
+          "text": "\"...\""
         },
         {
           "id": 81,
@@ -4295,7 +4289,7 @@
         "Night couldn't say anything to Ouma's words.",
         "\"Well, that's fine. Yuuya also just started his training, so I will take another nap too──.\"",
         "The moment Ouma was about to say that.",
-        "\"───Hmm?\"",
+        "\"Hmm?\"",
         "Ouma suddenly sat up with an inexplicable expression on his face and stared towards the front door. His eyes seemed to be fixed on the Earth itself rather than the front door though.",
         "Night tilted his head in wonder at Ouma's behavior.",
         "\"Didn't you notice, Night?\"",
@@ -4349,7 +4343,7 @@
         "While dealing with Master Usagi's attack, my thoughts were still struggling to remember something that I had forgotten.",
         "What... am I forgetting?",
         "As my mind worked frantically, I finally remembered what I had forgotten!",
-        "\"Ah.... aaaaah! I'm going to have a test soon!\"",
+        "\"Ah... aaaaah! I'm going to have a test soon!\"",
         "It completely slipped my mind! I've been preparing and reviewing every day, but...",
         "\"I-it's not good! I have to study for my test...!\"",
         "(Concentrate on your training.)",
@@ -4535,7 +4529,7 @@
         {
           "id": 34,
           "paragraph_id": 23,
-          "text": "\"───Hmm?\""
+          "text": "\"Hmm?\""
         },
         {
           "id": 35,
@@ -4990,7 +4984,7 @@
         {
           "id": 125,
           "paragraph_id": 77,
-          "text": "\"Ah.... aaaaah!"
+          "text": "\"Ah... aaaaah!"
         },
         {
           "id": 126,
@@ -6450,10 +6444,10 @@
         "\"Huh? N-no! Not at all! It looks good on you! It suits you well!\"",
         "I was so nervous that I didn't know what I was saying, but Kaori smiled happily at my words.",
         "\"I-is that so... I'm so glad that Yuuya-san said that.\"",
-        "\".....\"",
+        "\"...\"",
         "This is not good. Until I came here, I was completely unaware of the fact that... playing on the beach means that everyone will be wearing a swimsuit! That's right! They said they were going to change their clothes, right?",
         "Because of the school lessons, I didn't think anything of it, but after thinking about it, I realized that this is how women get into their beautiful swimsuits.",
-        "...Huh? This means that───.",
+        "...Huh? This means that.",
         "\"Ah, Yuuya-kun! Oooii!\"",
         "\"Fuh... It's so hot outside!\"",
         "\"...I feel like I'm melting.\"",
@@ -6926,7 +6920,7 @@
         {
           "id": 80,
           "paragraph_id": 48,
-          "text": "\".....\""
+          "text": "\"...\""
         },
         {
           "id": 81,
@@ -6961,7 +6955,7 @@
         {
           "id": 87,
           "paragraph_id": 51,
-          "text": "This means that───."
+          "text": "This means that."
         },
         {
           "id": 88,

@@ -1880,8 +1880,8 @@
         "“Wait! There’s no need to use that, I can heal her!”",
         "“Ei.”",
         "“Ah.”",
-        "After what seemed to be a conversation between the two women, a ringing of an elegant bell resounded, and......a gentle and warm wind wrapped around me.",
-        "An incredibly comfortable, incredibly calming, and incredibly sleep-inducing wind......",
+        "After what seemed to be a conversation between the two women, a ringing of an elegant bell resounded, and...a gentle and warm wind wrapped around me.",
+        "An incredibly comfortable, incredibly calming, and incredibly sleep-inducing wind...",
         "Maybe because my tension had disappeared, I fell into sleep without being able to even thank these two.",
         "◇◆◇◆◇◆◇◆",
         "“So she is asleep now, Haku.”",
@@ -2863,12 +2863,12 @@
         {
           "id": 191,
           "paragraph_id": 159,
-          "text": "After what seemed to be a conversation between the two women, a ringing of an elegant bell resounded, and......a gentle and warm wind wrapped around me."
+          "text": "After what seemed to be a conversation between the two women, a ringing of an elegant bell resounded, and...a gentle and warm wind wrapped around me."
         },
         {
           "id": 192,
           "paragraph_id": 160,
-          "text": "An incredibly comfortable, incredibly calming, and incredibly sleep-inducing wind......"
+          "text": "An incredibly comfortable, incredibly calming, and incredibly sleep-inducing wind..."
         },
         {
           "id": 193,
@@ -3103,7 +3103,7 @@
         "“The thoughts that Iroha-chan currently considers as the correct way of a town, it kind of...doesn’t take proper form, I think. In that state, it will only stay as naive. That’s why, I felt like seeing a bit of that decision you will bring out.” (Haku)",
         "“...”",
         "The decision...I will bring out?",
-        "“Search unyieldingly for your ideal, and fall; or will you obtain the ability to gently deal with the situation, and at the same time, change your very own thoughts? Or maybe, you will continue single-mindedly with that sweet idealistic thinking of yours, and still possess something that will be able to change reality in some way...... just kidding.” (Haku)",
+        "“Search unyieldingly for your ideal, and fall; or will you obtain the ability to gently deal with the situation, and at the same time, change your very own thoughts? Or maybe, you will continue single-mindedly with that sweet idealistic thinking of yours, and still possess something that will be able to change reality in some way... just kidding.” (Haku)",
         "“The third one is way too ominous, Haku. Don’t say things that might tempt others to make a pact with the devil.” (Ginebia)",
         "“Yes~. And so, that’s how it is, Iroha-chan. The point is, I took an interest in you.” (Haku)",
         "“...Yeah, in that point, I am also of the same sentiment. In that case, about the movements of the Osakabe household...” (Ginebia)",
@@ -3231,7 +3231,7 @@
         "Sign?",
         "So they were famous people...",
         "“Uhm, I...my name is Osaka Iroha.” (Iroha)",
-        "“This is a request from the people of Apple, I will prepare you the best bodyguards. How much gold do you have? ......Hoh, so you are not a mere kid huh. Fine, there’s no problem. But...”",
+        "“This is a request from the people of Apple, I will prepare you the best bodyguards. How much gold do you have? ...Hoh, so you are not a mere kid huh. Fine, there’s no problem. But...”",
         "“...”",
         "When I tell him the money I have left, that person nods satisfied and continues speaking.",
         "“They will be returning tomorrow morning. People that I can soon arrange with the ones that are currently here...well, there’s no assurance that some unforeseen circumstances might occur. Sorry for this but, you will have to pass one day in the lodging of this city, but...is that okay?”",
@@ -3874,7 +3874,7 @@
         {
           "id": 111,
           "paragraph_id": 80,
-          "text": "Or maybe, you will continue single-mindedly with that sweet idealistic thinking of yours, and still possess something that will be able to change reality in some way...... just kidding.” (Haku)"
+          "text": "Or maybe, you will continue single-mindedly with that sweet idealistic thinking of yours, and still possess something that will be able to change reality in some way... just kidding.” (Haku)"
         },
         {
           "id": 112,
@@ -4824,7 +4824,7 @@
         {
           "id": 301,
           "paragraph_id": 208,
-          "text": "How much gold do you have? ......Hoh, so you are not a mere kid huh."
+          "text": "How much gold do you have? ...Hoh, so you are not a mere kid huh."
         },
         {
           "id": 302,
@@ -5837,13 +5837,12 @@
         "“It isn’t something to be so tormented about, you know. Uhm, you see...” (Raidou)",
         "“Yes?!” (Iroha)",
         "“Is Iroha-chan...the fiance of Izumo?” (Raidou)",
-        ".....",
         "Izu...mo?",
         "“There’s not even the need of hearing the answer, it was a bullseye huh. Mio also said this but, it shows in your face, Iroha-chan. You are like my past self...no, I am still the same as well.” (Raidou)",
         "“R-Ra-Raidou-sama?” (Iroha)",
         "Why is the name of Izumo-sama coming from Raidou-sama?!",
         "“Actually, it is something that I was practically sure of though. Simply confirming.” (Raidou)",
-        "“Uhm... I... uhhh....” (Iroha)",
+        "“Uhm... I... uhhh...” (Iroha)",
         "“It is fine. I am not blaming you or anything.” (Raidou)",
         "“...Why?! Why do you know?!” (Iroha)",
         "“Ah, so you go for that. You have probably already heard from Tomoe or Mio but, I am a temporary teacher in Rotsgard. To tell you the truth, I am teaching Izumo practical skills.” (Raidou)",
@@ -8225,245 +8224,240 @@
         {
           "id": 470,
           "paragraph_id": 353,
-          "text": "....."
+          "text": "Izu...mo?"
         },
         {
           "id": 471,
           "paragraph_id": 354,
-          "text": "Izu...mo?"
-        },
-        {
-          "id": 472,
-          "paragraph_id": 355,
           "text": "“There’s not even the need of hearing the answer, it was a bullseye huh."
         },
         {
-          "id": 473,
-          "paragraph_id": 355,
+          "id": 472,
+          "paragraph_id": 354,
           "text": "Mio also said this but, it shows in your face, Iroha-chan."
+        },
+        {
+          "id": 473,
+          "paragraph_id": 354,
+          "text": "You are like my past self...no, I am still the same as well.” (Raidou)"
         },
         {
           "id": 474,
           "paragraph_id": 355,
-          "text": "You are like my past self...no, I am still the same as well.” (Raidou)"
+          "text": "“R-Ra-Raidou-sama?” (Iroha)"
         },
         {
           "id": 475,
           "paragraph_id": 356,
-          "text": "“R-Ra-Raidou-sama?” (Iroha)"
+          "text": "Why is the name of Izumo-sama coming from Raidou-sama?!"
         },
         {
           "id": 476,
           "paragraph_id": 357,
-          "text": "Why is the name of Izumo-sama coming from Raidou-sama?!"
+          "text": "“Actually, it is something that I was practically sure of though."
         },
         {
           "id": 477,
-          "paragraph_id": 358,
-          "text": "“Actually, it is something that I was practically sure of though."
+          "paragraph_id": 357,
+          "text": "Simply confirming.” (Raidou)"
         },
         {
           "id": 478,
           "paragraph_id": 358,
-          "text": "Simply confirming.” (Raidou)"
+          "text": "“Uhm..."
         },
         {
           "id": 479,
-          "paragraph_id": 359,
-          "text": "“Uhm..."
+          "paragraph_id": 358,
+          "text": "I... uhhh...” (Iroha)"
         },
         {
           "id": 480,
           "paragraph_id": 359,
-          "text": "I... uhhh....” (Iroha)"
+          "text": "“It is fine."
         },
         {
           "id": 481,
-          "paragraph_id": 360,
-          "text": "“It is fine."
+          "paragraph_id": 359,
+          "text": "I am not blaming you or anything.” (Raidou)"
         },
         {
           "id": 482,
           "paragraph_id": 360,
-          "text": "I am not blaming you or anything.” (Raidou)"
+          "text": "“...Why?!"
         },
         {
           "id": 483,
-          "paragraph_id": 361,
-          "text": "“...Why?!"
+          "paragraph_id": 360,
+          "text": "Why do you know?!” (Iroha)"
         },
         {
           "id": 484,
           "paragraph_id": 361,
-          "text": "Why do you know?!” (Iroha)"
-        },
-        {
-          "id": 485,
-          "paragraph_id": 362,
           "text": "“Ah, so you go for that."
         },
         {
-          "id": 486,
-          "paragraph_id": 362,
+          "id": 485,
+          "paragraph_id": 361,
           "text": "You have probably already heard from Tomoe or Mio but, I am a temporary teacher in Rotsgard."
+        },
+        {
+          "id": 486,
+          "paragraph_id": 361,
+          "text": "To tell you the truth, I am teaching Izumo practical skills.” (Raidou)"
         },
         {
           "id": 487,
           "paragraph_id": 362,
-          "text": "To tell you the truth, I am teaching Izumo practical skills.” (Raidou)"
+          "text": "“?!!"
         },
         {
           "id": 488,
-          "paragraph_id": 363,
-          "text": "“?!!"
+          "paragraph_id": 362,
+          "text": "Could it be... you are...” (Iroha)"
         },
         {
           "id": 489,
           "paragraph_id": 363,
-          "text": "Could it be... you are...” (Iroha)"
+          "text": "“Hm?”"
         },
         {
           "id": 490,
           "paragraph_id": 364,
-          "text": "“Hm?”"
+          "text": "“With a cool face, he toys around with his students at death’s door, trains them without forgiving them and without letting them die...” (Iroha)"
         },
         {
           "id": 491,
           "paragraph_id": 365,
-          "text": "“With a cool face, he toys around with his students at death’s door, trains them without forgiving them and without letting them die...” (Iroha)"
+          "text": "“...”"
         },
         {
           "id": 492,
           "paragraph_id": 366,
-          "text": "“...”"
+          "text": "“He would change his behaviour whether the person is male or female, but in the end, what he is doing doesn’t change at all."
         },
         {
           "id": 493,
-          "paragraph_id": 367,
-          "text": "“He would change his behaviour whether the person is male or female, but in the end, what he is doing doesn’t change at all."
+          "paragraph_id": 366,
+          "text": "In a sense, he is an incredibly fair merchant-or more like, an ogre wearing the skin of a merchant.” (Iroha)"
         },
         {
           "id": 494,
           "paragraph_id": 367,
-          "text": "In a sense, he is an incredibly fair merchant-or more like, an ogre wearing the skin of a merchant.” (Iroha)"
+          "text": "“...”"
         },
         {
           "id": 495,
           "paragraph_id": 368,
-          "text": "“...”"
+          "text": "“‘Just knowing him would cause goosebumps, so I will not mention his name’, are you that temporary teacher?!” (Iroha)"
         },
         {
           "id": 496,
           "paragraph_id": 369,
-          "text": "“‘Just knowing him would cause goosebumps, so I will not mention his name’, are you that temporary teacher?!” (Iroha)"
+          "text": "The face of Raidou-sama is stiffened."
         },
         {
           "id": 497,
           "paragraph_id": 370,
-          "text": "The face of Raidou-sama is stiffened."
+          "text": "But I most likely- no, I definitely have a stiffened face too."
         },
         {
           "id": 498,
           "paragraph_id": 371,
-          "text": "But I most likely- no, I definitely have a stiffened face too."
+          "text": "“...Seriously, that Izumo does say some troublesome things huh."
         },
         {
           "id": 499,
-          "paragraph_id": 372,
-          "text": "“...Seriously, that Izumo does say some troublesome things huh."
+          "paragraph_id": 371,
+          "text": "Ahahaha...” (Raidou)"
         },
         {
           "id": 500,
           "paragraph_id": 372,
-          "text": "Ahahaha...” (Raidou)"
-        },
-        {
-          "id": 501,
-          "paragraph_id": 373,
           "text": "“Really."
         },
         {
-          "id": 502,
-          "paragraph_id": 373,
+          "id": 501,
+          "paragraph_id": 372,
           "text": "Even though you are such a kind person."
         },
         {
-          "id": 503,
-          "paragraph_id": 373,
+          "id": 502,
+          "paragraph_id": 372,
           "text": "Geez, that Izumo."
+        },
+        {
+          "id": 503,
+          "paragraph_id": 372,
+          "text": "Fufufu.” (Iroha)"
         },
         {
           "id": 504,
           "paragraph_id": 373,
-          "text": "Fufufu.” (Iroha)"
+          "text": "I don’t think I can do it, but I tried to somehow smooth over the situation."
         },
         {
           "id": 505,
           "paragraph_id": 374,
-          "text": "I don’t think I can do it, but I tried to somehow smooth over the situation."
+          "text": "At any rate, Raidou-sama, and the Kuzunoha Company."
         },
         {
           "id": 506,
           "paragraph_id": 375,
-          "text": "At any rate, Raidou-sama, and the Kuzunoha Company."
+          "text": "A merchant, a Wise-sama, and on top of that, he is the teacher of Izumo-sama."
         },
         {
           "id": 507,
           "paragraph_id": 376,
-          "text": "A merchant, a Wise-sama, and on top of that, he is the teacher of Izumo-sama."
+          "text": "This meeting was most likely the guidance of the Spirits."
         },
         {
           "id": 508,
           "paragraph_id": 377,
-          "text": "This meeting was most likely the guidance of the Spirits."
+          "text": "The Priestess-sama has been outside the country lately, so the words of Spirits have grown scarce, or so I have heard."
         },
         {
           "id": 509,
           "paragraph_id": 378,
-          "text": "The Priestess-sama has been outside the country lately, so the words of Spirits have grown scarce, or so I have heard."
+          "text": "But there’s no doubt about it."
         },
         {
           "id": 510,
           "paragraph_id": 379,
-          "text": "But there’s no doubt about it."
+          "text": "Is this because of the antagonism between the Ikusabe and the Osakabe households?"
         },
         {
           "id": 511,
-          "paragraph_id": 380,
-          "text": "Is this because of the antagonism between the Ikusabe and the Osakabe households?"
+          "paragraph_id": 379,
+          "text": "Or maybe because of their consideration regarding the instability of the grand labyrinth in Kannaoi?"
         },
         {
           "id": 512,
           "paragraph_id": 380,
-          "text": "Or maybe because of their consideration regarding the instability of the grand labyrinth in Kannaoi?"
+          "text": "This is...it has become quite the major incident."
         },
         {
           "id": 513,
           "paragraph_id": 381,
-          "text": "This is...it has become quite the major incident."
+          "text": "I have probably been appointed as the person who will witness... what this personage and the Kuzunoha Company will achieve in Kannaoi."
         },
         {
           "id": 514,
           "paragraph_id": 382,
-          "text": "I have probably been appointed as the person who will witness... what this personage and the Kuzunoha Company will achieve in Kannaoi."
+          "text": "This is not the time to be surprised by small things."
         },
         {
           "id": 515,
           "paragraph_id": 383,
-          "text": "This is not the time to be surprised by small things."
+          "text": "My homeland, Kannaoi, is something going to happen there?"
         },
         {
           "id": 516,
           "paragraph_id": 384,
-          "text": "My homeland, Kannaoi, is something going to happen there?"
-        },
-        {
-          "id": 517,
-          "paragraph_id": 385,
           "text": "I, Osakabe Iroha, will properly witness this with both of my eyes."
         }
       ],
-      "word_count": 6036
+      "word_count": 6035
     },
     {
       "chapter_index": 255,
@@ -17310,7 +17304,7 @@
       "url": "https://novelping.com/book/tsuki-ga-michibiku-isekai-douchuu/chapter-266",
       "paragraphs": [
         "Sponsored Chapter",
-        "“Alt floor? At the third floor, there was an Alt engraved at the entrance.......!!! Could it be the ‘Crimson Corridor’?! To think it actually existed.”",
+        "“Alt floor? At the third floor, there was an Alt engraved at the entrance...!!! Could it be the ‘Crimson Corridor’?! To think it actually existed.”",
         "“We have confirmed the Crimson Corridor... I won’t be surprised anymore. I have grown up.”",
         "Accomplishing the first encounter of a Marikosan, I was able to reunite with everyone at the next floor.",
         "We decided to finish the exploration of that day and returned to the hotel.",
@@ -17517,7 +17511,7 @@
         {
           "id": 2,
           "paragraph_id": 1,
-          "text": "At the third floor, there was an Alt engraved at the entrance.......!!!"
+          "text": "At the third floor, there was an Alt engraved at the entrance...!!!"
         },
         {
           "id": 3,
@@ -22210,7 +22204,7 @@
         "And to my surprise, the three were girls I knew of before.",
         "At the time when I visited Gritonia, those were the girls Tomoki offered me for Tomoe. They were all already at the brim with his charm power. They didn’t oppose at all the fact that they were being treated as objects.",
         "I heard from Tomoki that their levels were decent.",
-        "Even if I recently learned that their class was actually assassin, there was one thing I could tell, after looking at those eyes, I knew......it was already too late.",
+        "Even if I recently learned that their class was actually assassin, there was one thing I could tell, after looking at those eyes, I knew...it was already too late.",
         "That’s why I eliminated them.",
         "There were a number of people there aside from me, and leaving aside the moves they showed at the initial stage, looking at the sharp movements those three showed when they attacked me, they might have become a threat to Shougetsu-san and his group.",
         "Even now, I still think that it was the correct choice to quickly kill them.",
@@ -22375,7 +22369,7 @@
         {
           "id": 10,
           "paragraph_id": 8,
-          "text": "Even if I recently learned that their class was actually assassin, there was one thing I could tell, after looking at those eyes, I knew......it was already too late."
+          "text": "Even if I recently learned that their class was actually assassin, there was one thing I could tell, after looking at those eyes, I knew...it was already too late."
         },
         {
           "id": 11,
@@ -26106,7 +26100,7 @@
         "“You also remember the bottle?” (Makoto)",
         "“Yeah. She said that it was some sort of symbolic incense somewhere and that there was the need to make copies of it for investigation.” (Yuduki)",
         "“But Akashi-san doesn’t remember.” (Makoto)",
-        "“Y-Yeah... By the time I came to, Boss Raidou was calling to me......That’s certainly weird.” (Akashi)",
+        "“Y-Yeah... By the time I came to, Boss Raidou was calling to me...That’s certainly weird.” (Akashi)",
         "The charm of Tomoki shouldn’t be able to alter the memories.",
         "At the very least, that perfume and scent didn’t have such power.",
         "Then, she should be able to remember.",
@@ -27184,7 +27178,7 @@
         {
           "id": 199,
           "paragraph_id": 158,
-          "text": "By the time I came to, Boss Raidou was calling to me......That’s certainly weird.” (Akashi)"
+          "text": "By the time I came to, Boss Raidou was calling to me...That’s certainly weird.” (Akashi)"
         },
         {
           "id": 200,
@@ -38881,7 +38875,7 @@
         "Are they not?",
         "If that’s the case, that would be a bit uncool.",
         "“...I am an Arrow Dancer. I am not a religious person, so there’s no way I would take a job that sticks to a God.” (Haku)",
-        "“...I am a priest or a bishop. I don’t remember being in a job that doesn’t sound like it has any relation to priesthood...... Why do you know that?” (Ginebia)",
+        "“...I am a priest or a bishop. I don’t remember being in a job that doesn’t sound like it has any relation to priesthood... Why do you know that?” (Ginebia)",
         "They both probably have strong special jobs, unique jobs.",
         "But it seems like they don’t have a good impression of its name.",
         "They mutter this as they turn their faces to the side.",
@@ -39042,7 +39036,7 @@
         "When I try checking the location with Sakai, I learned we are in the same floor.",
         "Great.",
         "The accuracy of the information gain slightly decreasing is a point that bothers me a bit, but this space itself doesn’t bring harm to me.",
-        "The thought transmission received.....no response from anyone.",
+        "The thought transmission received...no response from anyone.",
         "Regarding Tomoe and Mio, I can tell that they are alright.",
         "Since we have been separated, that means she is my opponent?",
         "It is quite different from what I expected.",
@@ -39912,7 +39906,7 @@
         {
           "id": 162,
           "paragraph_id": 126,
-          "text": "I don’t remember being in a job that doesn’t sound like it has any relation to priesthood......"
+          "text": "I don’t remember being in a job that doesn’t sound like it has any relation to priesthood..."
         },
         {
           "id": 163,
@@ -40867,7 +40861,7 @@
         {
           "id": 353,
           "paragraph_id": 287,
-          "text": "The thought transmission received.....no response from anyone."
+          "text": "The thought transmission received...no response from anyone."
         },
         {
           "id": 354,
@@ -41411,7 +41405,7 @@
         "“Yeah.” (Ginebia)",
         "The two of them respectively left a skill and spell in standby, and both continue to warily watch Tomoe who is bend down.",
         "“...Well well, this is a sensation I haven’t felt in a long while-ja yo. Spilling blood I wasn’t planning on spilling. In normal circumstances, that splendid skill and magic combination would warrant a handshake from me. Ah, right-ja. This is...how it felt to fight against an enemy.” (Tomoe)",
-        "“.......”",
+        "“...”",
         "Tomoe spoke, stood on her knee, brushed off the dust on her clothes, and stood back up.",
         "She picks up the short sword she let go when she fell, slowly sheathes it back, and hits her back with the longsword that she didn’t let go of.",
         "Using her left hand to grab the arrow that pierced her upper arm, it soon turned into mist and disappeared.",
@@ -41431,7 +41425,7 @@
         "“I acknowledge it.” (Tomoe)",
         "“?”",
         "“Hakumokuren and Ginebia; I acknowledge both of your strengths. I acknowledge you as strong. You didn’t stand before me with foolish confidence, and are actually people that have fitting strength and experience to stand before me.” (Tomoe)",
-        "“.....”",
+        "“...”",
         "The tone of Tomoe was low and...cold...it had changed into a freezing one.",
         "Her words were praising her opponents, and yet, that voice that was reaching the ears of those two contained an abnormal amount of pressure.",
         "“I have shed the blood that Waka didn’t wish us to shed.” (Tomoe)",
@@ -42610,7 +42604,7 @@
         {
           "id": 228,
           "paragraph_id": 169,
-          "text": "“.......”"
+          "text": "“...”"
         },
         {
           "id": 229,
@@ -42750,7 +42744,7 @@
         {
           "id": 256,
           "paragraph_id": 189,
-          "text": "“.....”"
+          "text": "“...”"
         },
         {
           "id": 257,
@@ -43131,7 +43125,7 @@
         "“No-desu wa. In a radius of around 300 meters, I made it so noooo one can leave. If it’s Waka-sama and Tomoe-san, they would be able to leave in given time but, I wonder if you would be able to accomplish that?” (Mio)",
         "“?!”",
         "Rokuya opens his eyes wide.",
-        "“At any rate, it would be troublesome if you were to escape, so only that one spell, I placed serious power when activating it. The effective time of this ability is not eternal, right? It is a powerful ability after all. If the gears disappear naturally...let’s go for a round 2. I won’t lose next time. The punishment is still on hold, okay? Ufufufufufufu~~~.” (Mio)",
+        "“At any rate, it would be troublesome if you were to escape, so only that one spell, I placed serious power when activating it. The effective time of this ability is not eternal, right? It is a powerful ability after all. If the gears disappear naturally...let’s go for a round 2. I won’t lose next time. The punishment is still on hold, okay? Ufufufufufufu.” (Mio)",
         "“Tch! A draw was one of the worst developments within the possible scenarios! At the very least, I have to silence the group of that dwarf!” (Rokuya)",
         "Glancing at the unmoving Mio for a second, Rokuya’s figure disappears.",
         "Only the small laugh filled with anger of Mio remained in that place, and Rokuya was unable to get out from the space that Mio had setup there.",
@@ -43141,7 +43135,7 @@
         "“...You are interested in the battle between Rokuya-san and Mio-san? Sorry, I can’t show you due to Rokuya-san’s request.” (Hitsuna)",
         "“Eh?”",
         "“Ara, did I misinterpret that?” (Hitsuna)",
-        "“This is your territory anyways. Well, I understand that there’s a lot going on on your side. What I got just now......was your power, Hitsuna-san.” (Makoto)",
+        "“This is your territory anyways. Well, I understand that there’s a lot going on on your side. What I got just now...was your power, Hitsuna-san.” (Makoto)",
         "“?!”",
         "“You called it ‘Safety Zone’, right? You said so before but, it is certainly not an invincible space.” (Makoto)",
         "...It is just slight but, I felt the emotions of rage from Mio.",
@@ -44312,7 +44306,7 @@
         {
           "id": 226,
           "paragraph_id": 151,
-          "text": "Ufufufufufufu~~~.” (Mio)"
+          "text": "Ufufufufufufu.” (Mio)"
         },
         {
           "id": 227,
@@ -44387,7 +44381,7 @@
         {
           "id": 241,
           "paragraph_id": 161,
-          "text": "What I got just now......was your power, Hitsuna-san.” (Makoto)"
+          "text": "What I got just now...was your power, Hitsuna-san.” (Makoto)"
         },
         {
           "id": 242,
@@ -44753,7 +44747,7 @@
         "“Yeah. Even if the calculations stated that it would be okay even if we shot the Burst Spears, these guys formed a space that weakened us to a point where we were made to shot those Burst Spears in an underground environment. This is not the handywork of some regular folk. If it weren’t in these kind of circumstances, it is to a level that I would want to bring some great alcohol and listen to the principle behind it. Seriously.” (Beren)",
         "Beren was surprised that he was able to utilize the weapon that is normally not something that can be carefreely utilized outside, and even within Asora, it is classified in a relatively high position.",
         "As a dwarf, he possesses more interest and ability in the generalistic area rather than the specialization area, so he was incredibly interested in the structure of this labyrinth.",
-        "“Is there no second volley of the magic attack just now? What are they planning on doing?......Wait, ah, so that’s how it is.” (Shii)",
+        "“Is there no second volley of the magic attack just now? What are they planning on doing?...Wait, ah, so that’s how it is.” (Shii)",
         "“Umu.”",
         "“As expected of Waka-sama. It looks like the barrage went to where Waka-sama is.” (Beren)",
         "The two nod in succession at this.",
@@ -45774,7 +45768,7 @@
         {
           "id": 201,
           "paragraph_id": 151,
-          "text": "What are they planning on doing?......Wait, ah, so that’s how it is.” (Shii)"
+          "text": "What are they planning on doing?...Wait, ah, so that’s how it is.” (Shii)"
         },
         {
           "id": 202,
@@ -46017,7 +46011,7 @@
         "“You are doing something outrageous again! [Recast]!” (Hitsuna)",
         "You kidding right?",
         "The magic in that magic book is just unfair!!",
-        "The four elemental Bridds that were pointlessly continuing their barrage at the back.....were now aiming here.",
+        "The four elemental Bridds that were pointlessly continuing their barrage at the back...were now aiming here.",
         "Even though it is a spell that was already activated once, you can still adjust or correct it before it disappears?",
         "I feel as if I am being pointed a machine gun!",
         "It is not like I have been pointed with one though!!",
@@ -46037,7 +46031,7 @@
         "This woman can change gears in such a fast manner.",
         "It is certainly the number one thing I don’t want occurring.",
         "Leaving aside if she can actually do it or not.",
-        "But...the words of Hitsuna saying ‘I have read you!’....",
+        "But...the words of Hitsuna saying ‘I have read you!’...",
         "Crap, she got me.",
         "Now I understand the fearless smile of the Marikosan close to me that’s getting even thicker than before.",
         "Her charge isn’t in order to support the barrage of her comrades, it is in order to have Hitsuna-san activate this spell of hers.",
@@ -47025,7 +47019,7 @@
         {
           "id": 193,
           "paragraph_id": 168,
-          "text": "The four elemental Bridds that were pointlessly continuing their barrage at the back.....were now aiming here."
+          "text": "The four elemental Bridds that were pointlessly continuing their barrage at the back...were now aiming here."
         },
         {
           "id": 194,
@@ -47130,7 +47124,7 @@
         {
           "id": 214,
           "paragraph_id": 188,
-          "text": "But...the words of Hitsuna saying ‘I have read you!’...."
+          "text": "But...the words of Hitsuna saying ‘I have read you!’..."
         },
         {
           "id": 215,
@@ -47225,7 +47219,7 @@
       "title": "Chapter 279: VS Hitsuna-san and Marikosans",
       "url": "https://novelping.com/book/tsuki-ga-michibiku-isekai-douchuu/chapter-285",
       "paragraphs": [
-        "“Wah...but, even if you defeat me, the fight won’t end. However, I will praise you. To think that they would be able to destroy a section of the Marikosans. Well done.....Fuhahahahaha!”",
+        "“Wah...but, even if you defeat me, the fight won’t end. However, I will praise you. To think that they would be able to destroy a section of the Marikosans. Well done...Fuhahahahaha!”",
         "“With one attack? To think they would have the power to defeat Yellow-san with one attack. Captain!! Captain Red!! Your orders please!”",
         "“How admirable. Truly admirable. Yellow was the weakest one among us, but her box cut was one you had to keep an eye on. But no need to fret. We can still do it. Don’t go on the defensive by any means. We will attack, and attack, and continue attacking! At the frontlines, we have our vice-captain, Black—”",
         "“Captain! The attack that defeated Yellow-san penetrated all the way onto Black-san as well! Black-san has been KIA!!”",
@@ -47254,7 +47248,7 @@
         "Three of them had lined up pretty well, so when I tried shooting them with one attack, I managed to defeat two of them. Too bad the spell lost most of its power and was unable to get the third one.",
         "“There!!”",
         "In perspective, I totally look like the bad guy here. I created several tentacles with the Magic Armor and controlled them to pierce through several of the close combat Marikosans that were left.",
-        "“Even when Takane-kun is reducing his power this much, he is still...... you magic power gorilla!” (Hitsuna)",
+        "“Even when Takane-kun is reducing his power this much, he is still... you magic power gorilla!” (Hitsuna)",
         "So rude!",
         "The jeer that was practically a scream from Hitsuna-san pierced through my heart.",
         "Magic power gorilla she says.",
@@ -47284,7 +47278,7 @@
         "“I can’t use Safety Zone for one minute more though. Can’t slacken my hand here!” (Hitsuna)",
         "“We can’t either. Our long lives are not just for show. We do have a good number of tricks up our sleeves. Don’t look down on grandmas!”",
         "Kuh...",
-        "“[Guardian of the Beautiful Country]! [Cat tribe claws]! [Songstress, Queen Teresa]....!”",
+        "“[Guardian of the Beautiful Country]! [Cat tribe claws]! [Songstress, Queen Teresa]...!”",
         "With a glance, I look at the Marikosans that were at the back of Hitsuna-san.",
         "Those girls respond to that gaze with a grin.",
         "Sword, axe, and spear; their weapons that were mainly throwing weapons have been changed into close combat ones?",
@@ -47410,7 +47404,7 @@
         {
           "id": 3,
           "paragraph_id": 0,
-          "text": "Well done.....Fuhahahahaha!”"
+          "text": "Well done...Fuhahahahaha!”"
         },
         {
           "id": 4,
@@ -47635,7 +47629,7 @@
         {
           "id": 48,
           "paragraph_id": 29,
-          "text": "“Even when Takane-kun is reducing his power this much, he is still...... you magic power gorilla!” (Hitsuna)"
+          "text": "“Even when Takane-kun is reducing his power this much, he is still... you magic power gorilla!” (Hitsuna)"
         },
         {
           "id": 49,
@@ -47855,7 +47849,7 @@
         {
           "id": 92,
           "paragraph_id": 59,
-          "text": "[Songstress, Queen Teresa]....!”"
+          "text": "[Songstress, Queen Teresa]...!”"
         },
         {
           "id": 93,
@@ -48620,7 +48614,7 @@
         "Aznoval whispers: ‘what is it?’ with his head turned to it.",
         "Right after, his figure disappeared from the room.",
         "“Oh, these are the ‘Grim Tale Gears’ of Rokuya. But, for some reason, he is not here?”",
-        "“How dare he do this to me...inflicting pain and shame in such a way...no, that’s not all there’s to it, he dared to do this to me, a follower of Waka-sama... that man, Rokuya......”",
+        "“How dare he do this to me...inflicting pain and shame in such a way...no, that’s not all there’s to it, he dared to do this to me, a follower of Waka-sama... that man, Rokuya...”",
         "What Aznoval saw right in his front as he finished his teleportation was a black haired girl restrained with a familiar power.",
         "She seemed to be slightly crazy in the head -no well, seemed to be acting strange.",
         "A japanese clothed beauty with long glossy hair wearing a kimono.",
@@ -48633,7 +48627,7 @@
         "“Yeah, I understood that from the very instant I saw it. You are unbelievably strong but...it seems you have complex circumstances.” (Aznoval)",
         "“...Yeah. That’s why, just leave me be. Honestly speaking, if I get released from this restraint in an undesirable manner...I don’t have the confidence that I will be able to hold myself back at all.” (Mio)",
         "“Then, I will not destroy it under a condition. It looks like you know the man called Rokuya but, where is he now?” (Aznoval)",
-        "“He is running around somewhere......no, he was. Fufufufu. From all the people, he ended up encountering Waka-sama. That ultra duper idiot.” (Mio)",
+        "“He is running around somewhere...no, he was. Fufufufu. From all the people, he ended up encountering Waka-sama. That ultra duper idiot.” (Mio)",
         "“! Looks like I have to hurry.” (Aznoval)",
         "The figure of Aznoval disappears once again.",
         "“So that’s the trump card they were waiting for? He probably is. Because he entered from the outside after all.” (Mio)",
@@ -49701,7 +49695,7 @@
         {
           "id": 198,
           "paragraph_id": 145,
-          "text": "“How dare he do this to me...inflicting pain and shame in such a way...no, that’s not all there’s to it, he dared to do this to me, a follower of Waka-sama... that man, Rokuya......”"
+          "text": "“How dare he do this to me...inflicting pain and shame in such a way...no, that’s not all there’s to it, he dared to do this to me, a follower of Waka-sama... that man, Rokuya...”"
         },
         {
           "id": 199,
@@ -49786,7 +49780,7 @@
         {
           "id": 215,
           "paragraph_id": 158,
-          "text": "“He is running around somewhere......no, he was."
+          "text": "“He is running around somewhere...no, he was."
         },
         {
           "id": 216,
@@ -51796,7 +51790,7 @@
         "Let’s try taking distance and set up attacks concentrated on mid and long distance magic attacks.",
         "And let’s mix in Azusa with that.",
         "I want to make this battle flow to my advantage as fast as possible.",
-        "“You are unexpectedly honest, Raidou-kun...... I am surprised!” (Aznoval)",
+        "“You are unexpectedly honest, Raidou-kun... I am surprised!” (Aznoval)",
         "“Wa?!”",
         "In mid-air, the knight on full-body armor holding a crazy big greatsword...turned around.",
         "The greatsword turns into a blur and disappears from my field of vision with only pure speed. The wind that was born from the speed of the sword brushed my skin.",
@@ -51899,12 +51893,12 @@
         "I think I saw the greatsword shining with the color of the night sky -pulsate.",
         "“-Slash]!!”",
         "The vigorous voice of Aznoval-san resonates.",
-        "“.....?”",
+        "“...?”",
         "It looks as if both of his hands that were still injured had grown a size bigger.",
         "In those hands, there was a japanese sword.",
         "Being taken in by this sight, I let out a dumbfounded voice.",
         "Our tastes are similar? What a lie.",
-        "The greatsword......had gigantified.",
+        "The greatsword...had gigantified.",
         "It is true that if we were to ignore the size, it had good balance; it might be a japanese sword, but—! This is already not a size that a human can hold.",
         "I can feel a pressure that surpasses that of Beren’s ‘Mountain Cleaver’ from that thing!",
         "From THE ‘Mountain Cleaver’ that’s on the 150 *galanas rate*, you know?!",
@@ -52207,7 +52201,7 @@
         {
           "id": 51,
           "paragraph_id": 48,
-          "text": "“You are unexpectedly honest, Raidou-kun......"
+          "text": "“You are unexpectedly honest, Raidou-kun..."
         },
         {
           "id": 52,
@@ -52852,7 +52846,7 @@
         {
           "id": 180,
           "paragraph_id": 151,
-          "text": "“.....?”"
+          "text": "“...?”"
         },
         {
           "id": 181,
@@ -52882,7 +52876,7 @@
         {
           "id": 186,
           "paragraph_id": 156,
-          "text": "The greatsword......had gigantified."
+          "text": "The greatsword...had gigantified."
         },
         {
           "id": 187,
@@ -53281,7 +53275,7 @@
         "But the Silver Arms are also doing their best.",
         "The edge of the blade is slowly being destroyed, and the blade itself is thinning.",
         "It doesn’t matter who wins; that won’t decide the match.",
-        "As long as I have the time.....I can shoot!!",
+        "As long as I have the time...I can shoot!!",
         "“Cold resolute eyes. So you have finally gotten serious?!” (Aznoval)",
         "The speed of Aznoval-san himself increases and the size of the blade also increases without stopping.",
         "If I lower my guard, I will be swept instantly.",
@@ -54377,7 +54371,7 @@
         {
           "id": 211,
           "paragraph_id": 159,
-          "text": "As long as I have the time.....I can shoot!!"
+          "text": "As long as I have the time...I can shoot!!"
         },
         {
           "id": 212,
@@ -54662,7 +54656,7 @@
         "Rokuya, Ginebia, and Hitsuna let out a heavy sigh as they mention their memory about Doma.",
         "‘Pffft’",
         "A laugh of Tomoe mixed in when Hitsuna ended talking, probably because she took a peek at that memory of theirs.",
-        "“He injured Waka-sama..... I see, so these men that are supposedly the ancestors of the adventurers are all... seriously... ufufufu. I see, I see...” (Mio)",
+        "“He injured Waka-sama... I see, so these men that are supposedly the ancestors of the adventurers are all... seriously... ufufufu. I see, I see...” (Mio)",
         "“Calm down. In the first place, Waka was aware that he would be getting injured when he accepted. If he by some chance calls us, we will crush them without mercy, but if he hasn’t, keep your mouth zipped. This is a battle that Waka has acknowledged.” (Tomoe)",
         "“...Hmph, I know. Leaving aside the acknowledging and all that stuff, seeing it actually occurring before my eyes still stings my heart, so I can’t help it.” (Mio)",
         "“That’s fine then. I am saying this just in case but, just because Waka is not watching doesn’t mean you can do something to Rokuya, okay?” (Tomoe)",
@@ -54768,7 +54762,7 @@
         "The greatsword, that anyone who saw it would describe it as imposing and peculiar shaped, looked as if it had literally disappeared in an instant.",
         "“!!!”",
         "“Waka-sama!”",
-        "After that instant.....the kitchen knife Masamune stopped slightly past Makoto.",
+        "After that instant...the kitchen knife Masamune stopped slightly past Makoto.",
         "And the face of Makoto was dyed bright red.",
         "The Magic Armor that protected his body is not there anymore.",
         "But Makoto also had a stance with his bow that had an unnatural posture.",
@@ -55309,7 +55303,7 @@
         {
           "id": 105,
           "paragraph_id": 95,
-          "text": "“He injured Waka-sama....."
+          "text": "“He injured Waka-sama..."
         },
         {
           "id": 106,
@@ -56084,7 +56078,7 @@
         {
           "id": 260,
           "paragraph_id": 201,
-          "text": "After that instant.....the kitchen knife Masamune stopped slightly past Makoto."
+          "text": "After that instant...the kitchen knife Masamune stopped slightly past Makoto."
         },
         {
           "id": 261,
@@ -56190,8 +56184,8 @@
         "What I actually did had no positives at all. Not only that, I simply got injured and made everyone worry.",
         "This is nothing but disheartening.",
         "“Mio, don’t do anything to those two. Also, I won’t nod. Got it?” (Makoto)",
-        "“N-No way. Just a bit, it will be just a little bit. Towards the man that humiliated me to a point I have never felt before, and the man who cut W-Waka-sama’s face...... If a bit is no good, let it be only a tiny little bit. With my discretion—” (Mio)",
-        "“......Mio.” (Makoto)",
+        "“N-No way. Just a bit, it will be just a little bit. Towards the man that humiliated me to a point I have never felt before, and the man who cut W-Waka-sama’s face... If a bit is no good, let it be only a tiny little bit. With my discretion—” (Mio)",
+        "“...Mio.” (Makoto)",
         "I have heard of what Rokuya-san did to Mio.",
         "I do have my thoughts regarding that.",
         "But rather than feeling something towards him...it is more correct to say that I am feeling something towards myself.",
@@ -56320,7 +56314,7 @@
         "But Mio cuts in between Aznoval-san and I.",
         "“...”",
         "Without making a face as if being troubled, Aznoval-san approaches Mio and whispered into her ears.",
-        "“.....There’s no lie in those words?” (Mio)",
+        "“...There’s no lie in those words?” (Mio)",
         "“Of course there’s none. A knight doesn’t go back on his words.” (Aznoval)",
         "Isn’t that supposed to be a samurai?",
         "Is it the same for knights?",
@@ -56637,7 +56631,7 @@
         {
           "id": 58,
           "paragraph_id": 41,
-          "text": "Towards the man that humiliated me to a point I have never felt before, and the man who cut W-Waka-sama’s face......"
+          "text": "Towards the man that humiliated me to a point I have never felt before, and the man who cut W-Waka-sama’s face..."
         },
         {
           "id": 59,
@@ -56652,7 +56646,7 @@
         {
           "id": 61,
           "paragraph_id": 42,
-          "text": "“......Mio.” (Makoto)"
+          "text": "“...Mio.” (Makoto)"
         },
         {
           "id": 62,
@@ -57522,7 +57516,7 @@
         {
           "id": 235,
           "paragraph_id": 171,
-          "text": "“.....There’s no lie in those words?” (Mio)"
+          "text": "“...There’s no lie in those words?” (Mio)"
         },
         {
           "id": 236,
@@ -63669,7 +63663,7 @@
         "“Didn’t I say we won’t be doing anything? Marito, it is not like I don’t know about the antagonism between your military family and them, but...hold it down. Right now in that city, there’s the tails of a dragon and a tiger that we can’t step on. Listen well. If we were to step into this matter thoughtlessly...all the military family will be wiped out, you know.” (Sairitz)",
         "“Y-You jest.” (Marito)",
         "“I am as serious as I can be. Because of the encounter between Iroha and the Kuzunoha Company, the situation has changed into an abnormally delicate and dangerous matter. The representative Raidou-sama, who is staying there, is the one that is working as the teacher of your son, Izumo, at Rotsgard.” (Sairitz)",
-        "“......”",
+        "“...”",
         "“By the time you meet him again, that child should have definitely become stronger than you. Raidou is the kind of man that possesses that much achievements to even accomplish something like that as a teacher in his spare time. That’s why, don’t place your personal feelings in this occasion and just watch over it. This is an important test case.” (Sairitz)",
         "“I admit the matter with Izumo. He is several steps better than me. But I am not planning on being overcome for at least 10 to 15 years though... I understand. If it is okay, can I hear about the meaning of the words ‘test case’?” (Marito)",
         "“Just how will they react when attacked directly? Just how will Raidou-sama see the approaching danger to his comrades, and how will he move? In Rotsgard, there was that big of an incident, and yet, it looked as if he viewed it as not his problem after all. That’s what I meant.” (Sairitz)",
@@ -64686,7 +64680,7 @@
         {
           "id": 198,
           "paragraph_id": 152,
-          "text": "“......”"
+          "text": "“...”"
         },
         {
           "id": 199,
@@ -64977,7 +64971,7 @@
         "(There’s no signs of her using a skill. But she did something with the weapon in her hand. If I remember correctly, that’s...a naginata. There’s no doubt that she cut off the arm of Levi with it. It is slight, but I can tell that there’s scylla blood on it. Meaning that the seed of that sleight of hand was her excellent technique and body strength. In other words, it wasn’t actually a sleight of hand, but high-class technique. Wait, that’s of no importance. It simply means that this is baaad.) (Lime)",
         "Fortunately, Lime has experienced a bit of a similar technique.",
         "At the time when his superior Tomoe was training in Iai, he has seen similar spectacles like this several times.",
-        "(It is frightening how this woman’s ability is sharper and more silent than Sis’. She is without doubt an expert...... But in the first place, Sis being able to swing around a katana so sharply in that way without the guidance of anyone is pretty weird in itself. The weapon is different, but this woman is really a troublesome opponent. Damn it!) (Lime)",
+        "(It is frightening how this woman’s ability is sharper and more silent than Sis’. She is without doubt an expert... But in the first place, Sis being able to swing around a katana so sharply in that way without the guidance of anyone is pretty weird in itself. The weapon is different, but this woman is really a troublesome opponent. Damn it!) (Lime)",
         "First, make the enemy move.",
         "At any rate, smash the enemy.",
         "Lime and Levi head towards the same enemy, but their thoughts were practically water and oil.",
@@ -65010,7 +65004,7 @@
         "Even so, this is the first time he has seen something like this, and it is not realistic to try to have his eyes get used to it in actual combat.",
         "That’s why, by gathering information of Haruka’s whole body movements and her habits, he has to read the trajectory and range.",
         "Being able to bring out one of Haruka’s cards with words was big.",
-        "(It is still a complete mystery how she is able to manage such movement with a naginata that doesn’t have something like a scabbard though. Somehow managed to make one step forward huh. Now then, I am counting on you brats. If you lead the guests to Boss, our win will be settled....Wa?) (Lime)",
+        "(It is still a complete mystery how she is able to manage such movement with a naginata that doesn’t have something like a scabbard though. Somehow managed to make one step forward huh. Now then, I am counting on you brats. If you lead the guests to Boss, our win will be settled...Wa?) (Lime)",
         "The mistake of Lime was by no means a blunder caused by him alone.",
         "Insulting Tomoki, bringing out the name of Raidou, stimulating disatisfaction; it was close to impossible for him to understand the meaning of that at this point in time after all.",
         "The eyes of Haruka were showing anger.",
@@ -65633,7 +65627,7 @@
         {
           "id": 103,
           "paragraph_id": 81,
-          "text": "She is without doubt an expert......"
+          "text": "She is without doubt an expert..."
         },
         {
           "id": 104,
@@ -65933,7 +65927,7 @@
         {
           "id": 163,
           "paragraph_id": 114,
-          "text": "If you lead the guests to Boss, our win will be settled....Wa?) (Lime)"
+          "text": "If you lead the guests to Boss, our win will be settled...Wa?) (Lime)"
         },
         {
           "id": 164,
@@ -69831,7 +69825,7 @@
         "“Uo?!” (Shougetsu)",
         "The katana bag that was at the back of Shougetsu had blown open.",
         "The handle of the katana fell onto the hands of Iroha, and the sword for protection, Hotarumaru, that was hanging at her waist released green light as it disappeared.",
-        "(U~h, what a delicacy~~~!! Let’s go all jilly-jolly on this people from the very beginning!!!) (Ein-Khalif)",
+        "(U~h, what a delicacy!! Let’s go all jilly-jolly on this people from the very beginning!!!) (Ein-Khalif)",
         "“Munching?”",
         "The sword in Iroha’s hand didn’t have the blade part.",
         "“What?! The two archers and the mage have suddenly fallen!” (Amelia)",
@@ -70810,7 +70804,7 @@
         {
           "id": 173,
           "paragraph_id": 125,
-          "text": "(U~h, what a delicacy~~~!!"
+          "text": "(U~h, what a delicacy!!"
         },
         {
           "id": 174,
@@ -71707,7 +71701,7 @@
         "Their anger, bloodthirst, and the many miracle-like techniques that these young group of talents were giving birth to; she received them all and crushed them.",
         "That’s how it looked to me.",
         "And that delayed it enough for me to intervene.",
-        "In other words, it could be that......ah...this is hard to deal with. Even if it is something that I have decided on, I wonder if this really is the correct choice.",
+        "In other words, it could be that...ah...this is hard to deal with. Even if it is something that I have decided on, I wonder if this really is the correct choice.",
         "Fighting really doesn’t bring out anything good.",
         "“The enemy of Tomoki-sama; the one who injured his personage...is how I should think of it, right?” (Haruka)",
         "“You can.” (Makoto)",
@@ -72474,7 +72468,7 @@
         {
           "id": 128,
           "paragraph_id": 97,
-          "text": "In other words, it could be that......ah...this is hard to deal with."
+          "text": "In other words, it could be that...ah...this is hard to deal with."
         },
         {
           "id": 129,
@@ -73246,7 +73240,7 @@
         "The ends of my mouth had unconsciously turned upwards.",
         "Maybe it was the gratitude of being able to die after bringing out my all, or it might be joy. It could be the irony that I, who could only crush, was now the one being crushed.",
         "Ah...in the end, I will be leaving without understanding this thing called battle huh.",
-        "Whatever the case, for me, my encounter with this young man is......",
+        "Whatever the case, for me, my encounter with this young man is...",
         "◇◇ ◆◆ ◇◇ ◆◆",
         "The fire breath of the fire maned lion had flown into where Jin and others are.",
         "Around 10 minutes after the arrival of Tomoe, Mio had also regrouped, and she dispersed those flames with a single swing of her fan.",
@@ -73263,7 +73257,7 @@
         "On the other side, Tomoe and Mio had finished treating the subordinates of Iroha-chan, and were now simply watching my battle between Haruka-san without saying anything.",
         "They are not going to interfere.",
         "“Oh?”",
-        "“....Hm.”",
+        "“...Hm.”",
         "Looks like a number of mamonos were about to change their properties from spiritual to material.",
         "It must have been an order from Haruka-san, but I won’t allow that.",
         "I skewer from below the cockroach and centipede at the sides before they manage to do anything.",
@@ -73300,13 +73294,12 @@
         "Rokuya thoroughly explains me his ability.",
         "Rather than the details of his ability, what interests me more are the circumstances in which made him wish for such an ability though.",
         "There was no explanation in that regards.",
-        "“You simply became a weakling and increased in numbers...... Even if you show us something like that, it is not interesting at all.” (Mio)",
+        "“You simply became a weakling and increased in numbers... Even if you show us something like that, it is not interesting at all.” (Mio)",
         "Mio gives out incredibly harsh criticism.",
         "Looks like what Rokuya-san had whispered to Mio before wasn’t about showing this ability.",
         "(Hahaha. But, unless I am wiped out, there won’t be any serious wound dealt to me, and it takes 10 days to recast it. There have been an unexpectedly good amount of times in which I have been saved by this ability. Especially in times when numbers become strength. It is a tactic that you wouldn’t normally see in Kuzunoha Company that is more about quality than quantity, right?) (Rokuya)",
         "(True. Twenty thousand respectively at the east, west, south, and north. If Rokuya-san alone can control all directions, the amount of violence it can cause with just the sheer numbers is nightmarish.) (Makoto)",
         "(As expected of Makoto-kun. You understand. So, leave the outside to me. Now then, see ya later.) (Rokuya)",
-        "......",
         "The presence of Rokuya-san disappears.",
         "Power in numbers huh.",
         "It is true that in Asora and in the Kuzunoha Company, our common policy is to thoroughly increase the quality.",
@@ -73643,7 +73636,7 @@
         {
           "id": 38,
           "paragraph_id": 32,
-          "text": "Whatever the case, for me, my encounter with this young man is......"
+          "text": "Whatever the case, for me, my encounter with this young man is..."
         },
         {
           "id": 39,
@@ -73738,7 +73731,7 @@
         {
           "id": 57,
           "paragraph_id": 49,
-          "text": "“....Hm.”"
+          "text": "“...Hm.”"
         },
         {
           "id": 58,
@@ -73958,7 +73951,7 @@
         {
           "id": 101,
           "paragraph_id": 86,
-          "text": "“You simply became a weakling and increased in numbers......"
+          "text": "“You simply became a weakling and increased in numbers..."
         },
         {
           "id": 102,
@@ -74038,547 +74031,547 @@
         {
           "id": 117,
           "paragraph_id": 92,
-          "text": "......"
+          "text": "The presence of Rokuya-san disappears."
         },
         {
           "id": 118,
           "paragraph_id": 93,
-          "text": "The presence of Rokuya-san disappears."
+          "text": "Power in numbers huh."
         },
         {
           "id": 119,
           "paragraph_id": 94,
-          "text": "Power in numbers huh."
+          "text": "It is true that in Asora and in the Kuzunoha Company, our common policy is to thoroughly increase the quality."
         },
         {
           "id": 120,
           "paragraph_id": 95,
-          "text": "It is true that in Asora and in the Kuzunoha Company, our common policy is to thoroughly increase the quality."
+          "text": "That’s why I might have been neglecting a bit the power that numbers can provide."
         },
         {
           "id": 121,
           "paragraph_id": 96,
-          "text": "That’s why I might have been neglecting a bit the power that numbers can provide."
+          "text": "Now that I think about it, in the underground battle, it was the same."
         },
         {
           "id": 122,
           "paragraph_id": 97,
-          "text": "Now that I think about it, in the underground battle, it was the same."
+          "text": "I might have to take into consideration the people, things, and the amount of material resources before confronting the Goddess."
         },
         {
           "id": 123,
           "paragraph_id": 98,
-          "text": "I might have to take into consideration the people, things, and the amount of material resources before confronting the Goddess."
+          "text": "Now then, let’s leave this as one thing I should do when I return."
         },
         {
           "id": 124,
           "paragraph_id": 99,
-          "text": "Now then, let’s leave this as one thing I should do when I return."
+          "text": "The Wings of the Saint of Haruka-san will be ending in one or two times more."
         },
         {
           "id": 125,
           "paragraph_id": 100,
-          "text": "The Wings of the Saint of Haruka-san will be ending in one or two times more."
+          "text": "I don’t know what will happen after."
         },
         {
           "id": 126,
           "paragraph_id": 101,
-          "text": "I don’t know what will happen after."
+          "text": "If it would leave her in a state of apparent death, that would be the best, but who knows."
         },
         {
           "id": 127,
           "paragraph_id": 102,
-          "text": "If it would leave her in a state of apparent death, that would be the best, but who knows."
+          "text": "“Fire Demonic Being, [Fiery Chariot’s Gun]!!” (Haruka)"
         },
         {
           "id": 128,
           "paragraph_id": 103,
-          "text": "“Fire Demonic Being, [Fiery Chariot’s Gun]!!” (Haruka)"
+          "text": "As expected of the ability of a Wise."
         },
         {
           "id": 129,
           "paragraph_id": 104,
-          "text": "As expected of the ability of a Wise."
+          "text": "Names I feel I have heard before were coming out pretty frequently from her mouth."
         },
         {
           "id": 130,
           "paragraph_id": 105,
-          "text": "Names I feel I have heard before were coming out pretty frequently from her mouth."
+          "text": "I think I heard about this Fire Demonic Being from my recently joined follower, Tamaki, who is in charge of the mysterious."
         },
         {
           "id": 131,
-          "paragraph_id": 106,
-          "text": "I think I heard about this Fire Demonic Being from my recently joined follower, Tamaki, who is in charge of the mysterious."
+          "paragraph_id": 105,
+          "text": "With her usual ‘In the past~~I was called like this...’."
         },
         {
           "id": 132,
           "paragraph_id": 106,
-          "text": "With her usual ‘In the past~~I was called like this...’."
+          "text": "All she says sounds strangely doubtful, you know."
         },
         {
           "id": 133,
           "paragraph_id": 107,
-          "text": "All she says sounds strangely doubtful, you know."
+          "text": "Haruka-san summons three new mamonos and charges towards me with two of them in tow -and her naginata in both hands that I have deliberately not destroyed yet."
         },
         {
           "id": 134,
           "paragraph_id": 108,
-          "text": "Haruka-san summons three new mamonos and charges towards me with two of them in tow -and her naginata in both hands that I have deliberately not destroyed yet."
+          "text": "Uhm...the one that remained was probably the Fiery Chariot?"
         },
         {
           "id": 135,
           "paragraph_id": 109,
-          "text": "Uhm...the one that remained was probably the Fiery Chariot?"
+          "text": "I thought it was a fire chariot, but it looks like that wasn’t the case."
         },
         {
           "id": 136,
           "paragraph_id": 110,
-          "text": "I thought it was a fire chariot, but it looks like that wasn’t the case."
+          "text": "I won’t be countering or fighting back; if you want to do something, go ahead and do it."
         },
         {
           "id": 137,
           "paragraph_id": 111,
-          "text": "I won’t be countering or fighting back; if you want to do something, go ahead and do it."
+          "text": "Will it be some type of new skill, or maybe a team attack that was born from a revelation?"
         },
         {
           "id": 138,
           "paragraph_id": 112,
-          "text": "Will it be some type of new skill, or maybe a team attack that was born from a revelation?"
+          "text": "Taking pointers from it doesn’t sound bad."
         },
         {
           "id": 139,
           "paragraph_id": 113,
-          "text": "Taking pointers from it doesn’t sound bad."
+          "text": "I am someone that doesn’t feel worth about fighting in itself, but if it is Haruka-san who seems to feel worth in bringing out her all, she might be able to find something here."
         },
         {
           "id": 140,
           "paragraph_id": 114,
-          "text": "I am someone that doesn’t feel worth about fighting in itself, but if it is Haruka-san who seems to feel worth in bringing out her all, she might be able to find something here."
+          "text": "“[Demonic Space]!” (Haruka)"
         },
         {
           "id": 141,
           "paragraph_id": 115,
-          "text": "“[Demonic Space]!” (Haruka)"
+          "text": "A whole side of my vision was dyed in darkness."
         },
         {
           "id": 142,
           "paragraph_id": 116,
-          "text": "A whole side of my vision was dyed in darkness."
+          "text": "I couldn’t see Haruka-san anymore, and the only thing I felt was that my Magic Armor had been attacked."
         },
         {
           "id": 143,
           "paragraph_id": 117,
-          "text": "I couldn’t see Haruka-san anymore, and the only thing I felt was that my Magic Armor had been attacked."
+          "text": "Is this an anti-magic attack?"
         },
         {
           "id": 144,
           "paragraph_id": 118,
-          "text": "Is this an anti-magic attack?"
+          "text": "My Magic Armor had crumbled way too easily."
         },
         {
           "id": 145,
           "paragraph_id": 119,
-          "text": "My Magic Armor had crumbled way too easily."
+          "text": "I felt like it was different from the time with Azu-san."
         },
         {
           "id": 146,
-          "paragraph_id": 120,
-          "text": "I felt like it was different from the time with Azu-san."
+          "paragraph_id": 119,
+          "text": "It felt as if it were a specialized skill."
         },
         {
           "id": 147,
           "paragraph_id": 120,
-          "text": "It felt as if it were a specialized skill."
+          "text": "“[Anesthetic Slash]!” (Haruka)"
         },
         {
           "id": 148,
           "paragraph_id": 121,
-          "text": "“[Anesthetic Slash]!” (Haruka)"
+          "text": "This time, I felt like my arm was cut."
         },
         {
           "id": 149,
           "paragraph_id": 122,
-          "text": "This time, I felt like my arm was cut."
+          "text": "Though it wasn’t my exposed skin that was aimed at, but an attack that I felt from on top of my coat."
         },
         {
           "id": 150,
           "paragraph_id": 123,
-          "text": "Though it wasn’t my exposed skin that was aimed at, but an attack that I felt from on top of my coat."
+          "text": "Maybe this darkness is also affecting Haruka-san slightly."
         },
         {
           "id": 151,
           "paragraph_id": 124,
-          "text": "Maybe this darkness is also affecting Haruka-san slightly."
+          "text": "Her combat sense is incredibly high."
         },
         {
           "id": 152,
           "paragraph_id": 125,
-          "text": "Her combat sense is incredibly high."
+          "text": "If I had the same abilities and speed as her and we were to have a close combat battle, I would have been one-sidedly beaten up."
         },
         {
           "id": 153,
           "paragraph_id": 126,
-          "text": "If I had the same abilities and speed as her and we were to have a close combat battle, I would have been one-sidedly beaten up."
+          "text": "But maybe because I have recently fought against a knight that’s more frightening than her, I don’t feel much danger."
         },
         {
           "id": 154,
           "paragraph_id": 127,
-          "text": "But maybe because I have recently fought against a knight that’s more frightening than her, I don’t feel much danger."
+          "text": "I have gotten a sliver of courage from it."
         },
         {
           "id": 155,
           "paragraph_id": 128,
-          "text": "I have gotten a sliver of courage from it."
+          "text": "I think that, if it is now, a match with Hibiki-senpai won’t go the same way."
         },
         {
           "id": 156,
           "paragraph_id": 129,
-          "text": "I think that, if it is now, a match with Hibiki-senpai won’t go the same way."
+          "text": "“Did you absorb a bit of my magic power?” (Makoto)"
         },
         {
           "id": 157,
           "paragraph_id": 130,
-          "text": "“Did you absorb a bit of my magic power?” (Makoto)"
+          "text": "That’s how it felt."
         },
         {
           "id": 158,
           "paragraph_id": 131,
-          "text": "That’s how it felt."
+          "text": "The second attack didn’t injure me, but I could feel that a bit of my magic power was stolen."
         },
         {
           "id": 159,
           "paragraph_id": 132,
-          "text": "The second attack didn’t injure me, but I could feel that a bit of my magic power was stolen."
+          "text": "The two attacks were probably a team attack with the mamonos she had with her, but...I don’t think that kind of attack is that effective on me..."
         },
         {
           "id": 160,
           "paragraph_id": 133,
-          "text": "The two attacks were probably a team attack with the mamonos she had with her, but...I don’t think that kind of attack is that effective on me..."
+          "text": "The darkness steadily disperses."
         },
         {
           "id": 161,
           "paragraph_id": 134,
-          "text": "The darkness steadily disperses."
+          "text": "Now the only thing that remains is the team attack with the Fiery Chariot huh."
         },
         {
           "id": 162,
           "paragraph_id": 135,
-          "text": "Now the only thing that remains is the team attack with the Fiery Chariot huh."
+          "text": "“Oh?” (Mio)"
         },
         {
           "id": 163,
           "paragraph_id": 136,
-          "text": "“Oh?” (Mio)"
+          "text": "“Uooooo!!” (Tomoe)"
         },
         {
           "id": 164,
           "paragraph_id": 137,
-          "text": "“Uooooo!!” (Tomoe)"
+          "text": "I could hear Tomoe’s shout of high excitement from below."
         },
         {
           "id": 165,
           "paragraph_id": 138,
-          "text": "I could hear Tomoe’s shout of high excitement from below."
+          "text": "For some reason, Mio was overflowing with a displeased aura."
         },
         {
           "id": 166,
           "paragraph_id": 139,
-          "text": "For some reason, Mio was overflowing with a displeased aura."
+          "text": "This happened right before my body was caught by a white something."
         },
         {
           "id": 167,
           "paragraph_id": 140,
-          "text": "This happened right before my body was caught by a white something."
+          "text": "I was more interested in the identity of it than escaping from its grasp, so I didn’t try to get out."
         },
         {
           "id": 168,
           "paragraph_id": 141,
-          "text": "I was more interested in the identity of it than escaping from its grasp, so I didn’t try to get out."
+          "text": "“Come, Gashadokuro !"
         },
         {
           "id": 169,
-          "paragraph_id": 142,
-          "text": "“Come, Gashadokuro !"
+          "paragraph_id": 141,
+          "text": "Strike your enemy with those grudges of yours!!” (Haruka)"
         },
         {
           "id": 170,
           "paragraph_id": 142,
-          "text": "Strike your enemy with those grudges of yours!!” (Haruka)"
+          "text": "The upper body of a...giant skeleton huh."
         },
         {
           "id": 171,
           "paragraph_id": 143,
-          "text": "The upper body of a...giant skeleton huh."
+          "text": "I see."
         },
         {
           "id": 172,
-          "paragraph_id": 144,
-          "text": "I see."
+          "paragraph_id": 143,
+          "text": "I certainly have seen that kind of youkai a number of times."
         },
         {
           "id": 173,
           "paragraph_id": 144,
-          "text": "I certainly have seen that kind of youkai a number of times."
+          "text": "That Tomoe...she was happy that she was able to see a japanese youkai from up-close huh."
         },
         {
           "id": 174,
           "paragraph_id": 145,
-          "text": "That Tomoe...she was happy that she was able to see a japanese youkai from up-close huh."
+          "text": "It is true that the Hyakki Yakou is pretty renowned in my world."
         },
         {
           "id": 175,
           "paragraph_id": 146,
-          "text": "It is true that the Hyakki Yakou is pretty renowned in my world."
+          "text": "Hah..."
         },
         {
           "id": 176,
           "paragraph_id": 147,
-          "text": "Hah..."
+          "text": "A bit further away from me, three giant skeletons were floating at my surroundings, and one of them had restrained me with both hands."
         },
         {
           "id": 177,
           "paragraph_id": 148,
-          "text": "A bit further away from me, three giant skeletons were floating at my surroundings, and one of them had restrained me with both hands."
+          "text": "The other two were letting out a purple aura that didn’t look gentle at all and were punching me like crazy without caring about their comrade’s arms."
         },
         {
           "id": 178,
           "paragraph_id": 149,
-          "text": "The other two were letting out a purple aura that didn’t look gentle at all and were punching me like crazy without caring about their comrade’s arms."
+          "text": "Looks like they rank in the strong area within the youkais (or mamonos?) until now."
         },
         {
           "id": 179,
           "paragraph_id": 150,
-          "text": "Looks like they rank in the strong area within the youkais (or mamonos?) until now."
+          "text": "Is this not a simple summoning?"
         },
         {
           "id": 180,
           "paragraph_id": 151,
-          "text": "Is this not a simple summoning?"
+          "text": "Maybe this is the ability of the Fiery Chariot?"
         },
         {
           "id": 181,
           "paragraph_id": 152,
-          "text": "Maybe this is the ability of the Fiery Chariot?"
+          "text": "I don’t know at all."
         },
         {
           "id": 182,
           "paragraph_id": 153,
-          "text": "I don’t know at all."
+          "text": "I don’t understand why Mio is in a bad mood either."
         },
         {
           "id": 183,
           "paragraph_id": 154,
-          "text": "I don’t understand why Mio is in a bad mood either."
+          "text": "But...when I bring my gaze up while being punched, I could see that it was night and there’s a bright moon in the sky."
         },
         {
           "id": 184,
           "paragraph_id": 155,
-          "text": "But...when I bring my gaze up while being punched, I could see that it was night and there’s a bright moon in the sky."
+          "text": "A night view that was truly fitting for many youkais to run rampant with that light that shines in a somewhat mysterious manner."
         },
         {
           "id": 185,
           "paragraph_id": 156,
-          "text": "A night view that was truly fitting for many youkais to run rampant with that light that shines in a somewhat mysterious manner."
+          "text": "Ah, since I have the chance, how about I try it?"
         },
         {
           "id": 186,
           "paragraph_id": 157,
-          "text": "Ah, since I have the chance, how about I try it?"
+          "text": "It did succeed when I tested it in Asora."
         },
         {
           "id": 187,
           "paragraph_id": 158,
-          "text": "It did succeed when I tested it in Asora."
+          "text": "This technique that was born from my interests, and a slightly bit from my desire to get back at that Goddess."
         },
         {
           "id": 188,
           "paragraph_id": 159,
-          "text": "This technique that was born from my interests, and a slightly bit from my desire to get back at that Goddess."
+          "text": "Well, if it doesn’t work, I just have to properly train again at Asora."
         },
         {
           "id": 189,
-          "paragraph_id": 160,
-          "text": "Well, if it doesn’t work, I just have to properly train again at Asora."
+          "paragraph_id": 159,
+          "text": "There’s Tomoe here, so we can also have Shiki and Tamaki think about the reason why it failed if it actually does."
         },
         {
           "id": 190,
           "paragraph_id": 160,
-          "text": "There’s Tomoe here, so we can also have Shiki and Tamaki think about the reason why it failed if it actually does."
+          "text": "In a different manner than when I speak normally, visualizing as if I am having having a conversation with someone of another race, I speak while still looking up."
         },
         {
           "id": 191,
           "paragraph_id": 161,
-          "text": "In a different manner than when I speak normally, visualizing as if I am having having a conversation with someone of another race, I speak while still looking up."
+          "text": "“Moon.” (Makoto)"
         },
         {
           "id": 192,
           "paragraph_id": 162,
-          "text": "“Moon.” (Makoto)"
-        },
-        {
-          "id": 193,
-          "paragraph_id": 163,
           "text": "“Uh?!"
         },
         {
-          "id": 194,
-          "paragraph_id": 163,
+          "id": 193,
+          "paragraph_id": 162,
           "text": "This is...!"
         },
         {
-          "id": 195,
-          "paragraph_id": 163,
+          "id": 194,
+          "paragraph_id": 162,
           "text": "An aria?!"
+        },
+        {
+          "id": 195,
+          "paragraph_id": 162,
+          "text": "How discomforting it is...!” (Haruka)"
         },
         {
           "id": 196,
           "paragraph_id": 163,
-          "text": "How discomforting it is...!” (Haruka)"
+          "text": "If you are not used to hearing it, it would probably feel that way."
         },
         {
           "id": 197,
           "paragraph_id": 164,
-          "text": "If you are not used to hearing it, it would probably feel that way."
+          "text": "My followers had also frowned the first time they witnessed this."
         },
         {
           "id": 198,
           "paragraph_id": 165,
-          "text": "My followers had also frowned the first time they witnessed this."
+          "text": "This power of ‘comprehension’ that the Goddess pushed onto me in order to have me interact with other races at the time when I had just arrived in this world."
         },
         {
           "id": 199,
-          "paragraph_id": 166,
-          "text": "This power of ‘comprehension’ that the Goddess pushed onto me in order to have me interact with other races at the time when I had just arrived in this world."
+          "paragraph_id": 165,
+          "text": "Later, even though it was something I wished for, the Goddess gave me a life-risking update of the ‘comprehension’, and it apparently became a part of this thing called ‘wisdom’ that was inside of me."
         },
         {
           "id": 200,
           "paragraph_id": 166,
-          "text": "Later, even though it was something I wished for, the Goddess gave me a life-risking update of the ‘comprehension’, and it apparently became a part of this thing called ‘wisdom’ that was inside of me."
+          "text": "—This is something that I heard from the other Gods, but they are definitely more trustworthy than that Bug Goddess."
         },
         {
           "id": 201,
           "paragraph_id": 167,
-          "text": "—This is something that I heard from the other Gods, but they are definitely more trustworthy than that Bug Goddess."
+          "text": "“My enemy and the temporary lives that she has created...” (Makoto)"
         },
         {
           "id": 202,
           "paragraph_id": 168,
-          "text": "“My enemy and the temporary lives that she has created...” (Makoto)"
+          "text": "It is normally an ability that activates on its own and allows for conversation, but I can also activate it on my own will towards the targets I wish to communicate to."
         },
         {
           "id": 203,
           "paragraph_id": 169,
-          "text": "It is normally an ability that activates on its own and allows for conversation, but I can also activate it on my own will towards the targets I wish to communicate to."
+          "text": "Just by speaking, my surroundings apparently hear it as an incredibly complicated and unknown aria language."
         },
         {
           "id": 204,
           "paragraph_id": 170,
-          "text": "Just by speaking, my surroundings apparently hear it as an incredibly complicated and unknown aria language."
+          "text": "That’s right, this is a magic aria."
         },
         {
           "id": 205,
           "paragraph_id": 171,
-          "text": "That’s right, this is a magic aria."
+          "text": "It has the effect of buffing, debuffing, and destroying, but the point that should be payed attention the most is that it can be activated at a wide range and can choose the target."
         },
         {
           "id": 206,
           "paragraph_id": 172,
-          "text": "It has the effect of buffing, debuffing, and destroying, but the point that should be payed attention the most is that it can be activated at a wide range and can choose the target."
+          "text": "In other words, its affinity with Sakai is destructively good."
         },
         {
           "id": 207,
           "paragraph_id": 173,
-          "text": "In other words, its affinity with Sakai is destructively good."
+          "text": "That’s a matter of course."
         },
         {
           "id": 208,
           "paragraph_id": 174,
-          "text": "That’s a matter of course."
+          "text": "If I remember correctly, Shiki was so excited, saying he didn’t know about this and had never even heard about this before either."
         },
         {
           "id": 209,
           "paragraph_id": 175,
-          "text": "If I remember correctly, Shiki was so excited, saying he didn’t know about this and had never even heard about this before either."
+          "text": "I don’t really care much if this is the discovery of a new element."
         },
         {
           "id": 210,
           "paragraph_id": 176,
-          "text": "I don’t really care much if this is the discovery of a new element."
+          "text": "The element of the spell I will be using is just as I announced at first —Moon."
         },
         {
           "id": 211,
           "paragraph_id": 177,
-          "text": "The element of the spell I will be using is just as I announced at first —Moon."
+          "text": "“Shoot them down equally.” (Makoto)"
         },
         {
           "id": 212,
           "paragraph_id": 178,
-          "text": "“Shoot them down equally.” (Makoto)"
+          "text": "The end of my aria."
         },
         {
           "id": 213,
           "paragraph_id": 179,
-          "text": "The end of my aria."
+          "text": "I wonder if it will succeed."
         },
         {
           "id": 214,
           "paragraph_id": 180,
-          "text": "I wonder if it will succeed."
+          "text": "It succeeded with the moon of Asora."
         },
         {
           "id": 215,
           "paragraph_id": 181,
-          "text": "It succeeded with the moon of Asora."
+          "text": "‘You can even drop meteors in this world, so wouldn’t it be possible for the Moon element to exist?’, that’s the kind of thought process I had when I approached this."
         },
         {
           "id": 216,
           "paragraph_id": 182,
-          "text": "‘You can even drop meteors in this world, so wouldn’t it be possible for the Moon element to exist?’, that’s the kind of thought process I had when I approached this."
+          "text": "Then, the effect on the moon in the world of the Goddess is..."
         },
         {
           "id": 217,
           "paragraph_id": 183,
-          "text": "Then, the effect on the moon in the world of the Goddess is..."
+          "text": "“So you answered me huh."
         },
         {
           "id": 218,
-          "paragraph_id": 184,
-          "text": "“So you answered me huh."
+          "paragraph_id": 183,
+          "text": "This is interesting.” (Makoto)"
         },
         {
           "id": 219,
           "paragraph_id": 184,
-          "text": "This is interesting.” (Makoto)"
+          "text": "A red moon suspended high up —at its surroundings, light rings of the same color were made; they slowly widen, and create a marvellous view."
         },
         {
           "id": 220,
           "paragraph_id": 185,
-          "text": "A red moon suspended high up —at its surroundings, light rings of the same color were made; they slowly widen, and create a marvellous view."
+          "text": "They target the Gashadokuros first, and then, Haruka-san and the other ones created by Hyakki Yakou as well."
         },
         {
           "id": 221,
           "paragraph_id": 186,
-          "text": "They target the Gashadokuros first, and then, Haruka-san and the other ones created by Hyakki Yakou as well."
+          "text": "“...[Lunar Halo]” (Makoto)"
         },
         {
           "id": 222,
           "paragraph_id": 187,
-          "text": "“...[Lunar Halo]” (Makoto)"
+          "text": "I mutter shortly the name of the spell."
         },
         {
           "id": 223,
           "paragraph_id": 188,
-          "text": "I mutter shortly the name of the spell."
+          "text": "As if they had been waiting for that signal, the red rings that were shining with a somewhat rainbow tint...burst."
         },
         {
           "id": 224,
           "paragraph_id": 189,
-          "text": "As if they had been waiting for that signal, the red rings that were shining with a somewhat rainbow tint...burst."
+          "text": "They rain down incessantly."
         },
         {
           "id": 225,
           "paragraph_id": 190,
-          "text": "They rain down incessantly."
+          "text": "Rain down."
         },
         {
           "id": 226,
@@ -74598,235 +74591,230 @@
         {
           "id": 229,
           "paragraph_id": 194,
-          "text": "Rain down."
+          "text": "Just like an object dropping from space, they dropped at an unimaginable speed, but their light didn’t burn out in the middle of their drop."
         },
         {
           "id": 230,
           "paragraph_id": 195,
-          "text": "Just like an object dropping from space, they dropped at an unimaginable speed, but their light didn’t burn out in the middle of their drop."
+          "text": "A fragment of moonlight had hit Haruka-san, and the remaining ones pierce the Hyakki Yakou one after the other."
         },
         {
           "id": 231,
           "paragraph_id": 196,
-          "text": "A fragment of moonlight had hit Haruka-san, and the remaining ones pierce the Hyakki Yakou one after the other."
+          "text": "And yet, that light didn’t hit Tomoe, Mio, Jin’s group, and not even the rubble was being destroyed."
         },
         {
           "id": 232,
           "paragraph_id": 197,
-          "text": "And yet, that light didn’t hit Tomoe, Mio, Jin’s group, and not even the rubble was being destroyed."
+          "text": "It was truly accommodating."
         },
         {
           "id": 233,
           "paragraph_id": 198,
-          "text": "It was truly accommodating."
+          "text": "And most importantly, it was a big harvest that I was able to confirm that I can use the Moon element (not yet decided if it should be called that way) in this world."
         },
         {
           "id": 234,
           "paragraph_id": 199,
-          "text": "And most importantly, it was a big harvest that I was able to confirm that I can use the Moon element (not yet decided if it should be called that way) in this world."
+          "text": "The sounds of the surroundings stopped."
         },
         {
           "id": 235,
           "paragraph_id": 200,
-          "text": "The sounds of the surroundings stopped."
+          "text": "Witnessing a phenomenon of that level, they can’t resume battle immediately huh."
         },
         {
           "id": 236,
           "paragraph_id": 201,
-          "text": "Witnessing a phenomenon of that level, they can’t resume battle immediately huh."
+          "text": "It has been a while since I have been able to enjoy the silence of the night."
         },
         {
           "id": 237,
           "paragraph_id": 202,
-          "text": "It has been a while since I have been able to enjoy the silence of the night."
+          "text": "“I see, so this is the completed version huh.”"
         },
         {
           "id": 238,
           "paragraph_id": 203,
-          "text": "“I see, so this is the completed version huh.”"
+          "text": "“...”"
         },
         {
           "id": 239,
           "paragraph_id": 204,
-          "text": "“...”"
+          "text": "Haruka-san looks straight at me in the sky."
         },
         {
           "id": 240,
           "paragraph_id": 205,
-          "text": "Haruka-san looks straight at me in the sky."
+          "text": "All mamonos have already been eliminated."
         },
         {
           "id": 241,
           "paragraph_id": 206,
-          "text": "All mamonos have already been eliminated."
+          "text": "Those eyes of hers shone a golden light, but there was no magic power or fighting spirit from her body, yet, that abnormal golden light was rising up."
         },
         {
           "id": 242,
           "paragraph_id": 207,
-          "text": "Those eyes of hers shone a golden light, but there was no magic power or fighting spirit from her body, yet, that abnormal golden light was rising up."
+          "text": "The Wings of the Saint lets out the same color as Root huh."
         },
         {
           "id": 243,
           "paragraph_id": 208,
-          "text": "The Wings of the Saint lets out the same color as Root huh."
+          "text": "“What an almighty feeling."
         },
         {
           "id": 244,
-          "paragraph_id": 209,
-          "text": "“What an almighty feeling."
+          "paragraph_id": 208,
+          "text": "To think there would be such a level of power in this world.” (Haruka)"
         },
         {
           "id": 245,
           "paragraph_id": 209,
-          "text": "To think there would be such a level of power in this world.” (Haruka)"
+          "text": "This is the last strengthening she is receiving after being hit by the lunar halo."
         },
         {
           "id": 246,
           "paragraph_id": 210,
-          "text": "This is the last strengthening she is receiving after being hit by the lunar halo."
+          "text": "If Haruka-san is bringing out the last of her strength, that would be the best scenario, but...no, there’s something strange."
         },
         {
           "id": 247,
           "paragraph_id": 211,
-          "text": "If Haruka-san is bringing out the last of her strength, that would be the best scenario, but...no, there’s something strange."
+          "text": "That’s not all there is to it."
         },
         {
           "id": 248,
           "paragraph_id": 212,
-          "text": "That’s not all there is to it."
+          "text": "I feel a different being in her."
         },
         {
           "id": 249,
           "paragraph_id": 213,
-          "text": "I feel a different being in her."
+          "text": "Suddenly...my spine shivers."
         },
         {
           "id": 250,
           "paragraph_id": 214,
-          "text": "Suddenly...my spine shivers."
+          "text": "Some sort of power was given to Haruka-san right in the last moments of Wings of the Saint?"
         },
         {
           "id": 251,
           "paragraph_id": 215,
-          "text": "Some sort of power was given to Haruka-san right in the last moments of Wings of the Saint?"
+          "text": "In other words, someone who is good at peeking and has been watching the battle?"
         },
         {
           "id": 252,
           "paragraph_id": 216,
-          "text": "In other words, someone who is good at peeking and has been watching the battle?"
+          "text": "...I see."
         },
         {
           "id": 253,
-          "paragraph_id": 217,
-          "text": "...I see."
+          "paragraph_id": 216,
+          "text": "So they finally couldn’t endure it any longer huh."
         },
         {
           "id": 254,
           "paragraph_id": 217,
-          "text": "So they finally couldn’t endure it any longer huh."
+          "text": "I think of a certain possibility."
         },
         {
           "id": 255,
           "paragraph_id": 218,
-          "text": "I think of a certain possibility."
+          "text": "A pressure as if I were confronting a Tomoe or Mio that has taken off their limiter and is going berserk —or maybe, even more than that?"
         },
         {
           "id": 256,
           "paragraph_id": 219,
-          "text": "A pressure as if I were confronting a Tomoe or Mio that has taken off their limiter and is going berserk —or maybe, even more than that?"
+          "text": "Someone that can provide this much power to a hyuman."
         },
         {
           "id": 257,
-          "paragraph_id": 220,
-          "text": "Someone that can provide this much power to a hyuman."
+          "paragraph_id": 219,
+          "text": "I can assert to it."
         },
         {
           "id": 258,
           "paragraph_id": 220,
-          "text": "I can assert to it."
+          "text": "There’s by no means many who would be able to do that."
         },
         {
           "id": 259,
           "paragraph_id": 221,
-          "text": "There’s by no means many who would be able to do that."
+          "text": "“Raidou, I have surpassed your calculations.” (Haruka)"
         },
         {
           "id": 260,
           "paragraph_id": 222,
-          "text": "“Raidou, I have surpassed your calculations.” (Haruka)"
+          "text": "“...With the assistance of someone?” (Makoto)"
         },
         {
           "id": 261,
           "paragraph_id": 223,
-          "text": "“...With the assistance of someone?” (Makoto)"
+          "text": "“Who knows."
         },
         {
           "id": 262,
-          "paragraph_id": 224,
-          "text": "“Who knows."
+          "paragraph_id": 223,
+          "text": "But with this, I will surely be able to teach you about this thing called battle.” (Haruka)"
         },
         {
           "id": 263,
           "paragraph_id": 224,
-          "text": "But with this, I will surely be able to teach you about this thing called battle.” (Haruka)"
+          "text": "“Too bad."
         },
         {
           "id": 264,
-          "paragraph_id": 225,
-          "text": "“Too bad."
+          "paragraph_id": 224,
+          "text": "I would prefer an answer to my question rather than battling though.” (Makoto)"
         },
         {
           "id": 265,
           "paragraph_id": 225,
-          "text": "I would prefer an answer to my question rather than battling though.” (Makoto)"
+          "text": "“In that case, seek it."
         },
         {
           "id": 266,
-          "paragraph_id": 226,
-          "text": "“In that case, seek it."
+          "paragraph_id": 225,
+          "text": "But...” (Haruka)"
         },
         {
           "id": 267,
           "paragraph_id": 226,
-          "text": "But...” (Haruka)"
+          "text": "“...”"
         },
         {
           "id": 268,
           "paragraph_id": 227,
-          "text": "“...”"
+          "text": "“With your life at stake!” (Haruka)"
         },
         {
           "id": 269,
           "paragraph_id": 228,
-          "text": "“With your life at stake!” (Haruka)"
+          "text": "Life?"
         },
         {
           "id": 270,
           "paragraph_id": 229,
-          "text": "Life?"
+          "text": "Sorry, but I can’t give you that."
         },
         {
           "id": 271,
           "paragraph_id": 230,
-          "text": "Sorry, but I can’t give you that."
+          "text": "It might be a bit of a pain, but...let’s do it."
         },
         {
           "id": 272,
           "paragraph_id": 231,
-          "text": "It might be a bit of a pain, but...let’s do it."
+          "text": "I will reach an answer with my own hands."
         },
         {
           "id": 273,
           "paragraph_id": 232,
-          "text": "I will reach an answer with my own hands."
-        },
-        {
-          "id": 274,
-          "paragraph_id": 233,
           "text": "And then, if her change was something brought by the Goddess...I will be having a preliminary match here."
         }
       ],
-      "word_count": 3337
+      "word_count": 3336
     },
     {
       "chapter_index": 297,
@@ -74868,7 +74856,7 @@
         "“I simply pulled back temporarily because I had judged that, no matter how we dealt with it, it would affect this country and would be impossible to keep it undercover. That’s how deep and old the relationship Lorel Union and the Water High Spirit is.” (Tomoe)",
         "“Those Spirits are servants of the Goddess after all. They are different from Superior Dragons in that they increase their strength with worship.” (Mio)",
         "“Seriously. From the perspective of a Superior Dragon, they are basically problematic parasitic existences that do whatever they want with a proud face. Well, that’s solely how a Superior Dragon would think of it-ja ga.” (Tomoe)",
-        "“......From the perspective of a Superior Dragon huh. Yeah yeah.” (Mio)",
+        "“...From the perspective of a Superior Dragon huh. Yeah yeah.” (Mio)",
         "Haruka clad with a golden and soft clear blue light is fighting with Makoto.",
         "This was occurring in the sky, and at times, lights of destruction would rain in the city as it continued even now.",
         "Makoto had an indigo blue aura around his body and clashed with Haruka while leaving trails of light behind, and sometimes, they would exchange blows at close range.",
@@ -74983,10 +74971,10 @@
         "Daena mutters lowly.",
         "Those short words of his gather the gazes of the students.",
         "“That woman called Haruka was crazy strong. Even when she was not being serious, she was on a whole different level.” (Daena)",
-        "“......”",
+        "“...”",
         "“And yet, even against an opponent like that, Sensei is able to fight her back. Corner her, make her pull out her cards, and make her bring out her all. And even with that, not only is he not pulling back a single bit...he is pushing her. Is the world such a vast place? Is it such...a limitless place?” (Daena)",
-        "“......”",
-        "“Adventurers, knights, or mages; native-borns, the Academy, graduation..... They are all conflicts on a truly pitiful level. The outside world is like this. Even if we were to look like absolute existences, there’s an absolute out there that can crush us. There’s no end......” (Daena)",
+        "“...”",
+        "“Adventurers, knights, or mages; native-borns, the Academy, graduation... They are all conflicts on a truly pitiful level. The outside world is like this. Even if we were to look like absolute existences, there’s an absolute out there that can crush us. There’s no end...” (Daena)",
         "There were no words in return.",
         "Because the fight happening high up was truly on a whole different level.",
         "Even if they can use it to better themselves, if they were asked if in the future they can participate in such a place, the answer would be no.",
@@ -75010,7 +74998,7 @@
         "“It is true that you people are the result of Waka and Shiki’s teachings and inquisitiveness. After obtaining strength unfitting to that of a student, you guys must be dreaming about the possibilities you have. Run to your heart’s content. But, don’t get ahead of yourself.” (Tomoe)",
         "“It wasn’t my intention to get ahead of myself though.” (Daena)",
         "“Listen here. Since Waka is not here, I can tell you guys in an easy to understand way without the need to be picky about the words. The ones that are currently fighting there are...” (Tomoe)",
-        "“......”",
+        "“...”",
         "“One is a prodigy-ja. And, from what I see, only has one weakness. The very definition of a brave class that appears in fairy tales. The height of natural talent.” (Tomoe)",
         "“...Then, the other one?” (Daena)",
         "“A Great Demon Lord that not even that Brave would be able to do anything about —a monster-ja yo. There’s no way you guys who are currently ordinary people can even challenge one step into it, right? Even I would be wounded if I were to jump into that.” (Tomoe)",
@@ -75027,7 +75015,7 @@
         "Must be because he felt something strange in Tomoe describing it as a battle between a brave and a monster.",
         "Being asked this, Tomoe chided him as an idiot, and then, pointed at the state of the battle.",
         "“A body that has been trained to the limits, and the technique, on top of that, the many healing spells that she has free use of thanks to the power of the Water Spirit. If this is not a prodigy, what would you call it?” (Tomoe)",
-        "“......”",
+        "“...”",
         "A rapid-fire of sure-killing techniques thrown by Haruka.",
         "Offensive, defensive, and evasion that utilizes the full of her power, technique, and experience.",
         "Even when they are in a special terrain that is the sky, she was moving as if she were running through the ground, to the point that would make one think that she was a resident of the sky since the time she was born.",
@@ -75112,7 +75100,7 @@
         "And yet, she confronted me with her power and the power of the Spirit.",
         "Was it her being conceited about being almighty? Or was it the influence of the Spirit that wanted to deal with me?",
         "Those factors might have played a role as well.",
-        "“.....You were planning on dying, right?” (Makoto)",
+        "“...You were planning on dying, right?” (Makoto)",
         "While fighting against her fear.",
         "While devoting her all to her desire of not wanting to die.",
         "This woman...was trying to die here.",
@@ -75120,7 +75108,7 @@
         "“It is not as if I read it. It is just that you continued attacking me while shouting that in your heart. Even if I didn’t want to, it would transmit.” (Makoto)",
         "“I...” (Haruka)",
         "“The best end would have been for me to kill you, or die together with me. You were wishing for that kind of end.” (Makoto)",
-        "“.....”",
+        "“...”",
         "“Even if the charm has been undone, the past won’t change. The lives that you robbed away from others under your love for Tomoki; the inhyuman actions and attitude you continued taking towards the people that you should have truly treasured; those kind of things cannot be taken back. You simply regained sanity while maintaining those memories.” (Makoto)",
         "It is way too cruel.",
         "In the time that one is under the effects of the charm, the things that one does vary from person to person, but they are all to the point that would make one fall into despair and want to kill themselves.",
@@ -75169,7 +75157,7 @@
         "It broke and turned into sparkles.",
         "...Tch.",
         "“Kgh.”",
-        "“......”",
+        "“...”",
         "I am up and Haruka-san is down.",
         "If I were to attack in this positioning and the attacks are deviated, it might create damage to the city.",
         "But ending it with other methods...would not be amusing.",
@@ -75229,7 +75217,7 @@
         "Too bad.",
         "I still have teleportation magic.",
         "With the spell that I am familiar with as much as bridd, I set the coordinates to the back of Haruka-san, and activate teleportation.",
-        "“.....Oi oi.” (Makoto)",
+        "“...Oi oi.” (Makoto)",
         "But my familiar spell didn’t activate.",
         "“If it is teleportation magic, the Water Spirit-sama was looking out for the spell formation, and has completely sealed it. It is pointless.” (Haruka)",
         "Since when...",
@@ -75241,7 +75229,7 @@
         "They did read a part of my cards, but my sigh actually meant that it was great that this was all they have done.",
         "In other words, they haven’t taken into account what comes further beyond.",
         "That maybe there’s more left.",
-        "“......Eh?”",
+        "“...Eh?”",
         "I look at Haruka-san and the six open coffins.",
         "In my hand, there’s...Azusa.",
         "Because I understood that the strength of my magic was lacking to destroy those coffins.",
@@ -75563,7 +75551,7 @@
         {
           "id": 51,
           "paragraph_id": 35,
-          "text": "“......From the perspective of a Superior Dragon huh."
+          "text": "“...From the perspective of a Superior Dragon huh."
         },
         {
           "id": 52,
@@ -76368,7 +76356,7 @@
         {
           "id": 212,
           "paragraph_id": 150,
-          "text": "“......”"
+          "text": "“...”"
         },
         {
           "id": 213,
@@ -76398,12 +76386,12 @@
         {
           "id": 218,
           "paragraph_id": 152,
-          "text": "“......”"
+          "text": "“...”"
         },
         {
           "id": 219,
           "paragraph_id": 153,
-          "text": "“Adventurers, knights, or mages; native-borns, the Academy, graduation....."
+          "text": "“Adventurers, knights, or mages; native-borns, the Academy, graduation..."
         },
         {
           "id": 220,
@@ -76423,7 +76411,7 @@
         {
           "id": 223,
           "paragraph_id": 153,
-          "text": "There’s no end......” (Daena)"
+          "text": "There’s no end...” (Daena)"
         },
         {
           "id": 224,
@@ -76583,7 +76571,7 @@
         {
           "id": 255,
           "paragraph_id": 177,
-          "text": "“......”"
+          "text": "“...”"
         },
         {
           "id": 256,
@@ -76773,7 +76761,7 @@
         {
           "id": 293,
           "paragraph_id": 194,
-          "text": "“......”"
+          "text": "“...”"
         },
         {
           "id": 294,
@@ -77373,7 +77361,7 @@
         {
           "id": 413,
           "paragraph_id": 279,
-          "text": "“.....You were planning on dying, right?” (Makoto)"
+          "text": "“...You were planning on dying, right?” (Makoto)"
         },
         {
           "id": 414,
@@ -77428,7 +77416,7 @@
         {
           "id": 424,
           "paragraph_id": 287,
-          "text": "“.....”"
+          "text": "“...”"
         },
         {
           "id": 425,
@@ -77708,7 +77696,7 @@
         {
           "id": 480,
           "paragraph_id": 336,
-          "text": "“......”"
+          "text": "“...”"
         },
         {
           "id": 481,
@@ -78053,7 +78041,7 @@
         {
           "id": 549,
           "paragraph_id": 396,
-          "text": "“.....Oi oi.” (Makoto)"
+          "text": "“...Oi oi.” (Makoto)"
         },
         {
           "id": 550,
@@ -78118,7 +78106,7 @@
         {
           "id": 562,
           "paragraph_id": 408,
-          "text": "“......Eh?”"
+          "text": "“...Eh?”"
         },
         {
           "id": 563,
@@ -80809,7 +80797,6 @@
         "“What?! So this is not a costume for bathing purposes?! Muuh, Haku, are there no costumes made for bathing within the ones that arrived? Our Waka is a late bloomer, you see. It would be great if it is something that hides skin somewhat...” (Tomoe)",
         "I feel like you are trying to make this a settled matter already, but it is not like I bathe with you guys on the daily, you know?!",
         "“Of course, we can choose some, Tomoe-chi! No need to worry either, Mio who is looking over here as if pleading! There were a number of varied swimsuits there! Let’s see...” (Haku)",
-        "......",
         "I have to stay firm.",
         "It seems like being weak doesn’t bring anything good after all.",
         "I thought this while I was watching with blank eyes this situation where a good amount of costumes were flying in the air.",
@@ -81472,385 +81459,380 @@
         {
           "id": 122,
           "paragraph_id": 95,
-          "text": "......"
+          "text": "I have to stay firm."
         },
         {
           "id": 123,
           "paragraph_id": 96,
-          "text": "I have to stay firm."
+          "text": "It seems like being weak doesn’t bring anything good after all."
         },
         {
           "id": 124,
           "paragraph_id": 97,
-          "text": "It seems like being weak doesn’t bring anything good after all."
+          "text": "I thought this while I was watching with blank eyes this situation where a good amount of costumes were flying in the air."
         },
         {
           "id": 125,
           "paragraph_id": 98,
-          "text": "I thought this while I was watching with blank eyes this situation where a good amount of costumes were flying in the air."
+          "text": "And then, I noticed."
         },
         {
           "id": 126,
           "paragraph_id": 99,
-          "text": "And then, I noticed."
+          "text": "The fact that Lime, Beren, and Hokuto were at a corner of the room."
         },
         {
           "id": 127,
           "paragraph_id": 100,
-          "text": "The fact that Lime, Beren, and Hokuto were at a corner of the room."
+          "text": "It looks to me like they erased their presence and were trying to make it so the girls didn’t surround and drag them into it."
         },
         {
           "id": 128,
           "paragraph_id": 101,
-          "text": "It looks to me like they erased their presence and were trying to make it so the girls didn’t surround and drag them into it."
+          "text": "...Aah, I understand that feeling really well."
         },
         {
           "id": 129,
           "paragraph_id": 102,
-          "text": "...Aah, I understand that feeling really well."
-        },
-        {
-          "id": 130,
-          "paragraph_id": 103,
           "text": "“Ah, there it is!"
         },
         {
-          "id": 131,
-          "paragraph_id": 103,
+          "id": 130,
+          "paragraph_id": 102,
           "text": "Bikini!"
         },
         {
-          "id": 132,
-          "paragraph_id": 103,
+          "id": 131,
+          "paragraph_id": 102,
           "text": "One piece!"
         },
         {
-          "id": 133,
-          "paragraph_id": 103,
+          "id": 132,
+          "paragraph_id": 102,
           "text": "Pareo!"
         },
         {
-          "id": 134,
-          "paragraph_id": 103,
+          "id": 133,
+          "paragraph_id": 102,
           "text": "But this one is a bit old, don’t you think, Bia?!"
+        },
+        {
+          "id": 134,
+          "paragraph_id": 102,
+          "text": "Isn’t a neck holder with a pareo stylish?!” (Haku)"
         },
         {
           "id": 135,
           "paragraph_id": 103,
-          "text": "Isn’t a neck holder with a pareo stylish?!” (Haku)"
+          "text": "They apparently came to this world before we did."
         },
         {
           "id": 136,
           "paragraph_id": 104,
-          "text": "They apparently came to this world before we did."
+          "text": "But I wonder in what fashion trend were they from?"
         },
         {
           "id": 137,
           "paragraph_id": 105,
-          "text": "But I wonder in what fashion trend were they from?"
+          "text": "I myself prefer things like long pareos and ones that have a lot of cloth though."
         },
         {
           "id": 138,
           "paragraph_id": 106,
-          "text": "I myself prefer things like long pareos and ones that have a lot of cloth though."
-        },
-        {
-          "id": 139,
-          "paragraph_id": 107,
           "text": "“Don’t talk with the assumption that we will be wearing it!"
         },
         {
-          "id": 140,
-          "paragraph_id": 107,
+          "id": 139,
+          "paragraph_id": 106,
           "text": "Also, Tomoe-san and Mio-san have great body proportions, so there’s no need to go for the in-season fashion."
         },
         {
-          "id": 141,
-          "paragraph_id": 107,
+          "id": 140,
+          "paragraph_id": 106,
           "text": "They can just rock a bikini without worries."
+        },
+        {
+          "id": 141,
+          "paragraph_id": 106,
+          "text": "Especially towards a man!!” (Ginebia)"
         },
         {
           "id": 142,
           "paragraph_id": 107,
-          "text": "Especially towards a man!!” (Ginebia)"
+          "text": "L-Long pareo..."
         },
         {
           "id": 143,
           "paragraph_id": 108,
-          "text": "L-Long pareo..."
+          "text": "Ginebia-san seems to be incredibly manly."
         },
         {
           "id": 144,
           "paragraph_id": 109,
-          "text": "Ginebia-san seems to be incredibly manly."
+          "text": "I should go to a corner too."
         },
         {
           "id": 145,
           "paragraph_id": 110,
-          "text": "I should go to a corner too."
+          "text": "We will all sit on our knees and wait for the storm to pass."
         },
         {
           "id": 146,
           "paragraph_id": 111,
-          "text": "We will all sit on our knees and wait for the storm to pass."
+          "text": "“Then what should we do about the color?"
         },
         {
           "id": 147,
-          "paragraph_id": 112,
-          "text": "“Then what should we do about the color?"
+          "paragraph_id": 111,
+          "text": "Pink is a must have though.” (Haku)"
         },
         {
           "id": 148,
           "paragraph_id": 112,
-          "text": "Pink is a must have though.” (Haku)"
+          "text": "“For colors, just go with black, white, red, and the occasional purple."
         },
         {
           "id": 149,
-          "paragraph_id": 113,
-          "text": "“For colors, just go with black, white, red, and the occasional purple."
+          "paragraph_id": 112,
+          "text": "There’s no popular fashion in terms of male tas—hey, Raidou-kun.” (Ginebia)"
         },
         {
           "id": 150,
           "paragraph_id": 113,
-          "text": "There’s no popular fashion in terms of male tas—hey, Raidou-kun.” (Ginebia)"
+          "text": "*Grab*"
         },
         {
           "id": 151,
           "paragraph_id": 114,
-          "text": "*Grab*"
+          "text": "She grabbed the collar of my neck real hard."
         },
         {
           "id": 152,
           "paragraph_id": 115,
-          "text": "She grabbed the collar of my neck real hard."
+          "text": "Directly."
         },
         {
           "id": 153,
           "paragraph_id": 116,
-          "text": "Directly."
+          "text": "Strong, seriously strong."
         },
         {
           "id": 154,
           "paragraph_id": 117,
-          "text": "Strong, seriously strong."
+          "text": "“Ah, I won’t get in your way.” (Makoto)"
         },
         {
           "id": 155,
           "paragraph_id": 118,
-          "text": "“Ah, I won’t get in your way.” (Makoto)"
+          "text": "“Do you think the only judge can leave before things are over?"
         },
         {
           "id": 156,
-          "paragraph_id": 119,
-          "text": "“Do you think the only judge can leave before things are over?"
+          "paragraph_id": 118,
+          "text": "Just give it up.” (Ginebia)"
         },
         {
           "id": 157,
           "paragraph_id": 119,
-          "text": "Just give it up.” (Ginebia)"
+          "text": "She smiles."
         },
         {
           "id": 158,
           "paragraph_id": 120,
-          "text": "She smiles."
+          "text": "Oi, did you know?"
         },
         {
           "id": 159,
-          "paragraph_id": 121,
-          "text": "Oi, did you know?"
+          "paragraph_id": 120,
+          "text": "At times, smiles can have Futsu dwell in them, you know?"
         },
         {
           "id": 160,
           "paragraph_id": 121,
-          "text": "At times, smiles can have Futsu dwell in them, you know?"
+          "text": "I feel like I could see an Ogre looming from her shoulder."
         },
         {
           "id": 161,
           "paragraph_id": 122,
-          "text": "I feel like I could see an Ogre looming from her shoulder."
-        },
-        {
-          "id": 162,
-          "paragraph_id": 123,
           "text": "“Leaving before it is over?"
         },
         {
-          "id": 163,
-          "paragraph_id": 123,
+          "id": 162,
+          "paragraph_id": 122,
           "text": "No way."
         },
         {
-          "id": 164,
-          "paragraph_id": 123,
+          "id": 163,
+          "paragraph_id": 122,
           "text": "I was just thinking that there was the scent of soy sauce and miso from over there you see...Oi!"
+        },
+        {
+          "id": 164,
+          "paragraph_id": 122,
+          "text": "At least change in a different room, Haku-san!” (Makoto)"
         },
         {
           "id": 165,
           "paragraph_id": 123,
-          "text": "At least change in a different room, Haku-san!” (Makoto)"
+          "text": "You definitely must not!"
         },
         {
           "id": 166,
           "paragraph_id": 124,
-          "text": "You definitely must not!"
-        },
-        {
-          "id": 167,
-          "paragraph_id": 125,
           "text": "“Haku!"
         },
         {
-          "id": 168,
-          "paragraph_id": 125,
+          "id": 167,
+          "paragraph_id": 124,
           "text": "At least maintain the bare minimum decency!"
         },
         {
-          "id": 169,
-          "paragraph_id": 125,
+          "id": 168,
+          "paragraph_id": 124,
           "text": "Hey, why is Iroha-chan the first one you are instantly hiding?!"
         },
         {
-          "id": 170,
-          "paragraph_id": 125,
+          "id": 169,
+          "paragraph_id": 124,
           "text": "Tomoe-san and Mio-san, you go there."
+        },
+        {
+          "id": 170,
+          "paragraph_id": 124,
+          "text": "Oi, Haku!” (Ginebia)"
         },
         {
           "id": 171,
           "paragraph_id": 125,
-          "text": "Oi, Haku!” (Ginebia)"
+          "text": "“Hyaha, so fun~!!"
         },
         {
           "id": 172,
-          "paragraph_id": 126,
-          "text": "“Hyaha, so fun~!!"
+          "paragraph_id": 125,
+          "text": "How long has it been since I have been surrounded by so much clothes!” (Haku)"
         },
         {
           "id": 173,
           "paragraph_id": 126,
-          "text": "How long has it been since I have been surrounded by so much clothes!” (Haku)"
+          "text": "How do they think I see Iroha-chan?"
         },
         {
           "id": 174,
-          "paragraph_id": 127,
-          "text": "How do they think I see Iroha-chan?"
+          "paragraph_id": 126,
+          "text": "Huh?"
         },
         {
           "id": 175,
           "paragraph_id": 127,
-          "text": "Huh?"
+          "text": "That dancer-san, what kind of fetish does she think I have?!"
         },
         {
           "id": 176,
           "paragraph_id": 128,
-          "text": "That dancer-san, what kind of fetish does she think I have?!"
+          "text": "I am normal, you know!"
         },
         {
           "id": 177,
-          "paragraph_id": 129,
-          "text": "I am normal, you know!"
+          "paragraph_id": 128,
+          "text": "Probably."
         },
         {
           "id": 178,
           "paragraph_id": 129,
-          "text": "Probably."
-        },
-        {
-          "id": 179,
-          "paragraph_id": 130,
           "text": "“It was only for a bit."
         },
         {
-          "id": 180,
-          "paragraph_id": 130,
+          "id": 179,
+          "paragraph_id": 129,
           "text": "I admit that I was feeling down only for a bit."
         },
         {
-          "id": 181,
-          "paragraph_id": 130,
+          "id": 180,
+          "paragraph_id": 129,
           "text": "But to think that it would summon this kind of chaos..."
+        },
+        {
+          "id": 181,
+          "paragraph_id": 129,
+          "text": "How did it turn out this way?!” (Makoto)"
         },
         {
           "id": 182,
           "paragraph_id": 130,
-          "text": "How did it turn out this way?!” (Makoto)"
-        },
-        {
-          "id": 183,
-          "paragraph_id": 131,
           "text": "“Ooh, Mio, since we have the chance!"
         },
         {
-          "id": 184,
-          "paragraph_id": 131,
+          "id": 183,
+          "paragraph_id": 130,
           "text": "Your Arke..."
         },
         {
-          "id": 185,
-          "paragraph_id": 131,
+          "id": 184,
+          "paragraph_id": 130,
           "text": "Hey, Minato!"
+        },
+        {
+          "id": 185,
+          "paragraph_id": 130,
+          "text": "Let’s bring that and have some photos taken!” (Tomoe)"
         },
         {
           "id": 186,
           "paragraph_id": 131,
-          "text": "Let’s bring that and have some photos taken!” (Tomoe)"
+          "text": "“...That’s a good idea.” (Mio)"
         },
         {
           "id": 187,
           "paragraph_id": 132,
-          "text": "“...That’s a good idea.” (Mio)"
+          "text": "Mio seems to be in too."
         },
         {
           "id": 188,
           "paragraph_id": 133,
-          "text": "Mio seems to be in too."
+          "text": "In the end, this surprise show continued till evening."
         },
         {
           "id": 189,
           "paragraph_id": 134,
-          "text": "In the end, this surprise show continued till evening."
+          "text": "Bunny dealer, nurse outfit, maid, swimsuit, yukata, secretary, policewoman, race queen, high schooler; they found a whole lot."
         },
         {
           "id": 190,
           "paragraph_id": 135,
-          "text": "Bunny dealer, nurse outfit, maid, swimsuit, yukata, secretary, policewoman, race queen, high schooler; they found a whole lot."
+          "text": "Minato was called and served as the cameraman with a reflex camera prototype, and Hokuto served as the assistant."
         },
         {
           "id": 191,
           "paragraph_id": 136,
-          "text": "Minato was called and served as the cameraman with a reflex camera prototype, and Hokuto served as the assistant."
+          "text": "Right, the photo-like stuff that Minato managed to recreate are pretty popular in Asora especially within the female side."
         },
         {
           "id": 192,
           "paragraph_id": 137,
-          "text": "Right, the photo-like stuff that Minato managed to recreate are pretty popular in Asora especially within the female side."
+          "text": "Leaving aside Tomoe who gets interested in almost everything; people like Mio and Ema were also pretty interested as well."
         },
         {
           "id": 193,
           "paragraph_id": 138,
-          "text": "Leaving aside Tomoe who gets interested in almost everything; people like Mio and Ema were also pretty interested as well."
+          "text": "Tomoe went ‘Don’t look at me with those eyes-ja, you idiot’ and slapped Lime away, but she seemed to be having fun."
         },
         {
           "id": 194,
           "paragraph_id": 139,
-          "text": "Tomoe went ‘Don’t look at me with those eyes-ja, you idiot’ and slapped Lime away, but she seemed to be having fun."
+          "text": "Beren seemed to be more interested in the clothes rather than the people wearing it, and so he was concentrated in the clothes together with the Gorgon."
         },
         {
           "id": 195,
           "paragraph_id": 140,
-          "text": "Beren seemed to be more interested in the clothes rather than the people wearing it, and so he was concentrated in the clothes together with the Gorgon."
+          "text": "And so, this chaotic event propagated to everyone around."
         },
         {
           "id": 196,
           "paragraph_id": 141,
-          "text": "And so, this chaotic event propagated to everyone around."
-        },
-        {
-          "id": 197,
-          "paragraph_id": 142,
           "text": "I put my hands together in prayer."
         }
       ],
-      "word_count": 1765
+      "word_count": 1764
     },
     {
       "chapter_index": 300,

@@ -2875,7 +2875,7 @@
         "It was just a faint intuition telling me not to run, and I trusted it. Good call.",
         "After landing just outside the arena proper, the entire atmosphere was absolutely buzzing with energy and anticipation.",
         "BOOM! BOOM! BOOM!",
-        "Each удар-like beat punched into Leon’s ribs from the inside, vibrating his bones as if the arena was trying to sync him to its rhythm.",
+        "Each yдap-like beat punched into Leon’s ribs from the inside, vibrating his bones as if the arena was trying to sync him to its rhythm.",
         "He could hear loud ceremonial drums coming from inside the arena, their rhythm primal and driving. Along with enthusiastic shouts in the language he couldn’t understand yet, echoing from within.",
         "\"KRESH! MANDOR! VEL!\"",
         "Leon walked inside the arena entrance, his heart pounding. The seating areas weren’t fully filled yet initially—there were actually multiple fights already happening simultaneously in different sections, but the combatants appeared to be young people, probably training matches or preliminaries.",
@@ -3524,7 +3524,7 @@
         {
           "id": 123,
           "paragraph_id": 70,
-          "text": "Each удар-like beat punched into Leon’s ribs from the inside, vibrating his bones as if the arena was trying to sync him to its rhythm."
+          "text": "Each yдap-like beat punched into Leon’s ribs from the inside, vibrating his bones as if the arena was trying to sync him to its rhythm."
         },
         {
           "id": 124,
@@ -6025,7 +6025,7 @@
         "Healing was consuming a humongous, unsustainable amount of mana. Soon his reserves would be completely depleted, his mana recovery would not be able to catch up with his demands, and then it would finally be over.",
         "This is it. I’m going to die here. In this arena. In front of thousands of cheering spectators who are cheering my demise.",
         "Leon’s thought echoed desperately through his fading consciousness as blood loss and mana depletion took their toll.",
-        "\"WHHHYYYYYYY!!!! WHY IS THIS ALWAYS HAPPENING TO MEEEEE?!\"",
+        "\"WHHHYYYYYYY!!! WHY IS THIS ALWAYS HAPPENING TO MEEEEE?!\"",
         "His anguished scream was drowned out by another deafening cheer as the creature closed in for the final strike."
       ],
       "sentences": [
@@ -6807,7 +6807,7 @@
         {
           "id": 155,
           "paragraph_id": 92,
-          "text": "\"WHHHYYYYYYY!!!!"
+          "text": "\"WHHHYYYYYYY!!!"
         },
         {
           "id": 156,
@@ -6887,7 +6887,6 @@
         "\"WHOOO ARE YOUUUUU?!\"",
         "His desperate scream echoed.",
         "\"AND WHY ARE YOU AFTER MY LIFE?!\"",
-        "----",
         "In a world that crossed the barrier between universes.",
         "Inside a mighty, grand throne room stretching impossibly far and wide—yet filled with only emptiness and ancient, suffocating silence.",
         "A single being sat motionless upon an ornate throne, eyes that had been closed for... who knows how long.",
@@ -6899,7 +6898,6 @@
         "The being smiled slightly, an expression both amused and contemplative.",
         "Its voice, ancient and resonant with power beyond comprehension, spoke words in a dialect lost to time:",
         "\"So... this unnatural existence cannot yet bear the weight of the Primordial Mark of Fate. Will this be his end? Even I cannot tell what lies ahead. Even incomplete as he is, I cannot peer into his future. That is the nature of us Divinordial—no force in existence can measure or predict our destinies with certainty.\"",
-        "----",
         "Leon received no answer to his desperate question.",
         "But a shimmering golden screen slowly revealed itself before his blurred vision, the text glowing with otherworldly light.",
         "The air itself shivered faintly, brushing his skin with static warmth—as if the system’s presence rippled through the world like a god inhaling.",
@@ -7461,175 +7459,165 @@
         {
           "id": 109,
           "paragraph_id": 60,
-          "text": "----"
+          "text": "In a world that crossed the barrier between universes."
         },
         {
           "id": 110,
           "paragraph_id": 61,
-          "text": "In a world that crossed the barrier between universes."
+          "text": "Inside a mighty, grand throne room stretching impossibly far and wide—yet filled with only emptiness and ancient, suffocating silence."
         },
         {
           "id": 111,
           "paragraph_id": 62,
-          "text": "Inside a mighty, grand throne room stretching impossibly far and wide—yet filled with only emptiness and ancient, suffocating silence."
+          "text": "A single being sat motionless upon an ornate throne, eyes that had been closed for... who knows how long."
         },
         {
           "id": 112,
           "paragraph_id": 63,
-          "text": "A single being sat motionless upon an ornate throne, eyes that had been closed for... who knows how long."
+          "text": "Centuries."
         },
         {
           "id": 113,
           "paragraph_id": 64,
-          "text": "Centuries."
+          "text": "Millennia."
         },
         {
           "id": 114,
           "paragraph_id": 65,
-          "text": "Millennia."
+          "text": "Perhaps even longer."
         },
         {
           "id": 115,
           "paragraph_id": 66,
-          "text": "Perhaps even longer."
+          "text": "No one but the being itself knew the true answer to that question."
         },
         {
           "id": 116,
           "paragraph_id": 67,
-          "text": "No one but the being itself knew the true answer to that question."
+          "text": "But those ancient eyes had opened some time ago—watching the boy lying bloodied on the distant arena floor, listening to his desperate shout carried across dimensional barriers."
         },
         {
           "id": 117,
           "paragraph_id": 68,
-          "text": "But those ancient eyes had opened some time ago—watching the boy lying bloodied on the distant arena floor, listening to his desperate shout carried across dimensional barriers."
+          "text": "The being smiled slightly, an expression both amused and contemplative."
         },
         {
           "id": 118,
           "paragraph_id": 69,
-          "text": "The being smiled slightly, an expression both amused and contemplative."
+          "text": "Its voice, ancient and resonant with power beyond comprehension, spoke words in a dialect lost to time:"
         },
         {
           "id": 119,
           "paragraph_id": 70,
-          "text": "Its voice, ancient and resonant with power beyond comprehension, spoke words in a dialect lost to time:"
-        },
-        {
-          "id": 120,
-          "paragraph_id": 71,
           "text": "\"So... this unnatural existence cannot yet bear the weight of the Primordial Mark of Fate."
         },
         {
-          "id": 121,
-          "paragraph_id": 71,
+          "id": 120,
+          "paragraph_id": 70,
           "text": "Will this be his end?"
         },
         {
-          "id": 122,
-          "paragraph_id": 71,
+          "id": 121,
+          "paragraph_id": 70,
           "text": "Even I cannot tell what lies ahead."
         },
         {
-          "id": 123,
-          "paragraph_id": 71,
+          "id": 122,
+          "paragraph_id": 70,
           "text": "Even incomplete as he is, I cannot peer into his future."
+        },
+        {
+          "id": 123,
+          "paragraph_id": 70,
+          "text": "That is the nature of us Divinordial—no force in existence can measure or predict our destinies with certainty.\""
         },
         {
           "id": 124,
           "paragraph_id": 71,
-          "text": "That is the nature of us Divinordial—no force in existence can measure or predict our destinies with certainty.\""
+          "text": "Leon received no answer to his desperate question."
         },
         {
           "id": 125,
           "paragraph_id": 72,
-          "text": "----"
+          "text": "But a shimmering golden screen slowly revealed itself before his blurred vision, the text glowing with otherworldly light."
         },
         {
           "id": 126,
           "paragraph_id": 73,
-          "text": "Leon received no answer to his desperate question."
+          "text": "The air itself shivered faintly, brushing his skin with static warmth—as if the system’s presence rippled through the world like a god inhaling."
         },
         {
           "id": 127,
           "paragraph_id": 74,
-          "text": "But a shimmering golden screen slowly revealed itself before his blurred vision, the text glowing with otherworldly light."
+          "text": "[CONGRATULATIONS]"
         },
         {
           "id": 128,
           "paragraph_id": 75,
-          "text": "The air itself shivered faintly, brushing his skin with static warmth—as if the system’s presence rippled through the world like a god inhaling."
+          "text": "[You have consciously noticed the influence of your PRIMORDIAL MARK OF FATE]"
         },
         {
           "id": 129,
           "paragraph_id": 76,
-          "text": "[CONGRATULATIONS]"
+          "text": "[May Fate favor you in the trials ahead]"
         },
         {
           "id": 130,
           "paragraph_id": 77,
-          "text": "[You have consciously noticed the influence of your PRIMORDIAL MARK OF FATE]"
+          "text": "Leon’s eyes went impossibly wide as he read everything displayed."
         },
         {
           "id": 131,
           "paragraph_id": 78,
-          "text": "[May Fate favor you in the trials ahead]"
+          "text": "What... what is this?!"
         },
         {
           "id": 132,
           "paragraph_id": 79,
-          "text": "Leon’s eyes went impossibly wide as he read everything displayed."
-        },
-        {
-          "id": 133,
-          "paragraph_id": 80,
-          "text": "What... what is this?!"
-        },
-        {
-          "id": 134,
-          "paragraph_id": 81,
           "text": "He knew with absolute certainty he wasn’t imagining this."
         },
         {
-          "id": 135,
-          "paragraph_id": 81,
+          "id": 133,
+          "paragraph_id": 79,
           "text": "Since the time he’d awakened his SSS Rank Elemental Paragon Class, there had been something—really, really faint back then, almost imperceptible."
         },
         {
-          "id": 136,
-          "paragraph_id": 82,
+          "id": 134,
+          "paragraph_id": 80,
           "text": "But after his race change to Divinordial, it had become slightly less faint."
         },
         {
-          "id": 137,
-          "paragraph_id": 82,
+          "id": 135,
+          "paragraph_id": 80,
           "text": "Still subtle, but... present."
         },
         {
-          "id": 138,
-          "paragraph_id": 82,
+          "id": 136,
+          "paragraph_id": 80,
           "text": "Always present."
         },
         {
-          "id": 139,
-          "paragraph_id": 83,
+          "id": 137,
+          "paragraph_id": 81,
           "text": "That feeling."
         },
         {
-          "id": 140,
-          "paragraph_id": 83,
+          "id": 138,
+          "paragraph_id": 81,
           "text": "That wrongness."
         },
         {
-          "id": 141,
-          "paragraph_id": 83,
+          "id": 139,
+          "paragraph_id": 81,
           "text": "It was THIS."
         },
         {
-          "id": 142,
-          "paragraph_id": 83,
+          "id": 140,
+          "paragraph_id": 81,
           "text": "This whole time!"
         }
       ],
-      "word_count": 1282
+      "word_count": 1280
     },
     {
       "chapter_index": 360,
@@ -24371,7 +24359,7 @@
         "The purified monster meat actually provides permanent stat increases. Valuable.",
         "They continued drinking moderately between bites of food.",
         "Some Pyrrhans had begun dancing in coordinated groups, moving to the rhythm of the ongoing music.",
-        "STOMP! SPIN!DANCE!",
+        "STOMP! SPIN! DANCE!",
         "Leon decided spontaneously to take Ira along with him to join the dancers.",
         "\"Come. Let’s dance.\"",
         "PULL! LEAD!",
@@ -24623,112 +24611,112 @@
         {
           "id": 36,
           "paragraph_id": 24,
-          "text": "SPIN!DANCE!"
+          "text": "SPIN!"
         },
         {
           "id": 37,
+          "paragraph_id": 24,
+          "text": "DANCE!"
+        },
+        {
+          "id": 38,
           "paragraph_id": 25,
           "text": "Leon decided spontaneously to take Ira along with him to join the dancers."
         },
         {
-          "id": 38,
+          "id": 39,
           "paragraph_id": 26,
           "text": "\"Come."
         },
         {
-          "id": 39,
+          "id": 40,
           "paragraph_id": 26,
           "text": "Let’s dance.\""
         },
         {
-          "id": 40,
+          "id": 41,
           "paragraph_id": 27,
           "text": "PULL!"
         },
         {
-          "id": 41,
+          "id": 42,
           "paragraph_id": 27,
           "text": "LEAD!"
         },
         {
-          "id": 42,
+          "id": 43,
           "paragraph_id": 28,
           "text": "It was even more adorable seeing how red her face became during the entire experience, her cheeks flushed deeply."
         },
         {
-          "id": 43,
+          "id": 44,
           "paragraph_id": 29,
           "text": "She’s embarrassed but happy."
         },
         {
-          "id": 44,
+          "id": 45,
           "paragraph_id": 29,
           "text": "I can tell."
         },
         {
-          "id": 45,
+          "id": 46,
           "paragraph_id": 30,
           "text": "Still, she maintained a faint, genuine smile on her face the entire time, clearly enjoying herself despite the self-consciousness."
         },
         {
-          "id": 46,
+          "id": 47,
           "paragraph_id": 31,
           "text": "The traditional dance was relatively simple in structure: one hand remained intertwined with your partner’s while the other rested on their waist, and you moved together fluidly to the rhythm of the music."
         },
         {
-          "id": 47,
+          "id": 48,
           "paragraph_id": 32,
           "text": "SWAY!"
         },
         {
-          "id": 48,
+          "id": 49,
           "paragraph_id": 32,
           "text": "TURN!"
         },
         {
-          "id": 49,
+          "id": 50,
           "paragraph_id": 32,
           "text": "STEP!"
         },
         {
-          "id": 50,
+          "id": 51,
           "paragraph_id": 32,
           "text": "FLOW!"
         },
         {
-          "id": 51,
+          "id": 52,
           "paragraph_id": 33,
           "text": "Leon found the dance pleasant and intimate without being overly complex."
         },
         {
-          "id": 52,
+          "id": 53,
           "paragraph_id": 34,
           "text": "From the top level of the arena, faint laughter could suddenly be heard echoing down, along with a distinctly masculine grunt of disapproval, too far be heard by the celebration going down."
         },
         {
-          "id": 53,
+          "id": 54,
           "paragraph_id": 35,
           "text": "HAHA!"
         },
         {
-          "id": 54,
+          "id": 55,
           "paragraph_id": 35,
           "text": "GRUNT!"
         },
         {
-          "id": 55,
+          "id": 56,
           "paragraph_id": 36,
           "text": "The person laughing was Archon Vyrra, clearly amused by something."
         },
         {
-          "id": 56,
+          "id": 57,
           "paragraph_id": 36,
           "text": "The one grunting in obvious displeasure was Korvek—Ira’s father—who was currently holding a massive jar of strong drink and gulping it down steadily."
-        },
-        {
-          "id": 57,
-          "paragraph_id": 37,
-          "text": "GULP!"
         },
         {
           "id": 58,
@@ -24742,451 +24730,456 @@
         },
         {
           "id": 60,
+          "paragraph_id": 37,
+          "text": "GULP!"
+        },
+        {
+          "id": 61,
           "paragraph_id": 38,
           "text": "Both their eyes were fixed on Leon and Ira, who were dancing together like an obvious romantic couple below."
         },
         {
-          "id": 61,
+          "id": 62,
           "paragraph_id": 39,
           "text": "Archon Vyrra commented aloud—ostensibly to empty air, but her voice was deliberately loud enough to easily reach Korvek, who was sitting several meters away from her:"
         },
         {
-          "id": 62,
+          "id": 63,
           "paragraph_id": 40,
           "text": "\"Our Ira is so lucky!"
         },
         {
-          "id": 63,
+          "id": 64,
           "paragraph_id": 40,
           "text": "Haha!"
         },
         {
-          "id": 64,
+          "id": 65,
           "paragraph_id": 40,
           "text": "What a fine match!\""
         },
         {
-          "id": 65,
+          "id": 66,
           "paragraph_id": 41,
           "text": "Her tone was genuinely pleased and approving."
         },
         {
-          "id": 66,
+          "id": 67,
           "paragraph_id": 42,
           "text": "To which Korvek grunted even harder, his displeasure palpable:"
         },
         {
-          "id": 67,
+          "id": 68,
           "paragraph_id": 43,
           "text": "\"Let me drink in peace, sister-in-law."
         },
         {
-          "id": 68,
+          "id": 69,
           "paragraph_id": 43,
           "text": "I don’t want to hear anything about this right now.\""
         },
         {
-          "id": 69,
+          "id": 70,
           "paragraph_id": 44,
           "text": "His voice carried profound frustration."
         },
         {
-          "id": 70,
+          "id": 71,
           "paragraph_id": 45,
           "text": "Archon Vyrra only laughed harder, completely unconcerned about the fact that he’d dropped all honorifics in his irritation."
         },
         {
-          "id": 71,
+          "id": 72,
           "paragraph_id": 46,
           "text": "He’s suffering seeing his daughter, Ira, loving the outsider."
         },
         {
-          "id": 72,
+          "id": 73,
           "paragraph_id": 46,
           "text": "But he’ll accept it eventually."
         },
         {
-          "id": 73,
+          "id": 74,
           "paragraph_id": 47,
           "text": "Despite whatever her brother-in-law was going through right now, Vyrra was really loving this all."
         },
         {
-          "id": 74,
+          "id": 75,
           "paragraph_id": 47,
           "text": "She had thought she had to do something, make a plan to set them up together; however, everything happened so naturally without her intervention."
         },
         {
-          "id": 75,
+          "id": 76,
           "paragraph_id": 47,
           "text": "She just loves this."
         },
         {
-          "id": 76,
+          "id": 77,
           "paragraph_id": 48,
           "text": "Leon and Ira had eventually drifted away from the crowded main celebration area out of the arena, finding a quieter section with multiple benches arranged throughout—some sort of contemplation garden or rest area."
         },
         {
-          "id": 77,
+          "id": 78,
           "paragraph_id": 49,
           "text": "They were now sitting together on one such bench, still holding each other’s hands naturally."
         },
         {
-          "id": 78,
+          "id": 79,
           "paragraph_id": 50,
           "text": "This feels right."
         },
         {
-          "id": 79,
+          "id": 80,
           "paragraph_id": 50,
           "text": "Comfortable."
         },
         {
-          "id": 80,
+          "id": 81,
           "paragraph_id": 51,
           "text": "Leon looked directly into her eyes."
         },
         {
-          "id": 81,
+          "id": 82,
           "paragraph_id": 51,
           "text": "She seemed considerably less shy now than before, having gradually adjusted to the intimacy."
         },
         {
-          "id": 82,
+          "id": 83,
           "paragraph_id": 52,
           "text": "He said with deliberate mischief in his tone:"
         },
         {
-          "id": 83,
+          "id": 84,
           "paragraph_id": 53,
           "text": "\"Ira, are you not going to release my hand?"
         },
         {
-          "id": 84,
+          "id": 85,
           "paragraph_id": 53,
           "text": "You’re gripping it so passionately now.\""
         },
         {
-          "id": 85,
+          "id": 86,
           "paragraph_id": 54,
           "text": "His words were teasing, testing her reaction."
         },
         {
-          "id": 86,
+          "id": 87,
           "paragraph_id": 55,
           "text": "Ira, hearing his unexpected statement, stuttered in sudden panic:"
         },
         {
-          "id": 87,
+          "id": 88,
           "paragraph_id": 56,
           "text": "\"W-what?!"
         },
         {
-          "id": 88,
+          "id": 89,
           "paragraph_id": 56,
           "text": "I’m not—\""
         },
         {
-          "id": 89,
+          "id": 90,
           "paragraph_id": 57,
           "text": "She immediately began trying to pull her hand away, genuinely worried she’d been too forward or clingy, but by now, in her hand, they were not just simple stranger no more."
         },
         {
-          "id": 90,
+          "id": 91,
           "paragraph_id": 58,
           "text": "He wants me to let go?"
         },
         {
-          "id": 91,
+          "id": 92,
           "paragraph_id": 58,
           "text": "But it felt so good holding hands with him—"
         },
         {
-          "id": 92,
+          "id": 93,
           "paragraph_id": 59,
           "text": "However, Leon was smiling as he deliberately tightened his grip, preventing her escape."
         },
         {
-          "id": 93,
+          "id": 94,
           "paragraph_id": 60,
           "text": "GRIP!"
         },
         {
-          "id": 94,
+          "id": 95,
           "paragraph_id": 60,
           "text": "HOLD!"
         },
         {
-          "id": 95,
+          "id": 96,
           "paragraph_id": 61,
           "text": "She couldn’t pull away at all against his strength, which was just her own mental wall, as Leon was currently weaker than her; if she tried, she could easily take her hand away."
         },
         {
-          "id": 96,
+          "id": 97,
           "paragraph_id": 62,
           "text": "Leon decided to shift the conversation, bringing her attention to something else he’d been genuinely curious about for quite a while now."
         },
         {
-          "id": 97,
+          "id": 98,
           "paragraph_id": 63,
           "text": "\"Ira, what are they doing exactly?"
         },
         {
-          "id": 98,
+          "id": 99,
           "paragraph_id": 63,
           "text": "I’ve been observing that strange phenomenon for some time.\""
         },
         {
-          "id": 99,
+          "id": 100,
           "paragraph_id": 64,
           "text": "He gestured subtly with his free hand toward one of the other nearby benches where a Pyrrhan couple was sitting together."
         },
         {
-          "id": 100,
+          "id": 101,
           "paragraph_id": 65,
           "text": "POINT!"
         },
         {
-          "id": 101,
+          "id": 102,
           "paragraph_id": 66,
           "text": "Both their hands were intertwined intimately, similar to how Leon and Ira were holding hands, but only one."
         },
         {
-          "id": 102,
+          "id": 103,
           "paragraph_id": 66,
           "text": "But there was something distinctly different happening with this pair—a strange red glowing hue surrounded both their bodies, pulsing rhythmically."
         },
         {
-          "id": 103,
+          "id": 104,
           "paragraph_id": 67,
           "text": "GLOW!"
         },
         {
-          "id": 104,
+          "id": 105,
           "paragraph_id": 67,
           "text": "PULSE!"
         },
         {
-          "id": 105,
+          "id": 106,
           "paragraph_id": 67,
           "text": "SHIMMER!"
         },
         {
-          "id": 106,
+          "id": 107,
           "paragraph_id": 68,
           "text": "Above them hovered a peculiar flame that appeared to be a mixture of both their individual special fires, swirling together in patterns that seemed almost alive."
         },
         {
-          "id": 107,
+          "id": 108,
           "paragraph_id": 68,
           "text": "The flame contained an otherworldly strangeness, colors shifting and blending in ways that defied normal fire behavior."
         },
         {
-          "id": 108,
+          "id": 109,
           "paragraph_id": 69,
           "text": "SWIRL!"
         },
         {
-          "id": 109,
+          "id": 110,
           "paragraph_id": 69,
           "text": "MERGE!"
         },
         {
-          "id": 110,
+          "id": 111,
           "paragraph_id": 69,
           "text": "DANCE!"
         },
         {
-          "id": 111,
+          "id": 112,
           "paragraph_id": 70,
           "text": "The couple themselves weren’t even consciously focusing on maintaining this phenomenon—it seemed to be occurring naturally, autonomously, as they sat together in intimate stillness, seemingly lost in each other."
         },
         {
-          "id": 112,
+          "id": 113,
           "paragraph_id": 71,
           "text": "What is that energy?"
         },
         {
-          "id": 113,
+          "id": 114,
           "paragraph_id": 71,
           "text": "It’s not just their normal racial fire."
         },
         {
-          "id": 114,
+          "id": 115,
           "paragraph_id": 71,
           "text": "Something deeper."
         },
         {
-          "id": 115,
+          "id": 116,
           "paragraph_id": 72,
           "text": "This wasn’t the first time Leon had witnessed this particular phenomenon."
         },
         {
-          "id": 116,
+          "id": 117,
           "paragraph_id": 72,
           "text": "He’d actually seen it quite frequently throughout the festival—multiple couples exhibiting the same glowing aura and merged flame manifestation."
         },
         {
-          "id": 117,
+          "id": 118,
           "paragraph_id": 73,
           "text": "But I never asked about it because I was too preoccupied enjoying the celebration together with her."
         },
         {
-          "id": 118,
+          "id": 119,
           "paragraph_id": 74,
           "text": "Now, his analytical curiosity had finally gotten the better of him."
         },
         {
-          "id": 119,
+          "id": 120,
           "paragraph_id": 75,
           "text": "Hearing his innocent question, Ira’s words caught abruptly in her throat."
         },
         {
-          "id": 120,
+          "id": 121,
           "paragraph_id": 76,
           "text": "GULP!"
         },
         {
-          "id": 121,
+          "id": 122,
           "paragraph_id": 77,
           "text": "She remained completely silent for an extended, awkward moment—several seconds that stretched uncomfortably."
         },
         {
-          "id": 122,
+          "id": 123,
           "paragraph_id": 78,
           "text": "Why is she hesitating so much?"
         },
         {
-          "id": 123,
+          "id": 124,
           "paragraph_id": 78,
           "text": "Is this taboo to discuss?"
         },
         {
-          "id": 124,
+          "id": 125,
           "paragraph_id": 79,
           "text": "Finally, she replied in an extremely meek voice, barely louder than a whisper:"
         },
         {
-          "id": 125,
+          "id": 126,
           "paragraph_id": 80,
           "text": "\"They are... they are making love.\""
         },
         {
-          "id": 126,
+          "id": 127,
           "paragraph_id": 81,
           "text": "Her words were so quiet Leon almost didn’t hear them over the distant festival music."
         },
         {
-          "id": 127,
+          "id": 128,
           "paragraph_id": 82,
           "text": "WHISPER..."
         },
         {
-          "id": 128,
+          "id": 129,
           "paragraph_id": 83,
           "text": "Leon immediately understood the full meaning and cultural implication of her words."
         },
         {
-          "id": 129,
+          "id": 130,
           "paragraph_id": 84,
           "text": "Oh."
         },
         {
-          "id": 130,
+          "id": 131,
           "paragraph_id": 84,
           "text": "OH."
         },
         {
-          "id": 131,
+          "id": 132,
           "paragraph_id": 84,
           "text": "That’s what that represents; they really are a different race."
         },
         {
-          "id": 132,
+          "id": 133,
           "paragraph_id": 84,
           "text": "The merging of their fires is... intimate."
         },
         {
-          "id": 133,
+          "id": 134,
           "paragraph_id": 84,
           "text": "Very intimate."
         },
         {
-          "id": 134,
+          "id": 135,
           "paragraph_id": 85,
           "text": "Meanwhile, Ira’s internal mind was absolutely screaming in mortified panic:"
         },
         {
-          "id": 135,
+          "id": 136,
           "paragraph_id": 86,
           "text": "WHAAAAT?!"
         },
         {
-          "id": 136,
+          "id": 137,
           "paragraph_id": 86,
           "text": "Why did he ask me THAT?!"
         },
         {
-          "id": 137,
+          "id": 138,
           "paragraph_id": 86,
           "text": "Of all the questions!"
         },
         {
-          "id": 138,
+          "id": 139,
           "paragraph_id": 86,
           "text": "Does he understand what he’s asking?!"
         },
         {
-          "id": 139,
+          "id": 140,
           "paragraph_id": 86,
           "text": "Does he know what it means that we’re sitting here alone holding hands like this?!"
         },
         {
-          "id": 140,
+          "id": 141,
           "paragraph_id": 86,
           "text": "Is he—does he want—NO!"
         },
         {
-          "id": 141,
+          "id": 142,
           "paragraph_id": 86,
           "text": "Focus!"
         },
         {
-          "id": 142,
+          "id": 143,
           "paragraph_id": 86,
           "text": "Don’t think about it!"
         },
         {
-          "id": 143,
+          "id": 144,
           "paragraph_id": 86,
           "text": "Ahhhhhh!"
         },
         {
-          "id": 144,
+          "id": 145,
           "paragraph_id": 87,
           "text": "Her face had turned an even deeper shade of crimson than normal, visible even against her naturally red Pyrrhan skin."
         },
         {
-          "id": 145,
+          "id": 146,
           "paragraph_id": 88,
           "text": "FLUSH!"
         },
         {
-          "id": 146,
+          "id": 147,
           "paragraph_id": 88,
           "text": "BURN!"
         },
         {
-          "id": 147,
+          "id": 148,
           "paragraph_id": 89,
           "text": "She couldn’t bring herself to look at Leon’s face at all, her eyes fixed firmly on the ground between her feet."
         },
         {
-          "id": 148,
+          "id": 149,
           "paragraph_id": 90,
           "text": "I can’t believe I just said that out loud to him!"
         }
       ],
-      "word_count": 1362
+      "word_count": 1363
     },
     {
       "chapter_index": 385,
@@ -25263,11 +25256,11 @@
         "It hasn’t been a full month since the last payment. And time inside my dimension clearly doesn’t count toward that timer—it’s a separate dimensional space, not physical reality.",
         "He was carefully keeping track to see if there was any time dilation effect between where those higher beings are and him.",
         "Leon purchased three critical items:",
-        "Phoenix Feather Amulet (Legendary – Item) Revives the wearer upon death, once.",
+        "Phoenix Feather Amulet (Legendary - Item) Revives the wearer upon death, once.",
         "Price: 2,500,000 Causality",
         "Vendor: Resurrecto Maximus",
         "He bought two Phoenix Feather Amulets for redundancy.",
-        "Hourglass of Reversal (Rare – Item) Rewinds time in a 3-meter radius by three seconds. Single-use.",
+        "Hourglass of Reversal (Rare - Item) Rewinds time in a 3-meter radius by three seconds. Single-use.",
         "Price: 1,200,000 Causality",
         "Vendor: Professor Time-a-lot",
         "I don’t know exactly what tactical use the hourglass might provide, but having a literal time-reversal option could be invaluable."
@@ -25811,7 +25804,7 @@
         {
           "id": 107,
           "paragraph_id": 70,
-          "text": "Phoenix Feather Amulet (Legendary – Item) Revives the wearer upon death, once."
+          "text": "Phoenix Feather Amulet (Legendary - Item) Revives the wearer upon death, once."
         },
         {
           "id": 108,
@@ -25831,7 +25824,7 @@
         {
           "id": 111,
           "paragraph_id": 74,
-          "text": "Hourglass of Reversal (Rare – Item) Rewinds time in a 3-meter radius by three seconds."
+          "text": "Hourglass of Reversal (Rare - Item) Rewinds time in a 3-meter radius by three seconds."
         },
         {
           "id": 112,
@@ -25926,7 +25919,6 @@
         "He can’t deny it anymore, not after witnessing this.",
         "Archon Vyrra continued with genuine excitement, not even looking for Korvek’s actual response:",
         "\"A new Archon is about to be born! How thrilling!\"",
-        "----",
         "The lightning landed as if it had completely bypassed and passed through every single defense Leon had carefully prepared—shields, barriers, Auras—all utterly ignored.",
         "PENETRATE! STRIKE! IMPACT!",
         "It connected directly with Leon’s actual body.",
@@ -26476,190 +26468,185 @@
         {
           "id": 104,
           "paragraph_id": 65,
-          "text": "----"
+          "text": "The lightning landed as if it had completely bypassed and passed through every single defense Leon had carefully prepared—shields, barriers, Auras—all utterly ignored."
         },
         {
           "id": 105,
           "paragraph_id": 66,
-          "text": "The lightning landed as if it had completely bypassed and passed through every single defense Leon had carefully prepared—shields, barriers, Auras—all utterly ignored."
-        },
-        {
-          "id": 106,
-          "paragraph_id": 67,
           "text": "PENETRATE!"
         },
         {
-          "id": 107,
-          "paragraph_id": 67,
+          "id": 106,
+          "paragraph_id": 66,
           "text": "STRIKE!"
+        },
+        {
+          "id": 107,
+          "paragraph_id": 66,
+          "text": "IMPACT!"
         },
         {
           "id": 108,
           "paragraph_id": 67,
-          "text": "IMPACT!"
+          "text": "It connected directly with Leon’s actual body."
         },
         {
           "id": 109,
           "paragraph_id": 68,
-          "text": "It connected directly with Leon’s actual body."
+          "text": "\"Urrrghhh!\""
         },
         {
           "id": 110,
           "paragraph_id": 69,
-          "text": "\"Urrrghhh!\""
+          "text": "The defensive shields of earth and ice constructs—everything was completely disregarded by the tribulation lightning."
         },
         {
           "id": 111,
           "paragraph_id": 70,
-          "text": "The defensive shields of earth and ice constructs—everything was completely disregarded by the tribulation lightning."
+          "text": "What the hell?!"
         },
         {
           "id": 112,
-          "paragraph_id": 71,
-          "text": "What the hell?!"
+          "paragraph_id": 70,
+          "text": "My defenses did absolutely nothing!"
         },
         {
           "id": 113,
           "paragraph_id": 71,
-          "text": "My defenses did absolutely nothing!"
+          "text": "The pain was significant but manageable—nothing he fundamentally couldn’t endure with his enhanced pain tolerance."
         },
         {
           "id": 114,
           "paragraph_id": 72,
-          "text": "The pain was significant but manageable—nothing he fundamentally couldn’t endure with his enhanced pain tolerance."
+          "text": "But my defenses not working at all is outrageous!"
         },
         {
           "id": 115,
-          "paragraph_id": 73,
-          "text": "But my defenses not working at all is outrageous!"
+          "paragraph_id": 72,
+          "text": "How is anyone supposed to defend against this?!"
         },
         {
           "id": 116,
           "paragraph_id": 73,
-          "text": "How is anyone supposed to defend against this?!"
+          "text": "However, as the initial pain receded, Leon felt profound changes happening throughout his entire being."
         },
         {
           "id": 117,
           "paragraph_id": 74,
-          "text": "However, as the initial pain receded, Leon felt profound changes happening throughout his entire being."
-        },
-        {
-          "id": 118,
-          "paragraph_id": 75,
           "text": "Wait."
         },
         {
-          "id": 119,
-          "paragraph_id": 75,
+          "id": 118,
+          "paragraph_id": 74,
           "text": "The lightning—while painful—is actually helping me become stronger."
+        },
+        {
+          "id": 119,
+          "paragraph_id": 74,
+          "text": "Changing me from within at a fundamental level."
         },
         {
           "id": 120,
           "paragraph_id": 75,
-          "text": "Changing me from within at a fundamental level."
+          "text": "This tribulation lightning was fundamentally different from a normal attack."
         },
         {
           "id": 121,
-          "paragraph_id": 76,
-          "text": "This tribulation lightning was fundamentally different from a normal attack."
+          "paragraph_id": 75,
+          "text": "It was painful, yes, but simultaneously beneficial—refining and tempering rather than purely destroying."
         },
         {
           "id": 122,
           "paragraph_id": 76,
-          "text": "It was painful, yes, but simultaneously beneficial—refining and tempering rather than purely destroying."
+          "text": "It’s reconstructing my body."
         },
         {
           "id": 123,
-          "paragraph_id": 77,
-          "text": "It’s reconstructing my body."
+          "paragraph_id": 76,
+          "text": "Making it better."
         },
         {
           "id": 124,
           "paragraph_id": 77,
-          "text": "Making it better."
+          "text": "Understanding this mechanism, Leon deliberately removed all his layered defenses—they weren’t providing any protection anyway, and this tribulation energy needed direct contact to properly temper him."
         },
         {
           "id": 125,
           "paragraph_id": 78,
-          "text": "Understanding this mechanism, Leon deliberately removed all his layered defenses—they weren’t providing any protection anyway, and this tribulation energy needed direct contact to properly temper him."
+          "text": "No point wasting mana maintaining useless shields."
         },
         {
           "id": 126,
           "paragraph_id": 79,
-          "text": "No point wasting mana maintaining useless shields."
+          "text": "The second thunderbolt descended directly onto his now-undefended body."
         },
         {
           "id": 127,
           "paragraph_id": 80,
-          "text": "The second thunderbolt descended directly onto his now-undefended body."
-        },
-        {
-          "id": 128,
-          "paragraph_id": 81,
           "text": "CRACK!"
         },
         {
-          "id": 129,
-          "paragraph_id": 81,
+          "id": 128,
+          "paragraph_id": 80,
           "text": "STRIKE!"
+        },
+        {
+          "id": 129,
+          "paragraph_id": 80,
+          "text": "BURN!"
         },
         {
           "id": 130,
           "paragraph_id": 81,
-          "text": "BURN!"
+          "text": "\"Urrrgghhh!\""
         },
         {
           "id": 131,
           "paragraph_id": 82,
-          "text": "\"Urrrgghhh!\""
+          "text": "The pain intensified, but after it passed, he distinctly felt measurable improvement in his fundamental constitution."
         },
         {
           "id": 132,
           "paragraph_id": 83,
-          "text": "The pain intensified, but after it passed, he distinctly felt measurable improvement in his fundamental constitution."
+          "text": "Stronger."
         },
         {
           "id": 133,
-          "paragraph_id": 84,
-          "text": "Stronger."
+          "paragraph_id": 83,
+          "text": "More refined."
         },
         {
           "id": 134,
           "paragraph_id": 84,
-          "text": "More refined."
+          "text": "Then the third bolt struck."
         },
         {
           "id": 135,
           "paragraph_id": 85,
-          "text": "Then the third bolt struck."
+          "text": "BOOM!"
         },
         {
           "id": 136,
-          "paragraph_id": 86,
-          "text": "BOOM!"
+          "paragraph_id": 85,
+          "text": "IMPACT!"
         },
         {
           "id": 137,
           "paragraph_id": 86,
-          "text": "IMPACT!"
+          "text": "Same pattern—intense pain followed by tangible advancement."
         },
         {
           "id": 138,
           "paragraph_id": 87,
-          "text": "Same pattern—intense pain followed by tangible advancement."
+          "text": "But this time, an additional message appeared before him in the form of a golden transparent system screen:"
         },
         {
           "id": 139,
           "paragraph_id": 88,
-          "text": "But this time, an additional message appeared before him in the form of a golden transparent system screen:"
-        },
-        {
-          "id": 140,
-          "paragraph_id": 89,
           "text": "[Do you wish to continue the tribulation to the second stage, or end the advancement here?]"
         }
       ],
-      "word_count": 1050
+      "word_count": 1049
     },
     {
       "chapter_index": 387,
@@ -27730,7 +27717,7 @@
         "Even the powerful hydra boss had only dropped a skill stone rather than a technique.",
         "But what I did get is exceptional quality.",
         "Leon started with the skill he was most genuinely excited about—the Legendary-ranked ability he’d obtained from the hydra itself.",
-        "The skill’s name was[Hydra’s Division],a legendary skill with a cloning ability that allowed him to create a duplicate of himself possessing exactly ten percent of his actual total Strength.",
+        "The skill’s name was[Hydra’s Division], a legendary skill with a cloning ability that allowed him to create a duplicate of himself possessing exactly ten percent of his actual total Strength.",
         "Ten percent doesn’t sound like much, but given my current power level, that’s still formidable.",
         "Leon crushed the glowing skill stone between his fingers, and brilliant light immediately flowed from it directly into his temple.",
         "CRUSH! FLOW! ABSORB!",
@@ -28176,7 +28163,7 @@
         {
           "id": 77,
           "paragraph_id": 59,
-          "text": "The skill’s name was[Hydra’s Division],a legendary skill with a cloning ability that allowed him to create a duplicate of himself possessing exactly ten percent of his actual total Strength."
+          "text": "The skill’s name was[Hydra’s Division], a legendary skill with a cloning ability that allowed him to create a duplicate of himself possessing exactly ten percent of his actual total Strength."
         },
         {
           "id": 78,
@@ -28584,7 +28571,7 @@
           "text": "But the potential is incredible."
         }
       ],
-      "word_count": 1462
+      "word_count": 1463
     },
     {
       "chapter_index": 389,
@@ -28647,7 +28634,7 @@
         "He deliberately left his clone behind in the Pyrrhan realm to maintain a presence there.",
         "Right after entering his domain, Leon immediately opened his cosmic shop interface—there was one specific item he desperately needed to purchase.",
         "The familiar golden screen materialized before him, glowing softly in the dimensional light.",
-        "Tome of Eternal Practice (Epic – Item)",
+        "Tome of Eternal Practice (Epic - Item)",
         "Simulates 10,000 hours of training in your mind. Usable once per day.",
         "Price: 6,000,000 Causality",
         "Vendor: Archivist of the Unskimmable",
@@ -29132,7 +29119,7 @@
         {
           "id": 93,
           "paragraph_id": 56,
-          "text": "Tome of Eternal Practice (Epic – Item)"
+          "text": "Tome of Eternal Practice (Epic - Item)"
         },
         {
           "id": 94,
@@ -33317,7 +33304,6 @@
         "But he desperately needed to relax for an extended while now. This training method was incredibly fast and efficient—he’d gained decades worth of progress in hours—but it was also extraordinarily taxing on his mental stability.",
         "Seraphine’s lovely face appeared unbidden in his mind. Her smile. Her laugh. The way she looked at him with such trust and desire.",
         "I should visit her again soon. Ground myself in something real, other than this endless training.",
-        "____",
         "Previously, Leon had detected something significant at the very start of his intensive training period within the dimensional realm.",
         "The tribulation clouds forming in the distance—massive, dark storm systems crackling with supernatural lightning.",
         "Seraphine. She’s advancing.",
@@ -33327,7 +33313,6 @@
         "She’s pushing through all nine strikes. Going for maximum advancement.",
         "Leon felt genuinely proud watching her demonstration of willpower and determination to grow stronger. He understood intimately how painful those lightning strikes were—he’d experienced them himself recently, felt his body torn apart and rebuilt.",
         "She was proving herself. Becoming worthy of standing beside me.",
-        "____",
         "For that incredible display of courage and resolve, he absolutely intended to reward her thoroughly.",
         "And he knew better than anyone what she loved receiving most—far more than any material treasure or resource.",
         "Me. She wants me.",
@@ -33594,340 +33579,330 @@
         {
           "id": 45,
           "paragraph_id": 30,
-          "text": "____"
+          "text": "Previously, Leon had detected something significant at the very start of his intensive training period within the dimensional realm."
         },
         {
           "id": 46,
           "paragraph_id": 31,
-          "text": "Previously, Leon had detected something significant at the very start of his intensive training period within the dimensional realm."
+          "text": "The tribulation clouds forming in the distance—massive, dark storm systems crackling with supernatural lightning."
         },
         {
           "id": 47,
           "paragraph_id": 32,
-          "text": "The tribulation clouds forming in the distance—massive, dark storm systems crackling with supernatural lightning."
+          "text": "Seraphine."
         },
         {
           "id": 48,
-          "paragraph_id": 33,
-          "text": "Seraphine."
+          "paragraph_id": 32,
+          "text": "She’s advancing."
         },
         {
           "id": 49,
           "paragraph_id": 33,
-          "text": "She’s advancing."
+          "text": "At that exact moment, he’d teleported himself high above her position without alerting her to his presence, remaining invisible through his Illusion affinity."
         },
         {
           "id": 50,
-          "paragraph_id": 34,
-          "text": "At that exact moment, he’d teleported himself high above her position without alerting her to his presence, remaining invisible through his Illusion affinity."
+          "paragraph_id": 33,
+          "text": "From his aerial vantage point, he’d observed the entire ordeal as she faced her own tribulation."
         },
         {
           "id": 51,
           "paragraph_id": 34,
-          "text": "From his aerial vantage point, he’d observed the entire ordeal as she faced her own tribulation."
+          "text": "She handled it remarkably well, with no major problems or life-threatening complications."
         },
         {
           "id": 52,
           "paragraph_id": 35,
-          "text": "She handled it remarkably well, with no major problems or life-threatening complications."
+          "text": "The nine thunder strikes descended one after another with increasing brutality, but Seraphine endured each one with gritted teeth and unwavering determination."
         },
         {
           "id": 53,
-          "paragraph_id": 36,
-          "text": "The nine thunder strikes descended one after another with increasing brutality, but Seraphine endured each one with gritted teeth and unwavering determination."
+          "paragraph_id": 35,
+          "text": "Her body was battered, burned, bleeding—but she never once screamed for it to stop or used the system’s option to halt progression."
         },
         {
           "id": 54,
           "paragraph_id": 36,
-          "text": "Her body was battered, burned, bleeding—but she never once screamed for it to stop or used the system’s option to halt progression."
+          "text": "She’s pushing through all nine strikes."
         },
         {
           "id": 55,
-          "paragraph_id": 37,
-          "text": "She’s pushing through all nine strikes."
+          "paragraph_id": 36,
+          "text": "Going for maximum advancement."
         },
         {
           "id": 56,
           "paragraph_id": 37,
-          "text": "Going for maximum advancement."
+          "text": "Leon felt genuinely proud watching her demonstration of willpower and determination to grow stronger."
         },
         {
           "id": 57,
-          "paragraph_id": 38,
-          "text": "Leon felt genuinely proud watching her demonstration of willpower and determination to grow stronger."
+          "paragraph_id": 37,
+          "text": "He understood intimately how painful those lightning strikes were—he’d experienced them himself recently, felt his body torn apart and rebuilt."
         },
         {
           "id": 58,
           "paragraph_id": 38,
-          "text": "He understood intimately how painful those lightning strikes were—he’d experienced them himself recently, felt his body torn apart and rebuilt."
+          "text": "She was proving herself."
         },
         {
           "id": 59,
-          "paragraph_id": 39,
-          "text": "She was proving herself."
+          "paragraph_id": 38,
+          "text": "Becoming worthy of standing beside me."
         },
         {
           "id": 60,
           "paragraph_id": 39,
-          "text": "Becoming worthy of standing beside me."
+          "text": "For that incredible display of courage and resolve, he absolutely intended to reward her thoroughly."
         },
         {
           "id": 61,
           "paragraph_id": 40,
-          "text": "____"
+          "text": "And he knew better than anyone what she loved receiving most—far more than any material treasure or resource."
         },
         {
           "id": 62,
           "paragraph_id": 41,
-          "text": "For that incredible display of courage and resolve, he absolutely intended to reward her thoroughly."
-        },
-        {
-          "id": 63,
-          "paragraph_id": 42,
-          "text": "And he knew better than anyone what she loved receiving most—far more than any material treasure or resource."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 43,
           "text": "Me."
         },
         {
-          "id": 65,
-          "paragraph_id": 43,
+          "id": 63,
+          "paragraph_id": 41,
           "text": "She wants me."
         },
         {
-          "id": 66,
-          "paragraph_id": 44,
+          "id": 64,
+          "paragraph_id": 42,
           "text": "Also, practically speaking, the fastest and most effective way to soothe this throbbing headache plaguing him from excessive training was to spend quality, intimate time together with her; it worked like a charm before, life and light elemental do nothing."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 42,
+          "text": "Grounding himself in physical pleasure and emotional connection."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 43,
+          "text": "She’s the perfect medicine."
         },
         {
           "id": 67,
           "paragraph_id": 44,
-          "text": "Grounding himself in physical pleasure and emotional connection."
+          "text": "This time, he didn’t simply teleport her directly to his location without warning."
         },
         {
           "id": 68,
           "paragraph_id": 45,
-          "text": "She’s the perfect medicine."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 46,
-          "text": "This time, he didn’t simply teleport her directly to his location without warning."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 47,
           "text": "That felt too abrupt, too impersonal for what he wanted."
         },
         {
-          "id": 71,
-          "paragraph_id": 47,
+          "id": 69,
+          "paragraph_id": 45,
           "text": "When she was too focused on training, he felt her presence in the distant grassfield."
         },
         {
-          "id": 72,
-          "paragraph_id": 48,
+          "id": 70,
+          "paragraph_id": 46,
           "text": "Seraphine was practicing alone in an isolated clearing, working diligently through the advanced techniques Leon had transcribed for her."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 46,
+          "text": "Sweat glistened on her skin as she moved through complex forms, lightning crackling around her arms."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 47,
+          "text": "Suddenly, she felt an intent—not a voice exactly, but a clear mental communication directly in her mind."
         },
         {
           "id": 73,
           "paragraph_id": 48,
-          "text": "Sweat glistened on her skin as she moved through complex forms, lightning crackling around her arms."
+          "text": "Leon!"
         },
         {
           "id": 74,
           "paragraph_id": 49,
-          "text": "Suddenly, she felt an intent—not a voice exactly, but a clear mental communication directly in her mind."
+          "text": "She immediately recognized what it was: Leon’s unique ability within the dimensional realm to communicate with her through the Mark of Dimension he’d given her access to."
         },
         {
           "id": 75,
           "paragraph_id": 50,
-          "text": "Leon!"
-        },
-        {
-          "id": 76,
-          "paragraph_id": 51,
-          "text": "She immediately recognized what it was: Leon’s unique ability within the dimensional realm to communicate with her through the Mark of Dimension he’d given her access to."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 52,
           "text": "She briefly wished he had something similar for the outside world—some way to stay connected even when separated by distance."
         },
         {
-          "id": 78,
-          "paragraph_id": 52,
+          "id": 76,
+          "paragraph_id": 50,
           "text": "She’d definitely talk to him about developing that later."
         },
         {
-          "id": 79,
-          "paragraph_id": 53,
+          "id": 77,
+          "paragraph_id": 51,
           "text": "But right now, my main focus is on him."
         },
         {
-          "id": 80,
-          "paragraph_id": 53,
+          "id": 78,
+          "paragraph_id": 51,
           "text": "Only him."
         },
         {
-          "id": 81,
-          "paragraph_id": 54,
+          "id": 79,
+          "paragraph_id": 52,
           "text": "She was genuinely excited and thrilled to receive communication from him."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 52,
+          "text": "It hadn’t even been that long since they’d separated after breakfast— about 6 weeks had passed, which was too little time in the standard of how they train in the dimensional realm."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 53,
+          "text": "But instead of bothering me, this makes my heart throb with happiness."
         },
         {
           "id": 82,
           "paragraph_id": 54,
-          "text": "It hadn’t even been that long since they’d separated after breakfast— about 6 weeks had passed, which was too little time in the standard of how they train in the dimensional realm."
+          "text": "Knowing he couldn’t stay away from her for long, that he craved her presence as much as she craved his—she absolutely loved that desperate need between them."
         },
         {
           "id": 83,
           "paragraph_id": 55,
-          "text": "But instead of bothering me, this makes my heart throb with happiness."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 56,
-          "text": "Knowing he couldn’t stay away from her for long, that he craved her presence as much as she craved his—she absolutely loved that desperate need between them."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 57,
           "text": "His intent was clear and simple: he wanted to see her."
         },
         {
-          "id": 86,
-          "paragraph_id": 57,
+          "id": 84,
+          "paragraph_id": 55,
           "text": "Be with her."
+        },
+        {
+          "id": 85,
+          "paragraph_id": 55,
+          "text": "Now."
+        },
+        {
+          "id": 86,
+          "paragraph_id": 56,
+          "text": "Seraphine responded eagerly with her own intent, relaying her enthusiastic agreement through their connection."
         },
         {
           "id": 87,
           "paragraph_id": 57,
-          "text": "Now."
+          "text": "I would love nothing more than to be with you right now."
         },
         {
           "id": 88,
-          "paragraph_id": 58,
-          "text": "Seraphine responded eagerly with her own intent, relaying her enthusiastic agreement through their connection."
+          "paragraph_id": 57,
+          "text": "Take me."
         },
         {
           "id": 89,
-          "paragraph_id": 59,
-          "text": "I would love nothing more than to be with you right now."
+          "paragraph_id": 58,
+          "text": "In the very next instant, her vision went dark for a millisecond—that familiar sensation of spatial teleportation folding reality around her."
         },
         {
           "id": 90,
           "paragraph_id": 59,
-          "text": "Take me."
+          "text": "When her sight cleared, she stood directly in front of Leon in his private space."
         },
         {
           "id": 91,
           "paragraph_id": 60,
-          "text": "In the very next instant, her vision went dark for a millisecond—that familiar sensation of spatial teleportation folding reality around her."
+          "text": "The smile on her face was radiant, unbridled joy and desire mixed together."
         },
         {
           "id": 92,
           "paragraph_id": 61,
-          "text": "When her sight cleared, she stood directly in front of Leon in his private space."
-        },
-        {
-          "id": 93,
-          "paragraph_id": 62,
-          "text": "The smile on her face was radiant, unbridled joy and desire mixed together."
-        },
-        {
-          "id": 94,
-          "paragraph_id": 63,
           "text": "Without waiting for any words or pleasantries, Seraphine immediately pounced on him with feral enthusiasm."
         },
         {
-          "id": 95,
-          "paragraph_id": 63,
+          "id": 93,
+          "paragraph_id": 61,
           "text": "She launched herself forward and jumped, wrapping her legs tightly around his waist as he caught her instinctively."
         },
         {
-          "id": 96,
-          "paragraph_id": 64,
+          "id": 94,
+          "paragraph_id": 62,
           "text": "His strong arms wrapped securely around her waist, holding her close."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 62,
+          "text": "Her legs locked behind his back, pulling their bodies flush together."
+        },
+        {
+          "id": 96,
+          "paragraph_id": 63,
+          "text": "\"I love you, Leon,\" she laid her feelings through words to which Leon responded with heart."
         },
         {
           "id": 97,
           "paragraph_id": 64,
-          "text": "Her legs locked behind his back, pulling their bodies flush together."
+          "text": "\"I love you too, Seraphine.\""
         },
         {
           "id": 98,
           "paragraph_id": 65,
-          "text": "\"I love you, Leon,\" she laid her feelings through words to which Leon responded with heart."
+          "text": "Right after hearing those words."
         },
         {
           "id": 99,
           "paragraph_id": 66,
-          "text": "\"I love you too, Seraphine.\""
+          "text": "Her lips crashed into his with a desperation that spoke louder than words—hot, hungry, devouring.—their tongues immediately battling for dominance, sliding wetly against each other in hungry exploration."
         },
         {
           "id": 100,
           "paragraph_id": 67,
-          "text": "Right after hearing those words."
+          "text": "Slrrp~"
         },
         {
           "id": 101,
           "paragraph_id": 68,
-          "text": "Her lips crashed into his with a desperation that spoke louder than words—hot, hungry, devouring.—their tongues immediately battling for dominance, sliding wetly against each other in hungry exploration."
+          "text": "Mmph~"
         },
         {
           "id": 102,
           "paragraph_id": 69,
-          "text": "Slrrp~"
+          "text": "Slrp~"
         },
         {
           "id": 103,
           "paragraph_id": 70,
-          "text": "Mmph~"
+          "text": "The wet, lewd sounds of their intense kissing filled the space."
         },
         {
           "id": 104,
           "paragraph_id": 71,
-          "text": "Slrp~"
+          "text": "The passionate kiss made Seraphine feel butterflies erupting wildly in her stomach, her pussy clenching involuntarily with building excitement and arousal."
         },
         {
           "id": 105,
-          "paragraph_id": 72,
-          "text": "The wet, lewd sounds of their intense kissing filled the space."
+          "paragraph_id": 71,
+          "text": "Heat flooded through her core, wetness already gathering."
         },
         {
           "id": 106,
-          "paragraph_id": 73,
-          "text": "The passionate kiss made Seraphine feel butterflies erupting wildly in her stomach, her pussy clenching involuntarily with building excitement and arousal."
+          "paragraph_id": 72,
+          "text": "For Leon, the throbbing, persistent pain in his overtaxed mind began soothing immediately—melting away under the warmth of her body pressed against his, the taste of her mouth, the desperate need in her kiss."
         },
         {
           "id": 107,
           "paragraph_id": 73,
-          "text": "Heat flooded through her core, wetness already gathering."
-        },
-        {
-          "id": 108,
-          "paragraph_id": 74,
-          "text": "For Leon, the throbbing, persistent pain in his overtaxed mind began soothing immediately—melting away under the warmth of her body pressed against his, the taste of her mouth, the desperate need in her kiss."
-        },
-        {
-          "id": 109,
-          "paragraph_id": 75,
           "text": "This."
         },
         {
-          "id": 110,
-          "paragraph_id": 75,
+          "id": 108,
+          "paragraph_id": 73,
           "text": "This is exactly what I needed."
         },
         {
-          "id": 111,
-          "paragraph_id": 76,
+          "id": 109,
+          "paragraph_id": 74,
           "text": "His headache receded like fog burning away in sunlight, replaced by pure present-moment awareness of her in his arms."
         }
       ],
-      "word_count": 1423
+      "word_count": 1421
     },
     {
       "chapter_index": 396,

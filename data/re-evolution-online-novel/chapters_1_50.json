@@ -1746,7 +1746,6 @@
       "paragraphs": [
         "Liam sat on a rock, right outside the novice village, and opened his status screen. Next to him, a couple of people were already fighting the rabbits and squirrels which were beginner level beasts.",
         "However, Liam was not in a hurry. In fact, he didn't plan on gaining any experience points for now. He calmly willed his status screen and first took a look at things.",
-        "______________",
         "Name: Chang Liam",
         "Species: Human being",
         "Gender: Male",
@@ -1755,14 +1754,12 @@
         "Class: N/A",
         "Health: 10/10",
         "Mana: 10/10",
-        "______________",
         "Stamina: 2",
         "Intellect: 2",
         "Strength: 2",
         "Defense: 2",
         "Vitality: 2",
         "Agility: 2",
-        "______________",
         "Ha Ha Ha! Liam chuckled at the sight of his familiar pathetic starting stats and quickly closed the screen.",
         "The beginner stats ranged from 0 to 20 depending on each individual's prior condition.",
         "Liam being very malnourished and his current body lacking any physical training, it was no surprise that his starting attributes were all on the lower side.",
@@ -1830,440 +1827,425 @@
         {
           "id": 5,
           "paragraph_id": 2,
-          "text": "______________"
+          "text": "Name: Chang Liam"
         },
         {
           "id": 6,
           "paragraph_id": 3,
-          "text": "Name: Chang Liam"
+          "text": "Species: Human being"
         },
         {
           "id": 7,
           "paragraph_id": 4,
-          "text": "Species: Human being"
+          "text": "Gender: Male"
         },
         {
           "id": 8,
           "paragraph_id": 5,
-          "text": "Gender: Male"
+          "text": "Level: 1 [0/200]"
         },
         {
           "id": 9,
           "paragraph_id": 6,
-          "text": "Level: 1 [0/200]"
+          "text": "Title: N/A"
         },
         {
           "id": 10,
           "paragraph_id": 7,
-          "text": "Title: N/A"
+          "text": "Class: N/A"
         },
         {
           "id": 11,
           "paragraph_id": 8,
-          "text": "Class: N/A"
+          "text": "Health: 10/10"
         },
         {
           "id": 12,
           "paragraph_id": 9,
-          "text": "Health: 10/10"
+          "text": "Mana: 10/10"
         },
         {
           "id": 13,
           "paragraph_id": 10,
-          "text": "Mana: 10/10"
+          "text": "Stamina: 2"
         },
         {
           "id": 14,
           "paragraph_id": 11,
-          "text": "______________"
+          "text": "Intellect: 2"
         },
         {
           "id": 15,
           "paragraph_id": 12,
-          "text": "Stamina: 2"
+          "text": "Strength: 2"
         },
         {
           "id": 16,
           "paragraph_id": 13,
-          "text": "Intellect: 2"
+          "text": "Defense: 2"
         },
         {
           "id": 17,
           "paragraph_id": 14,
-          "text": "Strength: 2"
+          "text": "Vitality: 2"
         },
         {
           "id": 18,
           "paragraph_id": 15,
-          "text": "Defense: 2"
+          "text": "Agility: 2"
         },
         {
           "id": 19,
           "paragraph_id": 16,
-          "text": "Vitality: 2"
+          "text": "Ha Ha Ha!"
         },
         {
           "id": 20,
-          "paragraph_id": 17,
-          "text": "Agility: 2"
+          "paragraph_id": 16,
+          "text": "Liam chuckled at the sight of his familiar pathetic starting stats and quickly closed the screen."
         },
         {
           "id": 21,
-          "paragraph_id": 18,
-          "text": "______________"
+          "paragraph_id": 17,
+          "text": "The beginner stats ranged from 0 to 20 depending on each individual's prior condition."
         },
         {
           "id": 22,
-          "paragraph_id": 19,
-          "text": "Ha Ha Ha!"
+          "paragraph_id": 18,
+          "text": "Liam being very malnourished and his current body lacking any physical training, it was no surprise that his starting attributes were all on the lower side."
         },
         {
           "id": 23,
           "paragraph_id": 19,
-          "text": "Liam chuckled at the sight of his familiar pathetic starting stats and quickly closed the screen."
+          "text": "After all, he had started with the same stats last time as well, but the difference was that he now knew what to do."
         },
         {
           "id": 24,
           "paragraph_id": 20,
-          "text": "The beginner stats ranged from 0 to 20 depending on each individual's prior condition."
+          "text": "This small difference in abilities at the start might not seem much but ultimately it slowed you down and pushed you to the bottom, even before the game began."
         },
         {
           "id": 25,
           "paragraph_id": 21,
-          "text": "Liam being very malnourished and his current body lacking any physical training, it was no surprise that his starting attributes were all on the lower side."
-        },
-        {
-          "id": 26,
-          "paragraph_id": 22,
-          "text": "After all, he had started with the same stats last time as well, but the difference was that he now knew what to do."
-        },
-        {
-          "id": 27,
-          "paragraph_id": 23,
-          "text": "This small difference in abilities at the start might not seem much but ultimately it slowed you down and pushed you to the bottom, even before the game began."
-        },
-        {
-          "id": 28,
-          "paragraph_id": 24,
           "text": "Liam shook his head sighing and then opened his inventory."
         },
         {
-          "id": 29,
-          "paragraph_id": 24,
+          "id": 26,
+          "paragraph_id": 21,
           "text": "There was a worn out pair of pants, a shabby looking mismatched pair of shoes, a sleeveless shirt, ripped here there, and lastly a rusted long sword."
         },
         {
-          "id": 30,
-          "paragraph_id": 25,
+          "id": 27,
+          "paragraph_id": 22,
           "text": "These were the beginner items that were uniformly given to all players on entering the game, all Level 1 and all pretty much useless."
         },
         {
-          "id": 31,
-          "paragraph_id": 26,
+          "id": 28,
+          "paragraph_id": 23,
           "text": "But since Liam was currently in his underpants, he still took these trash items and equipped everything."
         },
         {
-          "id": 32,
-          "paragraph_id": 26,
+          "id": 29,
+          "paragraph_id": 23,
           "text": "The three items of clothing each gave 1 defense point and his previous 2 defense immediately went up by 3 points."
         },
         {
-          "id": 33,
-          "paragraph_id": 27,
+          "id": 30,
+          "paragraph_id": 24,
           "text": "This boost wasn't really that much but roaming around half-naked sometimes ticked off certain NPCs and Liam couldn't possibly remember each and every single NPC's characteristics."
+        },
+        {
+          "id": 31,
+          "paragraph_id": 24,
+          "text": "So to be on the safer side, he threw everything on."
+        },
+        {
+          "id": 32,
+          "paragraph_id": 25,
+          "text": "After the issue of clothing was resolved, Liam then opened the map feature to check where he was."
+        },
+        {
+          "id": 33,
+          "paragraph_id": 26,
+          "text": "Beginner players typically spawned in novice villages that were on the outskirts of towns and cities and Liam had spawned in Coldwater village."
         },
         {
           "id": 34,
           "paragraph_id": 27,
-          "text": "So to be on the safer side, he threw everything on."
-        },
-        {
-          "id": 35,
-          "paragraph_id": 28,
-          "text": "After the issue of clothing was resolved, Liam then opened the map feature to check where he was."
-        },
-        {
-          "id": 36,
-          "paragraph_id": 29,
-          "text": "Beginner players typically spawned in novice villages that were on the outskirts of towns and cities and Liam had spawned in Coldwater village."
-        },
-        {
-          "id": 37,
-          "paragraph_id": 30,
           "text": "It was a small village without many resources in the northern part of the Gresh Kingdom."
         },
         {
-          "id": 38,
-          "paragraph_id": 30,
+          "id": 35,
+          "paragraph_id": 27,
           "text": "\"Hmmm..."
         },
         {
-          "id": 39,
-          "paragraph_id": 30,
+          "id": 36,
+          "paragraph_id": 27,
           "text": "So an hour walk to the next town..."
         },
         {
-          "id": 40,
-          "paragraph_id": 30,
+          "id": 37,
+          "paragraph_id": 27,
           "text": "Alright."
         },
         {
-          "id": 41,
-          "paragraph_id": 30,
+          "id": 38,
+          "paragraph_id": 27,
           "text": "Let me start.\""
         },
         {
-          "id": 42,
-          "paragraph_id": 31,
+          "id": 39,
+          "paragraph_id": 28,
           "text": "Of course, it was also possible to reach the next town in a much shorter time but Liam took the roundabout main route frequented by villagers and merchants."
         },
         {
-          "id": 43,
-          "paragraph_id": 32,
+          "id": 40,
+          "paragraph_id": 29,
           "text": "He did this because he didn't want to come across any wild beasts and be forced to fight them."
         },
         {
-          "id": 44,
-          "paragraph_id": 32,
+          "id": 41,
+          "paragraph_id": 29,
           "text": "Not that he was too weak to fight these beasts."
+        },
+        {
+          "id": 42,
+          "paragraph_id": 29,
+          "text": "Rather he wanted to keep his slate clean."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 30,
+          "text": "And so, while others busily hunted for wild beasts and starter quests to increase their level, Liam alone leisurely walked over to the next town."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 31,
+          "text": "It took him a little longer than an hour, but just like he had wanted, he reached his destination without any hitch."
         },
         {
           "id": 45,
           "paragraph_id": 32,
-          "text": "Rather he wanted to keep his slate clean."
+          "text": "Thankfully, unlike cities, towns did not have any entry fees, so he was also able to smoothly walk past the town guards."
         },
         {
           "id": 46,
           "paragraph_id": 33,
-          "text": "And so, while others busily hunted for wild beasts and starter quests to increase their level, Liam alone leisurely walked over to the next town."
+          "text": "\"If I remember correctly...\" Liam paused at the entrance of the bustling town and sucked in a deep breath before he scurried along the crowded streets."
         },
         {
           "id": 47,
           "paragraph_id": 34,
-          "text": "It took him a little longer than an hour, but just like he had wanted, he reached his destination without any hitch."
+          "text": "Compared to the novice village, Basla town was a much bigger place and had several stores and vendors and even an auction house."
         },
         {
           "id": 48,
           "paragraph_id": 35,
-          "text": "Thankfully, unlike cities, towns did not have any entry fees, so he was also able to smoothly walk past the town guards."
+          "text": "Liam directly headed towards one of the more flashy buildings in the northern part of the town, the bank."
         },
         {
           "id": 49,
           "paragraph_id": 36,
-          "text": "\"If I remember correctly...\" Liam paused at the entrance of the bustling town and sucked in a deep breath before he scurried along the crowded streets."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 37,
-          "text": "Compared to the novice village, Basla town was a much bigger place and had several stores and vendors and even an auction house."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 38,
-          "text": "Liam directly headed towards one of the more flashy buildings in the northern part of the town, the bank."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 39,
           "text": "But he didn't enter inside the bank, as it required a certain reputation and fame to borrow money from the bank."
         },
         {
-          "id": 53,
-          "paragraph_id": 39,
+          "id": 50,
+          "paragraph_id": 36,
           "text": "Rather he entered a small building on the same street, just a couple of blocks away from the bank, with a sign that read 'LeeLani's Pawn Shop'."
         },
         {
-          "id": 54,
-          "paragraph_id": 40,
+          "id": 51,
+          "paragraph_id": 37,
           "text": "Inside the shop, a fat salesperson was sitting who revealed a big suspicious grin as soon as he saw Liam walking in."
         },
         {
-          "id": 55,
-          "paragraph_id": 41,
+          "id": 52,
+          "paragraph_id": 38,
           "text": "\"Hello."
         },
         {
-          "id": 56,
-          "paragraph_id": 41,
+          "id": 53,
+          "paragraph_id": 38,
           "text": "Hello."
         },
         {
-          "id": 57,
-          "paragraph_id": 41,
+          "id": 54,
+          "paragraph_id": 38,
           "text": "Good day to you, young man."
         },
         {
-          "id": 58,
-          "paragraph_id": 41,
+          "id": 55,
+          "paragraph_id": 38,
           "text": "What brings you to my small establishment this fine morning?\""
         },
         {
-          "id": 59,
-          "paragraph_id": 42,
+          "id": 56,
+          "paragraph_id": 39,
           "text": "Liam rolled his eyes and bluntly replied, without bothering with the formalities and fake niceties."
         },
         {
-          "id": 60,
-          "paragraph_id": 42,
+          "id": 57,
+          "paragraph_id": 39,
           "text": "\"I need a loan of 100 Gold coins.\""
         },
         {
-          "id": 61,
-          "paragraph_id": 43,
+          "id": 58,
+          "paragraph_id": 40,
           "text": "He knew that there was no point in trying to butter up this fatty as all the loan sharks in the game were extremely cruel and cutthroat."
         },
         {
-          "id": 62,
-          "paragraph_id": 44,
+          "id": 59,
+          "paragraph_id": 41,
           "text": "\"Oooo..."
         },
         {
-          "id": 63,
-          "paragraph_id": 44,
+          "id": 60,
+          "paragraph_id": 41,
           "text": "What a big sum for a little fella like you."
         },
         {
-          "id": 64,
-          "paragraph_id": 44,
+          "id": 61,
+          "paragraph_id": 41,
           "text": "Good."
         },
         {
-          "id": 65,
-          "paragraph_id": 44,
+          "id": 62,
+          "paragraph_id": 41,
           "text": "Good."
         },
         {
-          "id": 66,
-          "paragraph_id": 44,
+          "id": 63,
+          "paragraph_id": 41,
           "text": "Youngsters have to be ambitious!"
         },
         {
-          "id": 67,
-          "paragraph_id": 44,
+          "id": 64,
+          "paragraph_id": 41,
           "text": "I like your courage young man!\""
         },
         {
-          "id": 68,
-          "paragraph_id": 45,
+          "id": 65,
+          "paragraph_id": 42,
           "text": "\"But should I give it to you or not?"
         },
         {
-          "id": 69,
-          "paragraph_id": 45,
+          "id": 66,
+          "paragraph_id": 42,
           "text": "Hmmm...\" The shopkeeper rapped on the desk in front of him, looking at Liam up and down."
         },
         {
-          "id": 70,
-          "paragraph_id": 46,
+          "id": 67,
+          "paragraph_id": 43,
           "text": "\"Alright."
         },
         {
-          "id": 71,
-          "paragraph_id": 46,
+          "id": 68,
+          "paragraph_id": 43,
           "text": "I have decided."
         },
         {
-          "id": 72,
-          "paragraph_id": 46,
+          "id": 69,
+          "paragraph_id": 43,
           "text": "This is your lucky day."
         },
         {
-          "id": 73,
-          "paragraph_id": 46,
+          "id": 70,
+          "paragraph_id": 43,
           "text": "Though you don't look particularly reliable, I will still loan you this sum of money.\""
         },
         {
-          "id": 74,
-          "paragraph_id": 47,
+          "id": 71,
+          "paragraph_id": 44,
           "text": "What a scam!"
         },
         {
-          "id": 75,
-          "paragraph_id": 47,
+          "id": 72,
+          "paragraph_id": 44,
           "text": "Liam sneered inwardly."
         },
         {
-          "id": 76,
-          "paragraph_id": 48,
+          "id": 73,
+          "paragraph_id": 45,
           "text": "The man was spouting a lot of big nice words, but at the end of the day, it was all lies because he would just about loan anything to anyone."
         },
         {
-          "id": 77,
-          "paragraph_id": 48,
+          "id": 74,
+          "paragraph_id": 45,
           "text": "The interest rate was just that outrageous!"
         },
         {
-          "id": 78,
-          "paragraph_id": 49,
+          "id": 75,
+          "paragraph_id": 46,
           "text": "[Ding."
         },
         {
-          "id": 79,
-          "paragraph_id": 49,
+          "id": 76,
+          "paragraph_id": 46,
           "text": "Received a loan of 100 Gold coins]"
         },
         {
-          "id": 80,
-          "paragraph_id": 50,
+          "id": 77,
+          "paragraph_id": 47,
           "text": "[Ding."
         },
         {
-          "id": 81,
-          "paragraph_id": 50,
+          "id": 78,
+          "paragraph_id": 47,
           "text": "Interest: 10 Gold coins a day]"
         },
         {
-          "id": 82,
-          "paragraph_id": 51,
+          "id": 79,
+          "paragraph_id": 48,
           "text": "[Ding."
         },
         {
-          "id": 83,
-          "paragraph_id": 51,
+          "id": 80,
+          "paragraph_id": 48,
           "text": "If the full amount is not returned by the end of the week along with the interest, the player will be stripped of everything and permanently imprisoned.]"
         },
         {
-          "id": 84,
-          "paragraph_id": 52,
+          "id": 81,
+          "paragraph_id": 49,
           "text": "[Ding."
         },
         {
-          "id": 85,
-          "paragraph_id": 52,
+          "id": 82,
+          "paragraph_id": 49,
           "text": "You are the first person to receive a loan.]"
         },
         {
-          "id": 86,
-          "paragraph_id": 53,
+          "id": 83,
+          "paragraph_id": 50,
           "text": "[Ding."
         },
         {
-          "id": 87,
-          "paragraph_id": 53,
+          "id": 84,
+          "paragraph_id": 50,
           "text": "You have obtained the title 'Rolling in Debt']"
         },
         {
-          "id": 88,
-          "paragraph_id": 54,
+          "id": 85,
+          "paragraph_id": 51,
           "text": "[Rolling in Debt: When the title is equipped, it gives a 5% bonus on auction house settlements]"
         },
         {
-          "id": 89,
-          "paragraph_id": 55,
+          "id": 86,
+          "paragraph_id": 52,
           "text": "Liam stared at the notifications not knowing whether to laugh or cry."
         },
         {
-          "id": 90,
-          "paragraph_id": 55,
+          "id": 87,
+          "paragraph_id": 52,
           "text": "Even though the title hit a little too close to home, he was still happy with the small surprise bonus.."
         },
         {
-          "id": 91,
-          "paragraph_id": 55,
+          "id": 88,
+          "paragraph_id": 52,
           "text": "He chuckled wryly and left the pawnshop."
         }
       ],
-      "word_count": 993
+      "word_count": 990
     },
     {
       "chapter_index": 6,
@@ -2668,7 +2650,6 @@
         "His pitch black eyes looked unfathomably deep. Lana gulped without realizing that she was openly ogling at the young man.",
         "She wanted to ask him how he had done it, but unfortunately, he had already walked out, only his back visible at a distance now.",
         "Liam summoned his status screen to look at his basic stats again.",
-        "______________",
         "Name: Chang Liam",
         "Species: Human being",
         "Gender: Male",
@@ -2677,14 +2658,12 @@
         "Class: N/A",
         "Health: 50/50",
         "Mana: 70/70",
-        "______________",
         "Stamina: 10",
         "Intellect: 14",
         "Strength: 10",
         "Defense: 11",
         "Vitality: 13",
         "Agility: 12",
-        "______________",
         "\"Hmm... Not bad, but I can do better.\" Liam clicked his tongue and walked over to his next destination which was the main training hall of the town.",
         "Though this place was far less crowded than the novice village, the training hall still had a lot of people coming in and going out.",
         "There were also several players on the ground in front of the tall rectangular brick wall building, attacking scarecrows relentlessly using all sorts of weapons and even basic magic spells.",
@@ -2840,180 +2819,165 @@
         {
           "id": 27,
           "paragraph_id": 20,
-          "text": "______________"
+          "text": "Name: Chang Liam"
         },
         {
           "id": 28,
           "paragraph_id": 21,
-          "text": "Name: Chang Liam"
+          "text": "Species: Human being"
         },
         {
           "id": 29,
           "paragraph_id": 22,
-          "text": "Species: Human being"
+          "text": "Gender: Male"
         },
         {
           "id": 30,
           "paragraph_id": 23,
-          "text": "Gender: Male"
+          "text": "Level: 1 [0/200]"
         },
         {
           "id": 31,
           "paragraph_id": 24,
-          "text": "Level: 1 [0/200]"
+          "text": "Title: Rolling in Debt"
         },
         {
           "id": 32,
           "paragraph_id": 25,
-          "text": "Title: Rolling in Debt"
+          "text": "Class: N/A"
         },
         {
           "id": 33,
           "paragraph_id": 26,
-          "text": "Class: N/A"
+          "text": "Health: 50/50"
         },
         {
           "id": 34,
           "paragraph_id": 27,
-          "text": "Health: 50/50"
+          "text": "Mana: 70/70"
         },
         {
           "id": 35,
           "paragraph_id": 28,
-          "text": "Mana: 70/70"
+          "text": "Stamina: 10"
         },
         {
           "id": 36,
           "paragraph_id": 29,
-          "text": "______________"
+          "text": "Intellect: 14"
         },
         {
           "id": 37,
           "paragraph_id": 30,
-          "text": "Stamina: 10"
+          "text": "Strength: 10"
         },
         {
           "id": 38,
           "paragraph_id": 31,
-          "text": "Intellect: 14"
+          "text": "Defense: 11"
         },
         {
           "id": 39,
           "paragraph_id": 32,
-          "text": "Strength: 10"
+          "text": "Vitality: 13"
         },
         {
           "id": 40,
           "paragraph_id": 33,
-          "text": "Defense: 11"
+          "text": "Agility: 12"
         },
         {
           "id": 41,
           "paragraph_id": 34,
-          "text": "Vitality: 13"
+          "text": "\"Hmm..."
         },
         {
           "id": 42,
-          "paragraph_id": 35,
-          "text": "Agility: 12"
+          "paragraph_id": 34,
+          "text": "Not bad, but I can do better.\" Liam clicked his tongue and walked over to his next destination which was the main training hall of the town."
         },
         {
           "id": 43,
-          "paragraph_id": 36,
-          "text": "______________"
+          "paragraph_id": 35,
+          "text": "Though this place was far less crowded than the novice village, the training hall still had a lot of people coming in and going out."
         },
         {
           "id": 44,
-          "paragraph_id": 37,
-          "text": "\"Hmm..."
+          "paragraph_id": 36,
+          "text": "There were also several players on the ground in front of the tall rectangular brick wall building, attacking scarecrows relentlessly using all sorts of weapons and even basic magic spells."
         },
         {
           "id": 45,
           "paragraph_id": 37,
-          "text": "Not bad, but I can do better.\" Liam clicked his tongue and walked over to his next destination which was the main training hall of the town."
+          "text": "This space was meant for learning and practicing basic skills from the instructors of the training hall, but some people stayed longer than necessary and repeated the same set of actions over and over again."
         },
         {
           "id": 46,
           "paragraph_id": 38,
-          "text": "Though this place was far less crowded than the novice village, the training hall still had a lot of people coming in and going out."
+          "text": "This was admittedly one of the strategies to gain bonus stat points, but albeit a very time-consuming and boring one."
         },
         {
           "id": 47,
           "paragraph_id": 39,
-          "text": "There were also several players on the ground in front of the tall rectangular brick wall building, attacking scarecrows relentlessly using all sorts of weapons and even basic magic spells."
+          "text": "For instance, if one swung a sword continuously a hundred times or a thousand times stretching out their stamina almost until it broke, it was possible to get 1 or 2 stat point boosts for stamina."
         },
         {
           "id": 48,
           "paragraph_id": 40,
-          "text": "This space was meant for learning and practicing basic skills from the instructors of the training hall, but some people stayed longer than necessary and repeated the same set of actions over and over again."
+          "text": "However, to receive this benefit again, they would have to swing their sword a million times for the next stat boost reward."
         },
         {
           "id": 49,
           "paragraph_id": 41,
-          "text": "This was admittedly one of the strategies to gain bonus stat points, but albeit a very time-consuming and boring one."
+          "text": "So ultimately, it was not an efficient way to spend one's time, but some perfectionists still preferred fighting for every bit of advantage that they could grasp."
         },
         {
           "id": 50,
           "paragraph_id": 42,
-          "text": "For instance, if one swung a sword continuously a hundred times or a thousand times stretching out their stamina almost until it broke, it was possible to get 1 or 2 stat point boosts for stamina."
+          "text": "Liam even spotted a couple of women in the group who were swinging their swords without taking a breather."
         },
         {
           "id": 51,
           "paragraph_id": 43,
-          "text": "However, to receive this benefit again, they would have to swing their sword a million times for the next stat boost reward."
+          "text": "At this point in the game, women were truly very rare so he couldn't help but give them a glance before turning his attention back to the instructor who was sitting at the corner on a wooden chair, with a stick on his lap."
         },
         {
           "id": 52,
           "paragraph_id": 44,
-          "text": "So ultimately, it was not an efficient way to spend one's time, but some perfectionists still preferred fighting for every bit of advantage that they could grasp."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 45,
-          "text": "Liam even spotted a couple of women in the group who were swinging their swords without taking a breather."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 46,
-          "text": "At this point in the game, women were truly very rare so he couldn't help but give them a glance before turning his attention back to the instructor who was sitting at the corner on a wooden chair, with a stick on his lap."
-        },
-        {
-          "id": 55,
-          "paragraph_id": 47,
           "text": "As soon as Liam's gaze fell on the middle-aged man, the man's eyes also swept over to him, meeting his gaze."
         },
         {
-          "id": 56,
-          "paragraph_id": 47,
+          "id": 53,
+          "paragraph_id": 44,
           "text": "Instantly a domineering aura seeped from his body."
         },
         {
-          "id": 57,
-          "paragraph_id": 48,
+          "id": 54,
+          "paragraph_id": 45,
           "text": "Other players might have been at least slightly intimidated by such a strong violent aura, but Liam simply nodded at the instructor and walked over to one of the empty spaces on the ground in front of the training hall building."
         },
         {
-          "id": 58,
-          "paragraph_id": 49,
+          "id": 55,
+          "paragraph_id": 46,
           "text": "He, of course, did not plan on doing the mundane exercises which others were doing."
         },
         {
-          "id": 59,
-          "paragraph_id": 49,
+          "id": 56,
+          "paragraph_id": 46,
           "text": "There was no use chasing over every single stat point."
         },
         {
-          "id": 60,
-          "paragraph_id": 50,
+          "id": 57,
+          "paragraph_id": 47,
           "text": "He had a lot more important things to accomplish before his time ran out!"
         },
         {
-          "id": 61,
-          "paragraph_id": 51,
+          "id": 58,
+          "paragraph_id": 48,
           "text": "He placed the rusted sword he was carrying back into his inventory and then took a deep breath before slowly starting to perform a series of movements."
         }
       ],
-      "word_count": 943
+      "word_count": 940
     },
     {
       "chapter_index": 8,
@@ -3713,7 +3677,6 @@
         "Though his appearance was still similar, all the imperfections had been erased out, leaving behind a flawless body.",
         "Liam who once looked like a cowardly stray dog, now had the charm and charisma of an immortal from the heavens.",
         "\"Status window.\"",
-        "______________",
         "Name: Liam",
         "Species: Human being",
         "Gender: Male",
@@ -3722,14 +3685,12 @@
         "Class: N/A",
         "Health: 150/150",
         "Mana: 250/250",
-        "______________",
         "Stamina: 50",
         "Intellect: 50",
         "Strength: 50",
         "Defense: 50",
         "Vitality: 50",
         "Agility: 50",
-        "______________",
         "Liam clicked his tongue in satisfaction. \"This is what I call a perfect opening.\"",
         "He grinned wildly, even though everyone else standing in the training ground looked at him, utterly shocked, unable to grasp what had just happened.",
         "The fool who had been doing random movements and weird poses had suddenly received a mysterious quest and had undergone some sort of magical transformation.",
@@ -3874,255 +3835,240 @@
         {
           "id": 24,
           "paragraph_id": 17,
-          "text": "______________"
+          "text": "Name: Liam"
         },
         {
           "id": 25,
           "paragraph_id": 18,
-          "text": "Name: Liam"
+          "text": "Species: Human being"
         },
         {
           "id": 26,
           "paragraph_id": 19,
-          "text": "Species: Human being"
+          "text": "Gender: Male"
         },
         {
           "id": 27,
           "paragraph_id": 20,
-          "text": "Gender: Male"
+          "text": "Level: 1 [0/200]"
         },
         {
           "id": 28,
           "paragraph_id": 21,
-          "text": "Level: 1 [0/200]"
+          "text": "Title: Rolling in Debt"
         },
         {
           "id": 29,
           "paragraph_id": 22,
-          "text": "Title: Rolling in Debt"
+          "text": "Class: N/A"
         },
         {
           "id": 30,
           "paragraph_id": 23,
-          "text": "Class: N/A"
+          "text": "Health: 150/150"
         },
         {
           "id": 31,
           "paragraph_id": 24,
-          "text": "Health: 150/150"
+          "text": "Mana: 250/250"
         },
         {
           "id": 32,
           "paragraph_id": 25,
-          "text": "Mana: 250/250"
+          "text": "Stamina: 50"
         },
         {
           "id": 33,
           "paragraph_id": 26,
-          "text": "______________"
+          "text": "Intellect: 50"
         },
         {
           "id": 34,
           "paragraph_id": 27,
-          "text": "Stamina: 50"
+          "text": "Strength: 50"
         },
         {
           "id": 35,
           "paragraph_id": 28,
-          "text": "Intellect: 50"
+          "text": "Defense: 50"
         },
         {
           "id": 36,
           "paragraph_id": 29,
-          "text": "Strength: 50"
+          "text": "Vitality: 50"
         },
         {
           "id": 37,
           "paragraph_id": 30,
-          "text": "Defense: 50"
+          "text": "Agility: 50"
         },
         {
           "id": 38,
           "paragraph_id": 31,
-          "text": "Vitality: 50"
+          "text": "Liam clicked his tongue in satisfaction."
         },
         {
           "id": 39,
-          "paragraph_id": 32,
-          "text": "Agility: 50"
+          "paragraph_id": 31,
+          "text": "\"This is what I call a perfect opening.\""
         },
         {
           "id": 40,
-          "paragraph_id": 33,
-          "text": "______________"
+          "paragraph_id": 32,
+          "text": "He grinned wildly, even though everyone else standing in the training ground looked at him, utterly shocked, unable to grasp what had just happened."
         },
         {
           "id": 41,
-          "paragraph_id": 34,
-          "text": "Liam clicked his tongue in satisfaction."
+          "paragraph_id": 33,
+          "text": "The fool who had been doing random movements and weird poses had suddenly received a mysterious quest and had undergone some sort of magical transformation."
         },
         {
           "id": 42,
           "paragraph_id": 34,
-          "text": "\"This is what I call a perfect opening.\""
+          "text": "They could even feel a domineering violent aura surging from him, an aura reeking of pure strength and power!"
         },
         {
           "id": 43,
           "paragraph_id": 35,
-          "text": "He grinned wildly, even though everyone else standing in the training ground looked at him, utterly shocked, unable to grasp what had just happened."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 36,
-          "text": "The fool who had been doing random movements and weird poses had suddenly received a mysterious quest and had undergone some sort of magical transformation."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 37,
-          "text": "They could even feel a domineering violent aura surging from him, an aura reeking of pure strength and power!"
-        },
-        {
-          "id": 46,
-          "paragraph_id": 38,
           "text": "But unfortunately, they were all only worthless bystanders."
         },
         {
-          "id": 47,
-          "paragraph_id": 38,
+          "id": 44,
+          "paragraph_id": 35,
           "text": "They could only watch on with their jaws on the floor as the mind-blowing scene continued to unfold in front of them."
         },
         {
-          "id": 48,
-          "paragraph_id": 39,
+          "id": 45,
+          "paragraph_id": 36,
           "text": "\"Ah!"
         },
         {
-          "id": 49,
-          "paragraph_id": 39,
+          "id": 46,
+          "paragraph_id": 36,
           "text": "You are indeed a genius!\" The instructor clapped his hands, his eyes shimmering with admiration."
         },
         {
-          "id": 50,
-          "paragraph_id": 40,
+          "id": 47,
+          "paragraph_id": 37,
           "text": "\"Thank you, senior."
         },
         {
-          "id": 51,
-          "paragraph_id": 40,
+          "id": 48,
+          "paragraph_id": 37,
           "text": "Could you please also help me in choosing a class?\" Liam casually asked, picking back up his rusted sword from the ground."
         },
         {
-          "id": 52,
-          "paragraph_id": 41,
+          "id": 49,
+          "paragraph_id": 38,
           "text": "The two of them then chatted and walked into the training hall, leaving behind everyone dumbfounded."
         },
         {
-          "id": 53,
-          "paragraph_id": 41,
+          "id": 50,
+          "paragraph_id": 38,
           "text": "What the hell just happened?"
         },
         {
-          "id": 54,
-          "paragraph_id": 41,
+          "id": 51,
+          "paragraph_id": 38,
           "text": "The game just started right?"
         },
         {
-          "id": 55,
-          "paragraph_id": 42,
+          "id": 52,
+          "paragraph_id": 39,
           "text": "\"Woooah!"
         },
         {
-          "id": 56,
-          "paragraph_id": 42,
+          "id": 53,
+          "paragraph_id": 39,
           "text": "Sis, did you see that???\" Rey banged his fist into his palm."
         },
         {
-          "id": 57,
-          "paragraph_id": 43,
+          "id": 54,
+          "paragraph_id": 40,
           "text": "\"I have eyes, Rey and I am standing right next to you."
         },
         {
-          "id": 58,
-          "paragraph_id": 43,
+          "id": 55,
+          "paragraph_id": 40,
           "text": "What do you think?\" Mia absent-mindedly muttered."
         },
         {
-          "id": 59,
-          "paragraph_id": 44,
+          "id": 56,
+          "paragraph_id": 41,
           "text": "\"Ah."
         },
         {
-          "id": 60,
-          "paragraph_id": 44,
+          "id": 57,
+          "paragraph_id": 41,
           "text": "Alright."
         },
         {
-          "id": 61,
-          "paragraph_id": 44,
+          "id": 58,
+          "paragraph_id": 41,
           "text": "Come let's follow him and see what class he chooses."
+        },
+        {
+          "id": 59,
+          "paragraph_id": 41,
+          "text": "Maybe he will get offered a special hidden class?\""
+        },
+        {
+          "id": 60,
+          "paragraph_id": 42,
+          "text": "The three walked into the training hall just in time, as the instructor signaled something to the guards standing nearby and the doors of the training hall were tightly banged shut the next instant."
+        },
+        {
+          "id": 61,
+          "paragraph_id": 43,
+          "text": "\"What the hell?\""
         },
         {
           "id": 62,
           "paragraph_id": 44,
-          "text": "Maybe he will get offered a special hidden class?\""
+          "text": "\"Come on."
         },
         {
           "id": 63,
-          "paragraph_id": 45,
-          "text": "The three walked into the training hall just in time, as the instructor signaled something to the guards standing nearby and the doors of the training hall were tightly banged shut the next instant."
+          "paragraph_id": 44,
+          "text": "Let us inside!\""
         },
         {
           "id": 64,
-          "paragraph_id": 46,
-          "text": "\"What the hell?\""
+          "paragraph_id": 45,
+          "text": "\"What is with this special treatment?\""
         },
         {
           "id": 65,
-          "paragraph_id": 47,
-          "text": "\"Come on."
+          "paragraph_id": 46,
+          "text": "A few voices slipped in from outside but they only fell on deaf ears as the guards expressionlessly bolted the doors without caring about the players gathered outside."
         },
         {
           "id": 66,
           "paragraph_id": 47,
-          "text": "Let us inside!\""
+          "text": "\"Just miss!\" Rey wiped the sweat off of his forehead as the three of them walked behind Liam and the instructor, who were heading towards the testing center in the training hall."
         },
         {
           "id": 67,
           "paragraph_id": 48,
-          "text": "\"What is with this special treatment?\""
-        },
-        {
-          "id": 68,
-          "paragraph_id": 49,
-          "text": "A few voices slipped in from outside but they only fell on deaf ears as the guards expressionlessly bolted the doors without caring about the players gathered outside."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 50,
-          "text": "\"Just miss!\" Rey wiped the sweat off of his forehead as the three of them walked behind Liam and the instructor, who were heading towards the testing center in the training hall."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 51,
           "text": "Of course, there were already some players loitering around the training hall who had come earlier for testing their aptitude and choosing a class."
         },
         {
-          "id": 71,
-          "paragraph_id": 51,
+          "id": 68,
+          "paragraph_id": 48,
           "text": "So it was not a complete lockdown, albeit it helped in stopping more crowds from gathering."
         },
         {
-          "id": 72,
-          "paragraph_id": 52,
+          "id": 69,
+          "paragraph_id": 49,
           "text": "Liam, however, did not concern himself with these things.."
         },
         {
-          "id": 73,
-          "paragraph_id": 52,
+          "id": 70,
+          "paragraph_id": 49,
           "text": "With everything he had planned, it was almost impossible for him to keep a low profile and he didn't have the time to worry about all these unnecessary details."
         }
       ],
-      "word_count": 848
+      "word_count": 845
     },
     {
       "chapter_index": 11,
@@ -4167,7 +4113,7 @@
         "[Ding. Class Recommendation: N/A]",
         "Liam's eyes bulged as if they were about to pop out of the socket. He knew that he was going to get good results, but what the hell was this???",
         "Even the class recommendation came out as not available?",
-        "\"Did I just break the system....?\""
+        "\"Did I just break the system...?\""
       ],
       "sentences": [
         {
@@ -4463,7 +4409,7 @@
         {
           "id": 58,
           "paragraph_id": 38,
-          "text": "\"Did I just break the system....?\""
+          "text": "\"Did I just break the system...?\""
         }
       ],
       "word_count": 939
@@ -5382,7 +5328,6 @@
         "\"Must be some rich sucker who has a death wish. Bish money can't save you in the game!\"",
         "\"Leader, we should teach him a good lesson while we are at it. Camp at the grave and wait for him to get more in-game gold and kill him again and again!\"",
         "\"Ke Ke Ke! How many times do you think he will end up recharging before finally giving up and uninstalling the game? Ke Ke Ke!\"",
-        ".....",
         "Note: Physical Attack power is directly proportional to the Strength attribute and the boost from weapon is in addition to this. (in this case: +10)"
       ],
       "sentences": [
@@ -5714,15 +5659,10 @@
         {
           "id": 65,
           "paragraph_id": 33,
-          "text": "....."
-        },
-        {
-          "id": 66,
-          "paragraph_id": 34,
           "text": "Note: Physical Attack power is directly proportional to the Strength attribute and the boost from weapon is in addition to this. (in this case: +10)"
         }
       ],
-      "word_count": 916
+      "word_count": 915
     },
     {
       "chapter_index": 15,
@@ -6106,10 +6046,7 @@
         "[Ding. 50 Bonus Experience points gained due to the level difference]",
         "[Ding. 50 Experience points gained]",
         "[Ding. 50 Bonus Experience points gained due to the level difference]",
-        "[Ding. You have leveled up]",
-        "...",
-        "...",
-        "..."
+        "[Ding. You have leveled up]"
       ],
       "sentences": [
         {
@@ -6491,24 +6428,9 @@
           "id": 75,
           "paragraph_id": 47,
           "text": "You have leveled up]"
-        },
-        {
-          "id": 76,
-          "paragraph_id": 48,
-          "text": "..."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 49,
-          "text": "..."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 50,
-          "text": "..."
         }
       ],
-      "word_count": 943
+      "word_count": 940
     },
     {
       "chapter_index": 17,
@@ -9680,9 +9602,6 @@
         "[Ding. 10 Bonus Experience points gained]",
         "[Ding. 10 Experience points gained]",
         "[Ding. 10 Bonus Experience points gained]",
-        "...",
-        "...",
-        "...",
         "One of the ravens dropped a skill book this time which Liam bent down and picked up.",
         "\"What is it, bro?\" Rey asked excitedly, but to his disappointment, it was only a holy heal spellbook.",
         "\"You have this skill?\" Liam asked Mia and she nodded silently. He then turned and tossed the book to Alex. \"You should also learn it.\"",
@@ -10012,225 +9931,210 @@
         {
           "id": 61,
           "paragraph_id": 29,
-          "text": "..."
+          "text": "One of the ravens dropped a skill book this time which Liam bent down and picked up."
         },
         {
           "id": 62,
           "paragraph_id": 30,
-          "text": "..."
+          "text": "\"What is it, bro?\" Rey asked excitedly, but to his disappointment, it was only a holy heal spellbook."
         },
         {
           "id": 63,
           "paragraph_id": 31,
-          "text": "..."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 32,
-          "text": "One of the ravens dropped a skill book this time which Liam bent down and picked up."
-        },
-        {
-          "id": 65,
-          "paragraph_id": 33,
-          "text": "\"What is it, bro?\" Rey asked excitedly, but to his disappointment, it was only a holy heal spellbook."
-        },
-        {
-          "id": 66,
-          "paragraph_id": 34,
           "text": "\"You have this skill?\" Liam asked Mia and she nodded silently."
         },
         {
-          "id": 67,
-          "paragraph_id": 34,
+          "id": 64,
+          "paragraph_id": 31,
           "text": "He then turned and tossed the book to Alex."
         },
         {
-          "id": 68,
-          "paragraph_id": 34,
+          "id": 65,
+          "paragraph_id": 31,
           "text": "\"You should also learn it.\""
         },
         {
-          "id": 69,
-          "paragraph_id": 35,
+          "id": 66,
+          "paragraph_id": 32,
           "text": "\"Why would a paladin need a heal skill?\" Alex frowned."
         },
         {
-          "id": 70,
-          "paragraph_id": 35,
+          "id": 67,
+          "paragraph_id": 32,
           "text": "She was still sulking about the fact that he was much stronger and skilled than them."
         },
         {
-          "id": 71,
-          "paragraph_id": 36,
+          "id": 68,
+          "paragraph_id": 33,
           "text": "\"Your choice.\" Liam did not engage her and wiped the blood off of his sword, preparing for the next attack which was about to hit them any time now."
         },
         {
-          "id": 72,
-          "paragraph_id": 37,
+          "id": 69,
+          "paragraph_id": 34,
           "text": "He took out a violet colored fruit from his inventory and munched on it."
         },
         {
-          "id": 73,
-          "paragraph_id": 37,
+          "id": 70,
+          "paragraph_id": 34,
           "text": "\"Another wave incoming."
         },
         {
-          "id": 74,
-          "paragraph_id": 37,
+          "id": 71,
+          "paragraph_id": 34,
           "text": "Recover your mana and stamina quickly.\""
         },
         {
-          "id": 75,
-          "paragraph_id": 38,
+          "id": 72,
+          "paragraph_id": 35,
           "text": "Alex gripped her shield tightly wanting to bash it on the back of his head."
         },
         {
-          "id": 76,
-          "paragraph_id": 38,
+          "id": 73,
+          "paragraph_id": 35,
           "text": "What a hateful guy!"
         },
         {
-          "id": 77,
-          "paragraph_id": 39,
+          "id": 74,
+          "paragraph_id": 36,
           "text": "\"10 again this time,\" Liam shouted as the trees began to rustle and another group of ravens flew towards them."
         },
         {
-          "id": 78,
-          "paragraph_id": 39,
+          "id": 75,
+          "paragraph_id": 36,
           "text": "\"5 each."
         },
         {
-          "id": 79,
-          "paragraph_id": 39,
+          "id": 76,
+          "paragraph_id": 36,
           "text": "Same as last time.\""
         },
         {
-          "id": 80,
-          "paragraph_id": 40,
+          "id": 77,
+          "paragraph_id": 37,
           "text": "He swung his sword, prepared to jump into the battle, but suddenly, he froze."
         },
         {
-          "id": 81,
-          "paragraph_id": 40,
+          "id": 78,
+          "paragraph_id": 37,
           "text": "Liam almost couldn't believe what he was seeing."
         },
         {
-          "id": 82,
-          "paragraph_id": 40,
+          "id": 79,
+          "paragraph_id": 37,
           "text": "Something that he did not expect to happen."
         },
         {
-          "id": 83,
-          "paragraph_id": 41,
+          "id": 80,
+          "paragraph_id": 38,
           "text": "Instead of the norm, the 10 birds mob, a mob of 20 black ravens shot towards them like sharp arrows!"
         },
         {
-          "id": 84,
-          "paragraph_id": 42,
+          "id": 81,
+          "paragraph_id": 39,
           "text": "Hmmm..."
         },
         {
-          "id": 85,
-          "paragraph_id": 42,
+          "id": 82,
+          "paragraph_id": 39,
           "text": "Liam's eyes widened in realization."
         },
         {
-          "id": 86,
-          "paragraph_id": 42,
+          "id": 83,
+          "paragraph_id": 39,
           "text": "He knew that this had something to do with the special objects he had collected from the dragon's lair."
         },
         {
-          "id": 87,
-          "paragraph_id": 43,
+          "id": 84,
+          "paragraph_id": 40,
           "text": "He snapped out of his shock and immediately shouted again."
         },
         {
-          "id": 88,
-          "paragraph_id": 43,
+          "id": 85,
+          "paragraph_id": 40,
           "text": "\"More than 10!"
+        },
+        {
+          "id": 86,
+          "paragraph_id": 40,
+          "text": "Watch out!\""
+        },
+        {
+          "id": 87,
+          "paragraph_id": 41,
+          "text": "\"Yes, I can see that genius.\" Alex angrily retorted but the man was too busy to listen to her."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 42,
+          "text": "[Awaken] Liam muttered under his breath, finally using another one of his skills."
         },
         {
           "id": 89,
           "paragraph_id": 43,
-          "text": "Watch out!\""
-        },
-        {
-          "id": 90,
-          "paragraph_id": 44,
-          "text": "\"Yes, I can see that genius.\" Alex angrily retorted but the man was too busy to listen to her."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 45,
-          "text": "[Awaken] Liam muttered under his breath, finally using another one of his skills."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 46,
           "text": "Black mist swirled around the many raven corpses littered on the mound, broken pieces of their skeleton slowly coming together."
         },
         {
-          "id": 93,
-          "paragraph_id": 46,
+          "id": 90,
+          "paragraph_id": 43,
           "text": "They bonded and fused like there was some sort of invisible glue."
         },
         {
-          "id": 94,
-          "paragraph_id": 47,
+          "id": 91,
+          "paragraph_id": 44,
           "text": "Some even had pieces of flesh and feathers stuck to it, making it extremely gory and disgusting to watch."
         },
         {
-          "id": 95,
-          "paragraph_id": 47,
+          "id": 92,
+          "paragraph_id": 44,
           "text": "Not to mention the pungent smell."
         },
         {
-          "id": 96,
-          "paragraph_id": 48,
+          "id": 93,
+          "paragraph_id": 45,
           "text": "\"What the hell?\" Alex took a step back, feeling nauseous."
         },
         {
-          "id": 97,
-          "paragraph_id": 48,
+          "id": 94,
+          "paragraph_id": 45,
           "text": "Even Mia's face was scrunched up."
         },
         {
-          "id": 98,
-          "paragraph_id": 49,
+          "id": 95,
+          "paragraph_id": 46,
           "text": "Only Rey watched the whole thing with a dazed look on his face that was full of admiration and worship."
         },
         {
-          "id": 99,
-          "paragraph_id": 49,
+          "id": 96,
+          "paragraph_id": 46,
           "text": "\"Bro!"
         },
         {
-          "id": 100,
-          "paragraph_id": 49,
+          "id": 97,
+          "paragraph_id": 46,
           "text": "How cool!"
         },
         {
-          "id": 101,
-          "paragraph_id": 49,
+          "id": 98,
+          "paragraph_id": 46,
           "text": "You got the undead skill!"
         },
         {
-          "id": 102,
-          "paragraph_id": 49,
+          "id": 99,
+          "paragraph_id": 46,
           "text": "Nice!"
         },
         {
-          "id": 103,
-          "paragraph_id": 49,
+          "id": 100,
+          "paragraph_id": 46,
           "text": "This looks freaking amazing.\" He gave Liam a thumbs up."
         },
         {
-          "id": 104,
-          "paragraph_id": 50,
+          "id": 101,
+          "paragraph_id": 47,
           "text": "Everything happened quickly and from the mess of the several corpses, three raven skeletons rose up from the ground, flapping their rotten bonny wings."
         }
       ],
-      "word_count": 1045
+      "word_count": 1042
     },
     {
       "chapter_index": 26,
@@ -10263,9 +10167,6 @@
         "[Ding. 10 Bonus Experience points gained]",
         "[Ding. 10 Experience points gained]",
         "[Ding. 10 Bonus Experience points gained]",
-        "...",
-        "...",
-        "...",
         "Experience points rained down continuously, as the entire flock of birds was just like that taken care of by a single player.",
         "[Ding. A new skill 'Sword Dance' has been created due to your actions]",
         "[Sword Dance: Each Slash of the sword deals 200% damage; A critical hit attack deals 250% damage; Cooldown: 3 minutes]",
@@ -10496,250 +10397,235 @@
         {
           "id": 40,
           "paragraph_id": 26,
-          "text": "..."
+          "text": "Experience points rained down continuously, as the entire flock of birds was just like that taken care of by a single player."
         },
         {
           "id": 41,
           "paragraph_id": 27,
-          "text": "..."
+          "text": "[Ding."
         },
         {
           "id": 42,
-          "paragraph_id": 28,
-          "text": "..."
+          "paragraph_id": 27,
+          "text": "A new skill 'Sword Dance' has been created due to your actions]"
         },
         {
           "id": 43,
-          "paragraph_id": 29,
-          "text": "Experience points rained down continuously, as the entire flock of birds was just like that taken care of by a single player."
+          "paragraph_id": 28,
+          "text": "[Sword Dance: Each Slash of the sword deals 200% damage; A critical hit attack deals 250% damage; Cooldown: 3 minutes]"
         },
         {
           "id": 44,
-          "paragraph_id": 30,
-          "text": "[Ding."
+          "paragraph_id": 29,
+          "text": "Liam smiled at the new skill, feeling exhilarated after having executed the familiar set of moves perfectly."
         },
         {
           "id": 45,
           "paragraph_id": 30,
-          "text": "A new skill 'Sword Dance' has been created due to your actions]"
-        },
-        {
-          "id": 46,
-          "paragraph_id": 31,
-          "text": "[Sword Dance: Each Slash of the sword deals 200% damage; A critical hit attack deals 250% damage; Cooldown: 3 minutes]"
-        },
-        {
-          "id": 47,
-          "paragraph_id": 32,
-          "text": "Liam smiled at the new skill, feeling exhilarated after having executed the familiar set of moves perfectly."
-        },
-        {
-          "id": 48,
-          "paragraph_id": 33,
           "text": "He didn't want to use this so soon, as revealing it might bring a lot of questions but he didn't have any other options."
         },
         {
-          "id": 49,
-          "paragraph_id": 33,
+          "id": 46,
+          "paragraph_id": 30,
           "text": "So he just went for it."
         },
         {
-          "id": 50,
-          "paragraph_id": 34,
+          "id": 47,
+          "paragraph_id": 31,
           "text": "[Awaken] Liam muttered again, this time a group of five bony undead ravens slowly rising up from the pile of corpses."
         },
         {
-          "id": 51,
-          "paragraph_id": 34,
+          "id": 48,
+          "paragraph_id": 31,
           "text": "He was already preparing for the next fight."
         },
         {
-          "id": 52,
-          "paragraph_id": 35,
+          "id": 49,
+          "paragraph_id": 32,
           "text": "Unlike him, all the three spectators stood still."
         },
         {
-          "id": 53,
-          "paragraph_id": 35,
+          "id": 50,
+          "paragraph_id": 32,
           "text": "Even Alex was stunned speechless with nothing else to say."
         },
         {
-          "id": 54,
-          "paragraph_id": 35,
+          "id": 51,
+          "paragraph_id": 32,
           "text": "She inwardly felt embarrassed to have compared both of their gameplay."
         },
         {
-          "id": 55,
-          "paragraph_id": 36,
+          "id": 52,
+          "paragraph_id": 33,
           "text": "One was like an aged wine while the other was like a cheap beer!"
         },
         {
-          "id": 56,
-          "paragraph_id": 37,
+          "id": 53,
+          "paragraph_id": 34,
           "text": "Liam turned to look at them and saw the worshipping look in their eyes."
         },
         {
-          "id": 57,
-          "paragraph_id": 37,
+          "id": 54,
+          "paragraph_id": 34,
           "text": "Heh."
         },
         {
-          "id": 58,
-          "paragraph_id": 37,
+          "id": 55,
+          "paragraph_id": 34,
           "text": "He chuckled inwardly."
         },
         {
-          "id": 59,
-          "paragraph_id": 37,
+          "id": 56,
+          "paragraph_id": 34,
           "text": "He was not used to being looked at in this manner."
         },
         {
-          "id": 60,
-          "paragraph_id": 38,
+          "id": 57,
+          "paragraph_id": 35,
           "text": "He ruffled his head and muttered, returning back to dig through the pile of corpses."
         },
         {
-          "id": 61,
-          "paragraph_id": 38,
+          "id": 58,
+          "paragraph_id": 35,
           "text": "\"You should stop daydreaming and get back up."
+        },
+        {
+          "id": 59,
+          "paragraph_id": 35,
+          "text": "The next group will soon be here.\""
+        },
+        {
+          "id": 60,
+          "paragraph_id": 36,
+          "text": "The haul this time was quite good and the birds had dropped two skill books and one crossbow with good stats."
+        },
+        {
+          "id": 61,
+          "paragraph_id": 37,
+          "text": "\"Check this out.\" Liam threw the crossbow at Rey."
         },
         {
           "id": 62,
           "paragraph_id": 38,
-          "text": "The next group will soon be here.\""
-        },
-        {
-          "id": 63,
-          "paragraph_id": 39,
-          "text": "The haul this time was quite good and the birds had dropped two skill books and one crossbow with good stats."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 40,
-          "text": "\"Check this out.\" Liam threw the crossbow at Rey."
-        },
-        {
-          "id": 65,
-          "paragraph_id": 41,
           "text": "\"Hey."
         },
         {
-          "id": 66,
-          "paragraph_id": 41,
+          "id": 63,
+          "paragraph_id": 38,
           "text": "How do you know all of this?\" Alex asked, ignoring the equipment that was tossed."
         },
         {
-          "id": 67,
-          "paragraph_id": 41,
+          "id": 64,
+          "paragraph_id": 38,
           "text": "She climbed back onto the mound, with her gaze fixated on Liam."
         },
         {
-          "id": 68,
-          "paragraph_id": 42,
+          "id": 65,
+          "paragraph_id": 39,
           "text": "\"I don't."
         },
         {
-          "id": 69,
-          "paragraph_id": 42,
+          "id": 66,
+          "paragraph_id": 39,
           "text": "I am only roughly guessing.\" He didn't stop for answering her and continued to pocket all the copper and silver coins he found."
         },
         {
-          "id": 70,
-          "paragraph_id": 43,
+          "id": 67,
+          "paragraph_id": 40,
           "text": "Technically, what he said wasn't wrong as his last estimate had been terribly wrong and way off the mark."
         },
         {
-          "id": 71,
-          "paragraph_id": 43,
+          "id": 68,
+          "paragraph_id": 40,
           "text": "Even they knew it."
         },
         {
-          "id": 72,
-          "paragraph_id": 43,
+          "id": 69,
+          "paragraph_id": 40,
           "text": "But Alex was not ready to give up just yet."
         },
         {
-          "id": 73,
-          "paragraph_id": 44,
+          "id": 70,
+          "paragraph_id": 41,
           "text": "\"What was that sword move thing you did?"
+        },
+        {
+          "id": 71,
+          "paragraph_id": 41,
+          "text": "That was also a skill you learned from a skill book?\" She asked again."
+        },
+        {
+          "id": 72,
+          "paragraph_id": 42,
+          "text": "It was impossible for one person to have acquired so many skill books when the game just literally started so she simply couldn't let it go."
+        },
+        {
+          "id": 73,
+          "paragraph_id": 43,
+          "text": "She glared at the guy as if he had stolen her lunch money from her."
         },
         {
           "id": 74,
           "paragraph_id": 44,
-          "text": "That was also a skill you learned from a skill book?\" She asked again."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 45,
-          "text": "It was impossible for one person to have acquired so many skill books when the game just literally started so she simply couldn't let it go."
-        },
-        {
-          "id": 76,
-          "paragraph_id": 46,
-          "text": "She glared at the guy as if he had stolen her lunch money from her."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 47,
           "text": "Liam shook his head and looked at her."
         },
         {
-          "id": 78,
-          "paragraph_id": 47,
+          "id": 75,
+          "paragraph_id": 44,
           "text": "This time instead of giving her a random bullshit answer, he paused slightly."
         },
         {
-          "id": 79,
-          "paragraph_id": 47,
+          "id": 76,
+          "paragraph_id": 44,
           "text": "\"I will explain it later to you."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 44,
+          "text": "The next mob should be coming soon.\""
+        },
+        {
+          "id": 78,
+          "paragraph_id": 45,
+          "text": "He turned around without leaving any space for the woman to ask him further questions."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 46,
+          "text": "\"You!\" Alex clenched her fists and glared at him."
         },
         {
           "id": 80,
           "paragraph_id": 47,
-          "text": "The next mob should be coming soon.\""
-        },
-        {
-          "id": 81,
-          "paragraph_id": 48,
-          "text": "He turned around without leaving any space for the woman to ask him further questions."
-        },
-        {
-          "id": 82,
-          "paragraph_id": 49,
-          "text": "\"You!\" Alex clenched her fists and glared at him."
-        },
-        {
-          "id": 83,
-          "paragraph_id": 50,
           "text": "Five undead ravens flapped their wings and circled around Liam."
         },
         {
-          "id": 84,
-          "paragraph_id": 50,
+          "id": 81,
+          "paragraph_id": 47,
           "text": "This coupled with the strong and powerful aura he was emitting, the man looked like a God of Death."
         },
         {
-          "id": 85,
-          "paragraph_id": 51,
+          "id": 82,
+          "paragraph_id": 48,
           "text": "Alex gulped and pursed her lips."
         },
         {
-          "id": 86,
-          "paragraph_id": 51,
+          "id": 83,
+          "paragraph_id": 48,
           "text": "She angrily kicked a couple of corpses next to her feet as if checking to search for other drops."
         },
         {
-          "id": 87,
-          "paragraph_id": 52,
+          "id": 84,
+          "paragraph_id": 49,
           "text": "Rey was busy looking at the crossbow in his hand and Mia looked around, also checking in between the corpses for drops."
         },
         {
-          "id": 88,
-          "paragraph_id": 53,
+          "id": 85,
+          "paragraph_id": 50,
           "text": "But just like Alex her gaze as well ever so often flickered over in the direction of Liam, looking at him in a daze."
         }
       ],
-      "word_count": 1065
+      "word_count": 1062
     },
     {
       "chapter_index": 27,
@@ -10769,7 +10655,7 @@
         "While the three looked at him with bulged eyes, Liam's complete attention and focus were on the black blob swirling in front of him.",
         "It typically took a couple of seconds for the demon to be fully summoned, so he watched it like a hawk.",
         "Just as the last mob of birds started flying towards them, a small red ball slowly revealed itself and suddenly two holes materialized on it, one turning into an evil-looking eye and the other turning into a row of teeth.",
-        "Gahhhhh!!!!",
+        "Gahhhhh!!!",
         "It made a weird sound, snapping Liam into action. \"An unevolved beholder. Not bad.\" He grinned.",
         "These aberrations were one of the powerful lesser demons and were capable of dealing several types of damage depending on their type.",
         "It can be as powerful as a one-shot death ray shooting out from the single devious eyeball to a harmless slowing ray. Liam would only know its capabilities once it started attacking.",
@@ -10943,7 +10829,7 @@
         {
           "id": 30,
           "paragraph_id": 23,
-          "text": "Gahhhhh!!!!"
+          "text": "Gahhhhh!!!"
         },
         {
           "id": 31,
@@ -11951,9 +11837,6 @@
         "[Ding. 30 Bonus Experience points gained]",
         "[Ding. 30 Experience points gained]",
         "[Ding. 30 Bonus Experience points gained]",
-        "...",
-        "...",
-        "...",
         "As the experience points continued adding up non-stop, the giant tornado which had now formed atop the two huge trees was hacked by Liam bit by bit.",
         "It only took him a few minutes to reduce the unending tide of birds to a few dozen.",
         "His entire body was drenched in sweat and his muscles were pulsing with exhaustion. However, he kept going, pushing his limits to the fullest.",
@@ -12178,190 +12061,175 @@
         {
           "id": 40,
           "paragraph_id": 21,
-          "text": "..."
+          "text": "As the experience points continued adding up non-stop, the giant tornado which had now formed atop the two huge trees was hacked by Liam bit by bit."
         },
         {
           "id": 41,
           "paragraph_id": 22,
-          "text": "..."
+          "text": "It only took him a few minutes to reduce the unending tide of birds to a few dozen."
         },
         {
           "id": 42,
           "paragraph_id": 23,
-          "text": "..."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 24,
-          "text": "As the experience points continued adding up non-stop, the giant tornado which had now formed atop the two huge trees was hacked by Liam bit by bit."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 25,
-          "text": "It only took him a few minutes to reduce the unending tide of birds to a few dozen."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 26,
           "text": "His entire body was drenched in sweat and his muscles were pulsing with exhaustion."
         },
         {
-          "id": 46,
-          "paragraph_id": 26,
+          "id": 43,
+          "paragraph_id": 23,
           "text": "However, he kept going, pushing his limits to the fullest."
         },
         {
-          "id": 47,
-          "paragraph_id": 27,
+          "id": 44,
+          "paragraph_id": 24,
           "text": "Luckily, he used the sword that he had picked up from Niria's lair."
         },
         {
-          "id": 48,
-          "paragraph_id": 27,
+          "id": 45,
+          "paragraph_id": 24,
           "text": "Otherwise, his weapon would have shattered by now."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 24,
+          "text": "His current one wasn't doing that great either."
+        },
+        {
+          "id": 47,
+          "paragraph_id": 25,
+          "text": "The durability was slowly dropping to single digits and the trees were also now almost destroyed."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 26,
+          "text": "By the time, Liam got to the end of the flock, ripping into shreds the last few birds, his sword covered in blood cracked into two, and coincidentally, the giant trees he was lodged in between also cracked and split apart."
         },
         {
           "id": 49,
           "paragraph_id": 27,
-          "text": "His current one wasn't doing that great either."
+          "text": "\"Ahhhh!\" Liam clenched his fist and let out a loud howl, before jumping out of his hiding place and collapsing on the nearby green grass that wasn't covered in blood and fresh corpses."
         },
         {
           "id": 50,
           "paragraph_id": 28,
-          "text": "The durability was slowly dropping to single digits and the trees were also now almost destroyed."
+          "text": "He wasn't sure what was going to happen next, but he calmly took out a fruit from his inventory and laid on the grass munching it."
         },
         {
           "id": 51,
           "paragraph_id": 29,
-          "text": "By the time, Liam got to the end of the flock, ripping into shreds the last few birds, his sword covered in blood cracked into two, and coincidentally, the giant trees he was lodged in between also cracked and split apart."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 30,
-          "text": "\"Ahhhh!\" Liam clenched his fist and let out a loud howl, before jumping out of his hiding place and collapsing on the nearby green grass that wasn't covered in blood and fresh corpses."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 31,
-          "text": "He wasn't sure what was going to happen next, but he calmly took out a fruit from his inventory and laid on the grass munching it."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 32,
           "text": "Above him, the sky was now clear blue, no longer dark and ominous as it had been before."
         },
         {
-          "id": 55,
-          "paragraph_id": 32,
+          "id": 52,
+          "paragraph_id": 29,
           "text": "Liam looked up, plopping another fruit into his mouth."
         },
         {
-          "id": 56,
-          "paragraph_id": 33,
+          "id": 53,
+          "paragraph_id": 30,
           "text": "\"Did I really just kill an entire mob?"
         },
         {
-          "id": 57,
-          "paragraph_id": 33,
+          "id": 54,
+          "paragraph_id": 30,
           "text": "Ha ha ha!\" A burst of loud lunatic laughter echoed in the silent forest, only accompanied by the whistling of the wind and the sound of leaves rustling in the breeze."
         },
         {
-          "id": 58,
-          "paragraph_id": 34,
+          "id": 55,
+          "paragraph_id": 31,
           "text": "A few more minutes passed and nothing really happened."
         },
         {
-          "id": 59,
-          "paragraph_id": 34,
+          "id": 56,
+          "paragraph_id": 31,
           "text": "No other mobs or beasts or birds showed up."
         },
         {
-          "id": 60,
-          "paragraph_id": 35,
+          "id": 57,
+          "paragraph_id": 32,
           "text": "\"Alright."
         },
         {
-          "id": 61,
-          "paragraph_id": 35,
+          "id": 58,
+          "paragraph_id": 32,
           "text": "What next?\" Liam jumped up, picking himself off of the ground, and looked around."
         },
         {
-          "id": 62,
-          "paragraph_id": 35,
+          "id": 59,
+          "paragraph_id": 32,
           "text": "At this point in the dungeon, all of this was new to him, so he had no idea what to do next."
         },
         {
-          "id": 63,
-          "paragraph_id": 36,
+          "id": 60,
+          "paragraph_id": 33,
           "text": "\"I guess I should explore a bit.\" Liam frowned and walked back to the mound which was the stage for most of the fights."
         },
         {
-          "id": 64,
-          "paragraph_id": 36,
+          "id": 61,
+          "paragraph_id": 33,
           "text": "Luckily, he didn't have to wait much longer."
         },
         {
-          "id": 65,
-          "paragraph_id": 37,
+          "id": 62,
+          "paragraph_id": 34,
           "text": "Even from the distance, he could see that the mound he had run away from was no longer empty."
         },
         {
-          "id": 66,
-          "paragraph_id": 37,
+          "id": 63,
+          "paragraph_id": 34,
           "text": "A giant black raven with three heads and several pairs of crimson eyes was perched atop it."
         },
         {
-          "id": 67,
-          "paragraph_id": 38,
+          "id": 64,
+          "paragraph_id": 35,
           "text": "\"Hmm."
         },
         {
-          "id": 68,
-          "paragraph_id": 38,
+          "id": 65,
+          "paragraph_id": 35,
           "text": "This raven is here."
         },
         {
-          "id": 69,
-          "paragraph_id": 38,
+          "id": 66,
+          "paragraph_id": 35,
           "text": "This should be the final boss monster fight and the dungeon clear condition.\" Liam quickly took out a sword from his inventory and rotated his shoulders, preparing himself to go all out."
         },
         {
-          "id": 70,
-          "paragraph_id": 39,
+          "id": 67,
+          "paragraph_id": 36,
           "text": "He dashed towards the mound and slashed his sword at the raven, but unexpectedly, the bird remained calm."
         },
         {
-          "id": 71,
-          "paragraph_id": 39,
+          "id": 68,
+          "paragraph_id": 36,
           "text": "His sword slash paused mid-air and then magically disappeared."
         },
         {
-          "id": 72,
-          "paragraph_id": 40,
+          "id": 69,
+          "paragraph_id": 37,
           "text": "\"What the hell?"
         },
         {
-          "id": 73,
-          "paragraph_id": 40,
+          "id": 70,
+          "paragraph_id": 37,
           "text": "You are not attacking me?\""
         },
         {
-          "id": 74,
-          "paragraph_id": 41,
+          "id": 71,
+          "paragraph_id": 38,
           "text": "Liam almost stumbled as he tried to stop abruptly in his tracks, and the raven in front of him casually open its huge black peak and muttered."
         },
         {
-          "id": 75,
-          "paragraph_id": 42,
+          "id": 72,
+          "paragraph_id": 39,
           "text": "\"Human!"
         },
         {
-          "id": 76,
-          "paragraph_id": 42,
+          "id": 73,
+          "paragraph_id": 39,
           "text": "I have been waiting for you.\""
         }
       ],
-      "word_count": 833
+      "word_count": 830
     },
     {
       "chapter_index": 31,
@@ -13693,22 +13561,18 @@
         "However, he didn't go in just yet and sat down on an empty bench outside the auction house in a relatively quiet alleyway.",
         "\"Time to take a look at all the skills.\" He hummed and summoned out his status screen.",
         "[Ding. Skill list]",
-        "______________",
         "[Throat Punch]: Each hit will cause 120% damage; Cool down: None",
         "[Slash]: Each Slash of the sword deals 120% damage; A critical hit attack deals 150% damage; Cool down: None",
         "[Spirit Slash]: [Skill locked] Each Slash of the sword deals 1000% damage; A critical hit attack deals 1500% damage; Cool down: None",
         "[Sword Dance]: Each Slash of the sword deals 200% damage; A critical hit attack deal 250% damage; Cool down: 3 minutes",
         "[Demonic summon]: Consumes 200 mana and summons a lesser demon; Spell active for 20 seconds; Level 1",
         "[Awaken Undead]: Consumes 300 mana and awakens the slumbering dead, giving life to an amalgamation of flesh and bones; Spell active until the undead being perishes; Level 1",
-        "______________",
         "[Trade skills]",
         "[Alchemy]: Beginner Level",
-        "______________",
         "[Currency]",
         "[Gold - 5005]",
         "[Silver - 5011]",
         "[Copper - 5034]",
-        "______________",
         "\"Not bad.\" Liam chuckled and he then opened his inventory to take out the rest of his skill books.",
         "[Holy heal], [Tame], [Ice shard], [Lightning bolt], [Fire ball], [Pickpocket], [Unlock], [Stealth]",
         "\"Heh.\" Liam grinned. \"That Niria really saved me a lot of trouble!\"",
@@ -13731,16 +13595,10 @@
         "[Ding. Congratulations! Wind wolf pelts x 70 have been purchased!]",
         "[Ding. Congratulations! Dire wolf pelts x 500 have been purchased!]",
         "[Ding. Congratulations! Wind wolf pelts x 500 have been purchased!]",
-        "...",
-        "...",
-        "...",
         "[Ding. Congratulations! Stone flower stalks x 20 have been purchased!]",
         "[Ding. Congratulations! Mellora stalks X 65 have been purchased!]",
         "[Ding. Congratulations! Rig weed stalks x 40 have been purchased!]",
         "[Ding. Congratulations! Spiky nine flower stalks X 15 have been purchased!]",
-        "...",
-        "...",
-        "...",
         "While Liam hurriedly began purchasing every single herb he could find and also all kinds of wolf pelts, a huge commotion started in front of the auction house building.",
         "\"Hey someone is buying everything even if it is at a ridiculous price!\"",
         "\"Woah! You are correct. I put mine at silver a piece and still got sold. Holy hell!\"",
@@ -13783,440 +13641,390 @@
         {
           "id": 6,
           "paragraph_id": 4,
-          "text": "______________"
+          "text": "[Throat Punch]: Each hit will cause 120% damage; Cool down: None"
         },
         {
           "id": 7,
           "paragraph_id": 5,
-          "text": "[Throat Punch]: Each hit will cause 120% damage; Cool down: None"
+          "text": "[Slash]: Each Slash of the sword deals 120% damage; A critical hit attack deals 150% damage; Cool down: None"
         },
         {
           "id": 8,
           "paragraph_id": 6,
-          "text": "[Slash]: Each Slash of the sword deals 120% damage; A critical hit attack deals 150% damage; Cool down: None"
+          "text": "[Spirit Slash]: [Skill locked] Each Slash of the sword deals 1000% damage; A critical hit attack deals 1500% damage; Cool down: None"
         },
         {
           "id": 9,
           "paragraph_id": 7,
-          "text": "[Spirit Slash]: [Skill locked] Each Slash of the sword deals 1000% damage; A critical hit attack deals 1500% damage; Cool down: None"
+          "text": "[Sword Dance]: Each Slash of the sword deals 200% damage; A critical hit attack deal 250% damage; Cool down: 3 minutes"
         },
         {
           "id": 10,
           "paragraph_id": 8,
-          "text": "[Sword Dance]: Each Slash of the sword deals 200% damage; A critical hit attack deal 250% damage; Cool down: 3 minutes"
+          "text": "[Demonic summon]: Consumes 200 mana and summons a lesser demon; Spell active for 20 seconds; Level 1"
         },
         {
           "id": 11,
           "paragraph_id": 9,
-          "text": "[Demonic summon]: Consumes 200 mana and summons a lesser demon; Spell active for 20 seconds; Level 1"
+          "text": "[Awaken Undead]: Consumes 300 mana and awakens the slumbering dead, giving life to an amalgamation of flesh and bones; Spell active until the undead being perishes; Level 1"
         },
         {
           "id": 12,
           "paragraph_id": 10,
-          "text": "[Awaken Undead]: Consumes 300 mana and awakens the slumbering dead, giving life to an amalgamation of flesh and bones; Spell active until the undead being perishes; Level 1"
+          "text": "[Trade skills]"
         },
         {
           "id": 13,
           "paragraph_id": 11,
-          "text": "______________"
+          "text": "[Alchemy]: Beginner Level"
         },
         {
           "id": 14,
           "paragraph_id": 12,
-          "text": "[Trade skills]"
+          "text": "[Currency]"
         },
         {
           "id": 15,
           "paragraph_id": 13,
-          "text": "[Alchemy]: Beginner Level"
+          "text": "[Gold - 5005]"
         },
         {
           "id": 16,
           "paragraph_id": 14,
-          "text": "______________"
+          "text": "[Silver - 5011]"
         },
         {
           "id": 17,
           "paragraph_id": 15,
-          "text": "[Currency]"
+          "text": "[Copper - 5034]"
         },
         {
           "id": 18,
           "paragraph_id": 16,
-          "text": "[Gold - 5005]"
+          "text": "\"Not bad.\" Liam chuckled and he then opened his inventory to take out the rest of his skill books."
         },
         {
           "id": 19,
           "paragraph_id": 17,
-          "text": "[Silver - 5011]"
+          "text": "[Holy heal], [Tame], [Ice shard], [Lightning bolt], [Fire ball], [Pickpocket], [Unlock], [Stealth]"
         },
         {
           "id": 20,
           "paragraph_id": 18,
-          "text": "[Copper - 5034]"
-        },
-        {
-          "id": 21,
-          "paragraph_id": 19,
-          "text": "______________"
-        },
-        {
-          "id": 22,
-          "paragraph_id": 20,
-          "text": "\"Not bad.\" Liam chuckled and he then opened his inventory to take out the rest of his skill books."
-        },
-        {
-          "id": 23,
-          "paragraph_id": 21,
-          "text": "[Holy heal], [Tame], [Ice shard], [Lightning bolt], [Fire ball], [Pickpocket], [Unlock], [Stealth]"
-        },
-        {
-          "id": 24,
-          "paragraph_id": 22,
           "text": "\"Heh.\" Liam grinned."
         },
         {
-          "id": 25,
-          "paragraph_id": 22,
+          "id": 21,
+          "paragraph_id": 18,
           "text": "\"That Niria really saved me a lot of trouble!\""
         },
         {
-          "id": 26,
-          "paragraph_id": 23,
+          "id": 22,
+          "paragraph_id": 19,
           "text": "The game had only barely begun and he already had a plethora of skill books in his possession."
         },
         {
-          "id": 27,
-          "paragraph_id": 23,
+          "id": 23,
+          "paragraph_id": 19,
           "text": "If anyone else knew this they would probably cry into their pillows, but to Liam, this wasn't anything big."
         },
         {
-          "id": 28,
-          "paragraph_id": 24,
+          "id": 24,
+          "paragraph_id": 20,
           "text": "He might have a huge collection of skill books right now but most of them are only basic skills."
         },
         {
-          "id": 29,
-          "paragraph_id": 25,
+          "id": 25,
+          "paragraph_id": 21,
           "text": "Their true power and abilities would only be revealed after a lot of effort and Liam was more focused on that part as his life and death depended on it."
         },
         {
-          "id": 30,
-          "paragraph_id": 25,
+          "id": 26,
+          "paragraph_id": 21,
           "text": "Those would lead him to true power and strength."
         },
         {
-          "id": 31,
-          "paragraph_id": 26,
+          "id": 27,
+          "paragraph_id": 22,
           "text": "He took a deep breath and started learning all the skills one by one."
         },
         {
-          "id": 32,
-          "paragraph_id": 27,
+          "id": 28,
+          "paragraph_id": 23,
           "text": "His body alternatingly flashed with a bright light and then faded, this process repeating several times until he was done learning all the skills."
+        },
+        {
+          "id": 29,
+          "paragraph_id": 23,
+          "text": "Well, all except one."
+        },
+        {
+          "id": 30,
+          "paragraph_id": 24,
+          "text": "Liam wasn't exactly able to learn [Holy Heal]."
+        },
+        {
+          "id": 31,
+          "paragraph_id": 25,
+          "text": "This skill was absolutely useless for him as he had affinities to the demonic and the undead energy and therefore lacked any sort of affinity to the divine energy."
+        },
+        {
+          "id": 32,
+          "paragraph_id": 26,
+          "text": "But that didn't mean that there wasn't any healing spell that Liam could learn."
         },
         {
           "id": 33,
           "paragraph_id": 27,
-          "text": "Well, all except one."
+          "text": "There were a few nature healing spells which he could learn, but he currently did not possess those skill books and hence he didn't dwell on it too much."
         },
         {
           "id": 34,
           "paragraph_id": 28,
-          "text": "Liam wasn't exactly able to learn [Holy Heal]."
+          "text": "\"Hmmm."
         },
         {
           "id": 35,
-          "paragraph_id": 29,
-          "text": "This skill was absolutely useless for him as he had affinities to the demonic and the undead energy and therefore lacked any sort of affinity to the divine energy."
+          "paragraph_id": 28,
+          "text": "Alright, time to get back to it.\" Liam cracked his neck left and right and then strolled into the auction house."
         },
         {
           "id": 36,
-          "paragraph_id": 30,
-          "text": "But that didn't mean that there wasn't any healing spell that Liam could learn."
+          "paragraph_id": 29,
+          "text": "\"Please place your items here, sir.\" A sweet voice rang out and a translucent screen similar to the status screen popped out in front of him as he entered the building."
         },
         {
           "id": 37,
-          "paragraph_id": 31,
-          "text": "There were a few nature healing spells which he could learn, but he currently did not possess those skill books and hence he didn't dwell on it too much."
+          "paragraph_id": 30,
+          "text": "Liam quickly tossed in the skill book and then scrolled down the available items."
         },
         {
           "id": 38,
-          "paragraph_id": 32,
-          "text": "\"Hmmm."
+          "paragraph_id": 31,
+          "text": "He had plenty of gold and silver with him, so he wasn't planning on selling anything this time, rather he was planning on making certain bulk purchases."
         },
         {
           "id": 39,
           "paragraph_id": 32,
-          "text": "Alright, time to get back to it.\" Liam cracked his neck left and right and then strolled into the auction house."
+          "text": "[Ding."
         },
         {
           "id": 40,
-          "paragraph_id": 33,
-          "text": "\"Please place your items here, sir.\" A sweet voice rang out and a translucent screen similar to the status screen popped out in front of him as he entered the building."
+          "paragraph_id": 32,
+          "text": "Congratulations!"
         },
         {
           "id": 41,
-          "paragraph_id": 34,
-          "text": "Liam quickly tossed in the skill book and then scrolled down the available items."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 35,
-          "text": "He had plenty of gold and silver with him, so he wasn't planning on selling anything this time, rather he was planning on making certain bulk purchases."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 36,
-          "text": "[Ding."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 36,
-          "text": "Congratulations!"
-        },
-        {
-          "id": 45,
-          "paragraph_id": 36,
+          "paragraph_id": 32,
           "text": "Dire wolf pelts x 50 have been purchased!]"
         },
         {
-          "id": 46,
-          "paragraph_id": 37,
+          "id": 42,
+          "paragraph_id": 33,
           "text": "[Ding."
         },
         {
-          "id": 47,
-          "paragraph_id": 37,
+          "id": 43,
+          "paragraph_id": 33,
           "text": "Congratulations!"
         },
         {
-          "id": 48,
-          "paragraph_id": 37,
+          "id": 44,
+          "paragraph_id": 33,
           "text": "Wind wolf pelts x 50 have been purchased!]"
         },
         {
-          "id": 49,
-          "paragraph_id": 38,
+          "id": 45,
+          "paragraph_id": 34,
           "text": "[Ding."
         },
         {
-          "id": 50,
-          "paragraph_id": 38,
+          "id": 46,
+          "paragraph_id": 34,
           "text": "Congratulations!"
         },
         {
-          "id": 51,
-          "paragraph_id": 38,
+          "id": 47,
+          "paragraph_id": 34,
           "text": "Dire wolf pelts x 150 have been purchased!]"
         },
         {
-          "id": 52,
-          "paragraph_id": 39,
+          "id": 48,
+          "paragraph_id": 35,
           "text": "[Ding."
         },
         {
-          "id": 53,
-          "paragraph_id": 39,
+          "id": 49,
+          "paragraph_id": 35,
           "text": "Congratulations!"
         },
         {
-          "id": 54,
-          "paragraph_id": 39,
+          "id": 50,
+          "paragraph_id": 35,
           "text": "Wind wolf pelts x 70 have been purchased!]"
         },
         {
-          "id": 55,
-          "paragraph_id": 40,
+          "id": 51,
+          "paragraph_id": 36,
           "text": "[Ding."
         },
         {
-          "id": 56,
-          "paragraph_id": 40,
+          "id": 52,
+          "paragraph_id": 36,
           "text": "Congratulations!"
         },
         {
-          "id": 57,
-          "paragraph_id": 40,
+          "id": 53,
+          "paragraph_id": 36,
           "text": "Dire wolf pelts x 500 have been purchased!]"
         },
         {
-          "id": 58,
-          "paragraph_id": 41,
+          "id": 54,
+          "paragraph_id": 37,
           "text": "[Ding."
         },
         {
-          "id": 59,
-          "paragraph_id": 41,
+          "id": 55,
+          "paragraph_id": 37,
           "text": "Congratulations!"
         },
         {
-          "id": 60,
-          "paragraph_id": 41,
+          "id": 56,
+          "paragraph_id": 37,
           "text": "Wind wolf pelts x 500 have been purchased!]"
         },
         {
-          "id": 61,
-          "paragraph_id": 42,
-          "text": "..."
-        },
-        {
-          "id": 62,
-          "paragraph_id": 43,
-          "text": "..."
-        },
-        {
-          "id": 63,
-          "paragraph_id": 44,
-          "text": "..."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 45,
+          "id": 57,
+          "paragraph_id": 38,
           "text": "[Ding."
         },
         {
-          "id": 65,
-          "paragraph_id": 45,
+          "id": 58,
+          "paragraph_id": 38,
           "text": "Congratulations!"
         },
         {
-          "id": 66,
-          "paragraph_id": 45,
+          "id": 59,
+          "paragraph_id": 38,
           "text": "Stone flower stalks x 20 have been purchased!]"
         },
         {
-          "id": 67,
-          "paragraph_id": 46,
+          "id": 60,
+          "paragraph_id": 39,
           "text": "[Ding."
         },
         {
-          "id": 68,
-          "paragraph_id": 46,
+          "id": 61,
+          "paragraph_id": 39,
           "text": "Congratulations!"
         },
         {
-          "id": 69,
-          "paragraph_id": 46,
+          "id": 62,
+          "paragraph_id": 39,
           "text": "Mellora stalks X 65 have been purchased!]"
         },
         {
-          "id": 70,
-          "paragraph_id": 47,
+          "id": 63,
+          "paragraph_id": 40,
           "text": "[Ding."
         },
         {
-          "id": 71,
-          "paragraph_id": 47,
+          "id": 64,
+          "paragraph_id": 40,
           "text": "Congratulations!"
         },
         {
-          "id": 72,
-          "paragraph_id": 47,
+          "id": 65,
+          "paragraph_id": 40,
           "text": "Rig weed stalks x 40 have been purchased!]"
         },
         {
-          "id": 73,
-          "paragraph_id": 48,
+          "id": 66,
+          "paragraph_id": 41,
           "text": "[Ding."
         },
         {
-          "id": 74,
-          "paragraph_id": 48,
+          "id": 67,
+          "paragraph_id": 41,
           "text": "Congratulations!"
         },
         {
-          "id": 75,
-          "paragraph_id": 48,
+          "id": 68,
+          "paragraph_id": 41,
           "text": "Spiky nine flower stalks X 15 have been purchased!]"
         },
         {
-          "id": 76,
-          "paragraph_id": 49,
-          "text": "..."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 50,
-          "text": "..."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 51,
-          "text": "..."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 52,
+          "id": 69,
+          "paragraph_id": 42,
           "text": "While Liam hurriedly began purchasing every single herb he could find and also all kinds of wolf pelts, a huge commotion started in front of the auction house building."
         },
         {
-          "id": 80,
-          "paragraph_id": 53,
+          "id": 70,
+          "paragraph_id": 43,
           "text": "\"Hey someone is buying everything even if it is at a ridiculous price!\""
         },
         {
-          "id": 81,
-          "paragraph_id": 54,
+          "id": 71,
+          "paragraph_id": 44,
           "text": "\"Woah!"
         },
         {
-          "id": 82,
-          "paragraph_id": 54,
+          "id": 72,
+          "paragraph_id": 44,
           "text": "You are correct."
         },
         {
-          "id": 83,
-          "paragraph_id": 54,
+          "id": 73,
+          "paragraph_id": 44,
           "text": "I put mine at silver a piece and still got sold."
         },
         {
-          "id": 84,
-          "paragraph_id": 54,
+          "id": 74,
+          "paragraph_id": 44,
           "text": "Holy hell!\""
         },
         {
-          "id": 85,
-          "paragraph_id": 55,
+          "id": 75,
+          "paragraph_id": 45,
           "text": "\"Let's sell off everything now."
         },
         {
-          "id": 86,
-          "paragraph_id": 55,
+          "id": 76,
+          "paragraph_id": 45,
           "text": "Some money bags has obviously decided to empty out the auction house.\""
         },
         {
-          "id": 87,
-          "paragraph_id": 56,
+          "id": 77,
+          "paragraph_id": 46,
           "text": "\"Yes!"
         },
         {
-          "id": 88,
-          "paragraph_id": 56,
+          "id": 78,
+          "paragraph_id": 46,
           "text": "Yes!\""
         },
         {
-          "id": 89,
-          "paragraph_id": 57,
+          "id": 79,
+          "paragraph_id": 47,
           "text": "Some players started rapidly putting everything in their inventory slots into the auction house."
         },
         {
-          "id": 90,
-          "paragraph_id": 57,
+          "id": 80,
+          "paragraph_id": 47,
           "text": "However, a veteran player watched their actions and scoffed."
         },
         {
-          "id": 91,
-          "paragraph_id": 58,
+          "id": 81,
+          "paragraph_id": 48,
           "text": "\"You guys are idiots.."
         },
         {
-          "id": 92,
-          "paragraph_id": 58,
+          "id": 82,
+          "paragraph_id": 48,
           "text": "If someone is buying something in bulk, it means that he is planning to sell them back at an even higher price and make a killing.\""
         }
       ],
-      "word_count": 802
+      "word_count": 792
     },
     {
       "chapter_index": 35,
@@ -14989,9 +14797,6 @@
         "[Ding: Basic Health potion created]",
         "[Ding: Basic Health potion created]",
         "[Ding: Basic Health potion created]",
-        "...",
-        "...",
-        "...",
         "[Ding: Your Alchemy skill proficiency has increased to Trainee Level]",
         "\"Alright. Time to move on to the next one.\" Liam cracked his neck and stood up, to quickly empty the cauldron.",
         "He scooped out the huge amount of basic health potion within the cauldron into several smaller-sized glass bottles and stored them in his inventory.",
@@ -15008,9 +14813,6 @@
         "[Ding: Basic Mana potion created]",
         "[Ding: Basic Mana potion created]",
         "[Ding: Basic Mana potion created]",
-        "...",
-        "...",
-        "...",
         "\"Mmm... Smells perfect. Next batch then.\"",
         "Liam ended up using the next three hours of his four-hour time slot and concocted huge portions of all the five basic potions.",
         "In the end, he even managed to bring his alchemy skill level to intermediate.",
@@ -15154,92 +14956,92 @@
         {
           "id": 25,
           "paragraph_id": 20,
-          "text": "..."
+          "text": "[Ding: Your Alchemy skill proficiency has increased to Trainee Level]"
         },
         {
           "id": 26,
           "paragraph_id": 21,
-          "text": "..."
+          "text": "\"Alright."
         },
         {
           "id": 27,
-          "paragraph_id": 22,
-          "text": "..."
+          "paragraph_id": 21,
+          "text": "Time to move on to the next one.\" Liam cracked his neck and stood up, to quickly empty the cauldron."
         },
         {
           "id": 28,
-          "paragraph_id": 23,
-          "text": "[Ding: Your Alchemy skill proficiency has increased to Trainee Level]"
+          "paragraph_id": 22,
+          "text": "He scooped out the huge amount of basic health potion within the cauldron into several smaller-sized glass bottles and stored them in his inventory."
         },
         {
           "id": 29,
-          "paragraph_id": 24,
-          "text": "\"Alright."
+          "paragraph_id": 23,
+          "text": "He then activated another rune on the cauldron which incinerated all the leftover dregs and everything was cleaned out for another fresh concoction batch."
         },
         {
           "id": 30,
           "paragraph_id": 24,
-          "text": "Time to move on to the next one.\" Liam cracked his neck and stood up, to quickly empty the cauldron."
+          "text": "Liam once again heated another pail of clean water and this time as well he threw in a huge stack of prearranged herbs, without bothering to adjust anything."
         },
         {
           "id": 31,
           "paragraph_id": 25,
-          "text": "He scooped out the huge amount of basic health potion within the cauldron into several smaller-sized glass bottles and stored them in his inventory."
+          "text": "As he watched the things boiling silently, he couldn't help but lazily smile and lean against the wall."
         },
         {
           "id": 32,
-          "paragraph_id": 26,
-          "text": "He then activated another rune on the cauldron which incinerated all the leftover dregs and everything was cleaned out for another fresh concoction batch."
+          "paragraph_id": 25,
+          "text": "The things that seemed so easy and effortless now had once been a nightmare to him."
         },
         {
           "id": 33,
-          "paragraph_id": 27,
-          "text": "Liam once again heated another pail of clean water and this time as well he threw in a huge stack of prearranged herbs, without bothering to adjust anything."
+          "paragraph_id": 26,
+          "text": "As a slave and a weakling, he himself was never allowed to practice alchemy."
         },
         {
           "id": 34,
-          "paragraph_id": 28,
-          "text": "As he watched the things boiling silently, he couldn't help but lazily smile and lean against the wall."
+          "paragraph_id": 27,
+          "text": "However, he was forced to stand near the cauldron and act as a punching bag every time his 'owner' couldn't successfully concoct a potion."
         },
         {
           "id": 35,
           "paragraph_id": 28,
-          "text": "The things that seemed so easy and effortless now had once been a nightmare to him."
+          "text": "He had been whipped, he had been starved, he had even been held under disgusting piping hot liquid, just as a means for someone else to vent their anger."
         },
         {
           "id": 36,
           "paragraph_id": 29,
-          "text": "As a slave and a weakling, he himself was never allowed to practice alchemy."
-        },
-        {
-          "id": 37,
-          "paragraph_id": 30,
-          "text": "However, he was forced to stand near the cauldron and act as a punching bag every time his 'owner' couldn't successfully concoct a potion."
-        },
-        {
-          "id": 38,
-          "paragraph_id": 31,
-          "text": "He had been whipped, he had been starved, he had even been held under disgusting piping hot liquid, just as a means for someone else to vent their anger."
-        },
-        {
-          "id": 39,
-          "paragraph_id": 32,
           "text": "The memories of the past flitted past his mind and his smile was no longer lazy or amused."
         },
         {
-          "id": 40,
-          "paragraph_id": 32,
+          "id": 37,
+          "paragraph_id": 29,
           "text": "It was rather deeply disturbing."
+        },
+        {
+          "id": 38,
+          "paragraph_id": 29,
+          "text": "It was like the grin of a grim reaper as he was about to take a soul."
+        },
+        {
+          "id": 39,
+          "paragraph_id": 30,
+          "text": "\"Not yet,\" Liam muttered and closed his eyes to calm himself down."
+        },
+        {
+          "id": 40,
+          "paragraph_id": 31,
+          "text": "[Ding: Basic Mana potion created]"
         },
         {
           "id": 41,
           "paragraph_id": 32,
-          "text": "It was like the grin of a grim reaper as he was about to take a soul."
+          "text": "[Ding: Basic Mana potion recipe obtained]"
         },
         {
           "id": 42,
           "paragraph_id": 33,
-          "text": "\"Not yet,\" Liam muttered and closed his eyes to calm himself down."
+          "text": "[Ding: Basic Mana potion created]"
         },
         {
           "id": 43,
@@ -15249,135 +15051,105 @@
         {
           "id": 44,
           "paragraph_id": 35,
-          "text": "[Ding: Basic Mana potion recipe obtained]"
+          "text": "[Ding: Basic Mana potion created]"
         },
         {
           "id": 45,
           "paragraph_id": 36,
-          "text": "[Ding: Basic Mana potion created]"
-        },
-        {
-          "id": 46,
-          "paragraph_id": 37,
-          "text": "[Ding: Basic Mana potion created]"
-        },
-        {
-          "id": 47,
-          "paragraph_id": 38,
-          "text": "[Ding: Basic Mana potion created]"
-        },
-        {
-          "id": 48,
-          "paragraph_id": 39,
-          "text": "..."
-        },
-        {
-          "id": 49,
-          "paragraph_id": 40,
-          "text": "..."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 41,
-          "text": "..."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 42,
           "text": "\"Mmm..."
         },
         {
-          "id": 52,
-          "paragraph_id": 42,
+          "id": 46,
+          "paragraph_id": 36,
           "text": "Smells perfect."
         },
         {
-          "id": 53,
-          "paragraph_id": 42,
+          "id": 47,
+          "paragraph_id": 36,
           "text": "Next batch then.\""
         },
         {
-          "id": 54,
-          "paragraph_id": 43,
+          "id": 48,
+          "paragraph_id": 37,
           "text": "Liam ended up using the next three hours of his four-hour time slot and concocted huge portions of all the five basic potions."
         },
         {
-          "id": 55,
-          "paragraph_id": 44,
+          "id": 49,
+          "paragraph_id": 38,
           "text": "In the end, he even managed to bring his alchemy skill level to intermediate."
         },
         {
-          "id": 56,
-          "paragraph_id": 45,
+          "id": 50,
+          "paragraph_id": 39,
           "text": "Pushing it any higher using just basic potions was near impossible and just a waste of time and resources so he stopped."
         },
         {
-          "id": 57,
-          "paragraph_id": 46,
+          "id": 51,
+          "paragraph_id": 40,
           "text": "\"I still have the recipes looted from the dragon's nest."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 40,
+          "text": "Let me take a look.\""
+        },
+        {
+          "id": 53,
+          "paragraph_id": 41,
+          "text": "[Ding: Chrysanthemum Lethal Poison recipe obtained]"
+        },
+        {
+          "id": 54,
+          "paragraph_id": 42,
+          "text": "[Ding: Nine-Color Paralyzing Poison recipe obtained]"
+        },
+        {
+          "id": 55,
+          "paragraph_id": 43,
+          "text": "[Ding: Low-Grade Stealth potion recipe obtained]"
+        },
+        {
+          "id": 56,
+          "paragraph_id": 44,
+          "text": "[Ding: Low-Grade Water Breathing potion obtained]"
+        },
+        {
+          "id": 57,
+          "paragraph_id": 45,
+          "text": "\"Four special and unique alchemy potions!\""
         },
         {
           "id": 58,
           "paragraph_id": 46,
-          "text": "Let me take a look.\""
-        },
-        {
-          "id": 59,
-          "paragraph_id": 47,
-          "text": "[Ding: Chrysanthemum Lethal Poison recipe obtained]"
-        },
-        {
-          "id": 60,
-          "paragraph_id": 48,
-          "text": "[Ding: Nine-Color Paralyzing Poison recipe obtained]"
-        },
-        {
-          "id": 61,
-          "paragraph_id": 49,
-          "text": "[Ding: Low-Grade Stealth potion recipe obtained]"
-        },
-        {
-          "id": 62,
-          "paragraph_id": 50,
-          "text": "[Ding: Low-Grade Water Breathing potion obtained]"
-        },
-        {
-          "id": 63,
-          "paragraph_id": 51,
-          "text": "\"Four special and unique alchemy potions!\""
-        },
-        {
-          "id": 64,
-          "paragraph_id": 52,
           "text": "\"Oh!"
         },
         {
-          "id": 65,
-          "paragraph_id": 52,
+          "id": 59,
+          "paragraph_id": 46,
           "text": "This is a great haul.\""
         },
         {
-          "id": 66,
-          "paragraph_id": 53,
+          "id": 60,
+          "paragraph_id": 47,
           "text": "\"Too bad I don't have the ingredients for these yet."
         },
         {
-          "id": 67,
-          "paragraph_id": 53,
+          "id": 61,
+          "paragraph_id": 47,
           "text": "Otherwise, I could have leveled the alchemy skill up all the way to master level today.\""
         },
         {
-          "id": 68,
-          "paragraph_id": 54,
+          "id": 62,
+          "paragraph_id": 48,
           "text": "\"Well, whatever."
         },
         {
-          "id": 69,
-          "paragraph_id": 54,
+          "id": 63,
+          "paragraph_id": 48,
           "text": "No need to rush things..\" He had finished everything that he could do here so he packed up the miscellaneous items and left the crafting room."
         }
       ],
-      "word_count": 831
+      "word_count": 825
     },
     {
       "chapter_index": 38,
@@ -15393,9 +15165,6 @@
         "He let out a long sigh and sat down near a tree at the entrance of the Trade building. \"I already wasted 3 hours. So what if I waste a few more? Fuck it.\"",
         "He had tried talking to the few alchemists in the town a hundred different ways but he was not able to find even a small clue about a possible loophole.",
         "At this point, he was so invested that he was obsessed with finding the loophole! It was either this or he was ready to quit the game altogether! err... at least for the rest of the day...",
-        "...",
-        "...",
-        "...",
         "Liam felt a jolt surge through his body and his consciousness returned to the real world. He then opened the game capsule casually and stepped out of it.",
         "\"Bro! Bro! Wahhh! You are finally back.\" Meilin immediately stood up and ran over to him, looking at the familiar yet unfamiliar figure curiously.",
         "\"Yes. Did you get hungry? Sorry, I am a bit late.\"",
@@ -15543,390 +15312,375 @@
         {
           "id": 22,
           "paragraph_id": 9,
-          "text": "..."
-        },
-        {
-          "id": 23,
-          "paragraph_id": 10,
-          "text": "..."
-        },
-        {
-          "id": 24,
-          "paragraph_id": 11,
-          "text": "..."
-        },
-        {
-          "id": 25,
-          "paragraph_id": 12,
           "text": "Liam felt a jolt surge through his body and his consciousness returned to the real world."
         },
         {
-          "id": 26,
-          "paragraph_id": 12,
+          "id": 23,
+          "paragraph_id": 9,
           "text": "He then opened the game capsule casually and stepped out of it."
         },
         {
-          "id": 27,
-          "paragraph_id": 13,
+          "id": 24,
+          "paragraph_id": 10,
           "text": "\"Bro!"
         },
         {
-          "id": 28,
-          "paragraph_id": 13,
+          "id": 25,
+          "paragraph_id": 10,
           "text": "Bro!"
         },
         {
-          "id": 29,
-          "paragraph_id": 13,
+          "id": 26,
+          "paragraph_id": 10,
           "text": "Wahhh!"
         },
         {
-          "id": 30,
-          "paragraph_id": 13,
+          "id": 27,
+          "paragraph_id": 10,
           "text": "You are finally back.\" Meilin immediately stood up and ran over to him, looking at the familiar yet unfamiliar figure curiously."
         },
         {
-          "id": 31,
-          "paragraph_id": 14,
+          "id": 28,
+          "paragraph_id": 11,
           "text": "\"Yes."
         },
         {
-          "id": 32,
-          "paragraph_id": 14,
+          "id": 29,
+          "paragraph_id": 11,
           "text": "Did you get hungry?"
         },
         {
-          "id": 33,
-          "paragraph_id": 14,
+          "id": 30,
+          "paragraph_id": 11,
           "text": "Sorry, I am a bit late.\""
         },
         {
-          "id": 34,
-          "paragraph_id": 15,
+          "id": 31,
+          "paragraph_id": 12,
           "text": "\"No."
         },
         {
-          "id": 35,
-          "paragraph_id": 15,
+          "id": 32,
+          "paragraph_id": 12,
           "text": "I am alright.\" The girl flashed a big smile like always, batting her long lashes."
         },
         {
-          "id": 36,
-          "paragraph_id": 15,
+          "id": 33,
+          "paragraph_id": 12,
           "text": "Though her small face and phoenix-like eyes looked a bit tired and droopy."
         },
         {
-          "id": 37,
-          "paragraph_id": 16,
+          "id": 34,
+          "paragraph_id": 13,
           "text": "Liam couldn't help but smile."
         },
         {
-          "id": 38,
-          "paragraph_id": 16,
+          "id": 35,
+          "paragraph_id": 13,
           "text": "The girl was far too mature for her age."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 13,
+          "text": "She had never once demanded anything from him even though they went to sleep hungry a lot of the time."
+        },
+        {
+          "id": 37,
+          "paragraph_id": 14,
+          "text": "He patted her and then quickly ordered some food for them from a nearby restaurant."
+        },
+        {
+          "id": 38,
+          "paragraph_id": 15,
+          "text": "He wanted to take her out to someplace nice but tomorrow was going to be busy so he decided to finish the day with a quick meal."
         },
         {
           "id": 39,
           "paragraph_id": 16,
-          "text": "She had never once demanded anything from him even though they went to sleep hungry a lot of the time."
+          "text": "The food soon arrived and Liam served the bunch of dishes on plates and bowls for the both of them."
         },
         {
           "id": 40,
           "paragraph_id": 17,
-          "text": "He patted her and then quickly ordered some food for them from a nearby restaurant."
+          "text": "It was only the brother and sister pair in the house so it was pretty quiet as the duo wolfed down the food."
         },
         {
           "id": 41,
           "paragraph_id": 18,
-          "text": "He wanted to take her out to someplace nice but tomorrow was going to be busy so he decided to finish the day with a quick meal."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 19,
-          "text": "The food soon arrived and Liam served the bunch of dishes on plates and bowls for the both of them."
-        },
-        {
-          "id": 43,
-          "paragraph_id": 20,
-          "text": "It was only the brother and sister pair in the house so it was pretty quiet as the duo wolfed down the food."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 21,
           "text": "\"Brother, is this really ok?"
         },
         {
-          "id": 45,
-          "paragraph_id": 21,
+          "id": 42,
+          "paragraph_id": 18,
           "text": "We are spending a lot ah..?\""
         },
         {
-          "id": 46,
-          "paragraph_id": 22,
+          "id": 43,
+          "paragraph_id": 19,
           "text": "\"Mei Mei."
         },
         {
-          "id": 47,
-          "paragraph_id": 22,
+          "id": 44,
+          "paragraph_id": 19,
           "text": "Do you want to move to a bigger apartment tomorrow?\" Liam smiled and shoved another piece of tenderly cooked pork."
         },
         {
-          "id": 48,
-          "paragraph_id": 23,
+          "id": 45,
+          "paragraph_id": 20,
           "text": "\"Bigger apartment?"
         },
         {
-          "id": 49,
-          "paragraph_id": 23,
+          "id": 46,
+          "paragraph_id": 20,
           "text": "Brother, did we win a lottery?\" The girl giggled cutely."
         },
         {
-          "id": 50,
-          "paragraph_id": 24,
+          "id": 47,
+          "paragraph_id": 21,
           "text": "\"He He."
         },
         {
-          "id": 51,
-          "paragraph_id": 24,
+          "id": 48,
+          "paragraph_id": 21,
           "text": "I guess we can call it that.\" Liam chucked."
         },
         {
-          "id": 52,
-          "paragraph_id": 24,
+          "id": 49,
+          "paragraph_id": 21,
           "text": "He added some more food to her bowl and also to his own."
         },
         {
-          "id": 53,
-          "paragraph_id": 25,
+          "id": 50,
+          "paragraph_id": 22,
           "text": "He was ravenous after expending so much energy."
         },
         {
-          "id": 54,
-          "paragraph_id": 25,
+          "id": 51,
+          "paragraph_id": 22,
           "text": "And also, there was the other thing..."
         },
         {
-          "id": 55,
-          "paragraph_id": 26,
+          "id": 52,
+          "paragraph_id": 23,
           "text": "\"Umm... brother... this... something looks different about you?\" Meilin couldn't put a finger on it but her scrawny brother looked somewhat different today."
         },
         {
-          "id": 56,
-          "paragraph_id": 27,
+          "id": 53,
+          "paragraph_id": 24,
           "text": "Though he was still a skeleton, he seemed as if he was stronger for some reason."
         },
         {
-          "id": 57,
-          "paragraph_id": 27,
+          "id": 54,
+          "paragraph_id": 24,
           "text": "The pimples on his face had also disappeared and he had muscles?"
         },
         {
-          "id": 58,
-          "paragraph_id": 28,
+          "id": 55,
+          "paragraph_id": 25,
           "text": "\"Eh?"
         },
         {
-          "id": 59,
-          "paragraph_id": 28,
+          "id": 56,
+          "paragraph_id": 25,
           "text": "Stop staring at me and eat your food."
         },
         {
-          "id": 60,
-          "paragraph_id": 28,
+          "id": 57,
+          "paragraph_id": 25,
           "text": "We are eating better so it's natural to look and feel better."
         },
         {
-          "id": 61,
-          "paragraph_id": 28,
+          "id": 58,
+          "paragraph_id": 25,
           "text": "Don't think too much about it.\""
         },
         {
-          "id": 62,
-          "paragraph_id": 29,
+          "id": 59,
+          "paragraph_id": 26,
           "text": "\"And no school tomorrow alright?\""
         },
         {
-          "id": 63,
-          "paragraph_id": 30,
+          "id": 60,
+          "paragraph_id": 27,
           "text": "\"I am earning now playing this game."
         },
         {
-          "id": 64,
-          "paragraph_id": 30,
+          "id": 61,
+          "paragraph_id": 27,
           "text": "So we can afford to move to a better place."
         },
         {
-          "id": 65,
-          "paragraph_id": 30,
+          "id": 62,
+          "paragraph_id": 27,
           "text": "I don't want us to stay here any longer.\""
         },
         {
-          "id": 66,
-          "paragraph_id": 31,
+          "id": 63,
+          "paragraph_id": 28,
           "text": "\"You should eat well and take a proper rest tonight so you help brother when we move tomorrow.\""
         },
         {
-          "id": 67,
-          "paragraph_id": 32,
+          "id": 64,
+          "paragraph_id": 29,
           "text": "\"Wahhh!"
         },
         {
-          "id": 68,
-          "paragraph_id": 32,
+          "id": 65,
+          "paragraph_id": 29,
           "text": "Brother, is this really true?"
         },
         {
-          "id": 69,
-          "paragraph_id": 32,
+          "id": 66,
+          "paragraph_id": 29,
           "text": "We can earn money by just playing games?\""
         },
         {
-          "id": 70,
-          "paragraph_id": 33,
+          "id": 67,
+          "paragraph_id": 30,
           "text": "Liam smiled and ruffled her head, which made the young girl pout."
         },
         {
-          "id": 71,
-          "paragraph_id": 33,
+          "id": 68,
+          "paragraph_id": 30,
           "text": "\"Of course."
         },
         {
-          "id": 72,
-          "paragraph_id": 33,
+          "id": 69,
+          "paragraph_id": 30,
           "text": "Why will I lie to you?\""
         },
         {
-          "id": 73,
-          "paragraph_id": 34,
+          "id": 70,
+          "paragraph_id": 31,
           "text": "\"We will have a better life from now on."
         },
         {
-          "id": 74,
-          "paragraph_id": 34,
+          "id": 71,
+          "paragraph_id": 31,
           "text": "You can have your own room."
         },
         {
-          "id": 75,
-          "paragraph_id": 34,
+          "id": 72,
+          "paragraph_id": 31,
           "text": "New dresses."
         },
         {
-          "id": 76,
-          "paragraph_id": 34,
+          "id": 73,
+          "paragraph_id": 31,
           "text": "Whatever you want."
         },
         {
-          "id": 77,
-          "paragraph_id": 34,
+          "id": 74,
+          "paragraph_id": 31,
           "text": "You will see tomorrow.\" He nodded."
         },
         {
-          "id": 78,
-          "paragraph_id": 35,
+          "id": 75,
+          "paragraph_id": 32,
           "text": "\"Ahh...\" The girl was completely speechless."
         },
         {
-          "id": 79,
-          "paragraph_id": 35,
+          "id": 76,
+          "paragraph_id": 32,
           "text": "\"Brother then I should also start playing?"
         },
         {
-          "id": 80,
-          "paragraph_id": 35,
+          "id": 77,
+          "paragraph_id": 32,
           "text": "I can help you?\""
         },
         {
-          "id": 81,
-          "paragraph_id": 36,
+          "id": 78,
+          "paragraph_id": 33,
           "text": "\"Mmm."
         },
         {
-          "id": 82,
-          "paragraph_id": 36,
+          "id": 79,
+          "paragraph_id": 33,
           "text": "All in due time."
         },
         {
-          "id": 83,
-          "paragraph_id": 36,
+          "id": 80,
+          "paragraph_id": 33,
           "text": "Let brother get stronger first."
         },
         {
-          "id": 84,
-          "paragraph_id": 36,
+          "id": 81,
+          "paragraph_id": 33,
           "text": "Then I will take you to the new world.\""
         },
         {
-          "id": 85,
-          "paragraph_id": 37,
+          "id": 82,
+          "paragraph_id": 34,
           "text": "\"Ahh... but!\""
         },
         {
-          "id": 86,
-          "paragraph_id": 38,
+          "id": 83,
+          "paragraph_id": 35,
           "text": "\"No buts!"
         },
         {
-          "id": 87,
-          "paragraph_id": 38,
+          "id": 84,
+          "paragraph_id": 35,
           "text": "You should rest first."
         },
         {
-          "id": 88,
-          "paragraph_id": 38,
+          "id": 85,
+          "paragraph_id": 35,
           "text": "After you wake up, wait for me and don't head out to school."
         },
         {
-          "id": 89,
-          "paragraph_id": 38,
+          "id": 86,
+          "paragraph_id": 35,
           "text": "Remember alright?\""
         },
         {
-          "id": 90,
-          "paragraph_id": 39,
+          "id": 87,
+          "paragraph_id": 36,
           "text": "\"Ok, brother."
         },
         {
-          "id": 91,
-          "paragraph_id": 39,
+          "id": 88,
+          "paragraph_id": 36,
           "text": "I will listen to you."
         },
         {
-          "id": 92,
-          "paragraph_id": 39,
+          "id": 89,
+          "paragraph_id": 36,
           "text": "Umm..."
         },
         {
-          "id": 93,
-          "paragraph_id": 39,
+          "id": 90,
+          "paragraph_id": 36,
           "text": "Don't work too hard.\""
         },
         {
-          "id": 94,
-          "paragraph_id": 40,
+          "id": 91,
+          "paragraph_id": 37,
           "text": "\"Ha Ha."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 37,
+          "text": "I won't.\" Liam threw the dishes into the small sink and didn't bother to wash them."
+        },
+        {
+          "id": 93,
+          "paragraph_id": 38,
+          "text": "He then made sure that the door was latched properly, drank a jug full of water, and popped back into the capsule again."
+        },
+        {
+          "id": 94,
+          "paragraph_id": 39,
+          "text": "After he left, Chang Meilin looked at the capsule from a dozen different angles, but she was too afraid to mess up something and didn't come anywhere near it."
         },
         {
           "id": 95,
           "paragraph_id": 40,
-          "text": "I won't.\" Liam threw the dishes into the small sink and didn't bother to wash them."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 41,
-          "text": "He then made sure that the door was latched properly, drank a jug full of water, and popped back into the capsule again."
-        },
-        {
-          "id": 97,
-          "paragraph_id": 42,
-          "text": "After he left, Chang Meilin looked at the capsule from a dozen different angles, but she was too afraid to mess up something and didn't come anywhere near it."
-        },
-        {
-          "id": 98,
-          "paragraph_id": 43,
           "text": "She sat back in her corner, silently pulled out her textbook, and started reading."
         }
       ],
-      "word_count": 897
+      "word_count": 894
     },
     {
       "chapter_index": 39,

@@ -3310,7 +3310,9 @@
                     .replace(/[\u0440\u0420]/g, 'p').replace(/[\u0441\u0421]/g, 'c').replace(/[\u0456\u0406]/g, 'i')
                     .replace(/[\u2060\u200b\ufeff]/g, '');
 
-      const domain = '(?:novel\\s*ping|novel\\s*bin|freewebnovel)(?:[\\s\\(\\[\\{]*(?:\\.|\\bdot\\b)[\\s\\)\\]\\}]*com)?';
+      const domain = '(?:novel\\s*ping|freewebnovel|novel\\s*bin|vipnovel|webnovel)(?:[\\s\\(\\[\\{]*(?:\\.|\\bdot\\b)[\\s\\)\\]\\}]*(?:com|live|net|org|\\(?c\\)?\\(?o\\)?\\(?m\\)?))?';
+      const promoAction = '(?:(?:This|The|Your)[-_ ]+[^.!?\\n]{0,35}?[-_ ]+|(?:Continue|Enjoy|Read|Experience|Find|Discover|Explore|Stay|Don[\\\'’]t[-_ ]*miss|Follow|Visit|Get|New)[-_ ]+[^.!?\\n]{0,35}?[-_ ]+|(?:Exclusive|New|More|Latest)[-_ ]+(?:content|stories|tales|chapters|adventures|read)[-_ ]+|(?:hosted|story|chapter|updates?|source)[-_ ]+(?:on|by|at|from)[-_ ]*|hosted[-_ ]*(?:on|by|at|from)?[-_ ]*)(?:at|from|with|on|via|through|to|by|fro)?[-_ ]*' + domain;
+
       const wmPat = new RegExp(
         '(?:[\\s\\(\\[\\\'\\\"“‘]|^)(?:' +
         'This\\s+chapter\\s+was\\s+(?:taken|copied|stolen)\\s+from\\s+' + domain + '(?:\\s+without\\s+permission)?' +
@@ -3325,12 +3327,20 @@
         '|New\\s+chapters\\s+come\\s+out\\s+on\\s+' + domain + '(?:\\s+first)?' +
         '|Enjoying\\s+the\\s+story\\?\\s*Read\\s+on\\s+at\\s+' + domain +
         '|Read\\s+(?:this\\s+novel\\s+at|the\\s+latest\\s+chapters\\s+at|on\\s+at|on)\\s+' + domain + '(?:\\s+for\\s+the\\s+best\\s+experience)?' +
+        '|' + promoAction +
+        '|' + domain + '[-_ ]+(?:your[-_ ]+)?(?:story|stories|chapters?|updates?|sources?|novels?)[^\\n.!?]*' +
+        '|Cheaper\\s+than\\s+' + domain + '[^\\n.!?]*' +
+        '|MESSAGE:\\s*My\\s+Werewolf\\s+system\\s+is\\s+now\\s+out\\s+on\\s+' + domain + '[^\\n.!?]*' +
+        '|(?<=[\\.\\!\\?\\\"\\\'”’\\)\\}])\\s*(?:f\\s*ree)?' + domain + '\\.?\\s*$' +
         ')[ \\)\\}\\]\\\'\\\"”’\\.]*',
         'gi'
       );
 
       text = text.replace(wmPat, '')
-                 .replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)\.(?:com|net|org)\b[\'\"”’\.\,\)]*/gi, '')
+                 .replace(/\\bcoNovelBine\\b/gi, 'combine')
+                 .replace(/\\bbelieNovelBine\\b/gi, 'believe')
+                 .replace(/([a-zA-Z0-9\\]\\)])\\s*experience\\s+NovelBin[^\\n.!?]*/gi, '$1')
+                 .replace(/(?:[\s\.\!\?\"\'\)]|^)(?:https?:\/\/)?(?:www\.)?(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)\.(?:com|live|net|org)\b[\'\"”’\.\,\)]*/gi, '')
                  .replace(/([^\w\s.!?,"']|_)\1{2,}%?/g, '')
                  .replace(/(?:\s*[-_~=*+#•]\s*){3,}/g, ' ')
                  .replace(/\.{4,}/g, '...')

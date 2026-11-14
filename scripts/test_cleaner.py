@@ -1,8 +1,13 @@
 import re
+import os
+import sys
 import html
 import unicodedata
 
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from novel_cleaner import clean_paragraph_text, is_ad_or_watermark_paragraph, clean_chapter_data
+from scrape import strip_html_suffix, parse_novel_input
 
 if __name__ == "__main__":
     import sys
@@ -106,6 +111,18 @@ if __name__ == "__main__":
     assert is_ad_or_watermark_paragraph("Keep the Magic Castles and Golden Tickets coming!") is True, "Golden tickets begging detected"
     assert is_ad_or_watermark_paragraph("4/4 Keep the Magic Castles and Golden Tickets coming! Looks like we’ll finish top 10 this month!") is True, "Magic castles begging detected"
 
+    # Slug preservation & parse_novel_input assertions
+    assert strip_html_suffix("library-of-heavens-path") == "library-of-heavens-path", "Preserve ending 'th'"
+    assert strip_html_suffix("library-of-heavens-path.html") == "library-of-heavens-path", "Strip .html cleanly"
+    assert strip_html_suffix("death-and-rebirth.htm") == "death-and-rebirth", "Strip .htm cleanly"
+    assert strip_html_suffix("the-path-of-truth") == "the-path-of-truth", "Preserve path and truth"
+    
+    parsed_lp = parse_novel_input("https://novelping.com/book/library-of-heavens-path")
+    assert parsed_lp is not None
+    assert parsed_lp["id"] == "library-of-heavens-path", f"Expected library-of-heavens-path, got {parsed_lp['id']}"
+    assert parsed_lp["title"] == "Library Of Heavens Path", f"Expected Library Of Heavens Path, got {parsed_lp['title']}"
+    assert parsed_lp["data_path"] == "data/library-of-heavens-path/", f"Expected data/library-of-heavens-path/, got {parsed_lp['data_path']}"
+
     # NovelPing & pirate site watermark assertions
     assert clean_paragraph_text("In the blink of an eye, the hundreds of ice arrows shot together, and the momentum was extremely terrifying.This chapter was taken from novelping dot com without permission.") == "In the blink of an eye, the hundreds of ice arrows shot together, and the momentum was extremely terrifying."
     assert clean_paragraph_text("Pollen is poisonous! This chapter was taken from nov\u0435lping.com without permission.") == "Pollen is poisonous!"
@@ -123,6 +140,28 @@ if __name__ == "__main__":
     assert is_ad_or_watermark_paragraph("Visit nov\u0435lping.com for the full chapter.") is True
     assert is_ad_or_watermark_paragraph("Only when the village reaches level 1, the village chief's wooden house has permission to upgrade to level 3.") is False, "Story context with permission must be preserved"
     assert is_ad_or_watermark_paragraph("Only the villager's wooden house has permission to upgrade to level 2.") is False, "Story context with permission must be preserved"
+
+    # NovelPing / FreeWebNovel / NovelBin dynamic injected watermarks
+    assert clean_paragraph_text("Find your next read at freewebnovel") == ""
+    assert clean_paragraph_text("Experience tales with freewebnovel") == ""
+    assert clean_paragraph_text("Don't miss chapters on freewebnovel") == ""
+    assert clean_paragraph_text("Your next chapter awaits on freewebnovel") == ""
+    assert clean_paragraph_text("hosted-on-NovelBin") == ""
+    assert clean_paragraph_text("We can coNovelBine our efforts.") == "We can combine our efforts."
+    assert clean_paragraph_text("Do you belieNovelBine him?") == "Do you believe him?"
+    assert clean_paragraph_text("Cheaper than NovelBin") == ""
+    assert clean_paragraph_text("[Agility: 51] experience NovelBin") == "[Agility: 51]"
+    assert clean_paragraph_text("find-more-stories-on-NovelBin") == ""
+    assert clean_paragraph_text("NovelBin-your-story-source") == ""
+    assert is_ad_or_watermark_paragraph("Find your next read at freewebnovel") is True
+    assert is_ad_or_watermark_paragraph("Experience tales with freewebnovel") is True
+    assert is_ad_or_watermark_paragraph("Don't miss chapters on freewebnovel") is True
+    assert is_ad_or_watermark_paragraph("Your next chapter awaits on freewebnovel") is True
+    assert is_ad_or_watermark_paragraph("hosted-on-NovelBin") is True
+    assert is_ad_or_watermark_paragraph("find-more-stories-on-NovelBin") is True
+    assert is_ad_or_watermark_paragraph("NovelBin-your-story-source") is True
+    assert is_ad_or_watermark_paragraph("Just a reminder that Tang Biyue’s art is available in the NovelBin’s character tab (Fan Club button at the end of the Chapter.)") is True
+    assert is_ad_or_watermark_paragraph("Follow the author on Instagram for other updates: https://www.instagram.com/yolohy_FreeWebNovel/") is True
 
     # End-to-end chapter test with Author Notes, Discord, Voting, and Tail Self-Promo
     test_ch = {

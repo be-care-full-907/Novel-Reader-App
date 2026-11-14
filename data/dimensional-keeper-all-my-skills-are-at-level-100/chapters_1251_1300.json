@@ -591,7 +591,6 @@
         "Lucien’s expression remained composed, though his eyes sharpened. \"He sensed the disturbance.\"",
         "Max smiled faintly, not the least bit surprised. \"Then let’s go and greet him.\"",
         "With a casual sweep of his hand, Max tore open a stable portal leading back to the outside of the tower. Both of them stepped through without delay.",
-        "---",
         "The shores of the Lost Continent shook as a terrifying presence descended from above. A black crack opened in the sky and from within stepped a man wrapped in an aura of absolute dominance. Space trembled under his feet. Even the ocean below bent unnaturally as he appeared.",
         "Mark—the crownbearer of Acaris—had arrived.",
         "His long dark hair flowed like shadow-stained smoke, and his eyes glowed with an intensity that pierced through the souls of everyone present. He stood towering above the group of assembled leaders, yet he refused to step into the Lost Continent’s boundary.",
@@ -991,50 +990,45 @@
         {
           "id": 78,
           "paragraph_id": 37,
-          "text": "---"
-        },
-        {
-          "id": 79,
-          "paragraph_id": 38,
           "text": "The shores of the Lost Continent shook as a terrifying presence descended from above."
         },
         {
-          "id": 80,
-          "paragraph_id": 38,
+          "id": 79,
+          "paragraph_id": 37,
           "text": "A black crack opened in the sky and from within stepped a man wrapped in an aura of absolute dominance."
         },
         {
-          "id": 81,
-          "paragraph_id": 38,
+          "id": 80,
+          "paragraph_id": 37,
           "text": "Space trembled under his feet."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 37,
+          "text": "Even the ocean below bent unnaturally as he appeared."
         },
         {
           "id": 82,
           "paragraph_id": 38,
-          "text": "Even the ocean below bent unnaturally as he appeared."
+          "text": "Mark—the crownbearer of Acaris—had arrived."
         },
         {
           "id": 83,
           "paragraph_id": 39,
-          "text": "Mark—the crownbearer of Acaris—had arrived."
+          "text": "His long dark hair flowed like shadow-stained smoke, and his eyes glowed with an intensity that pierced through the souls of everyone present."
         },
         {
           "id": 84,
-          "paragraph_id": 40,
-          "text": "His long dark hair flowed like shadow-stained smoke, and his eyes glowed with an intensity that pierced through the souls of everyone present."
+          "paragraph_id": 39,
+          "text": "He stood towering above the group of assembled leaders, yet he refused to step into the Lost Continent’s boundary."
         },
         {
           "id": 85,
           "paragraph_id": 40,
-          "text": "He stood towering above the group of assembled leaders, yet he refused to step into the Lost Continent’s boundary."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 41,
           "text": "Even Mark feared the tower’s curse."
         }
       ],
-      "word_count": 1017
+      "word_count": 1016
     },
     {
       "chapter_index": 1253,
@@ -3047,14 +3041,12 @@
         "Then Mark’s figure became hazy.",
         "A ripple spread across the sky.",
         "And in the space of a blink, he vanished completely.",
-        "---",
         "The shore grew silent—utterly silent. The leaders who had not dared to breathe while Mark hovered above them instantly felt their legs tremble beneath them. Some gasped sharply for air. Some clutched their chests. A few nearly collapsed in absolute relief.",
         "Their backs were soaked in cold sweat.",
         "Their faces pale.",
         "Only now, after Mark disappeared, did the reality sink into their minds.",
         "They had stood face-to-face with the crownbearer.",
         "And lived.",
-        "----",
         "\"Well, this went well,\" Lucien said with a quiet smile that carried both relief and a trace of lingering tension.",
         "Max nodded slowly as he exhaled. \"I was prepared for an all-out attack,\" he admitted with a small shake of his head. \"I walked into this meeting expecting chaos, but I think Mark is more desperate than we assumed.\"",
         "The words tasted strange in his mouth. They carried no sympathy, yet they carried the weight of a man trying to understand the nature of someone who once stood on the side of righteousness. Max’s eyes drifted across the sky as if he could still sense the remnants of Mark’s influence scattered in the air. \"He feels cornered. That much is clear.\"",
@@ -3071,7 +3063,6 @@
         "The tension among the leaders slowly eased as they listened to Max’s calm explanations and Lucien’s assurances, for both men radiated the kind of power and certainty that brought confidence to entire continents.",
         "When the discussions finally ended, Max and Lucien parted ways with the leaders. The two of them launched into the sky, drifting apart as they headed toward their respective duties.",
         "Behind them, the Middle Domain watched silently, knowing that the fate of the world now rested on the shoulders of these two unmatched figures who walked paths beyond mortal comprehension.",
-        "---",
         "Max returned to the ancestral chamber of the Elven Kingdom after parting ways with Lucien and the leaders, expecting silence and stillness within the sacred halls. Instead, the moment he crossed the threshold, he felt vibrations in the air—bursts of elemental energy clashing rhythmically, like two waves crashing against each other in perfect harmony.",
         "He paused, raising a brow.",
         "The normally solemn chamber of statues and ancient runes was lit up by streams of gold and scarlet. The soft glow of ancestral crystals reflected off two figures moving at high speed in the open training space at the center of the hall.",
@@ -3179,345 +3170,330 @@
         {
           "id": 19,
           "paragraph_id": 10,
-          "text": "---"
-        },
-        {
-          "id": 20,
-          "paragraph_id": 11,
           "text": "The shore grew silent—utterly silent."
         },
         {
-          "id": 21,
-          "paragraph_id": 11,
+          "id": 20,
+          "paragraph_id": 10,
           "text": "The leaders who had not dared to breathe while Mark hovered above them instantly felt their legs tremble beneath them."
         },
         {
-          "id": 22,
-          "paragraph_id": 11,
+          "id": 21,
+          "paragraph_id": 10,
           "text": "Some gasped sharply for air."
         },
         {
-          "id": 23,
-          "paragraph_id": 11,
+          "id": 22,
+          "paragraph_id": 10,
           "text": "Some clutched their chests."
+        },
+        {
+          "id": 23,
+          "paragraph_id": 10,
+          "text": "A few nearly collapsed in absolute relief."
         },
         {
           "id": 24,
           "paragraph_id": 11,
-          "text": "A few nearly collapsed in absolute relief."
+          "text": "Their backs were soaked in cold sweat."
         },
         {
           "id": 25,
           "paragraph_id": 12,
-          "text": "Their backs were soaked in cold sweat."
+          "text": "Their faces pale."
         },
         {
           "id": 26,
           "paragraph_id": 13,
-          "text": "Their faces pale."
+          "text": "Only now, after Mark disappeared, did the reality sink into their minds."
         },
         {
           "id": 27,
           "paragraph_id": 14,
-          "text": "Only now, after Mark disappeared, did the reality sink into their minds."
+          "text": "They had stood face-to-face with the crownbearer."
         },
         {
           "id": 28,
           "paragraph_id": 15,
-          "text": "They had stood face-to-face with the crownbearer."
+          "text": "And lived."
         },
         {
           "id": 29,
           "paragraph_id": 16,
-          "text": "And lived."
+          "text": "\"Well, this went well,\" Lucien said with a quiet smile that carried both relief and a trace of lingering tension."
         },
         {
           "id": 30,
           "paragraph_id": 17,
-          "text": "----"
-        },
-        {
-          "id": 31,
-          "paragraph_id": 18,
-          "text": "\"Well, this went well,\" Lucien said with a quiet smile that carried both relief and a trace of lingering tension."
-        },
-        {
-          "id": 32,
-          "paragraph_id": 19,
           "text": "Max nodded slowly as he exhaled."
         },
         {
-          "id": 33,
-          "paragraph_id": 19,
+          "id": 31,
+          "paragraph_id": 17,
           "text": "\"I was prepared for an all-out attack,\" he admitted with a small shake of his head."
         },
         {
-          "id": 34,
-          "paragraph_id": 19,
+          "id": 32,
+          "paragraph_id": 17,
           "text": "\"I walked into this meeting expecting chaos, but I think Mark is more desperate than we assumed.\""
         },
         {
-          "id": 35,
-          "paragraph_id": 20,
+          "id": 33,
+          "paragraph_id": 18,
           "text": "The words tasted strange in his mouth."
         },
         {
-          "id": 36,
-          "paragraph_id": 20,
+          "id": 34,
+          "paragraph_id": 18,
           "text": "They carried no sympathy, yet they carried the weight of a man trying to understand the nature of someone who once stood on the side of righteousness."
         },
         {
-          "id": 37,
-          "paragraph_id": 20,
+          "id": 35,
+          "paragraph_id": 18,
           "text": "Max’s eyes drifted across the sky as if he could still sense the remnants of Mark’s influence scattered in the air."
         },
         {
-          "id": 38,
-          "paragraph_id": 20,
+          "id": 36,
+          "paragraph_id": 18,
           "text": "\"He feels cornered."
         },
         {
-          "id": 39,
-          "paragraph_id": 20,
+          "id": 37,
+          "paragraph_id": 18,
           "text": "That much is clear.\""
         },
         {
-          "id": 40,
-          "paragraph_id": 21,
+          "id": 38,
+          "paragraph_id": 19,
           "text": "\"Why wouldn’t he be?\" Lucien replied with another soft smile."
         },
         {
-          "id": 41,
-          "paragraph_id": 21,
+          "id": 39,
+          "paragraph_id": 19,
           "text": "\"If the planet he is bound to collapses, then what exactly would he remain?"
         },
         {
-          "id": 42,
-          "paragraph_id": 21,
+          "id": 40,
+          "paragraph_id": 19,
           "text": "What sort of god exists without the world that birthed him?\" Lucien’s voice carried a philosophical note, but there was no mockery in it."
         },
         {
-          "id": 43,
-          "paragraph_id": 21,
+          "id": 41,
+          "paragraph_id": 19,
           "text": "Only curiosity, and perhaps a faint hint of pity for a being who had strayed so far from his purpose."
         },
         {
-          "id": 44,
-          "paragraph_id": 22,
+          "id": 42,
+          "paragraph_id": 20,
           "text": "Max absorbed that thought and let it settle."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 20,
+          "text": "What he had said earlier about Mark’s fate had been little more than an educated guess born from frustration."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 21,
+          "text": "Now that he was thinking clearly again, he realized how little he truly understood about what happened to a crownbearer when the world they meant to protect was destroyed."
         },
         {
           "id": 45,
           "paragraph_id": 22,
-          "text": "What he had said earlier about Mark’s fate had been little more than an educated guess born from frustration."
-        },
-        {
-          "id": 46,
-          "paragraph_id": 23,
-          "text": "Now that he was thinking clearly again, he realized how little he truly understood about what happened to a crownbearer when the world they meant to protect was destroyed."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 24,
           "text": "Was the connection severed?"
         },
         {
-          "id": 48,
-          "paragraph_id": 24,
+          "id": 46,
+          "paragraph_id": 22,
           "text": "Was the crownbearer dragged into oblivion with it?"
         },
         {
-          "id": 49,
-          "paragraph_id": 24,
+          "id": 47,
+          "paragraph_id": 22,
           "text": "Or did the corrupted divinity survive in some hollow state between life and death?"
         },
         {
-          "id": 50,
-          "paragraph_id": 25,
+          "id": 48,
+          "paragraph_id": 23,
           "text": "Lucien’s next words pulled his mind back."
         },
         {
-          "id": 51,
-          "paragraph_id": 25,
+          "id": 49,
+          "paragraph_id": 23,
           "text": "\"By the way, your strength has reached a level completely beyond the rest of the world."
         },
         {
-          "id": 52,
-          "paragraph_id": 25,
+          "id": 50,
+          "paragraph_id": 23,
           "text": "I look at you now and wonder if the gap is still measurable."
         },
         {
-          "id": 53,
-          "paragraph_id": 25,
+          "id": 51,
+          "paragraph_id": 23,
           "text": "I genuinely do not know where your limits are anymore.\" His tone held admiration, caution, and curiosity woven together."
         },
         {
-          "id": 54,
-          "paragraph_id": 26,
+          "id": 52,
+          "paragraph_id": 24,
           "text": "Max released a slow breath as a faint, dangerous smile tugged at the corner of his lips."
         },
         {
-          "id": 55,
-          "paragraph_id": 26,
+          "id": 53,
+          "paragraph_id": 24,
           "text": "\"Do you want to find out?"
         },
         {
-          "id": 56,
-          "paragraph_id": 26,
+          "id": 54,
+          "paragraph_id": 24,
           "text": "We can spar right now.\" His battle intent flickered to life the moment he spoke, rising naturally like a starved flame searching for fuel."
         },
         {
-          "id": 57,
-          "paragraph_id": 26,
+          "id": 55,
+          "paragraph_id": 24,
           "text": "The space around him vibrated faintly, as if responding to his desire to test the boundaries of his new strength."
         },
         {
-          "id": 58,
-          "paragraph_id": 27,
+          "id": 56,
+          "paragraph_id": 25,
           "text": "Lucien raised his hands in refusal, though amusement flashed in his eyes."
         },
         {
-          "id": 59,
-          "paragraph_id": 27,
+          "id": 57,
+          "paragraph_id": 25,
           "text": "\"Not today,\" he said calmly."
         },
         {
-          "id": 60,
-          "paragraph_id": 27,
+          "id": 58,
+          "paragraph_id": 25,
           "text": "\"But I am certain I will see what you are capable of soon enough."
         },
         {
-          "id": 61,
-          "paragraph_id": 27,
+          "id": 59,
+          "paragraph_id": 25,
           "text": "A storm is coming, and both of us will be forced to show our hands whether we want to or not.\""
         },
         {
-          "id": 62,
-          "paragraph_id": 28,
+          "id": 60,
+          "paragraph_id": 26,
           "text": "Max let the battle intent fade slowly."
         },
         {
-          "id": 63,
-          "paragraph_id": 28,
+          "id": 61,
+          "paragraph_id": 26,
           "text": "\"Fair enough,\" he said."
         },
         {
-          "id": 64,
-          "paragraph_id": 28,
+          "id": 62,
+          "paragraph_id": 26,
           "text": "\"And speaking of storms, I have found a way to deal with the demons."
         },
         {
-          "id": 65,
-          "paragraph_id": 28,
+          "id": 63,
+          "paragraph_id": 26,
           "text": "I need a few days to put everything in place."
         },
         {
-          "id": 66,
-          "paragraph_id": 28,
+          "id": 64,
+          "paragraph_id": 26,
           "text": "When the preparations are complete, I will contact you.\""
         },
         {
-          "id": 67,
-          "paragraph_id": 29,
+          "id": 65,
+          "paragraph_id": 27,
           "text": "Lucien nodded and accepted the words without question."
         },
         {
-          "id": 68,
-          "paragraph_id": 29,
+          "id": 66,
+          "paragraph_id": 27,
           "text": "He seemed to understand that Max did not speak lightly when the survival of the Middle Domain was at stake."
         },
         {
-          "id": 69,
-          "paragraph_id": 29,
+          "id": 67,
+          "paragraph_id": 27,
           "text": "\"Good."
         },
         {
-          "id": 70,
-          "paragraph_id": 29,
+          "id": 68,
+          "paragraph_id": 27,
           "text": "The sooner you act, the sooner we can stabilize this region.\""
         },
         {
-          "id": 71,
-          "paragraph_id": 30,
+          "id": 69,
+          "paragraph_id": 28,
           "text": "With that agreement settled, Max and Lucien walked together toward the leaders of the Middle Domain."
+        },
+        {
+          "id": 70,
+          "paragraph_id": 28,
+          "text": "They discussed matters briefly with the assembled lords and exchanged final updates regarding the movement of demon forces and the ongoing threat of the nulls."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 29,
+          "text": "The tension among the leaders slowly eased as they listened to Max’s calm explanations and Lucien’s assurances, for both men radiated the kind of power and certainty that brought confidence to entire continents."
         },
         {
           "id": 72,
           "paragraph_id": 30,
-          "text": "They discussed matters briefly with the assembled lords and exchanged final updates regarding the movement of demon forces and the ongoing threat of the nulls."
+          "text": "When the discussions finally ended, Max and Lucien parted ways with the leaders."
         },
         {
           "id": 73,
-          "paragraph_id": 31,
-          "text": "The tension among the leaders slowly eased as they listened to Max’s calm explanations and Lucien’s assurances, for both men radiated the kind of power and certainty that brought confidence to entire continents."
+          "paragraph_id": 30,
+          "text": "The two of them launched into the sky, drifting apart as they headed toward their respective duties."
         },
         {
           "id": 74,
-          "paragraph_id": 32,
-          "text": "When the discussions finally ended, Max and Lucien parted ways with the leaders."
+          "paragraph_id": 31,
+          "text": "Behind them, the Middle Domain watched silently, knowing that the fate of the world now rested on the shoulders of these two unmatched figures who walked paths beyond mortal comprehension."
         },
         {
           "id": 75,
           "paragraph_id": 32,
-          "text": "The two of them launched into the sky, drifting apart as they headed toward their respective duties."
-        },
-        {
-          "id": 76,
-          "paragraph_id": 33,
-          "text": "Behind them, the Middle Domain watched silently, knowing that the fate of the world now rested on the shoulders of these two unmatched figures who walked paths beyond mortal comprehension."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 34,
-          "text": "---"
-        },
-        {
-          "id": 78,
-          "paragraph_id": 35,
           "text": "Max returned to the ancestral chamber of the Elven Kingdom after parting ways with Lucien and the leaders, expecting silence and stillness within the sacred halls."
         },
         {
-          "id": 79,
-          "paragraph_id": 35,
+          "id": 76,
+          "paragraph_id": 32,
           "text": "Instead, the moment he crossed the threshold, he felt vibrations in the air—bursts of elemental energy clashing rhythmically, like two waves crashing against each other in perfect harmony."
         },
         {
-          "id": 80,
-          "paragraph_id": 36,
+          "id": 77,
+          "paragraph_id": 33,
           "text": "He paused, raising a brow."
         },
         {
-          "id": 81,
-          "paragraph_id": 37,
+          "id": 78,
+          "paragraph_id": 34,
           "text": "The normally solemn chamber of statues and ancient runes was lit up by streams of gold and scarlet."
+        },
+        {
+          "id": 79,
+          "paragraph_id": 34,
+          "text": "The soft glow of ancestral crystals reflected off two figures moving at high speed in the open training space at the center of the hall."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 35,
+          "text": "Lenavira."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 36,
+          "text": "\"She has awakened!\" Max was happy for her."
         },
         {
           "id": 82,
           "paragraph_id": 37,
-          "text": "The soft glow of ancestral crystals reflected off two figures moving at high speed in the open training space at the center of the hall."
+          "text": "And Alice."
         },
         {
           "id": 83,
           "paragraph_id": 38,
-          "text": "Lenavira."
-        },
-        {
-          "id": 84,
-          "paragraph_id": 39,
-          "text": "\"She has awakened!\" Max was happy for her."
-        },
-        {
-          "id": 85,
-          "paragraph_id": 40,
-          "text": "And Alice."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 41,
           "text": "Both were sparring, their movements clean and fluid, their smiles bright and genuine."
         }
       ],
-      "word_count": 1092
+      "word_count": 1089
     },
     {
       "chapter_index": 1257,
@@ -4208,7 +4184,6 @@
         "And through it all, Max remained in the background, sharpening himself quietly, preparing for the inevitable storm.",
         "Two months passed in silence.",
         "Just like that.",
-        "----",
         "After two months, soon a small chaos erupted in the Middle Domain because Max had called out all the leaders for a meeting. Everyone was shocked why Max called out the meeting. For the past few or some meeting over the last two months, Max had been absent and now out of nowhere he called a meeting surprising everyone.",
         "Curious every leaders attended the meeting because it was Max who called out the meeting.",
         "The atmosphere was already tense because everyone had sensed that he would not summon them without a monumental reason. Freya spoke first, calm and collected, though her tone carried an undercurrent of weight. She knew Max well enough to sense something unusual.",
@@ -4472,145 +4447,140 @@
         {
           "id": 49,
           "paragraph_id": 22,
-          "text": "----"
-        },
-        {
-          "id": 50,
-          "paragraph_id": 23,
           "text": "After two months, soon a small chaos erupted in the Middle Domain because Max had called out all the leaders for a meeting."
         },
         {
-          "id": 51,
-          "paragraph_id": 23,
+          "id": 50,
+          "paragraph_id": 22,
           "text": "Everyone was shocked why Max called out the meeting."
+        },
+        {
+          "id": 51,
+          "paragraph_id": 22,
+          "text": "For the past few or some meeting over the last two months, Max had been absent and now out of nowhere he called a meeting surprising everyone."
         },
         {
           "id": 52,
           "paragraph_id": 23,
-          "text": "For the past few or some meeting over the last two months, Max had been absent and now out of nowhere he called a meeting surprising everyone."
+          "text": "Curious every leaders attended the meeting because it was Max who called out the meeting."
         },
         {
           "id": 53,
           "paragraph_id": 24,
-          "text": "Curious every leaders attended the meeting because it was Max who called out the meeting."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 25,
           "text": "The atmosphere was already tense because everyone had sensed that he would not summon them without a monumental reason."
         },
         {
-          "id": 55,
-          "paragraph_id": 25,
+          "id": 54,
+          "paragraph_id": 24,
           "text": "Freya spoke first, calm and collected, though her tone carried an undercurrent of weight."
+        },
+        {
+          "id": 55,
+          "paragraph_id": 24,
+          "text": "She knew Max well enough to sense something unusual."
         },
         {
           "id": 56,
           "paragraph_id": 25,
-          "text": "She knew Max well enough to sense something unusual."
+          "text": "\"For what reason did you call this meeting?\" she asked, her gaze fixed on him."
         },
         {
           "id": 57,
           "paragraph_id": 26,
-          "text": "\"For what reason did you call this meeting?\" she asked, her gaze fixed on him."
+          "text": "Max sat before them with a composed expression, his calmness contrasting almost harshly with the restless anticipation surrounding him."
         },
         {
           "id": 58,
-          "paragraph_id": 27,
-          "text": "Max sat before them with a composed expression, his calmness contrasting almost harshly with the restless anticipation surrounding him."
+          "paragraph_id": 26,
+          "text": "His voice carried an even tone, one that did not waver despite dozens of Divine Rank experts looking at him at once."
         },
         {
           "id": 59,
           "paragraph_id": 27,
-          "text": "His voice carried an even tone, one that did not waver despite dozens of Divine Rank experts looking at him at once."
+          "text": "\"I have found a way to make the people of this world survive the red cloud calamity.\""
         },
         {
           "id": 60,
           "paragraph_id": 28,
-          "text": "\"I have found a way to make the people of this world survive the red cloud calamity.\""
+          "text": "The moment he spoke those words the meeting room turned into a storm of disbelief."
         },
         {
           "id": 61,
-          "paragraph_id": 29,
-          "text": "The moment he spoke those words the meeting room turned into a storm of disbelief."
+          "paragraph_id": 28,
+          "text": "Chairs scraped sharply, several leaders shot to their feet, and waves of spiritual energy rippled outward unconsciously as their control faltered."
         },
         {
           "id": 62,
           "paragraph_id": 29,
-          "text": "Chairs scraped sharply, several leaders shot to their feet, and waves of spiritual energy rippled outward unconsciously as their control faltered."
-        },
-        {
-          "id": 63,
-          "paragraph_id": 30,
           "text": "They had expected strategies."
         },
         {
-          "id": 64,
-          "paragraph_id": 30,
+          "id": 63,
+          "paragraph_id": 29,
           "text": "They had expected predictions."
         },
         {
-          "id": 65,
-          "paragraph_id": 30,
+          "id": 64,
+          "paragraph_id": 29,
           "text": "They had expected maybe news about Mark or even the demons."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 29,
+          "text": "But a method to survive the very calamity that was destined to consume their entire world was far beyond their expectations."
         },
         {
           "id": 66,
           "paragraph_id": 30,
-          "text": "But a method to survive the very calamity that was destined to consume their entire world was far beyond their expectations."
+          "text": "President William, whose age often made him cautious, was the first to break."
         },
         {
           "id": 67,
-          "paragraph_id": 31,
-          "text": "President William, whose age often made him cautious, was the first to break."
+          "paragraph_id": 30,
+          "text": "His eyes widened in a way that robbed him of his usual stern dignity."
         },
         {
           "id": 68,
           "paragraph_id": 31,
-          "text": "His eyes widened in a way that robbed him of his usual stern dignity."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 32,
           "text": "\"How?\" he demanded, his voice trembling."
         },
         {
-          "id": 70,
-          "paragraph_id": 32,
+          "id": 69,
+          "paragraph_id": 31,
           "text": "\"How would you do that?"
+        },
+        {
+          "id": 70,
+          "paragraph_id": 31,
+          "text": "Tell us immediately!\""
         },
         {
           "id": 71,
           "paragraph_id": 32,
-          "text": "Tell us immediately!\""
+          "text": "Freya placed a firm hand on the table, her tone level but carrying enough authority to bring silence."
         },
         {
           "id": 72,
           "paragraph_id": 33,
-          "text": "Freya placed a firm hand on the table, her tone level but carrying enough authority to bring silence."
+          "text": "\"President William, calm down.\""
         },
         {
           "id": 73,
           "paragraph_id": 34,
-          "text": "\"President William, calm down.\""
-        },
-        {
-          "id": 74,
-          "paragraph_id": 35,
           "text": "William swallowed hard and sank into his seat, but his gaze never left Max."
         },
         {
-          "id": 75,
-          "paragraph_id": 35,
+          "id": 74,
+          "paragraph_id": 34,
           "text": "None of their gazes did."
         },
         {
-          "id": 76,
-          "paragraph_id": 35,
+          "id": 75,
+          "paragraph_id": 34,
           "text": "Every single person in the room hung onto Max’s next breath, let alone his next words."
         }
       ],
-      "word_count": 1047
+      "word_count": 1046
     },
     {
       "chapter_index": 1259,
@@ -7758,7 +7728,6 @@
         "Lucien did not take offense. Instead, he let out a faint chuckle, shaking his head. \"I believe it now more than ever.\"",
         "Freya looked toward the sky once more. A subtle expression flickered across her face—half worry, half faith.",
         "\"Go on, Max,\" she whispered under her breath. \"Show them what a Voidwalker can become.\"",
-        "----",
         "The world of Nullaria was strange in a way that felt fundamentally wrong, as if creation itself had been forced into a shape it was never meant to take. There was no sun, no moon, no stars, and no trace of celestial light anywhere above.",
         "Instead, long rivers of dark red clouds drifted across the heavens in silent, unsettling waves. They did not glow. They did not move with any natural rhythm. They simply writhed slowly, like living scars spread across a wounded sky.",
         "The air held the faint metallic scent of dried blood, and an oppressive heaviness settled over everything as though the world itself wished to drown whoever stepped upon it.",
@@ -7920,310 +7889,305 @@
         {
           "id": 26,
           "paragraph_id": 11,
-          "text": "----"
+          "text": "The world of Nullaria was strange in a way that felt fundamentally wrong, as if creation itself had been forced into a shape it was never meant to take."
         },
         {
           "id": 27,
-          "paragraph_id": 12,
-          "text": "The world of Nullaria was strange in a way that felt fundamentally wrong, as if creation itself had been forced into a shape it was never meant to take."
+          "paragraph_id": 11,
+          "text": "There was no sun, no moon, no stars, and no trace of celestial light anywhere above."
         },
         {
           "id": 28,
           "paragraph_id": 12,
-          "text": "There was no sun, no moon, no stars, and no trace of celestial light anywhere above."
-        },
-        {
-          "id": 29,
-          "paragraph_id": 13,
           "text": "Instead, long rivers of dark red clouds drifted across the heavens in silent, unsettling waves."
         },
         {
-          "id": 30,
-          "paragraph_id": 13,
+          "id": 29,
+          "paragraph_id": 12,
           "text": "They did not glow."
         },
         {
-          "id": 31,
-          "paragraph_id": 13,
+          "id": 30,
+          "paragraph_id": 12,
           "text": "They did not move with any natural rhythm."
+        },
+        {
+          "id": 31,
+          "paragraph_id": 12,
+          "text": "They simply writhed slowly, like living scars spread across a wounded sky."
         },
         {
           "id": 32,
           "paragraph_id": 13,
-          "text": "They simply writhed slowly, like living scars spread across a wounded sky."
+          "text": "The air held the faint metallic scent of dried blood, and an oppressive heaviness settled over everything as though the world itself wished to drown whoever stepped upon it."
         },
         {
           "id": 33,
           "paragraph_id": 14,
-          "text": "The air held the faint metallic scent of dried blood, and an oppressive heaviness settled over everything as though the world itself wished to drown whoever stepped upon it."
-        },
-        {
-          "id": 34,
-          "paragraph_id": 15,
           "text": "The land below was no less disturbing."
         },
         {
-          "id": 35,
-          "paragraph_id": 15,
+          "id": 34,
+          "paragraph_id": 14,
           "text": "The surface of Nullaria looked rotten, discolored, and sickly."
         },
         {
-          "id": 36,
-          "paragraph_id": 15,
+          "id": 35,
+          "paragraph_id": 14,
           "text": "Shades of green smeared across the ground, but not the vibrant green of life or vegetation."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 14,
+          "text": "It was a foul, murky shade that resembled the mold found on corpses long left to decay."
         },
         {
           "id": 37,
           "paragraph_id": 15,
-          "text": "It was a foul, murky shade that resembled the mold found on corpses long left to decay."
-        },
-        {
-          "id": 38,
-          "paragraph_id": 16,
           "text": "The soil was cracked and brittle, breaking apart like scabs under the slightest pressure."
         },
         {
-          "id": 39,
-          "paragraph_id": 16,
+          "id": 38,
+          "paragraph_id": 15,
           "text": "No grass grew here."
         },
         {
-          "id": 40,
-          "paragraph_id": 16,
+          "id": 39,
+          "paragraph_id": 15,
           "text": "No flowers."
         },
         {
-          "id": 41,
-          "paragraph_id": 16,
+          "id": 40,
+          "paragraph_id": 15,
           "text": "No shrubs."
+        },
+        {
+          "id": 41,
+          "paragraph_id": 15,
+          "text": "Only a vast expanse of barren rot that stretched endlessly in all directions."
         },
         {
           "id": 42,
           "paragraph_id": 16,
-          "text": "Only a vast expanse of barren rot that stretched endlessly in all directions."
+          "text": "Where trees might have once stood in some ancient age, only monstrous things remained."
         },
         {
           "id": 43,
-          "paragraph_id": 17,
-          "text": "Where trees might have once stood in some ancient age, only monstrous things remained."
+          "paragraph_id": 16,
+          "text": "They resembled trees only in shape, their trunks enormous and twisted, as if they had grown while screaming."
         },
         {
           "id": 44,
           "paragraph_id": 17,
-          "text": "They resembled trees only in shape, their trunks enormous and twisted, as if they had grown while screaming."
+          "text": "Their bark bulged in uneven lumps, sometimes swelling into grotesque shapes resembling faces or clawed hands pressed beneath the surface."
         },
         {
           "id": 45,
-          "paragraph_id": 18,
-          "text": "Their bark bulged in uneven lumps, sometimes swelling into grotesque shapes resembling faces or clawed hands pressed beneath the surface."
+          "paragraph_id": 17,
+          "text": "Their branches hung low, curving downward like hooked claws waiting to snatch prey."
         },
         {
           "id": 46,
           "paragraph_id": 18,
-          "text": "Their branches hung low, curving downward like hooked claws waiting to snatch prey."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 19,
           "text": "Some branches dripped thick greenish-black sap that hissed faintly as it hit the ground, eating through the decayed soil like acid."
         },
         {
-          "id": 48,
-          "paragraph_id": 19,
+          "id": 47,
+          "paragraph_id": 18,
           "text": "These trees did not sway with the wind because there was no wind here at all."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 18,
+          "text": "They simply remained still, watching like sentinels of a tortured world."
         },
         {
           "id": 49,
           "paragraph_id": 19,
-          "text": "They simply remained still, watching like sentinels of a tortured world."
-        },
-        {
-          "id": 50,
-          "paragraph_id": 20,
           "text": "The silence of Nullaria was almost unbearable."
         },
         {
-          "id": 51,
-          "paragraph_id": 20,
+          "id": 50,
+          "paragraph_id": 19,
           "text": "No birds, no insects, no rustling leaves."
+        },
+        {
+          "id": 51,
+          "paragraph_id": 19,
+          "text": "Only the slow dragging sound of the living clouds above."
         },
         {
           "id": 52,
           "paragraph_id": 20,
-          "text": "Only the slow dragging sound of the living clouds above."
+          "text": "Then, without warning, the silence shattered."
         },
         {
           "id": 53,
           "paragraph_id": 21,
-          "text": "Then, without warning, the silence shattered."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 22,
           "text": "A thin line appeared in the air above the rotting ground."
         },
         {
-          "id": 55,
-          "paragraph_id": 22,
+          "id": 54,
+          "paragraph_id": 21,
           "text": "It shimmered faintly, almost invisible at first, like a hairline fracture cutting through the fabric of the world."
         },
         {
-          "id": 56,
-          "paragraph_id": 22,
+          "id": 55,
+          "paragraph_id": 21,
           "text": "The line widened."
         },
         {
-          "id": 57,
-          "paragraph_id": 22,
+          "id": 56,
+          "paragraph_id": 21,
           "text": "It stretched."
+        },
+        {
+          "id": 57,
+          "paragraph_id": 21,
+          "text": "It tore open with a silent force that bent space itself."
         },
         {
           "id": 58,
           "paragraph_id": 22,
-          "text": "It tore open with a silent force that bent space itself."
+          "text": "The tear swelled rapidly until it became a massive spatial rift, its edges crackling with distorted energy that clashed against Nullaria’s sickly aura."
         },
         {
           "id": 59,
           "paragraph_id": 23,
-          "text": "The tear swelled rapidly until it became a massive spatial rift, its edges crackling with distorted energy that clashed against Nullaria’s sickly aura."
+          "text": "From within the rift, the first void shuttle emerged."
         },
         {
           "id": 60,
           "paragraph_id": 24,
-          "text": "From within the rift, the first void shuttle emerged."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 25,
           "text": "Its metallic hull scraped past the swirling edges of the tear, entering Nullaria’s sky like a sharp blade slicing into corrupt flesh."
         },
         {
-          "id": 62,
-          "paragraph_id": 25,
+          "id": 61,
+          "paragraph_id": 24,
           "text": "Moments later another shuttle followed, then another, until all seven squad shuttles floated above the rotten landscape."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 24,
+          "text": "Their engines hummed strongly, but even that powerful sound felt strangely muted in this world."
         },
         {
           "id": 63,
           "paragraph_id": 25,
-          "text": "Their engines hummed strongly, but even that powerful sound felt strangely muted in this world."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 26,
           "text": "Finally, Max’s void shuttle descended through the tear."
         },
         {
-          "id": 65,
-          "paragraph_id": 26,
+          "id": 64,
+          "paragraph_id": 25,
           "text": "The moment its hull crossed into Nullaria, Max’s senses sharpened."
         },
         {
-          "id": 66,
-          "paragraph_id": 26,
+          "id": 65,
+          "paragraph_id": 25,
           "text": "He felt the world push against him like a faint resistance, as though it recognized him as an outsider and wished to reject his presence."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 25,
+          "text": "But the pressure vanished quickly, unable to contend with the authority granted by his mastery of Spatial Dominion."
         },
         {
           "id": 67,
           "paragraph_id": 26,
-          "text": "But the pressure vanished quickly, unable to contend with the authority granted by his mastery of Spatial Dominion."
+          "text": "The rift behind them shrank slightly but remained open, maintained by Max’s control of space."
         },
         {
           "id": 68,
           "paragraph_id": 27,
-          "text": "The rift behind them shrank slightly but remained open, maintained by Max’s control of space."
+          "text": "Hovering above the land, Max stepped out of his shuttle and stood at its edge."
         },
         {
           "id": 69,
-          "paragraph_id": 28,
-          "text": "Hovering above the land, Max stepped out of his shuttle and stood at its edge."
+          "paragraph_id": 27,
+          "text": "His eyes swept across the foreign landscape, taking in the dark clouds, the rotting ground, the monstrous trees, and the stillness that seemed far too deep for any natural world."
         },
         {
           "id": 70,
           "paragraph_id": 28,
-          "text": "His eyes swept across the foreign landscape, taking in the dark clouds, the rotting ground, the monstrous trees, and the stillness that seemed far too deep for any natural world."
+          "text": "\"So this is Nullaria,\" Max muttered quietly, his voice low enough that only he and the squad leaders next to him could hear."
         },
         {
           "id": 71,
-          "paragraph_id": 29,
-          "text": "\"So this is Nullaria,\" Max muttered quietly, his voice low enough that only he and the squad leaders next to him could hear."
+          "paragraph_id": 28,
+          "text": "\"A world consumed by corruption.\""
         },
         {
           "id": 72,
           "paragraph_id": 29,
-          "text": "\"A world consumed by corruption.\""
+          "text": "Behind him, the young geniuses exited their shuttles with guarded expressions."
         },
         {
           "id": 73,
-          "paragraph_id": 30,
-          "text": "Behind him, the young geniuses exited their shuttles with guarded expressions."
+          "paragraph_id": 29,
+          "text": "Even the most arrogant among them fell silent, their pride shrinking before the suffocating atmosphere of this dead land."
         },
         {
           "id": 74,
           "paragraph_id": 30,
-          "text": "Even the most arrogant among them fell silent, their pride shrinking before the suffocating atmosphere of this dead land."
+          "text": "Victor exhaled sharply."
         },
         {
           "id": 75,
-          "paragraph_id": 31,
-          "text": "Victor exhaled sharply."
+          "paragraph_id": 30,
+          "text": "\"This place... feels terrible.\""
         },
         {
           "id": 76,
           "paragraph_id": 31,
-          "text": "\"This place... feels terrible.\""
-        },
-        {
-          "id": 77,
-          "paragraph_id": 32,
           "text": "Seraphina clasped her hands together, forcing calm into her voice."
         },
         {
-          "id": 78,
-          "paragraph_id": 32,
+          "id": 77,
+          "paragraph_id": 31,
           "text": "\"This darkness doesn’t feel natural."
+        },
+        {
+          "id": 78,
+          "paragraph_id": 31,
+          "text": "It feels like the world itself has been cursed.\""
         },
         {
           "id": 79,
           "paragraph_id": 32,
-          "text": "It feels like the world itself has been cursed.\""
-        },
-        {
-          "id": 80,
-          "paragraph_id": 33,
           "text": "Arthur surveyed the monstrous trees and nodded grimly."
         },
         {
-          "id": 81,
-          "paragraph_id": 33,
+          "id": 80,
+          "paragraph_id": 32,
           "text": "\"Stay alert."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 32,
+          "text": "Anything here could be alive.\""
         },
         {
           "id": 82,
           "paragraph_id": 33,
-          "text": "Anything here could be alive.\""
+          "text": "They were all right."
         },
         {
           "id": 83,
           "paragraph_id": 34,
-          "text": "They were all right."
+          "text": "This was not simply another world."
         },
         {
           "id": 84,
           "paragraph_id": 35,
-          "text": "This was not simply another world."
+          "text": "It was a diseased one."
         },
         {
           "id": 85,
           "paragraph_id": 36,
-          "text": "It was a diseased one."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 37,
           "text": "And now, Max and the geniuses of the Middle Domain had stepped into its depths."
         }
       ],
-      "word_count": 1067
+      "word_count": 1066
     },
     {
       "chapter_index": 1266,
@@ -10537,7 +10501,6 @@
         "The cleansing of ten demon lairs was only the beginning.",
         "The true war in Nullaria had yet to start.",
         "\"Alright, this is it for now.\" Max said. \"Head to the camp.\"",
-        "----",
         "The resting camp lay quiet beneath Nullaria’s dim sky, wrapped in that unsettling green gloom that never changed.",
         "After seven straight days of nonstop combat, the young geniuses had finally been granted a pause. Their bodies could fight for months without strain, but their minds were another matter altogether. Mental exhaustion had settled into their bones like a cold weight, rarely acknowledged yet impossible to ignore.",
         "As soon as they reached camp and found the rows of makeshift beds inside their tents, they collapsed without hesitation. No one even bothered to remove armor or clean the demon blood from their clothes.",
@@ -10871,230 +10834,225 @@
         {
           "id": 62,
           "paragraph_id": 42,
-          "text": "----"
+          "text": "The resting camp lay quiet beneath Nullaria’s dim sky, wrapped in that unsettling green gloom that never changed."
         },
         {
           "id": 63,
           "paragraph_id": 43,
-          "text": "The resting camp lay quiet beneath Nullaria’s dim sky, wrapped in that unsettling green gloom that never changed."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 44,
           "text": "After seven straight days of nonstop combat, the young geniuses had finally been granted a pause."
         },
         {
-          "id": 65,
-          "paragraph_id": 44,
+          "id": 64,
+          "paragraph_id": 43,
           "text": "Their bodies could fight for months without strain, but their minds were another matter altogether."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 43,
+          "text": "Mental exhaustion had settled into their bones like a cold weight, rarely acknowledged yet impossible to ignore."
         },
         {
           "id": 66,
           "paragraph_id": 44,
-          "text": "Mental exhaustion had settled into their bones like a cold weight, rarely acknowledged yet impossible to ignore."
+          "text": "As soon as they reached camp and found the rows of makeshift beds inside their tents, they collapsed without hesitation."
         },
         {
           "id": 67,
-          "paragraph_id": 45,
-          "text": "As soon as they reached camp and found the rows of makeshift beds inside their tents, they collapsed without hesitation."
+          "paragraph_id": 44,
+          "text": "No one even bothered to remove armor or clean the demon blood from their clothes."
         },
         {
           "id": 68,
           "paragraph_id": 45,
-          "text": "No one even bothered to remove armor or clean the demon blood from their clothes."
-        },
-        {
-          "id": 69,
-          "paragraph_id": 46,
           "text": "Sleep claimed them in an instant."
         },
         {
-          "id": 70,
-          "paragraph_id": 46,
+          "id": 69,
+          "paragraph_id": 45,
           "text": "Breathing evened out."
         },
         {
-          "id": 71,
-          "paragraph_id": 46,
+          "id": 70,
+          "paragraph_id": 45,
           "text": "Weapons lay untouched at their sides."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 45,
+          "text": "A strange peace settled over the battlefield veterans who had just begun to understand what real war meant."
         },
         {
           "id": 72,
           "paragraph_id": 46,
-          "text": "A strange peace settled over the battlefield veterans who had just begun to understand what real war meant."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 47,
           "text": "At the center of the camp, a small fire crackled softly."
         },
         {
-          "id": 74,
-          "paragraph_id": 47,
+          "id": 73,
+          "paragraph_id": 46,
           "text": "Its orange glow pushed weakly against the unnatural darkness of Nullaria, giving the surroundings a fragile warmth."
+        },
+        {
+          "id": 74,
+          "paragraph_id": 46,
+          "text": "Max sat there on a small boulder gaze fixed on the flames."
         },
         {
           "id": 75,
           "paragraph_id": 47,
-          "text": "Max sat there on a small boulder gaze fixed on the flames."
+          "text": "Around him sat the seven squad leaders—Victor, Seraphina, Arthur, Chris, Christine, Daniel, and Michael."
         },
         {
           "id": 76,
-          "paragraph_id": 48,
-          "text": "Around him sat the seven squad leaders—Victor, Seraphina, Arthur, Chris, Christine, Daniel, and Michael."
+          "paragraph_id": 47,
+          "text": "Their faces were illuminated by the firelight, each expression serious, each posture attentive."
         },
         {
           "id": 77,
           "paragraph_id": 48,
-          "text": "Their faces were illuminated by the firelight, each expression serious, each posture attentive."
+          "text": "They had fought well."
         },
         {
           "id": 78,
-          "paragraph_id": 49,
-          "text": "They had fought well."
+          "paragraph_id": 48,
+          "text": "They had led well."
         },
         {
           "id": 79,
           "paragraph_id": 49,
-          "text": "They had led well."
+          "text": "But they still had questions."
         },
         {
           "id": 80,
           "paragraph_id": 50,
-          "text": "But they still had questions."
+          "text": "And doubts."
         },
         {
           "id": 81,
           "paragraph_id": 51,
-          "text": "And doubts."
+          "text": "Victor leaned forward, brows drawn low as he stared at Max."
         },
         {
           "id": 82,
-          "paragraph_id": 52,
-          "text": "Victor leaned forward, brows drawn low as he stared at Max."
+          "paragraph_id": 51,
+          "text": "\"So you’re saying none of us can hold our ground against Balthazar?\""
         },
         {
           "id": 83,
           "paragraph_id": 52,
-          "text": "\"So you’re saying none of us can hold our ground against Balthazar?\""
-        },
-        {
-          "id": 84,
-          "paragraph_id": 53,
           "text": "The others shifted slightly, watching Max closely."
         },
         {
-          "id": 85,
-          "paragraph_id": 53,
+          "id": 84,
+          "paragraph_id": 52,
           "text": "Seraphina’s sharp eyes narrowed with silent curiosity."
         },
         {
-          "id": 86,
-          "paragraph_id": 53,
+          "id": 85,
+          "paragraph_id": 52,
           "text": "Arthur looked troubled."
         },
         {
-          "id": 87,
-          "paragraph_id": 53,
+          "id": 86,
+          "paragraph_id": 52,
           "text": "Daniel and Michael exchanged a glance."
         },
         {
-          "id": 88,
-          "paragraph_id": 53,
+          "id": 87,
+          "paragraph_id": 52,
           "text": "Christine’s shoulders stiffened."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 52,
+          "text": "Chris exhaled sharply, waiting for Max’s answer."
         },
         {
           "id": 89,
           "paragraph_id": 53,
-          "text": "Chris exhaled sharply, waiting for Max’s answer."
-        },
-        {
-          "id": 90,
-          "paragraph_id": 54,
           "text": "Max didn’t respond immediately."
         },
         {
-          "id": 91,
-          "paragraph_id": 54,
+          "id": 90,
+          "paragraph_id": 53,
           "text": "He watched the flame dance for a few seconds more as though the answer was written in its patterns."
+        },
+        {
+          "id": 91,
+          "paragraph_id": 53,
+          "text": "Then he lifted his head, eyes calm, voice steady."
         },
         {
           "id": 92,
           "paragraph_id": 54,
-          "text": "Then he lifted his head, eyes calm, voice steady."
+          "text": "\"It’s not that you can’t,\" Max said, his tone gentle yet firm."
         },
         {
           "id": 93,
-          "paragraph_id": 55,
-          "text": "\"It’s not that you can’t,\" Max said, his tone gentle yet firm."
+          "paragraph_id": 54,
+          "text": "\"It’s that you aren’t ready yet.\""
         },
         {
           "id": 94,
           "paragraph_id": 55,
-          "text": "\"It’s that you aren’t ready yet.\""
+          "text": "He let the words settle before he continued."
         },
         {
           "id": 95,
           "paragraph_id": 56,
-          "text": "He let the words settle before he continued."
-        },
-        {
-          "id": 96,
-          "paragraph_id": 57,
           "text": "\"You need to understand something."
         },
         {
-          "id": 97,
-          "paragraph_id": 57,
+          "id": 96,
+          "paragraph_id": 56,
           "text": "Balthazar has lived for thousands of years."
         },
         {
-          "id": 98,
-          "paragraph_id": 57,
+          "id": 97,
+          "paragraph_id": 56,
           "text": "That means thousands of years spent fighting, surviving, scheming, learning, killing, and adapting."
         },
         {
-          "id": 99,
-          "paragraph_id": 57,
+          "id": 98,
+          "paragraph_id": 56,
           "text": "He didn’t reach where he is by relying on talent alone."
         },
         {
-          "id": 100,
-          "paragraph_id": 57,
+          "id": 99,
+          "paragraph_id": 56,
           "text": "He reached that level through accumulation."
+        },
+        {
+          "id": 100,
+          "paragraph_id": 56,
+          "text": "Layer after layer of experience, decision making, strategic sense, instincts that no young genius can possess.\""
         },
         {
           "id": 101,
           "paragraph_id": 57,
-          "text": "Layer after layer of experience, decision making, strategic sense, instincts that no young genius can possess.\""
+          "text": "He looked around at them one by one."
         },
         {
           "id": 102,
           "paragraph_id": 58,
-          "text": "He looked around at them one by one."
+          "text": "\"In comparison, none of you have lived even a hundred years."
         },
         {
           "id": 103,
-          "paragraph_id": 59,
-          "text": "\"In comparison, none of you have lived even a hundred years."
+          "paragraph_id": 58,
+          "text": "Not one.\""
         },
         {
           "id": 104,
           "paragraph_id": 59,
-          "text": "Not one.\""
-        },
-        {
-          "id": 105,
-          "paragraph_id": 60,
           "text": "Seraphina frowned slightly, but she didn’t refute him."
         },
         {
-          "id": 106,
-          "paragraph_id": 60,
+          "id": 105,
+          "paragraph_id": 59,
           "text": "The truth was the truth."
         }
       ],
-      "word_count": 1098
+      "word_count": 1097
     },
     {
       "chapter_index": 1271,
@@ -11121,7 +11079,6 @@
         "\"Go and rest for a bit. From tomorrow onwards things will progress at a much faster rate,\" Max said to the seven squad leaders. His tone carried a quiet certainty that left no room for argument.",
         "The squad leaders exchanged glances, each of them sensing that something heavier than usual lay behind his words, before they returned to their camps. They settled down for the night just like the other geniuses scattered throughout the campgrounds, unaware of what the next day would bring.",
         "Only Max chose to remain by the campfire. He stayed seated before the slow, steady flames, his eyes fixed on the silent dance of the fire. The glow flickered across his expression, revealing nothing yet hinting at thoughts far deeper than the flames reflected.",
-        "----",
         "When morning arrived, everyone woke with the familiar expectation of heading back out to clear demon lairs. They prepared themselves as they always did, adjusting armor, checking weapons, and gathering supplies.",
         "Strangely, Max did not call for immediate action. Instead he instructed everyone to gather beside the camp, which immediately pulled their attention away from their usual routine.",
         "People began whispering among themselves as curiosity spread through the crowd. Max rarely changed plans without reason, and the lack of urgency to engage demons left them wondering what he intended.",
@@ -11379,215 +11336,210 @@
         {
           "id": 47,
           "paragraph_id": 20,
-          "text": "----"
+          "text": "When morning arrived, everyone woke with the familiar expectation of heading back out to clear demon lairs."
         },
         {
           "id": 48,
-          "paragraph_id": 21,
-          "text": "When morning arrived, everyone woke with the familiar expectation of heading back out to clear demon lairs."
+          "paragraph_id": 20,
+          "text": "They prepared themselves as they always did, adjusting armor, checking weapons, and gathering supplies."
         },
         {
           "id": 49,
           "paragraph_id": 21,
-          "text": "They prepared themselves as they always did, adjusting armor, checking weapons, and gathering supplies."
+          "text": "Strangely, Max did not call for immediate action."
         },
         {
           "id": 50,
-          "paragraph_id": 22,
-          "text": "Strangely, Max did not call for immediate action."
+          "paragraph_id": 21,
+          "text": "Instead he instructed everyone to gather beside the camp, which immediately pulled their attention away from their usual routine."
         },
         {
           "id": 51,
           "paragraph_id": 22,
-          "text": "Instead he instructed everyone to gather beside the camp, which immediately pulled their attention away from their usual routine."
+          "text": "People began whispering among themselves as curiosity spread through the crowd."
         },
         {
           "id": 52,
-          "paragraph_id": 23,
-          "text": "People began whispering among themselves as curiosity spread through the crowd."
+          "paragraph_id": 22,
+          "text": "Max rarely changed plans without reason, and the lack of urgency to engage demons left them wondering what he intended."
         },
         {
           "id": 53,
           "paragraph_id": 23,
-          "text": "Max rarely changed plans without reason, and the lack of urgency to engage demons left them wondering what he intended."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 24,
           "text": "Max hovered calmly in the air as they assembled, waiting until the last group arrived."
         },
         {
-          "id": 55,
-          "paragraph_id": 24,
+          "id": 54,
+          "paragraph_id": 23,
           "text": "Once the gathered crowd quieted, he spoke with a steady voice that carried across the open field."
         },
         {
-          "id": 56,
-          "paragraph_id": 24,
+          "id": 55,
+          "paragraph_id": 23,
           "text": "\"Do not concern yourselves with clearing demon lairs today."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 23,
+          "text": "You only need to know that the fight will come to us instead.\""
         },
         {
           "id": 57,
           "paragraph_id": 24,
-          "text": "You only need to know that the fight will come to us instead.\""
-        },
-        {
-          "id": 58,
-          "paragraph_id": 25,
           "text": "The moment he said this, everyone’s expressions shifted."
         },
         {
-          "id": 59,
-          "paragraph_id": 25,
+          "id": 58,
+          "paragraph_id": 24,
           "text": "They understood something significant was about to unfold, and the atmosphere became tense as they straightened their backs and focused their attention on him."
+        },
+        {
+          "id": 59,
+          "paragraph_id": 24,
+          "text": "The idea that demons would come to them instead of the other way around planted a seriousness in their hearts that completely erased the earlier confusion."
         },
         {
           "id": 60,
           "paragraph_id": 25,
-          "text": "The idea that demons would come to them instead of the other way around planted a seriousness in their hearts that completely erased the earlier confusion."
-        },
-        {
-          "id": 61,
-          "paragraph_id": 26,
           "text": "Max continued speaking as the wind brushed past him."
         },
         {
-          "id": 62,
-          "paragraph_id": 26,
+          "id": 61,
+          "paragraph_id": 25,
           "text": "\"For now, we will try something different.\" His eyes rested on the seven squad leaders."
+        },
+        {
+          "id": 62,
+          "paragraph_id": 25,
+          "text": "\"Squad leaders, come up.\" His voice was light but carried a certain weight that made them react instantly."
         },
         {
           "id": 63,
           "paragraph_id": 26,
-          "text": "\"Squad leaders, come up.\" His voice was light but carried a certain weight that made them react instantly."
+          "text": "The seven squad leaders lifted themselves into the air, flying toward him until they came to a stop in a semicircle in front of him."
         },
         {
           "id": 64,
-          "paragraph_id": 27,
-          "text": "The seven squad leaders lifted themselves into the air, flying toward him until they came to a stop in a semicircle in front of him."
+          "paragraph_id": 26,
+          "text": "The others down below watched with anticipation, wondering what Max planned to do with the strongest individuals under his command."
         },
         {
           "id": 65,
           "paragraph_id": 27,
-          "text": "The others down below watched with anticipation, wondering what Max planned to do with the strongest individuals under his command."
-        },
-        {
-          "id": 66,
-          "paragraph_id": 28,
           "text": "\"Use everything you have,\" Max said with a grin that revealed both confidence and intent."
         },
         {
-          "id": 67,
-          "paragraph_id": 28,
+          "id": 66,
+          "paragraph_id": 27,
           "text": "\"If any one of you manages to touch me, even for a moment, you will earn a point."
+        },
+        {
+          "id": 67,
+          "paragraph_id": 27,
+          "text": "If you fail, the point goes to me.\" His words rolled across the sky, and the squad leaders narrowed their eyes as they tried to understand whether he was being serious or simply provoking them."
         },
         {
           "id": 68,
           "paragraph_id": 28,
-          "text": "If you fail, the point goes to me.\" His words rolled across the sky, and the squad leaders narrowed their eyes as they tried to understand whether he was being serious or simply provoking them."
+          "text": "Seraphina stepped forward slightly and asked, \"Is that a challenge to us?\" Her voice carried a hint of excitement wrapped beneath respect, since she could never fully predict what Max intended."
         },
         {
           "id": 69,
           "paragraph_id": 29,
-          "text": "Seraphina stepped forward slightly and asked, \"Is that a challenge to us?\" Her voice carried a hint of excitement wrapped beneath respect, since she could never fully predict what Max intended."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 30,
           "text": "\"A challenge?\" Max let out a soft sneer as he looked at all of them."
         },
         {
-          "id": 71,
-          "paragraph_id": 30,
+          "id": 70,
+          "paragraph_id": 29,
           "text": "\"No."
         },
         {
-          "id": 72,
-          "paragraph_id": 30,
+          "id": 71,
+          "paragraph_id": 29,
           "text": "None of you are strong enough for something like that."
         },
         {
-          "id": 73,
-          "paragraph_id": 30,
+          "id": 72,
+          "paragraph_id": 29,
           "text": "Think of this as an elder guiding the younger generation."
+        },
+        {
+          "id": 73,
+          "paragraph_id": 29,
+          "text": "Treat it as training rather than a challenge.\""
         },
         {
           "id": 74,
           "paragraph_id": 30,
-          "text": "Treat it as training rather than a challenge.\""
+          "text": "His tone was calm yet sharp enough to pierce pride, and the squad leaders felt heat rush through their chests at his blunt evaluation."
         },
         {
           "id": 75,
-          "paragraph_id": 31,
-          "text": "His tone was calm yet sharp enough to pierce pride, and the squad leaders felt heat rush through their chests at his blunt evaluation."
+          "paragraph_id": 30,
+          "text": "They understood what he meant, yet his words made them grit their teeth as they prepared themselves."
         },
         {
           "id": 76,
           "paragraph_id": 31,
-          "text": "They understood what he meant, yet his words made them grit their teeth as they prepared themselves."
+          "text": "The air seemed to still around them as they readied their strength, and everyone on the ground sensed that something intense was about to begin."
         },
         {
           "id": 77,
           "paragraph_id": 32,
-          "text": "The air seemed to still around them as they readied their strength, and everyone on the ground sensed that something intense was about to begin."
+          "text": "The seven squad leaders exchanged looks, each expression darkening in its own way."
         },
         {
           "id": 78,
-          "paragraph_id": 33,
-          "text": "The seven squad leaders exchanged looks, each expression darkening in its own way."
+          "paragraph_id": 32,
+          "text": "Some twitched with annoyance, some with disbelief, some with an unspoken itch to strike back at the arrogance in Max’s voice."
         },
         {
           "id": 79,
           "paragraph_id": 33,
-          "text": "Some twitched with annoyance, some with disbelief, some with an unspoken itch to strike back at the arrogance in Max’s voice."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 34,
           "text": "Seraphina’s eyes narrowed, sharp as a blade."
         },
         {
-          "id": 81,
-          "paragraph_id": 34,
+          "id": 80,
+          "paragraph_id": 33,
           "text": "Victor let out a slow breath while his jaw tightened."
+        },
+        {
+          "id": 81,
+          "paragraph_id": 33,
+          "text": "Arthur cracked his knuckles once as if preparing himself mentally."
         },
         {
           "id": 82,
           "paragraph_id": 34,
-          "text": "Arthur cracked his knuckles once as if preparing himself mentally."
+          "text": "Daniel’s lips curved in a dry smile."
         },
         {
           "id": 83,
-          "paragraph_id": 35,
-          "text": "Daniel’s lips curved in a dry smile."
+          "paragraph_id": 34,
+          "text": "Only he understood that even if all of them fight together, they would be no match for Max."
         },
         {
           "id": 84,
           "paragraph_id": 35,
-          "text": "Only he understood that even if all of them fight together, they would be no match for Max."
+          "text": "Christine rolled her shoulders as if loosening her muscles."
         },
         {
           "id": 85,
-          "paragraph_id": 36,
-          "text": "Christine rolled her shoulders as if loosening her muscles."
+          "paragraph_id": 35,
+          "text": "Michael and Chris shared a look somewhere between irritation and reluctant excitement."
         },
         {
           "id": 86,
           "paragraph_id": 36,
-          "text": "Michael and Chris shared a look somewhere between irritation and reluctant excitement."
-        },
-        {
-          "id": 87,
-          "paragraph_id": 37,
           "text": "But none of them spoke."
         },
         {
-          "id": 88,
-          "paragraph_id": 37,
+          "id": 87,
+          "paragraph_id": 36,
           "text": "Not yet."
         }
       ],
-      "word_count": 1049
+      "word_count": 1048
     },
     {
       "chapter_index": 1272,
@@ -19678,7 +19630,6 @@
         "\"Once everything here is concluded,\" Max continued, \"create a temporary settlement nearby. A small, secure location where everyone can rest and restore their strength. You have all been fighting for many hours. Take this time to recover fully.\" His eyes swept across each leader, silently acknowledging the strain and fatigue they carried beneath their hardened expressions. \"It will not be long before we leave this place.\"",
         "The seven leaders straightened, nodding with respect and acceptance. Max’s decisions had guided them through every danger so far. None of them questioned his judgment. As they dispersed to carry out his instructions, Max remained standing at the center of the battlefield, the wind carrying away the last traces of demonic presence.",
         "The war in Nullaria was nearly over. Only one final step remained before the region would be truly cleansed.",
-        "----",
         "Max returned to the area where he had fought the four demon kings. The ground was still scarred from the violence of the battle. Deep craters marked the places where overwhelming power had collided, and faint traces of demonic aura lingered in the air like the fading echo of a storm.",
         "Max lifted his hand and flicked his fingers gently. A powerful suction force erupted around him as he summoned the devouring ability. The corpses of the four demon kings dissolved into streaks of energy and rushed into him, leaving not a single fragment behind.",
         "Their essence vanished completely. Max had done the same for the demons that Victor and the other squads had defeated earlier. He had consumed every remnant of demonic power across the field, leaving the battlefield utterly cleansed of their presence.",
@@ -19884,230 +19835,225 @@
         {
           "id": 37,
           "paragraph_id": 12,
-          "text": "----"
-        },
-        {
-          "id": 38,
-          "paragraph_id": 13,
           "text": "Max returned to the area where he had fought the four demon kings."
         },
         {
-          "id": 39,
-          "paragraph_id": 13,
+          "id": 38,
+          "paragraph_id": 12,
           "text": "The ground was still scarred from the violence of the battle."
+        },
+        {
+          "id": 39,
+          "paragraph_id": 12,
+          "text": "Deep craters marked the places where overwhelming power had collided, and faint traces of demonic aura lingered in the air like the fading echo of a storm."
         },
         {
           "id": 40,
           "paragraph_id": 13,
-          "text": "Deep craters marked the places where overwhelming power had collided, and faint traces of demonic aura lingered in the air like the fading echo of a storm."
-        },
-        {
-          "id": 41,
-          "paragraph_id": 14,
           "text": "Max lifted his hand and flicked his fingers gently."
         },
         {
-          "id": 42,
-          "paragraph_id": 14,
+          "id": 41,
+          "paragraph_id": 13,
           "text": "A powerful suction force erupted around him as he summoned the devouring ability."
+        },
+        {
+          "id": 42,
+          "paragraph_id": 13,
+          "text": "The corpses of the four demon kings dissolved into streaks of energy and rushed into him, leaving not a single fragment behind."
         },
         {
           "id": 43,
           "paragraph_id": 14,
-          "text": "The corpses of the four demon kings dissolved into streaks of energy and rushed into him, leaving not a single fragment behind."
-        },
-        {
-          "id": 44,
-          "paragraph_id": 15,
           "text": "Their essence vanished completely."
         },
         {
-          "id": 45,
-          "paragraph_id": 15,
+          "id": 44,
+          "paragraph_id": 14,
           "text": "Max had done the same for the demons that Victor and the other squads had defeated earlier."
+        },
+        {
+          "id": 45,
+          "paragraph_id": 14,
+          "text": "He had consumed every remnant of demonic power across the field, leaving the battlefield utterly cleansed of their presence."
         },
         {
           "id": 46,
           "paragraph_id": 15,
-          "text": "He had consumed every remnant of demonic power across the field, leaving the battlefield utterly cleansed of their presence."
+          "text": "A quiet thought flickered through his mind. ’I am close to leveling up to the Divine Rank.’ He could feel it in every part of his body."
         },
         {
           "id": 47,
-          "paragraph_id": 16,
-          "text": "A quiet thought flickered through his mind. ’I am close to leveling up to the Divine Rank.’ He could feel it in every part of his body."
+          "paragraph_id": 15,
+          "text": "His veins burned with power, his soul thrummed with restless intensity, and the energy swirling within him felt ready to break through its current limits. ’Just one more push and I will enter the Divine Rank.’"
         },
         {
           "id": 48,
           "paragraph_id": 16,
-          "text": "His veins burned with power, his soul thrummed with restless intensity, and the energy swirling within him felt ready to break through its current limits. ’Just one more push and I will enter the Divine Rank.’"
+          "text": "The feeling was unmistakable."
         },
         {
           "id": 49,
-          "paragraph_id": 17,
-          "text": "The feeling was unmistakable."
+          "paragraph_id": 16,
+          "text": "He had reached the precipice of a breakthrough that many cultivators spent centuries chasing."
         },
         {
           "id": 50,
           "paragraph_id": 17,
-          "text": "He had reached the precipice of a breakthrough that many cultivators spent centuries chasing."
+          "text": "Max sat down on a boulder beside the ruins of the battlefield and allowed time to pass."
         },
         {
           "id": 51,
-          "paragraph_id": 18,
-          "text": "Max sat down on a boulder beside the ruins of the battlefield and allowed time to pass."
+          "paragraph_id": 17,
+          "text": "He spent the day in contemplation, thinking about every technique he had used, every concept he had comprehended, and every step that had brought him to this point."
         },
         {
           "id": 52,
           "paragraph_id": 18,
-          "text": "He spent the day in contemplation, thinking about every technique he had used, every concept he had comprehended, and every step that had brought him to this point."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 19,
           "text": "The destruction of the demon kings, the completion of Nero’s soul seal, the cleansing of Nullaria—all of these events painted a path forward."
         },
         {
-          "id": 54,
-          "paragraph_id": 19,
+          "id": 53,
+          "paragraph_id": 18,
           "text": "He considered the future battles that awaited him, the Divine Realm he would one day ascend to, and the many threats beyond this world that he would soon have to face."
+        },
+        {
+          "id": 54,
+          "paragraph_id": 18,
+          "text": "His expression remained calm, but his mind was in motion the entire time."
         },
         {
           "id": 55,
           "paragraph_id": 19,
-          "text": "His expression remained calm, but his mind was in motion the entire time."
-        },
-        {
-          "id": 56,
-          "paragraph_id": 20,
           "text": "By the time the night faded and early morning arrived, Max opened his eyes as a familiar presence approached at incredible speed."
         },
         {
-          "id": 57,
-          "paragraph_id": 20,
+          "id": 56,
+          "paragraph_id": 19,
           "text": "Nero descended from the sky and landed before him silently."
         },
         {
-          "id": 58,
-          "paragraph_id": 20,
+          "id": 57,
+          "paragraph_id": 19,
           "text": "His aura was vastly diminished compared to earlier, not because his power was gone but because he restrained it consciously."
+        },
+        {
+          "id": 58,
+          "paragraph_id": 19,
+          "text": "Even so, a faint oppressive darkness radiated from him, strong enough to make the air heavy."
         },
         {
           "id": 59,
           "paragraph_id": 20,
-          "text": "Even so, a faint oppressive darkness radiated from him, strong enough to make the air heavy."
+          "text": "The moment the human geniuses noticed a demon appearing on the battlefield, alarms went up across the entire settlement the squads had built."
         },
         {
           "id": 60,
-          "paragraph_id": 21,
-          "text": "The moment the human geniuses noticed a demon appearing on the battlefield, alarms went up across the entire settlement the squads had built."
+          "paragraph_id": 20,
+          "text": "Several geniuses unsheathed their weapons and prepared for combat."
         },
         {
           "id": 61,
           "paragraph_id": 21,
-          "text": "Several geniuses unsheathed their weapons and prepared for combat."
+          "text": "Others surrounded the area, their bodies tensed and ready to strike."
         },
         {
           "id": 62,
-          "paragraph_id": 22,
-          "text": "Others surrounded the area, their bodies tensed and ready to strike."
+          "paragraph_id": 21,
+          "text": "Nero’s arrival felt like a storm descending from the sky, and the humans reacted instinctively to the danger."
         },
         {
           "id": 63,
           "paragraph_id": 22,
-          "text": "Nero’s arrival felt like a storm descending from the sky, and the humans reacted instinctively to the danger."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 23,
           "text": "Max stood up and lifted his hand calmly."
         },
         {
-          "id": 65,
-          "paragraph_id": 23,
+          "id": 64,
+          "paragraph_id": 22,
           "text": "\"Relax."
         },
         {
-          "id": 66,
-          "paragraph_id": 23,
+          "id": 65,
+          "paragraph_id": 22,
           "text": "Stand down,\" he said as his voice spread across the settlement."
         },
         {
-          "id": 67,
-          "paragraph_id": 23,
+          "id": 66,
+          "paragraph_id": 22,
           "text": "The geniuses hesitated but obeyed."
         },
         {
-          "id": 68,
-          "paragraph_id": 23,
+          "id": 67,
+          "paragraph_id": 22,
           "text": "Max turned toward them and spoke clearly, \"There is no need to worry about this demon."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 22,
+          "text": "His name is Nero, and he is my slave.\""
         },
         {
           "id": 69,
           "paragraph_id": 23,
-          "text": "His name is Nero, and he is my slave.\""
-        },
-        {
-          "id": 70,
-          "paragraph_id": 24,
           "text": "The words struck the humans like a thunderclap."
         },
         {
-          "id": 71,
-          "paragraph_id": 24,
+          "id": 70,
+          "paragraph_id": 23,
           "text": "Shock rippled through the crowd as everyone stared at Max in disbelief."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 23,
+          "text": "Even the seven squad leaders, who had witnessed many impossible things since meeting Max, couldn’t hide their astonishment."
         },
         {
           "id": 72,
           "paragraph_id": 24,
-          "text": "Even the seven squad leaders, who had witnessed many impossible things since meeting Max, couldn’t hide their astonishment."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 25,
           "text": "They could feel Nero’s presence clearly."
         },
         {
-          "id": 74,
-          "paragraph_id": 25,
+          "id": 73,
+          "paragraph_id": 24,
           "text": "His aura was heavier, colder, and more terrifying than anything Balthazar had radiated."
         },
         {
-          "id": 75,
-          "paragraph_id": 25,
+          "id": 74,
+          "paragraph_id": 24,
           "text": "The power within him was something they could barely comprehend."
+        },
+        {
+          "id": 75,
+          "paragraph_id": 24,
+          "text": "Yet this demon knelt before Max in complete submission."
         },
         {
           "id": 76,
           "paragraph_id": 25,
-          "text": "Yet this demon knelt before Max in complete submission."
-        },
-        {
-          "id": 77,
-          "paragraph_id": 26,
           "text": "A silence spread across the battlefield as every genius realized one undeniable truth."
         },
         {
-          "id": 78,
-          "paragraph_id": 26,
+          "id": 77,
+          "paragraph_id": 25,
           "text": "If a demon of Nero’s caliber was reduced to servitude under Max, then the gap between them and Max was far greater than they had ever imagined."
+        },
+        {
+          "id": 78,
+          "paragraph_id": 25,
+          "text": "Max had surpassed even the highest expectations they had placed on him."
         },
         {
           "id": 79,
           "paragraph_id": 26,
-          "text": "Max had surpassed even the highest expectations they had placed on him."
-        },
-        {
-          "id": 80,
-          "paragraph_id": 27,
           "text": "The war in Nullaria had ended."
         },
         {
-          "id": 81,
-          "paragraph_id": 27,
+          "id": 80,
+          "paragraph_id": 26,
           "text": "And Max stood at the center of it all, stronger than ever, with a demon king at his command."
         }
       ],
-      "word_count": 1165
+      "word_count": 1164
     },
     {
       "chapter_index": 1291,
@@ -20658,7 +20604,6 @@
         "Without another word, Max turned and walked toward the tear in the void he had created earlier. Mark watched silently as Max stepped through the portal, the spatial passage shimmering around him. Once Max disappeared into the world of Acaris, the tear slowly sealed itself, closing like a wound healed by time.",
         "Nullaria fell into silence once more.",
         "And the confrontation between Max and Mark was left suspended in the future, waiting for the day when both would stand at full strength and resolve the fate tied to their intertwined destinies.",
-        "----",
         "Back in Acaris, Max and the group stepped out of the spatial passage and returned to the very place from which they had departed for Nullaria. The landscape had not changed much. A small fortified camp still stood in the distance, guarded by cultivators who maintained the perimeter.",
         "The moment Max and the young geniuses emerged from the void, the guards stiffened, then relaxed in relief upon recognizing them. Their expressions quickly shifted from vigilance to joy, for the return of so many geniuses signaled victory rather than loss.",
         "Max wasted no time. Before addressing anyone, he released Nero into the world with a subtle gesture of his hand. Nero materialized beside him, the oppressive darkness in his aura carefully restrained. Max leaned forward and issued a quiet order. \"Handle the remaining demons across Acaris. Do it discreetly. Do not alarm the humans.\"",
@@ -20863,260 +20808,255 @@
         {
           "id": 36,
           "paragraph_id": 11,
-          "text": "----"
-        },
-        {
-          "id": 37,
-          "paragraph_id": 12,
           "text": "Back in Acaris, Max and the group stepped out of the spatial passage and returned to the very place from which they had departed for Nullaria."
         },
         {
-          "id": 38,
-          "paragraph_id": 12,
+          "id": 37,
+          "paragraph_id": 11,
           "text": "The landscape had not changed much."
+        },
+        {
+          "id": 38,
+          "paragraph_id": 11,
+          "text": "A small fortified camp still stood in the distance, guarded by cultivators who maintained the perimeter."
         },
         {
           "id": 39,
           "paragraph_id": 12,
-          "text": "A small fortified camp still stood in the distance, guarded by cultivators who maintained the perimeter."
+          "text": "The moment Max and the young geniuses emerged from the void, the guards stiffened, then relaxed in relief upon recognizing them."
         },
         {
           "id": 40,
-          "paragraph_id": 13,
-          "text": "The moment Max and the young geniuses emerged from the void, the guards stiffened, then relaxed in relief upon recognizing them."
+          "paragraph_id": 12,
+          "text": "Their expressions quickly shifted from vigilance to joy, for the return of so many geniuses signaled victory rather than loss."
         },
         {
           "id": 41,
           "paragraph_id": 13,
-          "text": "Their expressions quickly shifted from vigilance to joy, for the return of so many geniuses signaled victory rather than loss."
-        },
-        {
-          "id": 42,
-          "paragraph_id": 14,
           "text": "Max wasted no time."
         },
         {
-          "id": 43,
-          "paragraph_id": 14,
+          "id": 42,
+          "paragraph_id": 13,
           "text": "Before addressing anyone, he released Nero into the world with a subtle gesture of his hand."
         },
         {
-          "id": 44,
-          "paragraph_id": 14,
+          "id": 43,
+          "paragraph_id": 13,
           "text": "Nero materialized beside him, the oppressive darkness in his aura carefully restrained."
         },
         {
-          "id": 45,
-          "paragraph_id": 14,
+          "id": 44,
+          "paragraph_id": 13,
           "text": "Max leaned forward and issued a quiet order."
         },
         {
-          "id": 46,
-          "paragraph_id": 14,
+          "id": 45,
+          "paragraph_id": 13,
           "text": "\"Handle the remaining demons across Acaris."
         },
         {
-          "id": 47,
-          "paragraph_id": 14,
+          "id": 46,
+          "paragraph_id": 13,
           "text": "Do it discreetly."
+        },
+        {
+          "id": 47,
+          "paragraph_id": 13,
+          "text": "Do not alarm the humans.\""
         },
         {
           "id": 48,
           "paragraph_id": 14,
-          "text": "Do not alarm the humans.\""
+          "text": "Nero bowed respectfully and vanished into the horizon without causing a ripple of disturbance."
         },
         {
           "id": 49,
-          "paragraph_id": 15,
-          "text": "Nero bowed respectfully and vanished into the horizon without causing a ripple of disturbance."
+          "paragraph_id": 14,
+          "text": "With the Soul Seal binding him, Nero would obey perfectly."
         },
         {
           "id": 50,
           "paragraph_id": 15,
-          "text": "With the Soul Seal binding him, Nero would obey perfectly."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 16,
           "text": "Once this was done, Max gathered the geniuses and led them toward the headquarters of the Four God Nation."
         },
         {
-          "id": 52,
-          "paragraph_id": 16,
+          "id": 51,
+          "paragraph_id": 15,
           "text": "Their arrival immediately sparked activity."
+        },
+        {
+          "id": 52,
+          "paragraph_id": 15,
+          "text": "Messengers rushed ahead, guards opened pathways, and news of Max’s return spread faster than wildfire."
         },
         {
           "id": 53,
           "paragraph_id": 16,
-          "text": "Messengers rushed ahead, guards opened pathways, and news of Max’s return spread faster than wildfire."
-        },
-        {
-          "id": 54,
-          "paragraph_id": 17,
           "text": "Within moments, the highest authorities of the Four God Nation and the Seven Overlord Forces were summoned."
         },
         {
-          "id": 55,
-          "paragraph_id": 17,
+          "id": 54,
+          "paragraph_id": 16,
           "text": "The leaders of the Obsidian Order and the Hunter Association were also called to attend."
+        },
+        {
+          "id": 55,
+          "paragraph_id": 16,
+          "text": "By the time Max stepped into the grand meeting hall, every important figure of the continent was already seated, waiting in tense silence."
         },
         {
           "id": 56,
           "paragraph_id": 17,
-          "text": "By the time Max stepped into the grand meeting hall, every important figure of the continent was already seated, waiting in tense silence."
-        },
-        {
-          "id": 57,
-          "paragraph_id": 18,
           "text": "The atmosphere inside the hall shifted the moment Max entered."
         },
         {
-          "id": 58,
-          "paragraph_id": 18,
+          "id": 57,
+          "paragraph_id": 17,
           "text": "The leaders rose courteously, and Max gestured for everyone to sit."
         },
         {
-          "id": 59,
-          "paragraph_id": 18,
+          "id": 58,
+          "paragraph_id": 17,
           "text": "Once they settled, he spoke with steady conviction."
+        },
+        {
+          "id": 59,
+          "paragraph_id": 17,
+          "text": "\"All the demons in Nullaria have been eradicated.\" His voice echoed through the chamber, and the weight of those words fell over the leaders like a cleansing wind."
         },
         {
           "id": 60,
           "paragraph_id": 18,
-          "text": "\"All the demons in Nullaria have been eradicated.\" His voice echoed through the chamber, and the weight of those words fell over the leaders like a cleansing wind."
+          "text": "A wave of relief and triumph washed through the hall."
         },
         {
           "id": 61,
           "paragraph_id": 19,
-          "text": "A wave of relief and triumph washed through the hall."
+          "text": "\"Good,\" one of the Four God Nation leaders said, nodding firmly."
         },
         {
           "id": 62,
-          "paragraph_id": 20,
-          "text": "\"Good,\" one of the Four God Nation leaders said, nodding firmly."
+          "paragraph_id": 19,
+          "text": "\"With the demons eliminated, half our problems are solved.\""
         },
         {
           "id": 63,
           "paragraph_id": 20,
-          "text": "\"With the demons eliminated, half our problems are solved.\""
-        },
-        {
-          "id": 64,
-          "paragraph_id": 21,
           "text": "Another leader exhaled deeply."
         },
         {
-          "id": 65,
-          "paragraph_id": 21,
+          "id": 64,
+          "paragraph_id": 20,
           "text": "\"Demons have always been the most troublesome enemy."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 20,
+          "text": "Now that their hiding grounds have been destroyed, the demons in Acaris will be wiped out soon as well.\""
         },
         {
           "id": 66,
           "paragraph_id": 21,
-          "text": "Now that their hiding grounds have been destroyed, the demons in Acaris will be wiped out soon as well.\""
-        },
-        {
-          "id": 67,
-          "paragraph_id": 22,
           "text": "Murmurs of agreement followed."
         },
         {
-          "id": 68,
-          "paragraph_id": 22,
+          "id": 67,
+          "paragraph_id": 21,
           "text": "For the first time in years, the leaders allowed themselves to feel hopeful."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 21,
+          "text": "The thought of Acaris free from demonic threat brought palpable joy into the room."
         },
         {
           "id": 69,
           "paragraph_id": 22,
-          "text": "The thought of Acaris free from demonic threat brought palpable joy into the room."
-        },
-        {
-          "id": 70,
-          "paragraph_id": 23,
           "text": "Lucien, who had been studying Max closely, leaned forward with curiosity."
         },
         {
-          "id": 71,
-          "paragraph_id": 23,
+          "id": 70,
+          "paragraph_id": 22,
           "text": "\"What else can you tell us?\" he asked."
+        },
+        {
+          "id": 71,
+          "paragraph_id": 22,
+          "text": "He sensed there was more to the story than a simple victory."
         },
         {
           "id": 72,
           "paragraph_id": 23,
-          "text": "He sensed there was more to the story than a simple victory."
+          "text": "Max nodded."
         },
         {
           "id": 73,
-          "paragraph_id": 24,
-          "text": "Max nodded."
+          "paragraph_id": 23,
+          "text": "He knew he needed to explain everything he had discovered, not only for transparency but also because the revelations were directly tied to the ancient origins of the Four God Nation."
         },
         {
           "id": 74,
           "paragraph_id": 24,
-          "text": "He knew he needed to explain everything he had discovered, not only for transparency but also because the revelations were directly tied to the ancient origins of the Four God Nation."
-        },
-        {
-          "id": 75,
-          "paragraph_id": 25,
           "text": "He began recounting the events in detail."
         },
         {
-          "id": 76,
-          "paragraph_id": 25,
+          "id": 75,
+          "paragraph_id": 24,
           "text": "He spoke of the four demon kings and their immense power, the four divine beasts who descended centuries ago, and the mysterious and terrifying True Origin Devil Blood that triggered everything."
+        },
+        {
+          "id": 76,
+          "paragraph_id": 24,
+          "text": "Then he explained the tragedy of Mark, the crownbearer of their world, and how that cursed drop of blood had corrupted him completely."
         },
         {
           "id": 77,
           "paragraph_id": 25,
-          "text": "Then he explained the tragedy of Mark, the crownbearer of their world, and how that cursed drop of blood had corrupted him completely."
-        },
-        {
-          "id": 78,
-          "paragraph_id": 26,
           "text": "The hall descended into heavy silence."
         },
         {
-          "id": 79,
-          "paragraph_id": 26,
+          "id": 78,
+          "paragraph_id": 25,
           "text": "Shock settled over the leaders as they absorbed the truth."
         },
         {
-          "id": 80,
-          "paragraph_id": 26,
+          "id": 79,
+          "paragraph_id": 25,
           "text": "The ancestors of the Four God Nation were not mythical beings born from earth and sky, but divine beasts from a higher world who had once fought to protect this realm from an unimaginable threat."
+        },
+        {
+          "id": 80,
+          "paragraph_id": 25,
+          "text": "Mark’s corruption, the destruction of the spatial pathways, and the long war with demons—all of it traced back to that ancient conflict."
         },
         {
           "id": 81,
           "paragraph_id": 26,
-          "text": "Mark’s corruption, the destruction of the spatial pathways, and the long war with demons—all of it traced back to that ancient conflict."
+          "text": "Max finished speaking, and the weight of history hung over everyone."
         },
         {
           "id": 82,
-          "paragraph_id": 27,
-          "text": "Max finished speaking, and the weight of history hung over everyone."
+          "paragraph_id": 26,
+          "text": "The leaders looked shaken, uncertain of what future awaited them now that the truth had come to light."
         },
         {
           "id": 83,
           "paragraph_id": 27,
-          "text": "The leaders looked shaken, uncertain of what future awaited them now that the truth had come to light."
+          "text": "And yet, beneath that uncertainty, a spark of understanding ignited."
         },
         {
           "id": 84,
           "paragraph_id": 28,
-          "text": "And yet, beneath that uncertainty, a spark of understanding ignited."
+          "text": "This war had never been just a war against demons."
         },
         {
           "id": 85,
           "paragraph_id": 29,
-          "text": "This war had never been just a war against demons."
-        },
-        {
-          "id": 86,
-          "paragraph_id": 30,
           "text": "It had always been part of a much larger conflict stretching across realms."
         }
       ],
-      "word_count": 1133
+      "word_count": 1132
     },
     {
       "chapter_index": 1293,
@@ -21670,7 +21610,6 @@
         "Now, for the first time in recorded history, the Celestial Beast Temple would not be approached by explorers seeking fortune. It would be approached by warriors preparing to face the fate of their world.",
         "And in one week, those chosen to enter would step into a place from which no one had ever returned.",
         "Whether they would break that cycle or become part of the temple’s silent history remained to be seen.",
-        "----",
         "At this moment, Max was seated deep within the Lower Domain, inside the Tower of Truth. The ancient structure stood silent and unmoving around him, its walls glowing faintly with inscriptions older than most civilizations that had ever risen in Acaris. Max sat cross-legged in the secret meditation chamber of the tower, a room that pulsed with pure, undisturbed spiritual energy. He had just returned from spending several hours in the Dimension of Time, where days passed in moments and contemplation stretched without interruption. As he opened his eyes, a calm yet serious look settled across his face. He knew the time for idle reflection was over.",
         "\"Xolo, come here,\" Max called softly.",
         "A gentle sound swept through the room, like wind brushing over still water.",
@@ -21871,170 +21810,165 @@
         {
           "id": 37,
           "paragraph_id": 17,
-          "text": "----"
-        },
-        {
-          "id": 38,
-          "paragraph_id": 18,
           "text": "At this moment, Max was seated deep within the Lower Domain, inside the Tower of Truth."
         },
         {
-          "id": 39,
-          "paragraph_id": 18,
+          "id": 38,
+          "paragraph_id": 17,
           "text": "The ancient structure stood silent and unmoving around him, its walls glowing faintly with inscriptions older than most civilizations that had ever risen in Acaris."
         },
         {
-          "id": 40,
-          "paragraph_id": 18,
+          "id": 39,
+          "paragraph_id": 17,
           "text": "Max sat cross-legged in the secret meditation chamber of the tower, a room that pulsed with pure, undisturbed spiritual energy."
         },
         {
-          "id": 41,
-          "paragraph_id": 18,
+          "id": 40,
+          "paragraph_id": 17,
           "text": "He had just returned from spending several hours in the Dimension of Time, where days passed in moments and contemplation stretched without interruption."
         },
         {
-          "id": 42,
-          "paragraph_id": 18,
+          "id": 41,
+          "paragraph_id": 17,
           "text": "As he opened his eyes, a calm yet serious look settled across his face."
+        },
+        {
+          "id": 42,
+          "paragraph_id": 17,
+          "text": "He knew the time for idle reflection was over."
         },
         {
           "id": 43,
           "paragraph_id": 18,
-          "text": "He knew the time for idle reflection was over."
+          "text": "\"Xolo, come here,\" Max called softly."
         },
         {
           "id": 44,
           "paragraph_id": 19,
-          "text": "\"Xolo, come here,\" Max called softly."
+          "text": "A gentle sound swept through the room, like wind brushing over still water."
         },
         {
           "id": 45,
           "paragraph_id": 20,
-          "text": "A gentle sound swept through the room, like wind brushing over still water."
+          "text": "Whish."
         },
         {
           "id": 46,
           "paragraph_id": 21,
-          "text": "Whish."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 22,
           "text": "A golden silhouette materialized before him, taking the form of a tall man with radiant patterns etched along his body."
         },
         {
-          "id": 48,
-          "paragraph_id": 22,
+          "id": 47,
+          "paragraph_id": 21,
           "text": "Xolo, the spirit of the Tower of Truth, bowed his head in greeting."
+        },
+        {
+          "id": 48,
+          "paragraph_id": 21,
+          "text": "His presence had always carried stability and wisdom, something ancient enough to transcend normal understanding."
         },
         {
           "id": 49,
           "paragraph_id": 22,
-          "text": "His presence had always carried stability and wisdom, something ancient enough to transcend normal understanding."
+          "text": "\"What can I do for you?\" Xolo asked, his voice resonating gently through the chamber."
         },
         {
           "id": 50,
           "paragraph_id": 23,
-          "text": "\"What can I do for you?\" Xolo asked, his voice resonating gently through the chamber."
-        },
-        {
-          "id": 51,
-          "paragraph_id": 24,
           "text": "Max looked at him carefully."
         },
         {
-          "id": 52,
-          "paragraph_id": 24,
+          "id": 51,
+          "paragraph_id": 23,
           "text": "\"Xolo, the red cloud calamity spreading across the world... you should already be aware of it.\" His tone grew solemn as he continued."
         },
         {
-          "id": 53,
-          "paragraph_id": 24,
+          "id": 52,
+          "paragraph_id": 23,
           "text": "\"It is not a natural phenomenon."
         },
         {
-          "id": 54,
-          "paragraph_id": 24,
+          "id": 53,
+          "paragraph_id": 23,
           "text": "It is a Devouring Spirit."
         },
         {
-          "id": 55,
-          "paragraph_id": 24,
+          "id": 54,
+          "paragraph_id": 23,
           "text": "These spirits move from world to world, consuming everything in their path to satisfy an endless hunger."
         },
         {
-          "id": 56,
-          "paragraph_id": 24,
+          "id": 55,
+          "paragraph_id": 23,
           "text": "This one has already marked our planet, and sooner or later it will devour Acaris completely."
+        },
+        {
+          "id": 56,
+          "paragraph_id": 23,
+          "text": "When that happens, everything will perish, including this tower.\""
         },
         {
           "id": 57,
           "paragraph_id": 24,
-          "text": "When that happens, everything will perish, including this tower.\""
-        },
-        {
-          "id": 58,
-          "paragraph_id": 25,
           "text": "He paused for a moment before speaking again."
         },
         {
-          "id": 59,
-          "paragraph_id": 25,
+          "id": 58,
+          "paragraph_id": 24,
           "text": "\"So I was thinking... perhaps I can move you somewhere safer."
+        },
+        {
+          "id": 59,
+          "paragraph_id": 24,
+          "text": "Maybe another realm, another vessel, or a storage world until we find a solution.\""
         },
         {
           "id": 60,
           "paragraph_id": 25,
-          "text": "Maybe another realm, another vessel, or a storage world until we find a solution.\""
-        },
-        {
-          "id": 61,
-          "paragraph_id": 26,
           "text": "Xolo remained silent for a moment, as though weighing the gravity of Max’s words."
         },
         {
-          "id": 62,
-          "paragraph_id": 26,
+          "id": 61,
+          "paragraph_id": 25,
           "text": "Then he nodded slowly."
         },
         {
-          "id": 63,
-          "paragraph_id": 26,
+          "id": 62,
+          "paragraph_id": 25,
           "text": "\"I have felt it,\" he admitted."
         },
         {
-          "id": 64,
-          "paragraph_id": 26,
+          "id": 63,
+          "paragraph_id": 25,
           "text": "\"The entity you speak of has been pressing against the boundaries of this world for quite some time now."
         },
         {
-          "id": 65,
-          "paragraph_id": 26,
+          "id": 64,
+          "paragraph_id": 25,
           "text": "Its presence grows stronger each passing day, and its influence is spreading faster than most mortals can comprehend."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 25,
+          "text": "If nothing is done, the calamity will devour the entire world without exception.\""
         },
         {
           "id": 66,
           "paragraph_id": 26,
-          "text": "If nothing is done, the calamity will devour the entire world without exception.\""
-        },
-        {
-          "id": 67,
-          "paragraph_id": 27,
           "text": "Max frowned."
         },
         {
-          "id": 68,
-          "paragraph_id": 27,
+          "id": 67,
+          "paragraph_id": 26,
           "text": "\"Have you heard of something like this before?"
         },
         {
-          "id": 69,
-          "paragraph_id": 27,
+          "id": 68,
+          "paragraph_id": 26,
           "text": "Do you know of any method to stop a Devouring Spirit?\""
         }
       ],
-      "word_count": 1062
+      "word_count": 1061
     },
     {
       "chapter_index": 1295,

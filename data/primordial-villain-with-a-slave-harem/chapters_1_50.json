@@ -14005,7 +14005,6 @@
         "Increased Agility (Medium)",
         "Increased Intelligence (Medium)",
         "Increased Wisdom (Medium)]",
-        ".......",
         "I'm utterly speechless.",
         "What the hell is this?!",
         "All my classes provide me only with a single minor increase as their effect.",
@@ -14170,380 +14169,375 @@
         {
           "id": 25,
           "paragraph_id": 17,
-          "text": "......."
+          "text": "I'm utterly speechless."
         },
         {
           "id": 26,
           "paragraph_id": 18,
-          "text": "I'm utterly speechless."
+          "text": "What the hell is this?!"
         },
         {
           "id": 27,
           "paragraph_id": 19,
-          "text": "What the hell is this?!"
+          "text": "All my classes provide me only with a single minor increase as their effect."
         },
         {
           "id": 28,
           "paragraph_id": 20,
-          "text": "All my classes provide me only with a single minor increase as their effect."
-        },
-        {
-          "id": 29,
-          "paragraph_id": 21,
           "text": "Just the Great HP increase alone is amazing, as I don't really wish to see it reach the number 0."
         },
         {
-          "id": 30,
-          "paragraph_id": 21,
+          "id": 29,
+          "paragraph_id": 20,
           "text": "Combined with the rest..."
+        },
+        {
+          "id": 30,
+          "paragraph_id": 20,
+          "text": "I don't know what to say."
         },
         {
           "id": 31,
           "paragraph_id": 21,
-          "text": "I don't know what to say."
+          "text": "Just to compare it with a rare class, I summon Ayame's Samurai class details."
         },
         {
           "id": 32,
           "paragraph_id": 22,
-          "text": "Just to compare it with a rare class, I summon Ayame's Samurai class details."
+          "text": "[Rare Class: Samurai]"
         },
         {
           "id": 33,
           "paragraph_id": 23,
-          "text": "[Rare Class: Samurai]"
+          "text": "[Effects:"
         },
         {
           "id": 34,
           "paragraph_id": 24,
-          "text": "[Effects:"
+          "text": "Increased Vitality (Minor)"
         },
         {
           "id": 35,
           "paragraph_id": 25,
-          "text": "Increased Vitality (Minor)"
+          "text": "Increased Strength (Minor)"
         },
         {
           "id": 36,
           "paragraph_id": 26,
-          "text": "Increased Strength (Minor)"
+          "text": "Increased Agility (Minor)]"
         },
         {
           "id": 37,
           "paragraph_id": 27,
-          "text": "Increased Agility (Minor)]"
+          "text": "[Base Skill: Vertical Slash]"
         },
         {
           "id": 38,
           "paragraph_id": 28,
-          "text": "[Base Skill: Vertical Slash]"
+          "text": "Well, she at least has an innate skill which Primordial Villain lacks, but otherwise..."
         },
         {
           "id": 39,
           "paragraph_id": 29,
-          "text": "Well, she at least has an innate skill which Primordial Villain lacks, but otherwise..."
+          "text": "I let out a defeated sigh, \"shiiit."
         },
         {
           "id": 40,
-          "paragraph_id": 30,
-          "text": "I let out a defeated sigh, \"shiiit."
+          "paragraph_id": 29,
+          "text": "Ayame, I think I might just have to become a villain.\" I tactfully inform my companion."
         },
         {
           "id": 41,
           "paragraph_id": 30,
-          "text": "Ayame, I think I might just have to become a villain.\" I tactfully inform my companion."
+          "text": "She doesn't reply for a good ten seconds before I hear a tired grunt, \"...huh?\""
         },
         {
           "id": 42,
           "paragraph_id": 31,
-          "text": "She doesn't reply for a good ten seconds before I hear a tired grunt, \"...huh?\""
+          "text": "I'm too stunned by all the new information to elaborate properly and soon I hear a defeated sigh from my lovely companion who then completely ignores me for the rest of the night."
         },
         {
           "id": 43,
           "paragraph_id": 32,
-          "text": "I'm too stunned by all the new information to elaborate properly and soon I hear a defeated sigh from my lovely companion who then completely ignores me for the rest of the night."
+          "text": "- Day 3 -"
         },
         {
           "id": 44,
           "paragraph_id": 33,
-          "text": "- Day 3 -"
-        },
-        {
-          "id": 45,
-          "paragraph_id": 34,
           "text": "We wake up in the early morning refreshed and quite energetic."
         },
         {
-          "id": 46,
-          "paragraph_id": 34,
+          "id": 45,
+          "paragraph_id": 33,
           "text": "I can tell from Ayame's expression that she is very happy to finally sleep in a bed without being chained to it."
+        },
+        {
+          "id": 46,
+          "paragraph_id": 33,
+          "text": "Her serene smile, softened by the morning light, is a welcome change from the guarded look she wore when we first met."
         },
         {
           "id": 47,
           "paragraph_id": 34,
-          "text": "Her serene smile, softened by the morning light, is a welcome change from the guarded look she wore when we first met."
+          "text": "After a dozen or so minutes of getting ready, we leave the room and this time we check out properly from the inn."
         },
         {
           "id": 48,
           "paragraph_id": 35,
-          "text": "After a dozen or so minutes of getting ready, we leave the room and this time we check out properly from the inn."
-        },
-        {
-          "id": 49,
-          "paragraph_id": 36,
           "text": "Following our plan, we journey on foot to where I hid the merchant crates to check their existence and the status of the wares."
         },
         {
-          "id": 50,
-          "paragraph_id": 36,
+          "id": 49,
+          "paragraph_id": 35,
           "text": "The morning air is crisp, and the forest is alive with the sounds of chirping birds and rustling leaves."
+        },
+        {
+          "id": 50,
+          "paragraph_id": 35,
+          "text": "Ayame walks beside me, her eyes scanning our surroundings with practiced vigilance."
         },
         {
           "id": 51,
           "paragraph_id": 36,
-          "text": "Ayame walks beside me, her eyes scanning our surroundings with practiced vigilance."
+          "text": "It takes us a few hours to get to the vicinity and an extra hour for me to find the exact location of the hidden crates, but we succeed after a short while."
         },
         {
           "id": 52,
           "paragraph_id": 37,
-          "text": "It takes us a few hours to get to the vicinity and an extra hour for me to find the exact location of the hidden crates, but we succeed after a short while."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 38,
           "text": "As we search, Ayame's patience shines once more as she doesn't rush me despite me fumbling around the forest foliage like a fool."
         },
         {
-          "id": 54,
-          "paragraph_id": 38,
+          "id": 53,
+          "paragraph_id": 37,
           "text": "I love this aspect of her."
         },
         {
-          "id": 55,
-          "paragraph_id": 38,
+          "id": 54,
+          "paragraph_id": 37,
           "text": "If she was impatient I would feel stressed but now I just feel calm and a bit of excitement for the future."
+        },
+        {
+          "id": 55,
+          "paragraph_id": 37,
+          "text": "Her presence is a steadying force, and I appreciate her more with each passing moment."
         },
         {
           "id": 56,
           "paragraph_id": 38,
-          "text": "Her presence is a steadying force, and I appreciate her more with each passing moment."
-        },
-        {
-          "id": 57,
-          "paragraph_id": 39,
           "text": "We inspect the crates and are quite relieved to find that everything is alright."
         },
         {
-          "id": 58,
-          "paragraph_id": 39,
+          "id": 57,
+          "paragraph_id": 38,
           "text": "The wares inside are in decent condition; the perishables aren't rotten, though they are far from fresh."
+        },
+        {
+          "id": 58,
+          "paragraph_id": 38,
+          "text": "I'm uncertain about their market value in this state, but I hope they'll still fetch a reasonable price."
         },
         {
           "id": 59,
           "paragraph_id": 39,
-          "text": "I'm uncertain about their market value in this state, but I hope they'll still fetch a reasonable price."
-        },
-        {
-          "id": 60,
-          "paragraph_id": 40,
           "text": "\"Watch out!\" Ayame shouts suddenly, breaking my focus."
         },
         {
-          "id": 61,
-          "paragraph_id": 40,
+          "id": 60,
+          "paragraph_id": 39,
           "text": "I spin around, grabbing my spear and assume a defensive stance."
+        },
+        {
+          "id": 61,
+          "paragraph_id": 39,
+          "text": "My eyes scan the surroundings for the source of her alarm."
         },
         {
           "id": 62,
           "paragraph_id": 40,
-          "text": "My eyes scan the surroundings for the source of her alarm."
-        },
-        {
-          "id": 63,
-          "paragraph_id": 41,
           "text": "A few small green creatures, no taller than a child and with beady eyes glinting malevolently, come into view."
         },
         {
-          "id": 64,
-          "paragraph_id": 41,
+          "id": 63,
+          "paragraph_id": 40,
           "text": "They have ragged clothing and crude weapons slung over their shoulders."
         },
         {
-          "id": 65,
-          "paragraph_id": 41,
+          "id": 64,
+          "paragraph_id": 40,
           "text": "Their presence is accompanied by the high-pitched, discordant sound of their voices."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 40,
+          "text": "\"Skreee!!\" one of them screeches."
         },
         {
           "id": 66,
           "paragraph_id": 41,
-          "text": "\"Skreee!!\" one of them screeches."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 42,
           "text": "One of the creatures, who appears to be their leader, points at us with a clawed hand."
         },
         {
-          "id": 68,
-          "paragraph_id": 42,
+          "id": 67,
+          "paragraph_id": 41,
           "text": "\"Pretty woman!\" it cackles, its voice like nails on a chalkboard."
         },
         {
-          "id": 69,
-          "paragraph_id": 42,
+          "id": 68,
+          "paragraph_id": 41,
           "text": "Then it turns its gaze to me, and with a mocking sneer adds, \"Man ugly!"
+        },
+        {
+          "id": 69,
+          "paragraph_id": 41,
+          "text": "Kill!\""
         },
         {
           "id": 70,
           "paragraph_id": 42,
-          "text": "Kill!\""
+          "text": "\"Thanks, buddy."
         },
         {
           "id": 71,
-          "paragraph_id": 43,
-          "text": "\"Thanks, buddy."
+          "paragraph_id": 42,
+          "text": "Love you too,\" I mutter under my breath, trying to maintain my composure despite the absurdity of the situation."
         },
         {
           "id": 72,
           "paragraph_id": 43,
-          "text": "Love you too,\" I mutter under my breath, trying to maintain my composure despite the absurdity of the situation."
-        },
-        {
-          "id": 73,
-          "paragraph_id": 44,
           "text": "\"Goblins..."
         },
         {
-          "id": 74,
-          "paragraph_id": 44,
+          "id": 73,
+          "paragraph_id": 43,
           "text": "Sorry, Quinlan, I failed to detect them in time somehow."
         },
         {
-          "id": 75,
-          "paragraph_id": 44,
+          "id": 74,
+          "paragraph_id": 43,
           "text": "I'm not the best at surveillance..."
         },
         {
-          "id": 76,
-          "paragraph_id": 44,
+          "id": 75,
+          "paragraph_id": 43,
           "text": "Damn!"
         },
         {
-          "id": 77,
-          "paragraph_id": 44,
+          "id": 76,
+          "paragraph_id": 43,
           "text": "Now I feel so ashamed!\" My samurai kept berating herself for this supposed failure."
+        },
+        {
+          "id": 77,
+          "paragraph_id": 43,
+          "text": "Well, she did sense them in the end, but only once they got quite close to us."
         },
         {
           "id": 78,
           "paragraph_id": 44,
-          "text": "Well, she did sense them in the end, but only once they got quite close to us."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 45,
           "text": "\"Don't mind it, Ayame."
         },
         {
-          "id": 80,
-          "paragraph_id": 45,
+          "id": 79,
+          "paragraph_id": 44,
           "text": "I was thinking of adding a good dog girl to the party soon."
         },
         {
-          "id": 81,
-          "paragraph_id": 45,
+          "id": 80,
+          "paragraph_id": 44,
           "text": "Her nose should sense these filthy creatures from miles away."
         },
         {
-          "id": 82,
-          "paragraph_id": 45,
+          "id": 81,
+          "paragraph_id": 44,
           "text": "Even I can smell their piss covered skin..."
+        },
+        {
+          "id": 82,
+          "paragraph_id": 44,
+          "text": "So fucking disgusting to be honest.\""
         },
         {
           "id": 83,
           "paragraph_id": 45,
-          "text": "So fucking disgusting to be honest.\""
-        },
-        {
-          "id": 84,
-          "paragraph_id": 46,
           "text": "\"Why not a good dog boy?\" She teases, which I completely ignore."
         },
         {
-          "id": 85,
-          "paragraph_id": 46,
+          "id": 84,
+          "paragraph_id": 45,
           "text": "A man in my party?"
+        },
+        {
+          "id": 85,
+          "paragraph_id": 45,
+          "text": "Good joke, woman."
         },
         {
           "id": 86,
           "paragraph_id": 46,
-          "text": "Good joke, woman."
+          "text": "\"I can only see three of them..."
         },
         {
           "id": 87,
-          "paragraph_id": 47,
-          "text": "\"I can only see three of them..."
+          "paragraph_id": 46,
+          "text": "Do you sense any more?\""
         },
         {
           "id": 88,
           "paragraph_id": 47,
-          "text": "Do you sense any more?\""
+          "text": "\"Nope, it should be a scout party."
         },
         {
           "id": 89,
-          "paragraph_id": 48,
-          "text": "\"Nope, it should be a scout party."
+          "paragraph_id": 47,
+          "text": "They might be part of the same raider group you encountered before.\""
         },
         {
           "id": 90,
           "paragraph_id": 48,
-          "text": "They might be part of the same raider group you encountered before.\""
-        },
-        {
-          "id": 91,
-          "paragraph_id": 49,
           "text": "\"What do you think about me handling this?"
         },
         {
-          "id": 92,
-          "paragraph_id": 49,
+          "id": 91,
+          "paragraph_id": 48,
           "text": "I can tell by your lax attitude that you can slaughter them easily."
+        },
+        {
+          "id": 92,
+          "paragraph_id": 48,
+          "text": "Might be good training for me.\""
         },
         {
           "id": 93,
           "paragraph_id": 49,
-          "text": "Might be good training for me.\""
-        },
-        {
-          "id": 94,
-          "paragraph_id": 50,
           "text": "She smiles and nods at me, \"I was just about to suggest that."
         },
         {
-          "id": 95,
-          "paragraph_id": 50,
+          "id": 94,
+          "paragraph_id": 49,
           "text": "I will shadow you and step in should the need arise."
+        },
+        {
+          "id": 95,
+          "paragraph_id": 49,
+          "text": "Don't rush and use their lacking intellect and the superior reach of your spear as well as your longer limbs to your advantage.\""
         },
         {
           "id": 96,
           "paragraph_id": 50,
-          "text": "Don't rush and use their lacking intellect and the superior reach of your spear as well as your longer limbs to your advantage.\""
-        },
-        {
-          "id": 97,
-          "paragraph_id": 51,
           "text": "With a deep breath, I nod and take a step forward, brandishing my spear."
         },
         {
-          "id": 98,
-          "paragraph_id": 51,
+          "id": 97,
+          "paragraph_id": 50,
           "text": "The goblins' sneering expressions only increase my disgust fueled determination."
         },
         {
-          "id": 99,
-          "paragraph_id": 51,
+          "id": 98,
+          "paragraph_id": 50,
           "text": "I tighten my grip and prepare for the brutal encounter."
         }
       ],
-      "word_count": 1031
+      "word_count": 1030
     },
     {
       "chapter_index": 33,

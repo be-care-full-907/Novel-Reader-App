@@ -866,20 +866,17 @@
         "Julian took a deep breath, excitement bubbling within him. \"How much points did I earn yesterday?\"",
         "The system paused for a moment before responding, \"Calculating...\" The air felt charged with anticipation as Julian waited for the answer, wondering how the events of the previous night would reflect in his total point.",
         "A window appeared in front of Julian, displaying the following information:",
-        "================================================================",
         "Points Calculation",
         "Points Earned:",
         "Points from Isabel and Julia: 7100 points",
         "First Time Bonus:",
         "Bonus Multiplier: 10x",
         "Total Points After Bonus: 71,000 points",
-        "================================================================",
         "Julian’s eyes widened at the number, a grin spreading across his face as he realized how much he had gained from their intimate encounters. The thrill of his success surged within him, fueling his ambition for more.",
         "Julian raised an eyebrow in surprise. \"So much?\"",
         "The system replied, \"Yes, host. You also received the threesome points, which contributed significantly to your total.\"",
         "Julian chuckled, feeling a rush of excitement. \"Well, I guess it was a night to remember!\"",
         "\"Show me the shop\", Julian commanded.",
-        "================================================================",
         "Shop Window",
         "* Skills:",
         "Electric Shield (Epic): Charge your body with a shield of electricity, providing protection against physical and magical attacks while dealing electric damage to attackers.",
@@ -898,7 +895,6 @@
         "Price: 50000 points",
         "Hammer of God (Unranked): A colossal hammer that radiates divine energy, capable of obliterating anything in its path. Its mere presence strikes fear into the hearts of enemies.",
         "Price: 1 million points",
-        "================================================================",
         "Julian furrowed his brow in concentration as he recalled his recent activities and the points he had accumulated. He turned to the system, curious about his current standing.",
         "\"How many points do I have?\" he inquired, eager to see how much he had gained.",
         "The system’s voice responded promptly, \"You have 120,975 points, host.\"",
@@ -907,7 +903,6 @@
         "Julian made his selections with confidence, knowing that each item would significantly enhance his capabilities.",
         "\"System, I want to buy the Cosmic Spear of Death for 50,000 points, the Electric Shield for 2,000 points, and Dimension Isolation for 5,000 points,\" he commanded.",
         "The system replied, \"Processing your purchase, host.\"",
-        "============================================",
         "Purchase Confirmation",
         "Cosmic Spear of Death: 50,000 points",
         "A powerful weapon capable of dealing devastating damage to enemies, infused with cosmic energy energy.",
@@ -915,11 +910,8 @@
         "A shield that charges the user’s body with electricity, providing a protective barrier against attacks.",
         "Dimension Isolation: 5,000 points",
         "Creates a magical barrier that isolates the user from the surrounding area, allowing for strategic advantage.",
-        "============================================",
         "Transaction Complete!",
-        "Remaining Points: 63,975",
-        "============================================",
-        "** Author note: Vote for the novel, if you enjoy reading."
+        "Remaining Points: 63,975"
       ],
       "sentences": [
         {
@@ -1045,315 +1037,275 @@
         {
           "id": 24,
           "paragraph_id": 14,
-          "text": "================================================================"
+          "text": "Points Calculation"
         },
         {
           "id": 25,
           "paragraph_id": 15,
-          "text": "Points Calculation"
+          "text": "Points Earned:"
         },
         {
           "id": 26,
           "paragraph_id": 16,
-          "text": "Points Earned:"
+          "text": "Points from Isabel and Julia: 7100 points"
         },
         {
           "id": 27,
           "paragraph_id": 17,
-          "text": "Points from Isabel and Julia: 7100 points"
+          "text": "First Time Bonus:"
         },
         {
           "id": 28,
           "paragraph_id": 18,
-          "text": "First Time Bonus:"
+          "text": "Bonus Multiplier: 10x"
         },
         {
           "id": 29,
           "paragraph_id": 19,
-          "text": "Bonus Multiplier: 10x"
+          "text": "Total Points After Bonus: 71,000 points"
         },
         {
           "id": 30,
           "paragraph_id": 20,
-          "text": "Total Points After Bonus: 71,000 points"
-        },
-        {
-          "id": 31,
-          "paragraph_id": 21,
-          "text": "================================================================"
-        },
-        {
-          "id": 32,
-          "paragraph_id": 22,
           "text": "Julian’s eyes widened at the number, a grin spreading across his face as he realized how much he had gained from their intimate encounters."
         },
         {
-          "id": 33,
-          "paragraph_id": 22,
+          "id": 31,
+          "paragraph_id": 20,
           "text": "The thrill of his success surged within him, fueling his ambition for more."
         },
         {
-          "id": 34,
-          "paragraph_id": 23,
+          "id": 32,
+          "paragraph_id": 21,
           "text": "Julian raised an eyebrow in surprise."
         },
         {
-          "id": 35,
-          "paragraph_id": 23,
+          "id": 33,
+          "paragraph_id": 21,
           "text": "\"So much?\""
         },
         {
-          "id": 36,
-          "paragraph_id": 24,
+          "id": 34,
+          "paragraph_id": 22,
           "text": "The system replied, \"Yes, host."
         },
         {
-          "id": 37,
-          "paragraph_id": 24,
+          "id": 35,
+          "paragraph_id": 22,
           "text": "You also received the threesome points, which contributed significantly to your total.\""
         },
         {
-          "id": 38,
-          "paragraph_id": 25,
+          "id": 36,
+          "paragraph_id": 23,
           "text": "Julian chuckled, feeling a rush of excitement."
+        },
+        {
+          "id": 37,
+          "paragraph_id": 23,
+          "text": "\"Well, I guess it was a night to remember!\""
+        },
+        {
+          "id": 38,
+          "paragraph_id": 24,
+          "text": "\"Show me the shop\", Julian commanded."
         },
         {
           "id": 39,
           "paragraph_id": 25,
-          "text": "\"Well, I guess it was a night to remember!\""
+          "text": "Shop Window"
         },
         {
           "id": 40,
           "paragraph_id": 26,
-          "text": "\"Show me the shop\", Julian commanded."
+          "text": "* Skills:"
         },
         {
           "id": 41,
           "paragraph_id": 27,
-          "text": "================================================================"
+          "text": "Electric Shield (Epic): Charge your body with a shield of electricity, providing protection against physical and magical attacks while dealing electric damage to attackers."
         },
         {
           "id": 42,
           "paragraph_id": 28,
-          "text": "Shop Window"
+          "text": "Price: 2000 points"
         },
         {
           "id": 43,
           "paragraph_id": 29,
-          "text": "* Skills:"
+          "text": "Fire Lightning (Legendary): Summons a unique form of lightning that has both fire and electrical attributes, creating explosive damage that ignites the surroundings."
         },
         {
           "id": 44,
           "paragraph_id": 30,
-          "text": "Electric Shield (Epic): Charge your body with a shield of electricity, providing protection against physical and magical attacks while dealing electric damage to attackers."
+          "text": "Price: 5000 points"
         },
         {
           "id": 45,
           "paragraph_id": 31,
-          "text": "Price: 2000 points"
+          "text": "* Abilities:"
         },
         {
           "id": 46,
           "paragraph_id": 32,
-          "text": "Fire Lightning (Legendary): Summons a unique form of lightning that has both fire and electrical attributes, creating explosive damage that ignites the surroundings."
+          "text": "Mana Field (Epic): Sends out undetectable waves of mana that can detect the presence of other mages and creatures within a certain radius, enhancing your awareness of your surroundings."
         },
         {
           "id": 47,
           "paragraph_id": 33,
-          "text": "Price: 5000 points"
+          "text": "Price: 2000 points"
         },
         {
           "id": 48,
           "paragraph_id": 34,
-          "text": "* Abilities:"
+          "text": "Dimension Isolation (Legendary): Creates a powerful magical barrier that isolates the user from the surrounding area, preventing any outside interference and allowing for focused concentration."
         },
         {
           "id": 49,
           "paragraph_id": 35,
-          "text": "Mana Field (Epic): Sends out undetectable waves of mana that can detect the presence of other mages and creatures within a certain radius, enhancing your awareness of your surroundings."
+          "text": "Price: 5000 points"
         },
         {
           "id": 50,
           "paragraph_id": 36,
-          "text": "Price: 2000 points"
+          "text": "* Weapons:"
         },
         {
           "id": 51,
           "paragraph_id": 37,
-          "text": "Dimension Isolation (Legendary): Creates a powerful magical barrier that isolates the user from the surrounding area, preventing any outside interference and allowing for focused concentration."
+          "text": "Conqueror’s Sword (Legendary): A magnificent sword infused with the power of conquest, it enhances your physical strength and increases damage dealt to enemies significantly."
         },
         {
           "id": 52,
           "paragraph_id": 38,
-          "text": "Price: 5000 points"
+          "text": "Price: 20000 points"
         },
         {
           "id": 53,
           "paragraph_id": 39,
-          "text": "* Weapons:"
+          "text": "Cosmic Spear of Death (Unranked): A spear that channels the essence of the cosmos, allowing you to pierce through defenses and deliver fatal blows to your foes."
         },
         {
           "id": 54,
           "paragraph_id": 40,
-          "text": "Conqueror’s Sword (Legendary): A magnificent sword infused with the power of conquest, it enhances your physical strength and increases damage dealt to enemies significantly."
+          "text": "Price: 50000 points"
         },
         {
           "id": 55,
           "paragraph_id": 41,
-          "text": "Price: 20000 points"
-        },
-        {
-          "id": 56,
-          "paragraph_id": 42,
-          "text": "Cosmic Spear of Death (Unranked): A spear that channels the essence of the cosmos, allowing you to pierce through defenses and deliver fatal blows to your foes."
-        },
-        {
-          "id": 57,
-          "paragraph_id": 43,
-          "text": "Price: 50000 points"
-        },
-        {
-          "id": 58,
-          "paragraph_id": 44,
           "text": "Hammer of God (Unranked): A colossal hammer that radiates divine energy, capable of obliterating anything in its path."
         },
         {
-          "id": 59,
-          "paragraph_id": 44,
+          "id": 56,
+          "paragraph_id": 41,
           "text": "Its mere presence strikes fear into the hearts of enemies."
         },
         {
-          "id": 60,
-          "paragraph_id": 45,
+          "id": 57,
+          "paragraph_id": 42,
           "text": "Price: 1 million points"
         },
         {
+          "id": 58,
+          "paragraph_id": 43,
+          "text": "Julian furrowed his brow in concentration as he recalled his recent activities and the points he had accumulated."
+        },
+        {
+          "id": 59,
+          "paragraph_id": 43,
+          "text": "He turned to the system, curious about his current standing."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 44,
+          "text": "\"How many points do I have?\" he inquired, eager to see how much he had gained."
+        },
+        {
           "id": 61,
-          "paragraph_id": 46,
-          "text": "================================================================"
+          "paragraph_id": 45,
+          "text": "The system’s voice responded promptly, \"You have 120,975 points, host.\""
         },
         {
           "id": 62,
-          "paragraph_id": 47,
-          "text": "Julian furrowed his brow in concentration as he recalled his recent activities and the points he had accumulated."
+          "paragraph_id": 46,
+          "text": "A surge of excitement coursed through him as he contemplated the possibilities with such amount."
         },
         {
           "id": 63,
           "paragraph_id": 47,
-          "text": "He turned to the system, curious about his current standing."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 48,
-          "text": "\"How many points do I have?\" he inquired, eager to see how much he had gained."
-        },
-        {
-          "id": 65,
-          "paragraph_id": 49,
-          "text": "The system’s voice responded promptly, \"You have 120,975 points, host.\""
-        },
-        {
-          "id": 66,
-          "paragraph_id": 50,
-          "text": "A surge of excitement coursed through him as he contemplated the possibilities with such amount."
-        },
-        {
-          "id": 67,
-          "paragraph_id": 51,
           "text": "As Julian browsed the shop, his eyes flickered over the various items displayed before him."
         },
         {
-          "id": 68,
-          "paragraph_id": 51,
+          "id": 64,
+          "paragraph_id": 47,
           "text": "The possibilities seemed endless as he considered what to purchase."
+        },
+        {
+          "id": 65,
+          "paragraph_id": 47,
+          "text": "He took a moment to inspect each category: spells, abilities and weapons."
+        },
+        {
+          "id": 66,
+          "paragraph_id": 48,
+          "text": "Julian made his selections with confidence, knowing that each item would significantly enhance his capabilities."
+        },
+        {
+          "id": 67,
+          "paragraph_id": 49,
+          "text": "\"System, I want to buy the Cosmic Spear of Death for 50,000 points, the Electric Shield for 2,000 points, and Dimension Isolation for 5,000 points,\" he commanded."
+        },
+        {
+          "id": 68,
+          "paragraph_id": 50,
+          "text": "The system replied, \"Processing your purchase, host.\""
         },
         {
           "id": 69,
           "paragraph_id": 51,
-          "text": "He took a moment to inspect each category: spells, abilities and weapons."
+          "text": "Purchase Confirmation"
         },
         {
           "id": 70,
           "paragraph_id": 52,
-          "text": "Julian made his selections with confidence, knowing that each item would significantly enhance his capabilities."
+          "text": "Cosmic Spear of Death: 50,000 points"
         },
         {
           "id": 71,
           "paragraph_id": 53,
-          "text": "\"System, I want to buy the Cosmic Spear of Death for 50,000 points, the Electric Shield for 2,000 points, and Dimension Isolation for 5,000 points,\" he commanded."
+          "text": "A powerful weapon capable of dealing devastating damage to enemies, infused with cosmic energy energy."
         },
         {
           "id": 72,
           "paragraph_id": 54,
-          "text": "The system replied, \"Processing your purchase, host.\""
+          "text": "Electric Shield: 2,000 points"
         },
         {
           "id": 73,
           "paragraph_id": 55,
-          "text": "============================================"
+          "text": "A shield that charges the user’s body with electricity, providing a protective barrier against attacks."
         },
         {
           "id": 74,
           "paragraph_id": 56,
-          "text": "Purchase Confirmation"
+          "text": "Dimension Isolation: 5,000 points"
         },
         {
           "id": 75,
           "paragraph_id": 57,
-          "text": "Cosmic Spear of Death: 50,000 points"
+          "text": "Creates a magical barrier that isolates the user from the surrounding area, allowing for strategic advantage."
         },
         {
           "id": 76,
           "paragraph_id": 58,
-          "text": "A powerful weapon capable of dealing devastating damage to enemies, infused with cosmic energy energy."
+          "text": "Transaction Complete!"
         },
         {
           "id": 77,
           "paragraph_id": 59,
-          "text": "Electric Shield: 2,000 points"
-        },
-        {
-          "id": 78,
-          "paragraph_id": 60,
-          "text": "A shield that charges the user’s body with electricity, providing a protective barrier against attacks."
-        },
-        {
-          "id": 79,
-          "paragraph_id": 61,
-          "text": "Dimension Isolation: 5,000 points"
-        },
-        {
-          "id": 80,
-          "paragraph_id": 62,
-          "text": "Creates a magical barrier that isolates the user from the surrounding area, allowing for strategic advantage."
-        },
-        {
-          "id": 81,
-          "paragraph_id": 63,
-          "text": "============================================"
-        },
-        {
-          "id": 82,
-          "paragraph_id": 64,
-          "text": "Transaction Complete!"
-        },
-        {
-          "id": 83,
-          "paragraph_id": 65,
           "text": "Remaining Points: 63,975"
-        },
-        {
-          "id": 84,
-          "paragraph_id": 66,
-          "text": "============================================"
-        },
-        {
-          "id": 85,
-          "paragraph_id": 67,
-          "text": "** Author note: Vote for the novel, if you enjoy reading."
         }
       ],
-      "word_count": 920
+      "word_count": 902
     },
     {
       "chapter_index": 54,
@@ -1361,7 +1313,6 @@
       "url": "https://freewebnovel.com/novel/i-am-a-mage-but-with-milf-system/chapter-54",
       "paragraphs": [
         "\"Show me the detailed information of the spear\", Julian said.",
-        "================================================================",
         "Cosmic Spear of Death",
         "Type: Weapon",
         "Rank: Unranked",
@@ -1372,7 +1323,6 @@
         "Cosmic Strike: When thrown, the spear creates a rift in the air, dealing area damage to enemies caught in its path.",
         "Death’s Grasp: Allows the user to pull the spear back instantly, bringing along any enemies it has struck, immobilizing them briefly.",
         "Eternal Warding: Grants a temporary shield that absorbs a portion of incoming damage when wielded.",
-        "================================================================",
         "Julian stared at the detailed information about the Cosmic Spear of Death, his mind racing with excitement. The fact that the weapon not only boasted immense power but also came with its own set of abilities was more than he had anticipated.",
         "He couldn’t help but imagine the potential it held in battle, how the Cosmic Strike could devastate multiple enemies, or how Death’s Grasp could turn the tide by pulling foes closer when they least expected it. The idea of an Eternal Warding that could protect him in moments of danger was extra bonus.",
         "\"This is incredible,\" he thought to himself. He realized that with this spear in hand, he could become an unstoppable force on the battlefield.",
@@ -1407,300 +1357,290 @@
         {
           "id": 1,
           "paragraph_id": 1,
-          "text": "================================================================"
+          "text": "Cosmic Spear of Death"
         },
         {
           "id": 2,
           "paragraph_id": 2,
-          "text": "Cosmic Spear of Death"
+          "text": "Type: Weapon"
         },
         {
           "id": 3,
           "paragraph_id": 3,
-          "text": "Type: Weapon"
+          "text": "Rank: Unranked"
         },
         {
           "id": 4,
           "paragraph_id": 4,
-          "text": "Rank: Unranked"
+          "text": "Description:"
         },
         {
           "id": 5,
           "paragraph_id": 5,
-          "text": "Description:"
+          "text": "The Cosmic Spear of Death is a formidable weapon forged from the essence of cosmic energy."
         },
         {
           "id": 6,
-          "paragraph_id": 6,
-          "text": "The Cosmic Spear of Death is a formidable weapon forged from the essence of cosmic energy."
+          "paragraph_id": 5,
+          "text": "Its shaft is made of an obsidian, glowing with a deep purple hue that seems to absorb light around it."
         },
         {
           "id": 7,
           "paragraph_id": 6,
-          "text": "Its shaft is made of an obsidian, glowing with a deep purple hue that seems to absorb light around it."
+          "text": "The spearhead is sharp, designed to pierce through even the strongest armor."
         },
         {
           "id": 8,
-          "paragraph_id": 7,
-          "text": "The spearhead is sharp, designed to pierce through even the strongest armor."
+          "paragraph_id": 6,
+          "text": "When wielded, it resonates with the mana, allowing the user to unleash devastating attacks that can obliterate foes in an instant."
         },
         {
           "id": 9,
           "paragraph_id": 7,
-          "text": "When wielded, it resonates with the mana, allowing the user to unleash devastating attacks that can obliterate foes in an instant."
+          "text": "Abilities:"
         },
         {
           "id": 10,
           "paragraph_id": 8,
-          "text": "Abilities:"
+          "text": "Cosmic Strike: When thrown, the spear creates a rift in the air, dealing area damage to enemies caught in its path."
         },
         {
           "id": 11,
           "paragraph_id": 9,
-          "text": "Cosmic Strike: When thrown, the spear creates a rift in the air, dealing area damage to enemies caught in its path."
+          "text": "Death’s Grasp: Allows the user to pull the spear back instantly, bringing along any enemies it has struck, immobilizing them briefly."
         },
         {
           "id": 12,
           "paragraph_id": 10,
-          "text": "Death’s Grasp: Allows the user to pull the spear back instantly, bringing along any enemies it has struck, immobilizing them briefly."
+          "text": "Eternal Warding: Grants a temporary shield that absorbs a portion of incoming damage when wielded."
         },
         {
           "id": 13,
           "paragraph_id": 11,
-          "text": "Eternal Warding: Grants a temporary shield that absorbs a portion of incoming damage when wielded."
-        },
-        {
-          "id": 14,
-          "paragraph_id": 12,
-          "text": "================================================================"
-        },
-        {
-          "id": 15,
-          "paragraph_id": 13,
           "text": "Julian stared at the detailed information about the Cosmic Spear of Death, his mind racing with excitement."
         },
         {
-          "id": 16,
-          "paragraph_id": 13,
+          "id": 14,
+          "paragraph_id": 11,
           "text": "The fact that the weapon not only boasted immense power but also came with its own set of abilities was more than he had anticipated."
         },
         {
-          "id": 17,
-          "paragraph_id": 14,
+          "id": 15,
+          "paragraph_id": 12,
           "text": "He couldn’t help but imagine the potential it held in battle, how the Cosmic Strike could devastate multiple enemies, or how Death’s Grasp could turn the tide by pulling foes closer when they least expected it."
         },
         {
-          "id": 18,
-          "paragraph_id": 14,
+          "id": 16,
+          "paragraph_id": 12,
           "text": "The idea of an Eternal Warding that could protect him in moments of danger was extra bonus."
         },
         {
-          "id": 19,
-          "paragraph_id": 15,
+          "id": 17,
+          "paragraph_id": 13,
           "text": "\"This is incredible,\" he thought to himself."
         },
         {
-          "id": 20,
-          "paragraph_id": 15,
+          "id": 18,
+          "paragraph_id": 13,
           "text": "He realized that with this spear in hand, he could become an unstoppable force on the battlefield."
         },
         {
-          "id": 21,
-          "paragraph_id": 16,
+          "id": 19,
+          "paragraph_id": 14,
           "text": "Julian felt a surge of determination."
+        },
+        {
+          "id": 20,
+          "paragraph_id": 14,
+          "text": "He wanted to harness every advantage possible."
+        },
+        {
+          "id": 21,
+          "paragraph_id": 15,
+          "text": "\"System, absorb the mana of the headmistress, Isabel, and Julia,\" he commanded, eager to cultivate their powers into his own."
         },
         {
           "id": 22,
           "paragraph_id": 16,
-          "text": "He wanted to harness every advantage possible."
-        },
-        {
-          "id": 23,
-          "paragraph_id": 17,
-          "text": "\"System, absorb the mana of the headmistress, Isabel, and Julia,\" he commanded, eager to cultivate their powers into his own."
-        },
-        {
-          "id": 24,
-          "paragraph_id": 18,
           "text": "The system replied, \"Initiating absorption process."
         },
         {
-          "id": 25,
-          "paragraph_id": 18,
+          "id": 23,
+          "paragraph_id": 16,
           "text": "Please hold.\""
         },
         {
-          "id": 26,
-          "paragraph_id": 19,
+          "id": 24,
+          "paragraph_id": 17,
           "text": "A moment later, he felt a warm energy enveloping him as it filled his body with a sense of strength and vitality."
         },
         {
-          "id": 27,
-          "paragraph_id": 19,
+          "id": 25,
+          "paragraph_id": 17,
           "text": "Julian closed his eyes focusing on the sensations as the energies merged with his own."
         },
         {
-          "id": 28,
-          "paragraph_id": 20,
+          "id": 26,
+          "paragraph_id": 18,
           "text": "Julian could sense that the mana he had just absorbed was unlike any he had encountered before."
         },
         {
-          "id": 29,
-          "paragraph_id": 20,
+          "id": 27,
+          "paragraph_id": 18,
           "text": "This was not the typical impure mana that he was accustomed to; it felt more polished and refined, as if it had been purified to the highest degree."
         },
         {
-          "id": 30,
-          "paragraph_id": 21,
+          "id": 28,
+          "paragraph_id": 19,
           "text": "Each drop of the headmistress’s mana, mingled with Julia and Isabel’s."
         },
         {
-          "id": 31,
-          "paragraph_id": 21,
+          "id": 29,
+          "paragraph_id": 19,
           "text": "It flowed through him, igniting every fiber of his being with an extreme intensity."
         },
         {
-          "id": 32,
-          "paragraph_id": 21,
+          "id": 30,
+          "paragraph_id": 19,
           "text": "It was as if he were being transformed, reshaped by the very essence of these women."
         },
         {
-          "id": 33,
-          "paragraph_id": 22,
+          "id": 31,
+          "paragraph_id": 20,
           "text": "As he absorbed the mana, Julian felt his muscles revitalize with life as if it was being molded and sculpted to finest degree."
         },
         {
-          "id": 34,
-          "paragraph_id": 22,
+          "id": 32,
+          "paragraph_id": 20,
           "text": "It was a rush unlike anything he had ever experienced, and it sent waves of warmth flooding through his body."
         },
         {
-          "id": 35,
-          "paragraph_id": 23,
+          "id": 33,
+          "paragraph_id": 21,
           "text": "He concentrated deeply on his sea of consciousness."
         },
         {
-          "id": 36,
-          "paragraph_id": 23,
+          "id": 34,
+          "paragraph_id": 21,
           "text": "There, the chaotic lightning that usually crackled wildly began to slowly calm down as if it was being nurtured by the mana."
         },
         {
-          "id": 37,
-          "paragraph_id": 24,
+          "id": 35,
+          "paragraph_id": 22,
           "text": "Similarly, the once chaotic energy gradually transformed into a steady stream, as if the mana were its mother, soothing it into submission."
+        },
+        {
+          "id": 36,
+          "paragraph_id": 22,
+          "text": "It felt nurturing and supportive, a guiding force that settled the chaos."
+        },
+        {
+          "id": 37,
+          "paragraph_id": 23,
+          "text": "With every moment that passed, he felt the rapid expansion within himself and it was a thrilling sensation."
         },
         {
           "id": 38,
           "paragraph_id": 24,
-          "text": "It felt nurturing and supportive, a guiding force that settled the chaos."
-        },
-        {
-          "id": 39,
-          "paragraph_id": 25,
-          "text": "With every moment that passed, he felt the rapid expansion within himself and it was a thrilling sensation."
-        },
-        {
-          "id": 40,
-          "paragraph_id": 26,
           "text": "It was as though his whole being was stretching, reaching for something greater."
         },
         {
-          "id": 41,
-          "paragraph_id": 26,
+          "id": 39,
+          "paragraph_id": 24,
           "text": "The feeling was intoxicating; he could almost hear the whispers of his own magic responding to the infusion of this higher-quality mana."
         },
         {
-          "id": 42,
-          "paragraph_id": 27,
+          "id": 40,
+          "paragraph_id": 25,
           "text": "After a while, the expansion began to stabilize, returning to its previous rate, but not without leaving its mark."
         },
         {
-          "id": 43,
-          "paragraph_id": 27,
+          "id": 41,
+          "paragraph_id": 25,
           "text": "Julian opened his eyes while his heart raced with anticipation."
         },
         {
-          "id": 44,
-          "paragraph_id": 28,
+          "id": 42,
+          "paragraph_id": 26,
           "text": "It was then that he realized the monumental change within him."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 26,
+          "text": "The infusion of mana had solidified into a stable force, and a thrill coursed through him as he understood that he had ascended to the mid-Sacred Mage realm."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 27,
+          "text": "Julian smiled, ready to embrace his newfound strength and the adventures that lay ahead."
         },
         {
           "id": 45,
           "paragraph_id": 28,
-          "text": "The infusion of mana had solidified into a stable force, and a thrill coursed through him as he understood that he had ascended to the mid-Sacred Mage realm."
+          "text": "\"How does it feel host\", System asked."
         },
         {
           "id": 46,
           "paragraph_id": 29,
-          "text": "Julian smiled, ready to embrace his newfound strength and the adventures that lay ahead."
+          "text": "Julian took a moment to savor the newfound energy coursing through him before responding."
         },
         {
           "id": 47,
           "paragraph_id": 30,
-          "text": "\"How does it feel host\", System asked."
+          "text": "\"It feels incredible,\" he said, his voice laced with excitement."
         },
         {
           "id": 48,
-          "paragraph_id": 31,
-          "text": "Julian took a moment to savor the newfound energy coursing through him before responding."
+          "paragraph_id": 30,
+          "text": "\"I can feel the power pulsing within me, more refined and focused than ever before.\""
         },
         {
           "id": 49,
-          "paragraph_id": 32,
-          "text": "\"It feels incredible,\" he said, his voice laced with excitement."
+          "paragraph_id": 31,
+          "text": "He flexed his muscles, testing the limits of his enhanced abilities, and a confident grin spread across his face."
         },
         {
           "id": 50,
           "paragraph_id": 32,
-          "text": "\"I can feel the power pulsing within me, more refined and focused than ever before.\""
-        },
-        {
-          "id": 51,
-          "paragraph_id": 33,
-          "text": "He flexed his muscles, testing the limits of his enhanced abilities, and a confident grin spread across his face."
-        },
-        {
-          "id": 52,
-          "paragraph_id": 34,
           "text": "\"I can’t wait to see what I can do with this strength."
         },
         {
-          "id": 53,
-          "paragraph_id": 34,
+          "id": 51,
+          "paragraph_id": 32,
           "text": "Every spell, every move, it’s all going to be on a whole new level.\""
         },
         {
-          "id": 54,
-          "paragraph_id": 35,
+          "id": 52,
+          "paragraph_id": 33,
           "text": "The system replied, \"That’s great to hear, host!"
         },
         {
-          "id": 55,
-          "paragraph_id": 35,
+          "id": 53,
+          "paragraph_id": 33,
           "text": "With your new power, you can now explore advanced techniques and push your limits further than before."
         },
         {
-          "id": 56,
-          "paragraph_id": 35,
+          "id": 54,
+          "paragraph_id": 33,
           "text": "Are you ready to test your capabilities?\""
         },
         {
-          "id": 57,
-          "paragraph_id": 36,
+          "id": 55,
+          "paragraph_id": 34,
           "text": "Julian nodded, a fire igniting in his eyes."
         },
         {
-          "id": 58,
-          "paragraph_id": 36,
+          "id": 56,
+          "paragraph_id": 34,
           "text": "\"Absolutely."
         },
         {
-          "id": 59,
-          "paragraph_id": 36,
+          "id": 57,
+          "paragraph_id": 34,
           "text": "Let’s see what this cosmic spear can do.\""
         }
       ],
-      "word_count": 813
+      "word_count": 811
     },
     {
       "chapter_index": 55,
@@ -5798,7 +5738,6 @@
         "\"Since you are in the mid Sacred Realm you will need 50,000 points for a breakthrough,\" the system replied calmly.",
         "Julian nodded, calculating his next move as he considered the possibility of advancing his power even further.",
         "\"Commence the breakthrough to the Supreme Realm,\" Julian said.",
-        "================================================================",
         "[Breakthrough Initiation]",
         "Host: Julian Easvil",
         "Current Realm: Mid Sacred Realm",
@@ -5809,7 +5748,6 @@
         "Available Points: 60,975",
         "Proceeding with the breakthrough will consume 50,000 points, leaving you with 10,975 points.",
         "Are you sure you want to continue?",
-        "==============================================================",
         "\"Yes,\" Julian confirmed.",
         "As Julian confirmed his decision, a warm energy enveloped him like a gentle embrace that washed over him in soothing waves. The fatigue that had clung to him vanished in an instant leaving him invigorated and alive.",
         "He felt as if he were part of the universe itself, his very essence merging with the cosmic energies that surrounded him. All his concerns melted away and in their place a profound sense of detachment took hold.",
@@ -5987,180 +5925,170 @@
         {
           "id": 32,
           "paragraph_id": 19,
-          "text": "================================================================"
+          "text": "[Breakthrough Initiation]"
         },
         {
           "id": 33,
           "paragraph_id": 20,
-          "text": "[Breakthrough Initiation]"
+          "text": "Host: Julian Easvil"
         },
         {
           "id": 34,
           "paragraph_id": 21,
-          "text": "Host: Julian Easvil"
+          "text": "Current Realm: Mid Sacred Realm"
         },
         {
           "id": 35,
           "paragraph_id": 22,
-          "text": "Current Realm: Mid Sacred Realm"
+          "text": "Target Realm: Supreme Realm"
         },
         {
           "id": 36,
           "paragraph_id": 23,
-          "text": "Target Realm: Supreme Realm"
+          "text": "Required Points: 50,000"
         },
         {
           "id": 37,
           "paragraph_id": 24,
-          "text": "Required Points: 50,000"
+          "text": "Confirm Breakthrough?"
         },
         {
           "id": 38,
           "paragraph_id": 25,
-          "text": "Confirm Breakthrough?"
+          "text": "[YES][NO]"
         },
         {
           "id": 39,
           "paragraph_id": 26,
-          "text": "[YES][NO]"
+          "text": "Available Points: 60,975"
         },
         {
           "id": 40,
           "paragraph_id": 27,
-          "text": "Available Points: 60,975"
+          "text": "Proceeding with the breakthrough will consume 50,000 points, leaving you with 10,975 points."
         },
         {
           "id": 41,
           "paragraph_id": 28,
-          "text": "Proceeding with the breakthrough will consume 50,000 points, leaving you with 10,975 points."
+          "text": "Are you sure you want to continue?"
         },
         {
           "id": 42,
           "paragraph_id": 29,
-          "text": "Are you sure you want to continue?"
+          "text": "\"Yes,\" Julian confirmed."
         },
         {
           "id": 43,
           "paragraph_id": 30,
-          "text": "=============================================================="
-        },
-        {
-          "id": 44,
-          "paragraph_id": 31,
-          "text": "\"Yes,\" Julian confirmed."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 32,
           "text": "As Julian confirmed his decision, a warm energy enveloped him like a gentle embrace that washed over him in soothing waves."
         },
         {
-          "id": 46,
-          "paragraph_id": 32,
+          "id": 44,
+          "paragraph_id": 30,
           "text": "The fatigue that had clung to him vanished in an instant leaving him invigorated and alive."
         },
         {
-          "id": 47,
-          "paragraph_id": 33,
+          "id": 45,
+          "paragraph_id": 31,
           "text": "He felt as if he were part of the universe itself, his very essence merging with the cosmic energies that surrounded him."
         },
         {
-          "id": 48,
-          "paragraph_id": 33,
+          "id": 46,
+          "paragraph_id": 31,
           "text": "All his concerns melted away and in their place a profound sense of detachment took hold."
         },
         {
-          "id": 49,
-          "paragraph_id": 34,
+          "id": 47,
+          "paragraph_id": 32,
           "text": "It was a feeling of freedom as if he had transcended the struggles of life and risen above them."
         },
         {
-          "id": 50,
-          "paragraph_id": 34,
+          "id": 48,
+          "paragraph_id": 32,
           "text": "With this newfound clarity, Julian turned his attention inward to his sea of consciousness where the supreme realm mana began to wash over it like a refreshing tide."
         },
         {
-          "id": 51,
-          "paragraph_id": 35,
+          "id": 49,
+          "paragraph_id": 33,
           "text": "He could feel the energy coursing through him expanding his mind and spirit at an unprecedented rate."
         },
         {
-          "id": 52,
-          "paragraph_id": 35,
+          "id": 50,
+          "paragraph_id": 33,
           "text": "The chaotic storms that had once roiled within him began to settle not merely calming but transforming entirely into peaceful waters."
         },
         {
-          "id": 53,
-          "paragraph_id": 36,
+          "id": 51,
+          "paragraph_id": 34,
           "text": "He watched in awe as his sea of consciousness solidified and strengthened, landscapes were forming before his eyes."
         },
         {
-          "id": 54,
-          "paragraph_id": 36,
+          "id": 52,
+          "paragraph_id": 34,
           "text": "It was the qualitative sign of breaking through to higher realm."
         },
         {
-          "id": 55,
-          "paragraph_id": 36,
+          "id": 53,
+          "paragraph_id": 34,
           "text": "Before him, he could see the formation of undeveloped land, rich with potential yet untouched."
         },
         {
-          "id": 56,
-          "paragraph_id": 36,
+          "id": 54,
+          "paragraph_id": 34,
           "text": "It was empty, ripe for cultivation and growth where he could nurture his abilities and expand his power. (cultivation as in training not as agriculture)"
         },
         {
-          "id": 57,
-          "paragraph_id": 37,
+          "id": 55,
+          "paragraph_id": 35,
           "text": "As he observed this new world within himself, he felt a deep connection to it as if each expanse of land represented a him and his abilities."
         },
         {
-          "id": 58,
-          "paragraph_id": 37,
+          "id": 56,
+          "paragraph_id": 35,
           "text": "There were lands that was filled with black lightning that showcased his black doom, some were filled with dark clouds that stretched over a mile, some mirrored the chaotic energy of the rampaging domain."
         },
         {
-          "id": 59,
-          "paragraph_id": 38,
+          "id": 57,
+          "paragraph_id": 36,
           "text": "The potential was limitless and he was filled with determination to cultivate this inner territory to shape it into a domain that reflected his strength and ambitions."
         },
         {
-          "id": 60,
-          "paragraph_id": 38,
+          "id": 58,
+          "paragraph_id": 36,
           "text": "Each moment spent in this transcendent state brought him closer to fully realizing the supreme realm and he embraced the challenge ahead with open arms."
         },
         {
-          "id": 61,
-          "paragraph_id": 39,
+          "id": 59,
+          "paragraph_id": 37,
           "text": "The warmth enveloping him intensified and he could feel the mana solidifying and wrapping around him like a cocoon."
+        },
+        {
+          "id": 60,
+          "paragraph_id": 37,
+          "text": "Julian allowed the sensation to wash over him surrendering to the transformation as he took his first steps toward becoming a supreme mage."
+        },
+        {
+          "id": 61,
+          "paragraph_id": 38,
+          "text": "He understood that this journey would require patience, effort, and unwavering resolve but in that moment, he felt invincible ready to carve his name into the annals of history."
         },
         {
           "id": 62,
           "paragraph_id": 39,
-          "text": "Julian allowed the sensation to wash over him surrendering to the transformation as he took his first steps toward becoming a supreme mage."
+          "text": "The existence of the sea of consciousness was shrouded in mystery, it served as the very foundation of magic itself containing the natural laws that governed the universe."
         },
         {
           "id": 63,
           "paragraph_id": 40,
-          "text": "He understood that this journey would require patience, effort, and unwavering resolve but in that moment, he felt invincible ready to carve his name into the annals of history."
-        },
-        {
-          "id": 64,
-          "paragraph_id": 41,
-          "text": "The existence of the sea of consciousness was shrouded in mystery, it served as the very foundation of magic itself containing the natural laws that governed the universe."
-        },
-        {
-          "id": 65,
-          "paragraph_id": 42,
           "text": "This ethereal realm was where thoughts and energies converged and where the essence of one’s magical abilities took shape."
         },
         {
-          "id": 66,
-          "paragraph_id": 42,
+          "id": 64,
+          "paragraph_id": 40,
           "text": "The depths of this sea held untold secrets a deep abyss of potential waiting to be unlocked by those who dared to explore its vastness and complexity."
         }
       ],
-      "word_count": 1052
+      "word_count": 1050
     },
     {
       "chapter_index": 67,
@@ -6756,7 +6684,6 @@
       "paragraphs": [
         "The system’s voice rang out in Julian’s mind which carried a tone of triumph, \"Congratulations to host for cultivating the Authority of Lightning.\"",
         "Julian still feeling the electric energy coursing through his veins, asked with curiosity, \"What is the Authority of Lightning?\" As he posed the question, the system promptly brought up a glowing window in front of him.",
-        "============================================",
         "Authority of Lightning:",
         "Description: The Authority of Lightning grants the host supreme command over the lightning element. Unlike normal elemental control, authority transcends mere manipulation which allows the user to become a true embodiment of lightning itself. Those who wield this authority can command storms, summon lightning strikes at will and infuse their very being with its raw, untamed power.",
         "Abilities:",
@@ -6767,7 +6694,6 @@
         "Lightning Resurrection: In the event of near-death, the host can absorb lightning to rapidly heal and restore vitality.",
         "Current Mastery Level: Initial",
         "Next Stage: True Lightning Monarch: Requires further cultivation and comprehension of cosmic and natural lightning laws.",
-        "============================================",
         "Julian’s eyes widened as he read through the description of the \"Authority of Lightning.\"",
         "The sheer magnitude of power it promised was beyond anything he had imagined. Commanding storms, transforming into lightning itself and even being able to recover from near-death with lightning energy was all overwhelming.",
         "His heart raced as the reality of what he had just achieved set in. The power he now held could reshape the world around him and the thought of wielding such authority filled him with both excitement and a sense of immense responsibility.",
@@ -6800,280 +6726,270 @@
         {
           "id": 2,
           "paragraph_id": 2,
-          "text": "============================================"
+          "text": "Authority of Lightning:"
         },
         {
           "id": 3,
           "paragraph_id": 3,
-          "text": "Authority of Lightning:"
-        },
-        {
-          "id": 4,
-          "paragraph_id": 4,
           "text": "Description: The Authority of Lightning grants the host supreme command over the lightning element."
         },
         {
-          "id": 5,
-          "paragraph_id": 4,
+          "id": 4,
+          "paragraph_id": 3,
           "text": "Unlike normal elemental control, authority transcends mere manipulation which allows the user to become a true embodiment of lightning itself."
+        },
+        {
+          "id": 5,
+          "paragraph_id": 3,
+          "text": "Those who wield this authority can command storms, summon lightning strikes at will and infuse their very being with its raw, untamed power."
         },
         {
           "id": 6,
           "paragraph_id": 4,
-          "text": "Those who wield this authority can command storms, summon lightning strikes at will and infuse their very being with its raw, untamed power."
+          "text": "Abilities:"
         },
         {
           "id": 7,
           "paragraph_id": 5,
-          "text": "Abilities:"
+          "text": "Absolute Lightning Control: Unrivaled mastery over the lightning element."
         },
         {
           "id": 8,
-          "paragraph_id": 6,
-          "text": "Absolute Lightning Control: Unrivaled mastery over the lightning element."
+          "paragraph_id": 5,
+          "text": "The host can manipulate lightning in any form, from the gentlest spark to the most devastating thunderstorm."
         },
         {
           "id": 9,
           "paragraph_id": 6,
-          "text": "The host can manipulate lightning in any form, from the gentlest spark to the most devastating thunderstorm."
+          "text": "Storm’s Wrath: Summon a cataclysmic storm that can lay waste to vast areas, raining down destruction with the force of a natural disaster."
         },
         {
           "id": 10,
           "paragraph_id": 7,
-          "text": "Storm’s Wrath: Summon a cataclysmic storm that can lay waste to vast areas, raining down destruction with the force of a natural disaster."
+          "text": "Lightning Embodiment: Temporarily transform into a being of pure lightning which grants the user unparalleled speed, strength, and invulnerability."
         },
         {
           "id": 11,
           "paragraph_id": 8,
-          "text": "Lightning Embodiment: Temporarily transform into a being of pure lightning which grants the user unparalleled speed, strength, and invulnerability."
+          "text": "Cosmic Lightning Fusion: Merge cosmic energy with lightning to amplify attacks creating devastating effects that surpass normal elemental power."
         },
         {
           "id": 12,
           "paragraph_id": 9,
-          "text": "Cosmic Lightning Fusion: Merge cosmic energy with lightning to amplify attacks creating devastating effects that surpass normal elemental power."
+          "text": "Lightning Resurrection: In the event of near-death, the host can absorb lightning to rapidly heal and restore vitality."
         },
         {
           "id": 13,
           "paragraph_id": 10,
-          "text": "Lightning Resurrection: In the event of near-death, the host can absorb lightning to rapidly heal and restore vitality."
+          "text": "Current Mastery Level: Initial"
         },
         {
           "id": 14,
           "paragraph_id": 11,
-          "text": "Current Mastery Level: Initial"
+          "text": "Next Stage: True Lightning Monarch: Requires further cultivation and comprehension of cosmic and natural lightning laws."
         },
         {
           "id": 15,
           "paragraph_id": 12,
-          "text": "Next Stage: True Lightning Monarch: Requires further cultivation and comprehension of cosmic and natural lightning laws."
+          "text": "Julian’s eyes widened as he read through the description of the \"Authority of Lightning.\""
         },
         {
           "id": 16,
           "paragraph_id": 13,
-          "text": "============================================"
-        },
-        {
-          "id": 17,
-          "paragraph_id": 14,
-          "text": "Julian’s eyes widened as he read through the description of the \"Authority of Lightning.\""
-        },
-        {
-          "id": 18,
-          "paragraph_id": 15,
           "text": "The sheer magnitude of power it promised was beyond anything he had imagined."
         },
         {
-          "id": 19,
-          "paragraph_id": 15,
+          "id": 17,
+          "paragraph_id": 13,
           "text": "Commanding storms, transforming into lightning itself and even being able to recover from near-death with lightning energy was all overwhelming."
         },
         {
-          "id": 20,
-          "paragraph_id": 16,
+          "id": 18,
+          "paragraph_id": 14,
           "text": "His heart raced as the reality of what he had just achieved set in."
         },
         {
-          "id": 21,
-          "paragraph_id": 16,
+          "id": 19,
+          "paragraph_id": 14,
           "text": "The power he now held could reshape the world around him and the thought of wielding such authority filled him with both excitement and a sense of immense responsibility."
         },
         {
-          "id": 22,
-          "paragraph_id": 17,
+          "id": 20,
+          "paragraph_id": 15,
           "text": "Julian intrigued asked, \"So, how is authority different from mastery?"
         },
         {
-          "id": 23,
-          "paragraph_id": 17,
+          "id": 21,
+          "paragraph_id": 15,
           "text": "Do all mages who reach the supreme realm gain authority?\""
         },
         {
-          "id": 24,
-          "paragraph_id": 18,
+          "id": 22,
+          "paragraph_id": 16,
           "text": "The system responded, \"Mastery refers to an acknowledgment from the element which allows the user to manipulate and understand it deeply."
         },
         {
-          "id": 25,
-          "paragraph_id": 18,
+          "id": 23,
+          "paragraph_id": 16,
           "text": "However authority goes beyond that, it signifies control over the element itself."
         },
         {
-          "id": 26,
-          "paragraph_id": 18,
+          "id": 24,
+          "paragraph_id": 16,
           "text": "Only one being can hold authority over any given element at a time which means that you are now the sole wielder of the Authority of Lightning."
         },
         {
-          "id": 27,
-          "paragraph_id": 18,
+          "id": 25,
+          "paragraph_id": 16,
           "text": "This power allows you not just to use lightning but to command and shape it as you see fit.\""
         },
         {
-          "id": 28,
-          "paragraph_id": 19,
+          "id": 26,
+          "paragraph_id": 17,
           "text": "The system continued, \"As you ascend to higher realms your command over the Authority of Lightning will deepen allowing you to access more of its power."
         },
         {
-          "id": 29,
-          "paragraph_id": 19,
+          "id": 27,
+          "paragraph_id": 17,
           "text": "Right now you’re only using 20% of its full potential."
         },
         {
-          "id": 30,
-          "paragraph_id": 19,
+          "id": 28,
+          "paragraph_id": 17,
           "text": "As you grow stronger, you’ll unlock the remaining 80%, giving you even greater control over the lightning element and its forces.\""
         },
         {
-          "id": 31,
-          "paragraph_id": 20,
+          "id": 29,
+          "paragraph_id": 18,
           "text": "Julian was stunned as the realization hit him."
+        },
+        {
+          "id": 30,
+          "paragraph_id": 18,
+          "text": "The sheer strength he wielded during his breakthrough, the lightning strikes, the immense energy, and the transformation of his body, was only a fraction of the Authority’s full potential."
+        },
+        {
+          "id": 31,
+          "paragraph_id": 19,
+          "text": "\"If this is just 20%\" he thought, \"what kind of power will I hold when I reach 100%?\" The possibilities excited and overwhelmed him as the idea of mastering such overwhelming strength made him eager to explore the boundaries of his new abilities."
         },
         {
           "id": 32,
           "paragraph_id": 20,
-          "text": "The sheer strength he wielded during his breakthrough, the lightning strikes, the immense energy, and the transformation of his body, was only a fraction of the Authority’s full potential."
-        },
-        {
-          "id": 33,
-          "paragraph_id": 21,
-          "text": "\"If this is just 20%\" he thought, \"what kind of power will I hold when I reach 100%?\" The possibilities excited and overwhelmed him as the idea of mastering such overwhelming strength made him eager to explore the boundaries of his new abilities."
-        },
-        {
-          "id": 34,
-          "paragraph_id": 22,
           "text": "Confusion clouded Julian’s mind once again as he pondered how he had gained such a rare power."
         },
         {
-          "id": 35,
-          "paragraph_id": 22,
+          "id": 33,
+          "paragraph_id": 20,
           "text": "\"How did I even get this authority?"
         },
         {
-          "id": 36,
-          "paragraph_id": 22,
+          "id": 34,
+          "paragraph_id": 20,
           "text": "Why did no one else receive it before me?\" he asked hoping the system would have answers to his burning questions."
         },
         {
-          "id": 37,
-          "paragraph_id": 23,
+          "id": 35,
+          "paragraph_id": 21,
           "text": "The system’s voice echoed in his mind which provided clarity."
         },
         {
-          "id": 38,
-          "paragraph_id": 23,
+          "id": 36,
+          "paragraph_id": 21,
           "text": "It explained that the previous wielder of the Authority of Lightning was the God of Thunder and Lightning himself."
         },
         {
-          "id": 39,
-          "paragraph_id": 23,
+          "id": 37,
+          "paragraph_id": 21,
           "text": "This god who was once feared and revered for his unrivaled power met a tragic end."
         },
         {
-          "id": 40,
-          "paragraph_id": 23,
+          "id": 38,
+          "paragraph_id": 21,
           "text": "He was mercilessly killed by his enemies in a brutal battle but before his demise, he left his will inside the very element he once commanded."
         },
         {
-          "id": 41,
-          "paragraph_id": 24,
+          "id": 39,
+          "paragraph_id": 22,
           "text": "Julian listened intently as the system continued."
         },
         {
-          "id": 42,
-          "paragraph_id": 24,
+          "id": 40,
+          "paragraph_id": 22,
           "text": "During the week long ordeal when lightning continuously struck him tearing his body apart and healing it repeatedly, the will of the God of Thunder had begun to nurture his sea of consciousness."
         },
         {
-          "id": 43,
-          "paragraph_id": 25,
+          "id": 41,
+          "paragraph_id": 23,
           "text": "The constant tempering, the unrelenting trial and Julian’s refusal to give up had caught the attention of the element itself."
         },
         {
-          "id": 44,
-          "paragraph_id": 25,
+          "id": 42,
+          "paragraph_id": 23,
           "text": "The lightning had acknowledged his resilience, strength and determination."
+        },
+        {
+          "id": 43,
+          "paragraph_id": 23,
+          "text": "It was through this grueling process that the will of the god bestowed upon Julian the Authority of Lightning."
+        },
+        {
+          "id": 44,
+          "paragraph_id": 24,
+          "text": "This explained why no one else had attained the authority cause none had undergone such a trial or been recognized by the element as worthy of wielding the god’s power."
         },
         {
           "id": 45,
           "paragraph_id": 25,
-          "text": "It was through this grueling process that the will of the god bestowed upon Julian the Authority of Lightning."
-        },
-        {
-          "id": 46,
-          "paragraph_id": 26,
-          "text": "This explained why no one else had attained the authority cause none had undergone such a trial or been recognized by the element as worthy of wielding the god’s power."
-        },
-        {
-          "id": 47,
-          "paragraph_id": 27,
           "text": "The system’s voice continued revealing another astonishing truth, \"The form you are currently in is known as the Authority Form."
         },
         {
-          "id": 48,
-          "paragraph_id": 27,
+          "id": 46,
+          "paragraph_id": 25,
           "text": "The armor you’re wearing isn’t just any ordinary armor, it was crafted by the God of Thunder himself using the pure essence of lightning."
         },
         {
-          "id": 49,
-          "paragraph_id": 27,
+          "id": 47,
+          "paragraph_id": 25,
           "text": "This armor represents the very foundation of the lightning element that was forged with its primal energy and imbued with the god’s unmatched craftsmanship.\""
         },
         {
-          "id": 50,
-          "paragraph_id": 28,
+          "id": 48,
+          "paragraph_id": 26,
           "text": "Julian looked down at himself as he took in the radiant armor crackling with energy, its intricate design pulsing with the raw power of lightning."
         },
         {
-          "id": 51,
-          "paragraph_id": 28,
+          "id": 49,
+          "paragraph_id": 26,
           "text": "The realization that he now wore the armor of a god, a relic infused with elemental authority left him speechless."
+        },
+        {
+          "id": 50,
+          "paragraph_id": 26,
+          "text": "It wasn’t just a symbol of his newfound power, it was a vessel through which the very element of lightning flowed and it had now chosen him as its bearer."
+        },
+        {
+          "id": 51,
+          "paragraph_id": 27,
+          "text": "Julian as he still tried to grasp the full extent of his new power asked, \"Shouldn’t there be other mages with authority over the other elements?\""
         },
         {
           "id": 52,
           "paragraph_id": 28,
-          "text": "It wasn’t just a symbol of his newfound power, it was a vessel through which the very element of lightning flowed and it had now chosen him as its bearer."
-        },
-        {
-          "id": 53,
-          "paragraph_id": 29,
-          "text": "Julian as he still tried to grasp the full extent of his new power asked, \"Shouldn’t there be other mages with authority over the other elements?\""
-        },
-        {
-          "id": 54,
-          "paragraph_id": 30,
           "text": "The system responded, \"The wielders of authority over the other elements are none other than the gods themselves."
         },
         {
-          "id": 55,
-          "paragraph_id": 30,
+          "id": 53,
+          "paragraph_id": 28,
           "text": "Unlike the God of Thunder, they are still very much alive holding dominion over their respective elements."
         },
         {
-          "id": 56,
-          "paragraph_id": 30,
+          "id": 54,
+          "paragraph_id": 28,
           "text": "Their authority is absolute and no mortal has been able to inherit it until now.\""
         }
       ],
-      "word_count": 1026
+      "word_count": 1024
     },
     {
       "chapter_index": 70,
@@ -7087,7 +7003,6 @@
         "\"When you achieve complete mastery and control over the authority of lightning, you will elevate yourself to the status of the gods themselves. You will not only wield immense power but also gain the ability to influence the very fabric of reality associated with your element. This is a path that few have ever tread and the potential it holds is beyond comprehension.\"",
         "The gravity of this statement settled over Julian which amplified the urgency within him to train, grow and ultimately fulfill this incredible destiny that lay ahead.",
         "\"Show me my status\", Julian commanded.",
-        "================================================================",
         "Status: Julian Easvil",
         "Realm: Supreme Mage",
         "Authority: Authority of Lightning (20% Control)",
@@ -7117,7 +7032,6 @@
         "Lightning Resurrection: In the event of near-death, the host can absorb lightning to rapidly heal and restore vitality.",
         "Current Mastery Level: Initial",
         "Next Stage: True Lightning Monarch: Requires further cultivation and comprehension of cosmic and natural lightning laws.",
-        "================================================================",
         "Julian felt a rush of excitement and happiness as he looked at his status window, seeing his growth and power skyrocketing. His abilities were evolving, his strength unmatched and the path ahead seemed limitless."
       ],
       "sentences": [
@@ -7184,185 +7098,175 @@
         {
           "id": 12,
           "paragraph_id": 7,
-          "text": "================================================================"
+          "text": "Status: Julian Easvil"
         },
         {
           "id": 13,
           "paragraph_id": 8,
-          "text": "Status: Julian Easvil"
+          "text": "Realm: Supreme Mage"
         },
         {
           "id": 14,
           "paragraph_id": 9,
-          "text": "Realm: Supreme Mage"
+          "text": "Authority: Authority of Lightning (20% Control)"
         },
         {
           "id": 15,
           "paragraph_id": 10,
-          "text": "Authority: Authority of Lightning (20% Control)"
+          "text": "* Skills:"
         },
         {
           "id": 16,
           "paragraph_id": 11,
-          "text": "* Skills:"
+          "text": "Lightning Bolt: A swift strike of lightning that deals damage to a single target."
         },
         {
           "id": 17,
           "paragraph_id": 12,
-          "text": "Lightning Bolt: A swift strike of lightning that deals damage to a single target."
+          "text": "Heavenly Thunder: Calls down a powerful thunderstorm, dealing area damage."
         },
         {
           "id": 18,
           "paragraph_id": 13,
-          "text": "Heavenly Thunder: Calls down a powerful thunderstorm, dealing area damage."
+          "text": "Black Doom: Summons black lightning that strikes the target, capable of devastating damage."
         },
         {
           "id": 19,
           "paragraph_id": 14,
-          "text": "Black Doom: Summons black lightning that strikes the target, capable of devastating damage."
+          "text": "Electric Shield: Charges the body with a shield of electricity, providing protection while dealing damage to any who come too close."
         },
         {
           "id": 20,
           "paragraph_id": 15,
-          "text": "Electric Shield: Charges the body with a shield of electricity, providing protection while dealing damage to any who come too close."
+          "text": "* Abilities:"
         },
         {
           "id": 21,
           "paragraph_id": 16,
-          "text": "* Abilities:"
+          "text": "Rampaging Domain: Envelops an area in chaotic, violent lightning energy, disrupting and weakening opponents."
         },
         {
           "id": 22,
           "paragraph_id": 17,
-          "text": "Rampaging Domain: Envelops an area in chaotic, violent lightning energy, disrupting and weakening opponents."
+          "text": "Dimension Isolation: Creates dimensional barriers that isolate the caster and target from outside interference."
         },
         {
           "id": 23,
           "paragraph_id": 18,
-          "text": "Dimension Isolation: Creates dimensional barriers that isolate the caster and target from outside interference."
+          "text": "* Weapons:"
         },
         {
           "id": 24,
           "paragraph_id": 19,
-          "text": "* Weapons:"
+          "text": "Cosmic Spear of Death: A spear imbued with cosmic and lightning energy, capable of devastating attacks with immense power."
         },
         {
           "id": 25,
           "paragraph_id": 20,
-          "text": "Cosmic Spear of Death: A spear imbued with cosmic and lightning energy, capable of devastating attacks with immense power."
+          "text": "* Woman conquered:"
         },
         {
           "id": 26,
           "paragraph_id": 21,
-          "text": "* Woman conquered:"
+          "text": "Emma, Headmistress, Julia, Isabel"
         },
         {
           "id": 27,
           "paragraph_id": 22,
-          "text": "Emma, Headmistress, Julia, Isabel"
+          "text": "*Potential woman:"
         },
         {
           "id": 28,
           "paragraph_id": 23,
-          "text": "*Potential woman:"
+          "text": "Eva, Eleanor, Gregoria, Regina, Duchess of Hans, Duchess of Norish, Duchess of Ethwer, Queen of Ares,"
         },
         {
           "id": 29,
           "paragraph_id": 24,
-          "text": "Eva, Eleanor, Gregoria, Regina, Duchess of Hans, Duchess of Norish, Duchess of Ethwer, Queen of Ares,"
+          "text": "Various nobles(countess, viscountess etc)"
         },
         {
           "id": 30,
           "paragraph_id": 25,
-          "text": "Various nobles(countess, viscountess etc)"
+          "text": "Other members of Royal family(aunts, cousins, concubines, etc)"
         },
         {
           "id": 31,
           "paragraph_id": 26,
-          "text": "Other members of Royal family(aunts, cousins, concubines, etc)"
+          "text": "* Authority of Lightning:"
         },
         {
           "id": 32,
           "paragraph_id": 27,
-          "text": "* Authority of Lightning:"
-        },
-        {
-          "id": 33,
-          "paragraph_id": 28,
           "text": "Description: The Authority of Lightning grants the host supreme command over the lightning element."
         },
         {
-          "id": 34,
-          "paragraph_id": 28,
+          "id": 33,
+          "paragraph_id": 27,
           "text": "Unlike normal elemental control, authority transcends mere manipulation which allows the user to become a true embodiment of lightning itself."
+        },
+        {
+          "id": 34,
+          "paragraph_id": 27,
+          "text": "Those who wield this authority can command storms, summon lightning strikes at will and infuse their very being with its raw, untamed power."
         },
         {
           "id": 35,
           "paragraph_id": 28,
-          "text": "Those who wield this authority can command storms, summon lightning strikes at will and infuse their very being with its raw, untamed power."
+          "text": "Abilities:"
         },
         {
           "id": 36,
           "paragraph_id": 29,
-          "text": "Abilities:"
+          "text": "Absolute Lightning Control: Unrivaled mastery over the lightning element."
         },
         {
           "id": 37,
-          "paragraph_id": 30,
-          "text": "Absolute Lightning Control: Unrivaled mastery over the lightning element."
+          "paragraph_id": 29,
+          "text": "The host can manipulate lightning in any form, from the gentlest spark to the most devastating thunderstorm."
         },
         {
           "id": 38,
           "paragraph_id": 30,
-          "text": "The host can manipulate lightning in any form, from the gentlest spark to the most devastating thunderstorm."
+          "text": "Storm’s Wrath: Summon a cataclysmic storm that can lay waste to vast areas, raining down destruction with the force of a natural disaster."
         },
         {
           "id": 39,
           "paragraph_id": 31,
-          "text": "Storm’s Wrath: Summon a cataclysmic storm that can lay waste to vast areas, raining down destruction with the force of a natural disaster."
+          "text": "Lightning Embodiment: Temporarily transform into a being of pure lightning which grants the user unparalleled speed, strength, and invulnerability."
         },
         {
           "id": 40,
           "paragraph_id": 32,
-          "text": "Lightning Embodiment: Temporarily transform into a being of pure lightning which grants the user unparalleled speed, strength, and invulnerability."
+          "text": "Cosmic Lightning Fusion: Merge cosmic energy with lightning to amplify attacks creating devastating effects that surpass normal elemental power."
         },
         {
           "id": 41,
           "paragraph_id": 33,
-          "text": "Cosmic Lightning Fusion: Merge cosmic energy with lightning to amplify attacks creating devastating effects that surpass normal elemental power."
+          "text": "Lightning Resurrection: In the event of near-death, the host can absorb lightning to rapidly heal and restore vitality."
         },
         {
           "id": 42,
           "paragraph_id": 34,
-          "text": "Lightning Resurrection: In the event of near-death, the host can absorb lightning to rapidly heal and restore vitality."
+          "text": "Current Mastery Level: Initial"
         },
         {
           "id": 43,
           "paragraph_id": 35,
-          "text": "Current Mastery Level: Initial"
+          "text": "Next Stage: True Lightning Monarch: Requires further cultivation and comprehension of cosmic and natural lightning laws."
         },
         {
           "id": 44,
           "paragraph_id": 36,
-          "text": "Next Stage: True Lightning Monarch: Requires further cultivation and comprehension of cosmic and natural lightning laws."
-        },
-        {
-          "id": 45,
-          "paragraph_id": 37,
-          "text": "================================================================"
-        },
-        {
-          "id": 46,
-          "paragraph_id": 38,
           "text": "Julian felt a rush of excitement and happiness as he looked at his status window, seeing his growth and power skyrocketing."
         },
         {
-          "id": 47,
-          "paragraph_id": 38,
+          "id": 45,
+          "paragraph_id": 36,
           "text": "His abilities were evolving, his strength unmatched and the path ahead seemed limitless."
         }
       ],
-      "word_count": 631
+      "word_count": 629
     },
     {
       "chapter_index": 71,
@@ -16664,7 +16568,7 @@
         "He paused, his gaze drifting up toward the moon. \"One night, your grandfather found himself in a dire situation during a mission. He was nearly killed... until Gregoria, your grandmother, came to his aid. She saved his life. That moment changed everything.\"",
         "A faint smile crossed Alden’s face. \"From that night onward, they became acquainted. Slowly, your grandfather began to see Gregoria as more than just an ally. In time, he fell deeply in love with her, and she with him. And that... was the beginning of a bond that would only grow stronger.\"",
         "Julian listened, a new understanding dawning on him. \"So the Queen has harbored that resentment ever since?\" he asked quietly.",
-        "Alden nodded. \"Yes. She’s never forgiven him ,or us, by extension. For her, it was a wound that never healed.\"",
+        "Alden nodded. \"Yes. She’s never forgiven him , or us, by extension. For her, it was a wound that never healed.\"",
         "Julian’s brows furrowed. \"But what about Mother? Why does she hate her own daughter?\"",
         "Alden sighed, his expression softening. \"Your mother and I fell in love, and we wished to marry. The Queen was firmly against it, wanting someone else for her daughter. But... the King overruled her. He agreed to our marriage, and despite her protests, it went forward.\""
       ],
@@ -17077,7 +16981,7 @@
         {
           "id": 81,
           "paragraph_id": 36,
-          "text": "She’s never forgiven him ,or us, by extension."
+          "text": "She’s never forgiven him , or us, by extension."
         },
         {
           "id": 82,
@@ -17125,7 +17029,7 @@
           "text": "He agreed to our marriage, and despite her protests, it went forward.\""
         }
       ],
-      "word_count": 1059
+      "word_count": 1060
     },
     {
       "chapter_index": 96,
@@ -17162,14 +17066,12 @@
         "Curious about his progress, Julian asked, \"How many points did I get from Eleanor?\"",
         "The system replied, \"Host, you received 4,000 base points. With the 10x first-time bonus, the 2x higher realm bonus, and the 100x blood-related bonus, your total points are as follows.\"",
         "Suddenly, a window popped up in front of Julian, displaying the following:",
-        "============================================",
         "TOTAL POINT CALCULATION",
         "Base Points : 4000",
         "First-Time Bonus (10x) : 40000",
         "Higher Realm Bonus (2x) : 8,000",
         "Blood-Related Bonus (100x): 400000",
         "Total Points: 452000",
-        "============================================",
         "Julian’s eyes widened as he took in the total. The points accumulated were impressive, and he felt a surge of excitement at the possibilities ahead.",
         "Julian got up, feeling a surge of energy from his conversation with the system and his recent point gains. Deciding to stretch his legs and get a look at the camp, he headed out to stroll through the training grounds where the Easvil army was stationed.",
         "The camp was already alive with activity despite the early hour. Soldiers were honing their skills, sparring in pairs, or practicing formations under the watchful eyes of their commanders. The sounds of clashing metal and focused shouts filled the air, creating a rhythm that energized Julian as he walked among them.",
@@ -17560,95 +17462,85 @@
         {
           "id": 76,
           "paragraph_id": 30,
-          "text": "============================================"
+          "text": "TOTAL POINT CALCULATION"
         },
         {
           "id": 77,
           "paragraph_id": 31,
-          "text": "TOTAL POINT CALCULATION"
+          "text": "Base Points : 4000"
         },
         {
           "id": 78,
           "paragraph_id": 32,
-          "text": "Base Points : 4000"
+          "text": "First-Time Bonus (10x) : 40000"
         },
         {
           "id": 79,
           "paragraph_id": 33,
-          "text": "First-Time Bonus (10x) : 40000"
+          "text": "Higher Realm Bonus (2x) : 8,000"
         },
         {
           "id": 80,
           "paragraph_id": 34,
-          "text": "Higher Realm Bonus (2x) : 8,000"
+          "text": "Blood-Related Bonus (100x): 400000"
         },
         {
           "id": 81,
           "paragraph_id": 35,
-          "text": "Blood-Related Bonus (100x): 400000"
+          "text": "Total Points: 452000"
         },
         {
           "id": 82,
           "paragraph_id": 36,
-          "text": "Total Points: 452000"
-        },
-        {
-          "id": 83,
-          "paragraph_id": 37,
-          "text": "============================================"
-        },
-        {
-          "id": 84,
-          "paragraph_id": 38,
           "text": "Julian’s eyes widened as he took in the total."
         },
         {
-          "id": 85,
-          "paragraph_id": 38,
+          "id": 83,
+          "paragraph_id": 36,
           "text": "The points accumulated were impressive, and he felt a surge of excitement at the possibilities ahead."
         },
         {
-          "id": 86,
-          "paragraph_id": 39,
+          "id": 84,
+          "paragraph_id": 37,
           "text": "Julian got up, feeling a surge of energy from his conversation with the system and his recent point gains."
         },
         {
-          "id": 87,
-          "paragraph_id": 39,
+          "id": 85,
+          "paragraph_id": 37,
           "text": "Deciding to stretch his legs and get a look at the camp, he headed out to stroll through the training grounds where the Easvil army was stationed."
         },
         {
-          "id": 88,
-          "paragraph_id": 40,
+          "id": 86,
+          "paragraph_id": 38,
           "text": "The camp was already alive with activity despite the early hour."
         },
         {
-          "id": 89,
-          "paragraph_id": 40,
+          "id": 87,
+          "paragraph_id": 38,
           "text": "Soldiers were honing their skills, sparring in pairs, or practicing formations under the watchful eyes of their commanders."
+        },
+        {
+          "id": 88,
+          "paragraph_id": 38,
+          "text": "The sounds of clashing metal and focused shouts filled the air, creating a rhythm that energized Julian as he walked among them."
+        },
+        {
+          "id": 89,
+          "paragraph_id": 39,
+          "text": "Many soldiers recognized him, giving respectful nods, and some even paused momentarily, clearly honored by the young duke’s presence."
         },
         {
           "id": 90,
           "paragraph_id": 40,
-          "text": "The sounds of clashing metal and focused shouts filled the air, creating a rhythm that energized Julian as he walked among them."
-        },
-        {
-          "id": 91,
-          "paragraph_id": 41,
-          "text": "Many soldiers recognized him, giving respectful nods, and some even paused momentarily, clearly honored by the young duke’s presence."
-        },
-        {
-          "id": 92,
-          "paragraph_id": 42,
           "text": "Julian nodded back, observing their dedication with pride."
         },
         {
-          "id": 93,
-          "paragraph_id": 42,
+          "id": 91,
+          "paragraph_id": 40,
           "text": "He felt a renewed sense of purpose, knowing that this army would soon march with him into battle."
         }
       ],
-      "word_count": 1089
+      "word_count": 1087
     },
     {
       "chapter_index": 97,

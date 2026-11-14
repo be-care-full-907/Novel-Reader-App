@@ -16,8 +16,8 @@
         "|The levels of power of all Existences under the scope of the stretches of Omniverses have been quantified into an ever evolving scale.|",
         "|Existential Authority is broken into the quantification under the umbrella of a System of Existence.|",
         "|The quantification of the Weaver of Extremity is as follows.|",
-        "[Atlas of Existence Echelon 1 (8,385/10,000)]---[Laborer]",
-        "[Conceptual System of Existence Echelon 3 (650,234/1,000,000)]---[Dominium Organs]---[Omniversal Control]",
+        "[Atlas of Existence Echelon 1 (8,385/10,000)][Laborer]",
+        "[Conceptual System of Existence Echelon 3 (650,234/1,000,000)][Dominium Organs][Omniversal Control]",
         "[Outerversal Descent System of Existence Echelon 1 (43/5,000)]",
         "His Atlas of Existence remained the firmest foundation, its values somewhat unique compared to others as the many systems of Existence he had incorporated fell under it.",
         "It had its own Echelon.",
@@ -52,7 +52,7 @@
         "|The Existential Extremity Authority of Dimensions has attained the distinction of Ascendancy. |",
         "|The Ascendant Existential Extremity Authority of Relativity has stepped onto the Third Phase of Ascendancy!|",
         "|The Ascendant Existential Extremity Authority of Entropy has stepped onto the Third Phase of Ascendancy!|",
-        "|The Ascendant Existential Extremity Authorities of Manadynamics, The Protagonist, Tyranny, and....have stepped onto the Third Phase of Ascendancy!|",
+        "|The Ascendant Existential Extremity Authorities of Manadynamics, The Protagonist, Tyranny, and...have stepped onto the Third Phase of Ascendancy!|",
         "Multiple weavings of Authorities under him advanced as he fully accepted the Outerversal Authority from his other self.",
         "\"The Megalos Beyond...the vast Omniverses...the Wheel of Existence...\"",
         "His voice echoed out grandly as he opened his eyes.",
@@ -113,12 +113,12 @@
         {
           "id": 6,
           "paragraph_id": 6,
-          "text": "[Atlas of Existence Echelon 1 (8,385/10,000)]---[Laborer]"
+          "text": "[Atlas of Existence Echelon 1 (8,385/10,000)][Laborer]"
         },
         {
           "id": 7,
           "paragraph_id": 7,
-          "text": "[Conceptual System of Existence Echelon 3 (650,234/1,000,000)]---[Dominium Organs]---[Omniversal Control]"
+          "text": "[Conceptual System of Existence Echelon 3 (650,234/1,000,000)][Dominium Organs][Omniversal Control]"
         },
         {
           "id": 8,
@@ -298,7 +298,7 @@
         {
           "id": 43,
           "paragraph_id": 42,
-          "text": "|The Ascendant Existential Extremity Authorities of Manadynamics, The Protagonist, Tyranny, and....have stepped onto the Third Phase of Ascendancy!|"
+          "text": "|The Ascendant Existential Extremity Authorities of Manadynamics, The Protagonist, Tyranny, and...have stepped onto the Third Phase of Ascendancy!|"
         },
         {
           "id": 44,
@@ -458,7 +458,7 @@
         "Beside him, the voice of one of the two Autarchical Existences rang out.",
         "Turning to gaze at them, Noah's piercing eyes finally made a breakthrough in analysis after this whole time as...",
         "[Protector Rigalis]",
-        "[Unknown System of Existence Echelon 3 (755,835/1,000,000)]---[@&%^#]---[@&#^#]",
+        "[Unknown System of Existence Echelon 3 (755,835/1,000,000)][@&%^#][@&#^#]",
         "The Apogee Autarch that had spoken beside him had such an array of quantifications rise up above him only for Noah to see, the other Protector beside him showing similar values as Noah became more adept at analyzing and grasping the weavings of those around him.",
         "If they weren't too far advanced that is!",
         "The two Protectors beside him introduced the massive tower ahead of them as they walked on a white path constructed from crystals pulsing with existence, the serene reality of undulating verdant landscapes all around them passing by.",
@@ -546,7 +546,7 @@
         {
           "id": 10,
           "paragraph_id": 10,
-          "text": "[Unknown System of Existence Echelon 3 (755,835/1,000,000)]---[@&%^#]---[@&#^#]"
+          "text": "[Unknown System of Existence Echelon 3 (755,835/1,000,000)][@&%^#][@&#^#]"
         },
         {
           "id": 11,
@@ -758,7 +758,7 @@
       "paragraphs": [
         "Her voice radiated undeniable waves of power as just from looking at her from a distance, her weavings barely made themselves clear!",
         "[Protector @&$^%]",
-        "[Unknown System of Existence Echelon 5 (1,355,675/100,000,000)]---[@&%^#]---[@&#^#]---[@&#^$]---[@#$%]",
+        "[Unknown System of Existence Echelon 5 (1,355,675/100,000,000)][@&%^#][@&#^#][@&#^$][@#$%]",
         "...!",
         "Someone multiple Echelons of power higher than most others.",
         "Outside the scope of the Existential Dominium Realm, she resided in the Omniversal Realm!",
@@ -828,7 +828,7 @@
         {
           "id": 2,
           "paragraph_id": 2,
-          "text": "[Unknown System of Existence Echelon 5 (1,355,675/100,000,000)]---[@&%^#]---[@&#^#]---[@&#^$]---[@#$%]"
+          "text": "[Unknown System of Existence Echelon 5 (1,355,675/100,000,000)][@&%^#][@&#^#][@&#^$][@#$%]"
         },
         {
           "id": 3,
@@ -1199,7 +1199,7 @@
         "In between their thrones, the two singularities of Matter and Anti-Matter exploded into incandescent brilliance of light.",
         "At this moment, even the visage of Protector Lucretia who was dangling her legs seeking to portray her boredom couldn't help but focus with interest.",
         "And Command Protector Valeria continued without batting an eye as above them, countless white and black singularities bloomed.",
-        "\"Earliest theories state that there is no matter without anti-matter. That for countless eons, particles of Matter and Anti-Matter constantly clashed and annihilated each other. There was only the mixture of Matter and Anti-Matter destroying each other and birthing an endless existence of only photons. Only light. But then....something happened. Out of trillions of computations and clashes of Matter and Anti-Matter, a particle of Matter...did not find a counterpart Anti-Matter. It did not turn into pure energy.\"",
+        "\"Earliest theories state that there is no matter without anti-matter. That for countless eons, particles of Matter and Anti-Matter constantly clashed and annihilated each other. There was only the mixture of Matter and Anti-Matter destroying each other and birthing an endless existence of only photons. Only light. But then...something happened. Out of trillions of computations and clashes of Matter and Anti-Matter, a particle of Matter...did not find a counterpart Anti-Matter. It did not turn into pure energy.\"",
         "HUUM!",
         "Countless white and black singularities clashed and disappeared into light.",
         "And yet...one white particle remained floating- no counterpart to smash into it!",
@@ -1383,7 +1383,7 @@
         {
           "id": 27,
           "paragraph_id": 16,
-          "text": "But then....something happened."
+          "text": "But then...something happened."
         },
         {
           "id": 28,
@@ -1720,7 +1720,7 @@
         "An Omniversal Entity in the lead, and..",
         "When he looked at Protector Lucretia...",
         "[Protector Lucretia]",
-        "[Unknown System of Existence Echelon 4 (5,766,685/10,000,000)]---[@&%^#]---[@&#^#]---[@&#^$]---[@#$%]",
+        "[Unknown System of Existence Echelon 4 (5,766,685/10,000,000)][@&%^#][@&#^#][@&#^$][@#$%]",
         "[Outerversal Descent System of Existence Echelon 5 (38,558,822/50,000,000)]",
         "...!",
         "Yes.",
@@ -1905,7 +1905,7 @@
         {
           "id": 30,
           "paragraph_id": 22,
-          "text": "[Unknown System of Existence Echelon 4 (5,766,685/10,000,000)]---[@&%^#]---[@&#^#]---[@&#^$]---[@#$%]"
+          "text": "[Unknown System of Existence Echelon 4 (5,766,685/10,000,000)][@&%^#][@&#^#][@&#^$][@#$%]"
         },
         {
           "id": 31,
@@ -2831,7 +2831,7 @@
         "...!",
         "Absolute Efficiency.",
         "100% Efficiency!",
-        "Something he could only change by decimal points before, and yet now....he was capable of rushing towards its absolute extreme as his existence reached a whole new level.",
+        "Something he could only change by decimal points before, and yet now...he was capable of rushing towards its absolute extreme as his existence reached a whole new level.",
         "But it wasn't just this.",
         "|The weavings of the flow of the Spacetime Continuum can be further augmented and modified within the Infinite Omniverse.|",
         "|Your distinction as the Weaver of Existence and Extremity begin to exceed established parameters.|",
@@ -2997,7 +2997,7 @@
         {
           "id": 24,
           "paragraph_id": 23,
-          "text": "Something he could only change by decimal points before, and yet now....he was capable of rushing towards its absolute extreme as his existence reached a whole new level."
+          "text": "Something he could only change by decimal points before, and yet now...he was capable of rushing towards its absolute extreme as his existence reached a whole new level."
         },
         {
           "id": 25,
@@ -4615,7 +4615,7 @@
         "\"No Great Outerversal Morphon has fallen over the last cycles. If you protect the Instrument ...you will start fulfilling another Sign yourself.\"",
         "...!",
         "Another sign the Great Beyonder stated.",
-        "|Great Ones will fall like the drops of Rain....so what? Who knows which among us will live in the future to come? The ones following the Will of the Great Beyonder, or Heretics?|",
+        "|Great Ones will fall like the drops of Rain...so what? Who knows which among us will live in the future to come? The ones following the Will of the Great Beyonder, or Heretics?|",
         "She spoke daringly and without fear.",
         "And in response, millions of tendrils began to buzz opposite her as another deep voice not belonging to the Great Enslaver echoed out.",
         "|We also follow the Will of the Great Beyonder, O Great Mother, but we seem to see it differently.|",
@@ -4880,7 +4880,7 @@
         {
           "id": 48,
           "paragraph_id": 37,
-          "text": "|Great Ones will fall like the drops of Rain....so what?"
+          "text": "|Great Ones will fall like the drops of Rain...so what?"
         },
         {
           "id": 49,
@@ -5015,7 +5015,7 @@
         "Her eyes squinted closely as if she wanted to follow the endless massive connection stretching out behind him, but Ozymandias looked at her ever closer as he asked calmly.",
         "|Is something the matter?|",
         "As if he had just done the most natural thing in the world.",
-        "Aspasia looked at him wordlessly as if she were gathering her thoughts before she asked, almost as if she was whispering so that nobody else could hear....but there should be nobody else here!",
+        "Aspasia looked at him wordlessly as if she were gathering her thoughts before she asked, almost as if she was whispering so that nobody else could hear...but there should be nobody else here!",
         "|What...did you connect to just now?|",
         "She wondered.",
         "She sought an answer.",
@@ -5120,7 +5120,7 @@
         {
           "id": 10,
           "paragraph_id": 10,
-          "text": "Aspasia looked at him wordlessly as if she were gathering her thoughts before she asked, almost as if she was whispering so that nobody else could hear....but there should be nobody else here!"
+          "text": "Aspasia looked at him wordlessly as if she were gathering her thoughts before she asked, almost as if she was whispering so that nobody else could hear...but there should be nobody else here!"
         },
         {
           "id": 11,
@@ -5855,7 +5855,7 @@
         "Noah observed this closely as he continued to analyze everything that occurred.",
         "|The newly formed particle is unnamed, but it is extremely reactive to lifeforms as exposure to it initiates a rapid change in Existence. And this change...|",
         "The change was profound as after it covered a majority of their Existence, an invisible beam of obsidian light only Noah could see stretched out from the Winged Unicorns and rose upwards.",
-        "....!",
+        "...!",
         "It looked like a thin fishing line as it crossed the Infinite Omniverse rapidly, ascending ever higher as its target fantastically streaked towards the Megalos Beyond!",
         "It was astonishing to see as for the first time, as far as Noah could tell, a link of a Delegatus would be formed, but it was initiated by the Delegatus itself.",
         "The target of this fishing line...Noah could already tell it was none other than Ozymandias who was the one that all of these seas of Dark Matter were flowing through to reach here!",
@@ -5965,7 +5965,7 @@
         {
           "id": 11,
           "paragraph_id": 10,
-          "text": "....!"
+          "text": "...!"
         },
         {
           "id": 12,
@@ -7546,7 +7546,7 @@
         "Noah's eyes turned ever brighter.",
         "The sister knew?",
         "The Omniversal Entity of the Commonwealth leading a powerful team of Protectors knew that her Sister was an Agent of Outerversal Morphons?!",
-        "\"This gets better and better....\"",
+        "\"This gets better and better...\"",
         "He stroked his chin while looking at the small unseen point above, making it clear to this gaze that he could see it!",
         "This gaze that was originating all the way towards the front of the Omniversal Voyager where the Command Protector Valeria was, along with the three Royal Existential Omniversal Simian Protectors.",
         "The three Royal Existential Omniversal Simians were talking amongst themselves as they reclined on radiant thrones while eating vibrant Fruits pulsing with Existence.",
@@ -7963,7 +7963,7 @@
         {
           "id": 75,
           "paragraph_id": 53,
-          "text": "\"This gets better and better....\""
+          "text": "\"This gets better and better...\""
         },
         {
           "id": 76,
@@ -8202,7 +8202,7 @@
         "Every choice had an effect. Causality could be twisted and distorted in any myriad of ways, but at the end of the day, what was intended or unintended would unfold!",
         "On this day, Noah had an intention of what he wanted the result to be. It was unknown whether this would be exactly what he achieved.",
         "|Newly synthesized Existential Elementary Particles are being placed alongside other Existential Elementary Particles that make up Noah Osmont.|",
-        "His stellar cloud of quarks, leptons, and other unknown wonders he didn't fully know of faced an intrusion of a multicolored cloud of Psioneutrino Particles, with even the idea of something like this not being feasible as if someone tried to do something like this....their existence would very likely break down.",
+        "His stellar cloud of quarks, leptons, and other unknown wonders he didn't fully know of faced an intrusion of a multicolored cloud of Psioneutrino Particles, with even the idea of something like this not being feasible as if someone tried to do something like this...their existence would very likely break down.",
         "How could you just add something else to a mixture that was already completed?",
         "To do so would cause an imbalance as every single interaction that your Existential makeup utilized would be thrown out of order!",
         "Very likely, your makeup would unwind from such an event as you would cease to exist.",
@@ -8244,7 +8244,7 @@
         "On his lower body.",
         "Thick and gorgeously proportioned obsidian bands formed all around as if they were black Halos wrapping around his body, with these bands pulsing to life at this moment as they felt like they were alive!",
         "At this time, his face that looked like a celestial entity lost in time opened its eyes.",
-        "The eyes....were contrasted with pure white and black.",
+        "The eyes...were contrasted with pure white and black.",
         "The moment they opened...",
         "BOOOM!",
         "A brilliant light flashed as in the next moment, his whole body was seemingly snuffed out of existence.",
@@ -8310,7 +8310,7 @@
         {
           "id": 6,
           "paragraph_id": 4,
-          "text": "His stellar cloud of quarks, leptons, and other unknown wonders he didn't fully know of faced an intrusion of a multicolored cloud of Psioneutrino Particles, with even the idea of something like this not being feasible as if someone tried to do something like this....their existence would very likely break down."
+          "text": "His stellar cloud of quarks, leptons, and other unknown wonders he didn't fully know of faced an intrusion of a multicolored cloud of Psioneutrino Particles, with even the idea of something like this not being feasible as if someone tried to do something like this...their existence would very likely break down."
         },
         {
           "id": 7,
@@ -8525,7 +8525,7 @@
         {
           "id": 49,
           "paragraph_id": 46,
-          "text": "The eyes....were contrasted with pure white and black."
+          "text": "The eyes...were contrasted with pure white and black."
         },
         {
           "id": 50,
@@ -13292,7 +13292,7 @@
         "The wheels called out shattered and reformed rapidly as the obsidian light was so blinding that Command Protector Valeria had to close her eyes.",
         "The very weavings of matter felt like they were decimated!",
         "Any form of existence would feel a burning sensation as if they were being scorched out of existence!",
-        "But in the midst of all this, as she began to feel her existence burning and her Omniversal Armament become torn....Command Protector Valeria felt a body cover her.",
+        "But in the midst of all this, as she began to feel her existence burning and her Omniversal Armament become torn...Command Protector Valeria felt a body cover her.",
         "...!",
         "She felt her head pushed into a strong chest, and her back wrapped by strong hands filled with unfathomable steadiness.",
         "And the burning of her existence stopped right after.",
@@ -13644,7 +13644,7 @@
         {
           "id": 68,
           "paragraph_id": 60,
-          "text": "But in the midst of all this, as she began to feel her existence burning and her Omniversal Armament become torn....Command Protector Valeria felt a body cover her."
+          "text": "But in the midst of all this, as she began to feel her existence burning and her Omniversal Armament become torn...Command Protector Valeria felt a body cover her."
         },
         {
           "id": 69,
@@ -16714,7 +16714,7 @@
         "Or something else entirely?",
         "This question couldn't be entirely answered at this moment.",
         "But within the depths of the Infinite Omniverse, there was the Manifestation of this construct itself.",
-        "Her multicolored visage made up of many different authorities formed the definitive shape of a feminine entity, and yet right now, from her legs where countless lines of authorities extended towards the dazzling throne Noah sat on....vibrant, incandescent, radiant obsidian tentacles began to grow!",
+        "Her multicolored visage made up of many different authorities formed the definitive shape of a feminine entity, and yet right now, from her legs where countless lines of authorities extended towards the dazzling throne Noah sat on...vibrant, incandescent, radiant obsidian tentacles began to grow!",
         "The change was not missed by the Infinite Omniverse, her Manifestation staring towards the Master on the throne who currently looked far above.",
         "Towards the connection leading to the Megalos Beyond.",
         "There, Ozymandias was about to step onto a grand field of play.",
@@ -16887,7 +16887,7 @@
         {
           "id": 26,
           "paragraph_id": 26,
-          "text": "Her multicolored visage made up of many different authorities formed the definitive shape of a feminine entity, and yet right now, from her legs where countless lines of authorities extended towards the dazzling throne Noah sat on....vibrant, incandescent, radiant obsidian tentacles began to grow!"
+          "text": "Her multicolored visage made up of many different authorities formed the definitive shape of a feminine entity, and yet right now, from her legs where countless lines of authorities extended towards the dazzling throne Noah sat on...vibrant, incandescent, radiant obsidian tentacles began to grow!"
         },
         {
           "id": 27,
@@ -17556,8 +17556,8 @@
         "'One With Existence...'",
         "He felt the beginnings of this imperceptible state where his existence was telling him he could just disappear into his surroundings if he wished, the sensation being utterly wild as he wondered just how high his values had risen after all of this.",
         "His extremely powerful Existence came up with the answer in a mere instant.",
-        "[Megalos Regnum Echelon 3 (53,799/100,000)]---[Megalos Willpower I]---[Megalos Dignity]",
-        "[Outerversal Physiology Echelon 3 (88,219/100,000)]---[Outerversal Organs I]---[Dark Matter Core]",
+        "[Megalos Regnum Echelon 3 (53,799/100,000)][Megalos Willpower I][Megalos Dignity]",
+        "[Outerversal Physiology Echelon 3 (88,219/100,000)][Outerversal Organs I][Dark Matter Core]",
         "...!",
         "He was only just born as an Outerversal Morphon, but his speed was astounding to a large degree.",
         "He felt the subtle changes within himself as he focused on the new additions due to jumps from the Second to the Third Echelons.",
@@ -17586,8 +17586,8 @@
         "And so, his existence buzzed as his eyes flashed, focused on the terrifying Great Wheel.",
         "Immense pressure that almost caused one to keep their gaze down radiated from him, but Ozymandias got what he wanted.",
         "[The Great Wheel]",
-        "[Megalos Regnum Echelon 7 (233,844,439/1,000,000,000)]---[Megalos Willpower V]---[Megalos Dignity IV]---[@&#^$^#]....",
-        "[Outerversal Physiology Echelon 8 (3,944,552,782/10,000,000,000)]---[Outerversal Organs VI]---[Dark Matter Core V]---[@$%$]...",
+        "[Megalos Regnum Echelon 7 (233,844,439/1,000,000,000)][Megalos Willpower V][Megalos Dignity IV][@&#^$^#]...",
+        "[Outerversal Physiology Echelon 8 (3,944,552,782/10,000,000,000)][Outerversal Organs VI][Dark Matter Core V][@$%$]...",
         "...!",
         "A terrifying set of values was shown.",
         "The Great Wheel!"
@@ -17721,12 +17721,12 @@
         {
           "id": 25,
           "paragraph_id": 25,
-          "text": "[Megalos Regnum Echelon 3 (53,799/100,000)]---[Megalos Willpower I]---[Megalos Dignity]"
+          "text": "[Megalos Regnum Echelon 3 (53,799/100,000)][Megalos Willpower I][Megalos Dignity]"
         },
         {
           "id": 26,
           "paragraph_id": 26,
-          "text": "[Outerversal Physiology Echelon 3 (88,219/100,000)]---[Outerversal Organs I]---[Dark Matter Core]"
+          "text": "[Outerversal Physiology Echelon 3 (88,219/100,000)][Outerversal Organs I][Dark Matter Core]"
         },
         {
           "id": 27,
@@ -17871,12 +17871,12 @@
         {
           "id": 55,
           "paragraph_id": 55,
-          "text": "[Megalos Regnum Echelon 7 (233,844,439/1,000,000,000)]---[Megalos Willpower V]---[Megalos Dignity IV]---[@&#^$^#]...."
+          "text": "[Megalos Regnum Echelon 7 (233,844,439/1,000,000,000)][Megalos Willpower V][Megalos Dignity IV][@&#^$^#]..."
         },
         {
           "id": 56,
           "paragraph_id": 56,
-          "text": "[Outerversal Physiology Echelon 8 (3,944,552,782/10,000,000,000)]---[Outerversal Organs VI]---[Dark Matter Core V]---[@$%$]..."
+          "text": "[Outerversal Physiology Echelon 8 (3,944,552,782/10,000,000,000)][Outerversal Organs VI][Dark Matter Core V][@$%$]..."
         },
         {
           "id": 57,
@@ -20244,7 +20244,7 @@
         "The Great Ponderor himself didn't have the full Amarantos Dream of the Megalos, but he knew how stupendous it had been for him during his rise to power.",
         "Now...it wasn't as terrifying as someone on his stage truly needed the full technique.",
         "If the Instrument could obtain it...would he be able to transmit it to others?",
-        "|Mmm....|",
+        "|Mmm...|",
         "The Great Ponderor...pondered.",
         "BOOM! BOOM!",
         "The tentacles of his heart seemed slimy and filled with obsidian stellar blood, and yet they smashed onto the hardened crystalline bodies of Guards who practiced the Existence Defying Physiology of the Megalos and splintered them to pieces!",
@@ -20370,7 +20370,7 @@
         {
           "id": 5,
           "paragraph_id": 5,
-          "text": "|Mmm....|"
+          "text": "|Mmm...|"
         },
         {
           "id": 6,
@@ -21351,7 +21351,7 @@
         "'Fantastic...'",
         "His thoughts were vibrant as he prepared for a long dream.",
         "In front of him, the Great Deceiver turned his will unto him as he spoke out.",
-        "|Lexo, contact the Great Ponderor and-....huh?|",
+        "|Lexo, contact the Great Ponderor and-...huh?|",
         "The Great One stopped in the midst of his words.",
         "His crimson eyes blinked before a second later, they burned with flames as pillars of crimson stellar light actually erupted from them- these pillars scorching everything on their path as they went to ground Morphon Lexo into nothingness!",
         "|Fucking hell! A Dreamer! A Dreamer actually stood beside me this whole time? Who? WHO?!|",
@@ -21713,7 +21713,7 @@
         {
           "id": 68,
           "paragraph_id": 53,
-          "text": "|Lexo, contact the Great Ponderor and-....huh?|"
+          "text": "|Lexo, contact the Great Ponderor and-...huh?|"
         },
         {
           "id": 69,

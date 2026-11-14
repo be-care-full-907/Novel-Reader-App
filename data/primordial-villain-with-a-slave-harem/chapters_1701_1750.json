@@ -13841,7 +13841,7 @@
         "Blue flame cascaded from the steel and struck the air beside Myrasyn, and Aelindra Ael'vyrn opened her eyes. They burned the same cold blue as every soul soldier on the field below.",
         "[Ding!]",
         "A chime sounded behind his eyes.",
-        "[Necromantic Tier Ascension --- Tier III]",
+        "[Necromantic Tier Ascension Tier III]",
         "[Requirement for Rank Up: Possess 1,000 Elite Souls of Rank 5.]",
         "[Progress: 1,000 / 1,000]",
         "[Requirement met! Ascending to Tier III!]",
@@ -13879,7 +13879,7 @@
         "\"Now, die.\"",
         "A thousand pale flames pulsed once behind them, hungry and waiting, and the soul army advanced.",
         "[Ding!]",
-        "[Necromantic Tier Ascension --- Tier IV. To ascend, the following conditions must be-]",
+        "[Necromantic Tier Ascension Tier IV. To ascend, the following conditions must be-]",
         "The notification froze mid-sentence.",
         "The text hung behind his eyes for a long, uncomfortable second, half-formed and flickering at the edges as if the system itself was reconsidering what it had been about to say.",
         "Then the line dissolved, and a new one wrote itself in its place.",
@@ -13960,7 +13960,7 @@
         {
           "id": 8,
           "paragraph_id": 7,
-          "text": "[Necromantic Tier Ascension --- Tier III]"
+          "text": "[Necromantic Tier Ascension Tier III]"
         },
         {
           "id": 9,
@@ -14190,7 +14190,7 @@
         {
           "id": 54,
           "paragraph_id": 45,
-          "text": "[Necromantic Tier Ascension --- Tier IV."
+          "text": "[Necromantic Tier Ascension Tier IV."
         },
         {
           "id": 55,
@@ -14423,7 +14423,7 @@
           "text": "\"And now,\" she said, \"we kick back and enjoy the show.\""
         }
       ],
-      "word_count": 1401
+      "word_count": 1399
     },
     {
       "chapter_index": 1730,

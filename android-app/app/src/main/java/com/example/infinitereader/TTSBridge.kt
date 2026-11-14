@@ -134,13 +134,17 @@ class TTSBridge(private val context: Context, private var webView: WebView) : Te
             .replace('і', 'i').replace('І', 'i')
             .replace("⁠", "").replace("​", "").replace("﻿", "")
 
-        val domain = """(?:novel\s*ping|novel\s*bin|freewebnovel)(?:[\s\(\[\{]*(?:\.|\bdot\b)[\s\)\]\}]*com)?"""
-        val wmPat = """(?i)[\s\(\['"“‘]*(?:This\s+chapter\s+was\s+(?:taken|copied|stolen)\s+from\s+$domain(?:\s+without\s+permission)?|This\s+chapter\s+is\s+updated\s+first\s+at\s+$domain|This\s+story\s+is\s+hosted\s+at\s+$domain|The\s+source\s+of\s+this\s+chapter\s+is\s+$domain|You\s+are\s+reading\s+on\s+$domain(?:\s*,\s*the\s+official\s+source)?|Find\s+the\s+original\s+chapter\s+at\s+$domain|Follow\s+the\s+newest\s+chapters\s+on\s+$domain|Visit\s+$domain(?:\s+for\s+the\s+full\s+chapter)?|Get\s+faster\s+updates\s+on\s+$domain|New\s+chapters\s+come\s+out\s+on\s+$domain(?:\s+first)?|Enjoying\s+the\s+story\?\s*Read\s+on\s+at\s+$domain|Read\s+(?:this\s+novel\s+at|the\s+latest\s+chapters\s+at|on\s+at|on)\s+$domain(?:\s+for\s+the\s+best\s+experience)?)[ \)\}\]'"”’\.]*"""
+        val domain = """(?:novel\s*ping|freewebnovel|novel\s*bin|vipnovel|webnovel)(?:[\s\(\[\{]*(?:\.|\bdot\b)[\s\)\]\}]*(?:com|live|net|org|\(?c\)?\(?o\)?\(?m\)?))?"""
+        val promoAction = """(?:(?:This|The|Your)[-_ ]+[^.!?\n]{0,35}?[-_ ]+|(?:Continue|Enjoy|Read|Experience|Find|Discover|Explore|Stay|Don['’]t[-_ ]*miss|Follow|Visit|Get|New)[-_ ]+[^.!?\n]{0,35}?[-_ ]+|(?:Exclusive|New|More|Latest)[-_ ]+(?:content|stories|tales|chapters|adventures|read)[-_ ]+|(?:hosted|story|chapter|updates?|source)[-_ ]+(?:on|by|at|from)[-_ ]*|hosted[-_ ]*(?:on|by|at|from)?[-_ ]*)(?:at|from|with|on|via|through|to|by|fro)?[-_ ]*""" + domain
+        val wmPat = """(?i)[\s\(\['"“‘]*(?:This\s+chapter\s+was\s+(?:taken|copied|stolen)\s+from\s+$domain(?:\s+without\s+permission)?|This\s+chapter\s+is\s+updated\s+first\s+at\s+$domain|This\s+story\s+is\s+hosted\s+at\s+$domain|The\s+source\s+of\s+this\s+chapter\s+is\s+$domain|You\s+are\s+reading\s+on\s+$domain(?:\s*,\s*the\s+official\s+source)?|Find\s+the\s+original\s+chapter\s+at\s+$domain|Follow\s+the\s+newest\s+chapters\s+on\s+$domain|Visit\s+$domain(?:\s+for\s+the\s+full\s+chapter)?|Get\s+faster\s+updates\s+on\s+$domain|New\s+chapters\s+come\s+out\s+on\s+$domain(?:\s+first)?|Enjoying\s+the\s+story\?\s*Read\s+on\s+at\s+$domain|Read\s+(?:this\s+novel\s+at|the\s+latest\s+chapters\s+at|on\s+at|on)\s+$domain(?:\s+for\s+the\s+best\s+experience)?|$promoAction|$domain[-_ ]+(?:your[-_ ]+)?(?:story|stories|chapters?|updates?|sources?|novels?)[^\n.!?]*|Cheaper\s+than\s+$domain[^\n.!?]*|MESSAGE:\s*My\s+Werewolf\s+system\s+is\s+now\s+out\s+on\s+$domain[^\n.!?]*|(?<=[\.\!\?\"\'”’\)\\}])\s*(?:f\s*ree)?$domain\.?\s*$)[ \)\}\]'"”’\.]*"""
 
         val pat = """([^\w\s.!?,'"])\1{2,}%?|\.{4,}|(?:\s*[-_~=*+#•]\s*){3,}"""
         return normalized
             .replace(Regex(wmPat), "")
-            .replace(Regex("""(?:[\s\.\!\?\"\'\)]|^)(?:https?://)?(?:www\.)?(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)\.(?:com|net|org)\b[\'\"”’\.\,\)]*""", RegexOption.IGNORE_CASE), "")
+            .replace(Regex("""(?i)\bcoNovelBine\b"""), "combine")
+            .replace(Regex("""(?i)\bbelieNovelBine\b"""), "believe")
+            .replace(Regex("""(?i)([a-zA-Z0-9\]\)])\s*experience\s+NovelBin[^\n.!?]*"""), "$1")
+            .replace(Regex("""(?:[\s\.\!\?\"\'\)]|^)(?:https?://)?(?:www\.)?(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)\.(?:com|live|net|org)\b[\'\"”’\.\,\)]*""", RegexOption.IGNORE_CASE), "")
             .replace(Regex(pat), "")
             .replace(Regex("""\s+"""), " ")
             .trim()

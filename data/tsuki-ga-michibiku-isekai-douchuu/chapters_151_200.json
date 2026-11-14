@@ -89,7 +89,7 @@
         "Fufufu.",
         "Why... Why do I have to come here again by the convenience of that Bug?!",
         "“Wa-Waka-sama?” (Shiki)",
-        "“.....”",
+        "“...”",
         "Shiki probably noticed my state, he timidly calls me.",
         "But I silently take out the *uchine* from my pocket.",
         "It is originally bigger and something that can’t be carried in one’s pocket, but I asked them to be made one size smaller, so it can be used as a hidden weapon.",
@@ -398,7 +398,7 @@
         "The figures of Shiki and I followed the trail of golden light, and we were enveloped by a ball of darkness, plunging directly into the Limia capital.",
         "◇◆◇◆◇◆◇◆",
         "“... Hey, Mio” (Tomoe)",
-        "“......”",
+        "“...”",
         "“Makes you boil, right?” (Tomoe)",
         "“... Yeah, to the point of trembling” (Mio)",
         "Without looking at each other, Tomoe and Mio who were in Asora, face their front with their eyes closed.",
@@ -924,7 +924,7 @@
         {
           "id": 95,
           "paragraph_id": 79,
-          "text": "“.....”"
+          "text": "“...”"
         },
         {
           "id": 96,
@@ -3259,7 +3259,7 @@
         {
           "id": 562,
           "paragraph_id": 388,
-          "text": "“......”"
+          "text": "“...”"
         },
         {
           "id": 563,
@@ -16707,15 +16707,13 @@
         "“Qualification?” (Hibiki)",
         "“Yeah. It is not such a complicated thing actually. The amount of dying transferred are not low. Saying it in a rough manner, the main point is to strongly think of your own purpose. What you have to do and what you crave for. Well, even if those varieties are good are bad, it doesn’t matter”",
         "“Good or bad, you say. I don’t understand the meaning” (Hibiki)",
-        "“Even if it’s love or friendship, even hatred or jealousy.... Hm, for some reason, I end up saying more than necessary when talking to you”",
+        "“Even if it’s love or friendship, even hatred or jealousy... Hm, for some reason, I end up saying more than necessary when talking to you”",
         "“...”",
         "“Doesn’t matter the circumstances. Let’s continue. I will have you answer several questions”",
         "“A quiz?” (Hibiki)",
         "“No. Questions that have no correct answer. There are quite a lot of those right? Questions that have correct and questions that don’t. It’s those kind. Depending on that, your privilege will change”",
         "“Privilege... Is it possible to increase my power as well?” (Hibiki)",
         "“The details will come after inquiring your nature. Well then, let’s begin. Just what color will be the result~ I am looking forward to it”",
-        ".........",
-        "......",
         "“Okay, good work. Fufufu, Hibiki, your results have appeared”",
         "“Make it quick. Even if you tell me time won’t pass, my feelings get agitated. You said something about color, right? Tell me quick” (Hibiki)",
         "“Yes yes, Otonashi Hibiki, you are ‘black’”",
@@ -20301,7 +20299,7 @@
         {
           "id": 689,
           "paragraph_id": 478,
-          "text": "“Even if it’s love or friendship, even hatred or jealousy...."
+          "text": "“Even if it’s love or friendship, even hatred or jealousy..."
         },
         {
           "id": 690,
@@ -20391,1285 +20389,1275 @@
         {
           "id": 707,
           "paragraph_id": 485,
-          "text": "........."
-        },
-        {
-          "id": 708,
-          "paragraph_id": 486,
-          "text": "......"
-        },
-        {
-          "id": 709,
-          "paragraph_id": 487,
           "text": "“Okay, good work."
         },
         {
-          "id": 710,
-          "paragraph_id": 487,
+          "id": 708,
+          "paragraph_id": 485,
           "text": "Fufufu, Hibiki, your results have appeared”"
         },
         {
-          "id": 711,
-          "paragraph_id": 488,
+          "id": 709,
+          "paragraph_id": 486,
           "text": "“Make it quick."
         },
         {
-          "id": 712,
-          "paragraph_id": 488,
+          "id": 710,
+          "paragraph_id": 486,
           "text": "Even if you tell me time won’t pass, my feelings get agitated."
         },
         {
-          "id": 713,
-          "paragraph_id": 488,
+          "id": 711,
+          "paragraph_id": 486,
           "text": "You said something about color, right?"
+        },
+        {
+          "id": 712,
+          "paragraph_id": 486,
+          "text": "Tell me quick” (Hibiki)"
+        },
+        {
+          "id": 713,
+          "paragraph_id": 487,
+          "text": "“Yes yes, Otonashi Hibiki, you are ‘black’”"
         },
         {
           "id": 714,
           "paragraph_id": 488,
-          "text": "Tell me quick” (Hibiki)"
+          "text": "“Black?” (Hibiki)"
         },
         {
           "id": 715,
           "paragraph_id": 489,
-          "text": "“Yes yes, Otonashi Hibiki, you are ‘black’”"
+          "text": "Hearing an unexpected color, Hibiki repeats it."
         },
         {
           "id": 716,
           "paragraph_id": 490,
-          "text": "“Black?” (Hibiki)"
+          "text": "She hasn’t been compared to black that much."
         },
         {
           "id": 717,
           "paragraph_id": 491,
-          "text": "Hearing an unexpected color, Hibiki repeats it."
+          "text": "There’s a lot of good opinions about black, but there’s also a lot of bad ones as well."
         },
         {
           "id": 718,
           "paragraph_id": 492,
-          "text": "She hasn’t been compared to black that much."
+          "text": "There’s the impression of a shadow, and it isn’t a color Hibiki likes that much."
         },
         {
           "id": 719,
           "paragraph_id": 493,
-          "text": "There’s a lot of good opinions about black, but there’s also a lot of bad ones as well."
+          "text": "The amount of black clothes she wears are low."
         },
         {
           "id": 720,
           "paragraph_id": 494,
-          "text": "There’s the impression of a shadow, and it isn’t a color Hibiki likes that much."
-        },
-        {
-          "id": 721,
-          "paragraph_id": 495,
-          "text": "The amount of black clothes she wears are low."
-        },
-        {
-          "id": 722,
-          "paragraph_id": 496,
           "text": "“That’s right."
         },
         {
-          "id": 723,
-          "paragraph_id": 496,
+          "id": 721,
+          "paragraph_id": 494,
           "text": "Black."
+        },
+        {
+          "id": 722,
+          "paragraph_id": 494,
+          "text": "A section of one of the most superior colors”"
+        },
+        {
+          "id": 723,
+          "paragraph_id": 495,
+          "text": "“Most superior... it is a good result then?” (Hibiki)"
         },
         {
           "id": 724,
           "paragraph_id": 496,
-          "text": "A section of one of the most superior colors”"
+          "text": "Even if she is told the ‘most superior’, she has never heard of a classification in colors."
         },
         {
           "id": 725,
           "paragraph_id": 497,
-          "text": "“Most superior... it is a good result then?” (Hibiki)"
+          "text": "Hibiki was unable to make a conclusion."
         },
         {
           "id": 726,
           "paragraph_id": 498,
-          "text": "Even if she is told the ‘most superior’, she has never heard of a classification in colors."
-        },
-        {
-          "id": 727,
-          "paragraph_id": 499,
-          "text": "Hibiki was unable to make a conclusion."
-        },
-        {
-          "id": 728,
-          "paragraph_id": 500,
           "text": "“Yeah, of course."
         },
         {
-          "id": 729,
-          "paragraph_id": 500,
+          "id": 727,
+          "paragraph_id": 498,
           "text": "Tomoki was also the same."
+        },
+        {
+          "id": 728,
+          "paragraph_id": 498,
+          "text": "The transferred people that have come are truly exceptional”"
+        },
+        {
+          "id": 729,
+          "paragraph_id": 499,
+          "text": "The same as Iwahashi Tomoki."
         },
         {
           "id": 730,
           "paragraph_id": 500,
-          "text": "The transferred people that have come are truly exceptional”"
+          "text": "When Hibiki hears this, her expression darkens."
         },
         {
           "id": 731,
           "paragraph_id": 501,
-          "text": "The same as Iwahashi Tomoki."
+          "text": "It isn’t truly the case, but the moment she heard that they were the same, she didn’t feel that good."
         },
         {
           "id": 732,
           "paragraph_id": 502,
-          "text": "When Hibiki hears this, her expression darkens."
-        },
-        {
-          "id": 733,
-          "paragraph_id": 503,
-          "text": "It isn’t truly the case, but the moment she heard that they were the same, she didn’t feel that good."
-        },
-        {
-          "id": 734,
-          "paragraph_id": 504,
           "text": "“..."
         },
         {
-          "id": 735,
-          "paragraph_id": 504,
+          "id": 733,
+          "paragraph_id": 502,
           "text": "And so, what does black do anyways?” (Hibiki)"
         },
         {
-          "id": 736,
-          "paragraph_id": 505,
+          "id": 734,
+          "paragraph_id": 503,
           "text": "“You see, black is... a color that Gods will never be able to obtain."
         },
         {
-          "id": 737,
-          "paragraph_id": 505,
+          "id": 735,
+          "paragraph_id": 503,
           "text": "Just a few rare cases happen where humans are able to obtain this color."
         },
         {
-          "id": 738,
-          "paragraph_id": 505,
+          "id": 736,
+          "paragraph_id": 503,
           "text": "Its alias..."
         },
         {
-          "id": 739,
-          "paragraph_id": 505,
+          "id": 737,
+          "paragraph_id": 503,
           "text": "‘omnipotent color’."
         },
         {
-          "id": 740,
-          "paragraph_id": 505,
+          "id": 738,
+          "paragraph_id": 503,
           "text": "Attack, defense, support, healing, summoning, etc."
+        },
+        {
+          "id": 739,
+          "paragraph_id": 503,
+          "text": "The amount of things it can’t do are fewer”"
+        },
+        {
+          "id": 740,
+          "paragraph_id": 504,
+          "text": "“An omnipotent color...” (Hibiki)"
         },
         {
           "id": 741,
           "paragraph_id": 505,
-          "text": "The amount of things it can’t do are fewer”"
-        },
-        {
-          "id": 742,
-          "paragraph_id": 506,
-          "text": "“An omnipotent color...” (Hibiki)"
-        },
-        {
-          "id": 743,
-          "paragraph_id": 507,
           "text": "“Now then, Hibiki."
         },
         {
-          "id": 744,
-          "paragraph_id": 507,
+          "id": 742,
+          "paragraph_id": 505,
           "text": "Let’s make a power."
         },
         {
-          "id": 745,
-          "paragraph_id": 507,
+          "id": 743,
+          "paragraph_id": 505,
           "text": "First of all, make suggestions one after the other."
         },
         {
-          "id": 746,
-          "paragraph_id": 507,
+          "id": 744,
+          "paragraph_id": 505,
           "text": "I will tell you the price of it."
         },
         {
-          "id": 747,
-          "paragraph_id": 507,
+          "id": 745,
+          "paragraph_id": 505,
           "text": "It is okay to decide by taking that into consideration."
         },
         {
-          "id": 748,
-          "paragraph_id": 507,
+          "id": 746,
+          "paragraph_id": 505,
           "text": "That is the privilege of the transferred."
         },
         {
-          "id": 749,
-          "paragraph_id": 507,
+          "id": 747,
+          "paragraph_id": 505,
           "text": "Oh right, there’s one point I have to warn you about."
         },
         {
-          "id": 750,
-          "paragraph_id": 507,
+          "id": 748,
+          "paragraph_id": 505,
           "text": "You can’t choose the same type of system that another person of the same axis of time has chosen."
         },
         {
-          "id": 751,
-          "paragraph_id": 507,
+          "id": 749,
+          "paragraph_id": 505,
           "text": "I ended up saying it before, but the other hero has obtained an attack power, so you can’t choose an attack type of power."
+        },
+        {
+          "id": 750,
+          "paragraph_id": 505,
+          "text": "But well, something like summoning a star is possible though”"
+        },
+        {
+          "id": 751,
+          "paragraph_id": 506,
+          "text": "“Then a power than can control the world, is also possible?” (Hibiki)"
         },
         {
           "id": 752,
           "paragraph_id": 507,
-          "text": "But well, something like summoning a star is possible though”"
-        },
-        {
-          "id": 753,
-          "paragraph_id": 508,
-          "text": "“Then a power than can control the world, is also possible?” (Hibiki)"
-        },
-        {
-          "id": 754,
-          "paragraph_id": 509,
           "text": "“Of course."
         },
         {
-          "id": 755,
-          "paragraph_id": 509,
+          "id": 753,
+          "paragraph_id": 507,
           "text": "The price of that power would be your whole magic power and around 80% of the living beings in that world."
         },
         {
-          "id": 756,
-          "paragraph_id": 509,
+          "id": 754,
+          "paragraph_id": 507,
           "text": "You can’t choose who remains, but you will definitely survive”"
         },
         {
-          "id": 757,
-          "paragraph_id": 510,
+          "id": 755,
+          "paragraph_id": 508,
           "text": "“..."
         },
         {
-          "id": 758,
-          "paragraph_id": 510,
+          "id": 756,
+          "paragraph_id": 508,
           "text": "Rejected” (Hibiki)"
         },
         {
-          "id": 759,
-          "paragraph_id": 511,
+          "id": 757,
+          "paragraph_id": 509,
           "text": "“I see."
         },
         {
-          "id": 760,
-          "paragraph_id": 511,
+          "id": 758,
+          "paragraph_id": 509,
           "text": "The war would definitely finish, you know?"
         },
         {
-          "id": 761,
-          "paragraph_id": 511,
+          "id": 759,
+          "paragraph_id": 509,
           "text": "I don’t know what that Goddess would say, but she wouldn’t be able to punish you."
+        },
+        {
+          "id": 760,
+          "paragraph_id": 509,
+          "text": "Ah, I said something unnecessary again”"
+        },
+        {
+          "id": 761,
+          "paragraph_id": 510,
+          "text": "“Shut up” (Hibiki)"
         },
         {
           "id": 762,
           "paragraph_id": 511,
-          "text": "Ah, I said something unnecessary again”"
+          "text": "Hibiki ponders."
         },
         {
           "id": 763,
           "paragraph_id": 512,
-          "text": "“Shut up” (Hibiki)"
+          "text": "It seems like the attack system is already in the possession of Tomoki."
         },
         {
           "id": 764,
           "paragraph_id": 513,
-          "text": "Hibiki ponders."
+          "text": "In other words, it would be safe to assume that he has an incredibly powerful attack magic."
         },
         {
           "id": 765,
           "paragraph_id": 514,
-          "text": "It seems like the attack system is already in the possession of Tomoki."
+          "text": "There’s also the method of attacking by summoning a star and hitting with it."
         },
         {
           "id": 766,
           "paragraph_id": 515,
-          "text": "In other words, it would be safe to assume that he has an incredibly powerful attack magic."
-        },
-        {
-          "id": 767,
-          "paragraph_id": 516,
-          "text": "There’s also the method of attacking by summoning a star and hitting with it."
-        },
-        {
-          "id": 768,
-          "paragraph_id": 517,
           "text": "(Then, should I obtain a defensive magic that can go against Tomoki?"
         },
         {
-          "id": 769,
-          "paragraph_id": 517,
+          "id": 767,
+          "paragraph_id": 515,
           "text": "No, can’t do that."
         },
         {
-          "id": 770,
-          "paragraph_id": 517,
+          "id": 768,
+          "paragraph_id": 515,
           "text": "If that happens, I wouldn’t be able to destroy even a single one of Larva’s barriers."
         },
         {
-          "id": 771,
-          "paragraph_id": 517,
+          "id": 769,
+          "paragraph_id": 515,
           "text": "Then, healing?"
         },
         {
-          "id": 772,
-          "paragraph_id": 517,
+          "id": 770,
+          "paragraph_id": 515,
           "text": "I do think this is useful, but if I am unable to save the capital, there’s no point."
         },
         {
-          "id": 773,
-          "paragraph_id": 517,
+          "id": 771,
+          "paragraph_id": 515,
           "text": "A power that can become an attack in essence."
+        },
+        {
+          "id": 772,
+          "paragraph_id": 515,
+          "text": "It is possible but...) (Hibiki)"
+        },
+        {
+          "id": 773,
+          "paragraph_id": 516,
+          "text": "The suggestion was so grand and vague that Hibiki is troubled."
         },
         {
           "id": 774,
           "paragraph_id": 517,
-          "text": "It is possible but...) (Hibiki)"
+          "text": "Then... after enumerating the things she can’t do, she felt some sort of aim in mind."
         },
         {
           "id": 775,
           "paragraph_id": 518,
-          "text": "The suggestion was so grand and vague that Hibiki is troubled."
+          "text": "“You won’t tell me the things I can’t do aside from the attack system?” (Hibiki)"
         },
         {
           "id": 776,
           "paragraph_id": 519,
-          "text": "Then... after enumerating the things she can’t do, she felt some sort of aim in mind."
-        },
-        {
-          "id": 777,
-          "paragraph_id": 520,
-          "text": "“You won’t tell me the things I can’t do aside from the attack system?” (Hibiki)"
-        },
-        {
-          "id": 778,
-          "paragraph_id": 521,
           "text": "“Fufufu."
         },
         {
-          "id": 779,
-          "paragraph_id": 521,
+          "id": 777,
+          "paragraph_id": 519,
           "text": "I can’t do that."
         },
         {
-          "id": 780,
-          "paragraph_id": 521,
+          "id": 778,
+          "paragraph_id": 519,
           "text": "You have to choose the power you want yourself."
         },
         {
-          "id": 781,
-          "paragraph_id": 521,
+          "id": 779,
+          "paragraph_id": 519,
           "text": "That is also one of the rules."
+        },
+        {
+          "id": 780,
+          "paragraph_id": 519,
+          "text": "It isn’t something that’s normally asked, but you have quite the good head there”"
+        },
+        {
+          "id": 781,
+          "paragraph_id": 520,
+          "text": "Maybe the voice found her question interesting, he answered in an amused manner."
         },
         {
           "id": 782,
           "paragraph_id": 521,
-          "text": "It isn’t something that’s normally asked, but you have quite the good head there”"
+          "text": "His answer was rejection though."
         },
         {
           "id": 783,
           "paragraph_id": 522,
-          "text": "Maybe the voice found her question interesting, he answered in an amused manner."
+          "text": "“Hey... is it possible to return to the past?” (Hibiki)"
         },
         {
           "id": 784,
           "paragraph_id": 523,
-          "text": "His answer was rejection though."
+          "text": "After a while of thinking, Hibiki opened her mouth."
         },
         {
           "id": 785,
           "paragraph_id": 524,
-          "text": "“Hey... is it possible to return to the past?” (Hibiki)"
+          "text": "It isn’t something that will save the current capital, but it is one method to do everything again."
         },
         {
           "id": 786,
           "paragraph_id": 525,
-          "text": "After a while of thinking, Hibiki opened her mouth."
-        },
-        {
-          "id": 787,
-          "paragraph_id": 526,
-          "text": "It isn’t something that will save the current capital, but it is one method to do everything again."
-        },
-        {
-          "id": 788,
-          "paragraph_id": 527,
           "text": "“Sailing against the currents of time?"
         },
         {
-          "id": 789,
-          "paragraph_id": 527,
+          "id": 787,
+          "paragraph_id": 525,
           "text": "If it’s that, it is possible."
         },
         {
-          "id": 790,
-          "paragraph_id": 527,
+          "id": 788,
+          "paragraph_id": 525,
           "text": "If you repeat the times on a same world several times, the price gets higher, so it is more practical to narrow your cases though”"
         },
         {
-          "id": 791,
-          "paragraph_id": 528,
+          "id": 789,
+          "paragraph_id": 526,
           "text": "“Repeating several times... in other words, if I return to the same past, the price will get higher, right?"
         },
         {
-          "id": 792,
-          "paragraph_id": 528,
+          "id": 790,
+          "paragraph_id": 526,
           "text": "Is it not okay to just place a restriction on the amount of times?"
         },
         {
-          "id": 793,
-          "paragraph_id": 528,
+          "id": 791,
+          "paragraph_id": 526,
           "text": "There’s no point in going to the pasts of other worlds anyways” (Hibiki)"
         },
         {
-          "id": 794,
-          "paragraph_id": 529,
+          "id": 792,
+          "paragraph_id": 527,
           "text": "“It is not like there’s no point."
         },
         {
-          "id": 795,
-          "paragraph_id": 529,
+          "id": 793,
+          "paragraph_id": 527,
           "text": "The parallel worlds are also worlds as well after all."
         },
         {
-          "id": 796,
-          "paragraph_id": 529,
+          "id": 794,
+          "paragraph_id": 527,
           "text": "Because two humans have influxed into that world, right now an enormous parallel world has been born, so the world you think about is your own world."
         },
         {
-          "id": 797,
-          "paragraph_id": 529,
+          "id": 795,
+          "paragraph_id": 527,
           "text": "Isn’t it interesting to test out the probabilities in different worlds?"
+        },
+        {
+          "id": 796,
+          "paragraph_id": 527,
+          "text": "You might be able to create a world where the capital has not turned that way, after all”"
+        },
+        {
+          "id": 797,
+          "paragraph_id": 528,
+          "text": "The voice states an opinion as if it is suggesting time travel."
         },
         {
           "id": 798,
           "paragraph_id": 529,
-          "text": "You might be able to create a world where the capital has not turned that way, after all”"
+          "text": "“By the way, what is the price?” (Hibiki)"
         },
         {
           "id": 799,
           "paragraph_id": 530,
-          "text": "The voice states an opinion as if it is suggesting time travel."
-        },
-        {
-          "id": 800,
-          "paragraph_id": 531,
-          "text": "“By the way, what is the price?” (Hibiki)"
-        },
-        {
-          "id": 801,
-          "paragraph_id": 532,
           "text": "“If you are going to sail through the times of the same world, it will only be once."
         },
         {
-          "id": 802,
-          "paragraph_id": 532,
+          "id": 800,
+          "paragraph_id": 530,
           "text": "You will die at 30 years old."
         },
         {
-          "id": 803,
-          "paragraph_id": 532,
+          "id": 801,
+          "paragraph_id": 530,
           "text": "If you are going to move through parallel worlds, your lifespan will be scraped off one year each time”"
         },
         {
-          "id": 804,
-          "paragraph_id": 533,
+          "id": 802,
+          "paragraph_id": 531,
           "text": "“..."
         },
         {
-          "id": 805,
-          "paragraph_id": 533,
+          "id": 803,
+          "paragraph_id": 531,
           "text": "That’s messed up” (Hibiki)"
         },
         {
-          "id": 806,
-          "paragraph_id": 534,
+          "id": 804,
+          "paragraph_id": 532,
           "text": "“Ahaha."
         },
         {
-          "id": 807,
-          "paragraph_id": 534,
+          "id": 805,
+          "paragraph_id": 532,
           "text": "There’s a hidden technique about this as well."
         },
         {
-          "id": 808,
-          "paragraph_id": 534,
+          "id": 806,
+          "paragraph_id": 532,
           "text": "You have to give up being a human, but if you change into a race that doesn’t grow old and has no lifespan, the demerit would disappear."
         },
         {
-          "id": 809,
-          "paragraph_id": 534,
+          "id": 807,
+          "paragraph_id": 532,
           "text": "If you weren’t black, you wouldn’t be able to use a power that interferes with time, but after leaving this place, there won’t be problems if you just forsake your humanity”"
         },
         {
-          "id": 810,
-          "paragraph_id": 535,
+          "id": 808,
+          "paragraph_id": 533,
           "text": "“Thanks for your kindness."
         },
         {
-          "id": 811,
-          "paragraph_id": 535,
+          "id": 809,
+          "paragraph_id": 533,
           "text": "A retry is, in essence, practically impossible huh” (Hibiki)"
         },
         {
-          "id": 812,
-          "paragraph_id": 536,
+          "id": 810,
+          "paragraph_id": 534,
           "text": "“Yeah."
         },
         {
-          "id": 813,
-          "paragraph_id": 536,
+          "id": 811,
+          "paragraph_id": 534,
           "text": "Time travel is a return, not a retry."
         },
         {
-          "id": 814,
-          "paragraph_id": 536,
+          "id": 812,
+          "paragraph_id": 534,
           "text": "If something like a loop is okay and if it’s a parallel world, it can be given to you at a low risk though”"
         },
         {
-          "id": 815,
-          "paragraph_id": 537,
+          "id": 813,
+          "paragraph_id": 535,
           "text": "“..."
         },
         {
-          "id": 816,
-          "paragraph_id": 537,
+          "id": 814,
+          "paragraph_id": 535,
           "text": "You, do you want me to have a power that can manipulate time?” (Hibiki)"
         },
         {
-          "id": 817,
-          "paragraph_id": 538,
+          "id": 815,
+          "paragraph_id": 536,
           "text": "“I only honestly answered your question, that’s all."
         },
         {
-          "id": 818,
-          "paragraph_id": 538,
+          "id": 816,
+          "paragraph_id": 536,
           "text": "No other meaning”"
         },
         {
-          "id": 819,
-          "paragraph_id": 539,
+          "id": 817,
+          "paragraph_id": 537,
           "text": "(If possible, I want something that can be used several times and the price is small."
+        },
+        {
+          "id": 818,
+          "paragraph_id": 537,
+          "text": "Something that can break-down the current situation) (Hibiki)"
+        },
+        {
+          "id": 819,
+          "paragraph_id": 538,
+          "text": "Being troubled, Hibiki sinks into silence."
         },
         {
           "id": 820,
           "paragraph_id": 539,
-          "text": "Something that can break-down the current situation) (Hibiki)"
-        },
-        {
-          "id": 821,
-          "paragraph_id": 540,
-          "text": "Being troubled, Hibiki sinks into silence."
-        },
-        {
-          "id": 822,
-          "paragraph_id": 541,
           "text": "The voice doesn’t seem to be giving any suggestions itself."
         },
         {
-          "id": 823,
-          "paragraph_id": 541,
+          "id": 821,
+          "paragraph_id": 539,
           "text": "It doesn’t propose anything."
         },
         {
-          "id": 824,
-          "paragraph_id": 542,
+          "id": 822,
+          "paragraph_id": 540,
           "text": "“..."
         },
         {
-          "id": 825,
-          "paragraph_id": 542,
+          "id": 823,
+          "paragraph_id": 540,
           "text": "Something that can disperse any magic."
         },
         {
-          "id": 826,
-          "paragraph_id": 542,
+          "id": 824,
+          "paragraph_id": 540,
           "text": "A dispel magic is possible?” (Hibiki)"
         },
         {
-          "id": 827,
-          "paragraph_id": 543,
+          "id": 825,
+          "paragraph_id": 541,
           "text": "“Uwa, what a boring power."
         },
         {
-          "id": 828,
-          "paragraph_id": 543,
+          "id": 826,
+          "paragraph_id": 541,
           "text": "Well, it is possible."
         },
         {
-          "id": 829,
-          "paragraph_id": 543,
+          "id": 827,
+          "paragraph_id": 541,
           "text": "The price would be magic power only."
         },
         {
-          "id": 830,
-          "paragraph_id": 543,
+          "id": 828,
+          "paragraph_id": 541,
           "text": "Right, if it’s the current you, you would be able to use it 5-6 times without any problems”"
         },
         {
-          "id": 831,
-          "paragraph_id": 544,
+          "id": 829,
+          "paragraph_id": 542,
           "text": "“I see."
         },
         {
-          "id": 832,
-          "paragraph_id": 544,
+          "id": 830,
+          "paragraph_id": 542,
           "text": "Meaning, there’s no permanent price, right?” (Hibiki)"
         },
         {
-          "id": 833,
-          "paragraph_id": 545,
+          "id": 831,
+          "paragraph_id": 543,
           "text": "“Yeah."
+        },
+        {
+          "id": 832,
+          "paragraph_id": 543,
+          "text": "But something like dispel, isn’t that kid there able to use it as well?”"
+        },
+        {
+          "id": 833,
+          "paragraph_id": 544,
+          "text": "The voice nonchalantly says something surprising."
         },
         {
           "id": 834,
           "paragraph_id": 545,
-          "text": "But something like dispel, isn’t that kid there able to use it as well?”"
+          "text": "“Ha?!”"
         },
         {
           "id": 835,
           "paragraph_id": 546,
-          "text": "The voice nonchalantly says something surprising."
-        },
-        {
-          "id": 836,
-          "paragraph_id": 547,
-          "text": "“Ha?!”"
-        },
-        {
-          "id": 837,
-          "paragraph_id": 548,
           "text": "“The kid fighting that giant."
         },
         {
-          "id": 838,
-          "paragraph_id": 548,
+          "id": 836,
+          "paragraph_id": 546,
           "text": "He said that he is able to use dispel."
         },
         {
-          "id": 839,
-          "paragraph_id": 548,
+          "id": 837,
+          "paragraph_id": 546,
           "text": "Another person is already able to use it."
         },
         {
-          "id": 840,
-          "paragraph_id": 548,
+          "id": 838,
+          "paragraph_id": 546,
           "text": "In other words, it is a power that can be obtained through effort."
         },
         {
-          "id": 841,
-          "paragraph_id": 548,
+          "id": 839,
+          "paragraph_id": 546,
           "text": "Isn’t that boring?”"
         },
         {
-          "id": 842,
-          "paragraph_id": 549,
+          "id": 840,
+          "paragraph_id": 547,
           "text": "“The white guy."
         },
         {
-          "id": 843,
-          "paragraph_id": 549,
+          "id": 841,
+          "paragraph_id": 547,
           "text": "That guy, he is able to do something like that?!” (Hibiki)"
         },
         {
-          "id": 844,
-          "paragraph_id": 550,
+          "id": 842,
+          "paragraph_id": 548,
           "text": "“Why don’t you try asking him?"
         },
         {
-          "id": 845,
-          "paragraph_id": 550,
+          "id": 843,
+          "paragraph_id": 548,
           "text": "If it’s your request, he might hear it out”"
         },
         {
-          "id": 846,
-          "paragraph_id": 551,
+          "id": 844,
+          "paragraph_id": 549,
           "text": "“..."
         },
         {
-          "id": 847,
-          "paragraph_id": 551,
+          "id": 845,
+          "paragraph_id": 549,
           "text": "Wait a moment."
         },
         {
-          "id": 848,
-          "paragraph_id": 551,
+          "id": 846,
+          "paragraph_id": 549,
           "text": "‘Him’?"
         },
         {
-          "id": 849,
-          "paragraph_id": 551,
+          "id": 847,
+          "paragraph_id": 549,
           "text": "Do you know that white guy?!"
         },
         {
-          "id": 850,
-          "paragraph_id": 551,
+          "id": 848,
+          "paragraph_id": 549,
           "text": "Could it be, he received that special effect hero set from here?!” (Hibiki)"
         },
         {
-          "id": 851,
-          "paragraph_id": 552,
+          "id": 849,
+          "paragraph_id": 550,
           "text": "“Buh- Hahahahaaha!!"
         },
         {
-          "id": 852,
-          "paragraph_id": 552,
+          "id": 850,
+          "paragraph_id": 550,
           "text": "There isn’t a single person that has wished for something as unsightly as that."
         },
         {
-          "id": 853,
-          "paragraph_id": 552,
+          "id": 851,
+          "paragraph_id": 550,
           "text": "Well, if asked if I know him, I do though."
         },
         {
-          "id": 854,
-          "paragraph_id": 552,
+          "id": 852,
+          "paragraph_id": 550,
           "text": "He is a hyuman after all."
         },
         {
-          "id": 855,
-          "paragraph_id": 552,
+          "id": 853,
+          "paragraph_id": 550,
           "text": "I wonder..."
         },
         {
-          "id": 856,
-          "paragraph_id": 552,
+          "id": 854,
+          "paragraph_id": 550,
           "text": "I don’t think he will ever come here”"
         },
         {
-          "id": 857,
-          "paragraph_id": 553,
+          "id": 855,
+          "paragraph_id": 551,
           "text": "“If you know him, you should be able to talk with him right?!"
         },
         {
-          "id": 858,
-          "paragraph_id": 553,
+          "id": 856,
+          "paragraph_id": 551,
           "text": "Hm?"
         },
         {
-          "id": 859,
-          "paragraph_id": 553,
+          "id": 857,
+          "paragraph_id": 551,
           "text": "If it’s my request he might hear it out?"
         },
         {
-          "id": 860,
-          "paragraph_id": 553,
+          "id": 858,
+          "paragraph_id": 551,
           "text": "Does that mean—?!” (Hibiki)"
         },
         {
-          "id": 861,
-          "paragraph_id": 554,
+          "id": 859,
+          "paragraph_id": 552,
           "text": "“Sadly to say but, he is not an acquaintance."
         },
         {
-          "id": 862,
-          "paragraph_id": 554,
+          "id": 860,
+          "paragraph_id": 552,
           "text": "I just one-sidedly know him."
         },
         {
-          "id": 863,
-          "paragraph_id": 554,
+          "id": 861,
+          "paragraph_id": 552,
           "text": "Also, I can’t be that supportive."
         },
         {
-          "id": 864,
-          "paragraph_id": 554,
+          "id": 862,
+          "paragraph_id": 552,
           "text": "Okay, this talk is over."
+        },
+        {
+          "id": 863,
+          "paragraph_id": 552,
+          "text": "Hibiki, decide your power”"
+        },
+        {
+          "id": 864,
+          "paragraph_id": 553,
+          "text": "“Kugh... you were the one who brought the topic!” (Hibiki)"
         },
         {
           "id": 865,
           "paragraph_id": 554,
-          "text": "Hibiki, decide your power”"
+          "text": "The voice stays silent."
         },
         {
           "id": 866,
           "paragraph_id": 555,
-          "text": "“Kugh... you were the one who brought the topic!” (Hibiki)"
+          "text": "Hibiki once again ponders."
         },
         {
           "id": 867,
           "paragraph_id": 556,
-          "text": "The voice stays silent."
+          "text": "“..."
         },
         {
           "id": 868,
-          "paragraph_id": 557,
-          "text": "Hibiki once again ponders."
+          "paragraph_id": 556,
+          "text": "In that case...”"
         },
         {
           "id": 869,
-          "paragraph_id": 558,
-          "text": "“..."
+          "paragraph_id": 557,
+          "text": "◇◆◇◆◇◆◇◆"
         },
         {
           "id": 870,
           "paragraph_id": 558,
-          "text": "In that case...”"
-        },
-        {
-          "id": 871,
-          "paragraph_id": 559,
-          "text": "◇◆◇◆◇◆◇◆"
-        },
-        {
-          "id": 872,
-          "paragraph_id": 560,
           "text": "“Too bad."
         },
         {
-          "id": 873,
-          "paragraph_id": 560,
+          "id": 871,
+          "paragraph_id": 558,
           "text": "That girl didn’t choose the time power."
         },
         {
-          "id": 874,
-          "paragraph_id": 560,
+          "id": 872,
+          "paragraph_id": 558,
           "text": "But even so, for her to imagine a power that is practically the ground of being a hero."
+        },
+        {
+          "id": 873,
+          "paragraph_id": 558,
+          "text": "Hmph hmph, that kind of power is a first”"
+        },
+        {
+          "id": 874,
+          "paragraph_id": 559,
+          "text": "The voice muttered in a space where no one is anymore."
         },
         {
           "id": 875,
           "paragraph_id": 560,
-          "text": "Hmph hmph, that kind of power is a first”"
+          "text": "Even when Hibiki is not there anymore, its appearance was nowhere to be found."
         },
         {
           "id": 876,
           "paragraph_id": 561,
-          "text": "The voice muttered in a space where no one is anymore."
-        },
-        {
-          "id": 877,
-          "paragraph_id": 562,
-          "text": "Even when Hibiki is not there anymore, its appearance was nowhere to be found."
-        },
-        {
-          "id": 878,
-          "paragraph_id": 563,
           "text": "“A power that is passively activated."
         },
         {
-          "id": 879,
-          "paragraph_id": 563,
+          "id": 877,
+          "paragraph_id": 561,
           "text": "To change the concept that people place on her into power, huh."
         },
         {
-          "id": 880,
-          "paragraph_id": 563,
+          "id": 878,
+          "paragraph_id": 561,
           "text": "She is a charismatic girl so, I wonder, just how much will this enlarge her?"
+        },
+        {
+          "id": 879,
+          "paragraph_id": 561,
+          "text": "The price was only to decrease her amount of magic power, so it is something she would soon get back anyways”"
+        },
+        {
+          "id": 880,
+          "paragraph_id": 562,
+          "text": "Hibiki’s guess was right."
         },
         {
           "id": 881,
           "paragraph_id": 563,
-          "text": "The price was only to decrease her amount of magic power, so it is something she would soon get back anyways”"
+          "text": "It seems like the voice was trying to make her choose the time travelling power."
         },
         {
           "id": 882,
           "paragraph_id": 564,
-          "text": "Hibiki’s guess was right."
+          "text": "It wasn’t thinking about it that strongly though."
         },
         {
           "id": 883,
           "paragraph_id": 565,
-          "text": "It seems like the voice was trying to make her choose the time travelling power."
+          "text": "“If she were to explosively create more parallel worlds, I thought I wouldn’t get bored though”"
         },
         {
           "id": 884,
           "paragraph_id": 566,
-          "text": "It wasn’t thinking about it that strongly though."
+          "text": "A slightly disappointed voice echoes in the empty space."
         },
         {
           "id": 885,
           "paragraph_id": 567,
-          "text": "“If she were to explosively create more parallel worlds, I thought I wouldn’t get bored though”"
+          "text": "◇◆◇◆◇◆◇◆"
         },
         {
           "id": 886,
           "paragraph_id": 568,
-          "text": "A slightly disappointed voice echoes in the empty space."
+          "text": "“What?”"
         },
         {
           "id": 887,
           "paragraph_id": 569,
-          "text": "◇◆◇◆◇◆◇◆"
+          "text": "“I have destroyed it, Larva-dono!"
         },
         {
           "id": 888,
-          "paragraph_id": 570,
-          "text": "“What?”"
+          "paragraph_id": 569,
+          "text": "I will be leaving okay?!” (Hibiki)"
         },
         {
           "id": 889,
-          "paragraph_id": 571,
-          "text": "“I have destroyed it, Larva-dono!"
+          "paragraph_id": 570,
+          "text": "With a level of power completely different from before, she destroyed the barrier from the inside."
         },
         {
           "id": 890,
           "paragraph_id": 571,
-          "text": "I will be leaving okay?!” (Hibiki)"
+          "text": "At the unknown power-up of the hero, Shiki reflexively turns around."
         },
         {
           "id": 891,
           "paragraph_id": 572,
-          "text": "With a level of power completely different from before, she destroyed the barrier from the inside."
-        },
-        {
-          "id": 892,
-          "paragraph_id": 573,
-          "text": "At the unknown power-up of the hero, Shiki reflexively turns around."
-        },
-        {
-          "id": 893,
-          "paragraph_id": 574,
           "text": "“You are practically a different person."
         },
         {
-          "id": 894,
-          "paragraph_id": 574,
+          "id": 892,
+          "paragraph_id": 572,
           "text": "Is that also the power of a hero?” (Shiki)"
         },
         {
-          "id": 895,
-          "paragraph_id": 575,
+          "id": 893,
+          "paragraph_id": 573,
           "text": "“That’s a secret."
         },
         {
-          "id": 896,
-          "paragraph_id": 575,
+          "id": 894,
+          "paragraph_id": 573,
           "text": "Do you intend to stop us?” (Hibiki)"
         },
         {
-          "id": 897,
-          "paragraph_id": 576,
+          "id": 895,
+          "paragraph_id": 574,
           "text": "“It’s master’s order after all."
+        },
+        {
+          "id": 896,
+          "paragraph_id": 574,
+          "text": "Hm?” (Shiki)"
+        },
+        {
+          "id": 897,
+          "paragraph_id": 575,
+          "text": "Shiki turns his gaze away from the spirited eyes of Hibiki, and looks at a certain place."
         },
         {
           "id": 898,
           "paragraph_id": 576,
-          "text": "Hm?” (Shiki)"
-        },
-        {
-          "id": 899,
-          "paragraph_id": 577,
-          "text": "Shiki turns his gaze away from the spirited eyes of Hibiki, and looks at a certain place."
-        },
-        {
-          "id": 900,
-          "paragraph_id": 578,
           "text": "There’s nothing."
         },
         {
-          "id": 901,
-          "paragraph_id": 578,
+          "id": 899,
+          "paragraph_id": 576,
           "text": "Hibiki thought that he was looking at a corner of the ceiling."
         },
         {
-          "id": 902,
-          "paragraph_id": 579,
+          "id": 900,
+          "paragraph_id": 577,
           "text": "“That helps!"
         },
         {
-          "id": 903,
-          "paragraph_id": 579,
+          "id": 901,
+          "paragraph_id": 577,
           "text": "I will be going now!” (Hibiki)"
         },
         {
-          "id": 904,
-          "paragraph_id": 580,
+          "id": 902,
+          "paragraph_id": 578,
           "text": "“No, wait!"
         },
         {
-          "id": 905,
-          "paragraph_id": 580,
+          "id": 903,
+          "paragraph_id": 578,
           "text": "Something is coming!"
+        },
+        {
+          "id": 904,
+          "paragraph_id": 578,
+          "text": "Master!” (Shiki)"
+        },
+        {
+          "id": 905,
+          "paragraph_id": 579,
+          "text": "Hibiki and the others use the opening he created to leave the audience room."
         },
         {
           "id": 906,
           "paragraph_id": 580,
-          "text": "Master!” (Shiki)"
+          "text": "While clicking his tongue, Shiki calls them out and Makoto as well."
         },
         {
           "id": 907,
           "paragraph_id": 581,
-          "text": "Hibiki and the others use the opening he created to leave the audience room."
+          "text": "Makoto who was fighting the shining Io, takes distance from Io the moment he hears Shiki’s words."
         },
         {
           "id": 908,
           "paragraph_id": 582,
-          "text": "While clicking his tongue, Shiki calls them out and Makoto as well."
+          "text": "But Io didn’t let him escape."
         },
         {
           "id": 909,
           "paragraph_id": 583,
-          "text": "Makoto who was fighting the shining Io, takes distance from Io the moment he hears Shiki’s words."
+          "text": "Within the multicolored storm of fists, Makoto was swallowed again."
         },
         {
           "id": 910,
           "paragraph_id": 584,
-          "text": "But Io didn’t let him escape."
-        },
-        {
-          "id": 911,
-          "paragraph_id": 585,
-          "text": "Within the multicolored storm of fists, Makoto was swallowed again."
-        },
-        {
-          "id": 912,
-          "paragraph_id": 586,
           "text": "“Larva!"
         },
         {
-          "id": 913,
-          "paragraph_id": 586,
+          "id": 911,
+          "paragraph_id": 584,
           "text": "It’s okay!"
         },
         {
-          "id": 914,
-          "paragraph_id": 586,
+          "id": 912,
+          "paragraph_id": 584,
           "text": "Go together with the hero!"
         },
         {
-          "id": 915,
-          "paragraph_id": 586,
+          "id": 913,
+          "paragraph_id": 584,
           "text": "I am leaving them in your hands."
         },
         {
-          "id": 916,
-          "paragraph_id": 586,
+          "id": 914,
+          "paragraph_id": 584,
           "text": "Are you serious?"
+        },
+        {
+          "id": 915,
+          "paragraph_id": 584,
+          "text": "In this situation, even you are coming, Sofia?!” (Makoto)"
+        },
+        {
+          "id": 916,
+          "paragraph_id": 585,
+          "text": "Maybe Makoto had a bit of leeway, he answers the voice of Shiki."
         },
         {
           "id": 917,
           "paragraph_id": 586,
-          "text": "In this situation, even you are coming, Sofia?!” (Makoto)"
+          "text": "He understood that the situation was deteriorating."
         },
         {
           "id": 918,
           "paragraph_id": 587,
-          "text": "Maybe Makoto had a bit of leeway, he answers the voice of Shiki."
-        },
-        {
-          "id": 919,
-          "paragraph_id": 588,
-          "text": "He understood that the situation was deteriorating."
-        },
-        {
-          "id": 920,
-          "paragraph_id": 589,
           "text": "“What are you saying?"
         },
         {
-          "id": 921,
-          "paragraph_id": 589,
+          "id": 919,
+          "paragraph_id": 587,
           "text": "Your opponent is me right?!"
         },
         {
-          "id": 922,
-          "paragraph_id": 589,
+          "id": 920,
+          "paragraph_id": 587,
           "text": "Or are you saying it is fine to chase after Hibiki?!” (Io)"
         },
         {
-          "id": 923,
-          "paragraph_id": 590,
+          "id": 921,
+          "paragraph_id": 588,
           "text": "“I can’t let you chase after the hero!"
         },
         {
-          "id": 924,
-          "paragraph_id": 590,
+          "id": 922,
+          "paragraph_id": 588,
           "text": "It should be fine to just do a rematch after the winter passes!"
         },
         {
-          "id": 925,
-          "paragraph_id": 590,
+          "id": 923,
+          "paragraph_id": 588,
           "text": "Withdraw!” (Makoto)"
         },
         {
-          "id": 926,
-          "paragraph_id": 591,
+          "id": 924,
+          "paragraph_id": 589,
           "text": "“A youngster like you that doesn’t even know about war, shouldn’t be prattling like you know!"
+        },
+        {
+          "id": 925,
+          "paragraph_id": 589,
+          "text": "It is necessary to defeat the threats no matter what!” (Io)"
+        },
+        {
+          "id": 926,
+          "paragraph_id": 590,
+          "text": "Makoto knew about the being that was drawing near."
         },
         {
           "id": 927,
           "paragraph_id": 591,
-          "text": "It is necessary to defeat the threats no matter what!” (Io)"
+          "text": "Inside of him, that person is the strongest opponent he has fought with."
         },
         {
           "id": 928,
           "paragraph_id": 592,
-          "text": "Makoto knew about the being that was drawing near."
+          "text": "An opponent he has clashed against with hostility, ill will, and bloodthirst."
         },
         {
           "id": 929,
           "paragraph_id": 593,
-          "text": "Inside of him, that person is the strongest opponent he has fought with."
-        },
-        {
-          "id": 930,
-          "paragraph_id": 594,
-          "text": "An opponent he has clashed against with hostility, ill will, and bloodthirst."
-        },
-        {
-          "id": 931,
-          "paragraph_id": 595,
           "text": "“They are planning on doing something!"
         },
         {
-          "id": 932,
-          "paragraph_id": 595,
+          "id": 930,
+          "paragraph_id": 593,
           "text": "Be careful!” (Makoto)"
         },
         {
-          "id": 933,
-          "paragraph_id": 596,
+          "id": 931,
+          "paragraph_id": 594,
           "text": "“Understood."
         },
         {
-          "id": 934,
-          "paragraph_id": 596,
+          "id": 932,
+          "paragraph_id": 594,
           "text": "I won’t let them see here."
         },
         {
-          "id": 935,
-          "paragraph_id": 596,
+          "id": 933,
+          "paragraph_id": 594,
           "text": "Depending on the situation, please go ahead and take it off” (Shiki)"
         },
         {
-          "id": 936,
-          "paragraph_id": 597,
+          "id": 934,
+          "paragraph_id": 595,
           "text": "“Understood."
+        },
+        {
+          "id": 935,
+          "paragraph_id": 595,
+          "text": "It will probably turn out that way” (Makoto)"
+        },
+        {
+          "id": 936,
+          "paragraph_id": 596,
+          "text": "Shiki turns his back towards Makoto and chases after the hero with teleportation."
         },
         {
           "id": 937,
           "paragraph_id": 597,
-          "text": "It will probably turn out that way” (Makoto)"
+          "text": "Makoto saw off his follower as he felt his suit creak at the fists that have increased its power to a stupidly high level."
         },
         {
           "id": 938,
           "paragraph_id": 598,
-          "text": "Shiki turns his back towards Makoto and chases after the hero with teleportation."
+          "text": "Changing his [Sakai] from perception to strengthening, he makes a recovery."
         },
         {
           "id": 939,
           "paragraph_id": 599,
-          "text": "Makoto saw off his follower as he felt his suit creak at the fists that have increased its power to a stupidly high level."
+          "text": "While at it, he clashed his fist against the fist that was approaching him with all he had, and a recoil occurred."
         },
         {
           "id": 940,
           "paragraph_id": 600,
-          "text": "Changing his [Sakai] from perception to strengthening, he makes a recovery."
+          "text": "Distance was created between them once again."
         },
         {
           "id": 941,
           "paragraph_id": 601,
-          "text": "While at it, he clashed his fist against the fist that was approaching him with all he had, and a recoil occurred."
+          "text": "Without magic, he also had no winning move, is something he has thought as well."
         },
         {
           "id": 942,
           "paragraph_id": 602,
-          "text": "Distance was created between them once again."
+          "text": "As long as the time is up, Makoto thought that his win would be decided."
         },
         {
           "id": 943,
-          "paragraph_id": 603,
-          "text": "Without magic, he also had no winning move, is something he has thought as well."
+          "paragraph_id": 602,
+          "text": "And there was no chance he would lose."
         },
         {
           "id": 944,
-          "paragraph_id": 604,
-          "text": "As long as the time is up, Makoto thought that his win would be decided."
+          "paragraph_id": 603,
+          "text": "For Makoto who was trying not to immerse too much into the fight, he was even thinking about having Io live if it was possible."
         },
         {
           "id": 945,
           "paragraph_id": 604,
-          "text": "And there was no chance he would lose."
+          "text": "If it’s an enemy, he will kill."
         },
         {
           "id": 946,
           "paragraph_id": 605,
-          "text": "For Makoto who was trying not to immerse too much into the fight, he was even thinking about having Io live if it was possible."
+          "text": "Right now he was fighting in a way that he doesn’t have to enter that step."
         },
         {
           "id": 947,
           "paragraph_id": 606,
-          "text": "If it’s an enemy, he will kill."
+          "text": "But if the enemies increase, the story changes."
         },
         {
           "id": 948,
           "paragraph_id": 607,
-          "text": "Right now he was fighting in a way that he doesn’t have to enter that step."
+          "text": "Shiki’s words were a grateful thing for Makoto."
         },
         {
           "id": 949,
           "paragraph_id": 608,
-          "text": "But if the enemies increase, the story changes."
+          "text": "Because if he is able to use magic, his safety levels will increase after all."
         },
         {
           "id": 950,
           "paragraph_id": 609,
-          "text": "Shiki’s words were a grateful thing for Makoto."
+          "text": "Increasing his physical attacks is not an advantage in any way for his current self."
         },
         {
           "id": 951,
           "paragraph_id": 610,
-          "text": "Because if he is able to use magic, his safety levels will increase after all."
+          "text": "The suit has no merit aside from hiding his appearance."
         },
         {
           "id": 952,
           "paragraph_id": 611,
-          "text": "Increasing his physical attacks is not an advantage in any way for his current self."
+          "text": "That’s why he let Hibiki go."
         },
         {
           "id": 953,
           "paragraph_id": 612,
-          "text": "The suit has no merit aside from hiding his appearance."
+          "text": "If Shiki accompanies her, he judged that she would be safe."
         },
         {
           "id": 954,
           "paragraph_id": 613,
-          "text": "That’s why he let Hibiki go."
+          "text": "Because he knows that Sofia will definitely aim for him."
         },
         {
           "id": 955,
           "paragraph_id": 614,
-          "text": "If Shiki accompanies her, he judged that she would be safe."
+          "text": "Makoto had a strange confidence in this."
         },
         {
           "id": 956,
           "paragraph_id": 615,
-          "text": "Because he knows that Sofia will definitely aim for him."
+          "text": "Makoto looks above in an annoyed manner."
         },
         {
           "id": 957,
           "paragraph_id": 616,
-          "text": "Makoto had a strange confidence in this."
+          "text": "—At that moment."
         },
         {
           "id": 958,
           "paragraph_id": 617,
-          "text": "Makoto looks above in an annoyed manner."
+          "text": "A countless number of swords rained down on the capital."
         },
         {
           "id": 959,
           "paragraph_id": 618,
-          "text": "—At that moment."
+          "text": "A light and an explosion."
         },
         {
           "id": 960,
           "paragraph_id": 619,
-          "text": "A countless number of swords rained down on the capital."
-        },
-        {
-          "id": 961,
-          "paragraph_id": 620,
-          "text": "A light and an explosion."
-        },
-        {
-          "id": 962,
-          "paragraph_id": 621,
           "text": "It looked like the metropolis of Limia Kingdom was approaching destruction."
         }
       ],
-      "word_count": 9254
+      "word_count": 9252
     },
     {
       "chapter_index": 158,
@@ -21944,7 +21932,7 @@
         "“The effect of Rose Sign is gone” (Io)",
         "“... I see. Do you have any words you want to leave? No matter who, I will take responsibility and make sure those words reach that person” (Rona)",
         "“No well, that man Raidou, cut it off” (Io)",
-        "“....”",
+        "“...”",
         "“While the Rose Sign was activated, Raidou forcefully negated the Rose Sign. I don’t know what he did though” (Io)",
         "“... Eh? Then, could that mean...” (Rona)",
         "“... It is still not certain that I will die” (Io)",
@@ -21981,7 +21969,7 @@
         "What impressive life power.",
         "I was strangely moved by the battle junky.",
         "“Let’s go for a rematch, Devil Raidou!” (Sofia)",
-        "“.....”",
+        "“...”",
         "“?!”",
         "“Devil?!”",
         "Placing the one-handed sword that has some sort of red light clad on it and has extended its reach to the front, Sofia charges at me.",
@@ -24022,7 +24010,7 @@
         {
           "id": 389,
           "paragraph_id": 268,
-          "text": "“....”"
+          "text": "“...”"
         },
         {
           "id": 390,
@@ -24272,7 +24260,7 @@
         {
           "id": 439,
           "paragraph_id": 305,
-          "text": "“.....”"
+          "text": "“...”"
         },
         {
           "id": 440,
@@ -27509,7 +27497,7 @@
       "paragraphs": [
         "At the center of the spacious room, there’s an extravagant bed with canopy attached.",
         "In the interior of this room that is fit for late nights, at times it would turn silent, and at others it was filled with a rattling sounds of hitting something and a high-pitched laugh.",
-        "“Fufufufu.... Incredible, this is incredible!! So this is an otherworlder. This is a human! It easily does things that I wouldn’t be able to imagine!”",
+        "“Fufufufu... Incredible, this is incredible!! So this is an otherworlder. This is a human! It easily does things that I wouldn’t be able to imagine!”",
         "If the people who knew the usual him that is never perturbed by anything and always makes a gentle smile, and saw this scene of him flailing his legs and rolling his body left and right, they would be left speechless.",
         "This place is his own room.",
         "A boundary that he ordered no one to get close to.",
@@ -27615,7 +27603,7 @@
         {
           "id": 2,
           "paragraph_id": 2,
-          "text": "“Fufufufu...."
+          "text": "“Fufufufu..."
         },
         {
           "id": 3,
@@ -35458,7 +35446,7 @@
         "Since there aren’t any seas in Asora, huh.",
         "「If possible, I wished to speak to you regarding the lectures for the students later, but it seems that would be best saved for another day.」(Shiki)",
         "「I don’t really mind. For now, we’re still focused on the city’s restoration so I don’t think we’re in any hurry. More importantly. Shiki, you should drink some Japanese alcohol too, it starts to feel lighter after a while.」(Makoto)",
-        "「... I thought it was a considerably strong drink. I had some earlier, but I think it would be best enjoyed in small amounts from a small cup like Tomoe-dono is doing....」(Shiki)",
+        "「... I thought it was a considerably strong drink. I had some earlier, but I think it would be best enjoyed in small amounts from a small cup like Tomoe-dono is doing...」(Shiki)",
         "「... Alright. Well then, for now, I’ll give you this one and get myself a new one.」",
         "I hand Shiki my tankard, which is about seventy percent full.",
         "For some reason, Shiki has a defeated look on his face.",
@@ -36960,7 +36948,7 @@
         {
           "id": 266,
           "paragraph_id": 193,
-          "text": "I had some earlier, but I think it would be best enjoyed in small amounts from a small cup like Tomoe-dono is doing....」(Shiki)"
+          "text": "I had some earlier, but I think it would be best enjoyed in small amounts from a small cup like Tomoe-dono is doing...」(Shiki)"
         },
         {
           "id": 267,
@@ -58174,20 +58162,20 @@
         "The three at the back of Tomoki-kun had a specially dazed expression.",
         "Everyone is sexy, but just like what I said before, because of the charm power, it felt like something was stuck in my nose and it was nauseating.",
         "“I didn’t think I would encounter a Japanese male. Ah, take a sit.” (Tomoki)",
-        "“......” (Makoto)",
+        "“...” (Makoto)",
         "Being urged on, I sit.",
         "How to say this; is he like this with anyone?",
         "“Now then, let’s open our chests and speak to our heart’s content. For the time being, there’s something I definitely have to firmly request from you guys in this occasion. Is it okay to say this first?” (Tomoki)",
         "“Fine but, I am two years older than you, Tomoki-kun. Don’t you use formal speech with your senpais?” (Makoto)",
         "“Hah? Why would I do that for a stranger just because he was born earlier? I am the type of person that feels like changing one’s behavior depending on the person are the ones who are rude.” (Tomoki)",
-        "Being born earlier, and the fact that I am a stranger.... For me, this is plenty reason to be using formal speech though.",
+        "Being born earlier, and the fact that I am a stranger... For me, this is plenty reason to be using formal speech though.",
         "Hibiki-senpai, if you knew he was this kind of person, please tell me beforehand.",
         "If you had done that, I would have been able to come here with my expectations low.",
         "...Probably.",
-        "“...... I see.” (Makoto)",
+        "“... I see.” (Makoto)",
         "“In the first place, if you are talking about being formal, you who are a mere merchant should be the one being formal since I am the hero. You who changed your behavior because we are the same Japanese and have an age difference, shouldn’t be speaking about others, right? Our social standpoints hold precedence over seniority after all.” (Tomoki)",
         "“...”",
-        "...... Is this guy serious?",
+        "... Is this guy serious?",
         "I see. I can kind of understand why Tomoe hates him.",
         "Leaving aside every single word he says, I can tell that he is trying to interpret everything in a way that fits him better.",
         "Not only double standards, he feels like the type that would easily place triple to quadruple standards.",
@@ -59351,7 +59339,7 @@
         {
           "id": 228,
           "paragraph_id": 160,
-          "text": "“......” (Makoto)"
+          "text": "“...” (Makoto)"
         },
         {
           "id": 229,
@@ -59406,7 +59394,7 @@
         {
           "id": 239,
           "paragraph_id": 166,
-          "text": "Being born earlier, and the fact that I am a stranger...."
+          "text": "Being born earlier, and the fact that I am a stranger..."
         },
         {
           "id": 240,
@@ -59431,7 +59419,7 @@
         {
           "id": 244,
           "paragraph_id": 170,
-          "text": "“......"
+          "text": "“..."
         },
         {
           "id": 245,
@@ -59461,7 +59449,7 @@
         {
           "id": 250,
           "paragraph_id": 173,
-          "text": "......"
+          "text": "..."
         },
         {
           "id": 251,
@@ -91094,7 +91082,7 @@
         "Tomoe said it as if it were common knowledge though.",
         "So it was rare information?!",
         "“Then, all that’s left is to wait for the signal to begin.” (Makoto)",
-        "“....”",
+        "“...”",
         "For some reason, the Demon Generals make a strange expression.",
         "We did introduce ourselves and the announcement has finished, so next would be the signal of: ‘FIGHT!’, right?",
         "“Eh? It seems like it isn’t beginning.” (Makoto)",
@@ -91105,7 +91093,7 @@
         "“The only thing I was told by his Majesty was to lightly show my strength.” (Makoto)",
         "“Umu. In that case, regarding the fight...” (Io)",
         "“Yes, it is fine to just fight with everyone, right?” (Makoto)",
-        "“....”",
+        "“...”",
         "I-Is that not the case?",
         "“Raidou-dono, could it be that you are intending to fight us all at once?” (Io)",
         "“Eh? That’s not how it was?” (Makoto)",
@@ -92096,7 +92084,7 @@
         {
           "id": 98,
           "paragraph_id": 75,
-          "text": "“....”"
+          "text": "“...”"
         },
         {
           "id": 99,
@@ -92161,7 +92149,7 @@
         {
           "id": 111,
           "paragraph_id": 86,
-          "text": "“....”"
+          "text": "“...”"
         },
         {
           "id": 112,
@@ -96314,7 +96302,6 @@
         "Damn it.",
         "Damn it!!",
         "I...",
-        "......",
         "“Sari, you will probably regret it. The fact that you rashly pushed that stigma.”",
         "“No, I will never regret it in my whole life. As long as Goshujin-sama doesn’t order it.” (Sari)",
         "“...Please stop that way of talking. It is okay to speak in a way you are most comfortable with.” (Makoto)",
@@ -102177,1250 +102164,1245 @@
         {
           "id": 1139,
           "paragraph_id": 853,
-          "text": "......"
+          "text": "“Sari, you will probably regret it."
         },
         {
           "id": 1140,
-          "paragraph_id": 854,
-          "text": "“Sari, you will probably regret it."
+          "paragraph_id": 853,
+          "text": "The fact that you rashly pushed that stigma.”"
         },
         {
           "id": 1141,
           "paragraph_id": 854,
-          "text": "The fact that you rashly pushed that stigma.”"
+          "text": "“No, I will never regret it in my whole life."
         },
         {
           "id": 1142,
-          "paragraph_id": 855,
-          "text": "“No, I will never regret it in my whole life."
+          "paragraph_id": 854,
+          "text": "As long as Goshujin-sama doesn’t order it.” (Sari)"
         },
         {
           "id": 1143,
           "paragraph_id": 855,
-          "text": "As long as Goshujin-sama doesn’t order it.” (Sari)"
+          "text": "“...Please stop that way of talking."
         },
         {
           "id": 1144,
-          "paragraph_id": 856,
-          "text": "“...Please stop that way of talking."
+          "paragraph_id": 855,
+          "text": "It is okay to speak in a way you are most comfortable with.” (Makoto)"
         },
         {
           "id": 1145,
           "paragraph_id": 856,
-          "text": "It is okay to speak in a way you are most comfortable with.” (Makoto)"
+          "text": "“...Understood."
         },
         {
           "id": 1146,
-          "paragraph_id": 857,
-          "text": "“...Understood."
+          "paragraph_id": 856,
+          "text": "I will do that, Goshujin-sama.” (Sari)"
         },
         {
           "id": 1147,
           "paragraph_id": 857,
-          "text": "I will do that, Goshujin-sama.” (Sari)"
+          "text": "We have stopped within the blizzard."
         },
         {
           "id": 1148,
           "paragraph_id": 858,
-          "text": "We have stopped within the blizzard."
+          "text": "The eyes of the demon race can’t reach us already."
         },
         {
           "id": 1149,
           "paragraph_id": 859,
-          "text": "The eyes of the demon race can’t reach us already."
+          "text": "As long as she isn’t dead, Shiki is able to interfere with magic, so it is a relief."
         },
         {
           "id": 1150,
           "paragraph_id": 860,
-          "text": "As long as she isn’t dead, Shiki is able to interfere with magic, so it is a relief."
+          "text": "That’s why we are stopping in such a place."
         },
         {
           "id": 1151,
           "paragraph_id": 861,
-          "text": "That’s why we are stopping in such a place."
-        },
-        {
-          "id": 1152,
-          "paragraph_id": 862,
           "text": "“Waka-sama is way too kind-desu wa."
         },
         {
-          "id": 1153,
-          "paragraph_id": 862,
+          "id": 1152,
+          "paragraph_id": 861,
           "text": "She is not a dog or a cat, so it will be troublesome to go around picking them up so nonchalantly."
+        },
+        {
+          "id": 1153,
+          "paragraph_id": 861,
+          "text": "This kind of girl can’t even serve as an object.” (Mio)"
         },
         {
           "id": 1154,
           "paragraph_id": 862,
-          "text": "This kind of girl can’t even serve as an object.” (Mio)"
+          "text": "“I did have a suspicion that you would take her in, but what will you be doing?"
         },
         {
           "id": 1155,
-          "paragraph_id": 863,
-          "text": "“I did have a suspicion that you would take her in, but what will you be doing?"
+          "paragraph_id": 862,
+          "text": "It will be hard to have a demon as a clerk after all.” (Shiki)"
         },
         {
           "id": 1156,
           "paragraph_id": 863,
-          "text": "It will be hard to have a demon as a clerk after all.” (Shiki)"
+          "text": "I did think."
         },
         {
           "id": 1157,
           "paragraph_id": 864,
-          "text": "I did think."
+          "text": "I did think and think, and in the end, my decision at that moment was to save her."
         },
         {
           "id": 1158,
           "paragraph_id": 865,
-          "text": "I did think and think, and in the end, my decision at that moment was to save her."
+          "text": "There was plenty chance to abandon her."
         },
         {
           "id": 1159,
           "paragraph_id": 866,
-          "text": "There was plenty chance to abandon her."
+          "text": "In truth, I was terribly troubled."
         },
         {
           "id": 1160,
           "paragraph_id": 867,
-          "text": "In truth, I was terribly troubled."
+          "text": "I don’t think this will be comfortable for Sari who has been doing her best as a demon race member till now."
         },
         {
           "id": 1161,
           "paragraph_id": 868,
-          "text": "I don’t think this will be comfortable for Sari who has been doing her best as a demon race member till now."
+          "text": "That’s why I think that she will be leading a harsh life from now on."
         },
         {
           "id": 1162,
           "paragraph_id": 869,
-          "text": "That’s why I think that she will be leading a harsh life from now on."
+          "text": "I will have her prepare herself for that."
         },
         {
           "id": 1163,
           "paragraph_id": 870,
-          "text": "I will have her prepare herself for that."
+          "text": "She is actually able to choose death with my words, so I won’t let her complain."
         },
         {
           "id": 1164,
           "paragraph_id": 871,
-          "text": "She is actually able to choose death with my words, so I won’t let her complain."
+          "text": "“If Rotsgard and Tsige are no good, then there’s only one other place left.” (Makoto)"
         },
         {
           "id": 1165,
           "paragraph_id": 872,
-          "text": "“If Rotsgard and Tsige are no good, then there’s only one other place left.” (Makoto)"
+          "text": "“Ah, Kaleneon huh."
         },
         {
           "id": 1166,
-          "paragraph_id": 873,
-          "text": "“Ah, Kaleneon huh."
+          "paragraph_id": 872,
+          "text": "In that place, even if it’s a demon...well, we will have her do her best as demon citizen number 1.” (Shiki)"
         },
         {
           "id": 1167,
           "paragraph_id": 873,
-          "text": "In that place, even if it’s a demon...well, we will have her do her best as demon citizen number 1.” (Shiki)"
+          "text": "Shiki thought it was Kaleneon and assents."
         },
         {
           "id": 1168,
           "paragraph_id": 874,
-          "text": "Shiki thought it was Kaleneon and assents."
+          "text": "That wasn’t it."
         },
         {
           "id": 1169,
           "paragraph_id": 875,
-          "text": "That wasn’t it."
+          "text": "It is clear that Kaleneon would come to mind, and there was also Zef’s conversation about having demons live there as well, but I was thinking of having a relative amount of demons live there at once, so having Sari as the number one citizen is no good."
         },
         {
           "id": 1170,
           "paragraph_id": 876,
-          "text": "It is clear that Kaleneon would come to mind, and there was also Zef’s conversation about having demons live there as well, but I was thinking of having a relative amount of demons live there at once, so having Sari as the number one citizen is no good."
+          "text": "For the sake of the future, I don’t think that’s possible."
         },
         {
           "id": 1171,
           "paragraph_id": 877,
-          "text": "For the sake of the future, I don’t think that’s possible."
+          "text": "“No, I will be bringing her to Asora.” (Makoto)"
         },
         {
           "id": 1172,
           "paragraph_id": 878,
-          "text": "“No, I will be bringing her to Asora.” (Makoto)"
+          "text": "“!”"
         },
         {
           "id": 1173,
           "paragraph_id": 879,
-          "text": "“!”"
+          "text": "“I have decided that.” (Makoto)"
         },
         {
           "id": 1174,
           "paragraph_id": 880,
-          "text": "“I have decided that.” (Makoto)"
+          "text": "“Waka-sama, even in that place, she will be all alone, you know?"
         },
         {
           "id": 1175,
-          "paragraph_id": 881,
-          "text": "“Waka-sama, even in that place, she will be all alone, you know?"
+          "paragraph_id": 880,
+          "text": "There’s no other demon after all.” (Mio)"
         },
         {
           "id": 1176,
           "paragraph_id": 881,
-          "text": "There’s no other demon after all.” (Mio)"
+          "text": "“Moreover, it is a classified location of the Kuzunoha Company."
         },
         {
           "id": 1177,
-          "paragraph_id": 882,
-          "text": "“Moreover, it is a classified location of the Kuzunoha Company."
+          "paragraph_id": 881,
+          "text": "Until we have investigated if there’s any sort of modification done to the ritual, I think that it would be best to avoid that.” (Shiki)"
         },
         {
           "id": 1178,
           "paragraph_id": 882,
-          "text": "Until we have investigated if there’s any sort of modification done to the ritual, I think that it would be best to avoid that.” (Shiki)"
-        },
-        {
-          "id": 1179,
-          "paragraph_id": 883,
           "text": "“It is fine."
         },
         {
-          "id": 1180,
-          "paragraph_id": 883,
+          "id": 1179,
+          "paragraph_id": 882,
           "text": "I won’t be letting Sari out of there for the rest of her life."
         },
         {
-          "id": 1181,
-          "paragraph_id": 883,
+          "id": 1180,
+          "paragraph_id": 882,
           "text": "That’s why, no matter what she does or what she learns, there will be no point."
+        },
+        {
+          "id": 1181,
+          "paragraph_id": 882,
+          "text": "It will be like living her whole life working in a prison that she will not be able to escape.” (Makoto)"
         },
         {
           "id": 1182,
           "paragraph_id": 883,
-          "text": "It will be like living her whole life working in a prison that she will not be able to escape.” (Makoto)"
+          "text": "“No matter where Goshujin-sama takes me, I will not object.” (Sari)"
         },
         {
           "id": 1183,
           "paragraph_id": 884,
-          "text": "“No matter where Goshujin-sama takes me, I will not object.” (Sari)"
-        },
-        {
-          "id": 1184,
-          "paragraph_id": 885,
           "text": "“Yeah, I know."
         },
         {
-          "id": 1185,
-          "paragraph_id": 885,
+          "id": 1184,
+          "paragraph_id": 884,
           "text": "I will be taking you there now."
+        },
+        {
+          "id": 1185,
+          "paragraph_id": 884,
+          "text": "To the eternal prison that will be your last destination.” (Makoto)"
         },
         {
           "id": 1186,
           "paragraph_id": 885,
-          "text": "To the eternal prison that will be your last destination.” (Makoto)"
+          "text": "If she can, at the very least, forget about her position in the demon race and find something else to strive for, my guilt should lessen a bit."
         },
         {
           "id": 1187,
           "paragraph_id": 886,
-          "text": "If she can, at the very least, forget about her position in the demon race and find something else to strive for, my guilt should lessen a bit."
+          "text": "Unable to abandon her, and yet, can’t take her directly."
         },
         {
           "id": 1188,
           "paragraph_id": 887,
-          "text": "Unable to abandon her, and yet, can’t take her directly."
+          "text": "I do think that it is a half-assed decision."
         },
         {
           "id": 1189,
           "paragraph_id": 888,
-          "text": "I do think that it is a half-assed decision."
+          "text": "It is because of the ritual’s reaction that I was able to decide this."
         },
         {
           "id": 1190,
           "paragraph_id": 889,
-          "text": "It is because of the ritual’s reaction that I was able to decide this."
+          "text": "That’s my only haven but...I am still naive huh."
         },
         {
           "id": 1191,
           "paragraph_id": 890,
-          "text": "That’s my only haven but...I am still naive huh."
+          "text": "Honestly, when I created the arms, I delved way too deep and felt strange."
         },
         {
           "id": 1192,
-          "paragraph_id": 891,
-          "text": "Honestly, when I created the arms, I delved way too deep and felt strange."
+          "paragraph_id": 890,
+          "text": "That’s probably why I wanted to obey this feeling of pity towards Sari."
         },
         {
           "id": 1193,
           "paragraph_id": 891,
-          "text": "That’s probably why I wanted to obey this feeling of pity towards Sari."
+          "text": "It’s been awhile since I have returned to Asora, and with a new resident at that."
         },
         {
           "id": 1194,
           "paragraph_id": 892,
-          "text": "It’s been awhile since I have returned to Asora, and with a new resident at that."
+          "text": "What a heavy feeling this is."
         },
         {
           "id": 1195,
           "paragraph_id": 893,
-          "text": "What a heavy feeling this is."
+          "text": "At this rate, I might need a change of mood."
         },
         {
           "id": 1196,
           "paragraph_id": 894,
-          "text": "At this rate, I might need a change of mood."
+          "text": "My magic power hasn’t completely recovered yet, so let’s partake on relaxation for a while."
         },
         {
           "id": 1197,
           "paragraph_id": 895,
-          "text": "My magic power hasn’t completely recovered yet, so let’s partake on relaxation for a while."
+          "text": "◇◆◇◆◇◆◇◆"
         },
         {
           "id": 1198,
           "paragraph_id": 896,
-          "text": "◇◆◇◆◇◆◇◆"
+          "text": "Ah, I have done it now."
         },
         {
           "id": 1199,
           "paragraph_id": 897,
-          "text": "Ah, I have done it now."
+          "text": "This may be the worst."
         },
         {
           "id": 1200,
           "paragraph_id": 898,
-          "text": "This may be the worst."
+          "text": "I am looking at a dream."
         },
         {
           "id": 1201,
           "paragraph_id": 899,
-          "text": "I am looking at a dream."
+          "text": "It is that dream."
         },
         {
           "id": 1202,
           "paragraph_id": 900,
-          "text": "It is that dream."
+          "text": "I was quite tired, so I should have rested at Rotsgard instead of Asora."
         },
         {
           "id": 1203,
           "paragraph_id": 901,
-          "text": "I was quite tired, so I should have rested at Rotsgard instead of Asora."
+          "text": "What a blunder."
         },
         {
           "id": 1204,
           "paragraph_id": 902,
-          "text": "What a blunder."
-        },
-        {
-          "id": 1205,
-          "paragraph_id": 903,
           "text": "In this pitch black space, I instinctively knew it was that strange dream."
         },
         {
-          "id": 1206,
-          "paragraph_id": 903,
+          "id": 1205,
+          "paragraph_id": 902,
           "text": "The dream that not even Tomoe is able to investigate."
+        },
+        {
+          "id": 1206,
+          "paragraph_id": 902,
+          "text": "I have realized that I am looking at it."
         },
         {
           "id": 1207,
           "paragraph_id": 903,
-          "text": "I have realized that I am looking at it."
+          "text": "I still don’t see anything, but I think that there’s a me that’s not me again."
         },
         {
           "id": 1208,
           "paragraph_id": 904,
-          "text": "I still don’t see anything, but I think that there’s a me that’s not me again."
+          "text": "...Hah..."
         },
         {
           "id": 1209,
           "paragraph_id": 905,
-          "text": "...Hah..."
+          "text": "(Hate...)"
         },
         {
           "id": 1210,
           "paragraph_id": 906,
-          "text": "(Hate...)"
+          "text": "Hm?"
         },
         {
           "id": 1211,
           "paragraph_id": 907,
-          "text": "Hm?"
-        },
-        {
-          "id": 1212,
-          "paragraph_id": 908,
           "text": "(I hate it."
         },
         {
-          "id": 1213,
-          "paragraph_id": 908,
+          "id": 1212,
+          "paragraph_id": 907,
           "text": "I hate everything."
         },
         {
-          "id": 1214,
-          "paragraph_id": 908,
+          "id": 1213,
+          "paragraph_id": 907,
           "text": "The Goddess, this shitty world, and the people that live in that place as well."
         },
         {
-          "id": 1215,
-          "paragraph_id": 908,
+          "id": 1214,
+          "paragraph_id": 907,
           "text": "That woman that acts as a good person and utilizes as much as she can utilize; that idiotic brat that is creating a harem and trying to put his hands on the belongings of others."
+        },
+        {
+          "id": 1215,
+          "paragraph_id": 907,
+          "text": "Everything makes me wanna puke!)"
         },
         {
           "id": 1216,
           "paragraph_id": 908,
-          "text": "Everything makes me wanna puke!)"
+          "text": "Again, what an extreme way of thinking we have here."
         },
         {
           "id": 1217,
           "paragraph_id": 909,
-          "text": "Again, what an extreme way of thinking we have here."
+          "text": "I can affirm the points of the world being cruel and about the Goddess, but the one playing as a saint...could it be Senpai?"
         },
         {
           "id": 1218,
           "paragraph_id": 910,
-          "text": "I can affirm the points of the world being cruel and about the Goddess, but the one playing as a saint...could it be Senpai?"
+          "text": "The idiotic brat is definitely Tomoki."
         },
         {
           "id": 1219,
           "paragraph_id": 911,
-          "text": "The idiotic brat is definitely Tomoki."
+          "text": "Different from the patterns until now, my field of vision is totally zero, but I think this are my thoughts."
         },
         {
           "id": 1220,
           "paragraph_id": 912,
-          "text": "Different from the patterns until now, my field of vision is totally zero, but I think this are my thoughts."
+          "text": "Did something happen for me to hate the two heroes this much?"
         },
         {
           "id": 1221,
           "paragraph_id": 913,
-          "text": "Did something happen for me to hate the two heroes this much?"
+          "text": "The circumstances and the situation are in all honesty completely remote to me, so I can’t even begin to imagine."
         },
         {
           "id": 1222,
           "paragraph_id": 914,
-          "text": "The circumstances and the situation are in all honesty completely remote to me, so I can’t even begin to imagine."
+          "text": "(...And yet...)"
         },
         {
           "id": 1223,
           "paragraph_id": 915,
-          "text": "(...And yet...)"
+          "text": "Eh?"
         },
         {
           "id": 1224,
           "paragraph_id": 916,
-          "text": "Eh?"
+          "text": "Something is strange."
         },
         {
           "id": 1225,
           "paragraph_id": 917,
-          "text": "Something is strange."
+          "text": "Or more like, something is welling up from within me."
         },
         {
           "id": 1226,
           "paragraph_id": 918,
-          "text": "Or more like, something is welling up from within me."
+          "text": "This is a first."
         },
         {
           "id": 1227,
           "paragraph_id": 919,
-          "text": "This is a first."
-        },
-        {
-          "id": 1228,
-          "paragraph_id": 920,
           "text": "(Why is it that no matter how much I kill, and kill, and kill, and kill, I don’t feel anything?"
         },
         {
-          "id": 1229,
-          "paragraph_id": 920,
+          "id": 1228,
+          "paragraph_id": 919,
           "text": "If I take revenge, if I have retaliated; there should be a sense of fulfillment."
+        },
+        {
+          "id": 1229,
+          "paragraph_id": 919,
+          "text": "Why is it that no matter how many I kill, I don’t feel any happiness?)"
         },
         {
           "id": 1230,
           "paragraph_id": 920,
-          "text": "Why is it that no matter how many I kill, I don’t feel any happiness?)"
+          "text": "Uuuh!!"
         },
         {
           "id": 1231,
           "paragraph_id": 921,
-          "text": "Uuuh!!"
+          "text": "Disgus...ting!"
         },
         {
           "id": 1232,
           "paragraph_id": 922,
-          "text": "Disgus...ting!"
+          "text": "It feels as if someone has plunged its hand inside my stomach and stirring it up while being blindfolded, going round and round."
         },
         {
           "id": 1233,
           "paragraph_id": 923,
-          "text": "It feels as if someone has plunged its hand inside my stomach and stirring it up while being blindfolded, going round and round."
+          "text": "No good!"
         },
         {
           "id": 1234,
           "paragraph_id": 924,
-          "text": "No good!"
+          "text": "Still having this feeling to vomit, I open my mouth."
         },
         {
           "id": 1235,
           "paragraph_id": 925,
-          "text": "Still having this feeling to vomit, I open my mouth."
+          "text": "Nothing is coming out."
         },
         {
           "id": 1236,
           "paragraph_id": 926,
-          "text": "Nothing is coming out."
+          "text": "Well, this is a dream after all."
         },
         {
           "id": 1237,
           "paragraph_id": 927,
-          "text": "Well, this is a dream after all."
+          "text": "It might be because of that."
         },
         {
           "id": 1238,
           "paragraph_id": 928,
-          "text": "It might be because of that."
+          "text": "But my self that is in the bedroom must be...having the worst sensation."
         },
         {
           "id": 1239,
           "paragraph_id": 929,
-          "text": "But my self that is in the bedroom must be...having the worst sensation."
+          "text": "I have declared my defeat and opened my mouth while having this nauseating feeling to vomit, and yet, it still wasn’t letting me go."
         },
         {
           "id": 1240,
           "paragraph_id": 930,
-          "text": "I have declared my defeat and opened my mouth while having this nauseating feeling to vomit, and yet, it still wasn’t letting me go."
+          "text": "It continues to provide me the same terrible sensation."
         },
         {
           "id": 1241,
           "paragraph_id": 931,
-          "text": "It continues to provide me the same terrible sensation."
+          "text": "I can’t take this."
         },
         {
           "id": 1242,
           "paragraph_id": 932,
-          "text": "I can’t take this."
+          "text": "This is truly hell."
         },
         {
           "id": 1243,
           "paragraph_id": 933,
-          "text": "This is truly hell."
+          "text": "Spare me please."
         },
         {
           "id": 1244,
           "paragraph_id": 934,
-          "text": "Spare me please."
-        },
-        {
-          "id": 1245,
-          "paragraph_id": 935,
           "text": "(Should I kill more?"
         },
         {
-          "id": 1246,
-          "paragraph_id": 935,
+          "id": 1245,
+          "paragraph_id": 934,
           "text": "The Goddess and this world...and the trash that live in it."
+        },
+        {
+          "id": 1246,
+          "paragraph_id": 934,
+          "text": "If I slaughter them all, will I be able to obtain slight happiness?)"
         },
         {
           "id": 1247,
           "paragraph_id": 935,
-          "text": "If I slaughter them all, will I be able to obtain slight happiness?)"
+          "text": "Stop it."
         },
         {
           "id": 1248,
           "paragraph_id": 936,
-          "text": "Stop it."
+          "text": "Your voice is making me feel even worse."
         },
         {
           "id": 1249,
           "paragraph_id": 937,
-          "text": "Your voice is making me feel even worse."
+          "text": "I wanted to restrain that vomiting sensation as much as possible, and wish for the monologue I am hearing to stop."
         },
         {
           "id": 1250,
           "paragraph_id": 938,
-          "text": "I wanted to restrain that vomiting sensation as much as possible, and wish for the monologue I am hearing to stop."
-        },
-        {
-          "id": 1251,
-          "paragraph_id": 939,
           "text": "(I can’t return anymore."
         },
         {
-          "id": 1252,
-          "paragraph_id": 939,
+          "id": 1251,
+          "paragraph_id": 938,
           "text": "There’s no allies anymore."
         },
         {
-          "id": 1253,
-          "paragraph_id": 939,
+          "id": 1252,
+          "paragraph_id": 938,
           "text": "Everyone is an enemy."
         },
         {
-          "id": 1254,
-          "paragraph_id": 939,
+          "id": 1253,
+          "paragraph_id": 938,
           "text": "In that case, I have to bring death to the hostility."
         },
         {
-          "id": 1255,
-          "paragraph_id": 939,
+          "id": 1254,
+          "paragraph_id": 938,
           "text": "That way, the dangers will reduce."
         },
         {
-          "id": 1256,
-          "paragraph_id": 939,
+          "id": 1255,
+          "paragraph_id": 938,
           "text": "I will slaughter everyone."
         },
         {
-          "id": 1257,
-          "paragraph_id": 939,
+          "id": 1256,
+          "paragraph_id": 938,
           "text": "Children will become adults, and women will give birth to children."
+        },
+        {
+          "id": 1257,
+          "paragraph_id": 938,
+          "text": "Before I am killed, I will...)"
         },
         {
           "id": 1258,
           "paragraph_id": 939,
-          "text": "Before I am killed, I will...)"
+          "text": "Stooop it!!!"
         },
         {
           "id": 1259,
           "paragraph_id": 940,
-          "text": "Stooop it!!!"
+          "text": "Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting!"
         },
         {
           "id": 1260,
           "paragraph_id": 941,
-          "text": "Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting Disgusting!"
+          "text": "Anyone is fine!"
         },
         {
           "id": 1261,
           "paragraph_id": 942,
-          "text": "Anyone is fine!"
+          "text": "This nausea, this dream...erase it please!!"
         },
         {
           "id": 1262,
           "paragraph_id": 943,
-          "text": "This nausea, this dream...erase it please!!"
+          "text": "“Sorry, boy."
         },
         {
           "id": 1263,
-          "paragraph_id": 944,
-          "text": "“Sorry, boy."
+          "paragraph_id": 943,
+          "text": "It seems like my gift has done a bit of evil.”"
         },
         {
           "id": 1264,
           "paragraph_id": 944,
-          "text": "It seems like my gift has done a bit of evil.”"
+          "text": "“Ah, eh?”"
         },
         {
           "id": 1265,
           "paragraph_id": 945,
-          "text": "“Ah, eh?”"
+          "text": "There’s a being that has heard the screams of my heart."
         },
         {
           "id": 1266,
           "paragraph_id": 946,
-          "text": "There’s a being that has heard the screams of my heart."
-        },
-        {
-          "id": 1267,
-          "paragraph_id": 947,
           "text": "“It’s not that long to be saying it’s been awhile huh."
         },
         {
-          "id": 1268,
-          "paragraph_id": 947,
+          "id": 1267,
+          "paragraph_id": 946,
           "text": "We have met again, boy."
+        },
+        {
+          "id": 1268,
+          "paragraph_id": 946,
+          "text": "Do you remember me?”"
         },
         {
           "id": 1269,
           "paragraph_id": 947,
-          "text": "Do you remember me?”"
+          "text": "“Ah...Daikokuten-sama?” (Makoto)"
         },
         {
           "id": 1270,
           "paragraph_id": 948,
-          "text": "“Ah...Daikokuten-sama?” (Makoto)"
+          "text": "“Umu, I am happy that you remember me."
         },
         {
           "id": 1271,
-          "paragraph_id": 949,
-          "text": "“Umu, I am happy that you remember me."
+          "paragraph_id": 948,
+          "text": "You have been seeing weird dreams for a while now, right?” (Daikokuten)"
         },
         {
           "id": 1272,
           "paragraph_id": 949,
-          "text": "You have been seeing weird dreams for a while now, right?” (Daikokuten)"
+          "text": "“...Yes.” (Makoto)"
         },
         {
           "id": 1273,
           "paragraph_id": 950,
-          "text": "“...Yes.” (Makoto)"
+          "text": "“About how much do you remember of its contents?” (Daikokuten)"
         },
         {
           "id": 1274,
           "paragraph_id": 951,
-          "text": "“About how much do you remember of its contents?” (Daikokuten)"
+          "text": "“All of them were of a different me speaking with someone else.” (Makoto)"
         },
         {
           "id": 1275,
           "paragraph_id": 952,
-          "text": "“All of them were of a different me speaking with someone else.” (Makoto)"
+          "text": "“...Fumu.” (Daikokuten)"
         },
         {
           "id": 1276,
           "paragraph_id": 953,
-          "text": "“...Fumu.” (Daikokuten)"
-        },
-        {
-          "id": 1277,
-          "paragraph_id": 954,
           "text": "“What are those?"
         },
         {
-          "id": 1278,
-          "paragraph_id": 954,
+          "id": 1277,
+          "paragraph_id": 953,
           "text": "Are they my future?"
+        },
+        {
+          "id": 1278,
+          "paragraph_id": 953,
+          "text": "The kind that’s telling me what’s awaiting me ahead?” (Makoto)"
         },
         {
           "id": 1279,
           "paragraph_id": 954,
-          "text": "The kind that’s telling me what’s awaiting me ahead?” (Makoto)"
+          "text": "“Fufu, boy, that’s a sly way of asking."
         },
         {
           "id": 1280,
-          "paragraph_id": 955,
-          "text": "“Fufu, boy, that’s a sly way of asking."
+          "paragraph_id": 954,
+          "text": "You have already guessed that that’s not the case.” (Daikokuten)"
         },
         {
           "id": 1281,
           "paragraph_id": 955,
-          "text": "You have already guessed that that’s not the case.” (Daikokuten)"
+          "text": "“That’s...” (Makoto)"
         },
         {
           "id": 1282,
           "paragraph_id": 956,
-          "text": "“That’s...” (Makoto)"
-        },
-        {
-          "id": 1283,
-          "paragraph_id": 957,
           "text": "“It is fine."
         },
         {
-          "id": 1284,
-          "paragraph_id": 957,
+          "id": 1283,
+          "paragraph_id": 956,
           "text": "It is no mistake that it was my blunder after all."
+        },
+        {
+          "id": 1284,
+          "paragraph_id": 956,
+          "text": "Just like what you think, this is a self of yours that has advanced a different path from you.” (Daikokuten)"
         },
         {
           "id": 1285,
           "paragraph_id": 957,
-          "text": "Just like what you think, this is a self of yours that has advanced a different path from you.” (Daikokuten)"
+          "text": "“In other words, this is a story of me in a world that’s not my current one?” (Makoto)"
         },
         {
           "id": 1286,
           "paragraph_id": 958,
-          "text": "“In other words, this is a story of me in a world that’s not my current one?” (Makoto)"
-        },
-        {
-          "id": 1287,
-          "paragraph_id": 959,
           "text": "“...It is and it is not."
         },
         {
-          "id": 1288,
-          "paragraph_id": 959,
+          "id": 1287,
+          "paragraph_id": 958,
           "text": "Well, even if I explain it to you in detail, you wouldn’t be able to understand."
         },
         {
-          "id": 1289,
-          "paragraph_id": 959,
+          "id": 1288,
+          "paragraph_id": 958,
           "text": "Don’t worry, having that much understanding is not something you have to mind."
+        },
+        {
+          "id": 1289,
+          "paragraph_id": 958,
+          "text": "Boy, it is fine to just continue living as you have without minding it.” (Daikokuten)"
         },
         {
           "id": 1290,
           "paragraph_id": 959,
-          "text": "Boy, it is fine to just continue living as you have without minding it.” (Daikokuten)"
+          "text": "Saying that, Daikokuten-sama was standing right in front of me without changing his gentle expression."
         },
         {
           "id": 1291,
           "paragraph_id": 960,
-          "text": "Saying that, Daikokuten-sama was standing right in front of me without changing his gentle expression."
+          "text": "That darkness, the nausea that I couldn’t escape from, and the dull headache; all of it has disappeared."
         },
         {
           "id": 1292,
           "paragraph_id": 961,
-          "text": "That darkness, the nausea that I couldn’t escape from, and the dull headache; all of it has disappeared."
+          "text": "Of course, that voice as well."
         },
         {
           "id": 1293,
           "paragraph_id": 962,
-          "text": "Of course, that voice as well."
+          "text": "Even if I can’t see the morning sun, a very dim light like that of the early morning was beginning to envelop the area."
         },
         {
           "id": 1294,
           "paragraph_id": 963,
-          "text": "Even if I can’t see the morning sun, a very dim light like that of the early morning was beginning to envelop the area."
+          "text": "That’s why I can’t see Daikokuten-sama’s figure well."
         },
         {
           "id": 1295,
           "paragraph_id": 964,
-          "text": "That’s why I can’t see Daikokuten-sama’s figure well."
+          "text": "I can only see his expression and a bit of his ornamental articles, and all else, I could only see them faintly."
         },
         {
           "id": 1296,
           "paragraph_id": 965,
-          "text": "I can only see his expression and a bit of his ornamental articles, and all else, I could only see them faintly."
+          "text": "My face must be a mess with tears and snot, so being brighter is actually a bit embarrassing."
         },
         {
           "id": 1297,
           "paragraph_id": 966,
-          "text": "My face must be a mess with tears and snot, so being brighter is actually a bit embarrassing."
+          "text": "My thoughts had recovered to the point that I was able to think that way."
         },
         {
           "id": 1298,
           "paragraph_id": 967,
-          "text": "My thoughts had recovered to the point that I was able to think that way."
+          "text": "“But what was that nausea just now?” (Makoto)"
         },
         {
           "id": 1299,
           "paragraph_id": 968,
-          "text": "“But what was that nausea just now?” (Makoto)"
-        },
-        {
-          "id": 1300,
-          "paragraph_id": 969,
           "text": "“This time it must have linked with an existence quite close to you, boy."
         },
         {
-          "id": 1301,
-          "paragraph_id": 969,
+          "id": 1300,
+          "paragraph_id": 968,
           "text": "That must be why you didn’t ‘see’ but ‘feel’."
+        },
+        {
+          "id": 1301,
+          "paragraph_id": 968,
+          "text": "That person’s feelings.” (Daikokuten)"
         },
         {
           "id": 1302,
           "paragraph_id": 969,
-          "text": "That person’s feelings.” (Daikokuten)"
+          "text": "“Those were...feelings?” (Makoto)"
         },
         {
           "id": 1303,
           "paragraph_id": 970,
-          "text": "“Those were...feelings?” (Makoto)"
+          "text": "It wasn’t something as simple as that you know?!"
         },
         {
           "id": 1304,
           "paragraph_id": 971,
-          "text": "It wasn’t something as simple as that you know?!"
-        },
-        {
-          "id": 1305,
-          "paragraph_id": 972,
           "text": "“...People will gather a variety of experiences, and will live their life while carrying a variety of emotions."
         },
         {
-          "id": 1306,
-          "paragraph_id": 972,
+          "id": 1305,
+          "paragraph_id": 971,
           "text": "That person, at that scene, had his emotions at its peak while thinking that he doesn’t feel anything."
         },
         {
-          "id": 1307,
-          "paragraph_id": 972,
+          "id": 1306,
+          "paragraph_id": 971,
           "text": "Confusion, despair, anger, sorrow; a lot of emotions were settled and were whirling."
         },
         {
-          "id": 1308,
-          "paragraph_id": 972,
+          "id": 1307,
+          "paragraph_id": 971,
           "text": "If you boy who doesn’t share any of the experiences he had, suddenly enters here and tastes them, there’s no way you would be able to process them."
+        },
+        {
+          "id": 1308,
+          "paragraph_id": 971,
+          "text": "That was the identity of your unpleasantness.” (Daikokuten)"
         },
         {
           "id": 1309,
           "paragraph_id": 972,
-          "text": "That was the identity of your unpleasantness.” (Daikokuten)"
+          "text": "“Don’t worry."
         },
         {
           "id": 1310,
-          "paragraph_id": 973,
-          "text": "“Don’t worry."
+          "paragraph_id": 972,
+          "text": "The chance to fall in that kind of situation is quite low.” (Daikokuten)"
         },
         {
           "id": 1311,
           "paragraph_id": 973,
-          "text": "The chance to fall in that kind of situation is quite low.” (Daikokuten)"
+          "text": "Daikokuten-sama showed me a relieving smile."
         },
         {
           "id": 1312,
           "paragraph_id": 974,
-          "text": "Daikokuten-sama showed me a relieving smile."
+          "text": "A confirmation from a God huh, I am grateful."
         },
         {
           "id": 1313,
           "paragraph_id": 975,
-          "text": "A confirmation from a God huh, I am grateful."
+          "text": "But..."
         },
         {
           "id": 1314,
           "paragraph_id": 976,
-          "text": "But..."
+          "text": "“Thanks.” (Makoto)"
         },
         {
           "id": 1315,
           "paragraph_id": 977,
-          "text": "“Thanks.” (Makoto)"
-        },
-        {
-          "id": 1316,
-          "paragraph_id": 978,
           "text": "“Even if you say that, you are not convincing, boy."
         },
         {
-          "id": 1317,
-          "paragraph_id": 978,
+          "id": 1316,
+          "paragraph_id": 977,
           "text": "It isn’t good to speak too much about other worlds, but as a form of apology, I will tell you a bit."
         },
         {
-          "id": 1318,
-          "paragraph_id": 978,
+          "id": 1317,
+          "paragraph_id": 977,
           "text": "Listen well, you are the only one, boy."
         },
         {
-          "id": 1319,
-          "paragraph_id": 978,
+          "id": 1318,
+          "paragraph_id": 977,
           "text": "The only Misumi Makoto that was able to accomplish Creation."
         },
         {
-          "id": 1320,
-          "paragraph_id": 978,
+          "id": 1319,
+          "paragraph_id": 977,
           "text": "In other words, at that moment, at the instant you created those arms, it is safe to say that you have begun walking a different path from all the Misumi Makotos."
         },
         {
-          "id": 1321,
-          "paragraph_id": 978,
+          "id": 1320,
+          "paragraph_id": 977,
           "text": "There’s no problem in forgetting the dreams you have had until now."
+        },
+        {
+          "id": 1321,
+          "paragraph_id": 977,
+          "text": "Actually, it is a waste to use them as reference and be dragged into them, you know?” (Daikokuten)"
         },
         {
           "id": 1322,
           "paragraph_id": 978,
-          "text": "Actually, it is a waste to use them as reference and be dragged into them, you know?” (Daikokuten)"
+          "text": "Creation?"
         },
         {
           "id": 1323,
           "paragraph_id": 979,
-          "text": "Creation?"
+          "text": "Ah, those silver arms huh."
         },
         {
           "id": 1324,
           "paragraph_id": 980,
-          "text": "Ah, those silver arms huh."
+          "text": "The ones that Shiki brought back to Asora."
         },
         {
           "id": 1325,
           "paragraph_id": 981,
-          "text": "The ones that Shiki brought back to Asora."
+          "text": "It’s been awhile since I have seen Tomoe that excited."
         },
         {
           "id": 1326,
           "paragraph_id": 982,
-          "text": "It’s been awhile since I have seen Tomoe that excited."
+          "text": "But I only gave substance to the magic power, and I feel like it is different from Creation."
         },
         {
           "id": 1327,
           "paragraph_id": 983,
-          "text": "But I only gave substance to the magic power, and I feel like it is different from Creation."
+          "text": "“Creation?"
         },
         {
           "id": 1328,
-          "paragraph_id": 984,
-          "text": "“Creation?"
+          "paragraph_id": 983,
+          "text": "No, I think that wasn’t Creation, but something more forceful though?” (Makoto)"
         },
         {
           "id": 1329,
           "paragraph_id": 984,
-          "text": "No, I think that wasn’t Creation, but something more forceful though?” (Makoto)"
-        },
-        {
-          "id": 1330,
-          "paragraph_id": 985,
           "text": "“There’s no forceful or flexible in Creation."
         },
         {
-          "id": 1331,
-          "paragraph_id": 985,
+          "id": 1330,
+          "paragraph_id": 984,
           "text": "Using magic power, you create something that doesn’t exist from zero."
         },
         {
-          "id": 1332,
-          "paragraph_id": 985,
+          "id": 1331,
+          "paragraph_id": 984,
           "text": "That’s, in other words, Creation."
+        },
+        {
+          "id": 1332,
+          "paragraph_id": 984,
+          "text": "Boy, you may be thinking that Creation is an impressive thing like giving birth to a world, but ‘increasing’ the amount of rocks in this world is enough to be called Creation, you know?” (Daikokuten)"
         },
         {
           "id": 1333,
           "paragraph_id": 985,
-          "text": "Boy, you may be thinking that Creation is an impressive thing like giving birth to a world, but ‘increasing’ the amount of rocks in this world is enough to be called Creation, you know?” (Daikokuten)"
+          "text": "I feel like that’s pretty impressive."
         },
         {
           "id": 1334,
           "paragraph_id": 986,
-          "text": "I feel like that’s pretty impressive."
+          "text": "Because even Tsukuyomi-sama said that the power of Creation is something special."
         },
         {
           "id": 1335,
           "paragraph_id": 987,
-          "text": "Because even Tsukuyomi-sama said that the power of Creation is something special."
+          "text": "I thought that what I did was to change the substance of magic power though."
         },
         {
           "id": 1336,
           "paragraph_id": 988,
-          "text": "I thought that what I did was to change the substance of magic power though."
+          "text": "“Uhm, in that case, haven’t I done something outrageous?” (Makoto)"
         },
         {
           "id": 1337,
           "paragraph_id": 989,
-          "text": "“Uhm, in that case, haven’t I done something outrageous?” (Makoto)"
-        },
-        {
-          "id": 1338,
-          "paragraph_id": 990,
           "text": "“Yeah, you did."
         },
         {
-          "id": 1339,
-          "paragraph_id": 990,
+          "id": 1338,
+          "paragraph_id": 989,
           "text": "A power that a limited amount of Gods are able to use, you have accomplished it with the body of a mortal after all."
+        },
+        {
+          "id": 1339,
+          "paragraph_id": 989,
+          "text": "If the Goddess and us didn’t have collars restraining us, we would have already flown to your place in an instant and begun war.” (Daikokuten)"
         },
         {
           "id": 1340,
           "paragraph_id": 990,
-          "text": "If the Goddess and us didn’t have collars restraining us, we would have already flown to your place in an instant and begun war.” (Daikokuten)"
+          "text": "Ah, can’t laugh at that."
         },
         {
           "id": 1341,
           "paragraph_id": 991,
-          "text": "Ah, can’t laugh at that."
+          "text": "That was incredibly dangerous."
         },
         {
           "id": 1342,
           "paragraph_id": 992,
-          "text": "That was incredibly dangerous."
-        },
-        {
-          "id": 1343,
-          "paragraph_id": 993,
           "text": "“That’s because one of the reasons that brought this was our order of having you practice with your bow and increasing your magic power after all."
         },
         {
-          "id": 1344,
-          "paragraph_id": 993,
+          "id": 1343,
+          "paragraph_id": 992,
           "text": "To think that you would actually leave it to raw power...no well, I am truly impressed."
+        },
+        {
+          "id": 1344,
+          "paragraph_id": 992,
+          "text": "It’s been awhile since my blood has boiled.” (Daikokuten)"
         },
         {
           "id": 1345,
           "paragraph_id": 993,
-          "text": "It’s been awhile since my blood has boiled.” (Daikokuten)"
+          "text": "...I think that having Daikokuten-sama’s blood boil is dangerous."
         },
         {
           "id": 1346,
           "paragraph_id": 994,
-          "text": "...I think that having Daikokuten-sama’s blood boil is dangerous."
+          "text": "Incredibly dangerous."
         },
         {
           "id": 1347,
           "paragraph_id": 995,
-          "text": "Incredibly dangerous."
-        },
-        {
-          "id": 1348,
-          "paragraph_id": 996,
           "text": "“Well, it is a good inclination."
         },
         {
-          "id": 1349,
-          "paragraph_id": 996,
+          "id": 1348,
+          "paragraph_id": 995,
           "text": "Makoto, hear me out."
         },
         {
-          "id": 1350,
-          "paragraph_id": 996,
+          "id": 1349,
+          "paragraph_id": 995,
           "text": "You can’t let your principles grow and perform a royal road."
         },
         {
-          "id": 1351,
-          "paragraph_id": 996,
+          "id": 1350,
+          "paragraph_id": 995,
           "text": "You also can’t let your emotions grow and advance a path of military rule."
         },
         {
-          "id": 1352,
-          "paragraph_id": 996,
+          "id": 1351,
+          "paragraph_id": 995,
           "text": "Slowly, it is fine to do it slowly, so think about the future, and decide in a way that you think is good."
         },
         {
-          "id": 1353,
-          "paragraph_id": 996,
+          "id": 1352,
+          "paragraph_id": 995,
           "text": "You probably have already noticed yourself, but you are carrying a troublesome thing that would normally make you unable to open your eyes anymore."
         },
         {
-          "id": 1354,
-          "paragraph_id": 996,
+          "id": 1353,
+          "paragraph_id": 995,
           "text": "Without being engulfed by it, slowly advance as a mortal, okay?"
         },
         {
-          "id": 1355,
-          "paragraph_id": 996,
+          "id": 1354,
+          "paragraph_id": 995,
           "text": "Don’t just run away from destruction."
         },
         {
-          "id": 1356,
-          "paragraph_id": 996,
+          "id": 1355,
+          "paragraph_id": 995,
           "text": "In that point, your decision regarding that demon girl was good."
+        },
+        {
+          "id": 1356,
+          "paragraph_id": 995,
+          "text": "As a Lord, that decision would have been bad, but as a human being, it wasn’t bad.” (Daikokuten)"
         },
         {
           "id": 1357,
           "paragraph_id": 996,
-          "text": "As a Lord, that decision would have been bad, but as a human being, it wasn’t bad.” (Daikokuten)"
+          "text": "“...I will think properly before acting."
         },
         {
           "id": 1358,
-          "paragraph_id": 997,
-          "text": "“...I will think properly before acting."
+          "paragraph_id": 996,
+          "text": "Sorry.” (Makoto)"
         },
         {
           "id": 1359,
           "paragraph_id": 997,
-          "text": "Sorry.” (Makoto)"
-        },
-        {
-          "id": 1360,
-          "paragraph_id": 998,
           "text": "“Oh, that wasn’t a sermon, sorry."
         },
         {
-          "id": 1361,
-          "paragraph_id": 998,
+          "id": 1360,
+          "paragraph_id": 997,
           "text": "It is a problem that I fostered myself after all."
         },
         {
-          "id": 1362,
-          "paragraph_id": 998,
+          "id": 1361,
+          "paragraph_id": 997,
           "text": "A dragon, a spider, and a corpse huh."
+        },
+        {
+          "id": 1362,
+          "paragraph_id": 997,
+          "text": "You have truly gotten yourself interesting servants, and the next one...” (Daikokuten)"
         },
         {
           "id": 1363,
           "paragraph_id": 998,
-          "text": "You have truly gotten yourself interesting servants, and the next one...” (Daikokuten)"
+          "text": "“Next one?” (Makoto)"
         },
         {
           "id": 1364,
           "paragraph_id": 999,
-          "text": "“Next one?” (Makoto)"
-        },
-        {
-          "id": 1365,
-          "paragraph_id": 1000,
           "text": "“Ah...Kuku, oops."
         },
         {
-          "id": 1366,
-          "paragraph_id": 1000,
+          "id": 1365,
+          "paragraph_id": 999,
           "text": "No good."
         },
         {
-          "id": 1367,
-          "paragraph_id": 1000,
+          "id": 1366,
+          "paragraph_id": 999,
           "text": "When I am talking to you boy, my mouth loosens up."
         },
         {
-          "id": 1368,
-          "paragraph_id": 1000,
+          "id": 1367,
+          "paragraph_id": 999,
           "text": "Anyways, I will make it so you don’t see those kind of dreams again."
         },
         {
-          "id": 1369,
-          "paragraph_id": 1000,
+          "id": 1368,
+          "paragraph_id": 999,
           "text": "Wake up once, and wash your face before going to rest again."
+        },
+        {
+          "id": 1369,
+          "paragraph_id": 999,
+          "text": "It will get busy in the morning.” (Daikokuten)"
         },
         {
           "id": 1370,
           "paragraph_id": 1000,
-          "text": "It will get busy in the morning.” (Daikokuten)"
+          "text": "“Morning?” (Makoto)"
         },
         {
           "id": 1371,
           "paragraph_id": 1001,
-          "text": "“Morning?” (Makoto)"
-        },
-        {
-          "id": 1372,
-          "paragraph_id": 1002,
           "text": "“Fuh, I will stop talking."
         },
         {
-          "id": 1373,
-          "paragraph_id": 1002,
+          "id": 1372,
+          "paragraph_id": 1001,
           "text": "Well then boy...in time, I would like you to use those silver arms to receive my *Pinaka*."
+        },
+        {
+          "id": 1373,
+          "paragraph_id": 1001,
+          "text": "I am looking forward to meeting you again in flesh.” (Daikokuten)"
         },
         {
           "id": 1374,
           "paragraph_id": 1002,
-          "text": "I am looking forward to meeting you again in flesh.” (Daikokuten)"
+          "text": "Without leaving a trace, Daikokuten-sama’s figure disappears."
         },
         {
           "id": 1375,
           "paragraph_id": 1003,
-          "text": "Without leaving a trace, Daikokuten-sama’s figure disappears."
+          "text": "And then, I lift up my upper half from the bed."
         },
         {
           "id": 1376,
           "paragraph_id": 1004,
-          "text": "And then, I lift up my upper half from the bed."
+          "text": "I didn’t...vomit, great."
         },
         {
           "id": 1377,
           "paragraph_id": 1005,
-          "text": "I didn’t...vomit, great."
+          "text": "I blink a few times, and after that, I went to wash my face."
         },
         {
           "id": 1378,
           "paragraph_id": 1006,
-          "text": "I blink a few times, and after that, I went to wash my face."
+          "text": "The time is still around 00:00 o’clock."
         },
         {
           "id": 1379,
           "paragraph_id": 1007,
-          "text": "The time is still around 00:00 o’clock."
+          "text": "There were a lot of ominous things, but the one who stopped that nightmare was the same Daikokuten-sama."
         },
         {
           "id": 1380,
           "paragraph_id": 1008,
-          "text": "There were a lot of ominous things, but the one who stopped that nightmare was the same Daikokuten-sama."
+          "text": "I don’t know what reason he had to come here."
         },
         {
           "id": 1381,
           "paragraph_id": 1009,
-          "text": "I don’t know what reason he had to come here."
+          "text": "Could it be...it was only for my sake?"
         },
         {
           "id": 1382,
           "paragraph_id": 1010,
-          "text": "Could it be...it was only for my sake?"
+          "text": "No, I don’t think a God would do that."
         },
         {
           "id": 1383,
           "paragraph_id": 1011,
-          "text": "No, I don’t think a God would do that."
+          "text": "...In the first place, there’s no way I can understand the true reasons of a God huh."
         },
         {
           "id": 1384,
           "paragraph_id": 1012,
-          "text": "...In the first place, there’s no way I can understand the true reasons of a God huh."
+          "text": "Let’s go to sleep."
         },
         {
           "id": 1385,
           "paragraph_id": 1013,
-          "text": "Let’s go to sleep."
+          "text": "God did tell me to."
         },
         {
           "id": 1386,
           "paragraph_id": 1014,
-          "text": "God did tell me to."
-        },
-        {
-          "id": 1387,
-          "paragraph_id": 1015,
           "text": "Yeah, let’s sleep."
         }
       ],
-      "word_count": 16198
+      "word_count": 16197
     },
     {
       "chapter_index": 193,

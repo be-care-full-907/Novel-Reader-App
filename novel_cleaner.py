@@ -50,7 +50,19 @@ HOMOGLYPH_TRANSLATION = str.maketrans({
 })
 
 # Watermark domain pattern for NovelPing, NovelBin, and FreeWebNovel
-WATERMARK_DOMAIN = r'(?:novel\s*ping|novel\s*bin|freewebnovel)(?:[\s\(\[\{]*(?:\.|\bdot\b)[\s\)\]\}]*com)?'
+WATERMARK_DOMAIN = r'(?:novel\s*ping|freewebnovel|novel\s*bin|vipnovel|webnovel)(?:[\s\(\[\{]*(?:\.|\bdot\b)[\s\)\]\}]*(?:com|live|net|org|\(?c\)?\(?o\)?\(?m\)?))?'
+
+PROMO_ACTION_WATERMARK = (
+    r'(?:'
+    r'(?:This|The|Your)[-_ ]+[^.!?\n]{0,35}?[-_ ]+'
+    r'|(?:Continue|Enjoy|Read|Experience|Find|Discover|Explore|Stay|Don[\'’]t[-_ ]*miss|Follow|Visit|Get|New)[-_ ]+[^.!?\n]{0,35}?[-_ ]+'
+    r'|(?:Exclusive|New|More|Latest)[-_ ]+(?:content|stories|tales|chapters|adventures|read)[-_ ]+'
+    r'|(?:hosted|story|chapter|updates?|source)[-_ ]+(?:on|by|at|from)[-_ ]*'
+    r'|hosted[-_ ]*(?:on|by|at|from)?[-_ ]*'
+    r')'
+    r'(?:at|from|with|on|via|through|to|by|fro)?[-_ ]*'
+    rf'{WATERMARK_DOMAIN}'
+)
 
 # NovelPing & pirate site injected anti-scrape watermark clauses
 NOVELPING_WATERMARK_REGEX = re.compile(
@@ -68,6 +80,11 @@ NOVELPING_WATERMARK_REGEX = re.compile(
     rf'|New\s+chapters\s+come\s+out\s+on\s+{WATERMARK_DOMAIN}(?:\s+first)?'
     rf'|Enjoying\s+the\s+story\?\s*Read\s+on\s+at\s+{WATERMARK_DOMAIN}'
     rf'|Read\s+(?:this\s+novel\s+at|the\s+latest\s+chapters\s+at|on\s+at|on)\s+{WATERMARK_DOMAIN}(?:\s+for\s+the\s+best\s+experience)?'
+    rf'|{PROMO_ACTION_WATERMARK}'
+    rf'|{WATERMARK_DOMAIN}[-_ ]+(?:your[-_ ]+)?(?:story|stories|chapters?|updates?|sources?|novels?)[^\n.!?]*'
+    rf'|Cheaper\s+than\s+{WATERMARK_DOMAIN}[^\n.!?]*'
+    rf'|MESSAGE:\s*My\s+Werewolf\s+system\s+is\s+now\s+out\s+on\s+{WATERMARK_DOMAIN}[^\n.!?]*'
+    rf'|(?<=[\.\!\?\"\'”’\)\}}])\s*(?:f\s*ree)?{WATERMARK_DOMAIN}\.?\s*$'
     r')'
     r'[\s\)\]\'\"”’\.]*',
     re.I
@@ -330,10 +347,16 @@ def clean_paragraph_text(text: str) -> str:
     if any(k in text.lower() for k in ['patreon', 'ko-fi', 'paypal', 'p4tre0n', 'p.a.t.r.e.o.n', 'pat-reon', 'pa-treon']):
         text = DONATION_URL_REGEX.sub('', text)
 
+    # Word-internal watermark repairs (e.g. coNovelBine -> combine, belieNovelBine -> believe)
+    if 'novelbin' in text.lower():
+        text = re.sub(r'\bcoNovelBine\b', 'combine', text, flags=re.I)
+        text = re.sub(r'\bbelieNovelBine\b', 'believe', text, flags=re.I)
+        text = re.sub(r'([a-zA-Z0-9\]\)])\s*experience\s+NovelBin[^\n.!?]*', r'\1', text, flags=re.I)
+
     # Stealth domain suffixes attached to sentence ends: e.g. "said.novelping.com" -> "said."
-    text = re.sub(r'([\.\!\?\"\'”’\)])\s*(?:https?://)?(?:www\.)?(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)?\.(?:com|net|org)\b[\'\"”’\.\,\)]*', r'\1', text, flags=re.I)
-    text = re.sub(r'(?<=[a-zA-Z0-9])\.(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)\.(?:com|net|org)\b', '.', text, flags=re.I)
-    text = re.sub(r'[\s\(\[\'\"]*(?:https?://)?(?:www\.)?(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)\.(?:com|net|org)\b[\s\)\]\'\"\.]*', ' ', text, flags=re.I)
+    text = re.sub(r'([\.\!\?\"\'”’\)])\s*(?:https?://)?(?:www\.)?(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)?\.(?:com|live|net|org)\b[\'\"”’\.\,\)]*', r'\1', text, flags=re.I)
+    text = re.sub(r'(?<=[a-zA-Z0-9])\.(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)\.(?:com|live|net|org)\b', '.', text, flags=re.I)
+    text = re.sub(r'[\s\(\[\'\"]*(?:https?://)?(?:www\.)?(?:novelping|freewebnovel|novelbin|webnovel|allfree|mt)\.(?:com|live|net|org)\b[\s\)\]\'\"\.]*', ' ', text, flags=re.I)
 
     # 10. Replace any special character repeated 3 or more times (e.g. +++, ++++++%, ***, ---, ===, ~~~, ###, $$$, ///, ___) with '' (blank)
     text = REPEATED_SPECIAL_CHARS.sub('', text)
@@ -396,6 +419,13 @@ def is_ad_or_watermark_paragraph(text: str) -> bool:
         return True
 
     if 'jksmangafreewebnovel.com' in clean_p_lower:
+        return True
+
+    if any(k in clean_p_lower for k in ['novelbin', 'novelping', 'freewebnovel']):
+        if re.search(r'(?i)\b(?:character\s+tab|fan\s+club\s+button)\b', clean_p):
+            return True
+
+    if re.search(r'(?i)\bfollow\s+(?:the\s+author|me)\s+on\s+(?:instagram|twitter|tiktok|facebook)\b', clean_p):
         return True
 
     for pat in STANDALONE_AD_PATTERNS:

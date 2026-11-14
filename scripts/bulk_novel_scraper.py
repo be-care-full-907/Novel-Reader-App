@@ -512,7 +512,7 @@ def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int
     candidate_urls = []
     if ch_meta and ch_meta.get("url"):
         candidate_urls.append(ch_meta["url"])
-        slug_part = ch_meta["url"].rstrip("/").split("/")[-1].rstrip(".html")
+        slug_part = re.sub(r'\.html?$', '', ch_meta["url"].rstrip("/").split("/")[-1], flags=re.I)
         if slug_part:
             if site_key in ("freewebnovel", "freenovel"):
                 candidate_urls.append(f"https://freewebnovel.com/novel/{novel_id}/{slug_part}")
