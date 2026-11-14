@@ -682,5 +682,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2000,
     "description": "Imported novel: Library Of Heavens Path."
+  },
+  {
+    "id": "first-immortal-of-the-sword",
+    "title": "First Immortal Of The Sword",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/first-immortal-of-the-sword.jpg",
+    "source_url": "https://novelping.com/book/first-immortal-of-the-sword",
+    "data_path": "data/first-immortal-of-the-sword/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 3161,
+    "description": "Imported novel: First Immortal Of The Sword."
   }
 ]
