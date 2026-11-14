@@ -658,5 +658,29 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2000,
     "description": "Imported novel: Cultivation Online Novel."
+  },
+  {
+    "id": "reincarnated-with-three-unique-skills",
+    "title": "Reincarnated With Three Unique Skills",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/reincarnated-with-three-unique-skills.jpg",
+    "source_url": "https://novelping.com/book/reincarnated-with-three-unique-skills",
+    "data_path": "data/reincarnated-with-three-unique-skills/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 466,
+    "description": "Imported novel: Reincarnated With Three Unique Skills."
+  },
+  {
+    "id": "library-of-heavens-path",
+    "title": "Library Of Heavens Path",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/library-of-heavens-path.jpg",
+    "source_url": "https://novelping.com/book/library-of-heavens-path",
+    "data_path": "data/library-of-heavens-path/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Library Of Heavens Path."
   }
 ]
