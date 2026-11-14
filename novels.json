@@ -694,5 +694,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 3161,
     "description": "Imported novel: First Immortal Of The Sword."
+  },
+  {
+    "id": "rebirth-of-the-godly-prodigal",
+    "title": "Rebirth Of The Godly Prodigal",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/rebirth-of-the-godly-prodigal.jpg",
+    "source_url": "https://novelping.com/book/rebirth-of-the-godly-prodigal",
+    "data_path": "data/rebirth-of-the-godly-prodigal/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2000,
+    "description": "Imported novel: Rebirth Of The Godly Prodigal."
   }
 ]
