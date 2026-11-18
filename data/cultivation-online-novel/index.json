@@ -350,6 +350,13 @@
       "end_chapter": 1999,
       "chapter_count": 50,
       "updated_at": "2026-11-18T13:45:16Z"
+    },
+    {
+      "bundle_file": "chapters_2000_2000.json",
+      "start_chapter": 2000,
+      "end_chapter": 2000,
+      "chapter_count": 1,
+      "updated_at": "2026-11-18T13:45:19Z"
     }
   ]
 }
