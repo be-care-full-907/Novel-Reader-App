@@ -1077,6 +1077,7 @@ def scrape_novel_range(
         curr = slice_end + 1
 
     scraper = NovelScraper()
+    novelping_fallback_map = None
 
     for idx, (s_ch, e_ch) in enumerate(slices, 1):
         slice_count = e_ch - s_ch + 1
@@ -1116,6 +1117,7 @@ def scrape_novel_range(
             log(f"\n--- [{idx}/{len(slices)}] Fetching Chapters {s_ch} to {e_ch} ({slice_count} chapters) ---")
 
         default_url_prefix = "https://novelping.com/book" if source_site.lower() == "novelping" else "https://freewebnovel.com/novel"
+        fwn_404_chapters = set()
         with ThreadPoolExecutor(max_workers=workers) as executor:
             future_to_num = {}
             for ch_num in chapters_to_fetch:
@@ -1136,6 +1138,8 @@ def scrape_novel_range(
                     p_count = len(res.get("paragraphs", []))
                     log(f"  ✓ Ch. {ch_num} ({res.get('title','')}) - {p_count} paras [{len(bundled_chapters)}/{slice_count}]")
                 except Exception as e:
+                    if "HTTP Error 404" in str(e):
+                        fwn_404_chapters.add(ch_num)
                     log(f"  ✗ Ch. {ch_num} failed: {e}")
 
         # Multi-round sequential gap verification and rescue with cooldowns
@@ -1143,12 +1147,13 @@ def scrape_novel_range(
         for rescue_round, cooldown_s in enumerate(rescue_cooldowns, 1):
             fetched_indexes = set(c["chapter_index"] for c in bundled_chapters)
             missing = [ch for ch in range(s_ch, e_ch + 1) if ch not in fetched_indexes]
-            if not missing:
+            retryable_missing = [ch for ch in missing if ch not in fwn_404_chapters]
+            if not retryable_missing:
                 break
 
-            log(f"[Rescue Pass {rescue_round}/{len(rescue_cooldowns)}] Waiting {cooldown_s}s for rate limits to clear, then fetching {len(missing)} missed chapters: {missing}...")
+            log(f"[Rescue Pass {rescue_round}/{len(rescue_cooldowns)}] Waiting {cooldown_s}s for rate limits to clear, then fetching {len(retryable_missing)} missed chapters: {retryable_missing}...")
             time.sleep(cooldown_s)
-            for ch_num in list(missing):
+            for ch_num in list(retryable_missing):
                 ch_meta = chapter_map.get(ch_num, {
                     "chapter_number": ch_num,
                     "title": f"Chapter {ch_num}",
@@ -1157,10 +1162,31 @@ def scrape_novel_range(
                 try:
                     rescued = fetch_chapter_with_retries(scraper, novel_id, ch_num, ch_meta, max_retries=6, source_site=source_site)
                     bundled_chapters.append(rescued)
-                    missing.remove(ch_num)
                     log(f"  ✓ Rescued Ch. {ch_num}!")
                 except Exception as e:
+                    if "HTTP Error 404" in str(e):
+                        fwn_404_chapters.add(ch_num)
                     log(f"  ✗ Rescue round {rescue_round} failed for Ch. {ch_num}: {e}")
+
+        # Last-resort NovelPing fallback if any chapters still could not be scraped from FreeWebNovel
+        fetched_indexes = set(c["chapter_index"] for c in bundled_chapters)
+        still_missing = [ch for ch in range(s_ch, e_ch + 1) if ch not in fetched_indexes]
+        if still_missing and source_site.lower() in ("freewebnovel", "freenovel"):
+            log(f"[Last-Resort Fallback] {len(still_missing)} chapter(s) could not be scraped from FreeWebNovel ({still_missing}). Falling back to NovelPing...")
+            if novelping_fallback_map is None:
+                novelping_fallback_map = fetch_archive_with_retry(novel_id, target_dir, force_refresh=False, source_site="novelping")
+            for ch_num in list(still_missing):
+                np_meta = novelping_fallback_map.get(ch_num, {
+                    "chapter_number": ch_num,
+                    "title": f"Chapter {ch_num}",
+                    "url": f"https://novelping.com/book/{novel_id}/chapter-{ch_num}"
+                })
+                try:
+                    rescued = fetch_chapter_with_retries(scraper, novel_id, ch_num, np_meta, max_retries=5, source_site="novelping")
+                    bundled_chapters.append(rescued)
+                    log(f"  ✓ Rescued Ch. {ch_num} via NovelPing fallback ({rescued.get('title', '')})!")
+                except Exception as e:
+                    log(f"  ✗ NovelPing fallback failed for Ch. {ch_num}: {e}")
 
         fetched_indexes = set(c["chapter_index"] for c in bundled_chapters)
         final_missing = [ch for ch in range(s_ch, e_ch + 1) if ch not in fetched_indexes]
@@ -1265,9 +1291,9 @@ def interactive_menu():
 
         if choice == 'r':
             print("\nChoose Source for Gap Repair:")
-            print(" [1] FreeWebNovel (Recommended)")
+            print(" [1] FreeWebNovel (Recommended - NovelPing fallback at last if needed)")
             print(" [2] NovelPing")
-            print(" [3] Auto (FreeWebNovel with NovelPing fallback)")
+            print(" [3] Auto (FreeWebNovel with immediate NovelPing failover)")
             s_in = input("Select source site [default 1]: ").strip().lower()
             r_site = 'novelping' if s_in in ('2', 'novelping', 'ping') else ('auto' if s_in in ('3', 'auto') else 'freewebnovel')
             p_in = input("Commit and push repaired bundles to GitHub? (y/n) [default y]: ").strip().lower()
@@ -1326,9 +1352,9 @@ def interactive_menu():
 
         # Prompt source site
         print("\nChoose Download Source:")
-        print(" [1] FreeWebNovel (Recommended)")
+        print(" [1] FreeWebNovel (Recommended - NovelPing fallback at last if needed)")
         print(" [2] NovelPing")
-        print(" [3] Auto (FreeWebNovel with NovelPing fallback)")
+        print(" [3] Auto (FreeWebNovel with immediate NovelPing failover)")
         site_in = input("Select source site [default 1]: ").strip().lower()
         if site_in in ('2', 'novelping', 'ping'):
             source_site = 'novelping'
