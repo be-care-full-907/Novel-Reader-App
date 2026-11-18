@@ -184,6 +184,13 @@
       "updated_at": "2026-11-18T12:53:22Z"
     },
     {
+      "bundle_file": "chapters_1150_1199.json",
+      "start_chapter": 1150,
+      "end_chapter": 1199,
+      "chapter_count": 50,
+      "updated_at": "2026-11-18T13:18:45Z"
+    },
+    {
       "bundle_file": "chapters_1151_1200.json",
       "start_chapter": 1151,
       "end_chapter": 1200,
