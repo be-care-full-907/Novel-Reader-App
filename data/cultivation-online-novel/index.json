@@ -142,25 +142,11 @@
       "updated_at": "2026-11-14T13:32:30Z"
     },
     {
-      "bundle_file": "chapters_1000_1049.json",
-      "start_chapter": 1000,
-      "end_chapter": 1049,
-      "chapter_count": 50,
-      "updated_at": "2026-11-18T13:17:04Z"
-    },
-    {
       "bundle_file": "chapters_1001_1050.json",
       "start_chapter": 1001,
       "end_chapter": 1050,
       "chapter_count": 50,
       "updated_at": "2026-11-18T12:51:44Z"
-    },
-    {
-      "bundle_file": "chapters_1050_1099.json",
-      "start_chapter": 1050,
-      "end_chapter": 1099,
-      "chapter_count": 49,
-      "updated_at": "2026-11-18T13:17:38Z"
     },
     {
       "bundle_file": "chapters_1051_1100.json",
@@ -170,13 +156,6 @@
       "updated_at": "2026-11-18T13:10:07Z"
     },
     {
-      "bundle_file": "chapters_1100_1149.json",
-      "start_chapter": 1100,
-      "end_chapter": 1149,
-      "chapter_count": 49,
-      "updated_at": "2026-11-18T13:18:12Z"
-    },
-    {
       "bundle_file": "chapters_1101_1150.json",
       "start_chapter": 1101,
       "end_chapter": 1150,
@@ -184,25 +163,11 @@
       "updated_at": "2026-11-18T12:53:22Z"
     },
     {
-      "bundle_file": "chapters_1150_1199.json",
-      "start_chapter": 1150,
-      "end_chapter": 1199,
-      "chapter_count": 50,
-      "updated_at": "2026-11-18T13:18:45Z"
-    },
-    {
       "bundle_file": "chapters_1151_1200.json",
       "start_chapter": 1151,
       "end_chapter": 1200,
       "chapter_count": 50,
-      "updated_at": "2026-11-18T12:54:00Z"
-    },
-    {
-      "bundle_file": "chapters_1200_1249.json",
-      "start_chapter": 1200,
-      "end_chapter": 1249,
-      "chapter_count": 45,
-      "updated_at": "2026-11-18T13:19:14Z"
+      "updated_at": "2026-11-18T12:53:59Z"
     },
     {
       "bundle_file": "chapters_1201_1250.json",
@@ -212,25 +177,11 @@
       "updated_at": "2026-11-18T12:54:35Z"
     },
     {
-      "bundle_file": "chapters_1250_1299.json",
-      "start_chapter": 1250,
-      "end_chapter": 1299,
-      "chapter_count": 50,
-      "updated_at": "2026-11-18T13:19:49Z"
-    },
-    {
       "bundle_file": "chapters_1251_1300.json",
       "start_chapter": 1251,
       "end_chapter": 1300,
       "chapter_count": 50,
       "updated_at": "2026-11-18T13:10:08Z"
-    },
-    {
-      "bundle_file": "chapters_1300_1349.json",
-      "start_chapter": 1300,
-      "end_chapter": 1349,
-      "chapter_count": 49,
-      "updated_at": "2026-11-18T13:20:24Z"
     },
     {
       "bundle_file": "chapters_1301_1350.json",
@@ -240,25 +191,11 @@
       "updated_at": "2026-11-18T13:10:10Z"
     },
     {
-      "bundle_file": "chapters_1350_1399.json",
-      "start_chapter": 1350,
-      "end_chapter": 1399,
-      "chapter_count": 49,
-      "updated_at": "2026-11-18T13:20:58Z"
-    },
-    {
       "bundle_file": "chapters_1351_1400.json",
       "start_chapter": 1351,
       "end_chapter": 1400,
       "chapter_count": 50,
       "updated_at": "2026-11-18T13:10:14Z"
-    },
-    {
-      "bundle_file": "chapters_1400_1449.json",
-      "start_chapter": 1400,
-      "end_chapter": 1449,
-      "chapter_count": 50,
-      "updated_at": "2026-11-18T13:21:35Z"
     },
     {
       "bundle_file": "chapters_1401_1450.json",
@@ -268,25 +205,11 @@
       "updated_at": "2026-11-18T13:10:15Z"
     },
     {
-      "bundle_file": "chapters_1450_1499.json",
-      "start_chapter": 1450,
-      "end_chapter": 1499,
-      "chapter_count": 48,
-      "updated_at": "2026-11-18T13:22:10Z"
-    },
-    {
       "bundle_file": "chapters_1451_1500.json",
       "start_chapter": 1451,
       "end_chapter": 1500,
       "chapter_count": 50,
       "updated_at": "2026-11-18T12:57:34Z"
-    },
-    {
-      "bundle_file": "chapters_1500_1500.json",
-      "start_chapter": 1500,
-      "end_chapter": 1500,
-      "chapter_count": 1,
-      "updated_at": "2026-11-18T13:22:13Z"
     }
   ]
 }
