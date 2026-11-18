@@ -36,6 +36,7 @@ import subprocess
 import argparse
 import urllib.request
 import urllib.error
+from urllib.parse import urlparse
 import math
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -239,7 +240,7 @@ def fetch_freewebnovel_archive(novel_id: str) -> Dict[int, Dict]:
 
     def fetch_page(p: int) -> Tuple[int, List[Tuple[str, str]]]:
         p_url = f"https://freewebnovel.com/novel/{novel_id}?ajax=chapters&page={p}&pageSize={page_size}"
-        for attempt in range(1, 4):
+        for attempt in range(1, 6):
             try:
                 p_req = urllib.request.Request(p_url, headers=page_headers)
                 with urllib.request.urlopen(p_req, timeout=20) as r:
@@ -254,14 +255,24 @@ def fetch_freewebnovel_archive(novel_id: str) -> Dict[int, Dict]:
                     title = (a.get("title") or a.get_text(strip=True)).strip()
                     links.append((title, full_url))
                 return p, links
+            except urllib.error.HTTPError as e:
+                if e.code == 429:
+                    retry_after = e.headers.get("Retry-After") if e.headers else None
+                    wait_s = float(retry_after) if (retry_after and retry_after.isdigit()) else (attempt * 4.0 + random.uniform(0.5, 1.5))
+                    time.sleep(wait_s)
+                elif attempt < 5:
+                    time.sleep(attempt * 1.5)
             except Exception:
-                if attempt < 3:
-                    time.sleep(attempt)
+                if attempt < 5:
+                    time.sleep(attempt * 1.5)
         return p, []
 
     results = {}
-    with ThreadPoolExecutor(max_workers=min(6, total_pages)) as executor:
-        futures = [executor.submit(fetch_page, p) for p in range(1, total_pages + 1)]
+    with ThreadPoolExecutor(max_workers=min(3, total_pages)) as executor:
+        futures = []
+        for p in range(1, total_pages + 1):
+            futures.append(executor.submit(fetch_page, p))
+            time.sleep(0.35)
         for fut in as_completed(futures):
             p, links = fut.result()
             results[p] = links
@@ -547,10 +558,25 @@ def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int
         unique_candidates = [u for u in unique_candidates if "novelping.com" in u]
 
     last_error = None
-    for url in unique_candidates:
-        for attempt in range(1, max_retries + 1):
+    rate_limited_domains = set()
+
+    for url_idx, url in enumerate(unique_candidates):
+        curr_domain = urlparse(url).netloc.lower()
+        has_alt_domain = any(
+            urlparse(other).netloc.lower() != curr_domain
+            and urlparse(other).netloc.lower() not in rate_limited_domains
+            for other in unique_candidates[url_idx + 1:]
+        )
+
+        if curr_domain in rate_limited_domains and has_alt_domain:
+            continue
+
+        inner_retries = 2 if has_alt_domain else 4
+        outer_retries = max(1, max_retries if has_alt_domain else min(max_retries, 3))
+
+        for attempt in range(1, outer_retries + 1):
             try:
-                ch_data = scraper.fetch_chapter(url)
+                ch_data = scraper.fetch_chapter(url, max_retries=inner_retries, raise_on_429=has_alt_domain)
                 paragraphs = ch_data.get("paragraphs", [])
                 if paragraphs and len(paragraphs) > 0:
                     meta_title = ch_meta.get("title") if ch_meta else ""
@@ -571,17 +597,25 @@ def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int
                     }
                     return clean_chapter_data(ch_payload)
                 else:
-                    time.sleep(1.0)
+                    time.sleep(attempt * 2.0 + random.uniform(0.5, 1.5))
             except urllib.error.HTTPError as e:
                 last_error = e
-                if e.code == 429:
-                    # Switch immediately to next mirror without wasting time
+                if e.code == 404:
                     break
-                elif e.code in (502, 503, 504):
-                    wait_time = attempt * 1.5 + random.uniform(0.3, 0.8)
+                elif e.code == 429:
+                    if has_alt_domain:
+                        rate_limited_domains.add(curr_domain)
+                        break
+                    else:
+                        retry_after = e.headers.get("Retry-After") if e.headers else None
+                        wait_s = scraper.rate_limiter.record_429(curr_domain, retry_after)
+                        log(f"  [429 Backoff] Ch. {ch_num} on {curr_domain} waiting {wait_s:.1f}s before retry ({attempt}/{outer_retries})...")
+                        time.sleep(wait_s)
+                elif e.code in (403, 502, 503, 504):
+                    wait_time = attempt * 2.5 + random.uniform(0.5, 1.5)
                     time.sleep(wait_time)
                 else:
-                    time.sleep(1.0)
+                    time.sleep(attempt * 1.5)
             except Exception as e:
                 last_error = e
                 wait_time = attempt * 1.5 + random.uniform(0.3, 0.8)
@@ -741,11 +775,29 @@ def scrape_novel_bundles(
         elif force and os.path.exists(bundle_path):
             log(f"[{idx}/{len(slices)}] Re-scraping and overwriting existing bundle {bundle_filename}...")
 
-        log(f"\n--- [{idx}/{len(slices)}] Fetching Chapters {s_ch} to {e_ch} ({slice_count} chapters) ---")
         t_slice_start = time.time()
-
         bundled_chapters: List[dict] = []
-        chapters_to_fetch = list(range(s_ch, e_ch + 1))
+        existing_indexes = set()
+
+        if not force and os.path.exists(bundle_path):
+            try:
+                with open(bundle_path, "r", encoding="utf-8") as f:
+                    prev_data = json.load(f)
+                for c in prev_data.get("chapters", []):
+                    c_idx = c.get("chapter_index")
+                    if c_idx is not None and s_ch <= c_idx <= e_ch and c.get("paragraphs") and len(c["paragraphs"]) > 0:
+                        if c_idx not in existing_indexes:
+                            bundled_chapters.append(c)
+                            existing_indexes.add(c_idx)
+            except Exception:
+                bundled_chapters = []
+                existing_indexes = set()
+
+        chapters_to_fetch = [ch for ch in range(s_ch, e_ch + 1) if ch not in existing_indexes]
+        if existing_indexes:
+            log(f"\n--- [{idx}/{len(slices)}] Repairing {bundle_filename}: {len(existing_indexes)}/{slice_count} valid, fetching {len(chapters_to_fetch)} missing chapters ---")
+        else:
+            log(f"\n--- [{idx}/{len(slices)}] Fetching Chapters {s_ch} to {e_ch} ({slice_count} chapters) ---")
 
         # Concurrent fetching with ThreadPoolExecutor
         default_url_prefix = "https://novelping.com/book" if source_site.lower() == "novelping" else "https://freewebnovel.com/novel"
@@ -760,7 +812,7 @@ def scrape_novel_bundles(
                 # Submit worker
                 f = executor.submit(fetch_chapter_with_retries, scraper, novel_id, ch_num, ch_meta, 5, source_site)
                 future_to_num[f] = ch_num
-                time.sleep(0.6)  # polite stagger to prevent FreeWebNovel/NovelPing rate-limits
+                time.sleep(0.25)
 
             for future in as_completed(future_to_num):
                 ch_num = future_to_num[future]
@@ -772,12 +824,16 @@ def scrape_novel_bundles(
                 except Exception as e:
                     log(f"  ✗ Ch. {ch_num} failed: {e}")
 
-        # Gap verification and rescue pass
-        fetched_indexes = set(c["chapter_index"] for c in bundled_chapters)
-        missing = [ch for ch in range(s_ch, e_ch + 1) if ch not in fetched_indexes]
+        # Multi-round sequential gap verification and rescue pass with cooldowns
+        rescue_cooldowns = [6, 15, 30]
+        for rescue_round, cooldown_s in enumerate(rescue_cooldowns, 1):
+            fetched_indexes = set(c["chapter_index"] for c in bundled_chapters)
+            missing = [ch for ch in range(s_ch, e_ch + 1) if ch not in fetched_indexes]
+            if not missing:
+                break
 
-        if missing:
-            log(f"\n[WARNING] Missing {len(missing)} chapters in slice {s_ch}-{e_ch}: {missing}. Running rescue pass...")
+            log(f"\n[Rescue Pass {rescue_round}/{len(rescue_cooldowns)}] Waiting {cooldown_s}s for rate limits to clear, then fetching {len(missing)} missed chapters: {missing}...")
+            time.sleep(cooldown_s)
             for ch_num in list(missing):
                 ch_meta = chapter_map.get(ch_num, {
                     "chapter_number": ch_num,
@@ -790,7 +846,7 @@ def scrape_novel_bundles(
                     missing.remove(ch_num)
                     log(f"  [RESCUED] Successfully retrieved Ch. {ch_num}!")
                 except Exception as e:
-                    log(f"  [RESCUE FAILED] Ch. {ch_num}: {e}")
+                    log(f"  [RESCUE FAILED Round {rescue_round}] Ch. {ch_num}: {e}")
 
         # Strict completeness check
         fetched_indexes = set(c["chapter_index"] for c in bundled_chapters)

@@ -24,6 +24,7 @@ import subprocess
 import argparse
 import urllib.request
 import urllib.error
+from urllib.parse import urlparse
 import math
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -482,6 +483,42 @@ def get_local_novel_status(novel_id: str) -> Tuple[int, int, int]:
     return (len(ch_indices), min(ch_indices), max(ch_indices))
 
 
+def get_incomplete_bundles(novel_id: str) -> List[Tuple[str, int, int, List[int]]]:
+    """
+    Scans local chapter bundles for `novel_id` and returns a list of
+    (bundle_filename, start_ch, end_ch, missing_chapter_numbers) for any incomplete bundle.
+    """
+    info = NOVELS_CATALOG.get(novel_id)
+    if not info:
+        return []
+    target_dir = info["target_dir"]
+    if not os.path.exists(target_dir):
+        return []
+
+    import glob
+    incomplete = []
+    for bf in sorted(glob.glob(os.path.join(target_dir, "chapters_*.json"))):
+        try:
+            with open(bf, "r", encoding="utf-8") as f:
+                d = json.load(f)
+            s_ch = d.get("start_chapter")
+            e_ch = d.get("end_chapter")
+            if s_ch is None or e_ch is None:
+                continue
+            present = {
+                c.get("chapter_index")
+                for c in d.get("chapters", [])
+                if c.get("paragraphs") and len(c["paragraphs"]) > 0
+            }
+            missing = [ch for ch in range(s_ch, e_ch + 1) if ch not in present]
+            if missing:
+                incomplete.append((os.path.basename(bf), s_ch, e_ch, missing))
+        except Exception:
+            pass
+    incomplete.sort(key=lambda x: x[1])
+    return incomplete
+
+
 def fetch_freewebnovel_archive(novel_id: str) -> Dict[int, Dict]:
     """
     Fetches complete chapter archive mapping directly from FreeWebNovel via its official AJAX endpoint.
@@ -530,7 +567,7 @@ def fetch_freewebnovel_archive(novel_id: str) -> Dict[int, Dict]:
 
     def fetch_page(p: int) -> Tuple[int, List[Tuple[str, str]]]:
         p_url = f"https://freewebnovel.com/novel/{novel_id}?ajax=chapters&page={p}&pageSize={page_size}"
-        for attempt in range(1, 4):
+        for attempt in range(1, 6):
             try:
                 p_req = urllib.request.Request(p_url, headers=page_headers)
                 with urllib.request.urlopen(p_req, timeout=20) as r:
@@ -545,14 +582,24 @@ def fetch_freewebnovel_archive(novel_id: str) -> Dict[int, Dict]:
                     title = (a.get("title") or a.get_text(strip=True)).strip()
                     links.append((title, full_url))
                 return p, links
+            except urllib.error.HTTPError as e:
+                if e.code == 429:
+                    retry_after = e.headers.get("Retry-After") if e.headers else None
+                    wait_s = float(retry_after) if (retry_after and retry_after.isdigit()) else (attempt * 4.0 + random.uniform(0.5, 1.5))
+                    time.sleep(wait_s)
+                elif attempt < 5:
+                    time.sleep(attempt * 1.5)
             except Exception:
-                if attempt < 3:
-                    time.sleep(attempt)
+                if attempt < 5:
+                    time.sleep(attempt * 1.5)
         return p, []
 
     results = {}
-    with ThreadPoolExecutor(max_workers=min(6, total_pages)) as executor:
-        futures = [executor.submit(fetch_page, p) for p in range(1, total_pages + 1)]
+    with ThreadPoolExecutor(max_workers=min(3, total_pages)) as executor:
+        futures = []
+        for p in range(1, total_pages + 1):
+            futures.append(executor.submit(fetch_page, p))
+            time.sleep(0.35)
         for fut in as_completed(futures):
             p, links = fut.result()
             results[p] = links
@@ -711,7 +758,7 @@ def fetch_archive_with_retry(novel_id: str, target_dir: str, force_refresh: bool
 
                 cat_info = NOVELS_CATALOG.get(novel_id, {})
                 expected_max = cat_info.get("max_chapters", 0)
-                if expected_max > 100 and len(cached) < expected_max * 0.6:
+                if expected_max > 100 and expected_max != 2000 and len(cached) < expected_max * 0.6:
                     is_corrupted = True
 
                 if not is_corrupted:
@@ -829,10 +876,27 @@ def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int
         unique_candidates = [u for u in unique_candidates if "novelping.com" in u]
 
     last_error = None
-    for url in unique_candidates:
-        for attempt in range(1, max_retries + 1):
+    rate_limited_domains = set()
+
+    for url_idx, url in enumerate(unique_candidates):
+        curr_domain = urlparse(url).netloc.lower()
+        has_alt_domain = any(
+            urlparse(other).netloc.lower() != curr_domain
+            and urlparse(other).netloc.lower() not in rate_limited_domains
+            for other in unique_candidates[url_idx + 1:]
+        )
+
+        # In auto mode, skip additional URLs on a domain that just rate-limited us when another domain is available
+        if curr_domain in rate_limited_domains and has_alt_domain:
+            continue
+
+        # Only fail-fast on 429 if we actually have a different mirror domain to switch to
+        inner_retries = 2 if has_alt_domain else 4
+        outer_retries = max(1, max_retries if has_alt_domain else min(max_retries, 3))
+
+        for attempt in range(1, outer_retries + 1):
             try:
-                ch_data = scraper.fetch_chapter(url)
+                ch_data = scraper.fetch_chapter(url, max_retries=inner_retries, raise_on_429=has_alt_domain)
                 paragraphs = ch_data.get("paragraphs", [])
                 if paragraphs and len(paragraphs) > 0:
                     meta_title = ch_meta.get("title") if ch_meta else ""
@@ -854,19 +918,31 @@ def fetch_chapter_with_retries(scraper: NovelScraper, novel_id: str, ch_num: int
                     # Simultaneous cleaning
                     return clean_chapter_data(ch_payload)
                 else:
-                    time.sleep(0.8)
+                    # Empty body may indicate soft throttling or transient blank response
+                    time.sleep(attempt * 2.0 + random.uniform(0.5, 1.5))
             except urllib.error.HTTPError as e:
                 last_error = e
-                if e.code == 429:
-                    # Switch immediately to next mirror
+                if e.code == 404:
+                    # Chapter URL does not exist here; move immediately to next candidate URL
                     break
-                elif e.code in (502, 503, 504):
-                    time.sleep(attempt * 1.5 + random.uniform(0.3, 0.8))
+                elif e.code == 429:
+                    if has_alt_domain:
+                        # Alternate mirror domain is available; switch immediately
+                        rate_limited_domains.add(curr_domain)
+                        break
+                    else:
+                        # Single-site mode (e.g., FreeWebNovel only): wait out shared cooldown and retry!
+                        retry_after = e.headers.get("Retry-After") if e.headers else None
+                        wait_s = scraper.rate_limiter.record_429(curr_domain, retry_after)
+                        log(f"  [429 Backoff] Ch. {ch_num} on {curr_domain} waiting {wait_s:.1f}s before retry ({attempt}/{outer_retries})...")
+                        time.sleep(wait_s)
+                elif e.code in (403, 502, 503, 504):
+                    time.sleep(attempt * 2.5 + random.uniform(0.5, 1.5))
                 else:
-                    time.sleep(1.0)
+                    time.sleep(attempt * 1.5)
             except Exception as e:
                 last_error = e
-                time.sleep(attempt * 1.2)
+                time.sleep(attempt * 1.5 + random.uniform(0.3, 0.8))
 
     raise RuntimeError(f"Ch. {ch_num} failed across all candidate mirrors. Last error: {last_error}")
 
@@ -1014,10 +1090,30 @@ def scrape_novel_range(
         elif force and os.path.exists(bundle_path):
             log(f"[{idx}/{len(slices)}] Re-scraping and overwriting existing bundle {bundle_filename}...")
 
-        log(f"\n--- [{idx}/{len(slices)}] Fetching Chapters {s_ch} to {e_ch} ({slice_count} chapters) ---")
         t_start = time.time()
         bundled_chapters = []
-        chapters_to_fetch = list(range(s_ch, e_ch + 1))
+        existing_indexes = set()
+
+        # Smart partial-bundle recovery: preserve valid chapters already on disk when not forcing overwrite
+        if not force and os.path.exists(bundle_path):
+            try:
+                with open(bundle_path, "r", encoding="utf-8") as f:
+                    prev_data = json.load(f)
+                for c in prev_data.get("chapters", []):
+                    c_idx = c.get("chapter_index")
+                    if c_idx is not None and s_ch <= c_idx <= e_ch and c.get("paragraphs") and len(c["paragraphs"]) > 0:
+                        if c_idx not in existing_indexes:
+                            bundled_chapters.append(c)
+                            existing_indexes.add(c_idx)
+            except Exception:
+                bundled_chapters = []
+                existing_indexes = set()
+
+        chapters_to_fetch = [ch for ch in range(s_ch, e_ch + 1) if ch not in existing_indexes]
+        if existing_indexes:
+            log(f"\n--- [{idx}/{len(slices)}] Repairing {bundle_filename}: {len(existing_indexes)}/{slice_count} already valid, fetching {len(chapters_to_fetch)} missing chapters ---")
+        else:
+            log(f"\n--- [{idx}/{len(slices)}] Fetching Chapters {s_ch} to {e_ch} ({slice_count} chapters) ---")
 
         default_url_prefix = "https://novelping.com/book" if source_site.lower() == "novelping" else "https://freewebnovel.com/novel"
         with ThreadPoolExecutor(max_workers=workers) as executor:
@@ -1030,7 +1126,7 @@ def scrape_novel_range(
                 })
                 f = executor.submit(fetch_chapter_with_retries, scraper, novel_id, ch_num, ch_meta, 5, source_site)
                 future_to_num[f] = ch_num
-                time.sleep(0.5)
+                time.sleep(0.25)
 
             for future in as_completed(future_to_num):
                 ch_num = future_to_num[future]
@@ -1042,26 +1138,34 @@ def scrape_novel_range(
                 except Exception as e:
                     log(f"  ✗ Ch. {ch_num} failed: {e}")
 
-        # Gap verification and rescue
-        fetched_indexes = set(c["chapter_index"] for c in bundled_chapters)
-        missing = [ch for ch in range(s_ch, e_ch + 1) if ch not in fetched_indexes]
+        # Multi-round sequential gap verification and rescue with cooldowns
+        rescue_cooldowns = [6, 15, 30]
+        for rescue_round, cooldown_s in enumerate(rescue_cooldowns, 1):
+            fetched_indexes = set(c["chapter_index"] for c in bundled_chapters)
+            missing = [ch for ch in range(s_ch, e_ch + 1) if ch not in fetched_indexes]
+            if not missing:
+                break
 
-        if missing:
-            log(f"[Rescue Pass] Fetching {len(missing)} missed chapters: {missing}...")
+            log(f"[Rescue Pass {rescue_round}/{len(rescue_cooldowns)}] Waiting {cooldown_s}s for rate limits to clear, then fetching {len(missing)} missed chapters: {missing}...")
+            time.sleep(cooldown_s)
             for ch_num in list(missing):
-                ch_meta = chapter_map.get(ch_num)
+                ch_meta = chapter_map.get(ch_num, {
+                    "chapter_number": ch_num,
+                    "title": f"Chapter {ch_num}",
+                    "url": f"{default_url_prefix}/{novel_id}/chapter-{ch_num}"
+                })
                 try:
                     rescued = fetch_chapter_with_retries(scraper, novel_id, ch_num, ch_meta, max_retries=6, source_site=source_site)
                     bundled_chapters.append(rescued)
                     missing.remove(ch_num)
                     log(f"  ✓ Rescued Ch. {ch_num}!")
                 except Exception as e:
-                    log(f"  ✗ Rescue failed for Ch. {ch_num}: {e}")
+                    log(f"  ✗ Rescue round {rescue_round} failed for Ch. {ch_num}: {e}")
 
         fetched_indexes = set(c["chapter_index"] for c in bundled_chapters)
         final_missing = [ch for ch in range(s_ch, e_ch + 1) if ch not in fetched_indexes]
         if final_missing:
-            log(f"Warning: Incomplete bundle {bundle_filename}! Missing: {final_missing}")
+            log(f"Warning: Incomplete bundle {bundle_filename}! Still missing after all rescue passes: {final_missing}")
 
         bundled_chapters.sort(key=lambda c: c["chapter_index"])
 
@@ -1081,12 +1185,44 @@ def scrape_novel_range(
 
         update_manifest(target_dir, bundle_filename, s_ch, e_ch, len(bundled_chapters), novel_id)
         elapsed = round(time.time() - t_start, 1)
-        log(f"Saved & Cleaned: {bundle_filename} ({len(bundled_chapters)} chs) in {elapsed}s")
+        log(f"Saved & Cleaned: {bundle_filename} ({len(bundled_chapters)}/{slice_count} chs) in {elapsed}s")
 
         if push:
             git_commit_and_push(novel_id, bundle_filename, s_ch, e_ch)
 
     log(f"\n[DONE] Finished processing '{novel_title}'!\n")
+
+
+def repair_incomplete_bundles(
+    novel_id: Optional[str] = None,
+    workers: int = 3,
+    push: bool = True,
+    source_site: str = "freewebnovel"
+):
+    """Detects and repairs all incomplete chapter bundles (filling only the missing chapters)."""
+    target_ids = [novel_id] if novel_id else list(NOVELS_CATALOG.keys())
+    total_repaired = 0
+    for nid in target_ids:
+        gaps = get_incomplete_bundles(nid)
+        if not gaps:
+            continue
+        total_missing = sum(len(m) for _, _, _, m in gaps)
+        log(f"\nFound {total_missing} missing chapter(s) across {len(gaps)} bundle(s) in '{nid}'. Repairing...")
+        for bf, s_ch, e_ch, missing in gaps:
+            log(f"  -> {bf}: missing {missing}")
+            scrape_novel_range(
+                novel_id=nid,
+                start_ch=s_ch,
+                end_ch=e_ch,
+                workers=workers,
+                push=push,
+                chunk_size=(e_ch - s_ch + 1),
+                source_site=source_site,
+                force=False
+            )
+            total_repaired += 1
+    if total_repaired == 0:
+        log("All local chapter bundles are 100% complete (0 gaps found)!")
 
 
 def interactive_menu():
@@ -1100,12 +1236,15 @@ def interactive_menu():
         for idx, nid in enumerate(novel_keys, 1):
             info = NOVELS_CATALOG[nid]
             count, min_ch, max_ch = get_local_novel_status(nid)
+            gaps = get_incomplete_bundles(nid)
+            gap_count = sum(len(m) for _, _, _, m in gaps)
             online_max = info["max_chapters"]
 
-            if count >= online_max:
+            if count >= online_max and gap_count == 0:
                 status_str = f"Ch {min_ch}-{max_ch} ({count}/{online_max}) [COMPLETE ✓]"
             elif count > 0:
-                status_str = f"Ch {min_ch}-{max_ch} ({count}/{online_max}) [Missing Ch {max_ch+1}-{online_max}]"
+                gap_tag = f" [GAPS: {gap_count} missing!]" if gap_count > 0 else f" [Missing Ch {max_ch+1}-{online_max}]"
+                status_str = f"Ch {min_ch}-{max_ch} ({count}/{online_max}){gap_tag}"
             else:
                 status_str = f"Not downloaded yet (Online: {online_max} chapters)"
 
@@ -1113,15 +1252,27 @@ def interactive_menu():
 
         print("-" * 75)
         print(" [ +] Add a NEW novel (Paste FreeWebNovel or NovelPing URL)")
+        print(" [ R] Repair missing chapter gaps in existing bundles")
         print(" [ A] Scrape all novels with missing chapters")
         print(" [ Q] Quit")
         print("=" * 75)
 
-        choice = input(f"\nSelect a novel number (1-{len(novel_keys)}), '+' to add novel, or 'Q' to quit: ").strip().lower()
+        choice = input(f"\nSelect a novel number (1-{len(novel_keys)}), '+' to add, 'R' to repair gaps, or 'Q' to quit: ").strip().lower()
 
         if choice in ('q', 'quit', 'exit', ''):
             print("Exiting. Happy reading!")
             break
+
+        if choice == 'r':
+            print("\nChoose Source for Gap Repair:")
+            print(" [1] FreeWebNovel (Recommended)")
+            print(" [2] NovelPing")
+            print(" [3] Auto (FreeWebNovel with NovelPing fallback)")
+            s_in = input("Select source site [default 1]: ").strip().lower()
+            r_site = 'novelping' if s_in in ('2', 'novelping', 'ping') else ('auto' if s_in in ('3', 'auto') else 'freewebnovel')
+            p_in = input("Commit and push repaired bundles to GitHub? (y/n) [default y]: ").strip().lower()
+            repair_incomplete_bundles(None, workers=3, push=(p_in != 'n'), source_site=r_site)
+            continue
 
         if choice == '+':
             url_in = input("\nEnter FreeWebNovel URL, NovelPing URL, or novel slug: ").strip()
@@ -1135,7 +1286,7 @@ def interactive_menu():
             register_new_novel(entry)
             scrape_now = input(f"\nScrape Chapters 1-50 for '{entry['title']}' now? (y/n) [default y]: ").strip().lower()
             if scrape_now != 'n':
-                scrape_novel_range(entry["id"], 1, min(50, entry.get("total_chapters", 2000)), workers=4, push=True)
+                scrape_novel_range(entry["id"], 1, min(50, entry.get("total_chapters", 2000)), workers=3, push=True)
             continue
 
         if choice == 'a':
@@ -1147,7 +1298,7 @@ def interactive_menu():
                     if count < info["max_chapters"]:
                         start = max_ch + 1 if max_ch > 0 else info["default_start"]
                         end = info["max_chapters"]
-                        scrape_novel_range(nid, start, end, workers=4, push=True)
+                        scrape_novel_range(nid, start, end, workers=3, push=True)
             continue
 
         try:
@@ -1156,18 +1307,22 @@ def interactive_menu():
                 print(f"Invalid number. Please select between 1 and {len(novel_keys)}.")
                 continue
         except ValueError:
-            print("Invalid input. Please enter a number, '+', or 'Q'.")
+            print("Invalid input. Please enter a number, '+', 'R', or 'Q'.")
             continue
 
         selected_id = novel_keys[choice_idx]
         selected_info = NOVELS_CATALOG[selected_id]
         count, min_ch, max_ch = get_local_novel_status(selected_id)
+        gaps = get_incomplete_bundles(selected_id)
         default_start = (max_ch + 1) if max_ch > 0 else selected_info["default_start"]
         default_end = selected_info["max_chapters"]
 
         print(f"\nSelected: {selected_info['title']}")
         print(f"Current local chapters: {count} (Ch {min_ch} to {max_ch})")
         print(f"Online total available: ~{default_end} chapters")
+        if gaps:
+            gap_total = sum(len(m) for _, _, _, m in gaps)
+            print(f"[!] Detected {gap_total} skipped/missing chapter(s) across {len(gaps)} existing bundle(s).")
 
         # Prompt source site
         print("\nChoose Download Source:")
@@ -1181,6 +1336,15 @@ def interactive_menu():
             source_site = 'auto'
         else:
             source_site = 'freewebnovel'
+
+        if gaps:
+            fix_g = input(f"\nRepair the {sum(len(m) for _, _, _, m in gaps)} missing chapter(s) in existing bundles first? (y/n) [default y]: ").strip().lower()
+            if fix_g != 'n':
+                p_g = input("Commit and push repaired bundles to GitHub? (y/n) [default y]: ").strip().lower()
+                repair_incomplete_bundles(selected_id, workers=3, push=(p_g != 'n'), source_site=source_site)
+                cont = input("\nContinue to scrape additional chapters? (y/n) [default n]: ").strip().lower()
+                if cont != 'y':
+                    continue
 
         # Prompt start
         s_input = input(f"Start Chapter [default {default_start}]: ").strip()
@@ -1201,8 +1365,8 @@ def interactive_menu():
                 force = True
 
         # Prompt workers
-        w_input = input("Concurrency Worker Threads (2-5) [default 4]: ").strip()
-        workers = int(w_input) if w_input else 4
+        w_input = input("Concurrency Worker Threads (2-4) [default 3]: ").strip()
+        workers = int(w_input) if w_input else 3
 
         # Prompt push
         p_input = input("Commit and push to GitHub origin/main when done? (y/n) [default y]: ").strip().lower()
@@ -1218,15 +1382,26 @@ def main():
     parser.add_argument("--novel", type=str, help="Novel ID to scrape")
     parser.add_argument("--start", type=int, help="Start chapter index")
     parser.add_argument("--end", type=int, help="End chapter index")
-    parser.add_argument("--workers", type=int, default=4, help="Concurrent workers")
+    parser.add_argument("--workers", type=int, default=3, help="Concurrent workers (default: 3)")
     parser.add_argument("--site", "--source", choices=["auto", "freewebnovel", "freenovel", "novelping"], default="auto", help="Source website to download from (default: auto)")
     parser.add_argument("--force", "--rescrape", "--overwrite", action="store_true", help="Force re-scrape and overwrite existing chapter bundles on disk")
+    parser.add_argument("--repair-gaps", action="store_true", help="Scan and fill any missing chapters inside existing incomplete bundles")
     parser.add_argument("--no-push", action="store_true", help="Do not push to GitHub")
     parser.add_argument("--all", action="store_true", help="Scrape all incomplete novels")
     parser.add_argument("--add-novel", type=str, help="Add a new novel by URL or slug (e.g. https://freewebnovel.com/novel/shadow-slave)")
     parser.add_argument("--edit", action="store_true", help="Interactively edit novel details before saving when using --add-novel")
 
     args = parser.parse_args()
+
+    if args.repair_gaps:
+        repair_site = args.site if args.site != "auto" else "freewebnovel"
+        repair_incomplete_bundles(
+            novel_id=args.novel,
+            workers=args.workers,
+            push=not args.no_push,
+            source_site=repair_site
+        )
+        return
 
     if args.add_novel:
         entry = parse_novel_input(args.add_novel)

@@ -9,7 +9,11 @@ Tested on: https://novelping.com/book/infinite-mana-in-the-apocalypse
 import re
 import json
 import time
+import random
+import threading
 import urllib.request
+import urllib.error
+from urllib.parse import urlparse
 from typing import Dict, List, Optional
 from bs4 import BeautifulSoup, Tag
 
@@ -18,14 +22,116 @@ try:
 except ImportError:
     from scripts.novel_cleaner import clean_chapter_data, clean_paragraph_text, is_ad_or_watermark_paragraph
 
+
+class DomainRateLimiter:
+    """Thread-safe adaptive per-domain rate limiter with shared HTTP 429 cooldown."""
+
+    def __init__(self):
+        self._lock = threading.Lock()
+        self._next_allowed: Dict[str, float] = {}
+        self._cooldown_until: Dict[str, float] = {}
+        self._min_interval: Dict[str, float] = {}
+        self._consecutive_ok: Dict[str, int] = {}
+        self._consecutive_429: Dict[str, int] = {}
+
+    def _base_interval(self, domain: str) -> float:
+        d = domain.lower()
+        if "freewebnovel" in d:
+            return 0.85
+        return 0.45
+
+    def get_interval(self, domain: str) -> float:
+        d = domain.lower()
+        with self._lock:
+            return self._min_interval.get(d, self._base_interval(d))
+
+    def wait_turn(self, domain: str):
+        """Reserves the next safe request slot for `domain` and sleeps outside the lock."""
+        d = domain.lower()
+        while True:
+            with self._lock:
+                now = time.monotonic()
+                cooldown = self._cooldown_until.get(d, 0.0)
+                if now < cooldown:
+                    sleep_for = cooldown - now
+                    is_cooldown = True
+                else:
+                    interval = self._min_interval.get(d, self._base_interval(d))
+                    next_slot = max(now, self._next_allowed.get(d, 0.0))
+                    jitter = random.uniform(0.05, 0.20)
+                    self._next_allowed[d] = next_slot + interval + jitter
+                    sleep_for = max(0.0, next_slot - now)
+                    is_cooldown = False
+
+            if is_cooldown:
+                time.sleep(min(sleep_for, 1.0))
+                continue
+
+            if sleep_for > 0:
+                time.sleep(sleep_for)
+                # Re-check if another thread triggered a cooldown while we waited for our slot
+                with self._lock:
+                    if time.monotonic() < self._cooldown_until.get(d, 0.0):
+                        continue
+            return
+
+    def record_429(self, domain: str, retry_after: Optional[str] = None) -> float:
+        """Records an HTTP 429 response, deduplicating simultaneous in-flight burst 429s."""
+        d = domain.lower()
+        with self._lock:
+            now = time.monotonic()
+            existing_cooldown = self._cooldown_until.get(d, 0.0)
+            if now < existing_cooldown:
+                # Another in-flight worker already initiated cooldown for this burst
+                return max(1.0, existing_cooldown - now)
+
+            self._consecutive_ok[d] = 0
+            streak = self._consecutive_429.get(d, 0) + 1
+            self._consecutive_429[d] = streak
+
+            # Adaptively slow pacing so subsequent chapters stop tripping rate limits
+            cur_interval = self._min_interval.get(d, self._base_interval(d))
+            self._min_interval[d] = min(2.2, cur_interval + 0.25)
+
+            parsed_retry = 0.0
+            if retry_after:
+                try:
+                    parsed_retry = float(retry_after)
+                except ValueError:
+                    parsed_retry = 0.0
+
+            exp_backoff = min(45.0, 4.0 * (1.8 ** min(streak - 1, 5)))
+            wait_sec = max(parsed_retry, exp_backoff) + random.uniform(0.5, 1.5)
+            new_cooldown = now + wait_sec
+            if new_cooldown > existing_cooldown:
+                self._cooldown_until[d] = new_cooldown
+            self._next_allowed[d] = max(self._next_allowed.get(d, 0.0), self._cooldown_until[d])
+            return wait_sec
+
+    def record_success(self, domain: str):
+        """Records a clean response; gradually relaxes pacing after sustained clean traffic."""
+        d = domain.lower()
+        with self._lock:
+            self._consecutive_429[d] = 0
+            ok = self._consecutive_ok.get(d, 0) + 1
+            self._consecutive_ok[d] = ok
+            if ok >= 20:
+                base = self._base_interval(d)
+                cur = self._min_interval.get(d, base)
+                if cur > base:
+                    self._min_interval[d] = max(base, cur - 0.10)
+                self._consecutive_ok[d] = 0
+
+
 class NovelScraper:
     def __init__(self, base_url: str = "https://novelping.com"):
         self.base_url = base_url.rstrip("/")
+        self.rate_limiter = DomainRateLimiter()
         self.headers = {
             "User-Agent": (
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                 "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/122.0.0.0 Safari/537.36"
+                "Chrome/124.0.0.0 Safari/537.36"
             ),
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
             "Accept-Language": "en-US,en;q=0.5",
@@ -41,28 +147,52 @@ class NovelScraper:
             re.compile(r"^\s*advertisement\s*$", re.IGNORECASE),
         ]
 
-    def _fetch_html(self, url: str, max_retries: int = 4) -> str:
-        """Fetch raw HTML with retry backoff and error handling."""
-        import urllib.error
+    def _fetch_html(self, url: str, max_retries: int = 5, raise_on_429: bool = False) -> str:
+        """Fetch raw HTML with adaptive per-domain rate limiting, 429 cooldown backoff, and retries."""
+        domain = urlparse(url).netloc.lower()
         for attempt in range(max_retries):
+            if domain:
+                self.rate_limiter.wait_turn(domain)
             try:
                 req = urllib.request.Request(url, headers=self.headers)
                 with urllib.request.urlopen(req, timeout=45) as response:
-                    return response.read().decode("utf-8", errors="replace")
+                    html = response.read().decode("utf-8", errors="replace")
+                    if domain:
+                        self.rate_limiter.record_success(domain)
+                    return html
             except urllib.error.HTTPError as e:
                 if e.code == 429:
-                    # Raise immediately to let caller fall back to alternate mirror domain
+                    retry_after = e.headers.get("Retry-After") if e.headers else None
+                    wait_time = self.rate_limiter.record_429(domain, retry_after) if domain else ((attempt + 1) * 5.0)
+                    if raise_on_429:
+                        # Caller has an alternate mirror domain to try immediately
+                        raise
+                    if attempt < max_retries - 1:
+                        pacing = self.rate_limiter.get_interval(domain) if domain else 1.0
+                        print(f"  [HTTP 429 Rate Limit] Cooling down {domain} for {wait_time:.1f}s (pacing={pacing:.2f}s/req, retry {attempt+1}/{max_retries})...", flush=True)
+                        continue
+                    else:
+                        raise
+                elif e.code == 404:
+                    # Non-existent chapter URL; don't waste retries on the same URL
                     raise
+                elif e.code == 403:
+                    if attempt < max_retries - 1:
+                        wait_time = (attempt + 1) * 3.0 + random.uniform(0.5, 1.5)
+                        print(f"  [HTTP 403] Backing off {wait_time:.1f}s ({attempt+1}/{max_retries}) for {url}...", flush=True)
+                        time.sleep(wait_time)
+                    else:
+                        raise
                 elif attempt < max_retries - 1:
-                    wait_time = (attempt + 1) * 2
-                    print(f"  [HTTP {e.code}] Retrying in {wait_time}s ({attempt+1}/{max_retries}) for {url}...")
+                    wait_time = (attempt + 1) * 2.0 + random.uniform(0.2, 0.8)
+                    print(f"  [HTTP {e.code}] Retrying in {wait_time:.1f}s ({attempt+1}/{max_retries}) for {url}...", flush=True)
                     time.sleep(wait_time)
                 else:
                     raise
             except Exception as e:
                 if attempt < max_retries - 1:
-                    wait_time = (attempt + 1) * 2
-                    print(f"  [Network Error: {e}] Retrying in {wait_time}s ({attempt+1}/{max_retries}) for {url}...")
+                    wait_time = (attempt + 1) * 2.0 + random.uniform(0.2, 0.8)
+                    print(f"  [Network Error: {e}] Retrying in {wait_time:.1f}s ({attempt+1}/{max_retries}) for {url}...", flush=True)
                     time.sleep(wait_time)
                 else:
                     raise
@@ -205,9 +335,9 @@ class NovelScraper:
         }
         return clean_chapter_data(raw_chapter)
 
-    def fetch_chapter(self, chapter_url: str) -> Dict:
+    def fetch_chapter(self, chapter_url: str, max_retries: int = 5, raise_on_429: bool = False) -> Dict:
         """Downloads and processes a single chapter."""
-        html = self._fetch_html(chapter_url)
+        html = self._fetch_html(chapter_url, max_retries=max_retries, raise_on_429=raise_on_429)
         return self.clean_chapter_content(html)
 
 
