@@ -718,5 +718,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 413,
     "description": "Imported novel: Investing In My Crippled Wife Every Return Makes Me Stronger."
+  },
+  {
+    "id": "legendary-broken-player-vrmmorpg",
+    "title": "Legendary Broken Player Vrmmorpg",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/legendary-broken-player-vrmmorpg.jpg",
+    "source_url": "https://novelping.com/book/legendary-broken-player-vrmmorpg",
+    "data_path": "data/legendary-broken-player-vrmmorpg/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 914,
+    "description": "Imported novel: Legendary Broken Player Vrmmorpg."
   }
 ]
