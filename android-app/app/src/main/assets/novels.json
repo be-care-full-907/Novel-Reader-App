@@ -742,5 +742,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 3161,
     "description": "Imported novel: I Have A Cultivation World."
+  },
+  {
+    "id": "murim-login",
+    "title": "Murim Login",
+    "author": "Zerobic (제로빅)",
+    "cover_url": "https://raw.githubusercontent.com/jimzrt/murim-login/master/cover.jpg",
+    "source_url": "https://murim-login.com/",
+    "data_path": "data/murim-login/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 1191,
+    "description": "An era where hunters raid gates. Jin Taekyung, a low-rank hunter struggling to survive, finds a mysterious VR capsule that transports him into the harsh, martial world of Murim."
   }
 ]
