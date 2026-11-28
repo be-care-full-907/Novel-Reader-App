@@ -754,5 +754,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 1191,
     "description": "An era where hunters raid gates. Jin Taekyung, a low-rank hunter struggling to survive, finds a mysterious VR capsule that transports him into the harsh, martial world of Murim."
+  },
+  {
+    "id": "rebirth-of-the-nameless-immortal-god",
+    "title": "Rebirth Of The Nameless Immortal God",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/rebirth-of-the-nameless-immortal-god.jpg",
+    "source_url": "https://novelping.com/book/rebirth-of-the-nameless-immortal-god",
+    "data_path": "data/rebirth-of-the-nameless-immortal-god/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 2331,
+    "description": "Imported novel: Rebirth Of The Nameless Immortal God."
   }
 ]
