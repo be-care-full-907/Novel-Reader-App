@@ -766,5 +766,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 2331,
     "description": "Imported novel: Rebirth Of The Nameless Immortal God."
+  },
+  {
+    "id": "dragon-marked-war-god",
+    "title": "Dragon Marked War God",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/dragon-marked-war-god.jpg",
+    "source_url": "https://novelping.com/book/dragon-marked-war-god",
+    "data_path": "data/dragon-marked-war-god/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 3059,
+    "description": "Imported novel: Dragon Marked War God."
   }
 ]
