@@ -730,5 +730,17 @@
     "start_bundle_chapter": 1,
     "total_chapters": 914,
     "description": "Imported novel: Legendary Broken Player Vrmmorpg."
+  },
+  {
+    "id": "i-have-a-cultivation-world",
+    "title": "I Have A Cultivation World",
+    "author": "Web Novel",
+    "cover_url": "https://images.novelping.com/novel/i-have-a-cultivation-world.jpg",
+    "source_url": "https://novelping.com/book/i-have-a-cultivation-world",
+    "data_path": "data/i-have-a-cultivation-world/",
+    "bundled_file": "chapters_1_50.json",
+    "start_bundle_chapter": 1,
+    "total_chapters": 3161,
+    "description": "Imported novel: I Have A Cultivation World."
   }
 ]
